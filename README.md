@@ -7,7 +7,16 @@
 ## 实际完成情况（数字均来自仓库内的真实输出）
 
 <!-- RESULTS:START -->
-（由 `scripts/07_results_table.py` 生成，见 [docs/RESULTS.md](docs/RESULTS.md)）
+* 共核查 **26** 个 LoC 候选，**24** 首通过版权核查并完成修复，**2** 首被排除（理由见 [docs/RESULTS.md](docs/RESULTS.md)）。
+* 录制年份 1901–1921；录制城市（按 LoC 记录）：Camden, New York, Philadelphia。
+* Median surface-noise level: **-32.5 dBFS -> -45.1 dBFS** (median change -9.8 dB).
+* Median impulses/min (AR detector, k=8): **1485 -> 80**.
+* Samples interpolated across clicks: median **2.14%**, max 3.35% per track.
+* Energy removed in 300-3000 Hz relative to the original: median **-21.7 dB** (range -33.8 to -10.9 dB).
+* Tracks with a 50/60 Hz peak flagged and notched: 1. Speed/pitch corrections applied: 0. Generative/AI processing: none.
+
+
+逐首数据见 [docs/RESULTS.md](docs/RESULTS.md)。
 <!-- RESULTS:END -->
 
 ## 文件夹结构

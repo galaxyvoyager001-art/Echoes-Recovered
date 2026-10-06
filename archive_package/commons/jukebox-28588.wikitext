@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Tiger rag - Original Dixieland Jazz Band. Jazz/dance band. Recorded 1918-03-25 in New York, United States. Victor 18472, matrix B-21701 (Matrix ID), take 3. Restored version (click interpolation, noise reduction, band-limited filtering, bounded EQ; no generative processing). Original transfer: Library of Congress, National Jukebox.}}
+|date=1918-03-25 (recording); 2026-10-06 (restoration)
+|source=Library of Congress, National Jukebox: https://www.loc.gov/item/jukebox-28588/ ; restoration code and logs: https://github.com/galaxyvoyager001-art/Echoes-Recovered
+|author=Original Dixieland Jazz Band (performer); Victor (record company); restoration: Echoes Recovered project
+|permission=Credit line requested by the Library of Congress: "Library of Congress, National Jukebox."
+|other versions=Unrestored LoC transfer: https://www.loc.gov/item/jukebox-28588/
+}}
+
+=={{int:license-header}}==
+{{PD-US-record-expired}}
+<!-- Check on Commons before uploading: the work must also be PD in its source country (these discs were first published in the US). -->
+
+[[Category:National Jukebox]]
+[[Category:1918 sound recordings]]

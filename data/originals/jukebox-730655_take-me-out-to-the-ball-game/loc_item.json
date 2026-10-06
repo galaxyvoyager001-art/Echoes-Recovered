@@ -1,0 +1,1509 @@
+{
+ "articles_and_essays": [
+  {
+   "score": 7.6075335,
+   "title": "Finding 250 Years of American Innovation in The Source",
+   "url": "https://blogs.loc.gov/families/2026/07/finding-250-years-of-american-innovation-in-the-source/"
+  }
+ ],
+ "cite_this": {
+  "apa": "Von Tilzer, A., Norworth, J. &amp; Hindermyer, H. (1908) <cite>Take Me Out to the Ball Game</cite>. [Audio] Retrieved from the Library of Congress, https://www.loc.gov/item/jukebox-730655/.",
+  "chicago": "Von Tilzer, Albert, Jack Norworth, and Harvey Hindermyer. <cite>Take Me Out to the Ball Game</cite>. 1908. Audio. https://www.loc.gov/item/jukebox-730655/.",
+  "mla": "Von Tilzer, Albert, Jack Norworth, and Harvey Hindermyer. <cite>Take Me Out to the Ball Game</cite>. 1908. Audio. Retrieved from the Library of Congress, &lt;www.loc.gov/item/jukebox-730655/&gt;."
+ },
+ "item": {
+  "_version_": 1878221544086306816,
+  "access_restricted": false,
+  "aka": [
+   "http://www.loc.gov/item/jukebox-730655/",
+   "http://www.loc.gov/resource/jukebox-730655.0/",
+   "http://www.loc.gov/resource/jukebox-730655.1/",
+   "http://www.loc.gov/resource/jukebox-730655.0",
+   "http://www.loc.gov/resource/jukebox-730655.1"
+  ],
+  "audio_type": "Vocal",
+  "campaigns": [],
+  "contributor_composer": [
+   "von tilzer, albert"
+  ],
+  "contributor_lyricist": [
+   "norworth, jack"
+  ],
+  "contributor_names": [
+   "Von Tilzer, Albert -- Composer -- Composer",
+   "Norworth, Jack -- Lyricist -- Lyricist",
+   "Hindermyer, Harvey -- Vocalist -- Tenor Vocal"
+  ],
+  "contributor_primary": [
+   "hindermyer, harvey"
+  ],
+  "contributor_vocalist": [
+   "hindermyer, harvey"
+  ],
+  "contributors": [
+   {
+    "hindermyer, harvey": "https://www.loc.gov/search/?fa=contributor:hindermyer,+harvey&fo=json"
+   },
+   {
+    "norworth, jack": "https://www.loc.gov/search/?fa=contributor:norworth,+jack&fo=json"
+   },
+   {
+    "von tilzer, albert": "https://www.loc.gov/search/?fa=contributor:von+tilzer,+albert&fo=json"
+   }
+  ],
+  "contributors_composer": [
+   {
+    "von tilzer, albert": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_composer:von+tilzer,+albert&fo=json"
+   }
+  ],
+  "contributors_lyricist": [
+   {
+    "norworth, jack": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_lyricist:norworth,+jack&fo=json"
+   }
+  ],
+  "contributors_primary": [
+   {
+    "hindermyer, harvey": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_primary:hindermyer,+harvey&fo=json"
+   }
+  ],
+  "contributors_vocalist": [
+   {
+    "hindermyer, harvey": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_vocalist:hindermyer,+harvey&fo=json"
+   }
+  ],
+  "date": "1908-07-31",
+  "dates": [
+   {
+    "1908-07-31": "https://www.loc.gov/search/?dates=1908-07-31/1908-07-31&fo=json"
+   }
+  ],
+  "description": [
+   "Columbia 3917. Matrix/Take: 3917/2."
+  ],
+  "digitized": true,
+  "display_offsite": true,
+  "extract_timestamp": "2026-10-05T06:28:28.120Z",
+  "extract_urls": [
+   "http://www.loc.gov/item/jukebox-730655#nationaljukebox"
+  ],
+  "file_id": [
+   "ucsb_col_3917_01_t3917_02"
+  ],
+  "format": [
+   {
+    "sound recording": "https://www.loc.gov/search/?fa=original_format:sound+recording&fo=json"
+   }
+  ],
+  "group": [
+   "nationaljukebox",
+   "national-jukebox"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/item/jukebox-730655/",
+  "iiif_manifest_url": "https://www.loc.gov/item/jukebox-730655/manifest.json",
+  "image_url": [
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_3917_01_t3917_02:ucsb_col_3917_01_t3917_02/full/pct:12.5/0/default.jpg#h=398&w=398",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_3917_01_t3917_02:ucsb_col_3917_01_t3917_02/full/pct:25/0/default.jpg#h=796&w=796",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_3917_01_t3917_02:ucsb_col_3917_01_t3917_02/full/pct:50/0/default.jpg#h=1592&w=1592",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_3917_01_t3917_02:ucsb_col_3917_01_t3917_02/full/pct:100/0/default.jpg#h=3185&w=3185"
+  ],
+  "index": 1,
+  "item": {
+   "audio_type": "Vocal",
+   "contributors": [
+    "Von Tilzer, Albert -- Composer -- Composer",
+    "Norworth, Jack -- Lyricist -- Lyricist",
+    "Hindermyer, Harvey -- Vocalist -- Tenor Vocal"
+   ],
+   "file_id": [
+    "ucsb_col_3917_01_t3917_02"
+   ],
+   "language": "English",
+   "media_size": "10-in.",
+   "profile": "jukebox",
+   "recording_catalog_number": "3917",
+   "recording_date": "1908-07-31",
+   "recording_label": "Columbia",
+   "recording_matrix_number": "3917 (Matrix ID)",
+   "recording_repository": "Source of original recording: Department of Special Collections, Davidson Library, University of California, Santa Barbara.",
+   "recording_take_id": 730655,
+   "recording_take_number": "2",
+   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+   "summary": "Male vocal solo, with orchestra"
+  },
+  "language": [
+   "english"
+  ],
+  "languages": [
+   {
+    "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+   }
+  ],
+  "location": [
+   "new york",
+   "united states"
+  ],
+  "locations": [
+   {
+    "new york": "https://www.loc.gov/search/?fa=location:new+york&fo=json"
+   },
+   {
+    "united states": "https://www.loc.gov/search/?fa=location:united+states&fo=json"
+   }
+  ],
+  "media_size": "10-in.",
+  "mime_type": [
+   "audio/mpeg",
+   "audio/wav",
+   "image/tif",
+   "image/jpeg"
+  ],
+  "online_format": [
+   "audio",
+   "image"
+  ],
+  "original_format": [
+   "sound recording"
+  ],
+  "other_formats": [],
+  "partof": [
+   {
+    "count": 10024,
+    "title": "department of special collections, davidson library, university of california, santa barbara",
+    "url": "https://www.loc.gov/search/?fa=partof:department+of+special+collections,+davidson+library,+university+of+california,+santa+barbara&fo=json"
+   },
+   {
+    "count": 20273,
+    "title": "national jukebox",
+    "url": "https://www.loc.gov/collections/national-jukebox/?fo=json"
+   },
+   {
+    "count": 20496,
+    "title": "recorded sound research center",
+    "url": "https://www.loc.gov/search/?fa=partof:recorded+sound+research+center&fo=json"
+   }
+  ],
+  "partof_repository": [
+   "department of special collections, davidson library, university of california, santa barbara"
+  ],
+  "profile": "jukebox",
+  "recording_catalog_number": "3917",
+  "recording_date": "1908-07-31",
+  "recording_label": "Columbia",
+  "recording_matrix_number": "3917 (Matrix ID)",
+  "recording_repository": "Source of original recording: Department of Special Collections, Davidson Library, University of California, Santa Barbara.",
+  "recording_take_id": 730655,
+  "recording_take_number": "2",
+  "resources": [
+   {
+    "files": 1,
+    "media": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_3917_01_t3917_02:ucsb_col_3917_01_t3917_02/full/full/0/full/default.mp3",
+    "url": "https://www.loc.gov/resource/jukebox-730655.0"
+   },
+   {
+    "files": 1,
+    "image": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_3917_01_t3917_02:ucsb_col_3917_01_t3917_02/full/pct:100/0/default.jpg",
+    "mimetype": "image/jpeg",
+    "url": "https://www.loc.gov/resource/jukebox-730655.1"
+   }
+  ],
+  "rights": [
+   "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
+  ],
+  "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+  "score": 15.331501,
+  "shard": "01",
+  "shelf_id": "Columbia 3917",
+  "site": [
+   "nationaljukebox"
+  ],
+  "source_modified": "2000-01-01T12:00:00Z",
+  "subject": [
+   "vocal",
+   "columbia"
+  ],
+  "subject_category": [
+   "vocal"
+  ],
+  "subject_label": [
+   "columbia"
+  ],
+  "subjects": [
+   {
+    "columbia": "https://www.loc.gov/search/?fa=subject:columbia&fo=json"
+   },
+   {
+    "vocal": "https://www.loc.gov/search/?fa=subject:vocal&fo=json"
+   }
+  ],
+  "subjects_category": [
+   {
+    "vocal": "https://www.loc.gov/collections/national-jukebox/?fa=subject_category:vocal&fo=json"
+   }
+  ],
+  "subjects_label": [
+   {
+    "columbia": "https://www.loc.gov/collections/national-jukebox/?fa=subject_label:columbia&fo=json"
+   }
+  ],
+  "summary": "Male vocal solo, with orchestra",
+  "timestamp": "2026-10-05T14:47:27.106Z",
+  "title": "Take me out to the ball game",
+  "type": [
+   "sound recording-musical"
+  ],
+  "url": "https://www.loc.gov/item/jukebox-730655/"
+ },
+ "more_like_this": [
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-646284/",
+    "http://www.loc.gov/resource/jukebox-646284.0/",
+    "http://www.loc.gov/resource/jukebox-646284.1/",
+    "http://www.loc.gov/resource/jukebox-646284.0",
+    "http://www.loc.gov/resource/jukebox-646284.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "norworth, jack",
+    "jones, ada",
+    "von tilzer, albert"
+   ],
+   "date": "1911-09-30",
+   "dates": [
+    "1911-09-30"
+   ],
+   "description": [
+    "Columbia A1101. Matrix/Take: 19579/2."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T03:58:19.475Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-646284/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1101_01_19579_02:ucsb_col_a1101_01_19579_02/full/pct:12.5/0/default.jpg#h=373&w=373",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1101_01_19579_02:ucsb_col_a1101_01_19579_02/full/pct:25/0/default.jpg#h=746&w=746",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1101_01_19579_02:ucsb_col_a1101_01_19579_02/full/pct:50/0/default.jpg#h=1492&w=1492",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1101_01_19579_02:ucsb_col_a1101_01_19579_02/full/pct:100/0/default.jpg#h=2985&w=2985"
+   ],
+   "index": 1,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "new york",
+    "united states"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "partof": [
+    "department of special collections, davidson library, university of california, santa barbara",
+    "recorded sound research center",
+    "national jukebox"
+   ],
+   "score": 36.813736,
+   "shelf_id": "Columbia A1101",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "popular music",
+    "vocal",
+    "columbia"
+   ],
+   "timestamp": "2026-10-05T14:26:30.107Z",
+   "title": "You will have to sing an Irish song",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-646284/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-729461/",
+    "http://www.loc.gov/resource/jukebox-729461.0/",
+    "http://www.loc.gov/resource/jukebox-729461.1/",
+    "http://www.loc.gov/resource/jukebox-729461.0",
+    "http://www.loc.gov/resource/jukebox-729461.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "norworth, jack",
+    "von tilzer, albert",
+    "regal male quartette [columbia male quartette]"
+   ],
+   "date": "1907-07-31",
+   "dates": [
+    "1907-07-31"
+   ],
+   "description": [
+    "Columbia 3669. Matrix/Take: 3669/1."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T06:27:37.649Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-729461/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_3669_01_t3669_01:ucsb_col_3669_01_t3669_01/full/pct:12.5/0/default.jpg#h=392&w=392",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_3669_01_t3669_01:ucsb_col_3669_01_t3669_01/full/pct:25/0/default.jpg#h=784&w=784",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_3669_01_t3669_01:ucsb_col_3669_01_t3669_01/full/pct:50/0/default.jpg#h=1568&w=1568",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_3669_01_t3669_01:ucsb_col_3669_01_t3669_01/full/pct:100/0/default.jpg#h=3137&w=3137"
+   ],
+   "index": 2,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "new york",
+    "united states"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "partof": [
+    "department of special collections, davidson library, university of california, santa barbara",
+    "recorded sound research center",
+    "national jukebox"
+   ],
+   "score": 36.813736,
+   "shelf_id": "Columbia 3669",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "vocal",
+    "columbia"
+   ],
+   "timestamp": "2026-10-05T14:47:04.644Z",
+   "title": "Honey boy",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-729461/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/6196",
+    "http://www.loc.gov/item/jukebox-253727/",
+    "http://www.loc.gov/resource/jukebox-253727.0/",
+    "http://www.loc.gov/resource/jukebox-253727.1/",
+    "http://www.loc.gov/resource/jukebox-253727.0",
+    "http://www.loc.gov/resource/jukebox-253727.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "norworth, jack",
+    "bayes, nora",
+    "von tilzer, albert"
+   ],
+   "date": "1910-05-20",
+   "dates": [
+    "1910-05-20"
+   ],
+   "description": [
+    "Victor 70019. Matrix/Take: C-8998/3."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T02:56:54.512Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-253727/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_70019_01_c8998_03:ucsb_victor_70019_01_c8998_03/full/pct:25/0/default.jpg#h=300&w=300",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_70019_01_c8998_03:ucsb_victor_70019_01_c8998_03/full/pct:50/0/default.jpg#h=600&w=600",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_70019_01_c8998_03:ucsb_victor_70019_01_c8998_03/full/pct:100/0/default.jpg#h=1200&w=1200"
+   ],
+   "index": 3,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "new york",
+    "united states"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "partof": [
+    "department of special collections, davidson library, university of california, santa barbara",
+    "recorded sound research center",
+    "national jukebox"
+   ],
+   "score": 31.909153,
+   "shelf_id": "Victor 70019",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "popular music",
+    "vocal",
+    "victor",
+    "ethnic characterizations"
+   ],
+   "timestamp": "2026-10-05T14:08:54.108Z",
+   "title": "Rosa Rosetta",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-253727/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-730201/",
+    "http://www.loc.gov/resource/jukebox-730201.0/",
+    "http://www.loc.gov/resource/jukebox-730201.1/",
+    "http://www.loc.gov/resource/jukebox-730201.0",
+    "http://www.loc.gov/resource/jukebox-730201.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "ross, adrian",
+    "lehár, franz",
+    "hindermyer, harvey"
+   ],
+   "date": "1908-01-31",
+   "dates": [
+    "1908-01-31"
+   ],
+   "description": [
+    "Columbia 3761. Matrix/Take: 3761/2."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T06:28:28.120Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-730201/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_3761_01_t3761_02:ucsb_col_3761_01_t3761_02/full/pct:12.5/0/default.jpg#h=358&w=358",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_3761_01_t3761_02:ucsb_col_3761_01_t3761_02/full/pct:25/0/default.jpg#h=717&w=717",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_3761_01_t3761_02:ucsb_col_3761_01_t3761_02/full/pct:50/0/default.jpg#h=1434&w=1434",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_3761_01_t3761_02:ucsb_col_3761_01_t3761_02/full/pct:100/0/default.jpg#h=2868&w=2868"
+   ],
+   "index": 4,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "new york",
+    "united states"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Lustige Witwe. Da geh' ich zu Maxim",
+    "The merry widow"
+   ],
+   "partof": [
+    "department of special collections, davidson library, university of california, santa barbara",
+    "recorded sound research center",
+    "national jukebox"
+   ],
+   "score": 30.887835,
+   "shelf_id": "Columbia 3761",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "vocal",
+    "columbia"
+   ],
+   "timestamp": "2026-10-05T14:47:04.644Z",
+   "title": "Maxims",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-730201/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-766955/",
+    "http://www.loc.gov/resource/jukebox-766955.0/",
+    "http://www.loc.gov/resource/jukebox-766955.1/",
+    "http://www.loc.gov/resource/jukebox-766955.0",
+    "http://www.loc.gov/resource/jukebox-766955.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "shields, ren",
+    "hindermyer, harvey",
+    "evans, george"
+   ],
+   "date": "1908-04-30",
+   "dates": [
+    "1908-04-30"
+   ],
+   "description": [
+    "Columbia 3900. Matrix/Take: 3900/1."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T07:25:48.580Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-766955/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_3900_01_t3900_01:ucsb_col_3900_01_t3900_01/full/pct:12.5/0/default.jpg#h=388&w=388",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_3900_01_t3900_01:ucsb_col_3900_01_t3900_01/full/pct:25/0/default.jpg#h=777&w=777",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_3900_01_t3900_01:ucsb_col_3900_01_t3900_01/full/pct:50/0/default.jpg#h=1554&w=1554",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_3900_01_t3900_01:ucsb_col_3900_01_t3900_01/full/pct:100/0/default.jpg#h=3108&w=3108"
+   ],
+   "index": 5,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "new york",
+    "united states"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "The land where nobody goes home"
+   ],
+   "partof": [
+    "department of special collections, davidson library, university of california, santa barbara",
+    "recorded sound research center",
+    "national jukebox"
+   ],
+   "score": 30.887835,
+   "shelf_id": "Columbia 3900",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "vocal",
+    "columbia"
+   ],
+   "timestamp": "2026-10-05T14:52:23.498Z",
+   "title": "Come to the land of Bohemia",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-766955/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-733842/",
+    "http://www.loc.gov/resource/jukebox-733842.0/",
+    "http://www.loc.gov/resource/jukebox-733842.1/",
+    "http://www.loc.gov/resource/jukebox-733842.0",
+    "http://www.loc.gov/resource/jukebox-733842.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "hindermyer, harvey",
+    "roden, robert f.",
+    "helf, j. fred",
+    "cahalin, william"
+   ],
+   "date": "1910-12-31",
+   "dates": [
+    "1910-12-31"
+   ],
+   "description": [
+    "Columbia A952. Matrix/Take: 4940/3."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T06:32:26.792Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-733842/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a952_01_t4940_03:ucsb_col_a952_01_t4940_03/full/pct:12.5/0/default.jpg#h=354&w=354",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a952_01_t4940_03:ucsb_col_a952_01_t4940_03/full/pct:25/0/default.jpg#h=708&w=708",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a952_01_t4940_03:ucsb_col_a952_01_t4940_03/full/pct:50/0/default.jpg#h=1416&w=1416",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a952_01_t4940_03:ucsb_col_a952_01_t4940_03/full/pct:100/0/default.jpg#h=2833&w=2833"
+   ],
+   "index": 6,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "new york",
+    "united states"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "partof": [
+    "department of special collections, davidson library, university of california, santa barbara",
+    "recorded sound research center",
+    "national jukebox"
+   ],
+   "score": 30.887835,
+   "shelf_id": "Columbia A952",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "popular music",
+    "vocal",
+    "columbia"
+   ],
+   "timestamp": "2026-10-05T14:47:27.106Z",
+   "title": "When a boy from old New Hampshire loves a girl from Tennessee",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-733842/"
+  }
+ ],
+ "notice": {
+  "info": "<strong>COLUMBUS DAY HOLIDAY:</strong> On Monday, October 12, 2026, The Jefferson Building Great Hall and exhibitions will be open from 10 a.m. - 5 p.m. to guests with timed-entry passes. The Main Reading Room will be open to visitors, no research or collections services available. All other reading rooms, the Madison and Adams Buildings will be CLOSED to the public. Regularly scheduled access resumes on Tuesday, October 13. \n",
+  "status": "production"
+ },
+ "options": {
+  "access_group": [
+   ""
+  ],
+  "access_group_raw": "",
+  "all": null,
+  "api_version": "1",
+  "app_context": null,
+  "application_shim": null,
+  "application_version": "$Revision$",
+  "attribute": null,
+  "attribute!": null,
+  "attribute_map": null,
+  "cache_tags": [
+   "nationaljukebox",
+   "national-jukebox",
+   "paprika-music",
+   "catalog-split-07",
+   "catalog",
+   "main-catalog-split-07",
+   "catalog-split-01",
+   "main-catalog-split-01",
+   "catalog-split-06",
+   "main-catalog-split-06",
+   "catalog-split-02",
+   "main-catalog-split-02",
+   "catalog-split-05",
+   "main-catalog-split-05"
+  ],
+  "callback": null,
+  "clip": null,
+  "clip_image_width": null,
+  "clip_rotation": null,
+  "content_filter": null,
+  "content_replacement": "",
+  "count": null,
+  "dates": null,
+  "default_count": 25,
+  "delimiter": null,
+  "digital_id": null,
+  "display_level": null,
+  "distance": null,
+  "downloadOption": null,
+  "duration": 4.8293163776397705,
+  "embed": [],
+  "embed!": [],
+  "error_response_status": null,
+  "excludeTerms": null,
+  "facetLimits": "",
+  "facetPrefix": null,
+  "facet_count": null,
+  "facet_style": null,
+  "field": null,
+  "form_facets": [
+   {
+    "field": "subject_label",
+    "select": "multiple"
+   },
+   {
+    "field": "subject_category",
+    "select": "multiple"
+   },
+   {
+    "field": "language",
+    "select": "multiple"
+   }
+  ],
+  "format": "json",
+  "host": "www.loc.gov",
+  "ical": false,
+  "id": "jukebox-730655/",
+  "iiif": false,
+  "include_facets": [
+   {
+    "field": "original-format"
+   },
+   {
+    "field": "partof_repository",
+    "label": "Repository"
+   },
+   {
+    "field": "subject_label",
+    "label": "Label"
+   },
+   {
+    "field": "dates"
+   },
+   {
+    "field": "subject_genre",
+    "label": "Genre"
+   },
+   {
+    "closed": true,
+    "field": "subject_target_audience",
+    "label": "Target Audience"
+   },
+   {
+    "closed": true,
+    "field": "subject_category",
+    "label": "Category"
+   },
+   {
+    "closed": true,
+    "field": "location"
+   },
+   {
+    "closed": true,
+    "field": "contributor"
+   },
+   {
+    "closed": true,
+    "field": "contributor_vocalist",
+    "label": "Vocalist"
+   },
+   {
+    "closed": true,
+    "field": "contributor_composer",
+    "label": "Composer"
+   },
+   {
+    "closed": true,
+    "field": "contributor_lyricist",
+    "label": "Lyricist"
+   },
+   {
+    "closed": true,
+    "field": "contributor_author",
+    "label": "Author"
+   },
+   {
+    "closed": true,
+    "field": "contributor_performer",
+    "label": "Performer"
+   },
+   {
+    "closed": true,
+    "field": "contributor_musical_group",
+    "label": "Musical Group"
+   },
+   {
+    "closed": true,
+    "field": "subject"
+   },
+   {
+    "closed": true,
+    "field": "language"
+   },
+   {
+    "field": "access-restricted"
+   }
+  ],
+  "index": null,
+  "inputEncoding": "UTF-8",
+  "item": null,
+  "items": null,
+  "keys": null,
+  "language": null,
+  "latlong": null,
+  "method": "GET",
+  "newSearch": null,
+  "new_clip_url": false,
+  "onsite": false,
+  "operator": null,
+  "outputEncoding": "UTF-8",
+  "page_campaigns": [],
+  "path_info": "/item/jukebox-730655/",
+  "port": "443",
+  "proxypath": null,
+  "query_string": "fo=json",
+  "redirect_proxy": false,
+  "redirect_to_item": null,
+  "referer": "",
+  "region": "",
+  "release_id": 123456789,
+  "request_host": "www.loc.gov",
+  "request_params": {
+   "fo": [
+    "json"
+   ]
+  },
+  "request_url": "https://www.loc.gov/item/jukebox-730655/?fo=json",
+  "resource": "",
+  "resource_sequence": null,
+  "scheme": "https",
+  "searchIn": null,
+  "searchTerms": "",
+  "segments": null,
+  "shards": [
+   "01"
+  ],
+  "site_date_range": "1900-01-01/1925-12-31",
+  "site_defaults": [],
+  "site_id": null,
+  "site_type": null,
+  "solrQuery": "",
+  "sortBy": null,
+  "sortOrder": null,
+  "startPage": null,
+  "style": null,
+  "suggested": null,
+  "target": null,
+  "template": "layouts/item/layout",
+  "timestamp": 1791308116.2407596,
+  "tz_aware": null,
+  "unionFacets": "",
+  "webcast_permalink": null
+ },
+ "related_items": [
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://lccn.loc.gov/2005561767",
+    "http://www.loc.gov/item/2005561767/",
+    "http://www.loc.gov/resource/music.musbaseball-100107/",
+    "https://hdl.loc.gov/loc.music/2005561767",
+    "http://www.loc.gov/resource/2005561767/"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "norworth, jack",
+    "beeson, lulu",
+    "von tilzer, albert",
+    "friganza, trixie"
+   ],
+   "date": "1908",
+   "dates": [
+    "1908"
+   ],
+   "description": [
+    "For voice and piano. Caption title. LC copy 1 and 2 lack title pages LC copy 3 has portrait of Trixie Friganza on cover. LC copy 4 has portrait of Jack Norworth on cover. LC copy 5 has portrait of Lulu Beeson on cover. LC copy 6 has portrait of Sam Williams on cover. LC copy 7 has portrait of Nora Bayes on cover. LC copy 8 has full-length of image of Trixie Friganza on cover."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2025-06-26T07:48:00.483Z",
+   "group": [
+    "paprika-music",
+    "catalog-split-07",
+    "catalog",
+    "main-catalog-split-07"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/2005561767/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:music:musbaseball-100107:musbaseball-100107.0001/full/pct:6.25/0/default.jpg",
+    "https://tile.loc.gov/image-services/iiif/public:music:musbaseball-100107:musbaseball-100107.0001/full/pct:6.25/0/default.jpg#h=361&w=280",
+    "https://tile.loc.gov/image-services/iiif/public:music:musbaseball-100107:musbaseball-100107.0001/full/pct:12.5/0/default.jpg#h=723&w=561",
+    "https://tile.loc.gov/image-services/iiif/public:music:musbaseball-100107:musbaseball-100107.0001/full/pct:25.0/0/default.jpg#h=1447&w=1123",
+    "https://tile.loc.gov/image-services/iiif/public:music:musbaseball-100107:musbaseball-100107.0001/full/pct:50.0/0/default.jpg#h=2895&w=2246",
+    "https://tile.loc.gov/image-services/iiif/public:music:musbaseball-100107:musbaseball-100107.0001/full/pct:100.0/0/default.jpg#h=5790&w=4493"
+   ],
+   "index": 1,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "united states"
+   ],
+   "mime_type": [
+    "image/jpeg",
+    "application/pdf",
+    "image/jp2"
+   ],
+   "number": [
+    "2023-10-17t14:04:50",
+    "http://www.loc.gov/resource/musbaseball.100107.0",
+    "http://www.loc.gov/item/2005561767",
+    "http://www.loc.gov/item/musbaseball.100107",
+    "2005561767"
+   ],
+   "online_format": [
+    "image",
+    "pdf"
+   ],
+   "original_format": [
+    "notated music"
+   ],
+   "partof": [
+    "baseball sheet music",
+    "catalog",
+    "music division"
+   ],
+   "score": 13.285571,
+   "shelf_id": "https://repo.loc.gov/access/public/music/musbaseball-100107/.resource.json",
+   "site": [
+    "catalog"
+   ],
+   "subject": [
+    "popular music",
+    "songs and music",
+    "united states",
+    "baseball"
+   ],
+   "timestamp": "2025-06-26T08:36:49.927Z",
+   "title": "Take me out to the ball game",
+   "type": [
+    "notated music"
+   ],
+   "url": "https://www.loc.gov/item/2005561767/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://lccn.loc.gov/2023796112",
+    "http://www.loc.gov/item/2023796112/",
+    "http://www.loc.gov/resource/music.musihas-200033481/",
+    "https://hdl.loc.gov/loc.music/ihas.200033481",
+    "http://www.loc.gov/resource/ihas.200033481/"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "norworth, jack",
+    "von tilzer, albert"
+   ],
+   "date": "1908",
+   "dates": [
+    "1908"
+   ],
+   "description": [
+    "Title page: Dedicated to J.A. Sternad. Record created through migration from the Performing Arts Encyclopedia Database."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2025-07-19T12:06:34.148Z",
+   "group": [
+    "paprika-music",
+    "catalog-split-01",
+    "catalog",
+    "main-catalog-split-01"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/2023796112/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:music:musihas-200033481:musihas-200033481.0001/full/pct:12.5/0/default.jpg",
+    "https://tile.loc.gov/image-services/iiif/public:music:musihas-200033481:musihas-200033481.0001/full/pct:12.5/0/default.jpg#h=501&w=384",
+    "https://tile.loc.gov/image-services/iiif/public:music:musihas-200033481:musihas-200033481.0001/full/pct:25.0/0/default.jpg#h=1003&w=769",
+    "https://tile.loc.gov/image-services/iiif/public:music:musihas-200033481:musihas-200033481.0001/full/pct:50.0/0/default.jpg#h=2007&w=1538",
+    "https://tile.loc.gov/image-services/iiif/public:music:musihas-200033481:musihas-200033481.0001/full/pct:100.0/0/default.jpg#h=4015&w=3077"
+   ],
+   "index": 2,
+   "mime_type": [
+    "image/jpeg",
+    "application/pdf",
+    "image/jp2"
+   ],
+   "number": [
+    "2023-10-31t13:54:51",
+    "http://www.loc.gov/item/ihas.200033481",
+    "2023796112",
+    "http://www.loc.gov/item/2023796112",
+    "sheet"
+   ],
+   "online_format": [
+    "image",
+    "pdf"
+   ],
+   "original_format": [
+    "notated music"
+   ],
+   "partof": [
+    "the library of congress celebrates the songs of america",
+    "baseball sheet music",
+    "catalog",
+    "music division"
+   ],
+   "score": 12.717024,
+   "shelf_id": "https://repo.loc.gov/access/public/music/musihas-200033481/.resource.json",
+   "site": [
+    "catalog"
+   ],
+   "subject": [
+    "songs and music",
+    "baseball"
+   ],
+   "timestamp": "2025-07-19T13:30:45.334Z",
+   "title": "Take me out to the ball game",
+   "type": [
+    "notated music"
+   ],
+   "url": "https://www.loc.gov/item/2023796112/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://lccn.loc.gov/2023795523",
+    "http://www.loc.gov/item/2023795523/",
+    "http://www.loc.gov/resource/music.musihas-100009610/",
+    "https://hdl.loc.gov/loc.music/ihas.100009610"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "norworth, jack",
+    "von tilzer, albert"
+   ],
+   "description": [
+    "Location: Box 79 Incomplete, page 5 only. For information about this resource, refer to finding aid available at https://hdl.loc.gov/loc.music/eadmus.mu002003 Record created through migration from the Performing Arts Encyclopedia Database."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2025-07-17T06:47:11.537Z",
+   "group": [
+    "paprika-music",
+    "catalog-split-06",
+    "catalog",
+    "main-catalog-split-06"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/2023795523/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:music:musihas-100009610:musihas-100009610.0001/full/pct:6.25/0/default.jpg",
+    "https://tile.loc.gov/image-services/iiif/public:music:musihas-100009610:musihas-100009610.0001/full/pct:6.25/0/default.jpg#h=267&w=207",
+    "https://tile.loc.gov/image-services/iiif/public:music:musihas-100009610:musihas-100009610.0001/full/pct:12.5/0/default.jpg#h=535&w=414",
+    "https://tile.loc.gov/image-services/iiif/public:music:musihas-100009610:musihas-100009610.0001/full/pct:25.0/0/default.jpg#h=1070&w=829",
+    "https://tile.loc.gov/image-services/iiif/public:music:musihas-100009610:musihas-100009610.0001/full/pct:50.0/0/default.jpg#h=2141&w=1659",
+    "https://tile.loc.gov/image-services/iiif/public:music:musihas-100009610:musihas-100009610.0001/full/pct:100.0/0/default.jpg#h=4283&w=3318"
+   ],
+   "index": 3,
+   "mime_type": [
+    "image/jpeg",
+    "application/pdf",
+    "image/jp2"
+   ],
+   "number": [
+    "2023795523",
+    "http://www.loc.gov/resource/ihas.100009610.0",
+    "http://www.loc.gov/item/ihas.100009610",
+    "sheet",
+    "http://www.loc.gov/item/2023795523",
+    "2023-11-30t12:03:36"
+   ],
+   "online_format": [
+    "image",
+    "pdf"
+   ],
+   "original_format": [
+    "notated music"
+   ],
+   "partof": [
+    "the library of congress celebrates the songs of america",
+    "catalog",
+    "music division",
+    "historic sheet music collection, 1800-1922"
+   ],
+   "score": 12.717024,
+   "shelf_id": "https://repo.loc.gov/access/public/music/musihas-100009610/.resource.json",
+   "site": [
+    "catalog"
+   ],
+   "timestamp": "2025-07-17T10:44:01.782Z",
+   "title": "Smarty",
+   "type": [
+    "notated music"
+   ],
+   "url": "https://www.loc.gov/item/2023795523/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://lccn.loc.gov/2023795500",
+    "http://www.loc.gov/item/2023795500/",
+    "http://www.loc.gov/resource/music.musihas-100009586/",
+    "https://hdl.loc.gov/loc.music/ihas.100009586"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "norworth, jack",
+    "von tilzer, albert"
+   ],
+   "date": "1907",
+   "dates": [
+    "1907"
+   ],
+   "description": [
+    "Location: Box 79 For information about this resource, refer to finding aid available at https://hdl.loc.gov/loc.music/eadmus.mu002003 Record created through migration from the Performing Arts Encyclopedia Database."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2025-07-17T08:11:43.566Z",
+   "group": [
+    "paprika-music",
+    "catalog-split-01",
+    "catalog",
+    "main-catalog-split-01"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/2023795500/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:music:musihas-100009586:musihas-100009586.0001/full/pct:6.25/0/default.jpg",
+    "https://tile.loc.gov/image-services/iiif/public:music:musihas-100009586:musihas-100009586.0001/full/pct:6.25/0/default.jpg#h=266&w=207",
+    "https://tile.loc.gov/image-services/iiif/public:music:musihas-100009586:musihas-100009586.0001/full/pct:12.5/0/default.jpg#h=533&w=414",
+    "https://tile.loc.gov/image-services/iiif/public:music:musihas-100009586:musihas-100009586.0001/full/pct:25.0/0/default.jpg#h=1067&w=829",
+    "https://tile.loc.gov/image-services/iiif/public:music:musihas-100009586:musihas-100009586.0001/full/pct:50.0/0/default.jpg#h=2135&w=1659",
+    "https://tile.loc.gov/image-services/iiif/public:music:musihas-100009586:musihas-100009586.0001/full/pct:100.0/0/default.jpg#h=4271&w=3319"
+   ],
+   "index": 4,
+   "mime_type": [
+    "image/jpeg",
+    "application/pdf",
+    "image/jp2"
+   ],
+   "number": [
+    "2023-11-30t12:03:26",
+    "http://www.loc.gov/resource/ihas.100009586.0",
+    "http://www.loc.gov/item/ihas.100009586",
+    "2023795500",
+    "sheet",
+    "http://www.loc.gov/item/2023795500"
+   ],
+   "online_format": [
+    "image",
+    "pdf"
+   ],
+   "original_format": [
+    "notated music"
+   ],
+   "partof": [
+    "the library of congress celebrates the songs of america",
+    "catalog",
+    "music division",
+    "historic sheet music collection, 1800-1922"
+   ],
+   "score": 12.717024,
+   "shelf_id": "https://repo.loc.gov/access/public/music/musihas-100009586/.resource.json",
+   "site": [
+    "catalog"
+   ],
+   "timestamp": "2025-07-17T10:44:01.782Z",
+   "title": "Don't be so angry",
+   "type": [
+    "notated music"
+   ],
+   "url": "https://www.loc.gov/item/2023795500/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://lccn.loc.gov/2023795501",
+    "http://www.loc.gov/item/2023795501/",
+    "http://www.loc.gov/resource/music.musihas-100009588/",
+    "https://hdl.loc.gov/loc.music/ihas.100009588"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "norworth, jack",
+    "von tilzer, albert"
+   ],
+   "date": "1908",
+   "dates": [
+    "1908"
+   ],
+   "description": [
+    "Location: Box 79 For information about this resource, refer to finding aid available at https://hdl.loc.gov/loc.music/eadmus.mu002003 Record created through migration from the Performing Arts Encyclopedia Database."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2025-07-17T07:30:24.327Z",
+   "group": [
+    "paprika-music",
+    "catalog-split-02",
+    "catalog",
+    "main-catalog-split-02"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/2023795501/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:music:musihas-100009588:musihas-100009588.0001/full/pct:6.25/0/default.jpg",
+    "https://tile.loc.gov/image-services/iiif/public:music:musihas-100009588:musihas-100009588.0001/full/pct:6.25/0/default.jpg#h=267&w=208",
+    "https://tile.loc.gov/image-services/iiif/public:music:musihas-100009588:musihas-100009588.0001/full/pct:12.5/0/default.jpg#h=535&w=416",
+    "https://tile.loc.gov/image-services/iiif/public:music:musihas-100009588:musihas-100009588.0001/full/pct:25.0/0/default.jpg#h=1070&w=832",
+    "https://tile.loc.gov/image-services/iiif/public:music:musihas-100009588:musihas-100009588.0001/full/pct:50.0/0/default.jpg#h=2141&w=1665",
+    "https://tile.loc.gov/image-services/iiif/public:music:musihas-100009588:musihas-100009588.0001/full/pct:100.0/0/default.jpg#h=4283&w=3330"
+   ],
+   "index": 5,
+   "mime_type": [
+    "image/jpeg",
+    "application/pdf",
+    "image/jp2"
+   ],
+   "number": [
+    "2023-11-30t12:03:26",
+    "http://www.loc.gov/item/ihas.100009588",
+    "http://www.loc.gov/resource/ihas.100009588.0",
+    "sheet",
+    "2023795501",
+    "http://www.loc.gov/item/2023795501"
+   ],
+   "online_format": [
+    "image",
+    "pdf"
+   ],
+   "original_format": [
+    "notated music"
+   ],
+   "partof": [
+    "the library of congress celebrates the songs of america",
+    "catalog",
+    "music division",
+    "historic sheet music collection, 1800-1922"
+   ],
+   "score": 12.717024,
+   "shelf_id": "https://repo.loc.gov/access/public/music/musihas-100009588/.resource.json",
+   "site": [
+    "catalog"
+   ],
+   "timestamp": "2025-07-17T10:44:01.782Z",
+   "title": "Good evening, Caroline",
+   "type": [
+    "notated music"
+   ],
+   "url": "https://www.loc.gov/item/2023795501/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://lccn.loc.gov/2023795504",
+    "http://www.loc.gov/item/2023795504/",
+    "http://www.loc.gov/resource/music.musihas-100009591/",
+    "https://hdl.loc.gov/loc.music/ihas.100009591"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "norworth, jack",
+    "von tilzer, albert"
+   ],
+   "date": "1906",
+   "dates": [
+    "1906"
+   ],
+   "description": [
+    "Location: Box 79 For information about this resource, refer to finding aid available at https://hdl.loc.gov/loc.music/eadmus.mu002003 Record created through migration from the Performing Arts Encyclopedia Database."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2025-07-17T08:01:56.349Z",
+   "group": [
+    "paprika-music",
+    "catalog-split-05",
+    "catalog",
+    "main-catalog-split-05"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/2023795504/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:music:musihas-100009591:musihas-100009591.0001/full/pct:6.25/0/default.jpg",
+    "https://tile.loc.gov/image-services/iiif/public:music:musihas-100009591:musihas-100009591.0001/full/pct:6.25/0/default.jpg#h=267&w=207",
+    "https://tile.loc.gov/image-services/iiif/public:music:musihas-100009591:musihas-100009591.0001/full/pct:12.5/0/default.jpg#h=535&w=414",
+    "https://tile.loc.gov/image-services/iiif/public:music:musihas-100009591:musihas-100009591.0001/full/pct:25.0/0/default.jpg#h=1071&w=829",
+    "https://tile.loc.gov/image-services/iiif/public:music:musihas-100009591:musihas-100009591.0001/full/pct:50.0/0/default.jpg#h=2142&w=1659",
+    "https://tile.loc.gov/image-services/iiif/public:music:musihas-100009591:musihas-100009591.0001/full/pct:100.0/0/default.jpg#h=4284&w=3318"
+   ],
+   "index": 6,
+   "mime_type": [
+    "image/jpeg",
+    "application/pdf",
+    "image/jp2"
+   ],
+   "number": [
+    "2023-11-30t12:03:27",
+    "http://www.loc.gov/resource/ihas.100009591.0",
+    "http://www.loc.gov/item/2023795504",
+    "2023795504",
+    "sheet",
+    "http://www.loc.gov/item/ihas.100009591"
+   ],
+   "online_format": [
+    "image",
+    "pdf"
+   ],
+   "original_format": [
+    "notated music"
+   ],
+   "partof": [
+    "the library of congress celebrates the songs of america",
+    "catalog",
+    "music division",
+    "historic sheet music collection, 1800-1922"
+   ],
+   "score": 12.717024,
+   "shelf_id": "https://repo.loc.gov/access/public/music/musihas-100009591/.resource.json",
+   "site": [
+    "catalog"
+   ],
+   "timestamp": "2025-07-17T10:44:01.782Z",
+   "title": "Holding hands",
+   "type": [
+    "notated music"
+   ],
+   "url": "https://www.loc.gov/item/2023795504/"
+  }
+ ],
+ "resources": [
+  {
+   "audio": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_3917_01_t3917_02:ucsb_col_3917_01_t3917_02/full/full/0/full/default.mp3",
+   "files": [
+    [
+     {
+      "aspectRation": "4:3",
+      "autoPlay": false,
+      "canDownload": true,
+      "derivatives": [
+       {
+        "derivativeUrl": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/ucsb_col_3917_01_t3917_02/ucsb_col_3917_01_t3917_02.mp3"
+       }
+      ],
+      "detailUrl": "https://www.loc.gov/item/jukebox-730655",
+      "download": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_3917_01_t3917_02:ucsb_col_3917_01_t3917_02/full/full/0/full/default.mp3",
+      "duration": 155.0,
+      "filename": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/ucsb_col_3917_01_t3917_02/ucsb_col_3917_01_t3917_02.mp3",
+      "mediaType": "A",
+      "metadata": [
+       "Take me out to the ball game",
+       "Male vocal solo, with orchestra"
+      ],
+      "mimetype": "audio/mpeg",
+      "poster": null,
+      "rights_restricted": true,
+      "shortName": "Take me out to the ball game",
+      "thumbnail_url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_3917_01_t3917_02:ucsb_col_3917_01_t3917_02/full/pct:12.5/0/default.jpg"
+     },
+     {
+      "height": null,
+      "levels": 1,
+      "mimetype": "audio/wav",
+      "size": 27438788,
+      "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/ucsb_col_3917_01_t3917_02/ucsb_col_3917_01_t3917_02.wav",
+      "width": null
+     }
+    ]
+   ],
+   "url": "https://www.loc.gov/resource/jukebox-730655.0"
+  },
+  {
+   "files": [
+    [
+     {
+      "height": 398,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_3917_01_t3917_02:ucsb_col_3917_01_t3917_02/full/pct:12.5/0/default.jpg",
+      "width": 398
+     },
+     {
+      "height": 796,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_3917_01_t3917_02:ucsb_col_3917_01_t3917_02/full/pct:25/0/default.jpg",
+      "width": 796
+     },
+     {
+      "height": 1592,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_3917_01_t3917_02:ucsb_col_3917_01_t3917_02/full/pct:50/0/default.jpg",
+      "width": 1592
+     },
+     {
+      "height": 3185,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_3917_01_t3917_02:ucsb_col_3917_01_t3917_02/full/pct:100/0/default.jpg",
+      "width": 3185
+     },
+     {
+      "height": null,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 30465796,
+      "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/ucsb_col_3917_01_t3917_02/ucsb_col_3917_01_t3917_02.tif",
+      "width": null
+     }
+    ]
+   ],
+   "image": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_3917_01_t3917_02:ucsb_col_3917_01_t3917_02/full/pct:100/0/default.jpg",
+   "mimetype": "image/jpeg",
+   "url": "https://www.loc.gov/resource/jukebox-730655.1"
+  }
+ ],
+ "timestamp": 1791308121070
+}

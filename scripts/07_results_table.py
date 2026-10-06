@@ -41,7 +41,7 @@ def main():
           f"* Median impulses/min (AR detector, k=8): **{st.median(agg['ib']):.0f} -> {st.median(agg['ia']):.0f}**.",
           f"* Samples interpolated across clicks: median **{st.median(agg['rep']):.2f}%**, max {max(agg['rep']):.2f}% per track.",
           f"* Energy removed in 300-3000 Hz relative to the original: median **{st.median(agg['mid']):.1f} dB** (range {min(agg['mid']):.1f} to {max(agg['mid']):.1f} dB).",
-          f"* Hum detected on {sum(r[15] for r in rows)} tracks. Speed/pitch corrections applied: 0. Generative/AI processing: none.\n",
+          f"* Tracks with a 50/60 Hz peak flagged and notched: {sum(r[15] for r in rows)}. Speed/pitch corrections applied: 0. Generative/AI processing: none.\n",
           "Surface noise is measured in the lead-in groove where one exists, otherwise in the quietest frames. The impulse metric also counts strong musical attacks, so on loud dance-band records it overstates the remaining clicks.\n",
           "| Recorded | Title | Performer | City | Noise before | after (dBFS) | Floor in music before | after | Impulses/min before | after | Interpolated % | Removed 300-3k (dB) | Band (Hz) | Tuning (cents) | Wow peak (dB) | Hum | Log |",
           "|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|"]
@@ -51,6 +51,17 @@ def main():
     for s in rej:
         md.append(f"* `{s['id']}`: " + " ".join(x for x in s.get("reasons", [s.get("error", "")]) if x.startswith("FAIL")))
     (ROOT / "docs" / "RESULTS.md").write_text("\n".join(md) + "\n")
+    # mirror the headline numbers into README.md between the RESULTS markers
+    readme = ROOT / "README.md"
+    if readme.exists():
+        t = readme.read_text()
+        a, b = "<!-- RESULTS:START -->", "<!-- RESULTS:END -->"
+        if a in t and b in t:
+            cities = sorted({r[3] for r in rows})
+            block = "\n".join([a, f"* 共核查 **{len(summ)}** 个 LoC 候选，**{len(rows)}** 首通过版权核查并完成修复，**{len(rej)}** 首被排除（理由见 [docs/RESULTS.md](docs/RESULTS.md)）。",
+                               f"* 录制年份 {rows[0][0][:4]}–{rows[-1][0][:4]}；录制城市（按 LoC 记录）：{', '.join(cities)}。",
+                               *md[2:7], "", "逐首数据见 [docs/RESULTS.md](docs/RESULTS.md)。", b])
+            readme.write_text(t[: t.index(a)] + block + t[t.index(b) + len(b):])
     print("\n".join(md[:8]))
 
 
