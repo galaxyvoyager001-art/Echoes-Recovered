@@ -1,0 +1,106 @@
+{
+ "id": "jukebox-130944",
+ "slug": "jukebox-130944_roamin-in-the-gloamin",
+ "title": "Roamin' in the gloamin '",
+ "other_titles": [],
+ "performers": [
+  "lauder, harry",
+  "quintrell, fred"
+ ],
+ "primary_performer": "lauder, harry",
+ "contributors_with_roles": [
+  "Lauder, Harry -- Composer -- Composer",
+  "Lauder, Harry -- Vocalist -- Baritone Vocal",
+  "Quintrell, Fred -- Conductor -- Conductor",
+  "Lauder, Harry -- Lyricist -- Lyricist"
+ ],
+ "recording_date": "1911-10-18",
+ "year": 1911,
+ "recording_location_loc": [
+  "new york",
+  "united states"
+ ],
+ "recording_city": "New York",
+ "genre_loc": [
+  "Descriptive specialties",
+  "Ethnic music",
+  "Monologues, dialogues, and recitations"
+ ],
+ "category": "Music hall",
+ "summary": "Male vocal solo, with orchestra",
+ "description": [
+  "Victor 55129. Matrix/Take: C-11122/1."
+ ],
+ "language": [
+  "english"
+ ],
+ "matrix": "C-11122 (Matrix ID)",
+ "take": "1",
+ "file_id": "jvm_victor_70061_01_c11122_01",
+ "disc": {
+  "label": "Victor",
+  "catalog_number": "70061",
+  "source_copy_prefix": "jvm"
+ },
+ "source_copy": "Source of original recording: Johnson Victrola Museum, Delaware.",
+ "duration_s": 233.0,
+ "loc_item_url": "https://www.loc.gov/item/jukebox-130944/",
+ "loc_api_url": "https://www.loc.gov/item/jukebox-130944/?fo=json",
+ "loc_files": {
+  "mp3": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/jvm_victor_70061_01_c11122_01/jvm_victor_70061_01_c11122_01.mp3",
+  "wav": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/jvm_victor_70061_01_c11122_01/jvm_victor_70061_01_c11122_01.wav",
+  "label": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_70061_01_c11122_01:jvm_victor_70061_01_c11122_01/full/pct:100/0/default.jpg"
+ },
+ "curator_note": "Scottish music-hall star Harry Lauder sings one of his signature songs; LoC files it under descriptive specialties and ethnic music.",
+ "rights": {
+  "checked_utc": "2026-10-06T18:19:47+00:00",
+  "loc_rights_and_access_text": "The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years. In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use. You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law. You may also need permission from holders of other rights, such as publicity and/or privacy rights. Credit Line: Library of Congress, National Jukebox. More about Copyright and other Restrictions . For guidance about compiling full citations consult Citing Primary Sources .",
+  "loc_rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+  "access_restricted": false,
+  "media_player_flags": {
+   "canDownload": true,
+   "rights_restricted": true
+  },
+  "cleared_for_reuse": true,
+  "status": "Public domain in the United States (published before 1923; Music Modernization Act, 17 U.S.C. 1401(a)(2)(B)(i))",
+  "reasons": [
+   "Rights & Access text states that recordings published prior to 1923 are in the public domain (Music Modernization Act).",
+   "Recording date 1911-10-18 is before 1922-01-01 (project margin so that publication also precedes 1923).",
+   "Evidence of publication: transfer is from an issued Victor disc (catalog no. 70061 in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ],
+  "caveats": [
+   "LoC: 'You are responsible for deciding whether your use of the items in this collection is legal.'",
+   "LoC: 'Some materials may be protected under international law.' Public-domain status here is asserted for the United States only.",
+   "Required credit line: 'Library of Congress, National Jukebox.'"
+  ],
+  "credit_line": "Library of Congress, National Jukebox."
+ },
+ "downloads": {
+  "wav": {
+   "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/jvm_victor_70061_01_c11122_01/jvm_victor_70061_01_c11122_01.wav",
+   "file": "data/originals/jukebox-130944_roamin-in-the-gloamin/loc_original.wav",
+   "bytes": 41120512,
+   "sha256": "a38ab09ae1b1d978557d35a4aa27327ed36842a65994a6cafe7cdee09ee2138f"
+  },
+  "mp3": {
+   "url": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/jvm_victor_70061_01_c11122_01/jvm_victor_70061_01_c11122_01.mp3",
+   "file": "data/originals/jukebox-130944_roamin-in-the-gloamin/loc_original.mp3",
+   "bytes": 7461519,
+   "sha256": "2939c959783721b75638da47c77db90d3fc525d2ae5351a002270998ae7499fe"
+  },
+  "label": {
+   "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_70061_01_c11122_01:jvm_victor_70061_01_c11122_01/full/pct:100/0/default.jpg",
+   "file": "data/originals/jukebox-130944_roamin-in-the-gloamin/loc_label.jpg",
+   "bytes": 1243487,
+   "sha256": "c8cce4162fde083b4f48fd11d2000dee478c2d64a9cadde1d81bd9c5c5b2146f"
+  }
+ },
+ "lossless_copy": {
+  "file": "data/originals/jukebox-130944_roamin-in-the-gloamin/loc_original.flac",
+  "bytes": 16700912,
+  "pcm_md5_wav": "3c37c23451a49fd3324a074377107653",
+  "pcm_md5_flac": "3c37c23451a49fd3324a074377107653",
+  "bit_exact": true
+ }
+}

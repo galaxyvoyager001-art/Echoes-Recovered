@@ -1,0 +1,105 @@
+{
+ "id": "jukebox-11226",
+ "slug": "jukebox-11226_the-memphis-blues",
+ "title": "The Memphis blues",
+ "other_titles": [],
+ "performers": [
+  "handy, w. c.",
+  "harvey, morton"
+ ],
+ "primary_performer": "harvey, morton",
+ "contributors_with_roles": [
+  "Handy, W. C. -- Composer -- Composer",
+  "Handy, W. C. -- Lyricist -- Lyricist",
+  "Harvey, Morton -- Vocalist -- Tenor Vocal"
+ ],
+ "recording_date": "1914-10-02",
+ "year": 1914,
+ "recording_location_loc": [
+  "camden",
+  "united states",
+  "new jersey"
+ ],
+ "recording_city": "Camden",
+ "genre_loc": [
+  "Blues",
+  "Ragtime, jazz, and more"
+ ],
+ "category": "Blues",
+ "summary": "Male vocal solo, with orchestra",
+ "description": [
+  "Victor 17657. Matrix/Take: B-15244/2."
+ ],
+ "language": [
+  "english"
+ ],
+ "matrix": "B-15244 (Matrix ID)",
+ "take": "2",
+ "file_id": "dlc_victor_17657_01_b15244_02",
+ "disc": {
+  "label": "Victor",
+  "catalog_number": "17657",
+  "source_copy_prefix": "dlc"
+ },
+ "source_copy": "Source of original recording: Recorded Sound Section, Library of Congress.",
+ "duration_s": 160.0,
+ "loc_item_url": "https://www.loc.gov/item/jukebox-11226/",
+ "loc_api_url": "https://www.loc.gov/item/jukebox-11226/?fo=json",
+ "loc_files": {
+  "mp3": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/dlc_victor_17657_01_b15244_02/dlc_victor_17657_01_b15244_02.mp3",
+  "wav": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/dlc_victor_17657_01_b15244_02/dlc_victor_17657_01_b15244_02.wav",
+  "label": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_17657_01_b15244_02:dlc_victor_17657_01_b15244_02/full/pct:100/0/default.jpg"
+ },
+ "curator_note": "W. C. Handy's 'Memphis Blues' (published 1912) sung by Morton Harvey; often cited as one of the earliest vocal recordings of a published blues.",
+ "rights": {
+  "checked_utc": "2026-10-06T18:19:54+00:00",
+  "loc_rights_and_access_text": "The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years. In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use. You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law. You may also need permission from holders of other rights, such as publicity and/or privacy rights. Credit Line: Library of Congress, National Jukebox. More about Copyright and other Restrictions . For guidance about compiling full citations consult Citing Primary Sources .",
+  "loc_rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+  "access_restricted": false,
+  "media_player_flags": {
+   "canDownload": true,
+   "rights_restricted": true
+  },
+  "cleared_for_reuse": true,
+  "status": "Public domain in the United States (published before 1923; Music Modernization Act, 17 U.S.C. 1401(a)(2)(B)(i))",
+  "reasons": [
+   "Rights & Access text states that recordings published prior to 1923 are in the public domain (Music Modernization Act).",
+   "Recording date 1914-10-02 is before 1922-01-01 (project margin so that publication also precedes 1923).",
+   "Evidence of publication: transfer is from an issued Victor disc (catalog no. 17657 in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ],
+  "caveats": [
+   "LoC: 'You are responsible for deciding whether your use of the items in this collection is legal.'",
+   "LoC: 'Some materials may be protected under international law.' Public-domain status here is asserted for the United States only.",
+   "Required credit line: 'Library of Congress, National Jukebox.'"
+  ],
+  "credit_line": "Library of Congress, National Jukebox."
+ },
+ "downloads": {
+  "wav": {
+   "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/dlc_victor_17657_01_b15244_02/dlc_victor_17657_01_b15244_02.wav",
+   "file": "data/originals/jukebox-11226_the-memphis-blues/loc_original.wav",
+   "bytes": 28334188,
+   "sha256": "200274cbc78297b3085d91c25320b222c20fe9afba421493c72ee41901787136"
+  },
+  "mp3": {
+   "url": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/dlc_victor_17657_01_b15244_02/dlc_victor_17657_01_b15244_02.mp3",
+   "file": "data/originals/jukebox-11226_the-memphis-blues/loc_original.mp3",
+   "bytes": 2570919,
+   "sha256": "26c09ed5c8eeca1fc78311a837c566620ff96e244954cdf167969d62aab91f7c"
+  },
+  "label": {
+   "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_17657_01_b15244_02:dlc_victor_17657_01_b15244_02/full/pct:100/0/default.jpg",
+   "file": "data/originals/jukebox-11226_the-memphis-blues/loc_label.jpg",
+   "bytes": 582513,
+   "sha256": "169bd7045cc274b0a0c836b5d11fab0a15110bc3da1e13b33262d61537b4060c"
+  }
+ },
+ "lossless_copy": {
+  "file": "data/originals/jukebox-11226_the-memphis-blues/loc_original.flac",
+  "bytes": 12097276,
+  "pcm_md5_wav": "899820c859bd16c07c95c9704fb2df4e",
+  "pcm_md5_flac": "899820c859bd16c07c95c9704fb2df4e",
+  "bit_exact": true
+ }
+}

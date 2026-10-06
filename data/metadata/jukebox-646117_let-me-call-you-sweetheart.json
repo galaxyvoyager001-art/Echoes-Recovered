@@ -1,0 +1,106 @@
+{
+ "id": "jukebox-646117",
+ "slug": "jukebox-646117_let-me-call-you-sweetheart",
+ "title": "Let me call you sweetheart",
+ "other_titles": [],
+ "performers": [
+  "columbia quartette",
+  "friedman, leo",
+  "prince's male quartette",
+  "regal male quartette [columbia male quartette]",
+  "whitson, beth slater"
+ ],
+ "primary_performer": "columbia quartette",
+ "contributors_with_roles": [
+  "Prince's Male Quartette -- Vocal Group -- Vocal Group",
+  "Columbia Quartette -- Vocal Group -- Vocal Group",
+  "Friedman, Leo -- Composer -- Composer",
+  "Whitson, Beth Slater -- Lyricist -- Lyricist",
+  "Regal Male Quartette [Columbia Male Quartette] -- Vocal Group -- Vocal Group"
+ ],
+ "recording_date": "1911-07-28",
+ "year": 1911,
+ "recording_location_loc": [
+  "new york",
+  "united states"
+ ],
+ "recording_city": "New York",
+ "genre_loc": [],
+ "category": "Popular song",
+ "summary": "Male vocal quartet, with orchestra",
+ "description": [
+  "Columbia A1057. Matrix/Take: 19503/1."
+ ],
+ "language": [
+  "english"
+ ],
+ "matrix": "19503 (Matrix ID)",
+ "take": "1",
+ "file_id": "ucsb_col_a1057_01_19503_01",
+ "disc": {
+  "label": "Columbia",
+  "catalog_number": "A1057",
+  "source_copy_prefix": "ucsb"
+ },
+ "source_copy": "Source of original recording: Department of Special Collections, Davidson Library, University of California, Santa Barbara.",
+ "duration_s": 153.0,
+ "loc_item_url": "https://www.loc.gov/item/jukebox-646117/",
+ "loc_api_url": "https://www.loc.gov/item/jukebox-646117/?fo=json",
+ "loc_files": {
+  "mp3": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/ucsb_col_a1057_01_19503_01/ucsb_col_a1057_01_19503_01.mp3",
+  "wav": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/ucsb_col_a1057_01_19503_01/ucsb_col_a1057_01_19503_01.wav",
+  "label": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1057_01_19503_01:ucsb_col_a1057_01_19503_01/full/pct:100/0/default.jpg"
+ },
+ "curator_note": "'Let Me Call You Sweetheart' (Friedman/Whitson, 1910) in a male-quartet arrangement typical of the period.",
+ "rights": {
+  "checked_utc": "2026-10-06T18:19:44+00:00",
+  "loc_rights_and_access_text": "The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years. In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use. You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law. You may also need permission from holders of other rights, such as publicity and/or privacy rights. Credit Line: Library of Congress, National Jukebox. More about Copyright and other Restrictions . For guidance about compiling full citations consult Citing Primary Sources .",
+  "loc_rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+  "access_restricted": false,
+  "media_player_flags": {
+   "canDownload": true,
+   "rights_restricted": true
+  },
+  "cleared_for_reuse": true,
+  "status": "Public domain in the United States (published before 1923; Music Modernization Act, 17 U.S.C. 1401(a)(2)(B)(i))",
+  "reasons": [
+   "Rights & Access text states that recordings published prior to 1923 are in the public domain (Music Modernization Act).",
+   "Recording date 1911-07-28 is before 1922-01-01 (project margin so that publication also precedes 1923).",
+   "Evidence of publication: transfer is from an issued Columbia disc (catalog no. A1057 in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ],
+  "caveats": [
+   "LoC: 'You are responsible for deciding whether your use of the items in this collection is legal.'",
+   "LoC: 'Some materials may be protected under international law.' Public-domain status here is asserted for the United States only.",
+   "Required credit line: 'Library of Congress, National Jukebox.'"
+  ],
+  "credit_line": "Library of Congress, National Jukebox."
+ },
+ "downloads": {
+  "wav": {
+   "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/ucsb_col_a1057_01_19503_01/ucsb_col_a1057_01_19503_01.wav",
+   "file": "data/originals/jukebox-646117_let-me-call-you-sweetheart/loc_original.wav",
+   "bytes": 27082764,
+   "sha256": "68cacd47a27df00f10a81dca532f8f786a8cd2baac0818a22b6bf98cef34db10"
+  },
+  "mp3": {
+   "url": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/ucsb_col_a1057_01_19503_01/ucsb_col_a1057_01_19503_01.mp3",
+   "file": "data/originals/jukebox-646117_let-me-call-you-sweetheart/loc_original.mp3",
+   "bytes": 4915244,
+   "sha256": "9237c2d78b20a665bb41c8b6b8cb05d5b495ef60a06085f235956a208a577c5f"
+  },
+  "label": {
+   "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1057_01_19503_01:ucsb_col_a1057_01_19503_01/full/pct:100/0/default.jpg",
+   "file": "data/originals/jukebox-646117_let-me-call-you-sweetheart/loc_label.jpg",
+   "bytes": 980568,
+   "sha256": "531fbaf3dce35b83e115decd35153d8d7220f675b69f1d453b704f37c3079e31"
+  }
+ },
+ "lossless_copy": {
+  "file": "data/originals/jukebox-646117_let-me-call-you-sweetheart/loc_original.flac",
+  "bytes": 9434123,
+  "pcm_md5_wav": "a5563b7c81905ac67c5734b6a4b0b194",
+  "pcm_md5_flac": "a5563b7c81905ac67c5734b6a4b0b194",
+  "bit_exact": true
+ }
+}

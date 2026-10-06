@@ -1,0 +1,109 @@
+{
+ "id": "jukebox-186160",
+ "slug": "jukebox-186160_poor-butterfly",
+ "title": "Poor Butterfly",
+ "other_titles": [
+  "The big show"
+ ],
+ "performers": [
+  "baker, elsie",
+  "brown, edna",
+  "golden, john l.",
+  "hubbell, raymond",
+  "pasternack, josef"
+ ],
+ "primary_performer": "brown, edna",
+ "contributors_with_roles": [
+  "Baker, Elsie -- Vocalist -- Contralto",
+  "Hubbell, Raymond -- Composer -- Composer",
+  "Pasternack, Josef -- Conductor -- Conductor",
+  "Golden, John L. -- Lyricist -- Lyricist",
+  "Brown, Edna -- Vocalist -- Contralto"
+ ],
+ "recording_date": "1916-12-15",
+ "year": 1916,
+ "recording_location_loc": [
+  "camden",
+  "united states",
+  "new jersey"
+ ],
+ "recording_city": "Camden",
+ "genre_loc": [],
+ "category": "Musical theater",
+ "summary": "Female vocal solo, with orchestra",
+ "description": [
+  "Victor 18211. Matrix/Take: B-18900/1."
+ ],
+ "language": [
+  "english"
+ ],
+ "matrix": "B-18900 (Matrix ID)",
+ "take": "1",
+ "file_id": "dlc_victor_18211_01_b18900_01",
+ "disc": {
+  "label": "Victor",
+  "catalog_number": "18211",
+  "source_copy_prefix": "dlc"
+ },
+ "source_copy": "Source of original recording: Recorded Sound Section, Library of Congress.",
+ "duration_s": 164.0,
+ "loc_item_url": "https://www.loc.gov/item/jukebox-186160/",
+ "loc_api_url": "https://www.loc.gov/item/jukebox-186160/?fo=json",
+ "loc_files": {
+  "mp3": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/dlc_victor_18211_01_b18900_01/dlc_victor_18211_01_b18900_01.mp3",
+  "wav": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/dlc_victor_18211_01_b18900_01/dlc_victor_18211_01_b18900_01.wav",
+  "label": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18211_01_b18900_01:dlc_victor_18211_01_b18900_01/full/pct:100/0/default.jpg"
+ },
+ "curator_note": "'Poor Butterfly' (Hubbell/Golden) came from the 1916 Hippodrome revue The Big Show.",
+ "rights": {
+  "checked_utc": "2026-10-06T18:19:57+00:00",
+  "loc_rights_and_access_text": "The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years. In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use. You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law. You may also need permission from holders of other rights, such as publicity and/or privacy rights. Credit Line: Library of Congress, National Jukebox. More about Copyright and other Restrictions . For guidance about compiling full citations consult Citing Primary Sources .",
+  "loc_rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+  "access_restricted": false,
+  "media_player_flags": {
+   "canDownload": true,
+   "rights_restricted": true
+  },
+  "cleared_for_reuse": true,
+  "status": "Public domain in the United States (published before 1923; Music Modernization Act, 17 U.S.C. 1401(a)(2)(B)(i))",
+  "reasons": [
+   "Rights & Access text states that recordings published prior to 1923 are in the public domain (Music Modernization Act).",
+   "Recording date 1916-12-15 is before 1922-01-01 (project margin so that publication also precedes 1923).",
+   "Evidence of publication: transfer is from an issued Victor disc (catalog no. 18211 in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ],
+  "caveats": [
+   "LoC: 'You are responsible for deciding whether your use of the items in this collection is legal.'",
+   "LoC: 'Some materials may be protected under international law.' Public-domain status here is asserted for the United States only.",
+   "Required credit line: 'Library of Congress, National Jukebox.'"
+  ],
+  "credit_line": "Library of Congress, National Jukebox."
+ },
+ "downloads": {
+  "wav": {
+   "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/dlc_victor_18211_01_b18900_01/dlc_victor_18211_01_b18900_01.wav",
+   "file": "data/originals/jukebox-186160_poor-butterfly/loc_original.wav",
+   "bytes": 14504126,
+   "sha256": "56b2d7df17f42d9d855d53f3883ccdda7306bac829c1c29300458c22e862fbd2"
+  },
+  "mp3": {
+   "url": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/dlc_victor_18211_01_b18900_01/dlc_victor_18211_01_b18900_01.mp3",
+   "file": "data/originals/jukebox-186160_poor-butterfly/loc_original.mp3",
+   "bytes": 5263199,
+   "sha256": "982281f3f85148cae9bd9325c8d8ee77d3d3045ab103765613ad2294b96dbba4"
+  },
+  "label": {
+   "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18211_01_b18900_01:dlc_victor_18211_01_b18900_01/full/pct:100/0/default.jpg",
+   "file": "data/originals/jukebox-186160_poor-butterfly/loc_label.jpg",
+   "bytes": 543357,
+   "sha256": "b25f7c94360e11565e19c606f5ef9d4ccebfc9b0c2de5596ab030c158ad70cce"
+  }
+ },
+ "lossless_copy": {
+  "file": "data/originals/jukebox-186160_poor-butterfly/loc_original.flac",
+  "bytes": 9916966,
+  "pcm_md5_wav": "6910e279f85f4a6622e6c18c31112f3f",
+  "pcm_md5_flac": "6910e279f85f4a6622e6c18c31112f3f",
+  "bit_exact": true
+ }
+}

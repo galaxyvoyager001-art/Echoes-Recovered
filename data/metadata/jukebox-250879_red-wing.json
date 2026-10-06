@@ -1,0 +1,110 @@
+{
+ "id": "jukebox-250879",
+ "slug": "jukebox-250879_red-wing",
+ "title": "Red Wing",
+ "other_titles": [],
+ "performers": [
+  "chattaway, thurland",
+  "dudley, s. h.",
+  "haydn quartet",
+  "macdonough, harry",
+  "mills, kerry"
+ ],
+ "primary_performer": "macdonough, harry",
+ "contributors_with_roles": [
+  "Haydn Quartet -- Vocal Group -- Vocal Group",
+  "Macdonough, Harry -- Vocalist -- Tenor Vocal",
+  "Dudley, S. H. -- Vocalist -- Baritone Vocal",
+  "Mills, Kerry -- Composer -- Composer",
+  "Chattaway, Thurland -- Lyricist -- Lyricist"
+ ],
+ "recording_date": "1908-01-15",
+ "year": 1908,
+ "recording_location_loc": [
+  "united states",
+  "camden",
+  "new jersey"
+ ],
+ "recording_city": "Camden",
+ "genre_loc": [
+  "Popular music",
+  "Ethnic characterizations"
+ ],
+ "category": "Popular song",
+ "summary": "Male vocal duet, with orchestra",
+ "description": [
+  "Victor 17233. Matrix/Take: B-5023/3."
+ ],
+ "language": [
+  "english"
+ ],
+ "matrix": "B-5023 (Matrix ID)",
+ "take": "3",
+ "file_id": "dlc_victor_17233_01_b5023_03",
+ "disc": {
+  "label": "Victor",
+  "catalog_number": "17233",
+  "source_copy_prefix": "dlc"
+ },
+ "source_copy": "Source of original recording: Recorded Sound Section, Library of Congress.",
+ "duration_s": 149.0,
+ "loc_item_url": "https://www.loc.gov/item/jukebox-250879/",
+ "loc_api_url": "https://www.loc.gov/item/jukebox-250879/?fo=json",
+ "loc_files": {
+  "mp3": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/dlc_victor_17233_01_b5023_03/dlc_victor_17233_01_b5023_03.mp3",
+  "wav": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/dlc_victor_17233_01_b5023_03/dlc_victor_17233_01_b5023_03.wav",
+  "label": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_17233_01_b5023_03:dlc_victor_17233_01_b5023_03/full/pct:100/0/default.jpg"
+ },
+ "curator_note": "'Red Wing' (Kerry Mills and Thurland Chattaway, 1907) was one of the most popular 'intermezzo' songs of its day; here a male duet with orchestra.",
+ "rights": {
+  "checked_utc": "2026-10-06T18:19:37+00:00",
+  "loc_rights_and_access_text": "The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years. In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use. You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law. You may also need permission from holders of other rights, such as publicity and/or privacy rights. Credit Line: Library of Congress, National Jukebox. More about Copyright and other Restrictions . For guidance about compiling full citations consult Citing Primary Sources .",
+  "loc_rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+  "access_restricted": false,
+  "media_player_flags": {
+   "canDownload": true,
+   "rights_restricted": true
+  },
+  "cleared_for_reuse": true,
+  "status": "Public domain in the United States (published before 1923; Music Modernization Act, 17 U.S.C. 1401(a)(2)(B)(i))",
+  "reasons": [
+   "Rights & Access text states that recordings published prior to 1923 are in the public domain (Music Modernization Act).",
+   "Recording date 1908-01-15 is before 1922-01-01 (project margin so that publication also precedes 1923).",
+   "Evidence of publication: transfer is from an issued Victor disc (catalog no. 17233 in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ],
+  "caveats": [
+   "LoC: 'You are responsible for deciding whether your use of the items in this collection is legal.'",
+   "LoC: 'Some materials may be protected under international law.' Public-domain status here is asserted for the United States only.",
+   "Required credit line: 'Library of Congress, National Jukebox.'"
+  ],
+  "credit_line": "Library of Congress, National Jukebox."
+ },
+ "downloads": {
+  "wav": {
+   "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/dlc_victor_17233_01_b5023_03/dlc_victor_17233_01_b5023_03.wav",
+   "file": "data/originals/jukebox-250879_red-wing/loc_original.wav",
+   "bytes": 13187776,
+   "sha256": "cafa7cc2f47eda2b538c47ed1c8cca54b2076629ac572abaee0a0ae310ef8b54"
+  },
+  "mp3": {
+   "url": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/dlc_victor_17233_01_b5023_03/dlc_victor_17233_01_b5023_03.mp3",
+   "file": "data/originals/jukebox-250879_red-wing/loc_original.mp3",
+   "bytes": 1196637,
+   "sha256": "1afba4197e37e15c137914feea24380398efe732520739f38145cc9ce7aa8d58"
+  },
+  "label": {
+   "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_17233_01_b5023_03:dlc_victor_17233_01_b5023_03/full/pct:100/0/default.jpg",
+   "file": "data/originals/jukebox-250879_red-wing/loc_label.jpg",
+   "bytes": 641142,
+   "sha256": "c8104f4d5c1aa9bf79de330117de792a8a624329733225034bde0507e782c13e"
+  }
+ },
+ "lossless_copy": {
+  "file": "data/originals/jukebox-250879_red-wing/loc_original.flac",
+  "bytes": 9050553,
+  "pcm_md5_wav": "d6d1a556cb4c06b63fdcd6fd64b66d4b",
+  "pcm_md5_flac": "d6d1a556cb4c06b63fdcd6fd64b66d4b",
+  "bit_exact": true
+ }
+}

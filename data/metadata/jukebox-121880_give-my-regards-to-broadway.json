@@ -1,0 +1,108 @@
+{
+ "id": "jukebox-121880",
+ "slug": "jukebox-121880_give-my-regards-to-broadway",
+ "title": "Give my regards to Broadway",
+ "other_titles": [
+  "Little Johnny Jones"
+ ],
+ "performers": [
+  "cohan, george m.",
+  "dudley, s. h.",
+  "kernell, frank [i.e., samuel h. dudley]"
+ ],
+ "primary_performer": "kernell, frank [i.e., samuel h. dudley]",
+ "contributors_with_roles": [
+  "Dudley, S. H. -- Vocalist -- Baritone Vocal",
+  "Cohan, George M. -- Composer -- Composer",
+  "Cohan, George M. -- Lyricist -- Lyricist",
+  "Kernell, Frank [i.e., Samuel H. Dudley] -- Vocalist -- Baritone Vocal"
+ ],
+ "recording_date": "1905-06-21",
+ "year": 1905,
+ "recording_location_loc": [
+  "united states",
+  "philadelphia",
+  "pennsylvania"
+ ],
+ "recording_city": "Philadelphia",
+ "genre_loc": [
+  "Musical theater"
+ ],
+ "category": "Musical theater",
+ "summary": "Male vocal solo, with orchestra",
+ "description": [
+  "Victor 4385. Matrix/Take: B-2654/3."
+ ],
+ "language": [
+  "english"
+ ],
+ "matrix": "B-2654 (Matrix ID)",
+ "take": "3",
+ "file_id": "dlc_victor_4385_01_b2654_03",
+ "disc": {
+  "label": "Victor",
+  "catalog_number": "4385",
+  "source_copy_prefix": "dlc"
+ },
+ "source_copy": "Source of original recording: Recorded Sound Section, Library of Congress.",
+ "duration_s": 158.0,
+ "loc_item_url": "https://www.loc.gov/item/jukebox-121880/",
+ "loc_api_url": "https://www.loc.gov/item/jukebox-121880/?fo=json",
+ "loc_files": {
+  "mp3": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/dlc_victor_4385_01_b2654_03/dlc_victor_4385_01_b2654_03.mp3",
+  "wav": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/dlc_victor_4385_01_b2654_03/dlc_victor_4385_01_b2654_03.wav",
+  "label": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_4385_01_b2654_03:dlc_victor_4385_01_b2654_03/full/pct:100/0/default.jpg"
+ },
+ "curator_note": "George M. Cohan's song from the 1904 Broadway musical Little Johnny Jones, recorded in Philadelphia the following year.",
+ "rights": {
+  "checked_utc": "2026-10-06T18:19:25+00:00",
+  "loc_rights_and_access_text": "The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years. In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use. You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law. You may also need permission from holders of other rights, such as publicity and/or privacy rights. Credit Line: Library of Congress, National Jukebox. More about Copyright and other Restrictions . For guidance about compiling full citations consult Citing Primary Sources .",
+  "loc_rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+  "access_restricted": false,
+  "media_player_flags": {
+   "canDownload": true,
+   "rights_restricted": true
+  },
+  "cleared_for_reuse": true,
+  "status": "Public domain in the United States (published before 1923; Music Modernization Act, 17 U.S.C. 1401(a)(2)(B)(i))",
+  "reasons": [
+   "Rights & Access text states that recordings published prior to 1923 are in the public domain (Music Modernization Act).",
+   "Recording date 1905-06-21 is before 1922-01-01 (project margin so that publication also precedes 1923).",
+   "Evidence of publication: transfer is from an issued Victor disc (catalog no. 4385 in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ],
+  "caveats": [
+   "LoC: 'You are responsible for deciding whether your use of the items in this collection is legal.'",
+   "LoC: 'Some materials may be protected under international law.' Public-domain status here is asserted for the United States only.",
+   "Required credit line: 'Library of Congress, National Jukebox.'"
+  ],
+  "credit_line": "Library of Congress, National Jukebox."
+ },
+ "downloads": {
+  "wav": {
+   "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/dlc_victor_4385_01_b2654_03/dlc_victor_4385_01_b2654_03.wav",
+   "file": "data/originals/jukebox-121880_give-my-regards-to-broadway/loc_original.wav",
+   "bytes": 13936286,
+   "sha256": "085178030f1e58ef4d18ee8599f943a3f7901a7b5e69af88d623621eaf59bec6"
+  },
+  "mp3": {
+   "url": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/dlc_victor_4385_01_b2654_03/dlc_victor_4385_01_b2654_03.mp3",
+   "file": "data/originals/jukebox-121880_give-my-regards-to-broadway/loc_original.mp3",
+   "bytes": 1264552,
+   "sha256": "07d448089e1788ded413f772b5c9db1217cb29cec733522a709581b5ea6783b3"
+  },
+  "label": {
+   "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_4385_01_b2654_03:dlc_victor_4385_01_b2654_03/full/pct:100/0/default.jpg",
+   "file": "data/originals/jukebox-121880_give-my-regards-to-broadway/loc_label.jpg",
+   "bytes": 754388,
+   "sha256": "b8c2cb1ba05848380e0315b6323335e959389cf7f7575afa4d309c82cd498c0e"
+  }
+ },
+ "lossless_copy": {
+  "file": "data/originals/jukebox-121880_give-my-regards-to-broadway/loc_original.flac",
+  "bytes": 9482307,
+  "pcm_md5_wav": "e8ca7cd8d18a8e7ef90a3d87854cd803",
+  "pcm_md5_flac": "e8ca7cd8d18a8e7ef90a3d87854cd803",
+  "bit_exact": true
+ }
+}

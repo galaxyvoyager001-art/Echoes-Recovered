@@ -1,0 +1,107 @@
+{
+ "id": "jukebox-34232",
+ "slug": "jukebox-34232_dardanella",
+ "title": "Dardanella",
+ "other_titles": [
+  "Fox trot",
+  "An echo from the East"
+ ],
+ "performers": [
+  "bernard, felix",
+  "black, johnny s.",
+  "selvin's novelty orchestra",
+  "selvin, ben"
+ ],
+ "primary_performer": "selvin's novelty orchestra",
+ "contributors_with_roles": [
+  "Bernard, Felix -- Composer -- Composer",
+  "Selvin, Ben -- Leader -- Leader",
+  "Black, Johnny S. -- Composer -- Composer",
+  "Selvin's Novelty Orchestra -- Musical Group -- Musical Group"
+ ],
+ "recording_date": "1919-11-20",
+ "year": 1919,
+ "recording_location_loc": [
+  "new york",
+  "united states"
+ ],
+ "recording_city": "New York",
+ "genre_loc": [
+  "Ragtime, jazz, and more"
+ ],
+ "category": "Dance orchestra",
+ "summary": "Jazz/dance band",
+ "description": [
+  "Victor 18633. Matrix/Take: B-23344/3."
+ ],
+ "language": null,
+ "matrix": "B-23344 (Matrix ID)",
+ "take": "3",
+ "file_id": "dlc_victor_18633_01_b23344_03",
+ "disc": {
+  "label": "Victor",
+  "catalog_number": "18633",
+  "source_copy_prefix": "dlc"
+ },
+ "source_copy": "Source of original recording: Recorded Sound Section, Library of Congress.",
+ "duration_s": 196.0,
+ "loc_item_url": "https://www.loc.gov/item/jukebox-34232/",
+ "loc_api_url": "https://www.loc.gov/item/jukebox-34232/?fo=json",
+ "loc_files": {
+  "mp3": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/dlc_victor_18633_01_b23344_03/dlc_victor_18633_01_b23344_03.mp3",
+  "wav": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/dlc_victor_18633_01_b23344_03/dlc_victor_18633_01_b23344_03.wav",
+  "label": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18633_01_b23344_03:dlc_victor_18633_01_b23344_03/full/pct:100/0/default.jpg"
+ },
+ "curator_note": "Ben Selvin's 'Dardanella' was one of the best-selling dance records of the era.",
+ "rights": {
+  "checked_utc": "2026-10-06T18:20:11+00:00",
+  "loc_rights_and_access_text": "The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years. In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use. You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law. You may also need permission from holders of other rights, such as publicity and/or privacy rights. Credit Line: Library of Congress, National Jukebox. More about Copyright and other Restrictions . For guidance about compiling full citations consult Citing Primary Sources .",
+  "loc_rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+  "access_restricted": false,
+  "media_player_flags": {
+   "canDownload": true,
+   "rights_restricted": true
+  },
+  "cleared_for_reuse": true,
+  "status": "Public domain in the United States (published before 1923; Music Modernization Act, 17 U.S.C. 1401(a)(2)(B)(i))",
+  "reasons": [
+   "Rights & Access text states that recordings published prior to 1923 are in the public domain (Music Modernization Act).",
+   "Recording date 1919-11-20 is before 1922-01-01 (project margin so that publication also precedes 1923).",
+   "Evidence of publication: transfer is from an issued Victor disc (catalog no. 18633 in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ],
+  "caveats": [
+   "LoC: 'You are responsible for deciding whether your use of the items in this collection is legal.'",
+   "LoC: 'Some materials may be protected under international law.' Public-domain status here is asserted for the United States only.",
+   "Required credit line: 'Library of Congress, National Jukebox.'"
+  ],
+  "credit_line": "Library of Congress, National Jukebox."
+ },
+ "downloads": {
+  "wav": {
+   "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/dlc_victor_18633_01_b23344_03/dlc_victor_18633_01_b23344_03.wav",
+   "file": "data/originals/jukebox-34232_dardanella/loc_original.wav",
+   "bytes": 34620420,
+   "sha256": "eb872d1783d33df8fa2b6b33341838b876e413d8f38a001182baff2a6b1db489"
+  },
+  "mp3": {
+   "url": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/dlc_victor_18633_01_b23344_03/dlc_victor_18633_01_b23344_03.mp3",
+   "file": "data/originals/jukebox-34232_dardanella/loc_original.mp3",
+   "bytes": 3141014,
+   "sha256": "d1f447b3df6d283fcabb6d767d921c4957d9a3e6a65708bdbd452f099d4a5a76"
+  },
+  "label": {
+   "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18633_01_b23344_03:dlc_victor_18633_01_b23344_03/full/pct:100/0/default.jpg",
+   "file": "data/originals/jukebox-34232_dardanella/loc_label.jpg",
+   "bytes": 512572,
+   "sha256": "c6ea7eed2ff07cb6c9e334c9c20f5be00490750560b1398accc03bd5b37ad7c6"
+  }
+ },
+ "lossless_copy": {
+  "file": "data/originals/jukebox-34232_dardanella/loc_original.flac",
+  "bytes": 14629135,
+  "pcm_md5_wav": "8c6a4c63c19624eb3cae8f8310a7139c",
+  "pcm_md5_flac": "8c6a4c63c19624eb3cae8f8310a7139c",
+  "bit_exact": true
+ }
+}

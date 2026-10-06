@@ -1,0 +1,102 @@
+{
+ "id": "jukebox-191403",
+ "slug": "jukebox-191403_rusty-rags",
+ "title": "Rusty rags",
+ "other_titles": [],
+ "performers": [
+  "ossman, vess l."
+ ],
+ "primary_performer": "ossman, vess l.",
+ "contributors_with_roles": [
+  "Ossman, Vess L. -- Instrumentalist -- Banjo",
+  "Ossman, Vess L. -- Composer -- Composer"
+ ],
+ "recording_date": "1901-05-16",
+ "year": 1901,
+ "recording_location_loc": [
+  "new jersey",
+  "camden",
+  "united states"
+ ],
+ "recording_city": "Camden",
+ "genre_loc": [
+  "Ragtime, jazz, and more"
+ ],
+ "category": "Ragtime",
+ "summary": "Banjo solo",
+ "description": [
+  "Victor 3367. Matrix/Take: [Pre-matrix B-]3367/1."
+ ],
+ "language": [
+  "english"
+ ],
+ "matrix": "[Pre-matrix B-]3367 (Matrix ID)",
+ "take": "1",
+ "file_id": "dgio_victor_3367_01_b3367_01",
+ "disc": {
+  "label": "Victor",
+  "catalog_number": "3367",
+  "source_copy_prefix": "dgio"
+ },
+ "source_copy": "Source of original recording: Giovannoni/Lynch Collection (private collection).",
+ "duration_s": 131.0,
+ "loc_item_url": "https://www.loc.gov/item/jukebox-191403/",
+ "loc_api_url": "https://www.loc.gov/item/jukebox-191403/?fo=json",
+ "loc_files": {
+  "mp3": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/dgio_victor_3367_01_b3367_01/dgio_victor_3367_01_b3367_01.mp3",
+  "wav": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/dgio_victor_3367_01_b3367_01/dgio_victor_3367_01_b3367_01.wav",
+  "label": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dgio_victor_3367_01_b3367_01:dgio_victor_3367_01_b3367_01/full/pct:100/0/default.jpg"
+ },
+ "curator_note": "Vess L. Ossman was the most-recorded banjoist of the acoustic era; this is an early Victor recording of a ragtime banjo solo.",
+ "rights": {
+  "checked_utc": "2026-10-06T18:19:20+00:00",
+  "loc_rights_and_access_text": "The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years. In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use. You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law. You may also need permission from holders of other rights, such as publicity and/or privacy rights. Credit Line: Library of Congress, National Jukebox. More about Copyright and other Restrictions . For guidance about compiling full citations consult Citing Primary Sources .",
+  "loc_rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+  "access_restricted": false,
+  "media_player_flags": {
+   "canDownload": true,
+   "rights_restricted": true
+  },
+  "cleared_for_reuse": true,
+  "status": "Public domain in the United States (published before 1923; Music Modernization Act, 17 U.S.C. 1401(a)(2)(B)(i))",
+  "reasons": [
+   "Rights & Access text states that recordings published prior to 1923 are in the public domain (Music Modernization Act).",
+   "Recording date 1901-05-16 is before 1922-01-01 (project margin so that publication also precedes 1923).",
+   "Evidence of publication: transfer is from an issued Victor disc (catalog no. 3367 in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ],
+  "caveats": [
+   "LoC: 'You are responsible for deciding whether your use of the items in this collection is legal.'",
+   "LoC: 'Some materials may be protected under international law.' Public-domain status here is asserted for the United States only.",
+   "Required credit line: 'Library of Congress, National Jukebox.'"
+  ],
+  "credit_line": "Library of Congress, National Jukebox."
+ },
+ "downloads": {
+  "wav": {
+   "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/dgio_victor_3367_01_b3367_01/dgio_victor_3367_01_b3367_01.wav",
+   "file": "data/originals/jukebox-191403_rusty-rags/loc_original.wav",
+   "bytes": 23146240,
+   "sha256": "15aac757a35ea56bc11b1169d1e2a2a274d048b5009c0b55eb6dc5669e8d939e"
+  },
+  "mp3": {
+   "url": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/dgio_victor_3367_01_b3367_01/dgio_victor_3367_01_b3367_01.mp3",
+   "file": "data/originals/jukebox-191403_rusty-rags/loc_original.mp3",
+   "bytes": 2100299,
+   "sha256": "371c96c806f5ab404d652d2296df05a7817925bfd23789ad1d44f135e4609da6"
+  },
+  "label": {
+   "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dgio_victor_3367_01_b3367_01:dgio_victor_3367_01_b3367_01/full/pct:100/0/default.jpg",
+   "file": "data/originals/jukebox-191403_rusty-rags/loc_label.jpg",
+   "bytes": 895840,
+   "sha256": "f4b060c95f6399af4806b269b8f27742b6619d20622e7efa7cb44d8a92ddbb66"
+  }
+ },
+ "lossless_copy": {
+  "file": "data/originals/jukebox-191403_rusty-rags/loc_original.flac",
+  "bytes": 10859106,
+  "pcm_md5_wav": "93daa6add98c246a8bd00284d8e4ac0b",
+  "pcm_md5_flac": "93daa6add98c246a8bd00284d8e4ac0b",
+  "bit_exact": true
+ }
+}

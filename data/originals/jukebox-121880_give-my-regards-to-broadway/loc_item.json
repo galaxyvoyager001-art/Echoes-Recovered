@@ -1,0 +1,1686 @@
+{
+ "articles_and_essays": [
+  {
+   "score": 6.5018044,
+   "title": "Songs by George M. Cohan | Playlist of Recordings | About this Collection | National Jukebox | Digital Collections",
+   "url": "https://www.loc.gov/collections/national-jukebox/about-this-collection/playlists/songs-by-george-m-cohan/"
+  }
+ ],
+ "cite_this": {
+  "apa": "Dudley, S. H., Cohan, G. M., Cohan, G. M. &amp; Kernell, F. I. E. (1905) <cite>Give my regards to Broadway</cite>. [Audio] Retrieved from the Library of Congress, https://www.loc.gov/item/jukebox-121880/.",
+  "chicago": "Dudley, S. H, George M Cohan, George M Cohan, and Frank I.E Kernell. <cite>Give my regards to Broadway</cite>. 1905. Audio. https://www.loc.gov/item/jukebox-121880/.",
+  "mla": "Dudley, S. H, et al. <cite>Give my regards to Broadway</cite>. 1905. Audio. Retrieved from the Library of Congress, &lt;www.loc.gov/item/jukebox-121880/&gt;."
+ },
+ "item": {
+  "_version_": 1878217059005890560,
+  "access_restricted": false,
+  "aka": [
+   "http://www.loc.gov/jukebox/recordings/detail/id/820",
+   "http://www.loc.gov/item/jukebox-121880/",
+   "http://www.loc.gov/resource/jukebox-121880.0/",
+   "http://www.loc.gov/resource/jukebox-121880.1/",
+   "http://www.loc.gov/resource/jukebox-121880.0",
+   "http://www.loc.gov/resource/jukebox-121880.1"
+  ],
+  "audio_type": "Vocal",
+  "campaigns": [],
+  "contributor_composer": [
+   "cohan, george m."
+  ],
+  "contributor_lyricist": [
+   "cohan, george m."
+  ],
+  "contributor_names": [
+   "Dudley, S. H. -- Vocalist -- Baritone Vocal",
+   "Cohan, George M. -- Composer -- Composer",
+   "Cohan, George M. -- Lyricist -- Lyricist",
+   "Kernell, Frank [i.e., Samuel H. Dudley] -- Vocalist -- Baritone Vocal"
+  ],
+  "contributor_primary": [
+   "kernell, frank [i.e., samuel h. dudley]"
+  ],
+  "contributor_vocalist": [
+   "dudley, s. h.",
+   "kernell, frank [i.e., samuel h. dudley]"
+  ],
+  "contributors": [
+   {
+    "cohan, george m.": "https://www.loc.gov/search/?fa=contributor:cohan,+george+m.&fo=json"
+   },
+   {
+    "dudley, s. h.": "https://www.loc.gov/search/?fa=contributor:dudley,+s.+h.&fo=json"
+   },
+   {
+    "kernell, frank [i.e., samuel h. dudley]": "https://www.loc.gov/search/?fa=contributor:kernell,+frank+%5Bi.e.,+samuel+h.+dudley%5D&fo=json"
+   }
+  ],
+  "contributors_composer": [
+   {
+    "cohan, george m.": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_composer:cohan,+george+m.&fo=json"
+   }
+  ],
+  "contributors_lyricist": [
+   {
+    "cohan, george m.": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_lyricist:cohan,+george+m.&fo=json"
+   }
+  ],
+  "contributors_primary": [
+   {
+    "kernell, frank [i.e., samuel h. dudley]": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_primary:kernell,+frank+%5Bi.e.,+samuel+h.+dudley%5D&fo=json"
+   }
+  ],
+  "contributors_vocalist": [
+   {
+    "dudley, s. h.": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_vocalist:dudley,+s.+h.&fo=json"
+   },
+   {
+    "kernell, frank [i.e., samuel h. dudley]": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_vocalist:kernell,+frank+%5Bi.e.,+samuel+h.+dudley%5D&fo=json"
+   }
+  ],
+  "date": "1905-06-21",
+  "dates": [
+   {
+    "1905-06-21": "https://www.loc.gov/search/?dates=1905-06-21/1905-06-21&fo=json"
+   }
+  ],
+  "description": [
+   "Victor 4385. Matrix/Take: B-2654/3."
+  ],
+  "digitized": true,
+  "display_offsite": true,
+  "extract_timestamp": "2026-10-04T22:52:16.280Z",
+  "extract_urls": [
+   "http://www.loc.gov/item/jukebox-121880#nationaljukebox"
+  ],
+  "file_id": [
+   "dlc_victor_4385_01_b2654_03"
+  ],
+  "format": [
+   {
+    "sound recording": "https://www.loc.gov/search/?fa=original_format:sound+recording&fo=json"
+   }
+  ],
+  "genre": [
+   "Musical theater"
+  ],
+  "group": [
+   "nationaljukebox",
+   "national-jukebox"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/item/jukebox-121880/",
+  "iiif_manifest_url": "https://www.loc.gov/item/jukebox-121880/manifest.json",
+  "image_url": [
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_4385_01_b2654_03:dlc_victor_4385_01_b2654_03/full/pct:12.5/0/default.jpg#h=260&w=262",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_4385_01_b2654_03:dlc_victor_4385_01_b2654_03/full/pct:25/0/default.jpg#h=521&w=524",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_4385_01_b2654_03:dlc_victor_4385_01_b2654_03/full/pct:50/0/default.jpg#h=1043&w=1049",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_4385_01_b2654_03:dlc_victor_4385_01_b2654_03/full/pct:100/0/default.jpg#h=2086&w=2098"
+  ],
+  "index": 1,
+  "item": {
+   "audio_type": "Vocal",
+   "contributors": [
+    "Dudley, S. H. -- Vocalist -- Baritone Vocal",
+    "Cohan, George M. -- Composer -- Composer",
+    "Cohan, George M. -- Lyricist -- Lyricist",
+    "Kernell, Frank [i.e., Samuel H. Dudley] -- Vocalist -- Baritone Vocal"
+   ],
+   "file_id": [
+    "dlc_victor_4385_01_b2654_03"
+   ],
+   "genre": [
+    "Musical theater"
+   ],
+   "language": "English",
+   "media_size": "10-in.",
+   "profile": "jukebox",
+   "recording_catalog_number": "4385",
+   "recording_date": "1905-06-21",
+   "recording_label": "Victor",
+   "recording_matrix_number": "B-2654 (Matrix ID)",
+   "recording_repository": "Source of original recording: Recorded Sound Section, Library of Congress.",
+   "recording_take_id": 121880,
+   "recording_take_number": "3",
+   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+   "summary": "Male vocal solo, with orchestra"
+  },
+  "language": [
+   "english"
+  ],
+  "languages": [
+   {
+    "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+   }
+  ],
+  "location": [
+   "united states",
+   "philadelphia",
+   "pennsylvania"
+  ],
+  "locations": [
+   {
+    "pennsylvania": "https://www.loc.gov/search/?fa=location:pennsylvania&fo=json"
+   },
+   {
+    "philadelphia": "https://www.loc.gov/search/?fa=location:philadelphia&fo=json"
+   },
+   {
+    "united states": "https://www.loc.gov/search/?fa=location:united+states&fo=json"
+   }
+  ],
+  "media_size": "10-in.",
+  "mime_type": [
+   "audio/mpeg",
+   "audio/wav",
+   "image/tif",
+   "image/jpeg"
+  ],
+  "online_format": [
+   "audio",
+   "image"
+  ],
+  "original_format": [
+   "sound recording"
+  ],
+  "other_formats": [],
+  "other_title": [
+   "Little Johnny Jones"
+  ],
+  "partof": [
+   {
+    "count": 6124,
+    "title": "recorded sound section, library of congress",
+    "url": "https://www.loc.gov/search/?fa=partof:recorded+sound+section,+library+of+congress&fo=json"
+   },
+   {
+    "count": 20273,
+    "title": "national jukebox",
+    "url": "https://www.loc.gov/collections/national-jukebox/?fo=json"
+   },
+   {
+    "count": 20496,
+    "title": "recorded sound research center",
+    "url": "https://www.loc.gov/search/?fa=partof:recorded+sound+research+center&fo=json"
+   }
+  ],
+  "partof_repository": [
+   "recorded sound section, library of congress"
+  ],
+  "profile": "jukebox",
+  "recording_catalog_number": "4385",
+  "recording_date": "1905-06-21",
+  "recording_label": "Victor",
+  "recording_matrix_number": "B-2654 (Matrix ID)",
+  "recording_repository": "Source of original recording: Recorded Sound Section, Library of Congress.",
+  "recording_take_id": 121880,
+  "recording_take_number": "3",
+  "resources": [
+   {
+    "files": 1,
+    "media": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_4385_01_b2654_03:dlc_victor_4385_01_b2654_03/full/full/0/full/default.mp3",
+    "url": "https://www.loc.gov/resource/jukebox-121880.0"
+   },
+   {
+    "files": 1,
+    "image": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_4385_01_b2654_03:dlc_victor_4385_01_b2654_03/full/pct:100/0/default.jpg",
+    "mimetype": "image/jpeg",
+    "url": "https://www.loc.gov/resource/jukebox-121880.1"
+   }
+  ],
+  "rights": [
+   "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
+  ],
+  "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+  "score": 15.331501,
+  "shard": "01",
+  "shelf_id": "Victor 4385",
+  "site": [
+   "nationaljukebox"
+  ],
+  "source_modified": "2000-01-01T12:00:00Z",
+  "subject": [
+   "vocal",
+   "victor",
+   "musical theater"
+  ],
+  "subject_category": [
+   "vocal"
+  ],
+  "subject_genre": [
+   "musical theater"
+  ],
+  "subject_label": [
+   "victor"
+  ],
+  "subjects": [
+   {
+    "musical theater": "https://www.loc.gov/search/?fa=subject:musical+theater&fo=json"
+   },
+   {
+    "victor": "https://www.loc.gov/search/?fa=subject:victor&fo=json"
+   },
+   {
+    "vocal": "https://www.loc.gov/search/?fa=subject:vocal&fo=json"
+   }
+  ],
+  "subjects_category": [
+   {
+    "vocal": "https://www.loc.gov/collections/national-jukebox/?fa=subject_category:vocal&fo=json"
+   }
+  ],
+  "subjects_genre": [
+   {
+    "musical theater": "https://www.loc.gov/collections/national-jukebox/?fa=subject_genre:musical+theater&fo=json"
+   }
+  ],
+  "subjects_label": [
+   {
+    "victor": "https://www.loc.gov/collections/national-jukebox/?fa=subject_label:victor&fo=json"
+   }
+  ],
+  "summary": "Male vocal solo, with orchestra",
+  "timestamp": "2026-10-05T13:36:09.666Z",
+  "title": "Give my regards to Broadway",
+  "type": [
+   "sound recording-musical"
+  ],
+  "url": "https://www.loc.gov/item/jukebox-121880/"
+ },
+ "more_like_this": [
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/6121",
+    "http://www.loc.gov/item/jukebox-249781/",
+    "http://www.loc.gov/resource/jukebox-249781.0/",
+    "http://www.loc.gov/resource/jukebox-249781.1/",
+    "http://www.loc.gov/resource/jukebox-249781.0",
+    "http://www.loc.gov/resource/jukebox-249781.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "kernell, frank [i.e., samuel h. dudley]",
+    "jones, ada",
+    "blossom, henry",
+    "dudley, s. h.",
+    "herbert, victor",
+    "murray, billy"
+   ],
+   "date": "1906-12-13",
+   "dates": [
+    "1906-12-13"
+   ],
+   "description": [
+    "Victor 4970. Matrix/Take: B-4093/3."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T02:54:37.702Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-249781/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_4970_01_b4093_03:dlc_victor_4970_01_b4093_03/full/pct:12.5/0/default.jpg#h=209&w=207",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_4970_01_b4093_03:dlc_victor_4970_01_b4093_03/full/pct:25/0/default.jpg#h=418&w=414",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_4970_01_b4093_03:dlc_victor_4970_01_b4093_03/full/pct:50/0/default.jpg#h=836&w=829",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_4970_01_b4093_03:dlc_victor_4970_01_b4093_03/full/pct:100/0/default.jpg#h=1673&w=1658"
+   ],
+   "index": 1,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "united states",
+    "philadelphia",
+    "pennsylvania"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "The red mill"
+   ],
+   "partof": [
+    "recorded sound section, library of congress",
+    "national jukebox",
+    "recorded sound research center"
+   ],
+   "score": 47.022964,
+   "shelf_id": "Victor 4970",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "vocal",
+    "whistling",
+    "victor",
+    "musical theater"
+   ],
+   "timestamp": "2026-10-05T14:08:35.041Z",
+   "title": "Whistle it",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-249781/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/6022",
+    "http://www.loc.gov/item/jukebox-248606/",
+    "http://www.loc.gov/resource/jukebox-248606.0/",
+    "http://www.loc.gov/resource/jukebox-248606.1/",
+    "http://www.loc.gov/resource/jukebox-248606.0",
+    "http://www.loc.gov/resource/jukebox-248606.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "stanley, frank c.",
+    "haydn quartet",
+    "macdonough, harry",
+    "dudley, s. h.",
+    "hooley, william f.",
+    "morgan, corinne",
+    "cohan, george m."
+   ],
+   "date": "1906-01-12",
+   "dates": [
+    "1906-01-12"
+   ],
+   "description": [
+    "Victor 4590. Matrix/Take: B-2999/2."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T02:53:27.463Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-248606/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_4590_01_b2999_02:dlc_victor_4590_01_b2999_02/full/pct:12.5/0/default.jpg#h=225&w=227",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_4590_01_b2999_02:dlc_victor_4590_01_b2999_02/full/pct:25/0/default.jpg#h=451&w=454",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_4590_01_b2999_02:dlc_victor_4590_01_b2999_02/full/pct:50/0/default.jpg#h=903&w=908",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_4590_01_b2999_02:dlc_victor_4590_01_b2999_02/full/pct:100/0/default.jpg#h=1807&w=1816"
+   ],
+   "index": 2,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "united states",
+    "philadelphia",
+    "pennsylvania"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Forty-five minutes from Broadway"
+   ],
+   "partof": [
+    "recorded sound section, library of congress",
+    "national jukebox",
+    "recorded sound research center"
+   ],
+   "score": 45.252,
+   "shelf_id": "Victor 4590",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "vocal",
+    "victor",
+    "musical theater"
+   ],
+   "timestamp": "2026-10-05T14:08:17.442Z",
+   "title": "So long, Mary!",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-248606/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/726",
+    "http://www.loc.gov/item/jukebox-121385/",
+    "http://www.loc.gov/resource/jukebox-121385.0/",
+    "http://www.loc.gov/resource/jukebox-121385.1/",
+    "http://www.loc.gov/resource/jukebox-121385.0",
+    "http://www.loc.gov/resource/jukebox-121385.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "edwards, gus",
+    "dudley, s. h.",
+    "kernell, frank [i.e., samuel h. dudley]",
+    "bryan, vincent"
+   ],
+   "date": "1905-02-28",
+   "dates": [
+    "1905-02-28"
+   ],
+   "description": [
+    "Victor 4297. Matrix/Take: B-2351/2."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-04T22:49:46.326Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-121385/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_4297_01_b2351_02:dlc_victor_4297_01_b2351_02/full/pct:12.5/0/default.jpg#h=268&w=271",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_4297_01_b2351_02:dlc_victor_4297_01_b2351_02/full/pct:25/0/default.jpg#h=536&w=543",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_4297_01_b2351_02:dlc_victor_4297_01_b2351_02/full/pct:50/0/default.jpg#h=1072&w=1086",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_4297_01_b2351_02:dlc_victor_4297_01_b2351_02/full/pct:100/0/default.jpg#h=2144&w=2173"
+   ],
+   "index": 3,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "united states",
+    "philadelphia",
+    "pennsylvania"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Burlesque 'Indian' song"
+   ],
+   "partof": [
+    "recorded sound section, library of congress",
+    "national jukebox",
+    "recorded sound research center"
+   ],
+   "score": 40.804714,
+   "shelf_id": "Victor 4297",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "vocal",
+    "humorous songs",
+    "victor",
+    "ethnic characterizations"
+   ],
+   "timestamp": "2026-10-05T13:35:50.838Z",
+   "title": "Tammany",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-121385/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-246196/",
+    "http://www.loc.gov/resource/jukebox-246196.0/",
+    "http://www.loc.gov/resource/jukebox-246196.1/",
+    "http://www.loc.gov/resource/jukebox-246196.0",
+    "http://www.loc.gov/resource/jukebox-246196.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "cohan, george m.",
+    "murray, billy"
+   ],
+   "date": "1905-11-16",
+   "dates": [
+    "1905-11-16"
+   ],
+   "description": [
+    "Victor 16799. Matrix/Take: B-1991/6."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T02:50:34.763Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-246196/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_16799_01_b1991_06:dlc_victor_16799_01_b1991_06/full/pct:12.5/0/default.jpg#h=266&w=264",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_16799_01_b1991_06:dlc_victor_16799_01_b1991_06/full/pct:25/0/default.jpg#h=532&w=529",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_16799_01_b1991_06:dlc_victor_16799_01_b1991_06/full/pct:50/0/default.jpg#h=1065&w=1058",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_16799_01_b1991_06:dlc_victor_16799_01_b1991_06/full/pct:100/0/default.jpg#h=2131&w=2117"
+   ],
+   "index": 4,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "united states",
+    "philadelphia",
+    "pennsylvania"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Little Johnny Jones"
+   ],
+   "partof": [
+    "recorded sound section, library of congress",
+    "national jukebox",
+    "recorded sound research center"
+   ],
+   "score": 39.170143,
+   "shelf_id": "Victor 16799",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "vocal",
+    "victor",
+    "musical theater"
+   ],
+   "timestamp": "2026-10-05T14:07:58.680Z",
+   "title": "The Yankee Doodle boy",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-246196/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/948",
+    "http://www.loc.gov/item/jukebox-122491/",
+    "http://www.loc.gov/resource/jukebox-122491.0/",
+    "http://www.loc.gov/resource/jukebox-122491.1/",
+    "http://www.loc.gov/resource/jukebox-122491.0",
+    "http://www.loc.gov/resource/jukebox-122491.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "cohan, george m.",
+    "murray, billy"
+   ],
+   "date": "1906-02-06",
+   "dates": [
+    "1906-02-06"
+   ],
+   "description": [
+    "Victor 4634. Matrix/Take: B-3086/3."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-04T22:56:49.703Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-122491/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_4634_02_b3086_03:dlc_victor_4634_02_b3086_03/full/pct:12.5/0/default.jpg#h=248&w=248",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_4634_02_b3086_03:dlc_victor_4634_02_b3086_03/full/pct:25/0/default.jpg#h=496&w=496",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_4634_02_b3086_03:dlc_victor_4634_02_b3086_03/full/pct:50/0/default.jpg#h=992&w=992",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_4634_02_b3086_03:dlc_victor_4634_02_b3086_03/full/pct:100/0/default.jpg#h=1985&w=1985"
+   ],
+   "index": 5,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "united states",
+    "philadelphia",
+    "pennsylvania"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "The grand old flag",
+    "George Washington, Jr"
+   ],
+   "partof": [
+    "recorded sound section, library of congress",
+    "national jukebox",
+    "recorded sound research center"
+   ],
+   "score": 39.170143,
+   "shelf_id": "Victor 4634",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "vocal",
+    "victor",
+    "musical theater"
+   ],
+   "timestamp": "2026-10-05T13:36:53.838Z",
+   "title": "The grand old rag",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-122491/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/949",
+    "http://www.loc.gov/item/jukebox-122494/",
+    "http://www.loc.gov/resource/jukebox-122494.0/",
+    "http://www.loc.gov/resource/jukebox-122494.1/",
+    "http://www.loc.gov/resource/jukebox-122494.0",
+    "http://www.loc.gov/resource/jukebox-122494.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "cohan, george m.",
+    "murray, billy"
+   ],
+   "date": "1906-02-09",
+   "dates": [
+    "1906-02-09"
+   ],
+   "description": [
+    "Victor 4634. Matrix/Take: E-3086/1."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-04T22:56:49.703Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-122494/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_4634_01_e3086_01:dlc_victor_4634_01_e3086_01/full/pct:12.5/0/default.jpg#h=211&w=213",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_4634_01_e3086_01:dlc_victor_4634_01_e3086_01/full/pct:25/0/default.jpg#h=422&w=426",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_4634_01_e3086_01:dlc_victor_4634_01_e3086_01/full/pct:50/0/default.jpg#h=844&w=852",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_4634_01_e3086_01:dlc_victor_4634_01_e3086_01/full/pct:100/0/default.jpg#h=1688&w=1704"
+   ],
+   "index": 6,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "united states",
+    "philadelphia",
+    "pennsylvania"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "George Washington, Jr"
+   ],
+   "partof": [
+    "recorded sound section, library of congress",
+    "national jukebox",
+    "recorded sound research center"
+   ],
+   "score": 39.170143,
+   "shelf_id": "Victor 4634",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "vocal",
+    "victor",
+    "musical theater"
+   ],
+   "timestamp": "2026-10-05T13:36:53.838Z",
+   "title": "The grand old rag",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-122494/"
+  }
+ ],
+ "notice": {
+  "info": "<strong>COLUMBUS DAY HOLIDAY:</strong> On Monday, October 12, 2026, The Jefferson Building Great Hall and exhibitions will be open from 10 a.m. - 5 p.m. to guests with timed-entry passes. The Main Reading Room will be open to visitors, no research or collections services available. All other reading rooms, the Madison and Adams Buildings will be CLOSED to the public. Regularly scheduled access resumes on Tuesday, October 13. \n",
+  "status": "production"
+ },
+ "options": {
+  "access_group": [
+   ""
+  ],
+  "access_group_raw": "",
+  "all": null,
+  "api_version": "1",
+  "app_context": null,
+  "application_shim": null,
+  "application_version": "$Revision$",
+  "attribute": null,
+  "attribute!": null,
+  "attribute_map": null,
+  "cache_tags": [
+   "nationaljukebox",
+   "national-jukebox",
+   "sgpmiscnews/dlc",
+   "miscellaneous-newspaper"
+  ],
+  "callback": null,
+  "clip": null,
+  "clip_image_width": null,
+  "clip_rotation": null,
+  "content_filter": null,
+  "content_replacement": "",
+  "count": null,
+  "dates": null,
+  "default_count": 25,
+  "delimiter": null,
+  "digital_id": null,
+  "display_level": null,
+  "distance": null,
+  "downloadOption": null,
+  "duration": 17.636568069458008,
+  "embed": [],
+  "embed!": [],
+  "error_response_status": null,
+  "excludeTerms": null,
+  "facetLimits": "",
+  "facetPrefix": null,
+  "facet_count": null,
+  "facet_style": null,
+  "field": null,
+  "form_facets": [
+   {
+    "field": "subject_label",
+    "select": "multiple"
+   },
+   {
+    "field": "subject_category",
+    "select": "multiple"
+   },
+   {
+    "field": "language",
+    "select": "multiple"
+   }
+  ],
+  "format": "json",
+  "host": "www.loc.gov",
+  "ical": false,
+  "id": "jukebox-121880/",
+  "iiif": false,
+  "include_facets": [
+   {
+    "field": "original-format"
+   },
+   {
+    "field": "partof_repository",
+    "label": "Repository"
+   },
+   {
+    "field": "subject_label",
+    "label": "Label"
+   },
+   {
+    "field": "dates"
+   },
+   {
+    "field": "subject_genre",
+    "label": "Genre"
+   },
+   {
+    "closed": true,
+    "field": "subject_target_audience",
+    "label": "Target Audience"
+   },
+   {
+    "closed": true,
+    "field": "subject_category",
+    "label": "Category"
+   },
+   {
+    "closed": true,
+    "field": "location"
+   },
+   {
+    "closed": true,
+    "field": "contributor"
+   },
+   {
+    "closed": true,
+    "field": "contributor_vocalist",
+    "label": "Vocalist"
+   },
+   {
+    "closed": true,
+    "field": "contributor_composer",
+    "label": "Composer"
+   },
+   {
+    "closed": true,
+    "field": "contributor_lyricist",
+    "label": "Lyricist"
+   },
+   {
+    "closed": true,
+    "field": "contributor_author",
+    "label": "Author"
+   },
+   {
+    "closed": true,
+    "field": "contributor_performer",
+    "label": "Performer"
+   },
+   {
+    "closed": true,
+    "field": "contributor_musical_group",
+    "label": "Musical Group"
+   },
+   {
+    "closed": true,
+    "field": "subject"
+   },
+   {
+    "closed": true,
+    "field": "language"
+   },
+   {
+    "field": "access-restricted"
+   }
+  ],
+  "index": null,
+  "inputEncoding": "UTF-8",
+  "item": null,
+  "items": null,
+  "keys": null,
+  "language": null,
+  "latlong": null,
+  "method": "GET",
+  "newSearch": null,
+  "new_clip_url": false,
+  "onsite": false,
+  "operator": null,
+  "outputEncoding": "UTF-8",
+  "page_campaigns": [],
+  "path_info": "/item/jukebox-121880/",
+  "port": "443",
+  "proxypath": null,
+  "query_string": "fo=json",
+  "redirect_proxy": false,
+  "redirect_to_item": null,
+  "referer": "",
+  "region": "",
+  "release_id": 123456789,
+  "request_host": "www.loc.gov",
+  "request_params": {
+   "fo": [
+    "json"
+   ]
+  },
+  "request_url": "https://www.loc.gov/item/jukebox-121880/?fo=json",
+  "resource": "",
+  "resource_sequence": null,
+  "scheme": "https",
+  "searchIn": null,
+  "searchTerms": "",
+  "segments": null,
+  "shards": [
+   "01"
+  ],
+  "site_date_range": "1900-01-01/1925-12-31",
+  "site_defaults": [],
+  "site_id": null,
+  "site_type": null,
+  "solrQuery": "",
+  "sortBy": null,
+  "sortOrder": null,
+  "startPage": null,
+  "style": null,
+  "suggested": null,
+  "target": null,
+  "template": "layouts/item/layout",
+  "timestamp": 1791307893.5524924,
+  "tz_aware": null,
+  "unionFacets": "",
+  "webcast_permalink": null
+ },
+ "related_items": [
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/sn84026371/1776-07-10/ed-1/",
+    "http://www.loc.gov/resource/sn84026371/1776-07-10/ed-1/"
+   ],
+   "batch": [
+    "dlc_misctopsn84026371_ver01"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "library of congress, washington, dc"
+   ],
+   "date": "1776-07-10",
+   "dates": [
+    "1776-07-10"
+   ],
+   "description": [
+    "Philadelphia, Pa."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-06-05T10:00:16.770Z",
+   "group": [
+    "sgpmiscnews/dlc",
+    "miscellaneous-newspaper"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/sn84026371/1776-07-10/ed-1/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_misctopsn84026371_ver01:data:sn84026371:print:1776071001:0001/full/pct:6.25/0/default.jpg#h=329&w=203",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_misctopsn84026371_ver01:data:sn84026371:print:1776071001:0001/full/pct:12.5/0/default.jpg#h=659&w=406"
+   ],
+   "index": 1,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "united states",
+    "york county",
+    "pennsylvanie",
+    "philadelphia",
+    "philadelphia county",
+    "pennsylvania",
+    "york"
+   ],
+   "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg"
+   ],
+   "number": [
+    "sn84026371",
+    "1"
+   ],
+   "numeric_shelf_id": 177607101,
+   "online_format": [
+    "image",
+    "pdf",
+    "online text"
+   ],
+   "original_format": [
+    "newspaper"
+   ],
+   "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the pennsylvania gazette (philadelphia, pa.) 1729-1778"
+   ],
+   "publication_frequency": [
+    "weekly"
+   ],
+   "score": 14.816472,
+   "shelf_id": "sn84026371, 1776-07-10, Edition 1",
+   "site": [
+    "chroniclingamerica"
+   ],
+   "subject": [
+    "période coloniale)",
+    "philadelphia (pa.)",
+    "publicaciones periódicas",
+    "newspapers",
+    "york county (pa.)",
+    "united states",
+    "histoire",
+    "york",
+    "pennsylvanie",
+    "périodiques",
+    "york county",
+    "philadelphia",
+    "philadelphia county",
+    "états-unis",
+    "pennsylvania",
+    "philadelphia county (pa.)",
+    "york (pa.)"
+   ],
+   "timestamp": "2026-06-05T10:10:58.852Z",
+   "title": "The Pennsylvania gazette (Philadelphia, Pa.), July 10, 1776",
+   "type": [
+    "issue"
+   ],
+   "url": "https://www.loc.gov/item/sn84026371/1776-07-10/ed-1/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/sn85047530/1776-07-10/ed-1/",
+    "http://www.loc.gov/resource/sn85047530/1776-07-10/ed-1/"
+   ],
+   "batch": [
+    "dlc_misctopsn85047530_ver01"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "library of congress, washington, dc"
+   ],
+   "date": "1776-07-10",
+   "dates": [
+    "1776-07-10"
+   ],
+   "description": [
+    "Philadelphia, Pa."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-06-05T10:00:16.770Z",
+   "group": [
+    "sgpmiscnews/dlc",
+    "miscellaneous-newspaper"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/sn85047530/1776-07-10/ed-1/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_misctopsn85047530_ver01:data:sn85047530:print:1776071001:0001/full/pct:6.25/0/default.jpg#h=327&w=200",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_misctopsn85047530_ver01:data:sn85047530:print:1776071001:0001/full/pct:12.5/0/default.jpg#h=655&w=400"
+   ],
+   "index": 2,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "philadelphia",
+    "united states",
+    "philadelphia county",
+    "pennsylvania"
+   ],
+   "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg"
+   ],
+   "number": [
+    "sn85047530",
+    "1"
+   ],
+   "numeric_shelf_id": 177607101,
+   "online_format": [
+    "image",
+    "pdf",
+    "online text"
+   ],
+   "original_format": [
+    "newspaper"
+   ],
+   "other_title": [
+    "Published as: Pennsylvania journal and weekly advertiser",
+    "Published as: Pennsylvania journal and the weekly advertiser",
+    "Pennsylvania journal",
+    "Weekly advertiser"
+   ],
+   "partof": [
+    "the pennsylvania journal, or, weekly advertiser (philadelphia, pa.) 1742-1793",
+    "chronicling america",
+    "serial and government publications division"
+   ],
+   "publication_frequency": [
+    "other"
+   ],
+   "score": 14.816472,
+   "shelf_id": "sn85047530, 1776-07-10, Edition 1",
+   "site": [
+    "chroniclingamerica"
+   ],
+   "subject": [
+    "philadelphia (pa.)",
+    "newspapers",
+    "united states",
+    "philadelphia",
+    "philadelphia county",
+    "pennsylvania",
+    "philadelphia county (pa.)"
+   ],
+   "timestamp": "2026-06-05T10:10:58.852Z",
+   "title": "The Pennsylvania journal, or, Weekly advertiser (Philadelphia, Pa.), July 10, 1776",
+   "type": [
+    "issue"
+   ],
+   "url": "https://www.loc.gov/item/sn85047530/1776-07-10/ed-1/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/sn84026371/1751-05-09/ed-1/",
+    "http://www.loc.gov/resource/sn84026371/1751-05-09/ed-1/"
+   ],
+   "batch": [
+    "dlc_misctopjod_ver01"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "library of congress, washington, dc"
+   ],
+   "date": "1751-05-09",
+   "dates": [
+    "1751-05-09"
+   ],
+   "description": [
+    "Philadelphia, Pa."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-06-05T10:00:15.593Z",
+   "group": [
+    "sgpmiscnews/dlc",
+    "miscellaneous-newspaper"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/sn84026371/1751-05-09/ed-1/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_misctopjod_ver01:data:sn84026371:print:1751050901:0001/full/pct:6.25/0/default.jpg#h=392&w=262",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_misctopjod_ver01:data:sn84026371:print:1751050901:0001/full/pct:12.5/0/default.jpg#h=784&w=524"
+   ],
+   "index": 3,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "united states",
+    "york county",
+    "pennsylvanie",
+    "philadelphia",
+    "philadelphia county",
+    "pennsylvania",
+    "york"
+   ],
+   "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg"
+   ],
+   "number": [
+    "sn84026371",
+    "1"
+   ],
+   "numeric_shelf_id": 175105091,
+   "online_format": [
+    "image",
+    "pdf",
+    "online text"
+   ],
+   "original_format": [
+    "newspaper"
+   ],
+   "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the pennsylvania gazette (philadelphia, pa.) 1729-1778"
+   ],
+   "publication_frequency": [
+    "weekly"
+   ],
+   "score": 14.816472,
+   "shelf_id": "sn84026371, 1751-05-09, Edition 1",
+   "site": [
+    "chroniclingamerica"
+   ],
+   "subject": [
+    "période coloniale)",
+    "philadelphia (pa.)",
+    "publicaciones periódicas",
+    "newspapers",
+    "york county (pa.)",
+    "united states",
+    "histoire",
+    "york",
+    "pennsylvanie",
+    "périodiques",
+    "york county",
+    "philadelphia",
+    "philadelphia county",
+    "états-unis",
+    "pennsylvania",
+    "philadelphia county (pa.)",
+    "york (pa.)"
+   ],
+   "timestamp": "2026-06-05T10:02:13.840Z",
+   "title": "The Pennsylvania gazette (Philadelphia, Pa.), May 9, 1751",
+   "type": [
+    "issue"
+   ],
+   "url": "https://www.loc.gov/item/sn84026371/1751-05-09/ed-1/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/sn84026371/1754-05-09/ed-1/",
+    "http://www.loc.gov/resource/sn84026371/1754-05-09/ed-1/"
+   ],
+   "batch": [
+    "dlc_misctopjod_ver01"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "library of congress, washington, dc"
+   ],
+   "date": "1754-05-09",
+   "dates": [
+    "1754-05-09"
+   ],
+   "description": [
+    "Philadelphia, Pa."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-06-05T10:00:15.593Z",
+   "group": [
+    "sgpmiscnews/dlc",
+    "miscellaneous-newspaper"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/sn84026371/1754-05-09/ed-1/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_misctopjod_ver01:data:sn84026371:print:1754050901:0001/full/pct:6.25/0/default.jpg#h=393&w=259",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_misctopjod_ver01:data:sn84026371:print:1754050901:0001/full/pct:12.5/0/default.jpg#h=787&w=518"
+   ],
+   "index": 4,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "united states",
+    "york county",
+    "pennsylvanie",
+    "philadelphia",
+    "philadelphia county",
+    "pennsylvania",
+    "york"
+   ],
+   "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg"
+   ],
+   "number": [
+    "sn84026371",
+    "1"
+   ],
+   "numeric_shelf_id": 175405091,
+   "online_format": [
+    "image",
+    "pdf",
+    "online text"
+   ],
+   "original_format": [
+    "newspaper"
+   ],
+   "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the pennsylvania gazette (philadelphia, pa.) 1729-1778"
+   ],
+   "publication_frequency": [
+    "weekly"
+   ],
+   "score": 14.816472,
+   "shelf_id": "sn84026371, 1754-05-09, Edition 1",
+   "site": [
+    "chroniclingamerica"
+   ],
+   "subject": [
+    "période coloniale)",
+    "philadelphia (pa.)",
+    "publicaciones periódicas",
+    "newspapers",
+    "york county (pa.)",
+    "united states",
+    "histoire",
+    "york",
+    "pennsylvanie",
+    "périodiques",
+    "york county",
+    "philadelphia",
+    "philadelphia county",
+    "états-unis",
+    "pennsylvania",
+    "philadelphia county (pa.)",
+    "york (pa.)"
+   ],
+   "timestamp": "2026-06-05T10:02:13.840Z",
+   "title": "The Pennsylvania gazette (Philadelphia, Pa.), May 9, 1754",
+   "type": [
+    "issue"
+   ],
+   "url": "https://www.loc.gov/item/sn84026371/1754-05-09/ed-1/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/sn85047530/1774-07-27/ed-1/",
+    "http://www.loc.gov/resource/sn85047530/1774-07-27/ed-1/"
+   ],
+   "batch": [
+    "dlc_misctopjod_ver01"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "library of congress, washington, dc"
+   ],
+   "date": "1774-07-27",
+   "dates": [
+    "1774-07-27"
+   ],
+   "description": [
+    "Philadelphia, Pa."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-06-05T10:00:15.593Z",
+   "group": [
+    "sgpmiscnews/dlc",
+    "miscellaneous-newspaper"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/sn85047530/1774-07-27/ed-1/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_misctopjod_ver01:data:sn85047530:print:1774072701:0001/full/pct:6.25/0/default.jpg#h=436&w=301",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_misctopjod_ver01:data:sn85047530:print:1774072701:0001/full/pct:12.5/0/default.jpg#h=872&w=603"
+   ],
+   "index": 5,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "philadelphia",
+    "united states",
+    "philadelphia county",
+    "pennsylvania"
+   ],
+   "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg"
+   ],
+   "number": [
+    "sn85047530",
+    "1"
+   ],
+   "numeric_shelf_id": 177407271,
+   "online_format": [
+    "image",
+    "pdf",
+    "online text"
+   ],
+   "original_format": [
+    "newspaper"
+   ],
+   "other_title": [
+    "Published as: Pennsylvania journal and weekly advertiser",
+    "Published as: Pennsylvania journal and the weekly advertiser",
+    "Pennsylvania journal",
+    "Weekly advertiser"
+   ],
+   "partof": [
+    "the pennsylvania journal, or, weekly advertiser (philadelphia, pa.) 1742-1793",
+    "chronicling america",
+    "serial and government publications division"
+   ],
+   "publication_frequency": [
+    "other"
+   ],
+   "score": 14.816472,
+   "shelf_id": "sn85047530, 1774-07-27, Edition 1",
+   "site": [
+    "chroniclingamerica"
+   ],
+   "subject": [
+    "philadelphia (pa.)",
+    "newspapers",
+    "united states",
+    "philadelphia",
+    "philadelphia county",
+    "pennsylvania",
+    "philadelphia county (pa.)"
+   ],
+   "timestamp": "2026-06-05T10:02:13.840Z",
+   "title": "The Pennsylvania journal, or, Weekly advertiser (Philadelphia, Pa.), July 27, 1774",
+   "type": [
+    "issue"
+   ],
+   "url": "https://www.loc.gov/item/sn85047530/1774-07-27/ed-1/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/sn85047530/1775-12-27/ed-1/",
+    "http://www.loc.gov/resource/sn85047530/1775-12-27/ed-1/"
+   ],
+   "batch": [
+    "dlc_misctopjod_ver01"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "library of congress, washington, dc"
+   ],
+   "date": "1775-12-27",
+   "dates": [
+    "1775-12-27"
+   ],
+   "description": [
+    "Philadelphia, Pa."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-06-05T10:00:15.593Z",
+   "group": [
+    "sgpmiscnews/dlc",
+    "miscellaneous-newspaper"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/sn85047530/1775-12-27/ed-1/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_misctopjod_ver01:data:sn85047530:print:1775122701:0001/full/pct:6.25/0/default.jpg#h=412&w=253",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_misctopjod_ver01:data:sn85047530:print:1775122701:0001/full/pct:12.5/0/default.jpg#h=824&w=506"
+   ],
+   "index": 6,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "philadelphia",
+    "united states",
+    "philadelphia county",
+    "pennsylvania"
+   ],
+   "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg"
+   ],
+   "number": [
+    "sn85047530",
+    "1"
+   ],
+   "numeric_shelf_id": 177512271,
+   "online_format": [
+    "image",
+    "pdf",
+    "online text"
+   ],
+   "original_format": [
+    "newspaper"
+   ],
+   "other_title": [
+    "Published as: Pennsylvania journal and weekly advertiser",
+    "Published as: Pennsylvania journal and the weekly advertiser",
+    "Pennsylvania journal",
+    "Weekly advertiser"
+   ],
+   "partof": [
+    "the pennsylvania journal, or, weekly advertiser (philadelphia, pa.) 1742-1793",
+    "chronicling america",
+    "serial and government publications division"
+   ],
+   "publication_frequency": [
+    "other"
+   ],
+   "score": 14.816472,
+   "shelf_id": "sn85047530, 1775-12-27, Edition 1",
+   "site": [
+    "chroniclingamerica"
+   ],
+   "subject": [
+    "philadelphia (pa.)",
+    "newspapers",
+    "united states",
+    "philadelphia",
+    "philadelphia county",
+    "pennsylvania",
+    "philadelphia county (pa.)"
+   ],
+   "timestamp": "2026-06-05T10:02:13.840Z",
+   "title": "The Pennsylvania journal, or, Weekly advertiser (Philadelphia, Pa.), December 27, 1775",
+   "type": [
+    "issue"
+   ],
+   "url": "https://www.loc.gov/item/sn85047530/1775-12-27/ed-1/"
+  }
+ ],
+ "resources": [
+  {
+   "audio": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_4385_01_b2654_03:dlc_victor_4385_01_b2654_03/full/full/0/full/default.mp3",
+   "files": [
+    [
+     {
+      "aspectRation": "4:3",
+      "autoPlay": false,
+      "canDownload": true,
+      "derivatives": [
+       {
+        "derivativeUrl": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/dlc_victor_4385_01_b2654_03/dlc_victor_4385_01_b2654_03.mp3"
+       }
+      ],
+      "detailUrl": "https://www.loc.gov/item/jukebox-121880",
+      "download": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_4385_01_b2654_03:dlc_victor_4385_01_b2654_03/full/full/0/full/default.mp3",
+      "duration": 158.0,
+      "filename": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/dlc_victor_4385_01_b2654_03/dlc_victor_4385_01_b2654_03.mp3",
+      "mediaType": "A",
+      "metadata": [
+       "Give my regards to Broadway",
+       "Male vocal solo, with orchestra"
+      ],
+      "mimetype": "audio/mpeg",
+      "poster": null,
+      "rights_restricted": true,
+      "shortName": "Give my regards to Broadway",
+      "thumbnail_url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_4385_01_b2654_03:dlc_victor_4385_01_b2654_03/full/pct:12.5/0/default.jpg"
+     },
+     {
+      "height": null,
+      "levels": 1,
+      "mimetype": "audio/wav",
+      "size": 13936286,
+      "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/dlc_victor_4385_01_b2654_03/dlc_victor_4385_01_b2654_03.wav",
+      "width": null
+     }
+    ]
+   ],
+   "url": "https://www.loc.gov/resource/jukebox-121880.0"
+  },
+  {
+   "files": [
+    [
+     {
+      "height": 260,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_4385_01_b2654_03:dlc_victor_4385_01_b2654_03/full/pct:12.5/0/default.jpg",
+      "width": 262
+     },
+     {
+      "height": 521,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_4385_01_b2654_03:dlc_victor_4385_01_b2654_03/full/pct:25/0/default.jpg",
+      "width": 524
+     },
+     {
+      "height": 1043,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_4385_01_b2654_03:dlc_victor_4385_01_b2654_03/full/pct:50/0/default.jpg",
+      "width": 1049
+     },
+     {
+      "height": 2086,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_4385_01_b2654_03:dlc_victor_4385_01_b2654_03/full/pct:100/0/default.jpg",
+      "width": 2098
+     },
+     {
+      "height": null,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 13155764,
+      "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/dlc_victor_4385_01_b2654_03/dlc_victor_4385_01_b2654_03.tif",
+      "width": null
+     }
+    ]
+   ],
+   "image": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_4385_01_b2654_03:dlc_victor_4385_01_b2654_03/full/pct:100/0/default.jpg",
+   "mimetype": "image/jpeg",
+   "url": "https://www.loc.gov/resource/jukebox-121880.1"
+  }
+ ],
+ "timestamp": 1791307911189
+}

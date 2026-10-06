@@ -1,0 +1,110 @@
+{
+ "id": "jukebox-186254",
+ "slug": "jukebox-186254_livery-stable-blues",
+ "title": "Livery stable blues",
+ "other_titles": [],
+ "performers": [
+  "edwards, eddie",
+  "larocca, nick",
+  "original dixieland jazz band",
+  "ragas, henry",
+  "sbarbaro, tony",
+  "shields, larry"
+ ],
+ "primary_performer": "original dixieland jazz band",
+ "contributors_with_roles": [
+  "Original Dixieland Jazz Band -- Musical Group -- Musical Group",
+  "LaRocca, Nick -- Instrumentalist -- Cornet",
+  "Edwards, Eddie -- Instrumentalist -- Trombone",
+  "Shields, Larry -- Instrumentalist -- Clarinet",
+  "Ragas, Henry -- Instrumentalist -- Piano",
+  "Sbarbaro, Tony -- Instrumentalist -- Traps",
+  "LaRocca, Nick -- Composer -- Composer"
+ ],
+ "recording_date": "1917-02-26",
+ "year": 1917,
+ "recording_location_loc": [
+  "new york",
+  "united states"
+ ],
+ "recording_city": "New York",
+ "genre_loc": [
+  "Ragtime, jazz, and more",
+  "Blues"
+ ],
+ "category": "Early jazz",
+ "summary": "Jazz/dance band",
+ "description": [
+  "Victor 18255. Matrix/Take: B-19331/1."
+ ],
+ "language": null,
+ "matrix": "B-19331 (Matrix ID)",
+ "take": "1",
+ "file_id": "dlc_victor_18255_01_b19331_01",
+ "disc": {
+  "label": "Victor",
+  "catalog_number": "18255",
+  "source_copy_prefix": "dlc"
+ },
+ "source_copy": "Source of original recording: Recorded Sound Section, Library of Congress.",
+ "duration_s": 187.0,
+ "loc_item_url": "https://www.loc.gov/item/jukebox-186254/",
+ "loc_api_url": "https://www.loc.gov/item/jukebox-186254/?fo=json",
+ "loc_files": {
+  "mp3": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/dlc_victor_18255_01_b19331_01/dlc_victor_18255_01_b19331_01.mp3",
+  "wav": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/dlc_victor_18255_01_b19331_01/dlc_victor_18255_01_b19331_01.wav",
+  "label": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18255_01_b19331_01:dlc_victor_18255_01_b19331_01/full/pct:100/0/default.jpg"
+ },
+ "curator_note": "The Original Dixieland Jazz Band's 'Livery Stable Blues' (Victor, 1917) is widely regarded as the first commercially issued jazz record.",
+ "rights": {
+  "checked_utc": "2026-10-06T18:19:59+00:00",
+  "loc_rights_and_access_text": "The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years. In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use. You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law. You may also need permission from holders of other rights, such as publicity and/or privacy rights. Credit Line: Library of Congress, National Jukebox. More about Copyright and other Restrictions . For guidance about compiling full citations consult Citing Primary Sources .",
+  "loc_rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+  "access_restricted": false,
+  "media_player_flags": {
+   "canDownload": true,
+   "rights_restricted": true
+  },
+  "cleared_for_reuse": true,
+  "status": "Public domain in the United States (published before 1923; Music Modernization Act, 17 U.S.C. 1401(a)(2)(B)(i))",
+  "reasons": [
+   "Rights & Access text states that recordings published prior to 1923 are in the public domain (Music Modernization Act).",
+   "Recording date 1917-02-26 is before 1922-01-01 (project margin so that publication also precedes 1923).",
+   "Evidence of publication: transfer is from an issued Victor disc (catalog no. 18255 in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ],
+  "caveats": [
+   "LoC: 'You are responsible for deciding whether your use of the items in this collection is legal.'",
+   "LoC: 'Some materials may be protected under international law.' Public-domain status here is asserted for the United States only.",
+   "Required credit line: 'Library of Congress, National Jukebox.'"
+  ],
+  "credit_line": "Library of Congress, National Jukebox."
+ },
+ "downloads": {
+  "wav": {
+   "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/dlc_victor_18255_01_b19331_01/dlc_victor_18255_01_b19331_01.wav",
+   "file": "data/originals/jukebox-186254_livery-stable-blues/loc_original.wav",
+   "bytes": 16543346,
+   "sha256": "5ef1270f48781aed2752fbfddefd3acac8aaed5b0085a73737324178fd170e30"
+  },
+  "mp3": {
+   "url": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/dlc_victor_18255_01_b19331_01/dlc_victor_18255_01_b19331_01.mp3",
+   "file": "data/originals/jukebox-186254_livery-stable-blues/loc_original.mp3",
+   "bytes": 1501121,
+   "sha256": "820d4b1b07966a79ce174336f3e619a6cca39a99b81b921041b1dfc8021f056b"
+  },
+  "label": {
+   "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18255_01_b19331_01:dlc_victor_18255_01_b19331_01/full/pct:100/0/default.jpg",
+   "file": "data/originals/jukebox-186254_livery-stable-blues/loc_label.jpg",
+   "bytes": 538260,
+   "sha256": "36e422b83c97a621656bf2eb6eaec26ab7e8d771c9e5cd1125293f68be58702b"
+  }
+ },
+ "lossless_copy": {
+  "file": "data/originals/jukebox-186254_livery-stable-blues/loc_original.flac",
+  "bytes": 10566521,
+  "pcm_md5_wav": "921270cd246240a0af9f8d69d730868b",
+  "pcm_md5_flac": "921270cd246240a0af9f8d69d730868b",
+  "bit_exact": true
+ }
+}
