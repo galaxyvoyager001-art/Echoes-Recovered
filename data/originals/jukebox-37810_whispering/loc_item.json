@@ -1,0 +1,1534 @@
+{
+ "articles_and_essays": [
+  {
+   "score": 6.4636297,
+   "title": "The Fox Trot | Playlist of Recordings | About this Collection | National Jukebox | Digital Collections",
+   "url": "https://www.loc.gov/collections/national-jukebox/about-this-collection/playlists/the-fox-trot/"
+  }
+ ],
+ "cite_this": {
+  "apa": "Johnson, T. E. \"., Ambassador Orchestra, Byers, H., Mueller, G., Whiteman, P., Grofé, F. [...] Schonberger, J. (1920) <cite>Whispering</cite>. [Audio] Retrieved from the Library of Congress, https://www.loc.gov/item/jukebox-37810/.",
+  "chicago": "Johnson, Theron E. \"Buster\",  Ambassador Orchestra, Hale Byers, Gus Mueller, Paul Whiteman, Ferde Grofé, Mike Pingitore, et al. <cite>Whispering</cite>. 1920. Audio. https://www.loc.gov/item/jukebox-37810/.",
+  "mla": "Johnson, Theron E. \"Buster\", et al. <cite>Whispering</cite>. 1920. Audio. Retrieved from the Library of Congress, &lt;www.loc.gov/item/jukebox-37810/&gt;."
+ },
+ "item": {
+  "_version_": 1878219640963858432,
+  "access_restricted": false,
+  "aka": [
+   "http://www.loc.gov/jukebox/recordings/detail/id/7658",
+   "http://www.loc.gov/item/jukebox-37810/",
+   "http://www.loc.gov/resource/jukebox-37810.0/",
+   "http://www.loc.gov/resource/jukebox-37810.1/",
+   "http://www.loc.gov/resource/jukebox-37810.0",
+   "http://www.loc.gov/resource/jukebox-37810.1"
+  ],
+  "audio_type": "Instrumental",
+  "campaigns": [],
+  "contributor_composer": [
+   "schonberger, john"
+  ],
+  "contributor_musical_group": [
+   "ambassador orchestra"
+  ],
+  "contributor_names": [
+   "Johnson, Theron E. \"Buster\" -- Instrumentalist -- Trombone",
+   "Ambassador Orchestra -- Musical Group -- Musical Group",
+   "Byers, Hale -- Instrumentalist -- Tenor Saxophone",
+   "Mueller, Gus -- Instrumentalist -- Alto Saxophone",
+   "Whiteman, Paul -- Instrumentalist -- Violin",
+   "Grofé, Ferde -- Instrumentalist -- Piano",
+   "Pingitore, Mike -- Instrumentalist -- Banjo",
+   "Heiss, Sammy -- Instrumentalist -- Tuba",
+   "McDonald, Harold -- Instrumentalist -- Drums",
+   "Luce, Warren -- Instrumentalist -- Slide Whistle",
+   "Grofé, Ferde -- Arranger -- Arranger",
+   "Whiteman, Paul -- Leader -- Leader",
+   "Busse, Henry -- Instrumentalist -- Trumpet",
+   "Schonberger, John -- Composer -- Composer"
+  ],
+  "contributor_primary": [
+   "ambassador orchestra"
+  ],
+  "contributors": [
+   {
+    "ambassador orchestra": "https://www.loc.gov/search/?fa=contributor:ambassador+orchestra&fo=json"
+   },
+   {
+    "busse, henry": "https://www.loc.gov/search/?fa=contributor:busse,+henry&fo=json"
+   },
+   {
+    "byers, hale": "https://www.loc.gov/search/?fa=contributor:byers,+hale&fo=json"
+   },
+   {
+    "grofé, ferde": "https://www.loc.gov/search/?fa=contributor:grof%C3%A9,+ferde&fo=json"
+   },
+   {
+    "heiss, sammy": "https://www.loc.gov/search/?fa=contributor:heiss,+sammy&fo=json"
+   },
+   {
+    "johnson, theron e. \"buster\"": "https://www.loc.gov/search/?fa=contributor:johnson,+theron+e.+%22buster%22&fo=json"
+   },
+   {
+    "luce, warren": "https://www.loc.gov/search/?fa=contributor:luce,+warren&fo=json"
+   },
+   {
+    "mcdonald, harold": "https://www.loc.gov/search/?fa=contributor:mcdonald,+harold&fo=json"
+   },
+   {
+    "mueller, gus": "https://www.loc.gov/search/?fa=contributor:mueller,+gus&fo=json"
+   },
+   {
+    "pingitore, mike": "https://www.loc.gov/search/?fa=contributor:pingitore,+mike&fo=json"
+   },
+   {
+    "schonberger, john": "https://www.loc.gov/search/?fa=contributor:schonberger,+john&fo=json"
+   },
+   {
+    "whiteman, paul": "https://www.loc.gov/search/?fa=contributor:whiteman,+paul&fo=json"
+   }
+  ],
+  "contributors_composer": [
+   {
+    "schonberger, john": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_composer:schonberger,+john&fo=json"
+   }
+  ],
+  "contributors_musical_group": [
+   {
+    "ambassador orchestra": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_musical_group:ambassador+orchestra&fo=json"
+   }
+  ],
+  "contributors_primary": [
+   {
+    "ambassador orchestra": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_primary:ambassador+orchestra&fo=json"
+   }
+  ],
+  "date": "1920-08-23",
+  "dates": [
+   {
+    "1920-08-23": "https://www.loc.gov/search/?dates=1920-08-23/1920-08-23&fo=json"
+   }
+  ],
+  "description": [
+   "Victor 18690. Matrix/Take: B-24393/9."
+  ],
+  "digitized": true,
+  "display_offsite": true,
+  "extract_timestamp": "2026-10-04T19:57:29.959Z",
+  "extract_urls": [
+   "http://www.loc.gov/item/jukebox-37810#nationaljukebox"
+  ],
+  "file_id": [
+   "dlc_victor_18690_01_b24393_09"
+  ],
+  "format": [
+   {
+    "sound recording": "https://www.loc.gov/search/?fa=original_format:sound+recording&fo=json"
+   }
+  ],
+  "genre": [
+   "Ragtime, jazz, and more"
+  ],
+  "group": [
+   "nationaljukebox",
+   "national-jukebox"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/item/jukebox-37810/",
+  "iiif_manifest_url": "https://www.loc.gov/item/jukebox-37810/manifest.json",
+  "image_url": [
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18690_01_b24393_09:dlc_victor_18690_01_b24393_09/full/pct:25/0/default.jpg#h=398&w=400",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18690_01_b24393_09:dlc_victor_18690_01_b24393_09/full/pct:50/0/default.jpg#h=796&w=801",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18690_01_b24393_09:dlc_victor_18690_01_b24393_09/full/pct:100/0/default.jpg#h=1593&w=1602"
+  ],
+  "index": 1,
+  "item": {
+   "audio_type": "Instrumental",
+   "contributors": [
+    "Johnson, Theron E. \"Buster\" -- Instrumentalist -- Trombone",
+    "Ambassador Orchestra -- Musical Group -- Musical Group",
+    "Byers, Hale -- Instrumentalist -- Tenor Saxophone",
+    "Mueller, Gus -- Instrumentalist -- Alto Saxophone",
+    "Whiteman, Paul -- Instrumentalist -- Violin",
+    "Grofé, Ferde -- Instrumentalist -- Piano",
+    "Pingitore, Mike -- Instrumentalist -- Banjo",
+    "Heiss, Sammy -- Instrumentalist -- Tuba",
+    "McDonald, Harold -- Instrumentalist -- Drums",
+    "Luce, Warren -- Instrumentalist -- Slide Whistle",
+    "Grofé, Ferde -- Arranger -- Arranger",
+    "Whiteman, Paul -- Leader -- Leader",
+    "Busse, Henry -- Instrumentalist -- Trumpet",
+    "Schonberger, John -- Composer -- Composer"
+   ],
+   "file_id": [
+    "dlc_victor_18690_01_b24393_09"
+   ],
+   "genre": [
+    "Ragtime, jazz, and more"
+   ],
+   "media_size": "10-in.",
+   "profile": "jukebox",
+   "recording_catalog_number": "18690",
+   "recording_date": "1920-08-23",
+   "recording_label": "Victor",
+   "recording_matrix_number": "B-24393 (Matrix ID)",
+   "recording_repository": "Source of original recording: Recorded Sound Section, Library of Congress.",
+   "recording_take_id": 37810,
+   "recording_take_number": "9",
+   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+   "summary": "Jazz/dance band"
+  },
+  "location": [
+   "camden",
+   "united states",
+   "new jersey"
+  ],
+  "locations": [
+   {
+    "camden": "https://www.loc.gov/search/?fa=location:camden&fo=json"
+   },
+   {
+    "new jersey": "https://www.loc.gov/search/?fa=location:new+jersey&fo=json"
+   },
+   {
+    "united states": "https://www.loc.gov/search/?fa=location:united+states&fo=json"
+   }
+  ],
+  "media_size": "10-in.",
+  "mime_type": [
+   "audio/mpeg",
+   "audio/wav",
+   "image/tif",
+   "image/jpeg"
+  ],
+  "online_format": [
+   "audio",
+   "image"
+  ],
+  "original_format": [
+   "sound recording"
+  ],
+  "other_formats": [],
+  "other_title": [
+   "Fox trot"
+  ],
+  "partof": [
+   {
+    "count": 6124,
+    "title": "recorded sound section, library of congress",
+    "url": "https://www.loc.gov/search/?fa=partof:recorded+sound+section,+library+of+congress&fo=json"
+   },
+   {
+    "count": 20273,
+    "title": "national jukebox",
+    "url": "https://www.loc.gov/collections/national-jukebox/?fo=json"
+   },
+   {
+    "count": 20496,
+    "title": "recorded sound research center",
+    "url": "https://www.loc.gov/search/?fa=partof:recorded+sound+research+center&fo=json"
+   }
+  ],
+  "partof_repository": [
+   "recorded sound section, library of congress"
+  ],
+  "profile": "jukebox",
+  "recording_catalog_number": "18690",
+  "recording_date": "1920-08-23",
+  "recording_label": "Victor",
+  "recording_matrix_number": "B-24393 (Matrix ID)",
+  "recording_repository": "Source of original recording: Recorded Sound Section, Library of Congress.",
+  "recording_take_id": 37810,
+  "recording_take_number": "9",
+  "resources": [
+   {
+    "files": 1,
+    "media": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18690_01_b24393_09:dlc_victor_18690_01_b24393_09/full/full/0/full/default.mp3",
+    "url": "https://www.loc.gov/resource/jukebox-37810.0"
+   },
+   {
+    "files": 1,
+    "image": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18690_01_b24393_09:dlc_victor_18690_01_b24393_09/full/pct:100/0/default.jpg",
+    "mimetype": "image/jpeg",
+    "url": "https://www.loc.gov/resource/jukebox-37810.1"
+   }
+  ],
+  "rights": [
+   "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
+  ],
+  "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+  "score": 15.331589,
+  "shard": "01",
+  "shelf_id": "Victor 18690",
+  "site": [
+   "nationaljukebox"
+  ],
+  "source_modified": "2000-01-01T12:00:00Z",
+  "subject": [
+   "ragtime, jazz, and more",
+   "victor",
+   "instrumental"
+  ],
+  "subject_category": [
+   "instrumental"
+  ],
+  "subject_genre": [
+   "ragtime, jazz, and more"
+  ],
+  "subject_label": [
+   "victor"
+  ],
+  "subjects": [
+   {
+    "instrumental": "https://www.loc.gov/search/?fa=subject:instrumental&fo=json"
+   },
+   {
+    "ragtime, jazz, and more": "https://www.loc.gov/search/?fa=subject:ragtime,+jazz,+and+more&fo=json"
+   },
+   {
+    "victor": "https://www.loc.gov/search/?fa=subject:victor&fo=json"
+   }
+  ],
+  "subjects_category": [
+   {
+    "instrumental": "https://www.loc.gov/collections/national-jukebox/?fa=subject_category:instrumental&fo=json"
+   }
+  ],
+  "subjects_genre": [
+   {
+    "ragtime, jazz, and more": "https://www.loc.gov/collections/national-jukebox/?fa=subject_genre:ragtime,+jazz,+and+more&fo=json"
+   }
+  ],
+  "subjects_label": [
+   {
+    "victor": "https://www.loc.gov/collections/national-jukebox/?fa=subject_label:victor&fo=json"
+   }
+  ],
+  "summary": "Jazz/dance band",
+  "timestamp": "2026-10-05T14:17:11.978Z",
+  "title": "Whispering",
+  "type": [
+   "sound recording-musical"
+  ],
+  "url": "https://www.loc.gov/item/jukebox-37810/"
+ },
+ "more_like_this": [
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/7655",
+    "http://www.loc.gov/item/jukebox-37794/",
+    "http://www.loc.gov/resource/jukebox-37794.0/",
+    "http://www.loc.gov/resource/jukebox-37794.1/",
+    "http://www.loc.gov/resource/jukebox-37794.0",
+    "http://www.loc.gov/resource/jukebox-37794.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "mcdonald, harold",
+    "rose, vincent",
+    "whiteman, paul",
+    "ambassador orchestra",
+    "grofé, ferde",
+    "mueller, gus",
+    "simons, seymour",
+    "bayes, nora",
+    "busse, henry",
+    "luce, warren",
+    "johnson, theron e. \"buster\"",
+    "heiss, sammy",
+    "pingitore, mike",
+    "byers, hale"
+   ],
+   "date": "1920-08-23",
+   "dates": [
+    "1920-08-23"
+   ],
+   "description": [
+    "Victor 35701. Matrix/Take: C-24391/3."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-04T19:57:29.959Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-37794/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_35701_01_c24391_03:dlc_victor_35701_01_c24391_03/full/pct:12.5/0/default.jpg#h=239&w=245",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_35701_01_c24391_03:dlc_victor_35701_01_c24391_03/full/pct:25/0/default.jpg#h=478&w=490",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_35701_01_c24391_03:dlc_victor_35701_01_c24391_03/full/pct:50/0/default.jpg#h=956&w=980",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_35701_01_c24391_03:dlc_victor_35701_01_c24391_03/full/pct:100/0/default.jpg#h=1913&w=1961"
+   ],
+   "index": 1,
+   "location": [
+    "camden",
+    "united states",
+    "new jersey"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Just like a Gypsy"
+   ],
+   "partof": [
+    "recorded sound section, library of congress",
+    "recorded sound research center",
+    "national jukebox"
+   ],
+   "score": 108.83557,
+   "shelf_id": "Victor 35701",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "ragtime, jazz, and more",
+    "victor",
+    "instrumental"
+   ],
+   "timestamp": "2026-10-05T14:17:11.978Z",
+   "title": "Avalon",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-37794/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/7654",
+    "http://www.loc.gov/item/jukebox-37787/",
+    "http://www.loc.gov/resource/jukebox-37787.0/",
+    "http://www.loc.gov/resource/jukebox-37787.1/",
+    "http://www.loc.gov/resource/jukebox-37787.0",
+    "http://www.loc.gov/resource/jukebox-37787.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "mcdonald, harold",
+    "whiteman, paul",
+    "whiting, richard a.",
+    "ambassador orchestra",
+    "grofé, ferde",
+    "mueller, gus",
+    "busse, henry",
+    "johnson, theron e. \"buster\"",
+    "heiss, sammy",
+    "pingitore, mike",
+    "byers, hale"
+   ],
+   "date": "1920-08-19",
+   "dates": [
+    "1920-08-19"
+   ],
+   "description": [
+    "Victor 18690. Matrix/Take: B-24390/4."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-04T19:57:29.959Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-37787/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18690_02_b24390_04:dlc_victor_18690_02_b24390_04/full/pct:12.5/0/default.jpg#h=217&w=218",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18690_02_b24390_04:dlc_victor_18690_02_b24390_04/full/pct:25/0/default.jpg#h=434&w=437",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18690_02_b24390_04:dlc_victor_18690_02_b24390_04/full/pct:50/0/default.jpg#h=869&w=874",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18690_02_b24390_04:dlc_victor_18690_02_b24390_04/full/pct:100/0/default.jpg#h=1739&w=1748"
+   ],
+   "index": 2,
+   "location": [
+    "camden",
+    "united states",
+    "new jersey"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Fox trot"
+   ],
+   "partof": [
+    "recorded sound section, library of congress",
+    "recorded sound research center",
+    "national jukebox"
+   ],
+   "score": 100.67908,
+   "shelf_id": "Victor 18690",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "ragtime, jazz, and more",
+    "victor",
+    "instrumental"
+   ],
+   "timestamp": "2026-10-05T14:17:11.978Z",
+   "title": "The Japanese sandman",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-37787/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/7659",
+    "http://www.loc.gov/item/jukebox-37822/",
+    "http://www.loc.gov/resource/jukebox-37822.0/",
+    "http://www.loc.gov/resource/jukebox-37822.1/",
+    "http://www.loc.gov/resource/jukebox-37822.0",
+    "http://www.loc.gov/resource/jukebox-37822.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "mcdonald, harold",
+    "whiteman, paul",
+    "ambassador orchestra",
+    "mueller, gus",
+    "grofé, ferde",
+    "busse, henry",
+    "macbeth, allan",
+    "johnson, theron e. \"buster\"",
+    "heiss, sammy",
+    "pingitore, mike",
+    "byers, hale",
+    "ponchielli, amilcare"
+   ],
+   "date": "1920-08-19",
+   "dates": [
+    "1920-08-19"
+   ],
+   "description": [
+    "Victor 35701. Matrix/Take: C-24394/3."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-04T19:57:29.959Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-37822/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_35701_01_c24394_03:dlc_victor_35701_01_c24394_03/full/pct:12.5/0/default.jpg#h=233&w=239",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_35701_01_c24394_03:dlc_victor_35701_01_c24394_03/full/pct:25/0/default.jpg#h=467&w=479",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_35701_01_c24394_03:dlc_victor_35701_01_c24394_03/full/pct:50/0/default.jpg#h=934&w=958",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_35701_01_c24394_03:dlc_victor_35701_01_c24394_03/full/pct:100/0/default.jpg#h=1869&w=1916"
+   ],
+   "index": 3,
+   "location": [
+    "camden",
+    "united states",
+    "new jersey"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "One-step",
+    "Dance of the hours ; Love in idelness"
+   ],
+   "partof": [
+    "recorded sound section, library of congress",
+    "recorded sound research center",
+    "national jukebox"
+   ],
+   "score": 100.67908,
+   "shelf_id": "Victor 35701",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "ragtime, jazz, and more",
+    "victor",
+    "instrumental"
+   ],
+   "timestamp": "2026-10-05T14:17:11.978Z",
+   "title": "Best ever medley",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-37822/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/7662",
+    "http://www.loc.gov/item/jukebox-37845/",
+    "http://www.loc.gov/resource/jukebox-37845.0/",
+    "http://www.loc.gov/resource/jukebox-37845.1/",
+    "http://www.loc.gov/resource/jukebox-37845.0",
+    "http://www.loc.gov/resource/jukebox-37845.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "mcdonald, harold",
+    "whiteman, paul",
+    "ambassador orchestra",
+    "grofé, ferde",
+    "mueller, gus",
+    "busse, henry",
+    "johnson, theron e. \"buster\"",
+    "heiss, sammy",
+    "kortlander, max",
+    "byers, hale",
+    "pingitore, mike"
+   ],
+   "date": "1920-08-23",
+   "dates": [
+    "1920-08-23"
+   ],
+   "description": [
+    "Victor 18694. Matrix/Take: B-24400/2."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-04T19:57:29.959Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-37845/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18694_01_b24400_02:dlc_victor_18694_01_b24400_02/full/pct:12.5/0/default.jpg#h=232&w=236",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18694_01_b24400_02:dlc_victor_18694_01_b24400_02/full/pct:25/0/default.jpg#h=464&w=473",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18694_01_b24400_02:dlc_victor_18694_01_b24400_02/full/pct:50/0/default.jpg#h=928&w=946",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18694_01_b24400_02:dlc_victor_18694_01_b24400_02/full/pct:100/0/default.jpg#h=1857&w=1892"
+   ],
+   "index": 4,
+   "location": [
+    "camden",
+    "united states",
+    "new jersey"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Fox trot"
+   ],
+   "partof": [
+    "recorded sound section, library of congress",
+    "recorded sound research center",
+    "national jukebox"
+   ],
+   "score": 100.67908,
+   "shelf_id": "Victor 18694",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "ragtime, jazz, and more",
+    "victor",
+    "instrumental"
+   ],
+   "timestamp": "2026-10-05T14:17:11.978Z",
+   "title": "Anytime, anyday, anywhere",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-37845/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/7698",
+    "http://www.loc.gov/item/jukebox-38297/",
+    "http://www.loc.gov/resource/jukebox-38297.0/",
+    "http://www.loc.gov/resource/jukebox-38297.1/",
+    "http://www.loc.gov/resource/jukebox-38297.0",
+    "http://www.loc.gov/resource/jukebox-38297.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "mcdonald, harold",
+    "violinsky",
+    "ginsberg, sol",
+    "whiteman, paul",
+    "ambassador orchestra",
+    "grofé, ferde",
+    "mueller, gus",
+    "mckee, margaret",
+    "busse, henry",
+    "johnson, theron e. \"buster\"",
+    "heiss, sammy",
+    "pingitore, mike",
+    "byers, hale",
+    "ager, milton"
+   ],
+   "date": "1920-12-28",
+   "dates": [
+    "1920-12-28"
+   ],
+   "description": [
+    "Victor 18721. Matrix/Take: B-24545/6."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-04T19:57:29.959Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-38297/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18721_02_b24545_06:dlc_victor_18721_02_b24545_06/full/pct:12.5/0/default.jpg#h=207&w=207",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18721_02_b24545_06:dlc_victor_18721_02_b24545_06/full/pct:25/0/default.jpg#h=414&w=415",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18721_02_b24545_06:dlc_victor_18721_02_b24545_06/full/pct:50/0/default.jpg#h=828&w=830",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18721_02_b24545_06:dlc_victor_18721_02_b24545_06/full/pct:100/0/default.jpg#h=1657&w=1660"
+   ],
+   "index": 5,
+   "location": [
+    "new york",
+    "united states"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Medley waltz",
+    "I'm in heaven when I'm in my mother's arms"
+   ],
+   "partof": [
+    "recorded sound section, library of congress",
+    "recorded sound research center",
+    "national jukebox"
+   ],
+   "score": 94.42173,
+   "shelf_id": "Victor 18721",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "ragtime, jazz, and more",
+    "victor",
+    "instrumental"
+   ],
+   "timestamp": "2026-10-05T14:17:11.978Z",
+   "title": "Honolulu eyes",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-38297/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/7657",
+    "http://www.loc.gov/item/jukebox-37802/",
+    "http://www.loc.gov/resource/jukebox-37802.0/",
+    "http://www.loc.gov/resource/jukebox-37802.1/",
+    "http://www.loc.gov/resource/jukebox-37802.0",
+    "http://www.loc.gov/resource/jukebox-37802.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "mcdonald, harold",
+    "whiteman, paul",
+    "ambassador orchestra",
+    "grofé, ferde",
+    "busse, henry",
+    "johnson, theron e. \"buster\"",
+    "heiss, sammy",
+    "pingitore, mike",
+    "mueller, gus"
+   ],
+   "date": "1920-08-09",
+   "dates": [
+    "1920-08-09"
+   ],
+   "description": [
+    "Victor 18694. Matrix/Take: B-24392/2."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-04T19:57:29.959Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-37802/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18694_01_b24392_02:dlc_victor_18694_01_b24392_02/full/pct:12.5/0/default.jpg#h=206&w=205",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18694_01_b24392_02:dlc_victor_18694_01_b24392_02/full/pct:25/0/default.jpg#h=412&w=411",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18694_01_b24392_02:dlc_victor_18694_01_b24392_02/full/pct:50/0/default.jpg#h=824&w=823",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18694_01_b24392_02:dlc_victor_18694_01_b24392_02/full/pct:100/0/default.jpg#h=1649&w=1647"
+   ],
+   "index": 6,
+   "location": [
+    "camden",
+    "united states",
+    "new jersey"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Fox trot"
+   ],
+   "partof": [
+    "recorded sound section, library of congress",
+    "recorded sound research center",
+    "national jukebox"
+   ],
+   "score": 93.043144,
+   "shelf_id": "Victor 18694",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "ragtime, jazz, and more",
+    "victor",
+    "instrumental",
+    "blues"
+   ],
+   "timestamp": "2026-10-05T14:17:11.978Z",
+   "title": "Wang-wang blues",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-37802/"
+  }
+ ],
+ "notice": {
+  "info": "<strong>COLUMBUS DAY HOLIDAY:</strong> On Monday, October 12, 2026, The Jefferson Building Great Hall and exhibitions will be open from 10 a.m. - 5 p.m. to guests with timed-entry passes. The Main Reading Room will be open to visitors, no research or collections services available. All other reading rooms, the Madison and Adams Buildings will be CLOSED to the public. Regularly scheduled access resumes on Tuesday, October 13. \n",
+  "status": "production"
+ },
+ "options": {
+  "access_group": [
+   ""
+  ],
+  "access_group_raw": "",
+  "all": null,
+  "api_version": "1",
+  "app_context": null,
+  "application_shim": null,
+  "application_version": "$Revision$",
+  "attribute": null,
+  "attribute!": null,
+  "attribute_map": null,
+  "cache_tags": [
+   "nationaljukebox",
+   "national-jukebox",
+   "collections-portal",
+   "powmia"
+  ],
+  "callback": null,
+  "clip": null,
+  "clip_image_width": null,
+  "clip_rotation": null,
+  "content_filter": null,
+  "content_replacement": "",
+  "count": null,
+  "dates": null,
+  "default_count": 25,
+  "delimiter": null,
+  "digital_id": null,
+  "display_level": null,
+  "distance": null,
+  "downloadOption": null,
+  "duration": 37.29409074783325,
+  "embed": [],
+  "embed!": [],
+  "error_response_status": null,
+  "excludeTerms": null,
+  "facetLimits": "",
+  "facetPrefix": null,
+  "facet_count": null,
+  "facet_style": null,
+  "field": null,
+  "form_facets": [
+   {
+    "field": "subject_label",
+    "select": "multiple"
+   },
+   {
+    "field": "subject_category",
+    "select": "multiple"
+   },
+   {
+    "field": "language",
+    "select": "multiple"
+   }
+  ],
+  "format": "json",
+  "host": "www.loc.gov",
+  "ical": false,
+  "id": "jukebox-37810/",
+  "iiif": false,
+  "include_facets": [
+   {
+    "field": "original-format"
+   },
+   {
+    "field": "partof_repository",
+    "label": "Repository"
+   },
+   {
+    "field": "subject_label",
+    "label": "Label"
+   },
+   {
+    "field": "dates"
+   },
+   {
+    "field": "subject_genre",
+    "label": "Genre"
+   },
+   {
+    "closed": true,
+    "field": "subject_target_audience",
+    "label": "Target Audience"
+   },
+   {
+    "closed": true,
+    "field": "subject_category",
+    "label": "Category"
+   },
+   {
+    "closed": true,
+    "field": "location"
+   },
+   {
+    "closed": true,
+    "field": "contributor"
+   },
+   {
+    "closed": true,
+    "field": "contributor_vocalist",
+    "label": "Vocalist"
+   },
+   {
+    "closed": true,
+    "field": "contributor_composer",
+    "label": "Composer"
+   },
+   {
+    "closed": true,
+    "field": "contributor_lyricist",
+    "label": "Lyricist"
+   },
+   {
+    "closed": true,
+    "field": "contributor_author",
+    "label": "Author"
+   },
+   {
+    "closed": true,
+    "field": "contributor_performer",
+    "label": "Performer"
+   },
+   {
+    "closed": true,
+    "field": "contributor_musical_group",
+    "label": "Musical Group"
+   },
+   {
+    "closed": true,
+    "field": "subject"
+   },
+   {
+    "closed": true,
+    "field": "language"
+   },
+   {
+    "field": "access-restricted"
+   }
+  ],
+  "index": null,
+  "inputEncoding": "UTF-8",
+  "item": null,
+  "items": null,
+  "keys": null,
+  "language": null,
+  "latlong": null,
+  "method": "GET",
+  "newSearch": null,
+  "new_clip_url": false,
+  "onsite": false,
+  "operator": null,
+  "outputEncoding": "UTF-8",
+  "page_campaigns": [],
+  "path_info": "/item/jukebox-37810/",
+  "port": "443",
+  "proxypath": null,
+  "query_string": "fo=json",
+  "redirect_proxy": false,
+  "redirect_to_item": null,
+  "referer": "",
+  "region": "",
+  "release_id": 123456789,
+  "request_host": "www.loc.gov",
+  "request_params": {
+   "fo": [
+    "json"
+   ]
+  },
+  "request_url": "https://www.loc.gov/item/jukebox-37810/?fo=json",
+  "resource": "",
+  "resource_sequence": null,
+  "scheme": "https",
+  "searchIn": null,
+  "searchTerms": "",
+  "segments": null,
+  "shards": [
+   "01"
+  ],
+  "site_date_range": "1900-01-01/1925-12-31",
+  "site_defaults": [],
+  "site_id": null,
+  "site_type": null,
+  "solrQuery": "",
+  "sortBy": null,
+  "sortOrder": null,
+  "startPage": null,
+  "style": null,
+  "suggested": null,
+  "target": null,
+  "template": "layouts/item/layout",
+  "timestamp": 1791310816.0163937,
+  "tz_aware": null,
+  "unionFacets": "",
+  "webcast_permalink": null
+ },
+ "related_items": [
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/collections/selected-datasets/about-this-collection/",
+    "http://www.loc.gov/collections/data/"
+   ],
+   "campaigns": [],
+   "count": 312,
+   "date": "1900",
+   "dates": [
+    "[1900 TO 1999]",
+    "[2000 TO 2099]"
+   ],
+   "description": [
+    "Datasets are increasingly a key digital resource used in a wide range of fields. The Library of Congress selects, preserves, and provides enduring access to datasets with the goal of cultivating a broad collection that encompasses all the areas covered by Library of Congress Collection Policy Statements. For more information on priorities for collecting datasets, see the Supplementary Guidelines for Datasets. Additional datasets acquired by the Library for the permanent collection will be made available here on a regular basis."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-06T05:13:39.863Z",
+   "group": [
+    "collections-portal"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/collections/selected-datasets/about-this-collection/",
+   "image_url": [
+    "https://www.loc.gov/static/collections/selected-datasets/500_500.jpg"
+   ],
+   "index": 1,
+   "items": "https://www.loc.gov/collections/selected-datasets/",
+   "location": [
+    "united states",
+    "europe"
+   ],
+   "original_format": [
+    "collection"
+   ],
+   "partof": [
+    "digital collections",
+    "selected datasets"
+   ],
+   "score": 254.49445,
+   "shelf_id": "~/collections/selected-datasets/about-this-collection/",
+   "subject": [
+    "",
+    "american history",
+    "law & politics",
+    "sports & recreation",
+    "comic books",
+    "social & business history",
+    "local history & folklife",
+    "war & military",
+    "government, law & politics",
+    "geography & places",
+    "science & technology",
+    "business correspondence"
+   ],
+   "timestamp": "2026-10-06T07:09:07.617Z",
+   "title": "Selected Datasets",
+   "type": [
+    "collection"
+   ],
+   "url": "https://www.loc.gov/collections/selected-datasets/about-this-collection/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/powmia/pwmaster_27974/",
+    "http://www.loc.gov/resource/powmia/pwmaster_27974/"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "joint casualty resolution center"
+   ],
+   "date": "1989-10-10",
+   "dates": [
+    "1989-10-10"
+   ],
+   "description": [
+    "Post-1975 Vietnam / Refno 1529-0-01 / IIRN T89-370"
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-08-14T14:35:46.186Z",
+   "group": [
+    "powmia"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/powmia/pwmaster_27974/",
+   "image_url": [
+    "https://tile.loc.gov/storage-services/service/frd/pwmia/101/27974.gif"
+   ],
+   "index": 2,
+   "location": [
+    "post-1975 vietnam"
+   ],
+   "mime_type": [
+    "application/pdf"
+   ],
+   "number": [
+    "t89-370",
+    "http://www.loc.gov/item/powmia/pw100804",
+    "1529-0-01"
+   ],
+   "online_format": [
+    "pdf"
+   ],
+   "original_format": [
+    "manuscript/mixed material"
+   ],
+   "partof": [
+    "vietnam-era prisoner-of-war/missing-in-action database",
+    "101",
+    "defense pow/mia accounting agency",
+    "source report",
+    "federal research division"
+   ],
+   "score": 253.8792,
+   "shelf_id": "http://www.loc.gov/item/powmia/pwmaster_27974/",
+   "subject": [
+    "dog tag",
+    "",
+    "white, james b.",
+    "remains"
+   ],
+   "timestamp": "2026-08-14T17:49:04.014Z",
+   "title": "DOGTAG INFORMATION AND BONE FRAGMENTS, SOURCE DATA SHEETS ON GRV-HSY REPORT",
+   "type": [
+    "manuscript/mixed material"
+   ],
+   "url": "https://www.loc.gov/item/powmia/pwmaster_27974/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/powmia/pwmaster_37690/",
+    "http://www.loc.gov/resource/powmia/pwmaster_37690/"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "u.s. navy"
+   ],
+   "date": "1966-04-04",
+   "dates": [
+    "1966-04-04",
+    "1966-04-01"
+   ],
+   "description": [
+    "Refno 0292-0-01"
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-08-14T14:36:17.439Z",
+   "group": [
+    "powmia"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/powmia/pwmaster_37690/",
+   "image_url": [
+    "https://tile.loc.gov/storage-services/service/frd/pwmia/132/37690.gif"
+   ],
+   "index": 3,
+   "mime_type": [
+    "application/pdf"
+   ],
+   "number": [
+    "0292-0-01",
+    "http://www.loc.gov/item/powmia/pw128568"
+   ],
+   "online_format": [
+    "pdf"
+   ],
+   "original_format": [
+    "manuscript/mixed material"
+   ],
+   "partof": [
+    "132",
+    "vietnam-era prisoner-of-war/missing-in-action database",
+    "defense pow/mia accounting agency",
+    "federal research division",
+    "casualty report"
+   ],
+   "score": 253.8792,
+   "shelf_id": "http://www.loc.gov/item/powmia/pwmaster_37690/",
+   "subject": [
+    "killed",
+    "",
+    "aircraft downed"
+   ],
+   "timestamp": "2026-08-14T18:09:23.666Z",
+   "title": "LETTER TO WIFE OF RONALD GRAYSON",
+   "type": [
+    "manuscript/mixed material"
+   ],
+   "url": "https://www.loc.gov/item/powmia/pwmaster_37690/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/powmia/s149-092/",
+    "http://www.loc.gov/resource/powmia/s149-092/"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "dpaa hickam afb hi"
+   ],
+   "date": "2020-04-10",
+   "dates": [
+    "2020-04-10",
+    "2019-09-18"
+   ],
+   "description": [
+    "Post-1975 Vietnam Laos / Refno 0668, 0984, 1245, 1444 / DTG 100054ZAPR20"
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-08-14T14:45:54.943Z",
+   "group": [
+    "powmia"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/powmia/s149-092/",
+   "image_url": [
+    "https://tile.loc.gov/storage-services/service/frd/pwmia/S149/149-092.gif"
+   ],
+   "index": 4,
+   "location": [
+    "laos",
+    "post-1975 vietnam"
+   ],
+   "mime_type": [
+    "application/pdf"
+   ],
+   "number": [
+    "1444",
+    "0984",
+    "1245",
+    "0668"
+   ],
+   "online_format": [
+    "pdf"
+   ],
+   "original_format": [
+    "manuscript/mixed material"
+   ],
+   "partof": [
+    "vietnam-era prisoner-of-war/missing-in-action database",
+    "misc pw files",
+    "defense pow/mia accounting agency",
+    "federal research division",
+    "s149"
+   ],
+   "score": 253.8792,
+   "shelf_id": "http://www.loc.gov/item/powmia/s149-092/",
+   "subject": [
+    "",
+    "kontum province",
+    "salavan province",
+    "helwig, r.",
+    "attepeu province",
+    "aircraft downed",
+    "cohron, j.",
+    "wolfkeil, w."
+   ],
+   "timestamp": "2026-08-14T20:48:53.273Z",
+   "title": "TRANSLATION OF ADVANCE WORK REPORT CONCERNING LAOS REFNOS 0668, 1245, 1444 AND LAOS LKA REFNO 0984 OBTAINED DURING JOINT FIELD ACTIVITY 19-4VN (136TH JFA) IN THE SOCIALIST REPUBLIC OF VIETNAM",
+   "type": [
+    "manuscript/mixed material"
+   ],
+   "url": "https://www.loc.gov/item/powmia/s149-092/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/powmia/s163-004/",
+    "http://www.loc.gov/resource/powmia/s163-004/"
+   ],
+   "campaigns": [],
+   "date": "2018-05-07",
+   "dates": [
+    "2018-05-07",
+    "2018-03-21"
+   ],
+   "description": [
+    "Laos / DTG 071436Z MAY18"
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-08-14T14:46:01.783Z",
+   "group": [
+    "powmia"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/powmia/s163-004/",
+   "image_url": [
+    "https://tile.loc.gov/storage-services/service/frd/pwmia/S161/S163-004.gif"
+   ],
+   "index": 5,
+   "location": [
+    "laos"
+   ],
+   "mime_type": [
+    "application/pdf"
+   ],
+   "number": [
+    "none"
+   ],
+   "online_format": [
+    "pdf"
+   ],
+   "original_format": [
+    "manuscript/mixed material"
+   ],
+   "partof": [
+    "misc pw files",
+    "vietnam-era prisoner-of-war/missing-in-action database",
+    "defense pow/mia accounting agency",
+    "federal research division"
+   ],
+   "score": 253.8792,
+   "shelf_id": "http://www.loc.gov/item/powmia/s163-004/",
+   "subject": [
+    "xekong province",
+    "crash site",
+    "",
+    "remains",
+    "personal effects",
+    "pasekoff, robert e.",
+    "duvall, dean a.",
+    "morgan, edwin e.",
+    "olson, gerald e."
+   ],
+   "timestamp": "2026-08-14T20:50:53.675Z",
+   "title": "[…]SCAVENGING OF REMAINS AND EQUIPMENT FROM AIRCRAFT WRECKAGE IN BAN CHALING, DAK CHUNG, XEKONG, LAOS (CASE 0271)",
+   "type": [
+    "manuscript/mixed material"
+   ],
+   "url": "https://www.loc.gov/item/powmia/s163-004/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/powmia/pwmaster_72656/",
+    "http://www.loc.gov/resource/powmia/pwmaster_72656/"
+   ],
+   "campaigns": [],
+   "date": "1968-02-05",
+   "dates": [
+    "1968-02-05"
+   ],
+   "description": [
+    "Laos / Refno 1036-0-01"
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-08-14T14:38:20.383Z",
+   "group": [
+    "powmia"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/powmia/pwmaster_72656/",
+   "image_url": [
+    "https://tile.loc.gov/storage-services/service/frd/pwmia/250/72656.gif"
+   ],
+   "index": 6,
+   "location": [
+    "laos"
+   ],
+   "mime_type": [
+    "application/pdf"
+   ],
+   "number": [
+    "http://www.loc.gov/item/powmia/pw107641",
+    "1036-0-01"
+   ],
+   "online_format": [
+    "pdf"
+   ],
+   "original_format": [
+    "manuscript/mixed material"
+   ],
+   "partof": [
+    "250",
+    "vietnam-era prisoner-of-war/missing-in-action database",
+    "defense pow/mia accounting agency",
+    "federal research division",
+    "casualty report"
+   ],
+   "score": 253.8792,
+   "shelf_id": "http://www.loc.gov/item/powmia/pwmaster_72656/",
+   "subject": [
+    "crash site",
+    "",
+    "kammouan province",
+    "ban napang"
+   ],
+   "timestamp": "2026-08-14T19:32:10.380Z",
+   "title": "NARRATIVE",
+   "type": [
+    "manuscript/mixed material"
+   ],
+   "url": "https://www.loc.gov/item/powmia/pwmaster_72656/"
+  }
+ ],
+ "resources": [
+  {
+   "audio": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18690_01_b24393_09:dlc_victor_18690_01_b24393_09/full/full/0/full/default.mp3",
+   "files": [
+    [
+     {
+      "aspectRation": "4:3",
+      "autoPlay": false,
+      "canDownload": true,
+      "derivatives": [
+       {
+        "derivativeUrl": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/dlc_victor_18690_01_b24393_09/dlc_victor_18690_01_b24393_09.mp3"
+       }
+      ],
+      "detailUrl": "https://www.loc.gov/item/jukebox-37810",
+      "download": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18690_01_b24393_09:dlc_victor_18690_01_b24393_09/full/full/0/full/default.mp3",
+      "duration": 199.0,
+      "filename": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/dlc_victor_18690_01_b24393_09/dlc_victor_18690_01_b24393_09.mp3",
+      "mediaType": "A",
+      "metadata": [
+       "Whispering",
+       "Jazz/dance band"
+      ],
+      "mimetype": "audio/mpeg",
+      "poster": null,
+      "rights_restricted": true,
+      "shortName": "Whispering",
+      "thumbnail_url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18690_01_b24393_09:dlc_victor_18690_01_b24393_09/full/pct:25/0/default.jpg"
+     },
+     {
+      "height": null,
+      "levels": 1,
+      "mimetype": "audio/wav",
+      "size": 17598100,
+      "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/dlc_victor_18690_01_b24393_09/dlc_victor_18690_01_b24393_09.wav",
+      "width": null
+     }
+    ]
+   ],
+   "url": "https://www.loc.gov/resource/jukebox-37810.0"
+  },
+  {
+   "files": [
+    [
+     {
+      "height": 398,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18690_01_b24393_09:dlc_victor_18690_01_b24393_09/full/pct:25/0/default.jpg",
+      "width": 400
+     },
+     {
+      "height": 796,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18690_01_b24393_09:dlc_victor_18690_01_b24393_09/full/pct:50/0/default.jpg",
+      "width": 801
+     },
+     {
+      "height": 1593,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18690_01_b24393_09:dlc_victor_18690_01_b24393_09/full/pct:100/0/default.jpg",
+      "width": 1602
+     },
+     {
+      "height": null,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 7685156,
+      "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/dlc_victor_18690_01_b24393_09/dlc_victor_18690_01_b24393_09.tif",
+      "width": null
+     }
+    ]
+   ],
+   "image": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18690_01_b24393_09:dlc_victor_18690_01_b24393_09/full/pct:100/0/default.jpg",
+   "mimetype": "image/jpeg",
+   "url": "https://www.loc.gov/resource/jukebox-37810.1"
+  }
+ ],
+ "timestamp": 1791310853311
+}

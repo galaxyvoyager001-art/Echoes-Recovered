@@ -1,0 +1,1499 @@
+{
+ "articles_and_essays": [
+  {
+   "score": 6.9215164,
+   "title": "Celebrating Black Performers in the New and Expanded National Jukebox!",
+   "url": "https://blogs.loc.gov/now-see-hear/2021/07/celebrating-black-performers-in-the-new-and-expanded-national-jukebox/"
+  }
+ ],
+ "cite_this": {
+  "apa": "Williams, B., Williams, B. &amp; Rogers, A. (1906) <cite>Let It Alone</cite>. [Audio] Retrieved from the Library of Congress, https://www.loc.gov/item/jukebox-728239/.",
+  "chicago": "Williams, Bert, Bert Williams, and Alex Rogers. <cite>Let It Alone</cite>. 1906. Audio. https://www.loc.gov/item/jukebox-728239/.",
+  "mla": "Williams, Bert, Bert Williams, and Alex Rogers. <cite>Let It Alone</cite>. 1906. Audio. Retrieved from the Library of Congress, &lt;www.loc.gov/item/jukebox-728239/&gt;."
+ },
+ "item": {
+  "_version_": 1878221520523755520,
+  "access_restricted": false,
+  "aka": [
+   "http://www.loc.gov/item/jukebox-728239/",
+   "http://www.loc.gov/resource/jukebox-728239.0/",
+   "http://www.loc.gov/resource/jukebox-728239.1/",
+   "http://www.loc.gov/resource/jukebox-728239.0",
+   "http://www.loc.gov/resource/jukebox-728239.1"
+  ],
+  "audio_type": "Vocal",
+  "campaigns": [],
+  "contributor_composer": [
+   "williams, bert"
+  ],
+  "contributor_lyricist": [
+   "rogers, alex"
+  ],
+  "contributor_names": [
+   "Williams, Bert -- Vocalist -- Baritone Vocal",
+   "Williams, Bert -- Composer -- Composer",
+   "Rogers, Alex -- Lyricist -- Lyricist"
+  ],
+  "contributor_primary": [
+   "williams, bert"
+  ],
+  "contributor_vocalist": [
+   "williams, bert"
+  ],
+  "contributors": [
+   {
+    "rogers, alex": "https://www.loc.gov/search/?fa=contributor:rogers,+alex&fo=json"
+   },
+   {
+    "williams, bert": "https://www.loc.gov/search/?fa=contributor:williams,+bert&fo=json"
+   }
+  ],
+  "contributors_composer": [
+   {
+    "williams, bert": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_composer:williams,+bert&fo=json"
+   }
+  ],
+  "contributors_lyricist": [
+   {
+    "rogers, alex": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_lyricist:rogers,+alex&fo=json"
+   }
+  ],
+  "contributors_primary": [
+   {
+    "williams, bert": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_primary:williams,+bert&fo=json"
+   }
+  ],
+  "contributors_vocalist": [
+   {
+    "williams, bert": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_vocalist:williams,+bert&fo=json"
+   }
+  ],
+  "date": "1906-11-30",
+  "dates": [
+   {
+    "1906-11-30": "https://www.loc.gov/search/?dates=1906-11-30/1906-11-30&fo=json"
+   }
+  ],
+  "description": [
+   "Columbia 3504. Matrix/Take: 3504/2."
+  ],
+  "digitized": true,
+  "display_offsite": true,
+  "extract_timestamp": "2026-10-05T06:25:44.744Z",
+  "extract_urls": [
+   "http://www.loc.gov/item/jukebox-728239#nationaljukebox"
+  ],
+  "file_id": [
+   "ucsb_col_3504_01_t3504_02"
+  ],
+  "format": [
+   {
+    "sound recording": "https://www.loc.gov/search/?fa=original_format:sound+recording&fo=json"
+   }
+  ],
+  "group": [
+   "nationaljukebox",
+   "national-jukebox"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/item/jukebox-728239/",
+  "iiif_manifest_url": "https://www.loc.gov/item/jukebox-728239/manifest.json",
+  "image_url": [
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_3504_01_t3504_02:ucsb_col_3504_01_t3504_02/full/pct:12.5/0/default.jpg#h=394&w=394",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_3504_01_t3504_02:ucsb_col_3504_01_t3504_02/full/pct:25/0/default.jpg#h=788&w=788",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_3504_01_t3504_02:ucsb_col_3504_01_t3504_02/full/pct:50/0/default.jpg#h=1576&w=1576",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_3504_01_t3504_02:ucsb_col_3504_01_t3504_02/full/pct:100/0/default.jpg#h=3153&w=3153"
+  ],
+  "index": 1,
+  "item": {
+   "audio_type": "Vocal",
+   "contributors": [
+    "Williams, Bert -- Vocalist -- Baritone Vocal",
+    "Williams, Bert -- Composer -- Composer",
+    "Rogers, Alex -- Lyricist -- Lyricist"
+   ],
+   "file_id": [
+    "ucsb_col_3504_01_t3504_02"
+   ],
+   "language": "English",
+   "media_size": "10-in.",
+   "profile": "jukebox",
+   "recording_catalog_number": "3504",
+   "recording_date": "1906-11-30",
+   "recording_label": "Columbia",
+   "recording_matrix_number": "3504 (Matrix ID)",
+   "recording_repository": "Source of original recording: Department of Special Collections, Davidson Library, University of California, Santa Barbara.",
+   "recording_take_id": 728239,
+   "recording_take_number": "2",
+   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+   "summary": "Male vocal solo, with orchestra"
+  },
+  "language": [
+   "english"
+  ],
+  "languages": [
+   {
+    "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+   }
+  ],
+  "location": [
+   "united states",
+   "new york"
+  ],
+  "locations": [
+   {
+    "new york": "https://www.loc.gov/search/?fa=location:new+york&fo=json"
+   },
+   {
+    "united states": "https://www.loc.gov/search/?fa=location:united+states&fo=json"
+   }
+  ],
+  "media_size": "10-in.",
+  "mime_type": [
+   "audio/mpeg",
+   "audio/wav",
+   "image/tif",
+   "image/jpeg"
+  ],
+  "online_format": [
+   "audio",
+   "image"
+  ],
+  "original_format": [
+   "sound recording"
+  ],
+  "other_formats": [],
+  "other_title": [
+   "Abyssinia"
+  ],
+  "partof": [
+   {
+    "count": 10024,
+    "title": "department of special collections, davidson library, university of california, santa barbara",
+    "url": "https://www.loc.gov/search/?fa=partof:department+of+special+collections,+davidson+library,+university+of+california,+santa+barbara&fo=json"
+   },
+   {
+    "count": 20273,
+    "title": "national jukebox",
+    "url": "https://www.loc.gov/collections/national-jukebox/?fo=json"
+   },
+   {
+    "count": 20496,
+    "title": "recorded sound research center",
+    "url": "https://www.loc.gov/search/?fa=partof:recorded+sound+research+center&fo=json"
+   }
+  ],
+  "partof_repository": [
+   "department of special collections, davidson library, university of california, santa barbara"
+  ],
+  "profile": "jukebox",
+  "recording_catalog_number": "3504",
+  "recording_date": "1906-11-30",
+  "recording_label": "Columbia",
+  "recording_matrix_number": "3504 (Matrix ID)",
+  "recording_repository": "Source of original recording: Department of Special Collections, Davidson Library, University of California, Santa Barbara.",
+  "recording_take_id": 728239,
+  "recording_take_number": "2",
+  "resources": [
+   {
+    "files": 1,
+    "media": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_3504_01_t3504_02:ucsb_col_3504_01_t3504_02/full/full/0/full/default.mp3",
+    "url": "https://www.loc.gov/resource/jukebox-728239.0"
+   },
+   {
+    "files": 1,
+    "image": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_3504_01_t3504_02:ucsb_col_3504_01_t3504_02/full/pct:100/0/default.jpg",
+    "mimetype": "image/jpeg",
+    "url": "https://www.loc.gov/resource/jukebox-728239.1"
+   }
+  ],
+  "rights": [
+   "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
+  ],
+  "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+  "score": 15.331501,
+  "shard": "01",
+  "shelf_id": "Columbia 3504",
+  "site": [
+   "nationaljukebox"
+  ],
+  "source_modified": "2000-01-01T12:00:00Z",
+  "subject": [
+   "vocal",
+   "columbia"
+  ],
+  "subject_category": [
+   "vocal"
+  ],
+  "subject_label": [
+   "columbia"
+  ],
+  "subjects": [
+   {
+    "columbia": "https://www.loc.gov/search/?fa=subject:columbia&fo=json"
+   },
+   {
+    "vocal": "https://www.loc.gov/search/?fa=subject:vocal&fo=json"
+   }
+  ],
+  "subjects_category": [
+   {
+    "vocal": "https://www.loc.gov/collections/national-jukebox/?fa=subject_category:vocal&fo=json"
+   }
+  ],
+  "subjects_label": [
+   {
+    "columbia": "https://www.loc.gov/collections/national-jukebox/?fa=subject_label:columbia&fo=json"
+   }
+  ],
+  "summary": "Male vocal solo, with orchestra",
+  "timestamp": "2026-10-05T14:47:04.644Z",
+  "title": "Let it alone",
+  "type": [
+   "sound recording-musical"
+  ],
+  "url": "https://www.loc.gov/item/jukebox-728239/"
+ },
+ "more_like_this": [
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-654614/",
+    "http://www.loc.gov/resource/jukebox-654614.0/",
+    "http://www.loc.gov/resource/jukebox-654614.1/",
+    "http://www.loc.gov/resource/jukebox-654614.0",
+    "http://www.loc.gov/resource/jukebox-654614.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "vodery, will h.",
+    "williams, bert",
+    "rogers, alex"
+   ],
+   "date": "1916-07-22",
+   "dates": [
+    "1916-07-22"
+   ],
+   "description": [
+    "Columbia A2078. Matrix/Take: 46944/2."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T04:37:49.624Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-654614/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a2078_01_46944_02:ucsb_col_a2078_01_46944_02/full/pct:12.5/0/default.jpg#h=314&w=314",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a2078_01_46944_02:ucsb_col_a2078_01_46944_02/full/pct:25/0/default.jpg#h=628&w=628",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a2078_01_46944_02:ucsb_col_a2078_01_46944_02/full/pct:50/0/default.jpg#h=1257&w=1257",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a2078_01_46944_02:ucsb_col_a2078_01_46944_02/full/pct:100/0/default.jpg#h=2515&w=2515"
+   ],
+   "index": 1,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "united states",
+    "new york"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "partof": [
+    "national jukebox",
+    "department of special collections, davidson library, university of california, santa barbara",
+    "recorded sound research center"
+   ],
+   "score": 37.81176,
+   "shelf_id": "Columbia A2078",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "vocal",
+    "popular music",
+    "columbia"
+   ],
+   "timestamp": "2026-10-05T14:31:42.478Z",
+   "title": "The Lee family",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-654614/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-659767/",
+    "http://www.loc.gov/resource/jukebox-659767.0/",
+    "http://www.loc.gov/resource/jukebox-659767.1/",
+    "http://www.loc.gov/resource/jukebox-659767.0",
+    "http://www.loc.gov/resource/jukebox-659767.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "vodery, will h.",
+    "williams, bert",
+    "rogers, alex"
+   ],
+   "date": "1918-08-29",
+   "dates": [
+    "1918-08-29"
+   ],
+   "description": [
+    "Columbia A2652. Matrix/Take: 78031/1."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T04:53:28.877Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-659767/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a2652_01_78031_01:ucsb_col_a2652_01_78031_01/full/pct:12.5/0/default.jpg#h=400&w=400",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a2652_01_78031_01:ucsb_col_a2652_01_78031_01/full/pct:25/0/default.jpg#h=800&w=800",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a2652_01_78031_01:ucsb_col_a2652_01_78031_01/full/pct:50/0/default.jpg#h=1601&w=1601",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a2652_01_78031_01:ucsb_col_a2652_01_78031_01/full/pct:100/0/default.jpg#h=3202&w=3202"
+   ],
+   "index": 2,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "united states",
+    "new york"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "partof": [
+    "national jukebox",
+    "department of special collections, davidson library, university of california, santa barbara",
+    "recorded sound research center"
+   ],
+   "score": 37.81176,
+   "shelf_id": "Columbia A2652",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "vocal",
+    "columbia"
+   ],
+   "timestamp": "2026-10-05T14:34:41.394Z",
+   "title": "When I return",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-659767/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-713214/",
+    "http://www.loc.gov/resource/jukebox-713214.0/",
+    "http://www.loc.gov/resource/jukebox-713214.1/",
+    "http://www.loc.gov/resource/jukebox-713214.0",
+    "http://www.loc.gov/resource/jukebox-713214.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "williams, bert",
+    "rogers, alex"
+   ],
+   "date": "1920-09-19",
+   "dates": [
+    "1920-09-19"
+   ],
+   "description": [
+    "Columbia A1853. Matrix/Take: 46005/3."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T06:10:00.880Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-713214/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1853_01_46005_03:ucsb_col_a1853_01_46005_03/full/pct:12.5/0/default.jpg#h=378&w=378",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1853_01_46005_03:ucsb_col_a1853_01_46005_03/full/pct:25/0/default.jpg#h=757&w=757",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1853_01_46005_03:ucsb_col_a1853_01_46005_03/full/pct:50/0/default.jpg#h=1514&w=1514",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1853_01_46005_03:ucsb_col_a1853_01_46005_03/full/pct:100/0/default.jpg#h=3028&w=3028"
+   ],
+   "index": 3,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "united states",
+    "new york"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Song monolog"
+   ],
+   "partof": [
+    "national jukebox",
+    "department of special collections, davidson library, university of california, santa barbara",
+    "recorded sound research center"
+   ],
+   "score": 37.81176,
+   "shelf_id": "Columbia A1853",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "vocal",
+    "columbia"
+   ],
+   "timestamp": "2026-10-05T14:44:40.905Z",
+   "title": "Never mo'",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-713214/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-657190/",
+    "http://www.loc.gov/resource/jukebox-657190.0/",
+    "http://www.loc.gov/resource/jukebox-657190.1/",
+    "http://www.loc.gov/resource/jukebox-657190.0",
+    "http://www.loc.gov/resource/jukebox-657190.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "kaufman, irving",
+    "johnson, howard e.",
+    "roberts, luckey",
+    "rogers, alex"
+   ],
+   "date": "1917-08-08",
+   "dates": [
+    "1917-08-08"
+   ],
+   "description": [
+    "Columbia A2372. Matrix/Take: 77239/1."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T04:47:16.478Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-657190/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a2372_01_77239_01:ucsb_col_a2372_01_77239_01/full/pct:12.5/0/default.jpg#h=358&w=358",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a2372_01_77239_01:ucsb_col_a2372_01_77239_01/full/pct:25/0/default.jpg#h=717&w=717",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a2372_01_77239_01:ucsb_col_a2372_01_77239_01/full/pct:50/0/default.jpg#h=1434&w=1434",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a2372_01_77239_01:ucsb_col_a2372_01_77239_01/full/pct:100/0/default.jpg#h=2868&w=2868"
+   ],
+   "index": 4,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "united states",
+    "new york"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "partof": [
+    "national jukebox",
+    "department of special collections, davidson library, university of california, santa barbara",
+    "recorded sound research center"
+   ],
+   "score": 30.814337,
+   "shelf_id": "Columbia A2372",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "vocal",
+    "popular music",
+    "columbia"
+   ],
+   "timestamp": "2026-10-05T14:33:11.110Z",
+   "title": "Rockaway",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-657190/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-652955/",
+    "http://www.loc.gov/resource/jukebox-652955.0/",
+    "http://www.loc.gov/resource/jukebox-652955.1/",
+    "http://www.loc.gov/resource/jukebox-652955.0",
+    "http://www.loc.gov/resource/jukebox-652955.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "right quintette, the",
+    "cook, will marion",
+    "rogers, alex"
+   ],
+   "date": "1915-12-24",
+   "dates": [
+    "1915-12-24"
+   ],
+   "description": [
+    "Columbia A1987. Matrix/Take: 46302/1."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T04:26:09.496Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-652955/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1987_01_46302_01:ucsb_col_a1987_01_46302_01/full/pct:12.5/0/default.jpg#h=297&w=297",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1987_01_46302_01:ucsb_col_a1987_01_46302_01/full/pct:25/0/default.jpg#h=594&w=594",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1987_01_46302_01:ucsb_col_a1987_01_46302_01/full/pct:50/0/default.jpg#h=1189&w=1189",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1987_01_46302_01:ucsb_col_a1987_01_46302_01/full/pct:100/0/default.jpg#h=2378&w=2378"
+   ],
+   "index": 5,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "united states",
+    "new york"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "partof": [
+    "national jukebox",
+    "department of special collections, davidson library, university of california, santa barbara",
+    "recorded sound research center"
+   ],
+   "score": 30.814337,
+   "shelf_id": "Columbia A1987",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "vocal",
+    "columbia"
+   ],
+   "timestamp": "2026-10-05T14:30:54.571Z",
+   "title": "Exhortation",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-652955/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-652958/",
+    "http://www.loc.gov/resource/jukebox-652958.0/",
+    "http://www.loc.gov/resource/jukebox-652958.1/",
+    "http://www.loc.gov/resource/jukebox-652958.0",
+    "http://www.loc.gov/resource/jukebox-652958.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "right quintette, the",
+    "cook, will marion",
+    "rogers, alex"
+   ],
+   "date": "1915-12-24",
+   "dates": [
+    "1915-12-24"
+   ],
+   "description": [
+    "Columbia A1987. Matrix/Take: 46303/2."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T04:26:09.496Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-652958/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1987_01_46303_02:ucsb_col_a1987_01_46303_02/full/pct:12.5/0/default.jpg#h=321&w=321",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1987_01_46303_02:ucsb_col_a1987_01_46303_02/full/pct:25/0/default.jpg#h=643&w=643",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1987_01_46303_02:ucsb_col_a1987_01_46303_02/full/pct:50/0/default.jpg#h=1286&w=1286",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1987_01_46303_02:ucsb_col_a1987_01_46303_02/full/pct:100/0/default.jpg#h=2572&w=2572"
+   ],
+   "index": 6,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "united states",
+    "new york"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "partof": [
+    "national jukebox",
+    "department of special collections, davidson library, university of california, santa barbara",
+    "recorded sound research center"
+   ],
+   "score": 30.814337,
+   "shelf_id": "Columbia A1987",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "vocal",
+    "columbia"
+   ],
+   "timestamp": "2026-10-05T14:30:54.571Z",
+   "title": "Rain song",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-652958/"
+  }
+ ],
+ "notice": {
+  "info": "<strong>COLUMBUS DAY HOLIDAY:</strong> On Monday, October 12, 2026, The Jefferson Building Great Hall and exhibitions will be open from 10 a.m. - 5 p.m. to guests with timed-entry passes. The Main Reading Room will be open to visitors, no research or collections services available. All other reading rooms, the Madison and Adams Buildings will be CLOSED to the public. Regularly scheduled access resumes on Tuesday, October 13. \n",
+  "status": "production"
+ },
+ "options": {
+  "access_group": [
+   ""
+  ],
+  "access_group_raw": "",
+  "all": null,
+  "api_version": "1",
+  "app_context": null,
+  "application_shim": null,
+  "application_version": "$Revision$",
+  "attribute": null,
+  "attribute!": null,
+  "attribute_map": null,
+  "cache_tags": [
+   "nationaljukebox",
+   "national-jukebox",
+   "paprika-music",
+   "catalog-split-00",
+   "catalog",
+   "main-catalog-split-00",
+   "catalog-split-08",
+   "main-catalog-split-08",
+   "catalog-split-07",
+   "main-catalog-split-07",
+   "catalog-split-06",
+   "main-catalog-split-06",
+   "catalog-split-03",
+   "main-catalog-split-03",
+   "catalog-split-11",
+   "main-catalog-split-11"
+  ],
+  "callback": null,
+  "clip": null,
+  "clip_image_width": null,
+  "clip_rotation": null,
+  "content_filter": null,
+  "content_replacement": "",
+  "count": null,
+  "dates": null,
+  "default_count": 25,
+  "delimiter": null,
+  "digital_id": null,
+  "display_level": null,
+  "distance": null,
+  "downloadOption": null,
+  "duration": 22.33764338493347,
+  "embed": [],
+  "embed!": [],
+  "error_response_status": null,
+  "excludeTerms": null,
+  "facetLimits": "",
+  "facetPrefix": null,
+  "facet_count": null,
+  "facet_style": null,
+  "field": null,
+  "form_facets": [
+   {
+    "field": "subject_label",
+    "select": "multiple"
+   },
+   {
+    "field": "subject_category",
+    "select": "multiple"
+   },
+   {
+    "field": "language",
+    "select": "multiple"
+   }
+  ],
+  "format": "json",
+  "host": "www.loc.gov",
+  "ical": false,
+  "id": "jukebox-728239/",
+  "iiif": false,
+  "include_facets": [
+   {
+    "field": "original-format"
+   },
+   {
+    "field": "partof_repository",
+    "label": "Repository"
+   },
+   {
+    "field": "subject_label",
+    "label": "Label"
+   },
+   {
+    "field": "dates"
+   },
+   {
+    "field": "subject_genre",
+    "label": "Genre"
+   },
+   {
+    "closed": true,
+    "field": "subject_target_audience",
+    "label": "Target Audience"
+   },
+   {
+    "closed": true,
+    "field": "subject_category",
+    "label": "Category"
+   },
+   {
+    "closed": true,
+    "field": "location"
+   },
+   {
+    "closed": true,
+    "field": "contributor"
+   },
+   {
+    "closed": true,
+    "field": "contributor_vocalist",
+    "label": "Vocalist"
+   },
+   {
+    "closed": true,
+    "field": "contributor_composer",
+    "label": "Composer"
+   },
+   {
+    "closed": true,
+    "field": "contributor_lyricist",
+    "label": "Lyricist"
+   },
+   {
+    "closed": true,
+    "field": "contributor_author",
+    "label": "Author"
+   },
+   {
+    "closed": true,
+    "field": "contributor_performer",
+    "label": "Performer"
+   },
+   {
+    "closed": true,
+    "field": "contributor_musical_group",
+    "label": "Musical Group"
+   },
+   {
+    "closed": true,
+    "field": "subject"
+   },
+   {
+    "closed": true,
+    "field": "language"
+   },
+   {
+    "field": "access-restricted"
+   }
+  ],
+  "index": null,
+  "inputEncoding": "UTF-8",
+  "item": null,
+  "items": null,
+  "keys": null,
+  "language": null,
+  "latlong": null,
+  "method": "GET",
+  "newSearch": null,
+  "new_clip_url": false,
+  "onsite": false,
+  "operator": null,
+  "outputEncoding": "UTF-8",
+  "page_campaigns": [],
+  "path_info": "/item/jukebox-728239/",
+  "port": "443",
+  "proxypath": null,
+  "query_string": "fo=json",
+  "redirect_proxy": false,
+  "redirect_to_item": null,
+  "referer": "",
+  "region": "",
+  "release_id": 123456789,
+  "request_host": "www.loc.gov",
+  "request_params": {
+   "fo": [
+    "json"
+   ]
+  },
+  "request_url": "https://www.loc.gov/item/jukebox-728239/?fo=json",
+  "resource": "",
+  "resource_sequence": null,
+  "scheme": "https",
+  "searchIn": null,
+  "searchTerms": "",
+  "segments": null,
+  "shards": [
+   "01"
+  ],
+  "site_date_range": "1900-01-01/1925-12-31",
+  "site_defaults": [],
+  "site_id": null,
+  "site_type": null,
+  "solrQuery": "",
+  "sortBy": null,
+  "sortOrder": null,
+  "startPage": null,
+  "style": null,
+  "suggested": null,
+  "target": null,
+  "template": "layouts/item/layout",
+  "timestamp": 1791308010.2161317,
+  "tz_aware": null,
+  "unionFacets": "",
+  "webcast_permalink": null
+ },
+ "related_items": [
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://lccn.loc.gov/2016762620",
+    "http://www.loc.gov/item/2016762620/",
+    "http://www.loc.gov/resource/music.musm1508-10039348/",
+    "https://hdl.loc.gov/loc.music/musm1508.10039348"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "williams, bert",
+    "rogers, alex"
+   ],
+   "date": "1909",
+   "dates": [
+    "1909"
+   ],
+   "description": [
+    "From: Mr. Lode of Koal. Staff notation."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2025-06-27T09:58:48.578Z",
+   "group": [
+    "paprika-music",
+    "catalog-split-00",
+    "catalog",
+    "main-catalog-split-00"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/2016762620/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:music:musm1508-10039348:musm1508-10039348.0001/full/pct:6.25/0/default.jpg",
+    "https://tile.loc.gov/image-services/iiif/public:music:musm1508-10039348:musm1508-10039348.0001/full/pct:6.25/0/default.jpg#h=359&w=274",
+    "https://tile.loc.gov/image-services/iiif/public:music:musm1508-10039348:musm1508-10039348.0001/full/pct:12.5/0/default.jpg#h=719&w=549",
+    "https://tile.loc.gov/image-services/iiif/public:music:musm1508-10039348:musm1508-10039348.0001/full/pct:25.0/0/default.jpg#h=1438&w=1098",
+    "https://tile.loc.gov/image-services/iiif/public:music:musm1508-10039348:musm1508-10039348.0001/full/pct:50.0/0/default.jpg#h=2877&w=2197",
+    "https://tile.loc.gov/image-services/iiif/public:music:musm1508-10039348:musm1508-10039348.0001/full/pct:100.0/0/default.jpg#h=5755&w=4394"
+   ],
+   "index": 1,
+   "mime_type": [
+    "image/jpeg",
+    "application/pdf",
+    "image/jp2"
+   ],
+   "number": [
+    "2016762620",
+    "http://www.loc.gov/item/musm1508.10039348",
+    "2023-12-07t16:39:09",
+    "http://www.loc.gov/item/2016762620",
+    "http://www.loc.gov/resource/musm1508.10039348.0"
+   ],
+   "online_format": [
+    "image",
+    "pdf"
+   ],
+   "original_format": [
+    "notated music"
+   ],
+   "partof": [
+    "sheet music of the musical theater",
+    "music division",
+    "catalog"
+   ],
+   "score": 13.371149,
+   "shelf_id": "https://repo.loc.gov/access/public/music/musm1508-10039348/.resource.json",
+   "site": [
+    "catalog"
+   ],
+   "subject": [
+    "mr. lode of koal"
+   ],
+   "timestamp": "2025-06-27T10:34:51.089Z",
+   "title": "Believe me",
+   "type": [
+    "notated music"
+   ],
+   "url": "https://www.loc.gov/item/2016762620/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://lccn.loc.gov/2016762619",
+    "http://www.loc.gov/item/2016762619/",
+    "http://www.loc.gov/resource/music.musm1508-10039349/",
+    "https://hdl.loc.gov/loc.music/musm1508.10039349"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "williams, bert",
+    "rogers, alex"
+   ],
+   "date": "1909",
+   "dates": [
+    "1909"
+   ],
+   "description": [
+    "From: Mr. Lode of Koal. Staff notation."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2025-06-27T10:27:32.030Z",
+   "group": [
+    "paprika-music",
+    "catalog-split-08",
+    "catalog",
+    "main-catalog-split-08"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/2016762619/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:music:musm1508-10039349:musm1508-10039349.0001/full/pct:6.25/0/default.jpg",
+    "https://tile.loc.gov/image-services/iiif/public:music:musm1508-10039349:musm1508-10039349.0001/full/pct:6.25/0/default.jpg#h=364&w=277",
+    "https://tile.loc.gov/image-services/iiif/public:music:musm1508-10039349:musm1508-10039349.0001/full/pct:12.5/0/default.jpg#h=729&w=555",
+    "https://tile.loc.gov/image-services/iiif/public:music:musm1508-10039349:musm1508-10039349.0001/full/pct:25.0/0/default.jpg#h=1458&w=1110",
+    "https://tile.loc.gov/image-services/iiif/public:music:musm1508-10039349:musm1508-10039349.0001/full/pct:50.0/0/default.jpg#h=2917&w=2220",
+    "https://tile.loc.gov/image-services/iiif/public:music:musm1508-10039349:musm1508-10039349.0001/full/pct:100.0/0/default.jpg#h=5835&w=4440"
+   ],
+   "index": 2,
+   "mime_type": [
+    "image/jpeg",
+    "application/pdf",
+    "image/jp2"
+   ],
+   "number": [
+    "http://www.loc.gov/item/2016762619",
+    "2023-12-07t16:39:09",
+    "http://www.loc.gov/item/musm1508.10039349",
+    "2016762619",
+    "http://www.loc.gov/resource/musm1508.10039349.0"
+   ],
+   "online_format": [
+    "image",
+    "pdf"
+   ],
+   "original_format": [
+    "notated music"
+   ],
+   "partof": [
+    "sheet music of the musical theater",
+    "music division",
+    "catalog"
+   ],
+   "score": 13.371149,
+   "shelf_id": "https://repo.loc.gov/access/public/music/musm1508-10039349/.resource.json",
+   "site": [
+    "catalog"
+   ],
+   "subject": [
+    "mr. lode of koal"
+   ],
+   "timestamp": "2025-06-27T10:34:51.089Z",
+   "title": "By-gone days in Dixie",
+   "type": [
+    "notated music"
+   ],
+   "url": "https://www.loc.gov/item/2016762619/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://lccn.loc.gov/2016762618",
+    "http://www.loc.gov/item/2016762618/",
+    "http://www.loc.gov/resource/music.musm1508-10039350/",
+    "https://hdl.loc.gov/loc.music/musm1508.10039350"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "williams, bert",
+    "rogers, alex"
+   ],
+   "date": "1909",
+   "dates": [
+    "1909"
+   ],
+   "description": [
+    "From: Mr. Lode of Koal. Staff notation."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2025-06-27T08:24:50.663Z",
+   "group": [
+    "paprika-music",
+    "catalog-split-07",
+    "catalog",
+    "main-catalog-split-07"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/2016762618/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:music:musm1508-10039350:musm1508-10039350.0001/full/pct:6.25/0/default.jpg",
+    "https://tile.loc.gov/image-services/iiif/public:music:musm1508-10039350:musm1508-10039350.0001/full/pct:6.25/0/default.jpg#h=364&w=278",
+    "https://tile.loc.gov/image-services/iiif/public:music:musm1508-10039350:musm1508-10039350.0001/full/pct:12.5/0/default.jpg#h=729&w=556",
+    "https://tile.loc.gov/image-services/iiif/public:music:musm1508-10039350:musm1508-10039350.0001/full/pct:25.0/0/default.jpg#h=1458&w=1113",
+    "https://tile.loc.gov/image-services/iiif/public:music:musm1508-10039350:musm1508-10039350.0001/full/pct:50.0/0/default.jpg#h=2916&w=2226",
+    "https://tile.loc.gov/image-services/iiif/public:music:musm1508-10039350:musm1508-10039350.0001/full/pct:100.0/0/default.jpg#h=5833&w=4452"
+   ],
+   "index": 3,
+   "mime_type": [
+    "image/jpeg",
+    "application/pdf",
+    "image/jp2"
+   ],
+   "number": [
+    "http://www.loc.gov/item/musm1508.10039350",
+    "2023-12-07t16:39:09",
+    "http://www.loc.gov/resource/musm1508.10039350.0",
+    "2016762618",
+    "http://www.loc.gov/item/2016762618"
+   ],
+   "online_format": [
+    "image",
+    "pdf"
+   ],
+   "original_format": [
+    "notated music"
+   ],
+   "partof": [
+    "sheet music of the musical theater",
+    "music division",
+    "catalog"
+   ],
+   "score": 13.371149,
+   "shelf_id": "https://repo.loc.gov/access/public/music/musm1508-10039350/.resource.json",
+   "site": [
+    "catalog"
+   ],
+   "subject": [
+    "mr. lode of koal"
+   ],
+   "timestamp": "2025-06-27T10:34:51.089Z",
+   "title": "Chink chink Chinaman",
+   "type": [
+    "notated music"
+   ],
+   "url": "https://www.loc.gov/item/2016762618/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://lccn.loc.gov/2016762617",
+    "http://www.loc.gov/item/2016762617/",
+    "http://www.loc.gov/resource/music.musm1508-10039351/",
+    "https://hdl.loc.gov/loc.music/musm1508.10039351"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "williams, bert",
+    "rogers, alex"
+   ],
+   "date": "1909",
+   "dates": [
+    "1909"
+   ],
+   "description": [
+    "From: Mr. Lode of Koal. Staff notation."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2025-06-27T08:29:24.664Z",
+   "group": [
+    "paprika-music",
+    "catalog-split-06",
+    "catalog",
+    "main-catalog-split-06"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/2016762617/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:music:musm1508-10039351:musm1508-10039351.0001/full/pct:6.25/0/default.jpg",
+    "https://tile.loc.gov/image-services/iiif/public:music:musm1508-10039351:musm1508-10039351.0001/full/pct:6.25/0/default.jpg#h=358&w=275",
+    "https://tile.loc.gov/image-services/iiif/public:music:musm1508-10039351:musm1508-10039351.0001/full/pct:12.5/0/default.jpg#h=717&w=550",
+    "https://tile.loc.gov/image-services/iiif/public:music:musm1508-10039351:musm1508-10039351.0001/full/pct:25.0/0/default.jpg#h=1435&w=1101",
+    "https://tile.loc.gov/image-services/iiif/public:music:musm1508-10039351:musm1508-10039351.0001/full/pct:50.0/0/default.jpg#h=2870&w=2202",
+    "https://tile.loc.gov/image-services/iiif/public:music:musm1508-10039351:musm1508-10039351.0001/full/pct:100.0/0/default.jpg#h=5740&w=4404"
+   ],
+   "index": 4,
+   "mime_type": [
+    "image/jpeg",
+    "application/pdf",
+    "image/jp2"
+   ],
+   "number": [
+    "http://www.loc.gov/item/2016762617",
+    "2023-12-07t16:39:09",
+    "http://www.loc.gov/item/musm1508.10039351",
+    "http://www.loc.gov/resource/musm1508.10039351.0",
+    "2016762617"
+   ],
+   "online_format": [
+    "image",
+    "pdf"
+   ],
+   "original_format": [
+    "notated music"
+   ],
+   "partof": [
+    "sheet music of the musical theater",
+    "music division",
+    "catalog"
+   ],
+   "score": 13.371149,
+   "shelf_id": "https://repo.loc.gov/access/public/music/musm1508-10039351/.resource.json",
+   "site": [
+    "catalog"
+   ],
+   "subject": [
+    "mr. lode of koal"
+   ],
+   "timestamp": "2025-06-27T10:34:51.089Z",
+   "title": "The Harbor of lost dreams",
+   "type": [
+    "notated music"
+   ],
+   "url": "https://www.loc.gov/item/2016762617/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://lccn.loc.gov/2016762614",
+    "http://www.loc.gov/item/2016762614/",
+    "http://www.loc.gov/resource/music.musm1508-10039354/",
+    "https://hdl.loc.gov/loc.music/musm1508.10039354"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "williams, bert",
+    "rogers, alex"
+   ],
+   "date": "1909",
+   "dates": [
+    "1909"
+   ],
+   "description": [
+    "From: Mr. Lode of Koal. Staff notation."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2025-06-27T08:57:44.753Z",
+   "group": [
+    "paprika-music",
+    "catalog-split-03",
+    "catalog",
+    "main-catalog-split-03"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/2016762614/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:music:musm1508-10039354:musm1508-10039354.0001/full/pct:6.25/0/default.jpg",
+    "https://tile.loc.gov/image-services/iiif/public:music:musm1508-10039354:musm1508-10039354.0001/full/pct:6.25/0/default.jpg#h=358&w=273",
+    "https://tile.loc.gov/image-services/iiif/public:music:musm1508-10039354:musm1508-10039354.0001/full/pct:12.5/0/default.jpg#h=717&w=547",
+    "https://tile.loc.gov/image-services/iiif/public:music:musm1508-10039354:musm1508-10039354.0001/full/pct:25.0/0/default.jpg#h=1434&w=1095",
+    "https://tile.loc.gov/image-services/iiif/public:music:musm1508-10039354:musm1508-10039354.0001/full/pct:50.0/0/default.jpg#h=2869&w=2190",
+    "https://tile.loc.gov/image-services/iiif/public:music:musm1508-10039354:musm1508-10039354.0001/full/pct:100.0/0/default.jpg#h=5738&w=4380"
+   ],
+   "index": 5,
+   "mime_type": [
+    "image/jpeg",
+    "application/pdf",
+    "image/jp2"
+   ],
+   "number": [
+    "http://www.loc.gov/item/2016762614",
+    "2023-12-07t16:39:09",
+    "2016762614",
+    "http://www.loc.gov/item/musm1508.10039354",
+    "http://www.loc.gov/resource/musm1508.10039354.0"
+   ],
+   "online_format": [
+    "image",
+    "pdf"
+   ],
+   "original_format": [
+    "notated music"
+   ],
+   "partof": [
+    "sheet music of the musical theater",
+    "music division",
+    "catalog"
+   ],
+   "score": 13.371149,
+   "shelf_id": "https://repo.loc.gov/access/public/music/musm1508-10039354/.resource.json",
+   "site": [
+    "catalog"
+   ],
+   "subject": [
+    "mr. lode of koal"
+   ],
+   "timestamp": "2025-06-27T10:34:51.089Z",
+   "title": "My ole man",
+   "type": [
+    "notated music"
+   ],
+   "url": "https://www.loc.gov/item/2016762614/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://lccn.loc.gov/2016730710",
+    "http://www.loc.gov/item/2016730710/",
+    "http://www.loc.gov/resource/music.musm1508-10076812/",
+    "https://hdl.loc.gov/loc.music/musm1508.10076812"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "williams, bert",
+    "rogers, alex"
+   ],
+   "date": "1907",
+   "dates": [
+    "1907"
+   ],
+   "description": [
+    "From: Bandana Land. Staff notation."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2025-06-27T09:58:48.578Z",
+   "group": [
+    "paprika-music",
+    "catalog-split-11",
+    "catalog",
+    "main-catalog-split-11"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/2016730710/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:music:musm1508-10076812:musm1508-10076812.0001/full/pct:6.25/0/default.jpg",
+    "https://tile.loc.gov/image-services/iiif/public:music:musm1508-10076812:musm1508-10076812.0001/full/pct:6.25/0/default.jpg#h=358&w=282",
+    "https://tile.loc.gov/image-services/iiif/public:music:musm1508-10076812:musm1508-10076812.0001/full/pct:12.5/0/default.jpg#h=717&w=564",
+    "https://tile.loc.gov/image-services/iiif/public:music:musm1508-10076812:musm1508-10076812.0001/full/pct:25.0/0/default.jpg#h=1435&w=1129",
+    "https://tile.loc.gov/image-services/iiif/public:music:musm1508-10076812:musm1508-10076812.0001/full/pct:50.0/0/default.jpg#h=2870&w=2259",
+    "https://tile.loc.gov/image-services/iiif/public:music:musm1508-10076812:musm1508-10076812.0001/full/pct:100.0/0/default.jpg#h=5740&w=4519"
+   ],
+   "index": 6,
+   "mime_type": [
+    "image/jpeg",
+    "application/pdf",
+    "image/jp2"
+   ],
+   "number": [
+    "http://www.loc.gov/resource/musm1508.10076812.0",
+    "2023-12-07t16:48:24",
+    "http://www.loc.gov/item/musm1508.10076812",
+    "2016730710",
+    "http://www.loc.gov/item/2016730710"
+   ],
+   "online_format": [
+    "image",
+    "pdf"
+   ],
+   "original_format": [
+    "notated music"
+   ],
+   "partof": [
+    "sheet music of the musical theater",
+    "music division",
+    "catalog"
+   ],
+   "score": 13.371149,
+   "shelf_id": "https://repo.loc.gov/access/public/music/musm1508-10076812/.resource.json",
+   "site": [
+    "catalog"
+   ],
+   "subject": [
+    "bandana land"
+   ],
+   "timestamp": "2025-06-27T12:09:38.478Z",
+   "title": "Fas', fas' world",
+   "type": [
+    "notated music"
+   ],
+   "url": "https://www.loc.gov/item/2016730710/"
+  }
+ ],
+ "resources": [
+  {
+   "audio": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_3504_01_t3504_02:ucsb_col_3504_01_t3504_02/full/full/0/full/default.mp3",
+   "files": [
+    [
+     {
+      "aspectRation": "4:3",
+      "autoPlay": false,
+      "canDownload": true,
+      "derivatives": [
+       {
+        "derivativeUrl": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/ucsb_col_3504_01_t3504_02/ucsb_col_3504_01_t3504_02.mp3"
+       }
+      ],
+      "detailUrl": "https://www.loc.gov/item/jukebox-728239",
+      "download": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_3504_01_t3504_02:ucsb_col_3504_01_t3504_02/full/full/0/full/default.mp3",
+      "duration": 165.0,
+      "filename": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/ucsb_col_3504_01_t3504_02/ucsb_col_3504_01_t3504_02.mp3",
+      "mediaType": "A",
+      "metadata": [
+       "Let it alone",
+       "Male vocal solo, with orchestra"
+      ],
+      "mimetype": "audio/mpeg",
+      "poster": null,
+      "rights_restricted": true,
+      "shortName": "Let it alone",
+      "thumbnail_url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_3504_01_t3504_02:ucsb_col_3504_01_t3504_02/full/pct:12.5/0/default.jpg"
+     },
+     {
+      "height": null,
+      "levels": 1,
+      "mimetype": "audio/wav",
+      "size": 29168920,
+      "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/ucsb_col_3504_01_t3504_02/ucsb_col_3504_01_t3504_02.wav",
+      "width": null
+     }
+    ]
+   ],
+   "url": "https://www.loc.gov/resource/jukebox-728239.0"
+  },
+  {
+   "files": [
+    [
+     {
+      "height": 394,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_3504_01_t3504_02:ucsb_col_3504_01_t3504_02/full/pct:12.5/0/default.jpg",
+      "width": 394
+     },
+     {
+      "height": 788,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_3504_01_t3504_02:ucsb_col_3504_01_t3504_02/full/pct:25/0/default.jpg",
+      "width": 788
+     },
+     {
+      "height": 1576,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_3504_01_t3504_02:ucsb_col_3504_01_t3504_02/full/pct:50/0/default.jpg",
+      "width": 1576
+     },
+     {
+      "height": 3153,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_3504_01_t3504_02:ucsb_col_3504_01_t3504_02/full/pct:100/0/default.jpg",
+      "width": 3153
+     },
+     {
+      "height": null,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 29861320,
+      "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/ucsb_col_3504_01_t3504_02/ucsb_col_3504_01_t3504_02.tif",
+      "width": null
+     }
+    ]
+   ],
+   "image": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_3504_01_t3504_02:ucsb_col_3504_01_t3504_02/full/pct:100/0/default.jpg",
+   "mimetype": "image/jpeg",
+   "url": "https://www.loc.gov/resource/jukebox-728239.1"
+  }
+ ],
+ "timestamp": 1791308032554
+}

@@ -1,0 +1,1757 @@
+{
+ "articles_and_essays": null,
+ "cite_this": {
+  "apa": "Klein, M., Klein, M. &amp; Peerless Quartet. (1913) <cite>There's Ragtime in the Air</cite>. [Audio] Retrieved from the Library of Congress, https://www.loc.gov/item/jukebox-649241/.",
+  "chicago": "Klein, Manuel, Manuel Klein, and  Peerless Quartet. <cite>There's Ragtime in the Air</cite>. 1913. Audio. https://www.loc.gov/item/jukebox-649241/.",
+  "mla": "Klein, Manuel, Manuel Klein, and  Peerless Quartet. <cite>There's Ragtime in the Air</cite>. 1913. Audio. Retrieved from the Library of Congress, &lt;www.loc.gov/item/jukebox-649241/&gt;."
+ },
+ "item": {
+  "_version_": 1878220339690864640,
+  "access_restricted": false,
+  "aka": [
+   "http://www.loc.gov/item/jukebox-649241/",
+   "http://www.loc.gov/resource/jukebox-649241.0/",
+   "http://www.loc.gov/resource/jukebox-649241.1/",
+   "http://www.loc.gov/resource/jukebox-649241.0",
+   "http://www.loc.gov/resource/jukebox-649241.1"
+  ],
+  "audio_type": "Vocal",
+  "campaigns": [],
+  "contributor_composer": [
+   "klein, manuel"
+  ],
+  "contributor_lyricist": [
+   "klein, manuel"
+  ],
+  "contributor_names": [
+   "Klein, Manuel -- Lyricist -- Lyricist",
+   "Klein, Manuel -- Composer -- Composer",
+   "Peerless Quartet -- Vocal Group -- Vocal Group"
+  ],
+  "contributor_primary": [
+   "peerless quartet"
+  ],
+  "contributors": [
+   {
+    "klein, manuel": "https://www.loc.gov/search/?fa=contributor:klein,+manuel&fo=json"
+   },
+   {
+    "peerless quartet": "https://www.loc.gov/search/?fa=contributor:peerless+quartet&fo=json"
+   }
+  ],
+  "contributors_composer": [
+   {
+    "klein, manuel": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_composer:klein,+manuel&fo=json"
+   }
+  ],
+  "contributors_lyricist": [
+   {
+    "klein, manuel": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_lyricist:klein,+manuel&fo=json"
+   }
+  ],
+  "contributors_primary": [
+   {
+    "peerless quartet": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_primary:peerless+quartet&fo=json"
+   }
+  ],
+  "date": "1913-10-07",
+  "dates": [
+   {
+    "1913-10-07": "https://www.loc.gov/search/?dates=1913-10-07/1913-10-07&fo=json"
+   }
+  ],
+  "description": [
+   "Columbia A1441. Matrix/Take: 39033/3."
+  ],
+  "digitized": true,
+  "display_offsite": true,
+  "extract_timestamp": "2026-10-05T04:06:19.455Z",
+  "extract_urls": [
+   "http://www.loc.gov/item/jukebox-649241#nationaljukebox"
+  ],
+  "file_id": [
+   "ucsb_col_a1441_01_39033_03"
+  ],
+  "format": [
+   {
+    "sound recording": "https://www.loc.gov/search/?fa=original_format:sound+recording&fo=json"
+   }
+  ],
+  "genre": [
+   "Popular music",
+   "Musical theater"
+  ],
+  "group": [
+   "nationaljukebox",
+   "national-jukebox"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/item/jukebox-649241/",
+  "iiif_manifest_url": "https://www.loc.gov/item/jukebox-649241/manifest.json",
+  "image_url": [
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1441_01_39033_03:ucsb_col_a1441_01_39033_03/full/pct:12.5/0/default.jpg#h=389&w=389",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1441_01_39033_03:ucsb_col_a1441_01_39033_03/full/pct:25/0/default.jpg#h=778&w=778",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1441_01_39033_03:ucsb_col_a1441_01_39033_03/full/pct:50/0/default.jpg#h=1556&w=1556",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1441_01_39033_03:ucsb_col_a1441_01_39033_03/full/pct:100/0/default.jpg#h=3112&w=3112"
+  ],
+  "index": 1,
+  "item": {
+   "audio_type": "Vocal",
+   "contributors": [
+    "Klein, Manuel -- Lyricist -- Lyricist",
+    "Klein, Manuel -- Composer -- Composer",
+    "Peerless Quartet -- Vocal Group -- Vocal Group"
+   ],
+   "file_id": [
+    "ucsb_col_a1441_01_39033_03"
+   ],
+   "genre": [
+    "Popular music",
+    "Musical theater"
+   ],
+   "language": "English",
+   "media_size": "10-in.",
+   "profile": "jukebox",
+   "recording_catalog_number": "A1441",
+   "recording_date": "1913-10-07",
+   "recording_label": "Columbia",
+   "recording_matrix_number": "39033 (Matrix ID)",
+   "recording_repository": "Source of original recording: Department of Special Collections, Davidson Library, University of California, Santa Barbara.",
+   "recording_take_id": 649241,
+   "recording_take_number": "3",
+   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+   "summary": "Male vocal quartet, with orchestra"
+  },
+  "language": [
+   "english"
+  ],
+  "languages": [
+   {
+    "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+   }
+  ],
+  "location": [
+   "new york",
+   "united states"
+  ],
+  "locations": [
+   {
+    "new york": "https://www.loc.gov/search/?fa=location:new+york&fo=json"
+   },
+   {
+    "united states": "https://www.loc.gov/search/?fa=location:united+states&fo=json"
+   }
+  ],
+  "media_size": "10-in.",
+  "mime_type": [
+   "audio/mpeg",
+   "audio/wav",
+   "image/tif",
+   "image/jpeg"
+  ],
+  "online_format": [
+   "audio",
+   "image"
+  ],
+  "original_format": [
+   "sound recording"
+  ],
+  "other_formats": [],
+  "other_title": [
+   "Ragtime in the air",
+   "America"
+  ],
+  "partof": [
+   {
+    "count": 10024,
+    "title": "department of special collections, davidson library, university of california, santa barbara",
+    "url": "https://www.loc.gov/search/?fa=partof:department+of+special+collections,+davidson+library,+university+of+california,+santa+barbara&fo=json"
+   },
+   {
+    "count": 20273,
+    "title": "national jukebox",
+    "url": "https://www.loc.gov/collections/national-jukebox/?fo=json"
+   },
+   {
+    "count": 20496,
+    "title": "recorded sound research center",
+    "url": "https://www.loc.gov/search/?fa=partof:recorded+sound+research+center&fo=json"
+   }
+  ],
+  "partof_repository": [
+   "department of special collections, davidson library, university of california, santa barbara"
+  ],
+  "profile": "jukebox",
+  "recording_catalog_number": "A1441",
+  "recording_date": "1913-10-07",
+  "recording_label": "Columbia",
+  "recording_matrix_number": "39033 (Matrix ID)",
+  "recording_repository": "Source of original recording: Department of Special Collections, Davidson Library, University of California, Santa Barbara.",
+  "recording_take_id": 649241,
+  "recording_take_number": "3",
+  "resources": [
+   {
+    "files": 1,
+    "media": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1441_01_39033_03:ucsb_col_a1441_01_39033_03/full/full/0/full/default.mp3",
+    "url": "https://www.loc.gov/resource/jukebox-649241.0"
+   },
+   {
+    "files": 1,
+    "image": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1441_01_39033_03:ucsb_col_a1441_01_39033_03/full/pct:100/0/default.jpg",
+    "mimetype": "image/jpeg",
+    "url": "https://www.loc.gov/resource/jukebox-649241.1"
+   }
+  ],
+  "rights": [
+   "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
+  ],
+  "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+  "score": 15.331501,
+  "shard": "01",
+  "shelf_id": "Columbia A1441",
+  "site": [
+   "nationaljukebox"
+  ],
+  "source_modified": "2000-01-01T12:00:00Z",
+  "subject": [
+   "popular music",
+   "vocal",
+   "musical theater",
+   "columbia"
+  ],
+  "subject_category": [
+   "vocal"
+  ],
+  "subject_genre": [
+   "popular music",
+   "musical theater"
+  ],
+  "subject_label": [
+   "columbia"
+  ],
+  "subjects": [
+   {
+    "columbia": "https://www.loc.gov/search/?fa=subject:columbia&fo=json"
+   },
+   {
+    "musical theater": "https://www.loc.gov/search/?fa=subject:musical+theater&fo=json"
+   },
+   {
+    "popular music": "https://www.loc.gov/search/?fa=subject:popular+music&fo=json"
+   },
+   {
+    "vocal": "https://www.loc.gov/search/?fa=subject:vocal&fo=json"
+   }
+  ],
+  "subjects_category": [
+   {
+    "vocal": "https://www.loc.gov/collections/national-jukebox/?fa=subject_category:vocal&fo=json"
+   }
+  ],
+  "subjects_genre": [
+   {
+    "musical theater": "https://www.loc.gov/collections/national-jukebox/?fa=subject_genre:musical+theater&fo=json"
+   },
+   {
+    "popular music": "https://www.loc.gov/collections/national-jukebox/?fa=subject_genre:popular+music&fo=json"
+   }
+  ],
+  "subjects_label": [
+   {
+    "columbia": "https://www.loc.gov/collections/national-jukebox/?fa=subject_label:columbia&fo=json"
+   }
+  ],
+  "summary": "Male vocal quartet, with orchestra",
+  "timestamp": "2026-10-05T14:28:18.125Z",
+  "title": "There's ragtime in the air",
+  "type": [
+   "sound recording-musical"
+  ],
+  "url": "https://www.loc.gov/item/jukebox-649241/"
+ },
+ "more_like_this": [
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-727476/",
+    "http://www.loc.gov/resource/jukebox-727476.0/",
+    "http://www.loc.gov/resource/jukebox-727476.1/",
+    "http://www.loc.gov/resource/jukebox-727476.0",
+    "http://www.loc.gov/resource/jukebox-727476.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "klein, manuel",
+    "stanley, frank c."
+   ],
+   "date": "1906-05-31",
+   "dates": [
+    "1906-05-31"
+   ],
+   "description": [
+    "Columbia 3393. Matrix/Take: 3393/2."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T06:24:34.700Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-727476/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_3393_01_t3393_02:ucsb_col_3393_01_t3393_02/full/pct:12.5/0/default.jpg#h=372&w=372",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_3393_01_t3393_02:ucsb_col_3393_01_t3393_02/full/pct:25/0/default.jpg#h=744&w=744",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_3393_01_t3393_02:ucsb_col_3393_01_t3393_02/full/pct:50/0/default.jpg#h=1489&w=1489",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_3393_01_t3393_02:ucsb_col_3393_01_t3393_02/full/pct:100/0/default.jpg#h=2978&w=2978"
+   ],
+   "index": 1,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "new york",
+    "united states"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "A society circus"
+   ],
+   "partof": [
+    "department of special collections, davidson library, university of california, santa barbara",
+    "recorded sound research center",
+    "national jukebox"
+   ],
+   "score": 41.752354,
+   "shelf_id": "Columbia 3393",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "popular music",
+    "vocal",
+    "musical theater",
+    "columbia"
+   ],
+   "timestamp": "2026-10-05T14:46:45.928Z",
+   "title": "Moon dear",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-727476/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-1059857/",
+    "http://www.loc.gov/resource/jukebox-1059857.0/",
+    "http://www.loc.gov/resource/jukebox-1059857.1/",
+    "http://www.loc.gov/resource/jukebox-1059857.0",
+    "http://www.loc.gov/resource/jukebox-1059857.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "klein, manuel",
+    "columbia quartette"
+   ],
+   "date": "1911-12-29",
+   "dates": [
+    "1911-12-29"
+   ],
+   "description": [
+    "Columbia A1141. Matrix/Take: 19698/0."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T10:00:25.309Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-1059857/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1141_01_19698_00:ucsb_col_a1141_01_19698_00/full/pct:12.5/0/default.jpg#h=335&w=335",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1141_01_19698_00:ucsb_col_a1141_01_19698_00/full/pct:25/0/default.jpg#h=670&w=670",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1141_01_19698_00:ucsb_col_a1141_01_19698_00/full/pct:50/0/default.jpg#h=1340&w=1340",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1141_01_19698_00:ucsb_col_a1141_01_19698_00/full/pct:100/0/default.jpg#h=2680&w=2680"
+   ],
+   "index": 2,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "new york",
+    "united states"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Around the world"
+   ],
+   "partof": [
+    "department of special collections, davidson library, university of california, santa barbara",
+    "recorded sound research center",
+    "national jukebox"
+   ],
+   "score": 41.752354,
+   "shelf_id": "Columbia A1141",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "popular music",
+    "vocal",
+    "musical theater",
+    "columbia"
+   ],
+   "timestamp": "2026-10-05T13:30:45.845Z",
+   "title": "It's a long lane that has no turning",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-1059857/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-659150/",
+    "http://www.loc.gov/resource/jukebox-659150.0/",
+    "http://www.loc.gov/resource/jukebox-659150.1/",
+    "http://www.loc.gov/resource/jukebox-659150.0",
+    "http://www.loc.gov/resource/jukebox-659150.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "fields, arthur",
+    "breitenfeld, emil",
+    "peerless quartet"
+   ],
+   "date": "1918-05-28",
+   "dates": [
+    "1918-05-28"
+   ],
+   "description": [
+    "Columbia A2601. Matrix/Take: 77855/3."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T04:51:48.577Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-659150/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a2601_01_77855_03:ucsb_col_a2601_01_77855_03/full/pct:12.5/0/default.jpg#h=366&w=366",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a2601_01_77855_03:ucsb_col_a2601_01_77855_03/full/pct:25/0/default.jpg#h=733&w=733",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a2601_01_77855_03:ucsb_col_a2601_01_77855_03/full/pct:50/0/default.jpg#h=1466&w=1466",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a2601_01_77855_03:ucsb_col_a2601_01_77855_03/full/pct:100/0/default.jpg#h=2932&w=2932"
+   ],
+   "index": 3,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "new york",
+    "united states"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Toot toot"
+   ],
+   "partof": [
+    "department of special collections, davidson library, university of california, santa barbara",
+    "recorded sound research center",
+    "national jukebox"
+   ],
+   "score": 39.994457,
+   "shelf_id": "Columbia A2601",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "popular music",
+    "vocal",
+    "musical theater",
+    "columbia"
+   ],
+   "timestamp": "2026-10-05T14:34:17.782Z",
+   "title": "The last long mile",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-659150/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-647559/",
+    "http://www.loc.gov/resource/jukebox-647559.0/",
+    "http://www.loc.gov/resource/jukebox-647559.1/",
+    "http://www.loc.gov/resource/jukebox-647559.0",
+    "http://www.loc.gov/resource/jukebox-647559.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "young, beulah gaylord",
+    "goetz, e. ray",
+    "sloane, a. baldwin",
+    "peerless quartet",
+    "burr, henry"
+   ],
+   "date": "1912-09-11",
+   "dates": [
+    "1912-09-11"
+   ],
+   "description": [
+    "Columbia A1225. Matrix/Take: 38251/2."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T04:01:21.553Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-647559/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1225_01_38251_02:ucsb_col_a1225_01_38251_02/full/pct:12.5/0/default.jpg#h=360&w=360",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1225_01_38251_02:ucsb_col_a1225_01_38251_02/full/pct:25/0/default.jpg#h=721&w=721",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1225_01_38251_02:ucsb_col_a1225_01_38251_02/full/pct:50/0/default.jpg#h=1443&w=1443",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1225_01_38251_02:ucsb_col_a1225_01_38251_02/full/pct:100/0/default.jpg#h=2887&w=2887"
+   ],
+   "index": 4,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "new york",
+    "united states"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Hanky panky"
+   ],
+   "partof": [
+    "department of special collections, davidson library, university of california, santa barbara",
+    "recorded sound research center",
+    "national jukebox"
+   ],
+   "score": 39.994457,
+   "shelf_id": "Columbia A1225",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "popular music",
+    "vocal",
+    "musical theater",
+    "columbia"
+   ],
+   "timestamp": "2026-10-05T14:27:17.852Z",
+   "title": "Where the edelweiss is blooming",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-647559/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-646332/",
+    "http://www.loc.gov/resource/jukebox-646332.0/",
+    "http://www.loc.gov/resource/jukebox-646332.1/",
+    "http://www.loc.gov/resource/jukebox-646332.0",
+    "http://www.loc.gov/resource/jukebox-646332.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "klein, manuel",
+    "columbia quartette"
+   ],
+   "date": "1911-10-10",
+   "dates": [
+    "1911-10-10"
+   ],
+   "description": [
+    "Columbia A1094. Matrix/Take: 19596/2."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T03:58:19.475Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-646332/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1094_01_19596_02:ucsb_col_a1094_01_19596_02/full/pct:12.5/0/default.jpg#h=329&w=329",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1094_01_19596_02:ucsb_col_a1094_01_19596_02/full/pct:25/0/default.jpg#h=658&w=658",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1094_01_19596_02:ucsb_col_a1094_01_19596_02/full/pct:50/0/default.jpg#h=1316&w=1316",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1094_01_19596_02:ucsb_col_a1094_01_19596_02/full/pct:100/0/default.jpg#h=2632&w=2632"
+   ],
+   "index": 5,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "new york",
+    "united states"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Round the world"
+   ],
+   "partof": [
+    "department of special collections, davidson library, university of california, santa barbara",
+    "recorded sound research center",
+    "national jukebox"
+   ],
+   "score": 35.534103,
+   "shelf_id": "Columbia A1094",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "popular music",
+    "vocal",
+    "columbia"
+   ],
+   "timestamp": "2026-10-05T14:26:30.107Z",
+   "title": "My old town",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-646332/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-658172/",
+    "http://www.loc.gov/resource/jukebox-658172.0/",
+    "http://www.loc.gov/resource/jukebox-658172.1/",
+    "http://www.loc.gov/resource/jukebox-658172.0",
+    "http://www.loc.gov/resource/jukebox-658172.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "harrison, charles",
+    "torrens, grace",
+    "anderson, arthur"
+   ],
+   "date": "1917-12-04",
+   "dates": [
+    "1917-12-04"
+   ],
+   "description": [
+    "Columbia A2474. Matrix/Take: 77546/1."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T04:48:47.927Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-658172/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a2474_01_77546_01:ucsb_col_a2474_01_77546_01/full/pct:12.5/0/default.jpg#h=352&w=352",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a2474_01_77546_01:ucsb_col_a2474_01_77546_01/full/pct:25/0/default.jpg#h=705&w=705",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a2474_01_77546_01:ucsb_col_a2474_01_77546_01/full/pct:50/0/default.jpg#h=1410&w=1410",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a2474_01_77546_01:ucsb_col_a2474_01_77546_01/full/pct:100/0/default.jpg#h=2820&w=2820"
+   ],
+   "index": 6,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "new york",
+    "united states"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Chu-chin-chow"
+   ],
+   "partof": [
+    "department of special collections, davidson library, university of california, santa barbara",
+    "recorded sound research center",
+    "national jukebox"
+   ],
+   "score": 34.35929,
+   "shelf_id": "Columbia A2474",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "popular music",
+    "vocal",
+    "musical theater",
+    "columbia"
+   ],
+   "timestamp": "2026-10-05T14:33:54.835Z",
+   "title": "At siesta time",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-658172/"
+  }
+ ],
+ "notice": {
+  "info": "<strong>COLUMBUS DAY HOLIDAY:</strong> On Monday, October 12, 2026, The Jefferson Building Great Hall and exhibitions will be open from 10 a.m. - 5 p.m. to guests with timed-entry passes. The Main Reading Room will be open to visitors, no research or collections services available. All other reading rooms, the Madison and Adams Buildings will be CLOSED to the public. Regularly scheduled access resumes on Tuesday, October 13. \n",
+  "status": "production"
+ },
+ "options": {
+  "access_group": [
+   ""
+  ],
+  "access_group_raw": "",
+  "all": null,
+  "api_version": "1",
+  "app_context": null,
+  "application_shim": null,
+  "application_version": "$Revision$",
+  "attribute": null,
+  "attribute!": null,
+  "attribute_map": null,
+  "cache_tags": [
+   "nationaljukebox",
+   "national-jukebox",
+   "catalog-split-01",
+   "catalog",
+   "main-catalog-split-01",
+   "pp_other",
+   "prints-and-photographs-other",
+   "catalog-split-14",
+   "main-catalog-split-14",
+   "catalog-split-00",
+   "main-catalog-split-00",
+   "catalog-split-02",
+   "main-catalog-split-02",
+   "catalog-split-04",
+   "main-catalog-split-04"
+  ],
+  "callback": null,
+  "clip": null,
+  "clip_image_width": null,
+  "clip_rotation": null,
+  "content_filter": null,
+  "content_replacement": "",
+  "count": null,
+  "dates": null,
+  "default_count": 25,
+  "delimiter": null,
+  "digital_id": null,
+  "display_level": null,
+  "distance": null,
+  "downloadOption": null,
+  "duration": 1.2915875911712646,
+  "embed": [],
+  "embed!": [],
+  "error_response_status": null,
+  "excludeTerms": null,
+  "facetLimits": "",
+  "facetPrefix": null,
+  "facet_count": null,
+  "facet_style": null,
+  "field": null,
+  "form_facets": [
+   {
+    "field": "subject_label",
+    "select": "multiple"
+   },
+   {
+    "field": "subject_category",
+    "select": "multiple"
+   },
+   {
+    "field": "language",
+    "select": "multiple"
+   }
+  ],
+  "format": "json",
+  "host": "www.loc.gov",
+  "ical": false,
+  "id": "jukebox-649241/",
+  "iiif": false,
+  "include_facets": [
+   {
+    "field": "original-format"
+   },
+   {
+    "field": "partof_repository",
+    "label": "Repository"
+   },
+   {
+    "field": "subject_label",
+    "label": "Label"
+   },
+   {
+    "field": "dates"
+   },
+   {
+    "field": "subject_genre",
+    "label": "Genre"
+   },
+   {
+    "closed": true,
+    "field": "subject_target_audience",
+    "label": "Target Audience"
+   },
+   {
+    "closed": true,
+    "field": "subject_category",
+    "label": "Category"
+   },
+   {
+    "closed": true,
+    "field": "location"
+   },
+   {
+    "closed": true,
+    "field": "contributor"
+   },
+   {
+    "closed": true,
+    "field": "contributor_vocalist",
+    "label": "Vocalist"
+   },
+   {
+    "closed": true,
+    "field": "contributor_composer",
+    "label": "Composer"
+   },
+   {
+    "closed": true,
+    "field": "contributor_lyricist",
+    "label": "Lyricist"
+   },
+   {
+    "closed": true,
+    "field": "contributor_author",
+    "label": "Author"
+   },
+   {
+    "closed": true,
+    "field": "contributor_performer",
+    "label": "Performer"
+   },
+   {
+    "closed": true,
+    "field": "contributor_musical_group",
+    "label": "Musical Group"
+   },
+   {
+    "closed": true,
+    "field": "subject"
+   },
+   {
+    "closed": true,
+    "field": "language"
+   },
+   {
+    "field": "access-restricted"
+   }
+  ],
+  "index": null,
+  "inputEncoding": "UTF-8",
+  "item": null,
+  "items": null,
+  "keys": null,
+  "language": null,
+  "latlong": null,
+  "method": "GET",
+  "newSearch": null,
+  "new_clip_url": false,
+  "onsite": false,
+  "operator": null,
+  "outputEncoding": "UTF-8",
+  "page_campaigns": [],
+  "path_info": "/item/jukebox-649241/",
+  "port": "443",
+  "proxypath": null,
+  "query_string": "fo=json",
+  "redirect_proxy": false,
+  "redirect_to_item": null,
+  "referer": "",
+  "region": "",
+  "release_id": 123456789,
+  "request_host": "www.loc.gov",
+  "request_params": {
+   "fo": [
+    "json"
+   ]
+  },
+  "request_url": "https://www.loc.gov/item/jukebox-649241/?fo=json",
+  "resource": "",
+  "resource_sequence": null,
+  "scheme": "https",
+  "searchIn": null,
+  "searchTerms": "",
+  "segments": null,
+  "shards": [
+   "01"
+  ],
+  "site_date_range": "1900-01-01/1925-12-31",
+  "site_defaults": [],
+  "site_id": null,
+  "site_type": null,
+  "solrQuery": "",
+  "sortBy": null,
+  "sortOrder": null,
+  "startPage": null,
+  "style": null,
+  "suggested": null,
+  "target": null,
+  "template": "layouts/item/layout",
+  "timestamp": 1791308695.1479475,
+  "tz_aware": null,
+  "unionFacets": "",
+  "webcast_permalink": null
+ },
+ "related_items": [
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://lccn.loc.gov/2006560770",
+    "http://www.loc.gov/item/2006560770/",
+    "https://search.catalog.loc.gov/instances/dbc0af9d-0968-5cae-bf7d-93bbbfb8d9b4",
+    "https://www.loc.gov/collections/danny-kaye-and-sylvia-fine/about-this-collection/"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "kaye (danny)/fine (sylvia) collection (library of congress)",
+    "mcdowall, roddy",
+    "fine, sylvia",
+    "dena pictures, inc",
+    "halsman, philippe",
+    "kaye, danny"
+   ],
+   "date": "1913",
+   "dates": [
+    "1913"
+   ],
+   "description": [
+    "The collection includes manuscript and printed music, scripts, correspondence, business and financial papers, promotional and publicity materials, speeches, oral history transcripts, photographs, scrapbooks, programs, posters,  honors, and realia. The Music series, in the form of scores, parts, orchestral arrangements, and sheet music, comprises the bulk of the collection. Most of this material was used in Kaye's performance tours, movies, stage productions, television specials, and his television series, 'The Danny Kaye Show,' or was created for his films. Music for 'The John Gary Show '(1966) and selections from 'An Evening with Danny Kaye' concerts are in the collection as well. The collection also includes music manuscripts, printed music, and lyric sheets for songs written by Fine (alone or with others, including Sammy Cahn, Sy Miller, Vic Schoen, and Ben Weisman). A number of Fine's sketchbooks are also included. Scripts in the collection largely consist of radio, television, and film scripts for productions in which Kaye performed. There are scripts for each Kaye film except 'A Song Is Born' and for each episode of 'The Danny Kaye Show.' Most personal correspondence is found in the Correspondence series, while the Dena Pictures Files and the Danny Kaye Performance Files series contain business correspondence. Kaye's wide-ranging acquaintanceships and friendships are apparent through the telegrams and notes he received at the opening of stage performances, concerts, etc. and through his receipt of honors and awards. The bulk of the personal correspondence is incoming letters and telegrams from family members, friends, business colleagues, and occasionally fans that reflect the various personal and professional interests of Kaye and Fine, including family, show business, politics, and social causes. The organization of the Business Papers series reflects Kaye and Fine's complex and fluid business arrangements. The Danny Kaye Performance Files span Kaye's entire career and capture all aspects of his public persona: stage performer, actor, conductor, and humanitarian. Materials are extensive and varied: programs, correspondence (including some fan mail), photographs, scrapbooks, and clippings document his stage and conducting appearances.  Correspondence concerning appearances and events, travel arrangements, photographs, and clippings document Kaye's public service. UNICEF activity and Kaye's work on behalf of the state of Israel comprise the bulk of the files, although Kaye's efforts to entertain United States troops via the USO and on his own are also well-documented. Additional information on these activities is found in the Photographs, Clippings, and Honors series. Materials from Kaye's film and television career beyond The Danny Kaye Show, including posters, production stills, clippings, and advertising materials are also located within the Danny Kaye Performance Files. The Kaye/Fine Productions subseries reflects the couple's joint activities, while the Danny Kaye Productions subseries documents Kaye's stage, film, and television performances, public service activities, and other business ventures. This latter subseries contains files for Dena Music and Dena Pictures. Of these, the files pertaining to The Danny Kaye Show (1964-1967) are the most noteworthy. Production and administrative materials for the show are located here. The Sylvia Fine Files document her diverse professional activities, including the productions of Music Comedy Tonight and her teaching career at Yale University and the University of Southern California. Personal and biographical information for Kaye and Fine consists of writings by and about each of them, a small quantity of financial records from the 1940s and 1950s, a set of subject files related to their domestic activities, and files about Kaye's interest in aviation, baseball, cooking, golf, and medicine. Appointment calendars, telephone lists, and address books provide additional information about daily activities. Kaye was photographed regularly throughout his career. The collection contains large quantities of professional head shots, as well thousands of candid shots from press coverage of stage, public service, and social events. The Fine Family (1918-1940s), including Sylvia, is mostly documented through snapshots. More formal images of Sylvia Fine are also present, as are candid and formal pictures of Dena Kaye (mainly through her teenage years). In addition to photographic portraits, the collection contains numerous other representations of Kaye, such as cartoons, caricatures, and artistic renderings in pencil, oil, crayon, and other media. The Scrapbooks series provides additional visual documentation of Kaye performing and his world travels for UNICEF. The Honors series provides evidence of the esteem granted to Kaye for his humanitarian work, especially his contributions to UNICEF and the USO. Included in the collection are a selection of the awards: certificates, citations and proclamations, honorary degrees, and medals. The Realia series contains items given to or saved by Danny Kaye, such as batons, an engraved walking stick from Harry Lauder (1949), Rossini scores from members of the London and New York Philharmonic orchestras, and UNICEF and USO mementos."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2025-11-14T21:24:37.713Z",
+   "group": [
+    "catalog-split-01",
+    "catalog",
+    "main-catalog-split-01"
+   ],
+   "hassegments": false,
+   "id": "http://lccn.loc.gov/2006560770",
+   "image_url": [],
+   "index": 1,
+   "language": [
+    "swedish",
+    "danish",
+    "hebrew",
+    "english"
+   ],
+   "location": [
+    "united states"
+   ],
+   "number": [
+    "2025-06-07t01:30:10.800000",
+    "2006560770"
+   ],
+   "original_format": [
+    "manuscript/mixed material",
+    "collection"
+   ],
+   "partof": [
+    "catalog",
+    "music division"
+   ],
+   "score": 11.270762,
+   "shelf_id": "ML31 .K397",
+   "site": [
+    "catalog"
+   ],
+   "subject": [
+    "cartoons (humor)",
+    "king of great britain",
+    "bass, jules",
+    "archives",
+    "variety shows (radio programs)",
+    "colbert, claudette",
+    "george",
+    "cooking, italian",
+    "roosevelt, eleanor",
+    "allen, steve",
+    "grant, cary",
+    "excerpts",
+    "humphrey, hubert h.",
+    "artifacts (object genre)",
+    "queen of great britain",
+    "white christmas (motion picture : 1954)",
+    "merry andrew (motion picture)",
+    "olivier, laurence",
+    "musical comedy tonight",
+    "kaye, dena",
+    "court jester (motion picture)",
+    "queen, consort of george vi, king of great britain",
+    "prince, consort of elizabeth ii, queen of great britain",
+    "motion picture music",
+    "scrapbooks",
+    "prince, consort of juliana, queen of the netherlands",
+    "secret life of walter mitty (motion picture : 1947)",
+    "peck, gregory",
+    "speeches",
+    "smith, oliver lemuel",
+    "motion pictures",
+    "kaye, danny",
+    "kingsley, ben",
+    "brown, helen gurley",
+    "sills, beverly",
+    "on the riviera (motion picture)",
+    "hubert horatio)",
+    "scripts (documents)",
+    "behrendt, olive",
+    "performances",
+    "music",
+    "jr",
+    "knock on wood (motion picture)",
+    "madwoman of chaillot (motion picture)",
+    "writings (documents)",
+    "campion, clifford",
+    "fairbanks, douglas",
+    "manuscripts",
+    "bavasi, buzzie",
+    "vi",
+    "zāhidī, ardashīr",
+    "ii",
+    "philip",
+    "inspector general (motion picture : 1949)",
+    "caricatures and cartoons",
+    "notes",
+    "los angeles dodgers (baseball team)",
+    "variety shows (television programs)",
+    "production and direction",
+    "lecture notes",
+    "clippings (information artifacts)",
+    "elizabeth",
+    "ribicoff, abraham",
+    "pons, lily",
+    "wonder man (motion picture)",
+    "brown, david",
+    "hans christian andersen (motion picture)",
+    "mcdowall, roddy",
+    "craig, david",
+    "awards",
+    "eban, abba solomon",
+    "texts",
+    "financial records",
+    "allan, rupert",
+    "queen of the netherlands",
+    "marriott, vi",
+    "graham, katharine",
+    "wences",
+    "posters",
+    "programs (documents)",
+    "fine, sylvia",
+    "nassikas, james",
+    "shore, dinah",
+    "javits, jacob k.",
+    "unicef",
+    "up in arms (motion picture)",
+    "kollek, teddy",
+    "women composers",
+    "lasker, mary",
+    "contracts",
+    "hoffman, anna rosenberg",
+    "five pennies (motion picture)",
+    "onassis, jacqueline kennedy",
+    "revues",
+    "television music",
+    "musical comedy tonight ii",
+    "de mille, agnes",
+    "kanin, garson",
+    "promotional materials",
+    "valenti, jack",
+    "jewison, norman",
+    "swaffer, hannen",
+    "cunningham, marion",
+    "comedians",
+    "musicals",
+    "hitzing, holly",
+    "rabin, yitzhak",
+    "will, george f.",
+    "librettos",
+    "danny kaye show (television program)",
+    "beatrix",
+    "gordon, ruth",
+    "musical films",
+    "kan, johnny",
+    "roebling, mary g.",
+    "chevalier, maurice",
+    "united service organizations (u.s.)",
+    "reagan, nancy",
+    "selznick, irene mayer",
+    "walker, nancy",
+    "dickson, harry ellis",
+    "correspondence",
+    "theater",
+    "united states",
+    "caricatures",
+    "television",
+    "douglas, kirk",
+    "scully, vin",
+    "personal correspondence",
+    "green, johnny",
+    "shaw, run run",
+    "musical theater",
+    "photographic prints",
+    "entertainers",
+    "scores",
+    "dena pictures, inc",
+    "kingman, dong",
+    "mccarthy, frank",
+    "brademas, john",
+    "jacob koppel)",
+    "photographs",
+    "john gary show",
+    "women librettists",
+    "songs and music",
+    "pépin, jacques",
+    "child, julia",
+    "address books",
+    "claiborne, craig",
+    "baseball",
+    "on the double (motion picture)",
+    "jackson, anne",
+    "panama, norman",
+    "ormandy, eugene",
+    "cooking, chinese",
+    "bernhard",
+    "songs",
+    "señor",
+    "carlisle, kitty",
+    "chen, joyce",
+    "rabb, maxwell m.",
+    "me and the colonel (motion picture)",
+    "popular music",
+    "musical comedy tonight iii",
+    "wallach, eli"
+   ],
+   "timestamp": "2025-11-14T21:41:21.724Z",
+   "title": "Danny Kaye and Sylvia Fine collection, 1913-1992",
+   "type": [
+    "manuscript"
+   ],
+   "url": "//lccn.loc.gov/2006560770"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "https://www.loc.gov/pictures/item/2024641149/",
+    "http://www.loc.gov/item/2024641149/",
+    "http://www.loc.gov/pictures/item/2024641149/",
+    "https://hdl.loc.gov/loc.pnp/vrg.21926",
+    "https://hdl.loc.gov/loc.pnp/vrg.21926",
+    "http://www.loc.gov/resource/vrg.21926/",
+    "http://lccn.loc.gov/2024641149"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "vergara, camilo j."
+   ],
+   "date": "2024-08-24",
+   "dates": [
+    "2024-08-24",
+    "2024"
+   ],
+   "description": [
+    "1 photograph : digital, tiff file, color."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2024-10-05T12:51:46.627Z",
+   "group": [
+    "pp_other",
+    "catalog-split-01",
+    "catalog",
+    "prints-and-photographs-other",
+    "main-catalog-split-01"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/2024641149/",
+   "image_url": [
+    "https://tile.loc.gov/storage-services/service/pnp/vrg/21900/21926_150px.jpg#h=100&w=150",
+    "https://tile.loc.gov/storage-services/service/pnp/vrg/21900/21926r.jpg#h=427&w=640",
+    "https://tile.loc.gov/storage-services/service/pnp/vrg/21900/21926v.jpg#h=683&w=1024"
+   ],
+   "index": 2,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "new york (state)",
+    "new york",
+    "united states",
+    "manhattan"
+   ],
+   "mime_type": [
+    "image/gif",
+    "image/jpg"
+   ],
+   "number": [
+    "2024-09-26t15:11:59",
+    "online resource",
+    "http://www.loc.gov/item/23877672",
+    "2024641149"
+   ],
+   "online_format": [
+    "image"
+   ],
+   "original_format": [
+    "photo, print, drawing"
+   ],
+   "partof": [
+    "catalog",
+    "prints and photographs division"
+   ],
+   "score": 9.740556,
+   "shelf_id": "LC-DIG-vrg- 21926 (ONLINE)",
+   "site": [
+    "pictures",
+    "catalog"
+   ],
+   "subject": [
+    "families",
+    "security",
+    "manhattan",
+    "new york",
+    "columbia",
+    "united states",
+    "new york (state)",
+    "digital photographs"
+   ],
+   "timestamp": "2024-10-05T12:53:00.697Z",
+   "title": "Columbia University, Family Orientation. Broadway and W. 116th St., Manhattan",
+   "type": [
+    "still image"
+   ],
+   "url": "https://www.loc.gov/item/2024641149/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "https://www.loc.gov/pictures/item/2020638225/",
+    "http://www.loc.gov/item/2020638225/",
+    "http://www.loc.gov/pictures/item/2020638225/",
+    "https://hdl.loc.gov/loc.pnp/vrg.14518",
+    "https://hdl.loc.gov/loc.pnp/vrg.14518",
+    "http://www.loc.gov/resource/vrg.14518/",
+    "http://lccn.loc.gov/2020638225"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "vergara, camilo j."
+   ],
+   "date": "2020-10-27",
+   "dates": [
+    "2020-10-27",
+    "2020"
+   ],
+   "description": [
+    "1 photograph : digital, tiff file, color."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2023-07-17T14:41:32.145Z",
+   "group": [
+    "pp_other",
+    "catalog-split-14",
+    "catalog",
+    "prints-and-photographs-other",
+    "main-catalog-split-14"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/2020638225/",
+   "image_url": [
+    "https://tile.loc.gov/storage-services/service/pnp/vrg/14500/14518_150px.jpg#h=100&w=150",
+    "https://tile.loc.gov/storage-services/service/pnp/vrg/14500/14518r.jpg#h=427&w=640",
+    "https://tile.loc.gov/storage-services/service/pnp/vrg/14500/14518v.jpg#h=683&w=1024"
+   ],
+   "index": 3,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "new york (state)",
+    "new york",
+    "united states",
+    "manhattan"
+   ],
+   "mime_type": [
+    "image/gif",
+    "image/jpg"
+   ],
+   "number": [
+    "http://www.loc.gov/item/21788674",
+    "online resource",
+    "2022-01-14t12:55:47",
+    "2020638225"
+   ],
+   "online_format": [
+    "image"
+   ],
+   "original_format": [
+    "photo, print, drawing"
+   ],
+   "partof": [
+    "catalog",
+    "prints & photographs online catalog (library of congress)",
+    "prints and photographs division"
+   ],
+   "score": 9.740556,
+   "shelf_id": "LC-DIG-vrg- 14518 (ONLINE) [P&P]",
+   "site": [
+    "pictures",
+    "catalog"
+   ],
+   "subject": [
+    "lines",
+    "manhattan",
+    "time lapse: covid-19",
+    "new york",
+    "subway",
+    "columbia",
+    "crossroads",
+    "digital photographs",
+    "united states",
+    "presidential elections",
+    "new york (state)",
+    "corona virus",
+    "voting",
+    "covid-19 pandemic"
+   ],
+   "timestamp": "2023-08-17T17:18:30.102Z",
+   "title": "Early voters, 168th St. at St. Nicholas Ave., Manhattan",
+   "type": [
+    "still image"
+   ],
+   "url": "https://www.loc.gov/item/2020638225/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "https://www.loc.gov/pictures/item/2024706173/",
+    "http://www.loc.gov/item/2024706173/",
+    "http://www.loc.gov/pictures/item/2024706173/",
+    "https://hdl.loc.gov/loc.pnp/vrg.21281",
+    "https://hdl.loc.gov/loc.pnp/vrg.21281",
+    "http://www.loc.gov/resource/vrg.21281/",
+    "http://lccn.loc.gov/2024706173"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "vergara, camilo j."
+   ],
+   "date": "2024-04-17",
+   "dates": [
+    "2024-04-17",
+    "2024"
+   ],
+   "description": [
+    "1 photograph : digital, tiff file, color."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2024-08-17T12:41:37.270Z",
+   "group": [
+    "pp_other",
+    "catalog-split-00",
+    "catalog",
+    "prints-and-photographs-other",
+    "main-catalog-split-00"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/2024706173/",
+   "image_url": [],
+   "index": 4,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "new york (state)",
+    "new york",
+    "united states",
+    "manhattan"
+   ],
+   "mime_type": [
+    "image/gif",
+    "image/jpg"
+   ],
+   "number": [
+    "2024706173",
+    "online resource",
+    "http://www.loc.gov/item/23812374",
+    "2024-08-06t09:38:42"
+   ],
+   "online_format": [
+    "image"
+   ],
+   "original_format": [
+    "photo, print, drawing"
+   ],
+   "partof": [
+    "catalog",
+    "prints and photographs division"
+   ],
+   "score": 9.740556,
+   "shelf_id": "LC-DIG-vrg- 21281 (ONLINE)",
+   "site": [
+    "pictures",
+    "catalog"
+   ],
+   "subject": [
+    "manhattan",
+    "gaza",
+    "new york",
+    "columbia",
+    "united states",
+    "new york (state)",
+    "palestine",
+    "digital photographs"
+   ],
+   "timestamp": "2024-08-17T12:48:02.678Z",
+   "title": "Palestinian flags and tents placed by students protesting the war in Gaza. Columbia University, East Lawn, Broadway and W. 116th St., Manhattan",
+   "type": [
+    "still image"
+   ],
+   "url": "https://www.loc.gov/item/2024706173/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "https://www.loc.gov/pictures/item/2024706175/",
+    "http://www.loc.gov/item/2024706175/",
+    "http://www.loc.gov/pictures/item/2024706175/",
+    "https://hdl.loc.gov/loc.pnp/vrg.21283",
+    "https://hdl.loc.gov/loc.pnp/vrg.21283",
+    "http://www.loc.gov/resource/vrg.21283/",
+    "http://lccn.loc.gov/2024706175"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "vergara, camilo j."
+   ],
+   "date": "2024-04-17",
+   "dates": [
+    "2024-04-17",
+    "2024"
+   ],
+   "description": [
+    "1 photograph : digital, tiff file, color."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2024-08-17T12:42:37.322Z",
+   "group": [
+    "pp_other",
+    "catalog-split-02",
+    "catalog",
+    "prints-and-photographs-other",
+    "main-catalog-split-02"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/2024706175/",
+   "image_url": [],
+   "index": 5,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "new york (state)",
+    "new york",
+    "united states",
+    "manhattan"
+   ],
+   "mime_type": [
+    "image/gif",
+    "image/jpg"
+   ],
+   "number": [
+    "http://www.loc.gov/item/23812376",
+    "2024706175",
+    "online resource",
+    "2024-08-06t09:38:42"
+   ],
+   "online_format": [
+    "image"
+   ],
+   "original_format": [
+    "photo, print, drawing"
+   ],
+   "partof": [
+    "catalog",
+    "prints and photographs division"
+   ],
+   "score": 9.740556,
+   "shelf_id": "LC-DIG-vrg- 21283 (ONLINE)",
+   "site": [
+    "pictures",
+    "catalog"
+   ],
+   "subject": [
+    "manhattan",
+    "gaza",
+    "new york",
+    "columbia",
+    "united states",
+    "new york (state)",
+    "palestine",
+    "digital photographs"
+   ],
+   "timestamp": "2024-08-17T12:48:02.678Z",
+   "title": "Palestinian flags and tents placed by students protesting the war in Gaza. Columbia University, East Lawn, Broadway and W. 116th St., Manhattan",
+   "type": [
+    "still image"
+   ],
+   "url": "https://www.loc.gov/item/2024706175/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "https://www.loc.gov/pictures/item/2024706177/",
+    "http://www.loc.gov/item/2024706177/",
+    "http://www.loc.gov/pictures/item/2024706177/",
+    "https://hdl.loc.gov/loc.pnp/vrg.21285",
+    "https://hdl.loc.gov/loc.pnp/vrg.21285",
+    "http://www.loc.gov/resource/vrg.21285/",
+    "http://lccn.loc.gov/2024706177"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "vergara, camilo j."
+   ],
+   "date": "2024-04-17",
+   "dates": [
+    "2024-04-17",
+    "2024"
+   ],
+   "description": [
+    "1 photograph : digital, tiff file, color."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2024-08-17T12:41:37.270Z",
+   "group": [
+    "pp_other",
+    "catalog-split-04",
+    "catalog",
+    "prints-and-photographs-other",
+    "main-catalog-split-04"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/2024706177/",
+   "image_url": [],
+   "index": 6,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "new york (state)",
+    "new york",
+    "united states",
+    "manhattan"
+   ],
+   "mime_type": [
+    "image/gif",
+    "image/jpg"
+   ],
+   "number": [
+    "2024-08-06t09:38:43",
+    "http://www.loc.gov/item/23812378",
+    "online resource",
+    "2024706177"
+   ],
+   "online_format": [
+    "image"
+   ],
+   "original_format": [
+    "photo, print, drawing"
+   ],
+   "partof": [
+    "catalog",
+    "prints and photographs division"
+   ],
+   "score": 9.740556,
+   "shelf_id": "LC-DIG-vrg- 21285 (ONLINE)",
+   "site": [
+    "pictures",
+    "catalog"
+   ],
+   "subject": [
+    "manhattan",
+    "gaza",
+    "new york",
+    "columbia",
+    "united states",
+    "new york (state)",
+    "palestine",
+    "digital photographs"
+   ],
+   "timestamp": "2024-08-17T12:48:02.678Z",
+   "title": "Palestinian flags and tents placed by students protesting the war in Gaza. Columbia University, East Lawn, Broadway and W. 116th St., Manhattan",
+   "type": [
+    "still image"
+   ],
+   "url": "https://www.loc.gov/item/2024706177/"
+  }
+ ],
+ "resources": [
+  {
+   "audio": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1441_01_39033_03:ucsb_col_a1441_01_39033_03/full/full/0/full/default.mp3",
+   "files": [
+    [
+     {
+      "aspectRation": "4:3",
+      "autoPlay": false,
+      "canDownload": true,
+      "derivatives": [
+       {
+        "derivativeUrl": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/ucsb_col_a1441_01_39033_03/ucsb_col_a1441_01_39033_03.mp3"
+       }
+      ],
+      "detailUrl": "https://www.loc.gov/item/jukebox-649241",
+      "download": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1441_01_39033_03:ucsb_col_a1441_01_39033_03/full/full/0/full/default.mp3",
+      "duration": 168.0,
+      "filename": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/ucsb_col_a1441_01_39033_03/ucsb_col_a1441_01_39033_03.mp3",
+      "mediaType": "A",
+      "metadata": [
+       "There's ragtime in the air",
+       "Male vocal quartet, with orchestra"
+      ],
+      "mimetype": "audio/mpeg",
+      "poster": null,
+      "rights_restricted": true,
+      "shortName": "There's ragtime in the air",
+      "thumbnail_url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1441_01_39033_03:ucsb_col_a1441_01_39033_03/full/pct:12.5/0/default.jpg"
+     },
+     {
+      "height": null,
+      "levels": 1,
+      "mimetype": "audio/wav",
+      "size": 29694416,
+      "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/ucsb_col_a1441_01_39033_03/ucsb_col_a1441_01_39033_03.wav",
+      "width": null
+     }
+    ]
+   ],
+   "url": "https://www.loc.gov/resource/jukebox-649241.0"
+  },
+  {
+   "files": [
+    [
+     {
+      "height": 389,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1441_01_39033_03:ucsb_col_a1441_01_39033_03/full/pct:12.5/0/default.jpg",
+      "width": 389
+     },
+     {
+      "height": 778,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1441_01_39033_03:ucsb_col_a1441_01_39033_03/full/pct:25/0/default.jpg",
+      "width": 778
+     },
+     {
+      "height": 1556,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1441_01_39033_03:ucsb_col_a1441_01_39033_03/full/pct:50/0/default.jpg",
+      "width": 1556
+     },
+     {
+      "height": 3112,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1441_01_39033_03:ucsb_col_a1441_01_39033_03/full/pct:100/0/default.jpg",
+      "width": 3112
+     },
+     {
+      "height": null,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 29085468,
+      "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/ucsb_col_a1441_01_39033_03/ucsb_col_a1441_01_39033_03.tif",
+      "width": null
+     }
+    ]
+   ],
+   "image": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1441_01_39033_03:ucsb_col_a1441_01_39033_03/full/pct:100/0/default.jpg",
+   "mimetype": "image/jpeg",
+   "url": "https://www.loc.gov/resource/jukebox-649241.1"
+  }
+ ],
+ "timestamp": 1791308696439
+}
