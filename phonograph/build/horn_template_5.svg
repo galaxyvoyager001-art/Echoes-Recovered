@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="644.9mm" height="263.3mm" viewBox="-322.44 -362.80 644.87 263.33">
+<rect x="-322.4367338808384" y="-362.8" width="644.8734677616768" height="263.32567703418226" fill="#ffffff"/>
+<path d="M-312.44,-163.86 A352.80,352.80 0 0 1 312.44,-163.86 L208.73,-109.47 A235.70,235.70 0 0 0 -208.73,-109.47 Z" fill="none" stroke="#000" stroke-width="0.4"/>
+<line x1="-204.89" y1="-116.51" x2="-306.68" y2="-174.39" stroke="#000" stroke-width="0.3" stroke-dasharray="3 2"/>
+<text x="-317.4" y="-104.5" font-family="sans-serif" font-size="5">Horn segment 5 - print at 100% (1:1). R1=235.7 mm, R2=352.8 mm, angle=122.7 deg + 12.0 mm glue tab (dashed = fold)</text>
+<line x1="-317.4" y1="-113.5" x2="-267.4" y2="-113.5" stroke="#000" stroke-width="0.6"/>
+<text x="-317.4" y="-115.5" font-family="sans-serif" font-size="4">50 mm check bar</text>
+</svg>

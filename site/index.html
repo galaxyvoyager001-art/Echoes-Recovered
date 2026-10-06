@@ -1,0 +1,344 @@
+<!doctype html>
+<html lang="en">
+<title>Sound Time Map</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta charset="utf-8">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Libre+Bodoni:ital,wght@0,500;0,700;1,500&family=Source+Sans+3:wght@400;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: listening-room console. Map + timeline (where/when) on the left, the selected disc on the right, catalogue below. */
+:root {
+  --paper: #f2f3f1;
+  --card: #fbfbfa;
+  --ink: #15171c;
+  --ink-2: #545a64;
+  --line: #d3d6da;
+  --accent: #1f5f8b;      /* catalogue-stamp cobalt: restored audio, selection */
+  --orig: #7d7f80;        /* graphite: original transfer */
+  --muted-fill: #e4e6e8;
+  --state: #e6e8e5;
+  --state-line: #b9bec4;
+  --water: #f2f3f1;
+  --display: "Libre Bodoni", "Bodoni 72", Didot, Georgia, serif;
+  --body: "Source Sans 3", "Segoe UI", system-ui, sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, Menlo, Consolas, monospace;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --paper: #121417; --card: #1a1d21; --ink: #e9e8e4; --ink-2: #a9aeb6; --line: #33383f;
+  --accent: #74aee0; --orig: #9a9c9e; --muted-fill: #262a30; --state: #22262b; --state-line: #444a52; --water: #121417;
+  color-scheme: dark; } }
+:root[data-theme="dark"] {
+  --paper: #121417; --card: #1a1d21; --ink: #e9e8e4; --ink-2: #a9aeb6; --line: #33383f;
+  --accent: #74aee0; --orig: #9a9c9e; --muted-fill: #262a30; --state: #22262b; --state-line: #444a52; --water: #121417;
+  color-scheme: dark; }
+
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--paper); color: var(--ink); font: 16px/1.5 var(--body); }
+.wrap { max-width: 1240px; margin: 0 auto; padding-inline: 20px; padding-block: 28px 64px; }
+a { color: var(--accent); }
+a:focus-visible, button:focus-visible, [tabindex]:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+h1, h2, h3 { font-family: var(--display); font-weight: 500; text-wrap: balance; margin: 0; }
+h1 { font-size: clamp(2.2rem, 5vw, 3.4rem); line-height: 1.02; letter-spacing: -0.01em; margin-top: 8px; }
+h2 { font-size: 1.45rem; }
+.eyebrow { font: 500 0.72rem/1 var(--mono); letter-spacing: 0.12em; text-transform: uppercase; color: var(--ink-2); }
+.mono { font-family: var(--mono); font-variant-numeric: tabular-nums; }
+
+header.top { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 20px 40px; align-items: end; padding-bottom: 22px; border-bottom: 1px solid var(--line); }
+header.top p { margin: 10px 0 0; max-width: 62ch; color: var(--ink-2); }
+.counts { display: flex; gap: 28px; }
+.counts div { display: grid; gap: 4px; }
+.counts b { font: 500 1.9rem/1 var(--display); }
+.counts span { font: 0.72rem/1.2 var(--mono); letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-2); }
+
+.console { display: grid; grid-template-columns: minmax(0, 1.25fr) minmax(0, 1fr); gap: 28px; margin-top: 26px; align-items: start; }
+.panel { background: var(--card); border: 1px solid var(--line); border-radius: 6px; }
+.where, .when { padding: 16px 16px 10px; }
+.when { margin-top: 18px; }
+.panel-head { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; flex-wrap: wrap; margin-bottom: 8px; }
+.panel-head h2 { font-size: 1.15rem; }
+.hint { font-size: 0.85rem; color: var(--ink-2); }
+
+svg { display: block; width: 100%; height: auto; }
+.state { fill: var(--state); stroke: var(--state-line); stroke-width: 1; }
+.state-label { font: 500 17px var(--mono); letter-spacing: 0.1em; fill: var(--ink-2); text-transform: uppercase; }
+.city { cursor: pointer; }
+.city circle.halo { fill: var(--accent); opacity: 0.16; }
+.city circle.dot { fill: var(--accent); stroke: var(--card); stroke-width: 2; }
+.city text { font: 600 24px var(--body); fill: var(--ink); paint-order: stroke; stroke: var(--state); stroke-width: 5px; }
+.city text.n { font: 500 18px var(--mono); fill: var(--ink-2); }
+.city.dim { opacity: 0.35; }
+.city.on circle.halo { opacity: 0.32; }
+
+.axis text { font: 20px var(--mono); fill: var(--ink-2); }
+.axis line { stroke: var(--line); }
+.yearband { fill: transparent; cursor: pointer; }
+.yearband:hover { fill: var(--muted-fill); }
+.yearband.on { fill: var(--muted-fill); }
+.excluded { fill: var(--muted-fill); }
+.excluded-label { font: 18px var(--body); fill: var(--ink-2); }
+.rec { cursor: pointer; fill: var(--accent); stroke: var(--card); stroke-width: 2; }
+.rec.dim { opacity: 0.25; }
+.rec.sel { fill: var(--ink); }
+
+.filters { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 16px; align-items: center; }
+.chip { font: 600 0.82rem var(--body); border: 1px solid var(--line); background: var(--card); color: var(--ink); border-radius: 999px; padding: 5px 12px; cursor: pointer; }
+.chip[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: var(--card); }
+.state-pill { font: 0.8rem var(--mono); color: var(--ink-2); }
+button.clear { font: 600 0.82rem var(--body); background: none; border: 0; color: var(--accent); cursor: pointer; padding: 5px 4px; text-decoration: underline; }
+
+.disc { position: sticky; top: calc(env(safe-area-inset-top, 0px) + 16px); padding: 20px; display: grid; gap: 16px; }
+.disc-head { display: grid; grid-template-columns: 112px minmax(0, 1fr); gap: 16px; align-items: start; }
+.disc-head img { width: 112px; height: 112px; object-fit: cover; border-radius: 50%; border: 1px solid var(--line); background: var(--muted-fill); }
+.disc h2 { font-size: 1.7rem; line-height: 1.1; }
+.disc .who { margin-top: 6px; font-weight: 600; }
+dl.facts { display: grid; grid-template-columns: auto minmax(0, 1fr); gap: 4px 14px; margin: 0; font-size: 0.92rem; }
+dl.facts dt { font: 500 0.72rem/1.9 var(--mono); letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-2); }
+dl.facts dd { margin: 0; min-width: 0; overflow-wrap: anywhere; }
+.note { margin: 0; font-size: 0.95rem; }
+.note small { display: block; color: var(--ink-2); margin-top: 4px; }
+
+.players { display: grid; gap: 10px; }
+.player { display: grid; grid-template-columns: 92px minmax(0, 1fr); gap: 10px; align-items: center; }
+.player .lab { font: 500 0.75rem var(--mono); letter-spacing: 0.08em; text-transform: uppercase; }
+.player .lab::before { content: ""; display: inline-block; width: 10px; height: 10px; border-radius: 2px; margin-right: 6px; vertical-align: -1px; }
+.player.o .lab::before { background: var(--orig); }
+.player.r .lab::before { background: var(--accent); }
+audio { width: 100%; height: 36px; }
+.flip { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
+.flip button { font: 600 0.88rem var(--body); border: 1px solid var(--accent); color: var(--accent); background: var(--card); padding: 7px 14px; border-radius: 4px; cursor: pointer; }
+.flip button:hover { background: var(--muted-fill); }
+.flip span { font-size: 0.85rem; color: var(--ink-2); }
+
+.metrics { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 8px; }
+.metric { border-top: 2px solid var(--line); padding-top: 6px; }
+.metric b { display: block; font: 500 0.95rem var(--mono); font-variant-numeric: tabular-nums; }
+.metric span { font-size: 0.75rem; color: var(--ink-2); }
+.links { display: flex; flex-wrap: wrap; gap: 6px 16px; font-size: 0.88rem; }
+.rights { font-size: 0.8rem; color: var(--ink-2); border-top: 1px solid var(--line); padding-top: 10px; }
+details.spec summary { cursor: pointer; font-size: 0.88rem; color: var(--accent); }
+details.spec img { margin-top: 8px; border-radius: 4px; border: 1px solid var(--line); }
+
+section.catalogue { margin-top: 40px; }
+.cat-head { display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 8px; margin-bottom: 10px; }
+.table-wrap { overflow-x: auto; border: 1px solid var(--line); border-radius: 6px; background: var(--card); }
+table { border-collapse: collapse; width: 100%; min-width: 760px; font-size: 0.92rem; }
+th, td { text-align: left; padding: 9px 12px; border-bottom: 1px solid var(--line); vertical-align: top; }
+th { font: 500 0.7rem var(--mono); letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-2); background: var(--card); }
+tbody tr { cursor: pointer; }
+tbody tr:hover { background: var(--muted-fill); }
+tbody tr.sel { background: var(--muted-fill); box-shadow: inset 3px 0 0 var(--accent); }
+td.num { font-family: var(--mono); font-variant-numeric: tabular-nums; white-space: nowrap; }
+
+section.about { margin-top: 40px; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 28px; border-top: 1px solid var(--line); padding-top: 24px; }
+section.about h3 { font-size: 1.1rem; margin-bottom: 6px; }
+section.about p { margin: 0; font-size: 0.92rem; color: var(--ink-2); }
+
+.tip { position: fixed; pointer-events: none; background: var(--ink); color: var(--paper); font-size: 0.82rem; padding: 6px 9px; border-radius: 4px; max-width: 260px; z-index: 5; }
+
+@media (max-width: 900px) {
+  .console { grid-template-columns: minmax(0, 1fr); }
+  .disc { position: static; }
+  section.about { grid-template-columns: minmax(0, 1fr); }
+  header.top { grid-template-columns: minmax(0, 1fr); }
+}
+@media (max-width: 480px) {
+  .wrap { padding-inline: 16px; }
+  .disc-head { grid-template-columns: 76px minmax(0, 1fr); }
+  .disc-head img { width: 76px; height: 76px; }
+  .player { grid-template-columns: minmax(0, 1fr); gap: 4px; }
+  .metrics { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .counts { gap: 18px; }
+}
+@media (prefers-reduced-motion: no-preference) { .rec, .city circle { transition: opacity .15s; } }
+</style>
+
+<div class="wrap">
+  <header class="top">
+    <div>
+      <div class="eyebrow">Echoes Recovered · Library of Congress National Jukebox</div>
+      <h1>Sound Time Map</h1>
+      <p>Acoustic-era discs, 1901–1921, placed where and when they were recorded. Each one plays twice: the Library of Congress transfer exactly as published, and a restoration made with documented, non-generative signal processing.</p>
+    </div>
+    <div class="counts" id="counts"></div>
+  </header>
+
+  <div class="console">
+    <div>
+      <div class="panel where">
+        <div class="panel-head"><h2>Where</h2><span class="hint">Cities as given in each LoC record. Studio addresses are not shown.</span></div>
+        <svg id="map" role="img" aria-label="Map of recording cities"></svg>
+      </div>
+      <div class="panel when">
+        <div class="panel-head"><h2>When</h2><span class="hint">Each dot is one recording session. Select a year or a dot.</span></div>
+        <svg id="timeline" role="img" aria-label="Timeline 1900 to 1925"></svg>
+      </div>
+      <div class="filters" id="filters" aria-label="Filter by music type"></div>
+    </div>
+    <aside class="panel disc" id="disc" aria-live="polite"></aside>
+  </div>
+
+  <section class="catalogue">
+    <div class="cat-head"><h2>Catalogue</h2><span class="state-pill" id="catstate"></span></div>
+    <div class="table-wrap"><table>
+      <thead><tr><th>Recorded</th><th>Title</th><th>Performer</th><th>City</th><th>Type</th><th>Disc</th><th>Clicks/min, before → after</th></tr></thead>
+      <tbody id="rows"></tbody>
+    </table></div>
+  </section>
+
+  <section class="about">
+    <div><h3>Source and rights</h3><p>Every recording comes from the Library of Congress National Jukebox. Each item's Rights &amp; Access statement was checked: recordings published before 1923 are in the US public domain under the Music Modernization Act. Only issued discs recorded before 1922 were used, as a safety margin on the publication date. Credit: Library of Congress, National Jukebox.</p></div>
+    <div><h3>How the restoration works</h3><p>The two stereo channels are folded to mono. Clicks are detected with an autoregressive model and bridged from the samples on either side. Surface noise is reduced with a decision-directed Wiener filter, hiss above the recorded band is filtered off, and a bounded EQ evens out horn resonances. Nothing is synthesised. The project repository holds the code, the parameters for every track, and its logs.</p></div>
+    <div><h3>How to listen</h3><p>Start either player, then use “Switch” to jump to the other version at the same moment. The A/B file alternates identical passages. “What was removed” plays the exact difference signal, so you can check that the processing took out noise rather than music.</p></div>
+  </section>
+</div>
+<div class="tip" id="tip" hidden></div>
+
+<script>window.STM_BASE = window.STM_BASE || "../";</script>
+<script src="data.js"></script>
+<script>
+(() => {
+  const D = window.STM, B = window.STM_BASE, S = D.songs;
+  const NS = "http://www.w3.org/2000/svg";
+  const st = { city: null, year: null, cat: null, sel: S.find(s => s.id === "jukebox-186254") || S[0] };
+  const $ = id => document.getElementById(id);
+  const el = (tag, attrs = {}, parent) => { const e = document.createElementNS(NS, tag); for (const k in attrs) e.setAttribute(k, attrs[k]); if (parent) parent.appendChild(e); return e; };
+  const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+  const title = s => s.split(" ").map((w, i) => (i && /^(and|of|the)$/.test(w)) ? w : w.replace(/^([\[(]?)([a-z])/, (m, a, b) => a + b.toUpperCase())).join(" ").replace(/\[I\.e\./g, "[i.e.");
+  const catGroup = c => c.split(/[\/(]/)[0].trim();
+  const match = s => (!st.city || s.city === st.city) && (!st.year || s.year === st.year) && (!st.cat || catGroup(s.category) === st.cat);
+  const tip = $("tip");
+  const showTip = (e, html) => { tip.innerHTML = html; tip.hidden = false; tip.style.left = Math.min(e.clientX + 12, innerWidth - 270) + "px"; tip.style.top = (e.clientY + 14) + "px"; };
+  const hideTip = () => { tip.hidden = true; };
+
+  // counts (computed from the data that is actually present)
+  const cities = new Set(S.map(s => s.city)), yrs = S.map(s => s.year);
+  $("counts").innerHTML = `<div><b>${S.length}</b><span>restored discs</span></div><div><b>${cities.size}</b><span>recording cities</span></div><div><b>${Math.min(...yrs)}–${Math.max(...yrs)}</b><span>recorded</span></div>`;
+
+  // ---------- map ----------
+  const M = D.map, map = $("map");
+  map.setAttribute("viewBox", `0 0 ${M.w} ${M.h}`);
+  el("rect", { x: 0, y: 0, width: M.w, height: M.h, fill: "var(--water)" }, map);
+  for (const [name, d] of Object.entries(M.states)) el("path", { d, class: "state" }, map);
+  const sl = { "New York": [560, 60], "Pennsylvania": [60, 200], "New Jersey": [600, 470], "Connecticut": [860, 60] };
+  for (const [n, [x, y]] of Object.entries(sl)) if (M.states[n]) { const t = el("text", { x, y, class: "state-label" }, map); t.textContent = n; }
+  const cityLab = { "New York": [22, 6, "start"], "Camden": [24, 30, "start"], "Philadelphia": [-24, -14, "end"], "Chicago": [22, 6, "start"] };
+  const cityG = {};
+  for (const [n, c] of Object.entries(M.cities)) {
+    const g = el("g", { class: "city", tabindex: 0, role: "button", "aria-label": `${n}: ${c.count} recordings` }, map);
+    const r = 6 + Math.sqrt(c.count) * 4;
+    el("circle", { cx: c.x, cy: c.y, r: r + 6, class: "halo" }, g);
+    el("circle", { cx: c.x, cy: c.y, r: 8, class: "dot" }, g);
+    const [dx, dy, anc] = cityLab[n] || [14, 4, "start"];
+    const t = el("text", { x: c.x + dx, y: c.y + dy, "text-anchor": anc }, g); t.textContent = n;
+    const t2 = el("text", { x: c.x + dx, y: c.y + dy + 24, "text-anchor": anc, class: "n" }, g); t2.textContent = `${c.count} recording${c.count > 1 ? "s" : ""}`;
+    const act = () => { st.city = st.city === n ? null : n; pickFirst(); render(); };
+    g.addEventListener("click", act); g.addEventListener("keydown", e => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); act(); } });
+    g.addEventListener("mousemove", e => showTip(e, `<b>${n}</b><br>${c.count} recordings · ${c.state}`)); g.addEventListener("mouseleave", hideTip);
+    cityG[n] = g;
+  }
+
+  // ---------- timeline ----------
+  const T = $("timeline"), TW = 1000, Y0 = 1900, Y1 = 1926, L = 24, R = 16;
+  const xOf = d => { const dt = new Date(d + "T00:00:00Z"); const y = dt.getUTCFullYear(); const f = (dt - Date.UTC(y, 0, 1)) / (Date.UTC(y + 1, 0, 1) - Date.UTC(y, 0, 1)); return L + (y + f - Y0) / (Y1 - Y0) * (TW - L - R); };
+  const xY = y => L + (y - Y0) / (Y1 - Y0) * (TW - L - R);
+  // stack dots per year to avoid overlap
+  const perYear = {}; S.forEach(s => { (perYear[s.year] ||= []).push(s); });
+  const maxStack = Math.max(...Object.values(perYear).map(a => a.length));
+  const rowH = 24, base = 70 + maxStack * rowH, TH = base + 50;
+  T.setAttribute("viewBox", `0 0 ${TW} ${TH}`);
+  el("rect", { x: xY(1922), y: 10, width: xY(1926) - xY(1922), height: base - 6, class: "excluded" }, T);
+  const ex = el("text", { x: xY(1922) + 10, y: 36, class: "excluded-label" }, T); ex.textContent = "1922–25";
+  const ex2 = el("text", { x: xY(1922) + 10, y: 58, class: "excluded-label" }, T); ex2.textContent = "not used";
+  const bands = {};
+  for (let y = Y0; y < 1922; y++) {
+    const b = el("rect", { x: xY(y), y: 10, width: xY(y + 1) - xY(y), height: base - 6, class: "yearband", tabindex: perYear[y] ? 0 : -1, role: "button", "aria-label": `${y}: ${(perYear[y] || []).length} recordings` }, T);
+    const act = () => { st.year = st.year === y ? null : y; pickFirst(); render(); };
+    b.addEventListener("click", act); b.addEventListener("keydown", e => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); act(); } });
+    b.addEventListener("mousemove", e => showTip(e, `<b>${y}</b> · ${(perYear[y] || []).length} recordings`)); b.addEventListener("mouseleave", hideTip);
+    bands[y] = b;
+  }
+  const ax = el("g", { class: "axis" }, T);
+  el("line", { x1: L, x2: TW - R, y1: base + 4, y2: base + 4 }, ax);
+  for (let y = Y0; y <= 1925; y += 5) { el("line", { x1: xY(y), x2: xY(y), y1: base + 4, y2: base + 10 }, ax); const t = el("text", { x: xY(y), y: base + 26, "text-anchor": "middle" }, ax); t.textContent = y; }
+  for (let y = Y0; y <= 1925; y++) if (y % 5) el("line", { x1: xY(y), x2: xY(y), y1: base + 4, y2: base + 8 }, ax);
+  const dots = {};
+  Object.values(perYear).forEach(arr => arr.sort((a, b) => a.date < b.date ? -1 : 1).forEach((s, i) => {
+    const c = el("circle", { cx: xOf(s.date), cy: base - 14 - i * rowH, r: 9, class: "rec", tabindex: 0, role: "button", "aria-label": `${s.title}, ${s.date}` }, T);
+    const act = e => { e.stopPropagation(); st.sel = s; render(); };
+    c.addEventListener("click", act); c.addEventListener("keydown", e => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); act(e); } });
+    c.addEventListener("mousemove", e => showTip(e, `<b>${esc(s.title)}</b><br>${esc(title(s.performer))} · ${s.date} · ${s.city}`)); c.addEventListener("mouseleave", hideTip);
+    dots[s.id] = c;
+  }));
+
+  // ---------- filters ----------
+  const cats = [...new Set(S.map(s => catGroup(s.category)))].sort();
+  const F = $("filters");
+  cats.forEach(c => { const b = document.createElement("button"); b.className = "chip"; b.textContent = c; b.setAttribute("aria-pressed", "false"); b.onclick = () => { st.cat = st.cat === c ? null : c; pickFirst(); render(); }; b.dataset.cat = c; F.appendChild(b); });
+  const clr = document.createElement("button"); clr.className = "clear"; clr.textContent = "Show all"; clr.onclick = () => { st.city = st.year = st.cat = null; render(); }; F.appendChild(clr);
+
+  function pickFirst() { if (!match(st.sel)) { const f = S.find(match); if (f) st.sel = f; } }
+
+  // ---------- detail ----------
+  function disc(s) {
+    const m = s.metrics, disc = s.disc.label ? `${s.disc.label} ${s.disc.catalog_number}` : "—";
+    $("disc").innerHTML = `
+      <div class="disc-head">
+        <img src="${B}${s.img.label}" alt="Disc label, ${esc(s.disc.label || "")} ${esc(s.disc.catalog_number || "")}">
+        <div><div class="eyebrow">${esc(s.category)}</div><h2>${esc(s.title)}</h2><div class="who">${esc(title(s.performer))}</div></div>
+      </div>
+      <dl class="facts">
+        <dt>Recorded</dt><dd class="mono">${s.date}</dd>
+        <dt>Place</dt><dd>${esc(title(s.location_loc.join(", ")))} <span class="hint">(LoC record)</span></dd>
+        <dt>Genre</dt><dd>${esc(s.genre_loc.join(" · "))}</dd>
+        <dt>Disc</dt><dd class="mono">${esc(disc)} · matrix ${esc(s.matrix || "")} take ${esc(s.take || "")}</dd>
+        <dt>Credits</dt><dd>${esc(s.contributors.map(c => { const [n, , r] = c.split(" -- "); return `${n} (${(r || "").toLowerCase()})`; }).join("; "))}</dd>
+        <dt>Source</dt><dd><a href="${s.loc_url}" target="_blank" rel="noopener">${s.loc_url.replace("https://", "")}</a></dd>
+      </dl>
+      <p class="note">${esc(s.note)}<small>Context note written for this project. The rest of the facts above come from the LoC record.</small></p>
+      <div class="players">
+        <div class="player o"><span class="lab">Original</span><audio id="aO" controls preload="none" src="${B}${s.audio.original}"></audio></div>
+        <div class="player r"><span class="lab">Restored</span><audio id="aR" controls preload="none" src="${B}${s.audio.restored}"></audio></div>
+        <div class="flip"><button id="flip" type="button">Switch at same moment</button><span id="flipstate">Plays whichever version is not playing, from the same position.</span></div>
+      </div>
+      <div class="metrics">
+        <div class="metric"><b>${m.noise_before} → ${m.noise_after}</b><span>surface noise, dBFS</span></div>
+        <div class="metric"><b>${m.ipm_before} → ${m.ipm_after}</b><span>clicks per minute</span></div>
+        <div class="metric"><b>${m.band[0]}–${m.band[1]} Hz</b><span>band with music</span></div>
+      </div>
+      <div class="links">
+        <a href="${B}${s.audio.ab}" target="_blank" rel="noopener">A/B passages (MP3)</a>
+        <a href="${B}${s.audio.removed}" target="_blank" rel="noopener">What was removed (MP3)</a>
+        <a href="${B}${s.log}" target="_blank" rel="noopener">Restoration log</a>
+      </div>
+      <details class="spec"><summary>Spectrogram, original vs restored</summary><img loading="lazy" src="${B}${s.img.spectrogram}" alt="Spectrogram of original and restored audio"></details>
+      <div class="rights">${esc(s.rights)}. ${esc(s.credit)} ${m.replaced_pct}% of samples were interpolated across clicks; everything else is the original signal, filtered.</div>`;
+    const o = $("aO"), r = $("aR");
+    o.addEventListener("play", () => r.pause()); r.addEventListener("play", () => o.pause());
+    $("flip").onclick = () => {
+      const from = !r.paused ? r : !o.paused ? o : (o.currentTime >= r.currentTime ? o : r);
+      const to = from === o ? r : o;
+      const t = from.currentTime; from.pause();
+      const go = () => { try { to.currentTime = t; } catch (_) {} to.play().catch(() => {}); };
+      if (to.readyState >= 1) go(); else { to.preload = "auto"; to.addEventListener("loadedmetadata", go, { once: true }); to.load(); }
+      $("flipstate").textContent = `Now playing: ${to === o ? "Original" : "Restored"} at ${t.toFixed(1)} s`;
+    };
+  }
+
+  // ---------- render ----------
+  function render() {
+    for (const [n, g] of Object.entries(cityG)) { g.classList.toggle("on", st.city === n); g.classList.toggle("dim", !!st.city && st.city !== n); }
+    for (const [y, b] of Object.entries(bands)) b.classList.toggle("on", st.year === +y);
+    for (const s of S) { dots[s.id].classList.toggle("dim", !match(s)); dots[s.id].classList.toggle("sel", s === st.sel); }
+    F.querySelectorAll(".chip").forEach(b => b.setAttribute("aria-pressed", String(b.dataset.cat === st.cat)));
+    const list = S.filter(match);
+    const parts = [st.city, st.year, st.cat].filter(Boolean);
+    $("catstate").textContent = `${list.length} of ${S.length}${parts.length ? " · " + parts.join(" · ") : ""}`;
+    $("rows").innerHTML = list.map(s => `<tr data-id="${s.id}" class="${s === st.sel ? "sel" : ""}" tabindex="0"><td class="num">${s.date}</td><td>${esc(s.title)}</td><td>${esc(title(s.performer))}</td><td>${esc(s.city)}</td><td>${esc(s.category)}</td><td class="num">${esc(s.disc.label || "")} ${esc(s.disc.catalog_number || "")}</td><td class="num">${s.metrics.ipm_before} → ${s.metrics.ipm_after}</td></tr>`).join("");
+    $("rows").querySelectorAll("tr").forEach(tr => { const f = () => { st.sel = S.find(s => s.id === tr.dataset.id); render(); $("disc").scrollIntoView({ block: "nearest", behavior: "smooth" }); }; tr.onclick = f; tr.onkeydown = e => { if (e.key === "Enter") f(); }; });
+    if ($("disc").dataset.id !== st.sel.id) { disc(st.sel); $("disc").dataset.id = st.sel.id; }
+  }
+  render();
+})();
+</script>

@@ -1,0 +1,18 @@
+Effective length L = 230.0 mm (pivot to needle). Optimal pivot-to-spindle distance d = 243.9 mm
+-> underhang 13.9 mm (needle arc passes this far short of the spindle centre).
+radius_mm  tracking_error_deg
+       55     -8.1
+       60     -6.2
+       65     -4.5
+       70     -3.0
+       75     -1.6
+       80     -0.3
+       85      0.9
+       90      2.1
+       95      3.2
+      100      4.3
+      105      5.3
+      110      6.3
+      115      7.2
+      120      8.1
+Worst tracking error 8.1 deg. For comparison, the same arm with zero overhang (d = L) peaks at 15.1 deg.

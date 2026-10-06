@@ -1,0 +1,8 @@
+# LoC WAV masters (~20-26 MB each) are kept locally only; the repo stores
+# bit-exact FLAC copies (verified by PCM MD5) and step 1 re-downloads the WAVs
+# with SHA-256 verification.
+data/originals/*/loc_original.wav
+__pycache__/
+*.pyc
+data/restored/*/_tmp.wav
+.DS_Store

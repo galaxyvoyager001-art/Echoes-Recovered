@@ -1,0 +1,135 @@
+{
+  "_comment": "Curated selection from the Library of Congress National Jukebox. 'category' and 'note' are curator annotations written for this project (not LoC text); all other metadata is pulled from the LoC JSON API by scripts/01_fetch_loc.py.",
+  "items": [
+    {
+      "id": "jukebox-191403",
+      "category": "Ragtime",
+      "note": "Vess L. Ossman was the most-recorded banjoist of the acoustic era; this is an early Victor recording of a ragtime banjo solo."
+    },
+    {
+      "id": "jukebox-119158",
+      "category": "Opera",
+      "note": "Caruso's first Victor session (New York, 1 February 1904) included this aria from Leoncavallo's Pagliacci, accompanied on piano. His Victor recordings helped make the phonograph respectable for classical music."
+    },
+    {
+      "id": "jukebox-121880",
+      "category": "Musical theater",
+      "note": "George M. Cohan's song from the 1904 Broadway musical Little Johnny Jones, recorded in Philadelphia the following year."
+    },
+    {
+      "id": "jukebox-728239",
+      "category": "Popular song / vaudeville",
+      "note": "Bert Williams, a Black star of vaudeville and later the Ziegfeld Follies, sings a song from Abyssinia (1906), the Williams and Walker musical named in the LoC record."
+    },
+    {
+      "id": "jukebox-124469",
+      "category": "Opera",
+      "note": "Geraldine Farrar sang Cio-Cio-San in the Metropolitan Opera's first production of Madama Butterfly (1907), the same year as this recording."
+    },
+    {
+      "id": "jukebox-124534",
+      "category": "Opera",
+      "note": "Australian soprano Nellie Melba's aria from Puccini's La Bohème, recorded in New York in 1907 for Victor's premium Red Seal series."
+    },
+    {
+      "id": "jukebox-730655",
+      "category": "Popular song",
+      "note": "'Take Me Out to the Ball Game' (Norworth/Von Tilzer) was published in 1908; this Columbia recording was made the same summer."
+    },
+    {
+      "id": "jukebox-250879",
+      "category": "Popular song",
+      "note": "'Red Wing' (Kerry Mills and Thurland Chattaway, 1907) was one of the most popular 'intermezzo' songs of its day; here a male duet with orchestra."
+    },
+    {
+      "id": "jukebox-125974",
+      "category": "Opera",
+      "note": "The sextet from Donizetti's Lucia di Lammermoor, sung by a Metropolitan Opera ensemble led by Caruso; Victor sold it as a premium-priced disc."
+    },
+    {
+      "id": "jukebox-130333",
+      "category": "Ragtime song",
+      "note": "Irving Berlin's 1911 hit, recorded by the comic duo Arthur Collins and Byron Harlan within months of publication."
+    },
+    {
+      "id": "jukebox-646117",
+      "category": "Popular song",
+      "note": "'Let Me Call You Sweetheart' (Friedman/Whitson, 1910) in a male-quartet arrangement typical of the period."
+    },
+    {
+      "id": "jukebox-130944",
+      "category": "Music hall",
+      "note": "Scottish music-hall star Harry Lauder sings one of his signature songs; LoC files it under descriptive specialties and ethnic music."
+    },
+    {
+      "id": "jukebox-649241",
+      "category": "Ragtime song",
+      "note": "A Peerless Quartet ragtime song from the height of the pre-war ragtime song craze."
+    },
+    {
+      "id": "jukebox-134539",
+      "category": "Dance orchestra / proto-jazz",
+      "note": "James Reese Europe's Society Orchestra accompanied the dancers Vernon and Irene Castle. Its 1913-14 Victor sessions are among the first recordings by a Black American orchestra; LoC also credits Ford T. Dabney as composer."
+    },
+    {
+      "id": "jukebox-11226",
+      "category": "Blues",
+      "note": "W. C. Handy's 'Memphis Blues' (published 1912) sung by Morton Harvey; often cited as one of the earliest vocal recordings of a published blues."
+    },
+    {
+      "id": "jukebox-186160",
+      "category": "Musical theater",
+      "note": "'Poor Butterfly' (Hubbell/Golden) came from the 1916 Hippodrome revue The Big Show."
+    },
+    {
+      "id": "jukebox-186254",
+      "category": "Early jazz",
+      "note": "The Original Dixieland Jazz Band's 'Livery Stable Blues' (Victor, 1917) is widely regarded as the first commercially issued jazz record."
+    },
+    {
+      "id": "jukebox-657649",
+      "category": "Early jazz / blues",
+      "note": "W. C. Handy's own orchestra recorded for Columbia in New York in September 1917, seven months after the ODJB's Victor version of the same tune."
+    },
+    {
+      "id": "jukebox-24786",
+      "category": "Popular song (WWI)",
+      "note": "George M. Cohan's First World War anthem 'Over There', sung by vaudeville star Nora Bayes in 1917."
+    },
+    {
+      "id": "jukebox-28588",
+      "category": "Early jazz",
+      "note": "'Tiger Rag', one of the ODJB's best-known numbers, recorded in New York in March 1918."
+    },
+    {
+      "id": "jukebox-29837",
+      "category": "Popular song (WWI) / operatic voice",
+      "note": "Enrico Caruso's 1918 recording of 'Over There', sung partly in French, shows an opera star taking on a popular war song."
+    },
+    {
+      "id": "jukebox-34232",
+      "category": "Dance orchestra",
+      "note": "Ben Selvin's 'Dardanella' was one of the best-selling dance records of the era."
+    },
+    {
+      "id": "jukebox-817339",
+      "category": "Popular song",
+      "note": "George Gershwin's 'Swanee' became his first major hit after Al Jolson took it up in 1919-20."
+    },
+    {
+      "id": "jukebox-37810",
+      "category": "Dance orchestra",
+      "note": "'Whispering' (1920) was a major hit. LoC credits the Ambassador Orchestra and lists Paul Whiteman as leader, with Ferde Grofé (piano, arranger) and Henry Busse (trumpet)."
+    },
+    {
+      "id": "jukebox-41556",
+      "category": "Early jazz / blues",
+      "note": "The ODJB's 1921 recording of W. C. Handy's 'St. Louis Blues', with a vocal by Al Bernard according to the LoC record."
+    },
+    {
+      "id": "jukebox-189251",
+      "category": "Band / dance",
+      "note": "Arthur Pryor's Band, led by Sousa's former trombone soloist, plays a 'barn dance' arrangement of 'Shine On, Harvest Moon', the Nora Bayes and Jack Norworth hit of 1908."
+    }
+  ]
+}
