@@ -1,0 +1,1586 @@
+{
+ "articles_and_essays": [
+  {
+   "score": 6.9215164,
+   "title": "They Start the Victrola and Go Dancing Around",
+   "url": "https://blogs.loc.gov/now-see-hear/2022/06/they-start-the-victrola-and-go-dancing-around/"
+  }
+ ],
+ "cite_this": {
+  "apa": "Dabney, F. T., Europe'S Society Orchestra, Europe, J. R. &amp; Europe, J. R. (1914) <cite>Castle Walk</cite>. [Audio] Retrieved from the Library of Congress, https://www.loc.gov/item/jukebox-134539/.",
+  "chicago": "Dabney, Ford T,  Europe'S Society Orchestra, James Reese Europe, and James Reese Europe. <cite>Castle Walk</cite>. 1914. Audio. https://www.loc.gov/item/jukebox-134539/.",
+  "mla": "Dabney, Ford T, et al. <cite>Castle Walk</cite>. 1914. Audio. Retrieved from the Library of Congress, &lt;www.loc.gov/item/jukebox-134539/&gt;."
+ },
+ "item": {
+  "_version_": 1878217789839245312,
+  "access_restricted": false,
+  "aka": [
+   "http://www.loc.gov/item/jukebox-134539/",
+   "http://www.loc.gov/resource/jukebox-134539.0/",
+   "http://www.loc.gov/resource/jukebox-134539.1/",
+   "http://www.loc.gov/resource/jukebox-134539.0",
+   "http://www.loc.gov/resource/jukebox-134539.1"
+  ],
+  "audio_type": "Instrumental",
+  "campaigns": [],
+  "contributor_composer": [
+   "dabney, ford t.",
+   "europe, james reese"
+  ],
+  "contributor_musical_group": [
+   "europe's society orchestra"
+  ],
+  "contributor_names": [
+   "Dabney, Ford T. -- Composer -- Composer",
+   "Europe's Society Orchestra -- Musical Group -- Musical Group",
+   "Europe, James Reese -- Composer -- Composer",
+   "Europe, James Reese -- Conductor -- Conductor"
+  ],
+  "contributor_primary": [
+   "europe's society orchestra"
+  ],
+  "contributors": [
+   {
+    "dabney, ford t.": "https://www.loc.gov/search/?fa=contributor:dabney,+ford+t.&fo=json"
+   },
+   {
+    "europe's society orchestra": "https://www.loc.gov/search/?fa=contributor:europe%27s+society+orchestra&fo=json"
+   },
+   {
+    "europe, james reese": "https://www.loc.gov/search/?fa=contributor:europe,+james+reese&fo=json"
+   }
+  ],
+  "contributors_composer": [
+   {
+    "dabney, ford t.": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_composer:dabney,+ford+t.&fo=json"
+   },
+   {
+    "europe, james reese": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_composer:europe,+james+reese&fo=json"
+   }
+  ],
+  "contributors_musical_group": [
+   {
+    "europe's society orchestra": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_musical_group:europe%27s+society+orchestra&fo=json"
+   }
+  ],
+  "contributors_primary": [
+   {
+    "europe's society orchestra": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_primary:europe%27s+society+orchestra&fo=json"
+   }
+  ],
+  "date": "1914-02-10",
+  "dates": [
+   {
+    "1914-02-10": "https://www.loc.gov/search/?dates=1914-02-10/1914-02-10&fo=json"
+   }
+  ],
+  "description": [
+   "Victor 17553. Matrix/Take: B-14434/2."
+  ],
+  "digitized": true,
+  "display_offsite": true,
+  "extract_timestamp": "2026-10-05T00:48:18.674Z",
+  "extract_urls": [
+   "http://www.loc.gov/item/jukebox-134539#nationaljukebox"
+  ],
+  "file_id": [
+   "dlc_victor_17553_01_b14434_02"
+  ],
+  "format": [
+   {
+    "sound recording": "https://www.loc.gov/search/?fa=original_format:sound+recording&fo=json"
+   }
+  ],
+  "group": [
+   "nationaljukebox",
+   "national-jukebox"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/item/jukebox-134539/",
+  "iiif_manifest_url": "https://www.loc.gov/item/jukebox-134539/manifest.json",
+  "image_url": [
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_17553_01_b14434_02:dlc_victor_17553_01_b14434_02/full/pct:12.5/0/default.jpg#h=215&w=215",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_17553_01_b14434_02:dlc_victor_17553_01_b14434_02/full/pct:25/0/default.jpg#h=431&w=431",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_17553_01_b14434_02:dlc_victor_17553_01_b14434_02/full/pct:50/0/default.jpg#h=862&w=862",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_17553_01_b14434_02:dlc_victor_17553_01_b14434_02/full/pct:100/0/default.jpg#h=1725&w=1725"
+  ],
+  "index": 1,
+  "item": {
+   "audio_type": "Instrumental",
+   "contributors": [
+    "Dabney, Ford T. -- Composer -- Composer",
+    "Europe's Society Orchestra -- Musical Group -- Musical Group",
+    "Europe, James Reese -- Composer -- Composer",
+    "Europe, James Reese -- Conductor -- Conductor"
+   ],
+   "file_id": [
+    "dlc_victor_17553_01_b14434_02"
+   ],
+   "media_size": "10-in.",
+   "profile": "jukebox",
+   "recording_catalog_number": "17553",
+   "recording_date": "1914-02-10",
+   "recording_label": "Victor",
+   "recording_matrix_number": "B-14434 (Matrix ID)",
+   "recording_repository": "Source of original recording: Recorded Sound Section, Library of Congress.",
+   "recording_take_id": 134539,
+   "recording_take_number": "2",
+   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+   "summary": "Orchestra"
+  },
+  "location": [
+   "new york",
+   "united states"
+  ],
+  "locations": [
+   {
+    "new york": "https://www.loc.gov/search/?fa=location:new+york&fo=json"
+   },
+   {
+    "united states": "https://www.loc.gov/search/?fa=location:united+states&fo=json"
+   }
+  ],
+  "media_size": "10-in.",
+  "mime_type": [
+   "audio/mpeg",
+   "audio/wav",
+   "image/tif",
+   "image/jpeg"
+  ],
+  "online_format": [
+   "audio",
+   "image"
+  ],
+  "original_format": [
+   "sound recording"
+  ],
+  "other_formats": [],
+  "partof": [
+   {
+    "count": 6124,
+    "title": "recorded sound section, library of congress",
+    "url": "https://www.loc.gov/search/?fa=partof:recorded+sound+section,+library+of+congress&fo=json"
+   },
+   {
+    "count": 20273,
+    "title": "national jukebox",
+    "url": "https://www.loc.gov/collections/national-jukebox/?fo=json"
+   },
+   {
+    "count": 20496,
+    "title": "recorded sound research center",
+    "url": "https://www.loc.gov/search/?fa=partof:recorded+sound+research+center&fo=json"
+   }
+  ],
+  "partof_repository": [
+   "recorded sound section, library of congress"
+  ],
+  "profile": "jukebox",
+  "recording_catalog_number": "17553",
+  "recording_date": "1914-02-10",
+  "recording_label": "Victor",
+  "recording_matrix_number": "B-14434 (Matrix ID)",
+  "recording_repository": "Source of original recording: Recorded Sound Section, Library of Congress.",
+  "recording_take_id": 134539,
+  "recording_take_number": "2",
+  "resources": [
+   {
+    "files": 1,
+    "media": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_17553_01_b14434_02:dlc_victor_17553_01_b14434_02/full/full/0/full/default.mp3",
+    "url": "https://www.loc.gov/resource/jukebox-134539.0"
+   },
+   {
+    "files": 1,
+    "image": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_17553_01_b14434_02:dlc_victor_17553_01_b14434_02/full/pct:100/0/default.jpg",
+    "mimetype": "image/jpeg",
+    "url": "https://www.loc.gov/resource/jukebox-134539.1"
+   }
+  ],
+  "rights": [
+   "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
+  ],
+  "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+  "score": 15.331501,
+  "shard": "01",
+  "shelf_id": "Victor 17553",
+  "site": [
+   "nationaljukebox"
+  ],
+  "source_modified": "2000-01-01T12:00:00Z",
+  "subject": [
+   "instrumental",
+   "victor"
+  ],
+  "subject_category": [
+   "instrumental"
+  ],
+  "subject_label": [
+   "victor"
+  ],
+  "subjects": [
+   {
+    "instrumental": "https://www.loc.gov/search/?fa=subject:instrumental&fo=json"
+   },
+   {
+    "victor": "https://www.loc.gov/search/?fa=subject:victor&fo=json"
+   }
+  ],
+  "subjects_category": [
+   {
+    "instrumental": "https://www.loc.gov/collections/national-jukebox/?fa=subject_category:instrumental&fo=json"
+   }
+  ],
+  "subjects_label": [
+   {
+    "victor": "https://www.loc.gov/collections/national-jukebox/?fa=subject_label:victor&fo=json"
+   }
+  ],
+  "summary": "Orchestra",
+  "timestamp": "2026-10-05T13:47:46.447Z",
+  "title": "Castle walk",
+  "type": [
+   "sound recording-musical"
+  ],
+  "url": "https://www.loc.gov/item/jukebox-134539/"
+ },
+ "more_like_this": [
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/3640",
+    "http://www.loc.gov/item/jukebox-134232/",
+    "http://www.loc.gov/resource/jukebox-134232.0/",
+    "http://www.loc.gov/resource/jukebox-134232.1/",
+    "http://www.loc.gov/resource/jukebox-134232.0",
+    "http://www.loc.gov/resource/jukebox-134232.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "europe's society orchestra",
+    "europe, james reese",
+    "macklin, cecil"
+   ],
+   "date": "1913-12-29",
+   "dates": [
+    "1913-12-29"
+   ],
+   "description": [
+    "Victor 35359. Matrix/Take: C-14246/1."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T00:46:37.673Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-134232/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_35359_01_c14246_01:dlc_victor_35359_01_c14246_01/full/pct:12.5/0/default.jpg#h=251&w=253",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_35359_01_c14246_01:dlc_victor_35359_01_c14246_01/full/pct:25/0/default.jpg#h=503&w=507",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_35359_01_c14246_01:dlc_victor_35359_01_c14246_01/full/pct:50/0/default.jpg#h=1007&w=1014",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_35359_01_c14246_01:dlc_victor_35359_01_c14246_01/full/pct:100/0/default.jpg#h=2014&w=2029"
+   ],
+   "index": 1,
+   "location": [
+    "new york",
+    "united states"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "One-step or turkey trot",
+    "Tres moutarde"
+   ],
+   "partof": [
+    "recorded sound research center",
+    "national jukebox",
+    "recorded sound section, library of congress"
+   ],
+   "score": 39.167667,
+   "shelf_id": "Victor 35359",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "popular music",
+    "instrumental",
+    "victor"
+   ],
+   "timestamp": "2026-10-05T13:47:28.843Z",
+   "title": "Too much mustard",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-134232/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/3641",
+    "http://www.loc.gov/item/jukebox-134234/",
+    "http://www.loc.gov/resource/jukebox-134234.0/",
+    "http://www.loc.gov/resource/jukebox-134234.1/",
+    "http://www.loc.gov/resource/jukebox-134234.0",
+    "http://www.loc.gov/resource/jukebox-134234.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "europe's society orchestra",
+    "storoni, juca",
+    "europe, james reese"
+   ],
+   "date": "1913-12-29",
+   "dates": [
+    "1913-12-29"
+   ],
+   "description": [
+    "Victor 35360. Matrix/Take: C-14248/1."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T00:46:37.673Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-134234/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_35360_01_c14248_01:dlc_victor_35360_01_c14248_01/full/pct:12.5/0/default.jpg#h=297&w=295",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_35360_01_c14248_01:dlc_victor_35360_01_c14248_01/full/pct:25/0/default.jpg#h=594&w=590",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_35360_01_c14248_01:dlc_victor_35360_01_c14248_01/full/pct:50/0/default.jpg#h=1188&w=1180",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_35360_01_c14248_01:dlc_victor_35360_01_c14248_01/full/pct:100/0/default.jpg#h=2377&w=2360"
+   ],
+   "index": 2,
+   "location": [
+    "new york",
+    "united states"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Maxixe Bresilien (le vrai)"
+   ],
+   "partof": [
+    "recorded sound research center",
+    "national jukebox",
+    "recorded sound section, library of congress"
+   ],
+   "score": 39.167667,
+   "shelf_id": "Victor 35360",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "victor",
+    "instrumental",
+    "ethnic music"
+   ],
+   "timestamp": "2026-10-05T13:47:28.843Z",
+   "title": "Amapa",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-134234/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/3642",
+    "http://www.loc.gov/item/jukebox-134235/",
+    "http://www.loc.gov/resource/jukebox-134235.0/",
+    "http://www.loc.gov/resource/jukebox-134235.1/",
+    "http://www.loc.gov/resource/jukebox-134235.0",
+    "http://www.loc.gov/resource/jukebox-134235.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "europe's society orchestra",
+    "europe, james reese",
+    "logatti, lorenzo"
+   ],
+   "date": "1913-12-29",
+   "dates": [
+    "1913-12-29"
+   ],
+   "description": [
+    "Victor 35360. Matrix/Take: C-14249/1."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T00:46:37.673Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-134235/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_35360_01_c14249_01:dlc_victor_35360_01_c14249_01/full/pct:12.5/0/default.jpg#h=282&w=284",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_35360_01_c14249_01:dlc_victor_35360_01_c14249_01/full/pct:25/0/default.jpg#h=564&w=568",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_35360_01_c14249_01:dlc_victor_35360_01_c14249_01/full/pct:50/0/default.jpg#h=1128&w=1136",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_35360_01_c14249_01:dlc_victor_35360_01_c14249_01/full/pct:100/0/default.jpg#h=2257&w=2272"
+   ],
+   "index": 3,
+   "location": [
+    "new york",
+    "united states"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Tango argentine"
+   ],
+   "partof": [
+    "recorded sound research center",
+    "national jukebox",
+    "recorded sound section, library of congress"
+   ],
+   "score": 39.167667,
+   "shelf_id": "Victor 35360",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "victor",
+    "instrumental",
+    "ethnic music"
+   ],
+   "timestamp": "2026-10-05T13:47:28.843Z",
+   "title": "Irresistible",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-134235/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-134536/",
+    "http://www.loc.gov/resource/jukebox-134536.0/",
+    "http://www.loc.gov/resource/jukebox-134536.1/",
+    "http://www.loc.gov/resource/jukebox-134536.0",
+    "http://www.loc.gov/resource/jukebox-134536.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "europe's society orchestra",
+    "europe, james reese",
+    "kern, jerome"
+   ],
+   "date": "1914-02-10",
+   "dates": [
+    "1914-02-10"
+   ],
+   "description": [
+    "Victor 17553. Matrix/Take: B-14432/1."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T00:48:18.674Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-134536/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_17553_02_b14432_01:dlc_victor_17553_02_b14432_01/full/pct:12.5/0/default.jpg#h=224&w=226",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_17553_02_b14432_01:dlc_victor_17553_02_b14432_01/full/pct:25/0/default.jpg#h=449&w=453",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_17553_02_b14432_01:dlc_victor_17553_02_b14432_01/full/pct:50/0/default.jpg#h=898&w=907",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_17553_02_b14432_01:dlc_victor_17553_02_b14432_01/full/pct:100/0/default.jpg#h=1797&w=1814"
+   ],
+   "index": 4,
+   "location": [
+    "new york",
+    "united states"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "One-step",
+    "Laughing husband"
+   ],
+   "partof": [
+    "recorded sound research center",
+    "national jukebox",
+    "recorded sound section, library of congress"
+   ],
+   "score": 39.167667,
+   "shelf_id": "Victor 17553",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "instrumental",
+    "victor"
+   ],
+   "timestamp": "2026-10-05T13:47:46.447Z",
+   "title": "You're here and I'm here",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-134536/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/3728",
+    "http://www.loc.gov/item/jukebox-134538/",
+    "http://www.loc.gov/resource/jukebox-134538.0/",
+    "http://www.loc.gov/resource/jukebox-134538.1/",
+    "http://www.loc.gov/resource/jukebox-134538.0",
+    "http://www.loc.gov/resource/jukebox-134538.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "europe's society orchestra",
+    "europe, james reese"
+   ],
+   "date": "1914-02-10",
+   "dates": [
+    "1914-02-10"
+   ],
+   "description": [
+    "Victor 35372. Matrix/Take: C-14433/3."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T00:48:18.674Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-134538/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_35372_01_c14433_03:dlc_victor_35372_01_c14433_03/full/pct:12.5/0/default.jpg#h=250&w=251",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_35372_01_c14433_03:dlc_victor_35372_01_c14433_03/full/pct:25/0/default.jpg#h=501&w=502",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_35372_01_c14433_03:dlc_victor_35372_01_c14433_03/full/pct:50/0/default.jpg#h=1002&w=1004",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_35372_01_c14433_03:dlc_victor_35372_01_c14433_03/full/pct:100/0/default.jpg#h=2004&w=2008"
+   ],
+   "index": 5,
+   "location": [
+    "new york",
+    "united states"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "One-step",
+    "Castle House rag"
+   ],
+   "partof": [
+    "recorded sound research center",
+    "national jukebox",
+    "recorded sound section, library of congress"
+   ],
+   "score": 39.167667,
+   "shelf_id": "Victor 35372",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "instrumental",
+    "ragtime, jazz, and more",
+    "victor"
+   ],
+   "timestamp": "2026-10-05T13:47:46.447Z",
+   "title": "The Castles in Europe",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-134538/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/3729",
+    "http://www.loc.gov/item/jukebox-134542/",
+    "http://www.loc.gov/resource/jukebox-134542.0/",
+    "http://www.loc.gov/resource/jukebox-134542.1/",
+    "http://www.loc.gov/resource/jukebox-134542.0",
+    "http://www.loc.gov/resource/jukebox-134542.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "europe's society orchestra",
+    "europe, james reese"
+   ],
+   "date": "1914-02-10",
+   "dates": [
+    "1914-02-10"
+   ],
+   "description": [
+    "Victor 35372. Matrix/Take: C-14435/1."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T00:48:18.674Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-134542/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_35372_01_c14435_01:dlc_victor_35372_01_c14435_01/full/pct:12.5/0/default.jpg#h=232&w=234",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_35372_01_c14435_01:dlc_victor_35372_01_c14435_01/full/pct:25/0/default.jpg#h=464&w=468",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_35372_01_c14435_01:dlc_victor_35372_01_c14435_01/full/pct:50/0/default.jpg#h=929&w=936",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_35372_01_c14435_01:dlc_victor_35372_01_c14435_01/full/pct:100/0/default.jpg#h=1859&w=1873"
+   ],
+   "index": 6,
+   "location": [
+    "new york",
+    "united states"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Congratulations waltz"
+   ],
+   "partof": [
+    "recorded sound research center",
+    "national jukebox",
+    "recorded sound section, library of congress"
+   ],
+   "score": 39.167667,
+   "shelf_id": "Victor 35372",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "instrumental",
+    "classical music",
+    "victor"
+   ],
+   "timestamp": "2026-10-05T13:47:46.447Z",
+   "title": "Castle's lame duck",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-134542/"
+  }
+ ],
+ "notice": {
+  "info": "<strong>COLUMBUS DAY HOLIDAY:</strong> On Monday, October 12, 2026, The Jefferson Building Great Hall and exhibitions will be open from 10 a.m. - 5 p.m. to guests with timed-entry passes. The Main Reading Room will be open to visitors, no research or collections services available. All other reading rooms, the Madison and Adams Buildings will be CLOSED to the public. Regularly scheduled access resumes on Tuesday, October 13. \n",
+  "status": "production"
+ },
+ "options": {
+  "access_group": [
+   ""
+  ],
+  "access_group_raw": "",
+  "all": null,
+  "api_version": "1",
+  "app_context": null,
+  "application_shim": null,
+  "application_version": "$Revision$",
+  "attribute": null,
+  "attribute!": null,
+  "attribute_map": null,
+  "cache_tags": [
+   "nationaljukebox",
+   "national-jukebox",
+   "paprika-music",
+   "catalog-split-06",
+   "catalog",
+   "main-catalog-split-06",
+   "catalog-split-07",
+   "main-catalog-split-07",
+   "catalog-split-09",
+   "main-catalog-split-09",
+   "cph",
+   "catalog-split-12",
+   "miscellaneous-items-high-demand",
+   "main-catalog-split-12",
+   "main-catalog",
+   "det",
+   "detroit-publishing-company",
+   "pp_other",
+   "catalog-split-01",
+   "prints-and-photographs-other",
+   "main-catalog-split-01"
+  ],
+  "callback": null,
+  "clip": null,
+  "clip_image_width": null,
+  "clip_rotation": null,
+  "content_filter": null,
+  "content_replacement": "",
+  "count": null,
+  "dates": null,
+  "default_count": 25,
+  "delimiter": null,
+  "digital_id": null,
+  "display_level": null,
+  "distance": null,
+  "downloadOption": null,
+  "duration": 0.7493774890899658,
+  "embed": [],
+  "embed!": [],
+  "error_response_status": null,
+  "excludeTerms": null,
+  "facetLimits": "",
+  "facetPrefix": null,
+  "facet_count": null,
+  "facet_style": null,
+  "field": null,
+  "form_facets": [
+   {
+    "field": "subject_label",
+    "select": "multiple"
+   },
+   {
+    "field": "subject_category",
+    "select": "multiple"
+   },
+   {
+    "field": "language",
+    "select": "multiple"
+   }
+  ],
+  "format": "json",
+  "host": "www.loc.gov",
+  "ical": false,
+  "id": "jukebox-134539/",
+  "iiif": false,
+  "include_facets": [
+   {
+    "field": "original-format"
+   },
+   {
+    "field": "partof_repository",
+    "label": "Repository"
+   },
+   {
+    "field": "subject_label",
+    "label": "Label"
+   },
+   {
+    "field": "dates"
+   },
+   {
+    "field": "subject_genre",
+    "label": "Genre"
+   },
+   {
+    "closed": true,
+    "field": "subject_target_audience",
+    "label": "Target Audience"
+   },
+   {
+    "closed": true,
+    "field": "subject_category",
+    "label": "Category"
+   },
+   {
+    "closed": true,
+    "field": "location"
+   },
+   {
+    "closed": true,
+    "field": "contributor"
+   },
+   {
+    "closed": true,
+    "field": "contributor_vocalist",
+    "label": "Vocalist"
+   },
+   {
+    "closed": true,
+    "field": "contributor_composer",
+    "label": "Composer"
+   },
+   {
+    "closed": true,
+    "field": "contributor_lyricist",
+    "label": "Lyricist"
+   },
+   {
+    "closed": true,
+    "field": "contributor_author",
+    "label": "Author"
+   },
+   {
+    "closed": true,
+    "field": "contributor_performer",
+    "label": "Performer"
+   },
+   {
+    "closed": true,
+    "field": "contributor_musical_group",
+    "label": "Musical Group"
+   },
+   {
+    "closed": true,
+    "field": "subject"
+   },
+   {
+    "closed": true,
+    "field": "language"
+   },
+   {
+    "field": "access-restricted"
+   }
+  ],
+  "index": null,
+  "inputEncoding": "UTF-8",
+  "item": null,
+  "items": null,
+  "keys": null,
+  "language": null,
+  "latlong": null,
+  "method": "GET",
+  "newSearch": null,
+  "new_clip_url": false,
+  "onsite": false,
+  "operator": null,
+  "outputEncoding": "UTF-8",
+  "page_campaigns": [],
+  "path_info": "/item/jukebox-134539/",
+  "port": "443",
+  "proxypath": null,
+  "query_string": "fo=json",
+  "redirect_proxy": false,
+  "redirect_to_item": null,
+  "referer": "",
+  "region": "",
+  "release_id": 123456789,
+  "request_host": "www.loc.gov",
+  "request_params": {
+   "fo": [
+    "json"
+   ]
+  },
+  "request_url": "https://www.loc.gov/item/jukebox-134539/?fo=json",
+  "resource": "",
+  "resource_sequence": null,
+  "scheme": "https",
+  "searchIn": null,
+  "searchTerms": "",
+  "segments": null,
+  "shards": [
+   "01"
+  ],
+  "site_date_range": "1900-01-01/1925-12-31",
+  "site_defaults": [],
+  "site_id": null,
+  "site_type": null,
+  "solrQuery": "",
+  "sortBy": null,
+  "sortOrder": null,
+  "startPage": null,
+  "style": null,
+  "suggested": null,
+  "target": null,
+  "template": "layouts/item/layout",
+  "timestamp": 1791308706.5597546,
+  "tz_aware": null,
+  "unionFacets": "",
+  "webcast_permalink": null
+ },
+ "related_items": [
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://lccn.loc.gov/2023867055",
+    "http://www.loc.gov/item/2023867055/",
+    "http://www.loc.gov/resource/music.musihas-100010529/",
+    "https://hdl.loc.gov/loc.music/ihas.100010529"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "dabney, ford t.",
+    "williams, carl f.",
+    "europe, james reese"
+   ],
+   "date": "1914",
+   "dates": [
+    "1914"
+   ],
+   "description": [
+    "\"Castle Perferct Trot\", also by Europe, printed on reverse pages. \"Trot and One-Step\" Copyr. MCMXIV Parts: piano, 1st violin, 2nd violin, viola, cello, bass, piccolo, 1st clarinet in A, 1st cornet in A, 2nd cornet in A, trombone, drums. Record created through migration from the Performing Arts Encyclopedia Database."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2025-12-18T09:45:27.795Z",
+   "group": [
+    "paprika-music",
+    "catalog-split-06",
+    "catalog",
+    "main-catalog-split-06"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/2023867055/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:music:musihas-100010529:parts:p0001:musihas-100010529.0001/full/pct:12.5/0/default.jpg",
+    "https://tile.loc.gov/image-services/iiif/public:music:musihas-100010529:parts:p0001:musihas-100010529.0001/full/pct:12.5/0/default.jpg#h=418&w=283",
+    "https://tile.loc.gov/image-services/iiif/public:music:musihas-100010529:parts:p0001:musihas-100010529.0001/full/pct:25.0/0/default.jpg#h=837&w=566",
+    "https://tile.loc.gov/image-services/iiif/public:music:musihas-100010529:parts:p0001:musihas-100010529.0001/full/pct:50.0/0/default.jpg#h=1674&w=1133",
+    "https://tile.loc.gov/image-services/iiif/public:music:musihas-100010529:parts:p0001:musihas-100010529.0001/full/pct:100.0/0/default.jpg#h=3348&w=2267"
+   ],
+   "index": 1,
+   "location": [
+    "united states"
+   ],
+   "mime_type": [
+    "image/jpeg",
+    "application/pdf",
+    "image/jp2"
+   ],
+   "number": [
+    "http://www.loc.gov/resource/ihas.100010529.9",
+    "http://www.loc.gov/resource/ihas.100010529.8",
+    "http://www.loc.gov/resource/ihas.100010529.1",
+    "http://www.loc.gov/resource/ihas.100010529.11",
+    "http://www.loc.gov/resource/ihas.100010529.10",
+    "http://www.loc.gov/item/2023867055",
+    "http://www.loc.gov/resource/ihas.100010529.7",
+    "http://www.loc.gov/resource/ihas.100010529.6",
+    "2024-06-13t10:06:02",
+    "http://www.loc.gov/resource/ihas.100010529.3",
+    "sheet",
+    "http://www.loc.gov/resource/ihas.100010529.4",
+    "http://www.loc.gov/resource/ihas.100010529.2",
+    "2023867055",
+    "http://www.loc.gov/item/ihas.100010529",
+    "http://www.loc.gov/resource/ihas.100010529.5",
+    "http://www.loc.gov/resource/ihas.100010529.12",
+    "http://www.loc.gov/resource/ihas.100010529.0"
+   ],
+   "online_format": [
+    "image",
+    "pdf"
+   ],
+   "original_format": [
+    "notated music"
+   ],
+   "partof": [
+    "the library of congress celebrates the songs of america",
+    "catalog",
+    "music division",
+    "african-american band music & recordings, 1883-1923"
+   ],
+   "score": 14.039842,
+   "shelf_id": "https://repo.loc.gov/access/public/music/musihas-100010529/.resource.json",
+   "site": [
+    "catalog"
+   ],
+   "subject": [
+    "music",
+    "band music",
+    "united states",
+    "popular music",
+    "parts (music)",
+    "african americans"
+   ],
+   "timestamp": "2025-12-18T09:49:05.559Z",
+   "title": "Castle walk",
+   "type": [
+    "notated music"
+   ],
+   "url": "https://www.loc.gov/item/2023867055/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://lccn.loc.gov/2023867056",
+    "http://www.loc.gov/item/2023867056/",
+    "http://www.loc.gov/resource/music.musihas-100010530/",
+    "https://hdl.loc.gov/loc.music/ihas.100010530"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "dabney, ford t.",
+    "williams, carl f.",
+    "europe, james reese"
+   ],
+   "date": "1914",
+   "dates": [
+    "1914"
+   ],
+   "description": [
+    "\"One Trot\" Copyr. MCMXIV by Jos. W. Stern & Co. N.Y. Parts: piano, 1st violin, 2nd violin, viola, cello, bass, piccolo, 1st clarinet in A, 1st cornet in A, 2nd cornet in A, trombone, drums. Printed on the reverse pages of \"The Castle Walk\", also by Europe. Record created through migration from the Performing Arts Encyclopedia Database."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2025-12-18T09:40:41.633Z",
+   "group": [
+    "paprika-music",
+    "catalog-split-07",
+    "catalog",
+    "main-catalog-split-07"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/2023867056/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:music:musihas-100010530:parts:p0001:musihas-100010530.0001/full/pct:12.5/0/default.jpg",
+    "https://tile.loc.gov/image-services/iiif/public:music:musihas-100010530:parts:p0001:musihas-100010530.0001/full/pct:12.5/0/default.jpg#h=415&w=279",
+    "https://tile.loc.gov/image-services/iiif/public:music:musihas-100010530:parts:p0001:musihas-100010530.0001/full/pct:25.0/0/default.jpg#h=831&w=559",
+    "https://tile.loc.gov/image-services/iiif/public:music:musihas-100010530:parts:p0001:musihas-100010530.0001/full/pct:50.0/0/default.jpg#h=1662&w=1118",
+    "https://tile.loc.gov/image-services/iiif/public:music:musihas-100010530:parts:p0001:musihas-100010530.0001/full/pct:100.0/0/default.jpg#h=3324&w=2237"
+   ],
+   "index": 2,
+   "location": [
+    "united states"
+   ],
+   "mime_type": [
+    "image/jpeg",
+    "application/pdf",
+    "image/jp2"
+   ],
+   "number": [
+    "http://www.loc.gov/resource/ihas.100010530.8",
+    "http://www.loc.gov/resource/ihas.100010530.0",
+    "http://www.loc.gov/resource/ihas.100010530.3",
+    "http://www.loc.gov/resource/ihas.100010530.11",
+    "http://www.loc.gov/resource/ihas.100010530.2",
+    "http://www.loc.gov/item/ihas.100010530",
+    "http://www.loc.gov/resource/ihas.100010530.5",
+    "2024-06-13t10:06:02",
+    "http://www.loc.gov/resource/ihas.100010530.6",
+    "http://www.loc.gov/resource/ihas.100010530.12",
+    "http://www.loc.gov/item/2023867056",
+    "http://www.loc.gov/resource/ihas.100010530.4",
+    "sheet",
+    "http://www.loc.gov/resource/ihas.100010530.1",
+    "http://www.loc.gov/resource/ihas.100010530.10",
+    "http://www.loc.gov/resource/ihas.100010530.9",
+    "2023867056",
+    "http://www.loc.gov/resource/ihas.100010530.7"
+   ],
+   "online_format": [
+    "image",
+    "pdf"
+   ],
+   "original_format": [
+    "notated music"
+   ],
+   "partof": [
+    "the library of congress celebrates the songs of america",
+    "catalog",
+    "music division",
+    "african-american band music & recordings, 1883-1923"
+   ],
+   "score": 14.039842,
+   "shelf_id": "https://repo.loc.gov/access/public/music/musihas-100010530/.resource.json",
+   "site": [
+    "catalog"
+   ],
+   "subject": [
+    "music",
+    "band music",
+    "united states",
+    "popular music",
+    "parts (music)",
+    "african americans"
+   ],
+   "timestamp": "2025-12-18T09:49:05.559Z",
+   "title": "Castle perfect trot",
+   "type": [
+    "notated music"
+   ],
+   "url": "https://www.loc.gov/item/2023867056/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://lccn.loc.gov/2016760030",
+    "http://www.loc.gov/item/2016760030/",
+    "http://www.loc.gov/resource/music.musm1508-10042003/",
+    "https://hdl.loc.gov/loc.music/musm1508.10042003"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "dabney, ford t.",
+    "europe, james reese",
+    "kern, jerome",
+    "greene, schuyler"
+   ],
+   "date": "1915",
+   "dates": [
+    "1915"
+   ],
+   "description": [
+    "From: Nobody home. Staff notation."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2025-06-27T08:24:50.663Z",
+   "group": [
+    "paprika-music",
+    "catalog-split-09",
+    "catalog",
+    "main-catalog-split-09"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/2016760030/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:music:musm1508-10042003:musm1508-10042003.0001/full/pct:6.25/0/default.jpg",
+    "https://tile.loc.gov/image-services/iiif/public:music:musm1508-10042003:musm1508-10042003.0001/full/pct:6.25/0/default.jpg#h=345&w=274",
+    "https://tile.loc.gov/image-services/iiif/public:music:musm1508-10042003:musm1508-10042003.0001/full/pct:12.5/0/default.jpg#h=691&w=548",
+    "https://tile.loc.gov/image-services/iiif/public:music:musm1508-10042003:musm1508-10042003.0001/full/pct:25.0/0/default.jpg#h=1383&w=1097",
+    "https://tile.loc.gov/image-services/iiif/public:music:musm1508-10042003:musm1508-10042003.0001/full/pct:50.0/0/default.jpg#h=2766&w=2194",
+    "https://tile.loc.gov/image-services/iiif/public:music:musm1508-10042003:musm1508-10042003.0001/full/pct:100.0/0/default.jpg#h=5533&w=4388"
+   ],
+   "index": 3,
+   "mime_type": [
+    "image/jpeg",
+    "application/pdf",
+    "image/jp2"
+   ],
+   "number": [
+    "2023-12-07t16:39:58",
+    "http://www.loc.gov/item/musm1508.10042003",
+    "http://www.loc.gov/resource/musm1508.10042003.0",
+    "http://www.loc.gov/item/2016760030",
+    "2016760030"
+   ],
+   "online_format": [
+    "image",
+    "pdf"
+   ],
+   "original_format": [
+    "notated music"
+   ],
+   "partof": [
+    "catalog",
+    "music division",
+    "sheet music of the musical theater"
+   ],
+   "score": 13.471294,
+   "shelf_id": "https://repo.loc.gov/access/public/music/musm1508-10042003/.resource.json",
+   "site": [
+    "catalog"
+   ],
+   "subject": [
+    "nobody home"
+   ],
+   "timestamp": "2025-06-27T10:45:54.643Z",
+   "title": "At that San Francisco fair",
+   "type": [
+    "notated music"
+   ],
+   "url": "https://www.loc.gov/item/2016760030/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "https://www.loc.gov/pictures/item/2013645043/",
+    "http://www.loc.gov/item/2013645043/",
+    "http://www.loc.gov/pictures/item/2013645043/",
+    "https://www.loc.gov/pictures/collection/cph/item/2013645043/",
+    "http://www.loc.gov/pictures/collection/cph/item/2013645043/",
+    "http://www.loc.gov/resource/ds.02394/",
+    "https://hdl.loc.gov/loc.pnp/ds.02394",
+    "http://lccn.loc.gov/2013645043"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "switzer, c. c."
+   ],
+   "date": "1908-01-01",
+   "dates": [
+    "1908"
+   ],
+   "description": [
+    "1 photographic print (postcard) | Postcard shows group portrait of students and staff from Victor High School and lower grades assembled in front of building."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2021-08-24T20:11:34.937Z",
+   "group": [
+    "cph",
+    "catalog-split-12",
+    "catalog",
+    "miscellaneous-items-high-demand",
+    "main-catalog-split-12",
+    "main-catalog"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/2013645043/",
+   "image_url": [
+    "https://tile.loc.gov/storage-services/service/pnp/ds/02300/02394_150px.jpg#h=50&w=150",
+    "https://tile.loc.gov/storage-services/service/pnp/ds/02300/02394r.jpg#h=214&w=640",
+    "https://tile.loc.gov/storage-services/service/pnp/ds/02300/02394v.jpg#h=342&w=1024"
+   ],
+   "index": 4,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "united states",
+    "iowa",
+    "victor"
+   ],
+   "mime_type": [
+    "image/gif",
+    "image/jpg",
+    "image/tif"
+   ],
+   "number": [
+    "2013645043",
+    "http://www.loc.gov/item/17665053",
+    "2013-04-03t08:58:59"
+   ],
+   "online_format": [
+    "image"
+   ],
+   "original_format": [
+    "photo, print, drawing"
+   ],
+   "partof": [
+    "prints and photographs division",
+    "miscellaneous items in high demand",
+    "lot 14058",
+    "catalog",
+    "prints & photographs online catalog (library of congress)"
+   ],
+   "score": 10.158577,
+   "shelf_id": "LOT 14058, no. 123 [P&P]",
+   "site": [
+    "pictures",
+    "catalog"
+   ],
+   "subject": [
+    "group portraits",
+    "iowa",
+    "photographic postcards",
+    "victor",
+    "panoramic postcards",
+    "photographic prints",
+    "united states",
+    "schools",
+    "school children",
+    "victor (iowa)"
+   ],
+   "timestamp": "2022-05-02T06:13:36.448Z",
+   "title": "[Victor High School, Victor, Iowa]",
+   "url": "https://www.loc.gov/item/2013645043/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/pictures/collection/det/item/2016808865/",
+    "http://www.loc.gov/item/2016808865/",
+    "http://www.loc.gov/pictures/item/2016808865/",
+    "https://hdl.loc.gov/loc.pnp/det.4a09194",
+    "http://www.loc.gov/resource/det.4a09194/",
+    "http://lccn.loc.gov/2016808865"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "jackson, william henry",
+    "detroit publishing co."
+   ],
+   "date": "1900-01-01",
+   "dates": [
+    "1900"
+   ],
+   "description": [
+    "1 negative : glass ; 8 x 10 in."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2021-09-01T22:30:01.644Z",
+   "group": [
+    "det",
+    "catalog-split-12",
+    "catalog",
+    "detroit-publishing-company",
+    "main-catalog-split-12",
+    "main-catalog"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/2016808865/",
+   "image_url": [
+    "https://tile.loc.gov/storage-services/service/pnp/det/4a00000/4a09000/4a09100/4a09194_150px.jpg#h=120&w=150",
+    "https://tile.loc.gov/storage-services/service/pnp/det/4a00000/4a09000/4a09100/4a09194t.gif#h=120&w=150",
+    "https://tile.loc.gov/storage-services/service/pnp/det/4a00000/4a09000/4a09100/4a09194r.jpg#h=511&w=640",
+    "https://tile.loc.gov/storage-services/service/pnp/det/4a00000/4a09000/4a09100/4a09194v.jpg#h=817&w=1024"
+   ],
+   "index": 5,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "colorado",
+    "united states",
+    "victor"
+   ],
+   "mime_type": [
+    "image/gif",
+    "image/jpg",
+    "image/tif"
+   ],
+   "number": [
+    "2016808865",
+    "http://www.loc.gov/item/2016808865",
+    "http://www.loc.gov/item/20110612",
+    "http://www.loc.gov/item/det1994014825/pp",
+    "2017-10-30t13:04:57"
+   ],
+   "online_format": [
+    "image"
+   ],
+   "original_format": [
+    "photo, print, drawing"
+   ],
+   "partof": [
+    "detroit publishing company",
+    "prints and photographs division",
+    "american memory",
+    "catalog",
+    "prints & photographs online catalog (library of congress)"
+   ],
+   "score": 10.158577,
+   "shelf_id": "LC-D4-13841 [P&P]",
+   "site": [
+    "pictures",
+    "catalog"
+   ],
+   "subject": [
+    "victor",
+    "cityscape photographs",
+    "colorado",
+    "united states",
+    "dry plate negatives",
+    "gold mining"
+   ],
+   "timestamp": "2022-04-25T08:19:00.040Z",
+   "title": "Victor, Colo., and the Gold Coin Mine",
+   "url": "https://www.loc.gov/item/2016808865/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "https://www.loc.gov/pictures/item/2024689882/",
+    "http://www.loc.gov/item/2024689882/",
+    "http://www.loc.gov/pictures/item/2024689882/",
+    "https://hdl.loc.gov/loc.pnp/pcrd.1d03519",
+    "https://hdl.loc.gov/loc.pnp/pcrd.1d03519",
+    "https://hdl.loc.gov/loc.pnp/pcrd.2d03519",
+    "https://hdl.loc.gov/loc.pnp/pcrd.2d03519",
+    "http://www.loc.gov/resource/pcrd.1d03519/",
+    "http://www.loc.gov/resource/pcrd.2d03519/",
+    "http://lccn.loc.gov/2024689882"
+   ],
+   "campaigns": [],
+   "date": "1910",
+   "dates": [
+    "1910"
+   ],
+   "description": [
+    "1 photograph : gelatin silver print ; sheet 9 x 14 cm (postcard format)"
+   ],
+   "digitized": true,
+   "extract_timestamp": "2024-03-02T14:28:03.271Z",
+   "group": [
+    "pp_other",
+    "catalog-split-01",
+    "catalog",
+    "prints-and-photographs-other",
+    "main-catalog-split-01"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/2024689882/",
+   "image_url": [
+    "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03519_150px.jpg#h=99&w=150",
+    "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03519r.jpg#h=422&w=640",
+    "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03519v.jpg#h=675&w=1024"
+   ],
+   "index": 6,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "montana",
+    "united states",
+    "victor"
+   ],
+   "mime_type": [
+    "image/gif",
+    "image/jpg",
+    "image/tif"
+   ],
+   "number": [
+    "http://www.loc.gov/item/23570952",
+    "2024689882",
+    "sheet",
+    "2024-02-21t08:57:11"
+   ],
+   "online_format": [
+    "image"
+   ],
+   "original_format": [
+    "photo, print, drawing"
+   ],
+   "partof": [
+    "catalog",
+    "prints and photographs division"
+   ],
+   "score": 10.158577,
+   "shelf_id": "PCRD 4 - Montana - Victor, no. 1 [P&P]",
+   "site": [
+    "pictures",
+    "catalog"
+   ],
+   "subject": [
+    "victor",
+    "photographs",
+    "montana",
+    "postcards",
+    "streets",
+    "united states"
+   ],
+   "timestamp": "2024-03-02T14:40:16.299Z",
+   "title": "Main Street, Victor, Montana",
+   "type": [
+    "still image"
+   ],
+   "url": "https://www.loc.gov/item/2024689882/"
+  }
+ ],
+ "resources": [
+  {
+   "audio": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_17553_01_b14434_02:dlc_victor_17553_01_b14434_02/full/full/0/full/default.mp3",
+   "files": [
+    [
+     {
+      "aspectRation": "4:3",
+      "autoPlay": false,
+      "canDownload": true,
+      "derivatives": [
+       {
+        "derivativeUrl": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/dlc_victor_17553_01_b14434_02/dlc_victor_17553_01_b14434_02.mp3"
+       }
+      ],
+      "detailUrl": "https://www.loc.gov/item/jukebox-134539",
+      "download": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_17553_01_b14434_02:dlc_victor_17553_01_b14434_02/full/full/0/full/default.mp3",
+      "duration": 197.0,
+      "filename": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/dlc_victor_17553_01_b14434_02/dlc_victor_17553_01_b14434_02.mp3",
+      "mediaType": "A",
+      "metadata": [
+       "Castle walk",
+       "Orchestra"
+      ],
+      "mimetype": "audio/mpeg",
+      "poster": null,
+      "rights_restricted": true,
+      "shortName": "Castle walk",
+      "thumbnail_url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_17553_01_b14434_02:dlc_victor_17553_01_b14434_02/full/pct:12.5/0/default.jpg"
+     },
+     {
+      "height": null,
+      "levels": 1,
+      "mimetype": "audio/wav",
+      "size": 34856442,
+      "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/dlc_victor_17553_01_b14434_02/dlc_victor_17553_01_b14434_02.wav",
+      "width": null
+     }
+    ]
+   ],
+   "url": "https://www.loc.gov/resource/jukebox-134539.0"
+  },
+  {
+   "files": [
+    [
+     {
+      "height": 215,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_17553_01_b14434_02:dlc_victor_17553_01_b14434_02/full/pct:12.5/0/default.jpg",
+      "width": 215
+     },
+     {
+      "height": 431,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_17553_01_b14434_02:dlc_victor_17553_01_b14434_02/full/pct:25/0/default.jpg",
+      "width": 431
+     },
+     {
+      "height": 862,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_17553_01_b14434_02:dlc_victor_17553_01_b14434_02/full/pct:50/0/default.jpg",
+      "width": 862
+     },
+     {
+      "height": 1725,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_17553_01_b14434_02:dlc_victor_17553_01_b14434_02/full/pct:100/0/default.jpg",
+      "width": 1725
+     },
+     {
+      "height": null,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 8954796,
+      "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/dlc_victor_17553_01_b14434_02/dlc_victor_17553_01_b14434_02.tif",
+      "width": null
+     }
+    ]
+   ],
+   "image": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_17553_01_b14434_02:dlc_victor_17553_01_b14434_02/full/pct:100/0/default.jpg",
+   "mimetype": "image/jpeg",
+   "url": "https://www.loc.gov/resource/jukebox-134539.1"
+  }
+ ],
+ "timestamp": 1791308707309
+}

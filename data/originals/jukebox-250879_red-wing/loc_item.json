@@ -1,0 +1,1643 @@
+{
+ "articles_and_essays": null,
+ "cite_this": {
+  "apa": "Haydn Quartet, Macdonough, H., Dudley, S. H., Mills, K. &amp; Chattaway, T. (1908) <cite>Red Wing</cite>. [Audio] Retrieved from the Library of Congress, https://www.loc.gov/item/jukebox-250879/.",
+  "chicago": "Haydn Quartet, Harry Macdonough, S. H Dudley, Kerry Mills, and Thurland Chattaway. <cite>Red Wing</cite>. 1908. Audio. https://www.loc.gov/item/jukebox-250879/.",
+  "mla": "Haydn Quartet, et al. <cite>Red Wing</cite>. 1908. Audio. Retrieved from the Library of Congress, &lt;www.loc.gov/item/jukebox-250879/&gt;."
+ },
+ "item": {
+  "_version_": 1878219098881523712,
+  "access_restricted": false,
+  "aka": [
+   "http://www.loc.gov/jukebox/recordings/detail/id/6165",
+   "http://www.loc.gov/item/jukebox-250879/",
+   "http://www.loc.gov/resource/jukebox-250879.0/",
+   "http://www.loc.gov/resource/jukebox-250879.1/",
+   "http://www.loc.gov/resource/jukebox-250879.0",
+   "http://www.loc.gov/resource/jukebox-250879.1"
+  ],
+  "audio_type": "Vocal",
+  "campaigns": [],
+  "contributor_composer": [
+   "mills, kerry"
+  ],
+  "contributor_lyricist": [
+   "chattaway, thurland"
+  ],
+  "contributor_names": [
+   "Haydn Quartet -- Vocal Group -- Vocal Group",
+   "Macdonough, Harry -- Vocalist -- Tenor Vocal",
+   "Dudley, S. H. -- Vocalist -- Baritone Vocal",
+   "Mills, Kerry -- Composer -- Composer",
+   "Chattaway, Thurland -- Lyricist -- Lyricist"
+  ],
+  "contributor_primary": [
+   "macdonough, harry"
+  ],
+  "contributor_vocalist": [
+   "macdonough, harry",
+   "dudley, s. h."
+  ],
+  "contributors": [
+   {
+    "chattaway, thurland": "https://www.loc.gov/search/?fa=contributor:chattaway,+thurland&fo=json"
+   },
+   {
+    "dudley, s. h.": "https://www.loc.gov/search/?fa=contributor:dudley,+s.+h.&fo=json"
+   },
+   {
+    "haydn quartet": "https://www.loc.gov/search/?fa=contributor:haydn+quartet&fo=json"
+   },
+   {
+    "macdonough, harry": "https://www.loc.gov/search/?fa=contributor:macdonough,+harry&fo=json"
+   },
+   {
+    "mills, kerry": "https://www.loc.gov/search/?fa=contributor:mills,+kerry&fo=json"
+   }
+  ],
+  "contributors_composer": [
+   {
+    "mills, kerry": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_composer:mills,+kerry&fo=json"
+   }
+  ],
+  "contributors_lyricist": [
+   {
+    "chattaway, thurland": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_lyricist:chattaway,+thurland&fo=json"
+   }
+  ],
+  "contributors_primary": [
+   {
+    "macdonough, harry": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_primary:macdonough,+harry&fo=json"
+   }
+  ],
+  "contributors_vocalist": [
+   {
+    "dudley, s. h.": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_vocalist:dudley,+s.+h.&fo=json"
+   },
+   {
+    "macdonough, harry": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_vocalist:macdonough,+harry&fo=json"
+   }
+  ],
+  "date": "1908-01-15",
+  "dates": [
+   {
+    "1908-01-15": "https://www.loc.gov/search/?dates=1908-01-15/1908-01-15&fo=json"
+   }
+  ],
+  "description": [
+   "Victor 17233. Matrix/Take: B-5023/3."
+  ],
+  "digitized": true,
+  "display_offsite": true,
+  "extract_timestamp": "2026-10-05T02:55:46.632Z",
+  "extract_urls": [
+   "http://www.loc.gov/item/jukebox-250879#nationaljukebox"
+  ],
+  "file_id": [
+   "dlc_victor_17233_01_b5023_03"
+  ],
+  "format": [
+   {
+    "sound recording": "https://www.loc.gov/search/?fa=original_format:sound+recording&fo=json"
+   }
+  ],
+  "genre": [
+   "Popular music",
+   "Ethnic characterizations"
+  ],
+  "group": [
+   "nationaljukebox",
+   "national-jukebox"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/item/jukebox-250879/",
+  "iiif_manifest_url": "https://www.loc.gov/item/jukebox-250879/manifest.json",
+  "image_url": [
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_17233_01_b5023_03:dlc_victor_17233_01_b5023_03/full/pct:12.5/0/default.jpg#h=279&w=280",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_17233_01_b5023_03:dlc_victor_17233_01_b5023_03/full/pct:25/0/default.jpg#h=559&w=561",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_17233_01_b5023_03:dlc_victor_17233_01_b5023_03/full/pct:50/0/default.jpg#h=1119&w=1122",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_17233_01_b5023_03:dlc_victor_17233_01_b5023_03/full/pct:100/0/default.jpg#h=2238&w=2245"
+  ],
+  "index": 1,
+  "item": {
+   "audio_type": "Vocal",
+   "contributors": [
+    "Haydn Quartet -- Vocal Group -- Vocal Group",
+    "Macdonough, Harry -- Vocalist -- Tenor Vocal",
+    "Dudley, S. H. -- Vocalist -- Baritone Vocal",
+    "Mills, Kerry -- Composer -- Composer",
+    "Chattaway, Thurland -- Lyricist -- Lyricist"
+   ],
+   "file_id": [
+    "dlc_victor_17233_01_b5023_03"
+   ],
+   "genre": [
+    "Popular music",
+    "Ethnic characterizations"
+   ],
+   "language": "English",
+   "media_size": "10-in.",
+   "profile": "jukebox",
+   "recording_catalog_number": "17233",
+   "recording_date": "1908-01-15",
+   "recording_label": "Victor",
+   "recording_matrix_number": "B-5023 (Matrix ID)",
+   "recording_repository": "Source of original recording: Recorded Sound Section, Library of Congress.",
+   "recording_take_id": 250879,
+   "recording_take_number": "3",
+   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+   "summary": "Male vocal duet, with orchestra"
+  },
+  "language": [
+   "english"
+  ],
+  "languages": [
+   {
+    "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+   }
+  ],
+  "location": [
+   "united states",
+   "camden",
+   "new jersey"
+  ],
+  "locations": [
+   {
+    "camden": "https://www.loc.gov/search/?fa=location:camden&fo=json"
+   },
+   {
+    "new jersey": "https://www.loc.gov/search/?fa=location:new+jersey&fo=json"
+   },
+   {
+    "united states": "https://www.loc.gov/search/?fa=location:united+states&fo=json"
+   }
+  ],
+  "media_size": "10-in.",
+  "mime_type": [
+   "audio/mpeg",
+   "audio/wav",
+   "image/tif",
+   "image/jpeg"
+  ],
+  "online_format": [
+   "audio",
+   "image"
+  ],
+  "original_format": [
+   "sound recording"
+  ],
+  "other_formats": [],
+  "partof": [
+   {
+    "count": 6124,
+    "title": "recorded sound section, library of congress",
+    "url": "https://www.loc.gov/search/?fa=partof:recorded+sound+section,+library+of+congress&fo=json"
+   },
+   {
+    "count": 20273,
+    "title": "national jukebox",
+    "url": "https://www.loc.gov/collections/national-jukebox/?fo=json"
+   },
+   {
+    "count": 20496,
+    "title": "recorded sound research center",
+    "url": "https://www.loc.gov/search/?fa=partof:recorded+sound+research+center&fo=json"
+   }
+  ],
+  "partof_repository": [
+   "recorded sound section, library of congress"
+  ],
+  "profile": "jukebox",
+  "recording_catalog_number": "17233",
+  "recording_date": "1908-01-15",
+  "recording_label": "Victor",
+  "recording_matrix_number": "B-5023 (Matrix ID)",
+  "recording_repository": "Source of original recording: Recorded Sound Section, Library of Congress.",
+  "recording_take_id": 250879,
+  "recording_take_number": "3",
+  "resources": [
+   {
+    "files": 1,
+    "media": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_17233_01_b5023_03:dlc_victor_17233_01_b5023_03/full/full/0/full/default.mp3",
+    "url": "https://www.loc.gov/resource/jukebox-250879.0"
+   },
+   {
+    "files": 1,
+    "image": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_17233_01_b5023_03:dlc_victor_17233_01_b5023_03/full/pct:100/0/default.jpg",
+    "mimetype": "image/jpeg",
+    "url": "https://www.loc.gov/resource/jukebox-250879.1"
+   }
+  ],
+  "rights": [
+   "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
+  ],
+  "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+  "score": 15.45389,
+  "shard": "01",
+  "shelf_id": "Victor 17233",
+  "site": [
+   "nationaljukebox"
+  ],
+  "source_modified": "2000-01-01T12:00:00Z",
+  "subject": [
+   "vocal",
+   "popular music",
+   "victor",
+   "ethnic characterizations"
+  ],
+  "subject_category": [
+   "vocal"
+  ],
+  "subject_genre": [
+   "popular music",
+   "ethnic characterizations"
+  ],
+  "subject_label": [
+   "victor"
+  ],
+  "subjects": [
+   {
+    "ethnic characterizations": "https://www.loc.gov/search/?fa=subject:ethnic+characterizations&fo=json"
+   },
+   {
+    "popular music": "https://www.loc.gov/search/?fa=subject:popular+music&fo=json"
+   },
+   {
+    "victor": "https://www.loc.gov/search/?fa=subject:victor&fo=json"
+   },
+   {
+    "vocal": "https://www.loc.gov/search/?fa=subject:vocal&fo=json"
+   }
+  ],
+  "subjects_category": [
+   {
+    "vocal": "https://www.loc.gov/collections/national-jukebox/?fa=subject_category:vocal&fo=json"
+   }
+  ],
+  "subjects_genre": [
+   {
+    "ethnic characterizations": "https://www.loc.gov/collections/national-jukebox/?fa=subject_genre:ethnic+characterizations&fo=json"
+   },
+   {
+    "popular music": "https://www.loc.gov/collections/national-jukebox/?fa=subject_genre:popular+music&fo=json"
+   }
+  ],
+  "subjects_label": [
+   {
+    "victor": "https://www.loc.gov/collections/national-jukebox/?fa=subject_label:victor&fo=json"
+   }
+  ],
+  "summary": "Male vocal duet, with orchestra",
+  "timestamp": "2026-10-05T14:08:35.041Z",
+  "title": "Red Wing",
+  "type": [
+   "sound recording-musical"
+  ],
+  "url": "https://www.loc.gov/item/jukebox-250879/"
+ },
+ "more_like_this": [
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/10171",
+    "http://www.loc.gov/item/jukebox-71995/",
+    "http://www.loc.gov/resource/jukebox-71995.0/",
+    "http://www.loc.gov/resource/jukebox-71995.1/",
+    "http://www.loc.gov/resource/jukebox-71995.0",
+    "http://www.loc.gov/resource/jukebox-71995.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "baur, franklyn",
+    "james, lewis",
+    "prince, charles adams",
+    "shannon quartet",
+    "mills, kerry",
+    "chattaway, thurland",
+    "shaw, elliott",
+    "glenn, wilfred"
+   ],
+   "date": "1924-12-31",
+   "dates": [
+    "1924-12-31"
+   ],
+   "description": [
+    "Victor 17233. Matrix/Take: B-31348/6."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-04T21:51:34.963Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-71995/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_17233_04_b31348_06:dlc_victor_17233_04_b31348_06/full/pct:12.5/0/default.jpg#h=215&w=217",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_17233_04_b31348_06:dlc_victor_17233_04_b31348_06/full/pct:25/0/default.jpg#h=430&w=435",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_17233_04_b31348_06:dlc_victor_17233_04_b31348_06/full/pct:50/0/default.jpg#h=861&w=870",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_17233_04_b31348_06:dlc_victor_17233_04_b31348_06/full/pct:100/0/default.jpg#h=1722&w=1741"
+   ],
+   "index": 1,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "united states",
+    "camden",
+    "new jersey"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "An Indian fable"
+   ],
+   "partof": [
+    "recorded sound section, library of congress",
+    "national jukebox",
+    "recorded sound research center"
+   ],
+   "score": 52.82032,
+   "shelf_id": "Victor 17233",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "vocal",
+    "popular music",
+    "victor",
+    "ethnic characterizations"
+   ],
+   "timestamp": "2026-10-05T14:45:34.182Z",
+   "title": "Red Wing",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-71995/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/8507",
+    "http://www.loc.gov/item/jukebox-5293/",
+    "http://www.loc.gov/resource/jukebox-5293.0/",
+    "http://www.loc.gov/resource/jukebox-5293.1/",
+    "http://www.loc.gov/resource/jukebox-5293.0",
+    "http://www.loc.gov/resource/jukebox-5293.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "macdonough, harry",
+    "dudley, s. h.",
+    "hooley, william f.",
+    "georgia minstrels"
+   ],
+   "date": "1901-01-19",
+   "dates": [
+    "1901-01-19"
+   ],
+   "description": [
+    "Victor 3040. Matrix/Take: [Pre-matrix B-]3040/1."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-04T17:45:36.378Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-5293/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_3040_01_b3040_01:dlc_victor_3040_01_b3040_01/full/pct:12.5/0/default.jpg#h=235&w=235",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_3040_01_b3040_01:dlc_victor_3040_01_b3040_01/full/pct:25/0/default.jpg#h=471&w=471",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_3040_01_b3040_01:dlc_victor_3040_01_b3040_01/full/pct:50/0/default.jpg#h=943&w=942",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_3040_01_b3040_01:dlc_victor_3040_01_b3040_01/full/pct:100/0/default.jpg#h=1887&w=1885"
+   ],
+   "index": 2,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "united states",
+    "camden",
+    "new jersey"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "The old log cabin in the dell",
+    "My old cabin home",
+    "Fly, fly, fly"
+   ],
+   "partof": [
+    "recorded sound section, library of congress",
+    "national jukebox",
+    "recorded sound research center"
+   ],
+   "score": 49.61332,
+   "shelf_id": "Victor 3040",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "vocal",
+    "popular music",
+    "ethnic characterizations",
+    "comedies",
+    "victor"
+   ],
+   "timestamp": "2026-10-05T14:22:47.836Z",
+   "title": "Monarch Minstrel, first part, no. 6",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-5293/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/1194",
+    "http://www.loc.gov/item/jukebox-124264/",
+    "http://www.loc.gov/resource/jukebox-124264.0/",
+    "http://www.loc.gov/resource/jukebox-124264.1/",
+    "http://www.loc.gov/resource/jukebox-124264.0",
+    "http://www.loc.gov/resource/jukebox-124264.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "snyder, ted",
+    "bieling, john h.",
+    "haydn quartet",
+    "macdonough, harry",
+    "dudley, s. h.",
+    "bryan, alfred",
+    "hooley, william f."
+   ],
+   "date": "1907-01-14",
+   "dates": [
+    "1907-01-14"
+   ],
+   "description": [
+    "Victor 5026. Matrix/Take: B-4146/7."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-04T23:03:24.719Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-124264/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_5026_01_b4146_07:dlc_victor_5026_01_b4146_07/full/pct:12.5/0/default.jpg#h=244&w=240",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_5026_01_b4146_07:dlc_victor_5026_01_b4146_07/full/pct:25/0/default.jpg#h=488&w=481",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_5026_01_b4146_07:dlc_victor_5026_01_b4146_07/full/pct:50/0/default.jpg#h=976&w=963",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_5026_01_b4146_07:dlc_victor_5026_01_b4146_07/full/pct:100/0/default.jpg#h=1952&w=1927"
+   ],
+   "index": 3,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "united states",
+    "philadelphia",
+    "pennsylvania"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "partof": [
+    "recorded sound section, library of congress",
+    "national jukebox",
+    "recorded sound research center"
+   ],
+   "score": 49.205784,
+   "shelf_id": "Victor 5026",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "vocal",
+    "popular music",
+    "victor",
+    "ethnic characterizations"
+   ],
+   "timestamp": "2026-10-05T13:37:52.153Z",
+   "title": "Bonnie Jean",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-124264/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/1035",
+    "http://www.loc.gov/item/jukebox-123018/",
+    "http://www.loc.gov/resource/jukebox-123018.0/",
+    "http://www.loc.gov/resource/jukebox-123018.1/",
+    "http://www.loc.gov/resource/jukebox-123018.0",
+    "http://www.loc.gov/resource/jukebox-123018.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "bieling, john h.",
+    "haydn quartet",
+    "macdonough, harry",
+    "white, c. a.",
+    "dudley, s. h.",
+    "hooley, william f."
+   ],
+   "date": "1906-04-23",
+   "dates": [
+    "1906-04-23"
+   ],
+   "description": [
+    "Victor 4726. Matrix/Take: B-3326/2."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-04T22:59:09.374Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-123018/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_4726_01_b3326_02:dlc_victor_4726_01_b3326_02/full/pct:12.5/0/default.jpg#h=252&w=254",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_4726_01_b3326_02:dlc_victor_4726_01_b3326_02/full/pct:25/0/default.jpg#h=504&w=508",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_4726_01_b3326_02:dlc_victor_4726_01_b3326_02/full/pct:50/0/default.jpg#h=1008&w=1016",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_4726_01_b3326_02:dlc_victor_4726_01_b3326_02/full/pct:100/0/default.jpg#h=2017&w=2033"
+   ],
+   "index": 4,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "united states",
+    "philadelphia",
+    "pennsylvania"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "partof": [
+    "recorded sound section, library of congress",
+    "national jukebox",
+    "recorded sound research center"
+   ],
+   "score": 49.205784,
+   "shelf_id": "Victor 4726",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "vocal",
+    "popular music",
+    "victor",
+    "ethnic characterizations"
+   ],
+   "timestamp": "2026-10-05T13:37:13.240Z",
+   "title": "I'se gwine back to Dixie",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-123018/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/775",
+    "http://www.loc.gov/item/jukebox-121664/",
+    "http://www.loc.gov/resource/jukebox-121664.0/",
+    "http://www.loc.gov/resource/jukebox-121664.1/",
+    "http://www.loc.gov/resource/jukebox-121664.0",
+    "http://www.loc.gov/resource/jukebox-121664.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "cole, bob",
+    "bieling, john h.",
+    "haydn quartet",
+    "macdonough, harry",
+    "dudley, s. h.",
+    "johnson, j. rosamond",
+    "hooley, william f.",
+    "murray, billy"
+   ],
+   "date": "1908-12-30",
+   "dates": [
+    "1908-12-30"
+   ],
+   "description": [
+    "Victor 16153. Matrix/Take: B-2520/5."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-04T22:50:49.934Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-121664/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_16153_02_b2520_05:dlc_victor_16153_02_b2520_05/full/pct:12.5/0/default.jpg#h=273&w=275",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_16153_02_b2520_05:dlc_victor_16153_02_b2520_05/full/pct:25/0/default.jpg#h=547&w=550",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_16153_02_b2520_05:dlc_victor_16153_02_b2520_05/full/pct:50/0/default.jpg#h=1095&w=1101",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_16153_02_b2520_05:dlc_victor_16153_02_b2520_05/full/pct:100/0/default.jpg#h=2190&w=2203"
+   ],
+   "index": 5,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "united states",
+    "camden",
+    "new jersey"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "partof": [
+    "recorded sound section, library of congress",
+    "national jukebox",
+    "recorded sound research center"
+   ],
+   "score": 49.203285,
+   "shelf_id": "Victor 16153",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "vocal",
+    "popular music",
+    "victor"
+   ],
+   "timestamp": "2026-10-05T13:36:09.666Z",
+   "title": "Lazy moon",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-121664/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/8645",
+    "http://www.loc.gov/item/jukebox-5617/",
+    "http://www.loc.gov/resource/jukebox-5617.0/",
+    "http://www.loc.gov/resource/jukebox-5617.1/",
+    "http://www.loc.gov/resource/jukebox-5617.0",
+    "http://www.loc.gov/resource/jukebox-5617.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "macdonough, harry",
+    "madeira, addison dashiell",
+    "chattaway, thurland"
+   ],
+   "date": "1901-05-02",
+   "dates": [
+    "1901-05-02"
+   ],
+   "description": [
+    "Victor 3308. Matrix/Take: [Pre-matrix B-]3308/1."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-04T17:47:02.378Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-5617/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_3308_01_b3308_01:dlc_victor_3308_01_b3308_01/full/pct:12.5/0/default.jpg#h=255&w=253",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_3308_01_b3308_01:dlc_victor_3308_01_b3308_01/full/pct:25/0/default.jpg#h=511&w=506",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_3308_01_b3308_01:dlc_victor_3308_01_b3308_01/full/pct:50/0/default.jpg#h=1023&w=1012",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_3308_01_b3308_01:dlc_victor_3308_01_b3308_01/full/pct:100/0/default.jpg#h=2046&w=2025"
+   ],
+   "index": 6,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "united states",
+    "camden",
+    "new jersey"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "partof": [
+    "recorded sound section, library of congress",
+    "national jukebox",
+    "recorded sound research center"
+   ],
+   "score": 46.20016,
+   "shelf_id": "Victor 3308",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "vocal",
+    "religious",
+    "victor",
+    "ethnic characterizations"
+   ],
+   "timestamp": "2026-10-05T14:23:04.216Z",
+   "title": "Little black me",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-5617/"
+  }
+ ],
+ "notice": {
+  "info": "<strong>COLUMBUS DAY HOLIDAY:</strong> On Monday, October 12, 2026, The Jefferson Building Great Hall and exhibitions will be open from 10 a.m. - 5 p.m. to guests with timed-entry passes. The Main Reading Room will be open to visitors, no research or collections services available. All other reading rooms, the Madison and Adams Buildings will be CLOSED to the public. Regularly scheduled access resumes on Tuesday, October 13. \n",
+  "status": "production"
+ },
+ "options": {
+  "access_group": [
+   ""
+  ],
+  "access_group_raw": "",
+  "all": null,
+  "api_version": "1",
+  "app_context": null,
+  "application_shim": null,
+  "application_version": "$Revision$",
+  "attribute": null,
+  "attribute!": null,
+  "attribute_map": null,
+  "cache_tags": [
+   "nationaljukebox",
+   "national-jukebox",
+   "paprika-music",
+   "catalog-split-08",
+   "catalog",
+   "main-catalog-split-08",
+   "catalog-split-14",
+   "main-catalog-split-14",
+   "cph",
+   "catalog-split-12",
+   "miscellaneous-items-high-demand",
+   "main-catalog-split-12",
+   "main-catalog",
+   "det",
+   "detroit-publishing-company",
+   "pp_other",
+   "catalog-split-01",
+   "prints-and-photographs-other",
+   "main-catalog-split-01",
+   "catalog-split-02",
+   "main-catalog-split-02"
+  ],
+  "callback": null,
+  "clip": null,
+  "clip_image_width": null,
+  "clip_rotation": null,
+  "content_filter": null,
+  "content_replacement": "",
+  "count": null,
+  "dates": null,
+  "default_count": 25,
+  "delimiter": null,
+  "digital_id": null,
+  "display_level": null,
+  "distance": null,
+  "downloadOption": null,
+  "duration": 0.7979731559753418,
+  "embed": [],
+  "embed!": [],
+  "error_response_status": null,
+  "excludeTerms": null,
+  "facetLimits": "",
+  "facetPrefix": null,
+  "facet_count": null,
+  "facet_style": null,
+  "field": null,
+  "form_facets": [
+   {
+    "field": "subject_label",
+    "select": "multiple"
+   },
+   {
+    "field": "subject_category",
+    "select": "multiple"
+   },
+   {
+    "field": "language",
+    "select": "multiple"
+   }
+  ],
+  "format": "json",
+  "host": "www.loc.gov",
+  "ical": false,
+  "id": "jukebox-250879/",
+  "iiif": false,
+  "include_facets": [
+   {
+    "field": "original-format"
+   },
+   {
+    "field": "partof_repository",
+    "label": "Repository"
+   },
+   {
+    "field": "subject_label",
+    "label": "Label"
+   },
+   {
+    "field": "dates"
+   },
+   {
+    "field": "subject_genre",
+    "label": "Genre"
+   },
+   {
+    "closed": true,
+    "field": "subject_target_audience",
+    "label": "Target Audience"
+   },
+   {
+    "closed": true,
+    "field": "subject_category",
+    "label": "Category"
+   },
+   {
+    "closed": true,
+    "field": "location"
+   },
+   {
+    "closed": true,
+    "field": "contributor"
+   },
+   {
+    "closed": true,
+    "field": "contributor_vocalist",
+    "label": "Vocalist"
+   },
+   {
+    "closed": true,
+    "field": "contributor_composer",
+    "label": "Composer"
+   },
+   {
+    "closed": true,
+    "field": "contributor_lyricist",
+    "label": "Lyricist"
+   },
+   {
+    "closed": true,
+    "field": "contributor_author",
+    "label": "Author"
+   },
+   {
+    "closed": true,
+    "field": "contributor_performer",
+    "label": "Performer"
+   },
+   {
+    "closed": true,
+    "field": "contributor_musical_group",
+    "label": "Musical Group"
+   },
+   {
+    "closed": true,
+    "field": "subject"
+   },
+   {
+    "closed": true,
+    "field": "language"
+   },
+   {
+    "field": "access-restricted"
+   }
+  ],
+  "index": null,
+  "inputEncoding": "UTF-8",
+  "item": null,
+  "items": null,
+  "keys": null,
+  "language": null,
+  "latlong": null,
+  "method": "GET",
+  "newSearch": null,
+  "new_clip_url": false,
+  "onsite": false,
+  "operator": null,
+  "outputEncoding": "UTF-8",
+  "page_campaigns": [],
+  "path_info": "/item/jukebox-250879/",
+  "port": "443",
+  "proxypath": null,
+  "query_string": "fo=json",
+  "redirect_proxy": false,
+  "redirect_to_item": null,
+  "referer": "",
+  "region": "",
+  "release_id": 123456789,
+  "request_host": "www.loc.gov",
+  "request_params": {
+   "fo": [
+    "json"
+   ]
+  },
+  "request_url": "https://www.loc.gov/item/jukebox-250879/?fo=json",
+  "resource": "",
+  "resource_sequence": null,
+  "scheme": "https",
+  "searchIn": null,
+  "searchTerms": "",
+  "segments": null,
+  "shards": [
+   "01"
+  ],
+  "site_date_range": "1900-01-01/1925-12-31",
+  "site_defaults": [],
+  "site_id": null,
+  "site_type": null,
+  "solrQuery": "",
+  "sortBy": null,
+  "sortOrder": null,
+  "startPage": null,
+  "style": null,
+  "suggested": null,
+  "target": null,
+  "template": "layouts/item/layout",
+  "timestamp": 1791308551.597654,
+  "tz_aware": null,
+  "unionFacets": "",
+  "webcast_permalink": null
+ },
+ "related_items": [
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://lccn.loc.gov/2016571666",
+    "http://www.loc.gov/item/2016571666/",
+    "http://www.loc.gov/resource/music.musbaseball-100183/",
+    "https://hdl.loc.gov/loc.music/2016571666",
+    "http://www.loc.gov/resource/2016571666/"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "gilson, lottie",
+    "chattaway, thurland"
+   ],
+   "date": "1911",
+   "dates": [
+    "1911"
+   ],
+   "description": [
+    "E255424 U.S. Copyright Office 19110410 For singer and keyboard instrument. Title from cover. \"Introduced with enormous success by Lottie Gilson, the 'Little magnet' \"--Cover. English words. Staff notation."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2025-06-26T07:43:37.231Z",
+   "group": [
+    "paprika-music",
+    "catalog-split-08",
+    "catalog",
+    "main-catalog-split-08"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/2016571666/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:music:musbaseball-100183:musbaseball-100183.0001/full/pct:6.25/0/default.jpg",
+    "https://tile.loc.gov/image-services/iiif/public:music:musbaseball-100183:musbaseball-100183.0001/full/pct:6.25/0/default.jpg#h=361&w=284",
+    "https://tile.loc.gov/image-services/iiif/public:music:musbaseball-100183:musbaseball-100183.0001/full/pct:12.5/0/default.jpg#h=723&w=569",
+    "https://tile.loc.gov/image-services/iiif/public:music:musbaseball-100183:musbaseball-100183.0001/full/pct:25.0/0/default.jpg#h=1447&w=1138",
+    "https://tile.loc.gov/image-services/iiif/public:music:musbaseball-100183:musbaseball-100183.0001/full/pct:50.0/0/default.jpg#h=2894&w=2276",
+    "https://tile.loc.gov/image-services/iiif/public:music:musbaseball-100183:musbaseball-100183.0001/full/pct:100.0/0/default.jpg#h=5788&w=4552"
+   ],
+   "index": 1,
+   "language": [
+    "english"
+   ],
+   "mime_type": [
+    "image/jpeg",
+    "application/pdf",
+    "image/jp2"
+   ],
+   "number": [
+    "http://www.loc.gov/resource/musbaseball.100183.0",
+    "http://www.loc.gov/item/musbaseball.100183",
+    "2023-10-17t14:05:19",
+    "http://www.loc.gov/item/2016571666",
+    "2016571666"
+   ],
+   "online_format": [
+    "image",
+    "pdf"
+   ],
+   "original_format": [
+    "notated music"
+   ],
+   "partof": [
+    "music division",
+    "baseball sheet music",
+    "catalog"
+   ],
+   "score": 11.162842,
+   "shelf_id": "https://repo.loc.gov/access/public/music/musbaseball-100183/.resource.json",
+   "site": [
+    "catalog"
+   ],
+   "subject": [
+    "popular music",
+    "vaudeville songs",
+    "songs with keyboard instrument",
+    "scores"
+   ],
+   "timestamp": "2025-06-26T08:38:25.588Z",
+   "title": "Can't you take it back and change it for a boy",
+   "type": [
+    "notated music"
+   ],
+   "url": "https://www.loc.gov/item/2016571666/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://lccn.loc.gov/2020562517",
+    "http://www.loc.gov/item/2020562517/",
+    "https://search.catalog.loc.gov/instances/6609068f-44ae-5e34-a38d-8c267d0b98b0",
+    "http://hdl.handle.net/10315/30753"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "leff",
+    "lamb, arthur j.",
+    "mills, kerry"
+   ],
+   "date": "1908",
+   "dates": [
+    "1908"
+   ],
+   "description": [
+    "172078 U.S. Copyright Office 19080114 For baritone voice, men's chorus (TTBarB) and piano. Caption title. LC copy imperfect: brittle. Available on the Internet. MODE OF ACCESS via web browser by entering the following URL: http://hdl.handle.net/10315/30753. English words. Staff notation."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2025-11-14T22:16:44.887Z",
+   "group": [
+    "catalog-split-14",
+    "catalog",
+    "main-catalog-split-14"
+   ],
+   "hassegments": false,
+   "id": "http://lccn.loc.gov/2020562517",
+   "image_url": [],
+   "index": 2,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "united states"
+   ],
+   "number": [
+    "2025-09-02t17:50:26.600000",
+    "2020562517"
+   ],
+   "original_format": [
+    "notated music"
+   ],
+   "other_title": [
+    "First line: Out on the billows the good ship tossed",
+    "First line of chorus: Any old port in a storm"
+   ],
+   "partof": [
+    "catalog"
+   ],
+   "score": 10.248406,
+   "shelf_id": "M1630.2 .M",
+   "site": [
+    "catalog"
+   ],
+   "subject": [
+    "scores",
+    "united states",
+    "minstrel music",
+    "songs",
+    "choruses, secular (men's voices, 4 parts) with piano",
+    "popular music",
+    "songs (medium voice) with piano"
+   ],
+   "timestamp": "2025-11-14T23:28:00.485Z",
+   "title": "Any old port in a storm",
+   "type": [
+    "notated music"
+   ],
+   "url": "//lccn.loc.gov/2020562517"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "https://www.loc.gov/pictures/item/2013645043/",
+    "http://www.loc.gov/item/2013645043/",
+    "http://www.loc.gov/pictures/item/2013645043/",
+    "https://www.loc.gov/pictures/collection/cph/item/2013645043/",
+    "http://www.loc.gov/pictures/collection/cph/item/2013645043/",
+    "http://www.loc.gov/resource/ds.02394/",
+    "https://hdl.loc.gov/loc.pnp/ds.02394",
+    "http://lccn.loc.gov/2013645043"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "switzer, c. c."
+   ],
+   "date": "1908-01-01",
+   "dates": [
+    "1908"
+   ],
+   "description": [
+    "1 photographic print (postcard) | Postcard shows group portrait of students and staff from Victor High School and lower grades assembled in front of building."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2021-08-24T20:11:34.937Z",
+   "group": [
+    "cph",
+    "catalog-split-12",
+    "catalog",
+    "miscellaneous-items-high-demand",
+    "main-catalog-split-12",
+    "main-catalog"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/2013645043/",
+   "image_url": [
+    "https://tile.loc.gov/storage-services/service/pnp/ds/02300/02394_150px.jpg#h=50&w=150",
+    "https://tile.loc.gov/storage-services/service/pnp/ds/02300/02394r.jpg#h=214&w=640",
+    "https://tile.loc.gov/storage-services/service/pnp/ds/02300/02394v.jpg#h=342&w=1024"
+   ],
+   "index": 3,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "united states",
+    "victor",
+    "iowa"
+   ],
+   "mime_type": [
+    "image/gif",
+    "image/jpg",
+    "image/tif"
+   ],
+   "number": [
+    "http://www.loc.gov/item/17665053",
+    "2013-04-03t08:58:59",
+    "2013645043"
+   ],
+   "online_format": [
+    "image"
+   ],
+   "original_format": [
+    "photo, print, drawing"
+   ],
+   "partof": [
+    "lot 14058",
+    "prints and photographs division",
+    "prints & photographs online catalog (library of congress)",
+    "miscellaneous items in high demand",
+    "catalog"
+   ],
+   "score": 10.158577,
+   "shelf_id": "LOT 14058, no. 123 [P&P]",
+   "site": [
+    "pictures",
+    "catalog"
+   ],
+   "subject": [
+    "photographic prints",
+    "photographic postcards",
+    "victor (iowa)",
+    "united states",
+    "school children",
+    "schools",
+    "group portraits",
+    "panoramic postcards",
+    "victor",
+    "iowa"
+   ],
+   "timestamp": "2022-05-02T06:13:36.448Z",
+   "title": "[Victor High School, Victor, Iowa]",
+   "url": "https://www.loc.gov/item/2013645043/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/pictures/collection/det/item/2016808865/",
+    "http://www.loc.gov/item/2016808865/",
+    "http://www.loc.gov/pictures/item/2016808865/",
+    "https://hdl.loc.gov/loc.pnp/det.4a09194",
+    "http://www.loc.gov/resource/det.4a09194/",
+    "http://lccn.loc.gov/2016808865"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "detroit publishing co.",
+    "jackson, william henry"
+   ],
+   "date": "1900-01-01",
+   "dates": [
+    "1900"
+   ],
+   "description": [
+    "1 negative : glass ; 8 x 10 in."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2021-09-01T22:30:01.644Z",
+   "group": [
+    "det",
+    "catalog-split-12",
+    "catalog",
+    "detroit-publishing-company",
+    "main-catalog-split-12",
+    "main-catalog"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/2016808865/",
+   "image_url": [
+    "https://tile.loc.gov/storage-services/service/pnp/det/4a00000/4a09000/4a09100/4a09194_150px.jpg#h=120&w=150",
+    "https://tile.loc.gov/storage-services/service/pnp/det/4a00000/4a09000/4a09100/4a09194t.gif#h=120&w=150",
+    "https://tile.loc.gov/storage-services/service/pnp/det/4a00000/4a09000/4a09100/4a09194r.jpg#h=511&w=640",
+    "https://tile.loc.gov/storage-services/service/pnp/det/4a00000/4a09000/4a09100/4a09194v.jpg#h=817&w=1024"
+   ],
+   "index": 4,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "united states",
+    "victor",
+    "colorado"
+   ],
+   "mime_type": [
+    "image/gif",
+    "image/jpg",
+    "image/tif"
+   ],
+   "number": [
+    "2017-10-30t13:04:57",
+    "2016808865",
+    "http://www.loc.gov/item/det1994014825/pp",
+    "http://www.loc.gov/item/2016808865",
+    "http://www.loc.gov/item/20110612"
+   ],
+   "online_format": [
+    "image"
+   ],
+   "original_format": [
+    "photo, print, drawing"
+   ],
+   "partof": [
+    "prints and photographs division",
+    "prints & photographs online catalog (library of congress)",
+    "detroit publishing company",
+    "catalog",
+    "american memory"
+   ],
+   "score": 10.158577,
+   "shelf_id": "LC-D4-13841 [P&P]",
+   "site": [
+    "pictures",
+    "catalog"
+   ],
+   "subject": [
+    "united states",
+    "dry plate negatives",
+    "gold mining",
+    "cityscape photographs",
+    "colorado",
+    "victor"
+   ],
+   "timestamp": "2022-04-25T08:19:00.040Z",
+   "title": "Victor, Colo., and the Gold Coin Mine",
+   "url": "https://www.loc.gov/item/2016808865/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "https://www.loc.gov/pictures/item/2024689882/",
+    "http://www.loc.gov/item/2024689882/",
+    "http://www.loc.gov/pictures/item/2024689882/",
+    "https://hdl.loc.gov/loc.pnp/pcrd.1d03519",
+    "https://hdl.loc.gov/loc.pnp/pcrd.1d03519",
+    "https://hdl.loc.gov/loc.pnp/pcrd.2d03519",
+    "https://hdl.loc.gov/loc.pnp/pcrd.2d03519",
+    "http://www.loc.gov/resource/pcrd.1d03519/",
+    "http://www.loc.gov/resource/pcrd.2d03519/",
+    "http://lccn.loc.gov/2024689882"
+   ],
+   "campaigns": [],
+   "date": "1910",
+   "dates": [
+    "1910"
+   ],
+   "description": [
+    "1 photograph : gelatin silver print ; sheet 9 x 14 cm (postcard format)"
+   ],
+   "digitized": true,
+   "extract_timestamp": "2024-03-02T14:28:03.271Z",
+   "group": [
+    "pp_other",
+    "catalog-split-01",
+    "catalog",
+    "prints-and-photographs-other",
+    "main-catalog-split-01"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/2024689882/",
+   "image_url": [
+    "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03519_150px.jpg#h=99&w=150",
+    "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03519r.jpg#h=422&w=640",
+    "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03519v.jpg#h=675&w=1024"
+   ],
+   "index": 5,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "united states",
+    "victor",
+    "montana"
+   ],
+   "mime_type": [
+    "image/gif",
+    "image/jpg",
+    "image/tif"
+   ],
+   "number": [
+    "sheet",
+    "2024689882",
+    "http://www.loc.gov/item/23570952",
+    "2024-02-21t08:57:11"
+   ],
+   "online_format": [
+    "image"
+   ],
+   "original_format": [
+    "photo, print, drawing"
+   ],
+   "partof": [
+    "prints and photographs division",
+    "catalog"
+   ],
+   "score": 10.158577,
+   "shelf_id": "PCRD 4 - Montana - Victor, no. 1 [P&P]",
+   "site": [
+    "pictures",
+    "catalog"
+   ],
+   "subject": [
+    "photographs",
+    "united states",
+    "streets",
+    "postcards",
+    "victor",
+    "montana"
+   ],
+   "timestamp": "2024-03-02T14:40:16.299Z",
+   "title": "Main Street, Victor, Montana",
+   "type": [
+    "still image"
+   ],
+   "url": "https://www.loc.gov/item/2024689882/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "https://www.loc.gov/pictures/item/2024689883/",
+    "http://www.loc.gov/item/2024689883/",
+    "http://www.loc.gov/pictures/item/2024689883/",
+    "https://hdl.loc.gov/loc.pnp/pcrd.1d03520",
+    "https://hdl.loc.gov/loc.pnp/pcrd.1d03520",
+    "https://hdl.loc.gov/loc.pnp/pcrd.2d03520",
+    "https://hdl.loc.gov/loc.pnp/pcrd.2d03520",
+    "http://www.loc.gov/resource/pcrd.1d03520/",
+    "http://www.loc.gov/resource/pcrd.2d03520/",
+    "http://lccn.loc.gov/2024689883"
+   ],
+   "campaigns": [],
+   "date": "1910",
+   "dates": [
+    "1910"
+   ],
+   "description": [
+    "1 photograph : gelatin silver print ; sheet 9 x 14 cm (postcard format)"
+   ],
+   "digitized": true,
+   "extract_timestamp": "2024-03-02T13:51:56.083Z",
+   "group": [
+    "pp_other",
+    "catalog-split-02",
+    "catalog",
+    "prints-and-photographs-other",
+    "main-catalog-split-02"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/2024689883/",
+   "image_url": [
+    "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03520_150px.jpg#h=98&w=150",
+    "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03520r.jpg#h=419&w=640",
+    "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03520v.jpg#h=670&w=1024"
+   ],
+   "index": 6,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "united states",
+    "victor",
+    "montana"
+   ],
+   "mime_type": [
+    "image/gif",
+    "image/jpg",
+    "image/tif"
+   ],
+   "number": [
+    "sheet",
+    "2024689883",
+    "http://www.loc.gov/item/23570953",
+    "2024-02-21t08:57:12"
+   ],
+   "online_format": [
+    "image"
+   ],
+   "original_format": [
+    "photo, print, drawing"
+   ],
+   "partof": [
+    "prints and photographs division",
+    "catalog"
+   ],
+   "score": 10.158577,
+   "shelf_id": "PCRD 4 - Montana - Victor, no. 2 [P&P]",
+   "site": [
+    "pictures",
+    "catalog"
+   ],
+   "subject": [
+    "photographs",
+    "united states",
+    "postcards",
+    "victor",
+    "montana"
+   ],
+   "timestamp": "2024-03-02T14:40:16.299Z",
+   "title": "The snow-capped peak of St. Mory's, Victor, Montana",
+   "type": [
+    "still image"
+   ],
+   "url": "https://www.loc.gov/item/2024689883/"
+  }
+ ],
+ "resources": [
+  {
+   "audio": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_17233_01_b5023_03:dlc_victor_17233_01_b5023_03/full/full/0/full/default.mp3",
+   "files": [
+    [
+     {
+      "aspectRation": "4:3",
+      "autoPlay": false,
+      "canDownload": true,
+      "derivatives": [
+       {
+        "derivativeUrl": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/dlc_victor_17233_01_b5023_03/dlc_victor_17233_01_b5023_03.mp3"
+       }
+      ],
+      "detailUrl": "https://www.loc.gov/item/jukebox-250879",
+      "download": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_17233_01_b5023_03:dlc_victor_17233_01_b5023_03/full/full/0/full/default.mp3",
+      "duration": 149.0,
+      "filename": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/dlc_victor_17233_01_b5023_03/dlc_victor_17233_01_b5023_03.mp3",
+      "mediaType": "A",
+      "metadata": [
+       "Red Wing",
+       "Male vocal duet, with orchestra"
+      ],
+      "mimetype": "audio/mpeg",
+      "poster": null,
+      "rights_restricted": true,
+      "shortName": "Red Wing",
+      "thumbnail_url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_17233_01_b5023_03:dlc_victor_17233_01_b5023_03/full/pct:12.5/0/default.jpg"
+     },
+     {
+      "height": null,
+      "levels": 1,
+      "mimetype": "audio/wav",
+      "size": 13187776,
+      "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/dlc_victor_17233_01_b5023_03/dlc_victor_17233_01_b5023_03.wav",
+      "width": null
+     }
+    ]
+   ],
+   "url": "https://www.loc.gov/resource/jukebox-250879.0"
+  },
+  {
+   "files": [
+    [
+     {
+      "height": 279,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_17233_01_b5023_03:dlc_victor_17233_01_b5023_03/full/pct:12.5/0/default.jpg",
+      "width": 280
+     },
+     {
+      "height": 559,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_17233_01_b5023_03:dlc_victor_17233_01_b5023_03/full/pct:25/0/default.jpg",
+      "width": 561
+     },
+     {
+      "height": 1119,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_17233_01_b5023_03:dlc_victor_17233_01_b5023_03/full/pct:50/0/default.jpg",
+      "width": 1122
+     },
+     {
+      "height": 2238,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_17233_01_b5023_03:dlc_victor_17233_01_b5023_03/full/pct:100/0/default.jpg",
+      "width": 2245
+     },
+     {
+      "height": null,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 10721716,
+      "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/dlc_victor_17233_01_b5023_03/dlc_victor_17233_01_b5023_03.tif",
+      "width": null
+     }
+    ]
+   ],
+   "image": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_17233_01_b5023_03:dlc_victor_17233_01_b5023_03/full/pct:100/0/default.jpg",
+   "mimetype": "image/jpeg",
+   "url": "https://www.loc.gov/resource/jukebox-250879.1"
+  }
+ ],
+ "timestamp": 1791308552396
+}
