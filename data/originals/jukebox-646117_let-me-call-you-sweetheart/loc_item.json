@@ -136,8 +136,8 @@
    }
   ],
   "location": [
-   "new york",
-   "united states"
+   "united states",
+   "new york"
   ],
   "locations": [
    {
@@ -207,7 +207,7 @@
    "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
   ],
   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
-  "score": 15.5938225,
+  "score": 15.595194,
   "shard": "01",
   "shelf_id": "Columbia A1057",
   "site": [
@@ -215,8 +215,8 @@
   ],
   "source_modified": "2000-01-01T12:00:00Z",
   "subject": [
-   "vocal",
-   "columbia"
+   "columbia",
+   "vocal"
   ],
   "subject_category": [
    "vocal"
@@ -262,10 +262,10 @@
    ],
    "campaigns": [],
    "contributor": [
-    "prince's male quartette",
-    "columbia quartette",
     "berlin, irving",
-    "regal male quartette [columbia male quartette]"
+    "columbia quartette",
+    "regal male quartette [columbia male quartette]",
+    "prince's male quartette"
    ],
    "date": "1911-12-29",
    "dates": [
@@ -293,8 +293,8 @@
     "english"
    ],
    "location": [
-    "new york",
-    "united states"
+    "united states",
+    "new york"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -310,18 +310,18 @@
     "sound recording"
    ],
    "partof": [
-    "department of special collections, davidson library, university of california, santa barbara",
+    "national jukebox",
     "recorded sound research center",
-    "national jukebox"
+    "department of special collections, davidson library, university of california, santa barbara"
    ],
-   "score": 46.150322,
+   "score": 46.152573,
    "shelf_id": "Columbia A1123",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "vocal",
-    "columbia"
+    "columbia",
+    "vocal"
    ],
    "timestamp": "2026-10-05T14:26:30.107Z",
    "title": "Everybody's doing it now",
@@ -342,8 +342,8 @@
    "campaigns": [],
    "contributor": [
     "columbia quartette",
-    "armstrong, harry",
-    "regal male quartette [columbia male quartette]"
+    "regal male quartette [columbia male quartette]",
+    "armstrong, harry"
    ],
    "date": "1905-05-31",
    "dates": [
@@ -371,8 +371,8 @@
     "english"
    ],
    "location": [
-    "new york",
-    "united states"
+    "united states",
+    "new york"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -391,18 +391,18 @@
     "You're my heart's desire, I love you"
    ],
    "partof": [
-    "department of special collections, davidson library, university of california, santa barbara",
+    "national jukebox",
     "recorded sound research center",
-    "national jukebox"
+    "department of special collections, davidson library, university of california, santa barbara"
    ],
-   "score": 38.387653,
+   "score": 38.390297,
    "shelf_id": "Columbia 3174",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "vocal",
-    "columbia"
+    "columbia",
+    "vocal"
    ],
    "timestamp": "2026-10-05T14:46:45.928Z",
    "title": "Nellie Dean",
@@ -422,11 +422,11 @@
    ],
    "campaigns": [],
    "contributor": [
-    "columbia quartette",
     "regal male quartette [columbia quartette]",
     "dillon, william a.",
+    "prince's male quartette",
     "von tilzer, harry",
-    "prince's male quartette"
+    "columbia quartette"
    ],
    "date": "1911-05-29",
    "dates": [
@@ -454,8 +454,8 @@
     "english"
    ],
    "location": [
-    "new york",
-    "united states"
+    "united states",
+    "new york"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -471,18 +471,18 @@
     "sound recording"
    ],
    "partof": [
-    "department of special collections, davidson library, university of california, santa barbara",
+    "national jukebox",
     "recorded sound research center",
-    "national jukebox"
+    "department of special collections, davidson library, university of california, santa barbara"
    ],
-   "score": 37.82174,
+   "score": 37.824535,
    "shelf_id": "Columbia A1034",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "vocal",
-    "columbia"
+    "columbia",
+    "vocal"
    ],
    "timestamp": "2026-10-05T14:26:05.497Z",
    "title": "I want a girl (Just like the girl that married dear old Dad)",
@@ -502,11 +502,11 @@
    ],
    "campaigns": [],
    "contributor": [
-    "furth, seymour",
-    "columbia quartette",
-    "vanderveer, william j.",
     "regal male quartette [columbia quartette]",
-    "prince's male quartette"
+    "vanderveer, william j.",
+    "prince's male quartette",
+    "columbia quartette",
+    "furth, seymour"
    ],
    "date": "1912-02-06",
    "dates": [
@@ -534,8 +534,8 @@
     "english"
    ],
    "location": [
-    "new york",
-    "united states"
+    "united states",
+    "new york"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -551,19 +551,19 @@
     "sound recording"
    ],
    "partof": [
-    "department of special collections, davidson library, university of california, santa barbara",
+    "national jukebox",
     "recorded sound research center",
-    "national jukebox"
+    "department of special collections, davidson library, university of california, santa barbara"
    ],
-   "score": 37.82174,
+   "score": 37.824535,
    "shelf_id": "Columbia A1136",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
     "popular music",
-    "vocal",
-    "columbia"
+    "columbia",
+    "vocal"
    ],
    "timestamp": "2026-10-05T14:26:51.917Z",
    "title": "Hear the pickaninny band",
@@ -585,8 +585,8 @@
    "contributor": [
     "lamb, arthur j.",
     "columbia quartette",
-    "prince's male quartette",
-    "mills, kerry"
+    "mills, kerry",
+    "prince's male quartette"
    ],
    "date": "1909-01-31",
    "dates": [
@@ -614,8 +614,8 @@
     "english"
    ],
    "location": [
-    "new york",
-    "united states"
+    "united states",
+    "new york"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -631,18 +631,18 @@
     "sound recording"
    ],
    "partof": [
-    "department of special collections, davidson library, university of california, santa barbara",
+    "national jukebox",
     "recorded sound research center",
-    "national jukebox"
+    "department of special collections, davidson library, university of california, santa barbara"
    ],
-   "score": 37.82174,
+   "score": 37.824535,
    "shelf_id": "Columbia A5085",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "vocal",
-    "columbia"
+    "columbia",
+    "vocal"
    ],
    "timestamp": "2026-10-05T14:49:59.253Z",
    "title": "If you were mine",
@@ -662,9 +662,9 @@
    ],
    "campaigns": [],
    "contributor": [
-    "norworth, jack",
     "von tilzer, albert",
-    "regal male quartette [columbia male quartette]"
+    "regal male quartette [columbia male quartette]",
+    "norworth, jack"
    ],
    "date": "1907-07-31",
    "dates": [
@@ -692,8 +692,8 @@
     "english"
    ],
    "location": [
-    "new york",
-    "united states"
+    "united states",
+    "new york"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -709,18 +709,18 @@
     "sound recording"
    ],
    "partof": [
-    "department of special collections, davidson library, university of california, santa barbara",
+    "national jukebox",
     "recorded sound research center",
-    "national jukebox"
+    "department of special collections, davidson library, university of california, santa barbara"
    ],
-   "score": 31.701105,
+   "score": 31.703854,
    "shelf_id": "Columbia 3669",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "vocal",
-    "columbia"
+    "columbia",
+    "vocal"
    ],
    "timestamp": "2026-10-05T14:47:04.644Z",
    "title": "Honey boy",
@@ -781,7 +781,7 @@
   "display_level": null,
   "distance": null,
   "downloadOption": null,
-  "duration": 4.0556840896606445,
+  "duration": 1.5486993789672852,
   "embed": [],
   "embed!": [],
   "error_response_status": null,
@@ -940,7 +940,7 @@
   "suggested": null,
   "target": null,
   "template": "layouts/item/layout",
-  "timestamp": 1791308597.9948542,
+  "timestamp": 1791372969.5405533,
   "tz_aware": null,
   "unionFacets": "",
   "webcast_permalink": null
@@ -956,8 +956,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "whitson, beth slater",
-    "friedman, leo"
+    "friedman, leo",
+    "whitson, beth slater"
    ],
    "date": "1910",
    "dates": [
@@ -990,12 +990,12 @@
     "image/jp2"
    ],
    "number": [
-    "2023-11-30t11:43:33",
     "http://www.loc.gov/resource/ihas.100006088.0",
-    "http://www.loc.gov/item/ihas.100006088",
-    "2023792559",
     "sheet",
-    "http://www.loc.gov/item/2023792559"
+    "2023-11-30t11:43:33",
+    "http://www.loc.gov/item/ihas.100006088",
+    "http://www.loc.gov/item/2023792559",
+    "2023792559"
    ],
    "online_format": [
     "image",
@@ -1006,11 +1006,11 @@
    ],
    "partof": [
     "the library of congress celebrates the songs of america",
-    "catalog",
     "music division",
-    "historic sheet music collection, 1800-1922"
+    "historic sheet music collection, 1800-1922",
+    "catalog"
    ],
-   "score": 12.141844,
+   "score": 12.142058,
    "shelf_id": "https://repo.loc.gov/access/public/music/musihas-100006088/.resource.json",
    "site": [
     "catalog"
@@ -1032,8 +1032,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "whitson, beth slater",
-    "friedman, leo"
+    "friedman, leo",
+    "whitson, beth slater"
    ],
    "date": "1909",
    "dates": [
@@ -1067,12 +1067,12 @@
     "image/jp2"
    ],
    "number": [
-    "http://www.loc.gov/resource/ihas.100006089.0",
+    "http://www.loc.gov/item/ihas.100006089",
+    "2023792560",
+    "sheet",
     "http://www.loc.gov/item/2023792560",
     "2023-11-30t11:43:33",
-    "sheet",
-    "http://www.loc.gov/item/ihas.100006089",
-    "2023792560"
+    "http://www.loc.gov/resource/ihas.100006089.0"
    ],
    "online_format": [
     "image",
@@ -1083,11 +1083,11 @@
    ],
    "partof": [
     "the library of congress celebrates the songs of america",
-    "catalog",
     "music division",
-    "historic sheet music collection, 1800-1922"
+    "historic sheet music collection, 1800-1922",
+    "catalog"
    ],
-   "score": 12.141844,
+   "score": 12.142058,
    "shelf_id": "https://repo.loc.gov/access/public/music/musihas-100006089/.resource.json",
    "site": [
     "catalog"
@@ -1143,9 +1143,9 @@
     "english"
    ],
    "location": [
-    "new york (state)",
-    "new york",
     "united states",
+    "new york",
+    "new york (state)",
     "manhattan"
    ],
    "mime_type": [
@@ -1154,9 +1154,9 @@
    ],
    "number": [
     "2024-09-26t15:11:59",
+    "2024641149",
     "online resource",
-    "http://www.loc.gov/item/23877672",
-    "2024641149"
+    "http://www.loc.gov/item/23877672"
    ],
    "online_format": [
     "image"
@@ -1165,24 +1165,24 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "catalog",
-    "prints and photographs division"
+    "prints and photographs division",
+    "catalog"
    ],
-   "score": 9.740556,
+   "score": 9.740623,
    "shelf_id": "LC-DIG-vrg- 21926 (ONLINE)",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "families",
-    "security",
-    "manhattan",
-    "new york",
-    "columbia",
     "united states",
+    "digital photographs",
     "new york (state)",
-    "digital photographs"
+    "families",
+    "columbia",
+    "security",
+    "new york",
+    "manhattan"
    ],
    "timestamp": "2024-10-05T12:53:00.697Z",
    "title": "Columbia University, Family Orientation. Broadway and W. 116th St., Manhattan",
@@ -1235,9 +1235,9 @@
     "english"
    ],
    "location": [
-    "new york (state)",
-    "new york",
     "united states",
+    "new york",
+    "new york (state)",
     "manhattan"
    ],
    "mime_type": [
@@ -1246,8 +1246,8 @@
    ],
    "number": [
     "http://www.loc.gov/item/21788674",
-    "online resource",
     "2022-01-14t12:55:47",
+    "online resource",
     "2020638225"
    ],
    "online_format": [
@@ -1257,31 +1257,31 @@
     "photo, print, drawing"
    ],
    "partof": [
+    "prints and photographs division",
     "catalog",
-    "prints & photographs online catalog (library of congress)",
-    "prints and photographs division"
+    "prints & photographs online catalog (library of congress)"
    ],
-   "score": 9.740556,
+   "score": 9.740623,
    "shelf_id": "LC-DIG-vrg- 14518 (ONLINE) [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "lines",
-    "manhattan",
-    "time lapse: covid-19",
-    "new york",
-    "subway",
-    "columbia",
     "crossroads",
-    "digital photographs",
     "united states",
-    "presidential elections",
+    "digital photographs",
     "new york (state)",
+    "lines",
     "corona virus",
+    "columbia",
+    "subway",
+    "covid-19 pandemic",
+    "presidential elections",
     "voting",
-    "covid-19 pandemic"
+    "new york",
+    "time lapse: covid-19",
+    "manhattan"
    ],
    "timestamp": "2023-08-17T17:18:30.102Z",
    "title": "Early voters, 168th St. at St. Nicholas Ave., Manhattan",
@@ -1330,9 +1330,9 @@
     "english"
    ],
    "location": [
-    "new york (state)",
-    "new york",
     "united states",
+    "new york",
+    "new york (state)",
     "manhattan"
    ],
    "mime_type": [
@@ -1340,10 +1340,10 @@
     "image/jpg"
    ],
    "number": [
-    "2024706173",
-    "online resource",
     "http://www.loc.gov/item/23812374",
-    "2024-08-06t09:38:42"
+    "2024706173",
+    "2024-08-06t09:38:42",
+    "online resource"
    ],
    "online_format": [
     "image"
@@ -1352,24 +1352,24 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "catalog",
-    "prints and photographs division"
+    "prints and photographs division",
+    "catalog"
    ],
-   "score": 9.740556,
+   "score": 9.740623,
    "shelf_id": "LC-DIG-vrg- 21281 (ONLINE)",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "manhattan",
+    "united states",
+    "digital photographs",
+    "new york (state)",
+    "columbia",
     "gaza",
     "new york",
-    "columbia",
-    "united states",
-    "new york (state)",
     "palestine",
-    "digital photographs"
+    "manhattan"
    ],
    "timestamp": "2024-08-17T12:48:02.678Z",
    "title": "Palestinian flags and tents placed by students protesting the war in Gaza. Columbia University, East Lawn, Broadway and W. 116th St., Manhattan",
@@ -1418,9 +1418,9 @@
     "english"
    ],
    "location": [
-    "new york (state)",
-    "new york",
     "united states",
+    "new york",
+    "new york (state)",
     "manhattan"
    ],
    "mime_type": [
@@ -1429,9 +1429,9 @@
    ],
    "number": [
     "http://www.loc.gov/item/23812376",
+    "2024-08-06t09:38:42",
     "2024706175",
-    "online resource",
-    "2024-08-06t09:38:42"
+    "online resource"
    ],
    "online_format": [
     "image"
@@ -1440,24 +1440,24 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "catalog",
-    "prints and photographs division"
+    "prints and photographs division",
+    "catalog"
    ],
-   "score": 9.740556,
+   "score": 9.740623,
    "shelf_id": "LC-DIG-vrg- 21283 (ONLINE)",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "manhattan",
+    "united states",
+    "digital photographs",
+    "new york (state)",
+    "columbia",
     "gaza",
     "new york",
-    "columbia",
-    "united states",
-    "new york (state)",
     "palestine",
-    "digital photographs"
+    "manhattan"
    ],
    "timestamp": "2024-08-17T12:48:02.678Z",
    "title": "Palestinian flags and tents placed by students protesting the war in Gaza. Columbia University, East Lawn, Broadway and W. 116th St., Manhattan",
@@ -1550,5 +1550,5 @@
    "url": "https://www.loc.gov/resource/jukebox-646117.1"
   }
  ],
- "timestamp": 1791308602050
+ "timestamp": 1791372971089
 }

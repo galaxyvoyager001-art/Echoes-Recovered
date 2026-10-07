@@ -1,88 +1,71 @@
 {
  "articles_and_essays": null,
  "cite_this": {
-  "apa": "Bernard, F., Selvin, B., Black, J. S. &amp; Selvin'S Novelty Orchestra. (1919) <cite>Dardanella</cite>. [Audio] Retrieved from the Library of Congress, https://www.loc.gov/item/jukebox-34232/.",
-  "chicago": "Bernard, Felix, Ben Selvin, Johnny S Black, and  Selvin'S Novelty Orchestra. <cite>Dardanella</cite>. 1919. Audio. https://www.loc.gov/item/jukebox-34232/.",
-  "mla": "Bernard, Felix, et al. <cite>Dardanella</cite>. 1919. Audio. Retrieved from the Library of Congress, &lt;www.loc.gov/item/jukebox-34232/&gt;."
+  "apa": "Picazo, L. &amp; Abrego, J. (1905) <cite>El Jarabe Tapatío</cite>. [Audio] Retrieved from the Library of Congress, https://www.loc.gov/item/jukebox-6171/.",
+  "chicago": "Picazo, Leopoldo, and Jesús Abrego. <cite>El Jarabe Tapatío</cite>. 1905. Audio. https://www.loc.gov/item/jukebox-6171/.",
+  "mla": "Picazo, Leopoldo, and Jesús Abrego. <cite>El Jarabe Tapatío</cite>. 1905. Audio. Retrieved from the Library of Congress, &lt;www.loc.gov/item/jukebox-6171/&gt;."
  },
  "item": {
-  "_version_": 1878219504444506112,
+  "_version_": 1878220079868411904,
   "access_restricted": false,
   "aka": [
-   "http://www.loc.gov/jukebox/recordings/detail/id/7342",
-   "http://www.loc.gov/item/jukebox-34232/",
-   "http://www.loc.gov/resource/jukebox-34232.0/",
-   "http://www.loc.gov/resource/jukebox-34232.1/",
-   "http://www.loc.gov/resource/jukebox-34232.0",
-   "http://www.loc.gov/resource/jukebox-34232.1"
+   "http://www.loc.gov/item/jukebox-6171/",
+   "http://www.loc.gov/resource/jukebox-6171.0/",
+   "http://www.loc.gov/resource/jukebox-6171.1/",
+   "http://www.loc.gov/resource/jukebox-6171.0",
+   "http://www.loc.gov/resource/jukebox-6171.1"
   ],
-  "audio_type": "Instrumental",
+  "audio_type": "Vocal",
   "campaigns": [],
-  "contributor_composer": [
-   "bernard, felix",
-   "black, johnny s."
-  ],
-  "contributor_musical_group": [
-   "selvin's novelty orchestra"
-  ],
   "contributor_names": [
-   "Bernard, Felix -- Composer -- Composer",
-   "Selvin, Ben -- Leader -- Leader",
-   "Black, Johnny S. -- Composer -- Composer",
-   "Selvin's Novelty Orchestra -- Musical Group -- Musical Group"
+   "Picazo, Leopoldo -- Vocalist -- Baritone Vocal",
+   "Abrego, Jesús -- Vocalist -- Tenor Vocal"
   ],
   "contributor_primary": [
-   "selvin's novelty orchestra"
+   "picazo, leopoldo"
+  ],
+  "contributor_vocalist": [
+   "picazo, leopoldo",
+   "abrego, jesús"
   ],
   "contributors": [
    {
-    "bernard, felix": "https://www.loc.gov/search/?fa=contributor:bernard,+felix&fo=json"
+    "abrego, jesús": "https://www.loc.gov/search/?fa=contributor:abrego,+jes%C3%BAs&fo=json"
    },
    {
-    "black, johnny s.": "https://www.loc.gov/search/?fa=contributor:black,+johnny+s.&fo=json"
-   },
-   {
-    "selvin's novelty orchestra": "https://www.loc.gov/search/?fa=contributor:selvin%27s+novelty+orchestra&fo=json"
-   },
-   {
-    "selvin, ben": "https://www.loc.gov/search/?fa=contributor:selvin,+ben&fo=json"
-   }
-  ],
-  "contributors_composer": [
-   {
-    "bernard, felix": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_composer:bernard,+felix&fo=json"
-   },
-   {
-    "black, johnny s.": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_composer:black,+johnny+s.&fo=json"
-   }
-  ],
-  "contributors_musical_group": [
-   {
-    "selvin's novelty orchestra": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_musical_group:selvin%27s+novelty+orchestra&fo=json"
+    "picazo, leopoldo": "https://www.loc.gov/search/?fa=contributor:picazo,+leopoldo&fo=json"
    }
   ],
   "contributors_primary": [
    {
-    "selvin's novelty orchestra": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_primary:selvin%27s+novelty+orchestra&fo=json"
+    "picazo, leopoldo": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_primary:picazo,+leopoldo&fo=json"
    }
   ],
-  "date": "1919-11-20",
+  "contributors_vocalist": [
+   {
+    "abrego, jesús": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_vocalist:abrego,+jes%C3%BAs&fo=json"
+   },
+   {
+    "picazo, leopoldo": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_vocalist:picazo,+leopoldo&fo=json"
+   }
+  ],
+  "date": "1905-07-17",
   "dates": [
    {
-    "1919-11-20": "https://www.loc.gov/search/?dates=1919-11-20/1919-11-20&fo=json"
+    "1905-07-17": "https://www.loc.gov/search/?dates=1905-07-17/1905-07-17&fo=json"
    }
   ],
   "description": [
-   "Victor 18633. Matrix/Take: B-23344/3."
+   "Victor 62024. Matrix/Take: 4-Z/[1?]."
   ],
   "digitized": true,
   "display_offsite": true,
-  "extract_timestamp": "2026-10-04T19:46:53.623Z",
+  "extract_timestamp": "2026-10-04T17:47:45.108Z",
   "extract_urls": [
-   "http://www.loc.gov/item/jukebox-34232#nationaljukebox"
+   "http://www.loc.gov/item/jukebox-6171#nationaljukebox"
   ],
   "file_id": [
-   "dlc_victor_18633_01_b23344_03"
+   "jvm_victor_62024_01_4z_01"
   ],
   "format": [
    {
@@ -90,65 +73,71 @@
    }
   ],
   "genre": [
-   "Ragtime, jazz, and more"
+   "Spanish (Mexico)"
   ],
   "group": [
    "nationaljukebox",
    "national-jukebox"
   ],
   "hassegments": false,
-  "id": "http://www.loc.gov/item/jukebox-34232/",
-  "iiif_manifest_url": "https://www.loc.gov/item/jukebox-34232/manifest.json",
+  "id": "http://www.loc.gov/item/jukebox-6171/",
+  "iiif_manifest_url": "https://www.loc.gov/item/jukebox-6171/manifest.json",
   "image_url": [
-   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18633_01_b23344_03:dlc_victor_18633_01_b23344_03/full/pct:12.5/0/default.jpg#h=208&w=210",
-   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18633_01_b23344_03:dlc_victor_18633_01_b23344_03/full/pct:25/0/default.jpg#h=417&w=420",
-   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18633_01_b23344_03:dlc_victor_18633_01_b23344_03/full/pct:50/0/default.jpg#h=834&w=840",
-   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18633_01_b23344_03:dlc_victor_18633_01_b23344_03/full/pct:100/0/default.jpg#h=1669&w=1681"
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_62024_01_4z_01:jvm_victor_62024_01_4z_01/full/pct:12.5/0/default.jpg#h=325&w=321",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_62024_01_4z_01:jvm_victor_62024_01_4z_01/full/pct:25/0/default.jpg#h=650&w=642",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_62024_01_4z_01:jvm_victor_62024_01_4z_01/full/pct:50/0/default.jpg#h=1300&w=1285",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_62024_01_4z_01:jvm_victor_62024_01_4z_01/full/pct:100/0/default.jpg#h=2601&w=2571"
   ],
   "index": 1,
   "item": {
-   "audio_type": "Instrumental",
+   "audio_type": "Vocal",
    "contributors": [
-    "Bernard, Felix -- Composer -- Composer",
-    "Selvin, Ben -- Leader -- Leader",
-    "Black, Johnny S. -- Composer -- Composer",
-    "Selvin's Novelty Orchestra -- Musical Group -- Musical Group"
+    "Picazo, Leopoldo -- Vocalist -- Baritone Vocal",
+    "Abrego, Jesús -- Vocalist -- Tenor Vocal"
    ],
    "file_id": [
-    "dlc_victor_18633_01_b23344_03"
+    "jvm_victor_62024_01_4z_01"
    ],
    "genre": [
-    "Ragtime, jazz, and more"
+    "Spanish (Mexico)"
    ],
+   "language": "Spanish",
    "media_size": "10-in.",
    "profile": "jukebox",
-   "recording_catalog_number": "18633",
-   "recording_date": "1919-11-20",
+   "recording_catalog_number": "62024",
+   "recording_date": "1905-07-17",
    "recording_label": "Victor",
-   "recording_matrix_number": "B-23344 (Matrix ID)",
-   "recording_repository": "Source of original recording: Recorded Sound Section, Library of Congress.",
-   "recording_take_id": 34232,
-   "recording_take_number": "3",
+   "recording_matrix_number": "4-Z (Matrix ID)",
+   "recording_repository": "Source of original recording: Johnson Victrola Museum, Delaware.",
+   "recording_take_id": 6171,
+   "recording_take_number": "[1?]",
    "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
-   "summary": "Jazz/dance band"
+   "summary": "Male vocal duet, with guitar"
   },
+  "language": [
+   "spanish"
+  ],
+  "languages": [
+   {
+    "spanish": "https://www.loc.gov/search/?fa=language:spanish&fo=json"
+   }
+  ],
   "location": [
-   "united states",
-   "new york"
+   "mexico city",
+   "mexico"
   ],
   "locations": [
    {
-    "new york": "https://www.loc.gov/search/?fa=location:new+york&fo=json"
+    "mexico": "https://www.loc.gov/search/?fa=location:mexico&fo=json"
    },
    {
-    "united states": "https://www.loc.gov/search/?fa=location:united+states&fo=json"
+    "mexico city": "https://www.loc.gov/search/?fa=location:mexico+city&fo=json"
    }
   ],
   "media_size": "10-in.",
   "mime_type": [
    "audio/mpeg",
    "audio/wav",
-   "image/tif",
    "image/jpeg"
   ],
   "online_format": [
@@ -160,14 +149,13 @@
   ],
   "other_formats": [],
   "other_title": [
-   "Fox trot",
-   "An echo from the East"
+   "Danza mexicana"
   ],
   "partof": [
    {
-    "count": 6124,
-    "title": "recorded sound section, library of congress",
-    "url": "https://www.loc.gov/search/?fa=partof:recorded+sound+section,+library+of+congress&fo=json"
+    "count": 3495,
+    "title": "johnson victrola museum, delaware",
+    "url": "https://www.loc.gov/search/?fa=partof:johnson+victrola+museum,+delaware&fo=json"
    },
    {
     "count": 20273,
@@ -181,27 +169,27 @@
    }
   ],
   "partof_repository": [
-   "recorded sound section, library of congress"
+   "johnson victrola museum, delaware"
   ],
   "profile": "jukebox",
-  "recording_catalog_number": "18633",
-  "recording_date": "1919-11-20",
+  "recording_catalog_number": "62024",
+  "recording_date": "1905-07-17",
   "recording_label": "Victor",
-  "recording_matrix_number": "B-23344 (Matrix ID)",
-  "recording_repository": "Source of original recording: Recorded Sound Section, Library of Congress.",
-  "recording_take_id": 34232,
-  "recording_take_number": "3",
+  "recording_matrix_number": "4-Z (Matrix ID)",
+  "recording_repository": "Source of original recording: Johnson Victrola Museum, Delaware.",
+  "recording_take_id": 6171,
+  "recording_take_number": "[1?]",
   "resources": [
    {
     "files": 1,
-    "media": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18633_01_b23344_03:dlc_victor_18633_01_b23344_03/full/full/0/full/default.mp3",
-    "url": "https://www.loc.gov/resource/jukebox-34232.0"
+    "media": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_62024_01_4z_01:jvm_victor_62024_01_4z_01/full/full/0/full/default.mp3",
+    "url": "https://www.loc.gov/resource/jukebox-6171.0"
    },
    {
     "files": 1,
-    "image": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18633_01_b23344_03:dlc_victor_18633_01_b23344_03/full/pct:100/0/default.jpg",
+    "image": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_62024_01_4z_01:jvm_victor_62024_01_4z_01/full/pct:100/0/default.jpg",
     "mimetype": "image/jpeg",
-    "url": "https://www.loc.gov/resource/jukebox-34232.1"
+    "url": "https://www.loc.gov/resource/jukebox-6171.1"
    }
   ],
   "rights": [
@@ -210,44 +198,39 @@
   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
   "score": 15.455622,
   "shard": "01",
-  "shelf_id": "Victor 18633",
+  "shelf_id": "Victor 62024",
   "site": [
    "nationaljukebox"
   ],
   "source_modified": "2000-01-01T12:00:00Z",
   "subject": [
-   "instrumental",
    "victor",
-   "ragtime, jazz, and more"
+   "vocal",
+   "spanish (mexico)"
   ],
   "subject_category": [
-   "instrumental"
-  ],
-  "subject_genre": [
-   "ragtime, jazz, and more"
+   "vocal"
   ],
   "subject_label": [
    "victor"
   ],
+  "subject_target_audience": [
+   "spanish (mexico)"
+  ],
   "subjects": [
    {
-    "instrumental": "https://www.loc.gov/search/?fa=subject:instrumental&fo=json"
-   },
-   {
-    "ragtime, jazz, and more": "https://www.loc.gov/search/?fa=subject:ragtime,+jazz,+and+more&fo=json"
+    "spanish (mexico)": "https://www.loc.gov/search/?fa=subject:spanish+%28mexico%29&fo=json"
    },
    {
     "victor": "https://www.loc.gov/search/?fa=subject:victor&fo=json"
+   },
+   {
+    "vocal": "https://www.loc.gov/search/?fa=subject:vocal&fo=json"
    }
   ],
   "subjects_category": [
    {
-    "instrumental": "https://www.loc.gov/collections/national-jukebox/?fa=subject_category:instrumental&fo=json"
-   }
-  ],
-  "subjects_genre": [
-   {
-    "ragtime, jazz, and more": "https://www.loc.gov/collections/national-jukebox/?fa=subject_genre:ragtime,+jazz,+and+more&fo=json"
+    "vocal": "https://www.loc.gov/collections/national-jukebox/?fa=subject_category:vocal&fo=json"
    }
   ],
   "subjects_label": [
@@ -255,62 +238,66 @@
     "victor": "https://www.loc.gov/collections/national-jukebox/?fa=subject_label:victor&fo=json"
    }
   ],
-  "summary": "Jazz/dance band",
-  "timestamp": "2026-10-05T14:15:01.733Z",
-  "title": "Dardanella",
+  "subjects_target_audience": [
+   {
+    "spanish (mexico)": "https://www.loc.gov/collections/national-jukebox/?fa=subject_target_audience:spanish+%28mexico%29&fo=json"
+   }
+  ],
+  "summary": "Male vocal duet, with guitar",
+  "timestamp": "2026-10-05T14:24:10.717Z",
+  "title": "El jarabe tapatío",
   "type": [
    "sound recording-musical"
   ],
-  "url": "https://www.loc.gov/item/jukebox-34232/"
+  "url": "https://www.loc.gov/item/jukebox-6171/"
  },
  "more_like_this": [
   {
    "access_restricted": false,
    "aka": [
-    "http://www.loc.gov/jukebox/recordings/detail/id/7343",
-    "http://www.loc.gov/item/jukebox-34239/",
-    "http://www.loc.gov/resource/jukebox-34239.0/",
-    "http://www.loc.gov/resource/jukebox-34239.1/",
-    "http://www.loc.gov/resource/jukebox-34239.0",
-    "http://www.loc.gov/resource/jukebox-34239.1"
+    "http://www.loc.gov/item/jukebox-317049/",
+    "http://www.loc.gov/resource/jukebox-317049.0/",
+    "http://www.loc.gov/resource/jukebox-317049.1/",
+    "http://www.loc.gov/resource/jukebox-317049.0",
+    "http://www.loc.gov/resource/jukebox-317049.1"
    ],
    "campaigns": [],
    "contributor": [
-    "blaufuss, walter",
-    "freeman, harold b.",
-    "selvin, ben",
-    "selvin's novelty orchestra"
+    "abrego, jesús",
+    "picazo, leopoldo"
    ],
-   "date": "1919-11-20",
+   "date": "1908-10-18",
    "dates": [
-    "1919-11-20"
+    "1908-10-18"
    ],
    "description": [
-    "Victor 18633. Matrix/Take: B-23346/3."
+    "Victor 62126. Matrix/Take: R-28/1."
    ],
    "digitized": true,
-   "extract_timestamp": "2026-10-04T19:46:53.623Z",
+   "extract_timestamp": "2026-10-05T03:21:37.925Z",
    "group": [
     "nationaljukebox",
     "national-jukebox"
    ],
    "hassegments": false,
-   "id": "http://www.loc.gov/item/jukebox-34239/",
+   "id": "http://www.loc.gov/item/jukebox-317049/",
    "image_url": [
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18633_01_b23346_03:dlc_victor_18633_01_b23346_03/full/pct:12.5/0/default.jpg#h=211&w=213",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18633_01_b23346_03:dlc_victor_18633_01_b23346_03/full/pct:25/0/default.jpg#h=423&w=427",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18633_01_b23346_03:dlc_victor_18633_01_b23346_03/full/pct:50/0/default.jpg#h=846&w=855",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18633_01_b23346_03:dlc_victor_18633_01_b23346_03/full/pct:100/0/default.jpg#h=1693&w=1711"
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_62126_01_r28_01:jvm_victor_62126_01_r28_01/full/pct:12.5/0/default.jpg#h=319&w=317",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_62126_01_r28_01:jvm_victor_62126_01_r28_01/full/pct:25/0/default.jpg#h=638&w=635",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_62126_01_r28_01:jvm_victor_62126_01_r28_01/full/pct:50/0/default.jpg#h=1276&w=1271",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_62126_01_r28_01:jvm_victor_62126_01_r28_01/full/pct:100/0/default.jpg#h=2553&w=2543"
    ],
    "index": 1,
+   "language": [
+    "spanish"
+   ],
    "location": [
-    "united states",
-    "new york"
+    "mexico city",
+    "mexico"
    ],
    "mime_type": [
     "audio/mpeg",
     "audio/wav",
-    "image/tif",
     "image/jpeg"
    ],
    "online_format": [
@@ -320,78 +307,76 @@
    "original_format": [
     "sound recording"
    ],
-   "other_title": [
-    "Medley waltz",
-    "Lullaby time"
-   ],
    "partof": [
     "national jukebox",
-    "recorded sound section, library of congress",
-    "recorded sound research center"
+    "recorded sound research center",
+    "johnson victrola museum, delaware"
    ],
-   "score": 45.338768,
-   "shelf_id": "Victor 18633",
+   "score": 48.229454,
+   "shelf_id": "Victor 62126",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "instrumental",
+    "ethnic music",
+    "vocal",
     "victor",
-    "ragtime, jazz, and more"
+    "spanish (mexico)",
+    "popular music"
    ],
-   "timestamp": "2026-10-05T14:15:01.733Z",
-   "title": "My isle of golden dreams",
+   "timestamp": "2026-10-05T14:13:16.452Z",
+   "title": "La risa de cupido",
    "type": [
     "sound recording-musical"
    ],
-   "url": "https://www.loc.gov/item/jukebox-34239/"
+   "url": "https://www.loc.gov/item/jukebox-317049/"
   },
   {
    "access_restricted": false,
    "aka": [
-    "http://www.loc.gov/jukebox/recordings/detail/id/7563",
-    "http://www.loc.gov/item/jukebox-36651/",
-    "http://www.loc.gov/resource/jukebox-36651.0/",
-    "http://www.loc.gov/resource/jukebox-36651.1/",
-    "http://www.loc.gov/resource/jukebox-36651.0",
-    "http://www.loc.gov/resource/jukebox-36651.1"
+    "http://www.loc.gov/item/jukebox-258023/",
+    "http://www.loc.gov/resource/jukebox-258023.0/",
+    "http://www.loc.gov/resource/jukebox-258023.1/",
+    "http://www.loc.gov/resource/jukebox-258023.0",
+    "http://www.loc.gov/resource/jukebox-258023.1"
    ],
    "campaigns": [],
    "contributor": [
-    "david, lee",
-    "selvin, ben",
-    "selvin's novelty orchestra"
+    "picazo, leopoldo",
+    "abrego, jesús"
    ],
-   "date": "1920-05-13",
+   "date": "1908-10-25",
    "dates": [
-    "1920-05-13"
+    "1908-10-25"
    ],
    "description": [
-    "Victor 18682. Matrix/Take: B-24054/3."
+    "Victor 62892. Matrix/Take: R-89/1."
    ],
    "digitized": true,
-   "extract_timestamp": "2026-10-04T19:52:35.285Z",
+   "extract_timestamp": "2026-10-05T02:59:27.926Z",
    "group": [
     "nationaljukebox",
     "national-jukebox"
    ],
    "hassegments": false,
-   "id": "http://www.loc.gov/item/jukebox-36651/",
+   "id": "http://www.loc.gov/item/jukebox-258023/",
    "image_url": [
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18682_01_b24054_03:dlc_victor_18682_01_b24054_03/full/pct:12.5/0/default.jpg#h=222&w=228",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18682_01_b24054_03:dlc_victor_18682_01_b24054_03/full/pct:25/0/default.jpg#h=445&w=456",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18682_01_b24054_03:dlc_victor_18682_01_b24054_03/full/pct:50/0/default.jpg#h=891&w=913",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18682_01_b24054_03:dlc_victor_18682_01_b24054_03/full/pct:100/0/default.jpg#h=1782&w=1827"
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_62892_01_r89_01:jvm_victor_62892_01_r89_01/full/pct:12.5/0/default.jpg#h=299&w=296",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_62892_01_r89_01:jvm_victor_62892_01_r89_01/full/pct:25/0/default.jpg#h=598&w=592",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_62892_01_r89_01:jvm_victor_62892_01_r89_01/full/pct:50/0/default.jpg#h=1197&w=1185",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_62892_01_r89_01:jvm_victor_62892_01_r89_01/full/pct:100/0/default.jpg#h=2394&w=2370"
    ],
    "index": 2,
+   "language": [
+    "spanish"
+   ],
    "location": [
-    "united states",
-    "new york"
+    "mexico city",
+    "mexico"
    ],
    "mime_type": [
     "audio/mpeg",
     "audio/wav",
-    "image/tif",
     "image/jpeg"
    ],
    "online_format": [
@@ -401,78 +386,76 @@
    "original_format": [
     "sound recording"
    ],
-   "other_title": [
-    "Fox trot",
-    "Clouds (that pass in the night)"
-   ],
    "partof": [
     "national jukebox",
-    "recorded sound section, library of congress",
-    "recorded sound research center"
+    "recorded sound research center",
+    "johnson victrola museum, delaware"
    ],
-   "score": 45.338768,
-   "shelf_id": "Victor 18682",
+   "score": 48.229454,
+   "shelf_id": "Victor 62892",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "instrumental",
+    "ethnic music",
+    "vocal",
     "victor",
-    "ragtime, jazz, and more"
+    "spanish (mexico)",
+    "popular music"
    ],
-   "timestamp": "2026-10-05T14:16:29.990Z",
-   "title": "Wond'ring",
+   "timestamp": "2026-10-05T14:09:28.140Z",
+   "title": "Qué triste estarás mañana",
    "type": [
     "sound recording-musical"
    ],
-   "url": "https://www.loc.gov/item/jukebox-36651/"
+   "url": "https://www.loc.gov/item/jukebox-258023/"
   },
   {
    "access_restricted": false,
    "aka": [
-    "http://www.loc.gov/jukebox/recordings/detail/id/4889",
-    "http://www.loc.gov/item/jukebox-188732/",
-    "http://www.loc.gov/resource/jukebox-188732.0/",
-    "http://www.loc.gov/resource/jukebox-188732.1/",
-    "http://www.loc.gov/resource/jukebox-188732.0",
-    "http://www.loc.gov/resource/jukebox-188732.1"
+    "http://www.loc.gov/item/jukebox-258026/",
+    "http://www.loc.gov/resource/jukebox-258026.0/",
+    "http://www.loc.gov/resource/jukebox-258026.1/",
+    "http://www.loc.gov/resource/jukebox-258026.0",
+    "http://www.loc.gov/resource/jukebox-258026.1"
    ],
    "campaigns": [],
    "contributor": [
-    "cooper, joe",
-    "selvin, ben",
-    "selvin's novelty orchestra"
+    "abrego, jesús",
+    "picazo, leopoldo"
    ],
-   "date": "1920-05-13",
+   "date": "1908-10-18",
    "dates": [
-    "1920-05-13"
+    "1908-10-18"
    ],
    "description": [
-    "Victor 18699. Matrix/Take: B-24055/4."
+    "Victor 62891. Matrix/Take: R-30/1."
    ],
    "digitized": true,
-   "extract_timestamp": "2026-10-05T01:54:15.430Z",
+   "extract_timestamp": "2026-10-05T02:59:27.926Z",
    "group": [
     "nationaljukebox",
     "national-jukebox"
    ],
    "hassegments": false,
-   "id": "http://www.loc.gov/item/jukebox-188732/",
+   "id": "http://www.loc.gov/item/jukebox-258026/",
    "image_url": [
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18699_01_b24055_04:dlc_victor_18699_01_b24055_04/full/pct:12.5/0/default.jpg#h=218&w=220",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18699_01_b24055_04:dlc_victor_18699_01_b24055_04/full/pct:25/0/default.jpg#h=437&w=441",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18699_01_b24055_04:dlc_victor_18699_01_b24055_04/full/pct:50/0/default.jpg#h=874&w=882",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18699_01_b24055_04:dlc_victor_18699_01_b24055_04/full/pct:100/0/default.jpg#h=1748&w=1764"
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_62891_01_r30_01:jvm_victor_62891_01_r30_01/full/pct:12.5/0/default.jpg#h=326&w=323",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_62891_01_r30_01:jvm_victor_62891_01_r30_01/full/pct:25/0/default.jpg#h=653&w=647",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_62891_01_r30_01:jvm_victor_62891_01_r30_01/full/pct:50/0/default.jpg#h=1306&w=1294",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_62891_01_r30_01:jvm_victor_62891_01_r30_01/full/pct:100/0/default.jpg#h=2613&w=2589"
    ],
    "index": 3,
+   "language": [
+    "spanish"
+   ],
    "location": [
-    "united states",
-    "new york"
+    "mexico city",
+    "mexico"
    ],
    "mime_type": [
     "audio/mpeg",
     "audio/wav",
-    "image/tif",
     "image/jpeg"
    ],
    "online_format": [
@@ -483,76 +466,78 @@
     "sound recording"
    ],
    "other_title": [
-    "Fox trot"
+    "Cancion"
    ],
    "partof": [
     "national jukebox",
-    "recorded sound section, library of congress",
-    "recorded sound research center"
+    "recorded sound research center",
+    "johnson victrola museum, delaware"
    ],
-   "score": 38.93157,
-   "shelf_id": "Victor 18699",
+   "score": 48.229454,
+   "shelf_id": "Victor 62891",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "instrumental",
-    "popular music",
-    "victor"
+    "ethnic music",
+    "vocal",
+    "victor",
+    "spanish (mexico)",
+    "popular music"
    ],
-   "timestamp": "2026-10-05T14:01:15.280Z",
-   "title": "Dance-o-mania",
+   "timestamp": "2026-10-05T14:09:28.140Z",
+   "title": "Las golondrinas de Becker",
    "type": [
     "sound recording-musical"
    ],
-   "url": "https://www.loc.gov/item/jukebox-188732/"
+   "url": "https://www.loc.gov/item/jukebox-258026/"
   },
   {
    "access_restricted": false,
    "aka": [
-    "http://www.loc.gov/jukebox/recordings/detail/id/7146",
-    "http://www.loc.gov/item/jukebox-32870/",
-    "http://www.loc.gov/resource/jukebox-32870.0/",
-    "http://www.loc.gov/resource/jukebox-32870.1/",
-    "http://www.loc.gov/resource/jukebox-32870.0",
-    "http://www.loc.gov/resource/jukebox-32870.1"
+    "http://www.loc.gov/item/jukebox-258036/",
+    "http://www.loc.gov/resource/jukebox-258036.0/",
+    "http://www.loc.gov/resource/jukebox-258036.1/",
+    "http://www.loc.gov/resource/jukebox-258036.0",
+    "http://www.loc.gov/resource/jukebox-258036.1"
    ],
    "campaigns": [],
    "contributor": [
-    "selvin, ben",
-    "berlin, irving",
-    "selvin's novelty orchestra"
+    "picazo, leopoldo",
+    "abrego, jesús"
    ],
-   "date": "1919-07-31",
+   "date": "1908-10-25",
    "dates": [
-    "1919-07-31"
+    "1908-10-25"
    ],
    "description": [
-    "Victor 18614. Matrix/Take: B-22964/5."
+    "Victor 62895. Matrix/Take: R-88/1."
    ],
    "digitized": true,
-   "extract_timestamp": "2026-10-04T19:41:20.429Z",
+   "extract_timestamp": "2026-10-05T02:59:27.926Z",
    "group": [
     "nationaljukebox",
     "national-jukebox"
    ],
    "hassegments": false,
-   "id": "http://www.loc.gov/item/jukebox-32870/",
+   "id": "http://www.loc.gov/item/jukebox-258036/",
    "image_url": [
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18614_01_b22964_05:dlc_victor_18614_01_b22964_05/full/pct:12.5/0/default.jpg#h=225&w=223",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18614_01_b22964_05:dlc_victor_18614_01_b22964_05/full/pct:25/0/default.jpg#h=450&w=447",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18614_01_b22964_05:dlc_victor_18614_01_b22964_05/full/pct:50/0/default.jpg#h=900&w=895",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18614_01_b22964_05:dlc_victor_18614_01_b22964_05/full/pct:100/0/default.jpg#h=1800&w=1791"
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_62895_01_r88_01:jvm_victor_62895_01_r88_01/full/pct:12.5/0/default.jpg#h=305&w=306",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_62895_01_r88_01:jvm_victor_62895_01_r88_01/full/pct:25/0/default.jpg#h=611&w=613",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_62895_01_r88_01:jvm_victor_62895_01_r88_01/full/pct:50/0/default.jpg#h=1222&w=1226",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_62895_01_r88_01:jvm_victor_62895_01_r88_01/full/pct:100/0/default.jpg#h=2444&w=2453"
    ],
    "index": 4,
+   "language": [
+    "spanish"
+   ],
    "location": [
-    "united states",
-    "new york"
+    "mexico city",
+    "mexico"
    ],
    "mime_type": [
     "audio/mpeg",
     "audio/wav",
-    "image/tif",
     "image/jpeg"
    ],
    "online_format": [
@@ -562,77 +547,76 @@
    "original_format": [
     "sound recording"
    ],
-   "other_title": [
-    "A pretty girl is like a melody",
-    "Ziegfeld follies of 1919",
-    "Medley fox trot"
-   ],
    "partof": [
     "national jukebox",
-    "recorded sound section, library of congress",
-    "recorded sound research center"
+    "recorded sound research center",
+    "johnson victrola museum, delaware"
    ],
-   "score": 38.93157,
-   "shelf_id": "Victor 18614",
+   "score": 48.229454,
+   "shelf_id": "Victor 62895",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "instrumental",
-    "musical theater",
-    "victor"
+    "ethnic music",
+    "vocal",
+    "victor",
+    "spanish (mexico)",
+    "popular music"
    ],
-   "timestamp": "2026-10-05T14:13:57.371Z",
-   "title": "Mandy",
+   "timestamp": "2026-10-05T14:09:28.140Z",
+   "title": "Palomas y golondrinas",
    "type": [
     "sound recording-musical"
    ],
-   "url": "https://www.loc.gov/item/jukebox-32870/"
+   "url": "https://www.loc.gov/item/jukebox-258036/"
   },
   {
    "access_restricted": false,
    "aka": [
-    "http://www.loc.gov/item/jukebox-32877/",
-    "http://www.loc.gov/resource/jukebox-32877.0/",
-    "http://www.loc.gov/resource/jukebox-32877.1/",
-    "http://www.loc.gov/resource/jukebox-32877.0",
-    "http://www.loc.gov/resource/jukebox-32877.1"
+    "http://www.loc.gov/item/jukebox-257140/",
+    "http://www.loc.gov/resource/jukebox-257140.0/",
+    "http://www.loc.gov/resource/jukebox-257140.1/",
+    "http://www.loc.gov/resource/jukebox-257140.0",
+    "http://www.loc.gov/resource/jukebox-257140.1"
    ],
    "campaigns": [],
    "contributor": [
-    "selvin, ben",
-    "selvin's novelty orchestra"
+    "abrego, jesús",
+    "picazo, leopoldo"
    ],
-   "date": "1919-07-31",
+   "date": "1908-10-15",
    "dates": [
-    "1919-07-31"
+    "1908-10-15"
    ],
    "description": [
-    "Victor 18614. Matrix/Take: B-22965/7."
+    "Victor 62123. Matrix/Take: R-22/1."
    ],
    "digitized": true,
-   "extract_timestamp": "2026-10-04T19:41:20.429Z",
+   "extract_timestamp": "2026-10-05T02:58:09.387Z",
    "group": [
     "nationaljukebox",
     "national-jukebox"
    ],
    "hassegments": false,
-   "id": "http://www.loc.gov/item/jukebox-32877/",
+   "id": "http://www.loc.gov/item/jukebox-257140/",
    "image_url": [
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18614_01_b22965_07:dlc_victor_18614_01_b22965_07/full/pct:12.5/0/default.jpg#h=229&w=227",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18614_01_b22965_07:dlc_victor_18614_01_b22965_07/full/pct:25/0/default.jpg#h=459&w=454",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18614_01_b22965_07:dlc_victor_18614_01_b22965_07/full/pct:50/0/default.jpg#h=918&w=909",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18614_01_b22965_07:dlc_victor_18614_01_b22965_07/full/pct:100/0/default.jpg#h=1836&w=1819"
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_62123_01_r22_01:jvm_victor_62123_01_r22_01/full/pct:12.5/0/default.jpg#h=316&w=314",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_62123_01_r22_01:jvm_victor_62123_01_r22_01/full/pct:25/0/default.jpg#h=633&w=629",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_62123_01_r22_01:jvm_victor_62123_01_r22_01/full/pct:50/0/default.jpg#h=1266&w=1258",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_62123_01_r22_01:jvm_victor_62123_01_r22_01/full/pct:100/0/default.jpg#h=2532&w=2516"
    ],
    "index": 5,
+   "language": [
+    "spanish"
+   ],
    "location": [
-    "united states",
-    "new york"
+    "mexico city",
+    "mexico"
    ],
    "mime_type": [
     "audio/mpeg",
     "audio/wav",
-    "image/tif",
     "image/jpeg"
    ],
    "online_format": [
@@ -642,75 +626,76 @@
    "original_format": [
     "sound recording"
    ],
-   "other_title": [
-    "Rubinstein's melody in F ; Old oaken bucket"
-   ],
    "partof": [
     "national jukebox",
-    "recorded sound section, library of congress",
-    "recorded sound research center"
+    "recorded sound research center",
+    "johnson victrola museum, delaware"
    ],
-   "score": 38.93157,
-   "shelf_id": "Victor 18614",
+   "score": 48.229454,
+   "shelf_id": "Victor 62123",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "instrumental",
-    "victor"
+    "ethnic music",
+    "vocal",
+    "victor",
+    "spanish (mexico)",
+    "popular music"
    ],
-   "timestamp": "2026-10-05T14:13:57.371Z",
-   "title": "Novelty one-step",
+   "timestamp": "2026-10-05T14:09:11.247Z",
+   "title": "Un recuerdo á mi madre",
    "type": [
     "sound recording-musical"
    ],
-   "url": "https://www.loc.gov/item/jukebox-32877/"
+   "url": "https://www.loc.gov/item/jukebox-257140/"
   },
   {
    "access_restricted": false,
    "aka": [
-    "http://www.loc.gov/jukebox/recordings/detail/id/7147",
-    "http://www.loc.gov/item/jukebox-32883/",
-    "http://www.loc.gov/resource/jukebox-32883.0/",
-    "http://www.loc.gov/resource/jukebox-32883.1/",
-    "http://www.loc.gov/resource/jukebox-32883.0",
-    "http://www.loc.gov/resource/jukebox-32883.1"
+    "http://www.loc.gov/item/jukebox-257147/",
+    "http://www.loc.gov/resource/jukebox-257147.0/",
+    "http://www.loc.gov/resource/jukebox-257147.1/",
+    "http://www.loc.gov/resource/jukebox-257147.0",
+    "http://www.loc.gov/resource/jukebox-257147.1"
    ],
    "campaigns": [],
    "contributor": [
-    "selvin, ben",
-    "kellette, john william",
-    "selvin's novelty orchestra"
+    "abrego, jesús",
+    "picazo, leopoldo"
    ],
-   "date": "1919-07-31",
+   "date": "1908-10-25",
    "dates": [
-    "1919-07-31"
+    "1908-10-25"
    ],
    "description": [
-    "Victor 18603. Matrix/Take: B-22966/7."
+    "Victor 62128. Matrix/Take: R-93/1."
    ],
    "digitized": true,
-   "extract_timestamp": "2026-10-04T19:41:20.429Z",
+   "extract_timestamp": "2026-10-05T02:58:09.387Z",
    "group": [
     "nationaljukebox",
     "national-jukebox"
    ],
    "hassegments": false,
-   "id": "http://www.loc.gov/item/jukebox-32883/",
+   "id": "http://www.loc.gov/item/jukebox-257147/",
    "image_url": [
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18603_01_b22966_07:dlc_victor_18603_01_b22966_07/full/pct:25/0/default.jpg#h=399&w=401",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18603_01_b22966_07:dlc_victor_18603_01_b22966_07/full/pct:50/0/default.jpg#h=798&w=803",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18603_01_b22966_07:dlc_victor_18603_01_b22966_07/full/pct:100/0/default.jpg#h=1597&w=1607"
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_62128_01_r93_01:jvm_victor_62128_01_r93_01/full/pct:12.5/0/default.jpg#h=279&w=278",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_62128_01_r93_01:jvm_victor_62128_01_r93_01/full/pct:25/0/default.jpg#h=559&w=557",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_62128_01_r93_01:jvm_victor_62128_01_r93_01/full/pct:50/0/default.jpg#h=1118&w=1115",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_62128_01_r93_01:jvm_victor_62128_01_r93_01/full/pct:100/0/default.jpg#h=2237&w=2231"
    ],
    "index": 6,
+   "language": [
+    "spanish"
+   ],
    "location": [
-    "united states",
-    "new york"
+    "mexico city",
+    "mexico"
    ],
    "mime_type": [
     "audio/mpeg",
     "audio/wav",
-    "image/tif",
     "image/jpeg"
    ],
    "online_format": [
@@ -720,30 +705,29 @@
    "original_format": [
     "sound recording"
    ],
-   "other_title": [
-    "Waltz"
-   ],
    "partof": [
     "national jukebox",
-    "recorded sound section, library of congress",
-    "recorded sound research center"
+    "recorded sound research center",
+    "johnson victrola museum, delaware"
    ],
-   "score": 38.93157,
-   "shelf_id": "Victor 18603",
+   "score": 48.229454,
+   "shelf_id": "Victor 62128",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "instrumental",
-    "popular music",
-    "victor"
+    "ethnic music",
+    "vocal",
+    "victor",
+    "spanish (mexico)",
+    "popular music"
    ],
-   "timestamp": "2026-10-05T14:13:57.371Z",
-   "title": "I'm forever blowing bubbles",
+   "timestamp": "2026-10-05T14:09:11.247Z",
+   "title": "La gorrita de un catrín",
    "type": [
     "sound recording-musical"
    ],
-   "url": "https://www.loc.gov/item/jukebox-32883/"
+   "url": "https://www.loc.gov/item/jukebox-257147/"
   }
  ],
  "notice": {
@@ -766,6 +750,8 @@
   "cache_tags": [
    "nationaljukebox",
    "national-jukebox",
+   "sgppanama/dlc",
+   "world-newspapers",
    "cph",
    "catalog-split-12",
    "catalog",
@@ -781,9 +767,7 @@
    "catalog-split-02",
    "main-catalog-split-02",
    "catalog-split-03",
-   "main-catalog-split-03",
-   "catalog-split-04",
-   "main-catalog-split-04"
+   "main-catalog-split-03"
   ],
   "callback": null,
   "clip": null,
@@ -799,7 +783,7 @@
   "display_level": null,
   "distance": null,
   "downloadOption": null,
-  "duration": 0.4784233570098877,
+  "duration": 0.4562802314758301,
   "embed": [],
   "embed!": [],
   "error_response_status": null,
@@ -826,7 +810,7 @@
   "format": "json",
   "host": "www.loc.gov",
   "ical": false,
-  "id": "jukebox-34232/",
+  "id": "jukebox-6171/",
   "iiif": false,
   "include_facets": [
    {
@@ -921,7 +905,7 @@
   "operator": null,
   "outputEncoding": "UTF-8",
   "page_campaigns": [],
-  "path_info": "/item/jukebox-34232/",
+  "path_info": "/item/jukebox-6171/",
   "port": "443",
   "proxypath": null,
   "query_string": "fo=json",
@@ -936,7 +920,7 @@
     "json"
    ]
   },
-  "request_url": "https://www.loc.gov/item/jukebox-34232/?fo=json",
+  "request_url": "https://www.loc.gov/item/jukebox-6171/?fo=json",
   "resource": "",
   "resource_sequence": null,
   "scheme": "https",
@@ -958,12 +942,100 @@
   "suggested": null,
   "target": null,
   "template": "layouts/item/layout",
-  "timestamp": 1791375093.2783413,
+  "timestamp": 1791375105.7206278,
   "tz_aware": null,
   "unionFacets": "",
   "webcast_permalink": null
  },
  "related_items": [
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/2019238211/1882-09-21/ed-1/",
+    "http://www.loc.gov/resource/2019238211/1882-09-21/ed-1/"
+   ],
+   "batch": [
+    "dlc_panamafilm4_ver02"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "library of congress, washington, dc"
+   ],
+   "date": "1882-09-21",
+   "dates": [
+    "1882-09-21"
+   ],
+   "description": [
+    "México"
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-02-02T13:13:06.488Z",
+   "group": [
+    "sgppanama/dlc",
+    "world-newspapers"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/2019238211/1882-09-21/ed-1/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_panamafilm4_ver02:data:2019238211:00517179644:1882092101:0019/full/pct:3.125/0/default.jpg#h=277&w=185",
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_panamafilm4_ver02:data:2019238211:00517179644:1882092101:0019/full/pct:6.25/0/default.jpg#h=555&w=371",
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_panamafilm4_ver02:data:2019238211:00517179644:1882092101:0019/full/pct:12.5/0/default.jpg#h=1110&w=743"
+   ],
+   "index": 1,
+   "language": [
+    "spanish"
+   ],
+   "location": [
+    "mexico city",
+    "mexico"
+   ],
+   "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg"
+   ],
+   "number": [
+    "2019238211",
+    "00517179644",
+    "1"
+   ],
+   "numeric_shelf_id": 188209211,
+   "online_format": [
+    "image",
+    "pdf",
+    "online text"
+   ],
+   "original_format": [
+    "newspaper"
+   ],
+   "partof": [
+    "el nacional : periódico de política, literatura, ciencias, artes, industria, agricultura, minería y comercio (méxico) 1880-???? [online resource]",
+    "world newspapers",
+    "serial and government publications division"
+   ],
+   "publication_frequency": [
+    "daily"
+   ],
+   "score": 18.339077,
+   "shelf_id": "2019238211, 1882-09-21, Edition 1",
+   "site": [
+    "chroniclingamerica"
+   ],
+   "subject": [
+    "politics and government",
+    "mexico city",
+    "mexico city (mexico)",
+    "newspapers",
+    "mexico"
+   ],
+   "timestamp": "2026-02-02T15:47:13.511Z",
+   "title": "El nacional : periódico de política, literatura, ciencias, artes, industria, agricultura, minería y comercio (México), September 21, 1882",
+   "type": [
+    "issue"
+   ],
+   "url": "https://www.loc.gov/item/2019238211/1882-09-21/ed-1/"
+  },
   {
    "access_restricted": false,
    "aka": [
@@ -1004,13 +1076,13 @@
     "https://tile.loc.gov/storage-services/service/pnp/ds/02300/02394r.jpg#h=214&w=640",
     "https://tile.loc.gov/storage-services/service/pnp/ds/02300/02394v.jpg#h=342&w=1024"
    ],
-   "index": 1,
+   "index": 2,
    "language": [
     "english"
    ],
    "location": [
-    "united states",
     "victor",
+    "united states",
     "iowa"
    ],
    "mime_type": [
@@ -1019,9 +1091,9 @@
     "image/tif"
    ],
    "number": [
+    "2013645043",
     "2013-04-03t08:58:59",
-    "http://www.loc.gov/item/17665053",
-    "2013645043"
+    "http://www.loc.gov/item/17665053"
    ],
    "online_format": [
     "image"
@@ -1030,29 +1102,29 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "prints and photographs division",
-    "lot 14058",
-    "catalog",
     "prints & photographs online catalog (library of congress)",
-    "miscellaneous items in high demand"
+    "prints and photographs division",
+    "miscellaneous items in high demand",
+    "lot 14058",
+    "catalog"
    ],
-   "score": 10.158625,
+   "score": 9.757024,
    "shelf_id": "LOT 14058, no. 123 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "united states",
-    "victor",
-    "school children",
-    "photographic prints",
-    "victor (iowa)",
     "schools",
+    "school children",
+    "victor (iowa)",
     "iowa",
+    "photographic postcards",
+    "victor",
     "group portraits",
     "panoramic postcards",
-    "photographic postcards"
+    "photographic prints",
+    "united states"
    ],
    "timestamp": "2022-05-02T06:13:36.448Z",
    "title": "[Victor High School, Victor, Iowa]",
@@ -1070,8 +1142,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "detroit publishing co.",
-    "jackson, william henry"
+    "jackson, william henry",
+    "detroit publishing co."
    ],
    "date": "1900-01-01",
    "dates": [
@@ -1098,13 +1170,13 @@
     "https://tile.loc.gov/storage-services/service/pnp/det/4a00000/4a09000/4a09100/4a09194r.jpg#h=511&w=640",
     "https://tile.loc.gov/storage-services/service/pnp/det/4a00000/4a09000/4a09100/4a09194v.jpg#h=817&w=1024"
    ],
-   "index": 2,
+   "index": 3,
    "language": [
     "english"
    ],
    "location": [
-    "united states",
     "victor",
+    "united states",
     "colorado"
    ],
    "mime_type": [
@@ -1113,11 +1185,11 @@
     "image/tif"
    ],
    "number": [
-    "2016808865",
-    "http://www.loc.gov/item/det1994014825/pp",
     "http://www.loc.gov/item/2016808865",
-    "http://www.loc.gov/item/20110612",
-    "2017-10-30t13:04:57"
+    "http://www.loc.gov/item/det1994014825/pp",
+    "2017-10-30t13:04:57",
+    "2016808865",
+    "http://www.loc.gov/item/20110612"
    ],
    "online_format": [
     "image"
@@ -1126,23 +1198,23 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "prints and photographs division",
-    "catalog",
-    "detroit publishing company",
+    "american memory",
     "prints & photographs online catalog (library of congress)",
-    "american memory"
+    "prints and photographs division",
+    "detroit publishing company",
+    "catalog"
    ],
-   "score": 10.158625,
+   "score": 9.757024,
    "shelf_id": "LC-D4-13841 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "united states",
+    "colorado",
     "victor",
     "cityscape photographs",
-    "colorado",
+    "united states",
     "gold mining",
     "dry plate negatives"
    ],
@@ -1188,14 +1260,14 @@
     "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03519r.jpg#h=422&w=640",
     "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03519v.jpg#h=675&w=1024"
    ],
-   "index": 3,
+   "index": 4,
    "language": [
     "english"
    ],
    "location": [
-    "montana",
+    "victor",
     "united states",
-    "victor"
+    "montana"
    ],
    "mime_type": [
     "image/gif",
@@ -1203,10 +1275,10 @@
     "image/tif"
    ],
    "number": [
-    "sheet",
-    "2024689882",
     "http://www.loc.gov/item/23570952",
-    "2024-02-21t08:57:11"
+    "2024-02-21t08:57:11",
+    "sheet",
+    "2024689882"
    ],
    "online_format": [
     "image"
@@ -1218,19 +1290,19 @@
     "prints and photographs division",
     "catalog"
    ],
-   "score": 10.158625,
+   "score": 9.757024,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 1 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "montana",
-    "united states",
-    "victor",
     "postcards",
+    "streets",
     "photographs",
-    "streets"
+    "montana",
+    "victor",
+    "united states"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "Main Street, Victor, Montana",
@@ -1277,14 +1349,14 @@
     "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03520r.jpg#h=419&w=640",
     "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03520v.jpg#h=670&w=1024"
    ],
-   "index": 4,
+   "index": 5,
    "language": [
     "english"
    ],
    "location": [
-    "montana",
+    "victor",
     "united states",
-    "victor"
+    "montana"
    ],
    "mime_type": [
     "image/gif",
@@ -1292,10 +1364,10 @@
     "image/tif"
    ],
    "number": [
+    "2024-02-21t08:57:12",
     "sheet",
-    "2024689883",
     "http://www.loc.gov/item/23570953",
-    "2024-02-21t08:57:12"
+    "2024689883"
    ],
    "online_format": [
     "image"
@@ -1307,18 +1379,18 @@
     "prints and photographs division",
     "catalog"
    ],
-   "score": 10.158625,
+   "score": 9.757024,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 2 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "montana",
-    "united states",
-    "victor",
     "postcards",
-    "photographs"
+    "photographs",
+    "montana",
+    "victor",
+    "united states"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "The snow-capped peak of St. Mory's, Victor, Montana",
@@ -1365,14 +1437,14 @@
     "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03521r.jpg#h=419&w=640",
     "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03521v.jpg#h=670&w=1024"
    ],
-   "index": 5,
+   "index": 6,
    "language": [
     "english"
    ],
    "location": [
-    "montana",
+    "victor",
     "united states",
-    "victor"
+    "montana"
    ],
    "mime_type": [
     "image/gif",
@@ -1380,10 +1452,10 @@
     "image/tif"
    ],
    "number": [
-    "sheet",
     "http://www.loc.gov/item/23570954",
+    "2024689884",
     "2024-02-21t08:57:12",
-    "2024689884"
+    "sheet"
    ],
    "online_format": [
     "image"
@@ -1395,19 +1467,19 @@
     "prints and photographs division",
     "catalog"
    ],
-   "score": 10.158625,
+   "score": 9.757024,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 3 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "montana",
-    "united states",
-    "victor",
+    "houses",
     "postcards",
     "photographs",
-    "houses"
+    "montana",
+    "victor",
+    "united states"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "A Bitter Root home, Victor, Montana",
@@ -1415,100 +1487,11 @@
     "still image"
    ],
    "url": "https://www.loc.gov/item/2024689884/"
-  },
-  {
-   "access_restricted": false,
-   "aka": [
-    "https://www.loc.gov/pictures/item/2024689885/",
-    "http://www.loc.gov/item/2024689885/",
-    "http://www.loc.gov/pictures/item/2024689885/",
-    "https://hdl.loc.gov/loc.pnp/pcrd.1d03522",
-    "https://hdl.loc.gov/loc.pnp/pcrd.1d03522",
-    "https://hdl.loc.gov/loc.pnp/pcrd.2d03522",
-    "https://hdl.loc.gov/loc.pnp/pcrd.2d03522",
-    "http://www.loc.gov/resource/pcrd.1d03522/",
-    "http://www.loc.gov/resource/pcrd.2d03522/",
-    "http://lccn.loc.gov/2024689885"
-   ],
-   "campaigns": [],
-   "date": "1910",
-   "dates": [
-    "1910"
-   ],
-   "description": [
-    "1 photograph : gelatin silver print ; sheet 9 x 14 cm (postcard format)"
-   ],
-   "digitized": true,
-   "extract_timestamp": "2024-03-02T14:28:03.271Z",
-   "group": [
-    "pp_other",
-    "catalog-split-04",
-    "catalog",
-    "prints-and-photographs-other",
-    "main-catalog-split-04"
-   ],
-   "hassegments": false,
-   "id": "http://www.loc.gov/item/2024689885/",
-   "image_url": [
-    "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03522_150px.jpg#h=99&w=150",
-    "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03522r.jpg#h=421&w=640",
-    "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03522v.jpg#h=673&w=1024"
-   ],
-   "index": 6,
-   "language": [
-    "english"
-   ],
-   "location": [
-    "montana",
-    "united states",
-    "victor"
-   ],
-   "mime_type": [
-    "image/gif",
-    "image/jpg",
-    "image/tif"
-   ],
-   "number": [
-    "sheet",
-    "http://www.loc.gov/item/23570955",
-    "2024-02-21t08:57:13",
-    "2024689885"
-   ],
-   "online_format": [
-    "image"
-   ],
-   "original_format": [
-    "photo, print, drawing"
-   ],
-   "partof": [
-    "prints and photographs division",
-    "catalog"
-   ],
-   "score": 10.158625,
-   "shelf_id": "PCRD 4 - Montana - Victor, no. 4 [P&P]",
-   "site": [
-    "pictures",
-    "catalog"
-   ],
-   "subject": [
-    "montana",
-    "united states",
-    "victor",
-    "postcards",
-    "photographs",
-    "schools"
-   ],
-   "timestamp": "2024-03-02T14:40:16.299Z",
-   "title": "School house, Victor, Mont.",
-   "type": [
-    "still image"
-   ],
-   "url": "https://www.loc.gov/item/2024689885/"
   }
  ],
  "resources": [
   {
-   "audio": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18633_01_b23344_03:dlc_victor_18633_01_b23344_03/full/full/0/full/default.mp3",
+   "audio": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_62024_01_4z_01:jvm_victor_62024_01_4z_01/full/full/0/full/default.mp3",
    "files": [
     [
      {
@@ -1517,77 +1500,69 @@
       "canDownload": true,
       "derivatives": [
        {
-        "derivativeUrl": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/dlc_victor_18633_01_b23344_03/dlc_victor_18633_01_b23344_03.mp3"
+        "derivativeUrl": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/jvm_victor_62024_01_4z_01/jvm_victor_62024_01_4z_01.mp3"
        }
       ],
-      "detailUrl": "https://www.loc.gov/item/jukebox-34232",
-      "download": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18633_01_b23344_03:dlc_victor_18633_01_b23344_03/full/full/0/full/default.mp3",
-      "duration": 196.0,
-      "filename": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/dlc_victor_18633_01_b23344_03/dlc_victor_18633_01_b23344_03.mp3",
+      "detailUrl": "https://www.loc.gov/item/jukebox-6171",
+      "download": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_62024_01_4z_01:jvm_victor_62024_01_4z_01/full/full/0/full/default.mp3",
+      "duration": 161.0,
+      "filename": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/jvm_victor_62024_01_4z_01/jvm_victor_62024_01_4z_01.mp3",
       "mediaType": "A",
       "metadata": [
-       "Dardanella",
-       "Jazz/dance band"
+       "El jarabe tapatío",
+       "Male vocal duet, with guitar"
       ],
       "mimetype": "audio/mpeg",
       "poster": null,
       "rights_restricted": true,
-      "shortName": "Dardanella",
-      "thumbnail_url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18633_01_b23344_03:dlc_victor_18633_01_b23344_03/full/pct:12.5/0/default.jpg"
+      "shortName": "El jarabe tapatío",
+      "thumbnail_url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_62024_01_4z_01:jvm_victor_62024_01_4z_01/full/pct:12.5/0/default.jpg"
      },
      {
       "height": null,
       "levels": 1,
       "mimetype": "audio/wav",
-      "size": 34620420,
-      "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/dlc_victor_18633_01_b23344_03/dlc_victor_18633_01_b23344_03.wav",
+      "size": 28435204,
+      "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/jvm_victor_62024_01_4z_01/jvm_victor_62024_01_4z_01.wav",
       "width": null
      }
     ]
    ],
-   "url": "https://www.loc.gov/resource/jukebox-34232.0"
+   "url": "https://www.loc.gov/resource/jukebox-6171.0"
   },
   {
    "files": [
     [
      {
-      "height": 208,
+      "height": 325,
       "mimetype": "image/jpeg",
-      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18633_01_b23344_03:dlc_victor_18633_01_b23344_03/full/pct:12.5/0/default.jpg",
-      "width": 210
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_62024_01_4z_01:jvm_victor_62024_01_4z_01/full/pct:12.5/0/default.jpg",
+      "width": 321
      },
      {
-      "height": 417,
+      "height": 650,
       "mimetype": "image/jpeg",
-      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18633_01_b23344_03:dlc_victor_18633_01_b23344_03/full/pct:25/0/default.jpg",
-      "width": 420
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_62024_01_4z_01:jvm_victor_62024_01_4z_01/full/pct:25/0/default.jpg",
+      "width": 642
      },
      {
-      "height": 834,
+      "height": 1300,
       "mimetype": "image/jpeg",
-      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18633_01_b23344_03:dlc_victor_18633_01_b23344_03/full/pct:50/0/default.jpg",
-      "width": 840
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_62024_01_4z_01:jvm_victor_62024_01_4z_01/full/pct:50/0/default.jpg",
+      "width": 1285
      },
      {
-      "height": 1669,
+      "height": 2601,
       "mimetype": "image/jpeg",
-      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18633_01_b23344_03:dlc_victor_18633_01_b23344_03/full/pct:100/0/default.jpg",
-      "width": 1681
-     },
-     {
-      "height": null,
-      "levels": 1,
-      "mimetype": "image/tiff",
-      "size": 8445108,
-      "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/dlc_victor_18633_01_b23344_03/dlc_victor_18633_01_b23344_03.tif",
-      "width": null
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_62024_01_4z_01:jvm_victor_62024_01_4z_01/full/pct:100/0/default.jpg",
+      "width": 2571
      }
     ]
    ],
-   "image": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18633_01_b23344_03:dlc_victor_18633_01_b23344_03/full/pct:100/0/default.jpg",
+   "image": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_62024_01_4z_01:jvm_victor_62024_01_4z_01/full/pct:100/0/default.jpg",
    "mimetype": "image/jpeg",
-   "url": "https://www.loc.gov/resource/jukebox-34232.1"
+   "url": "https://www.loc.gov/resource/jukebox-6171.1"
   }
  ],
- "timestamp": 1791375093757
+ "timestamp": 1791375106177
 }

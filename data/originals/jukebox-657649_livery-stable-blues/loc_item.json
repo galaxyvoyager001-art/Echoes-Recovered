@@ -134,8 +134,8 @@
    "summary": "Jazz/dance band"
   },
   "location": [
-   "new york",
-   "united states"
+   "united states",
+   "new york"
   ],
   "locations": [
    {
@@ -208,7 +208,7 @@
    "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
   ],
   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
-  "score": 15.45389,
+  "score": 15.455263,
   "shard": "01",
   "shelf_id": "Columbia A2419",
   "site": [
@@ -216,9 +216,9 @@
   ],
   "source_modified": "2000-01-01T12:00:00Z",
   "subject": [
-   "columbia",
    "instrumental",
    "popular music",
+   "columbia",
    "blues"
   ],
   "subject_category": [
@@ -284,8 +284,8 @@
    "campaigns": [],
    "contributor": [
     "handy's orchestra",
-    "overstreet, w. benton",
-    "handy, w. c."
+    "handy, w. c.",
+    "overstreet, w. benton"
    ],
    "date": "1917-09-21",
    "dates": [
@@ -310,8 +310,8 @@
    ],
    "index": 1,
    "location": [
-    "new york",
-    "united states"
+    "united states",
+    "new york"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -331,19 +331,19 @@
     "Dance music : One-step"
    ],
    "partof": [
-    "department of special collections, davidson library, university of california, santa barbara",
+    "national jukebox",
     "recorded sound research center",
-    "national jukebox"
+    "department of special collections, davidson library, university of california, santa barbara"
    ],
-   "score": 43.9744,
+   "score": 43.97749,
    "shelf_id": "Columbia A2419",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "columbia",
     "instrumental",
-    "popular music"
+    "popular music",
+    "columbia"
    ],
    "timestamp": "2026-10-05T14:33:31.428Z",
    "title": "That 'jazz' dance",
@@ -363,10 +363,10 @@
    ],
    "campaigns": [],
    "contributor": [
-    "wyer, j. paul",
     "handy's orchestra",
-    "kelley, h. alf",
-    "handy, w. c."
+    "wyer, j. paul",
+    "handy, w. c.",
+    "kelley, h. alf"
    ],
    "date": "1917-09-24",
    "dates": [
@@ -391,8 +391,8 @@
    ],
    "index": 2,
    "location": [
-    "new york",
-    "united states"
+    "united states",
+    "new york"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -411,19 +411,19 @@
     "Dance music : Fox trot"
    ],
    "partof": [
-    "department of special collections, davidson library, university of california, santa barbara",
+    "national jukebox",
     "recorded sound research center",
-    "national jukebox"
+    "department of special collections, davidson library, university of california, santa barbara"
    ],
-   "score": 43.9744,
+   "score": 43.97749,
    "shelf_id": "Columbia A2418",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "columbia",
     "instrumental",
-    "popular music"
+    "popular music",
+    "columbia"
    ],
    "timestamp": "2026-10-05T14:54:37.910Z",
    "title": "A bunch of blues",
@@ -443,8 +443,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "handy's orchestra",
-    "handy, w. c."
+    "handy, w. c.",
+    "handy's orchestra"
    ],
    "date": "1917-09-21",
    "dates": [
@@ -469,8 +469,8 @@
    ],
    "index": 3,
    "location": [
-    "new york",
-    "united states"
+    "united states",
+    "new york"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -489,18 +489,18 @@
     "Dance music : Fox trot"
    ],
    "partof": [
-    "department of special collections, davidson library, university of california, santa barbara",
+    "national jukebox",
     "recorded sound research center",
-    "national jukebox"
+    "department of special collections, davidson library, university of california, santa barbara"
    ],
-   "score": 39.20588,
+   "score": 39.208572,
    "shelf_id": "Columbia A2420",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "columbia",
-    "instrumental"
+    "instrumental",
+    "columbia"
    ],
    "timestamp": "2026-10-05T14:33:31.428Z",
    "title": "Ole Miss rag",
@@ -547,8 +547,8 @@
    ],
    "index": 4,
    "location": [
-    "new york",
-    "united states"
+    "united states",
+    "new york"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -567,18 +567,18 @@
     "Dance music : Fox trot"
    ],
    "partof": [
-    "department of special collections, davidson library, university of california, santa barbara",
+    "national jukebox",
     "recorded sound research center",
-    "national jukebox"
+    "department of special collections, davidson library, university of california, santa barbara"
    ],
-   "score": 39.20588,
+   "score": 39.208572,
    "shelf_id": "Columbia A2420",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "columbia",
-    "instrumental"
+    "instrumental",
+    "columbia"
    ],
    "timestamp": "2026-10-05T14:33:31.428Z",
    "title": "The hooking cow blues",
@@ -598,9 +598,9 @@
    ],
    "campaigns": [],
    "contributor": [
-    "handy's orchestra",
     "deane, homer",
-    "handy, w. c."
+    "handy, w. c.",
+    "handy's orchestra"
    ],
    "date": "1917-09-22",
    "dates": [
@@ -625,8 +625,8 @@
    ],
    "index": 5,
    "location": [
-    "new york",
-    "united states"
+    "united states",
+    "new york"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -645,18 +645,18 @@
     "Dance music : Waltz"
    ],
    "partof": [
-    "department of special collections, davidson library, university of california, santa barbara",
+    "national jukebox",
     "recorded sound research center",
-    "national jukebox"
+    "department of special collections, davidson library, university of california, santa barbara"
    ],
-   "score": 39.20588,
+   "score": 39.208572,
    "shelf_id": "Columbia A2418",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "columbia",
-    "instrumental"
+    "instrumental",
+    "columbia"
    ],
    "timestamp": "2026-10-05T14:54:37.910Z",
    "title": "Moonlight blues",
@@ -703,8 +703,8 @@
    ],
    "index": 6,
    "location": [
-    "new york",
-    "united states"
+    "united states",
+    "new york"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -723,19 +723,19 @@
     "Fox trot"
    ],
    "partof": [
-    "department of special collections, davidson library, university of california, santa barbara",
+    "national jukebox",
     "recorded sound research center",
-    "national jukebox"
+    "department of special collections, davidson library, university of california, santa barbara"
    ],
-   "score": 36.062206,
+   "score": 36.06655,
    "shelf_id": "Columbia A3729",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "columbia",
     "instrumental",
     "popular music",
+    "columbia",
     "blues"
    ],
    "timestamp": "2026-10-05T14:54:19.754Z",
@@ -796,7 +796,7 @@
   "display_level": null,
   "distance": null,
   "downloadOption": null,
-  "duration": 11.2364182472229,
+  "duration": 0.6856997013092041,
   "embed": [],
   "embed!": [],
   "error_response_status": null,
@@ -955,7 +955,7 @@
   "suggested": null,
   "target": null,
   "template": "layouts/item/layout",
-  "timestamp": 1791308797.6830435,
+  "timestamp": 1791373010.3550782,
   "tz_aware": null,
   "unionFacets": "",
   "webcast_permalink": null
@@ -1005,20 +1005,20 @@
     "english"
    ],
    "location": [
-    "manhattan",
-    "new york (state)",
+    "united states",
     "new york",
-    "united states"
+    "new york (state)",
+    "manhattan"
    ],
    "mime_type": [
     "image/gif",
     "image/jpg"
    ],
    "number": [
-    "http://www.loc.gov/item/23877672",
-    "online resource",
     "2024-09-26t15:11:59",
-    "2024641149"
+    "2024641149",
+    "online resource",
+    "http://www.loc.gov/item/23877672"
    ],
    "online_format": [
     "image"
@@ -1030,21 +1030,21 @@
     "prints and photographs division",
     "catalog"
    ],
-   "score": 9.740556,
+   "score": 9.740623,
    "shelf_id": "LC-DIG-vrg- 21926 (ONLINE)",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "new york (state)",
-    "digital photographs",
-    "new york",
     "united states",
+    "digital photographs",
+    "new york (state)",
     "families",
     "columbia",
-    "manhattan",
-    "security"
+    "security",
+    "new york",
+    "manhattan"
    ],
    "timestamp": "2024-10-05T12:53:00.697Z",
    "title": "Columbia University, Family Orientation. Broadway and W. 116th St., Manhattan",
@@ -1097,20 +1097,20 @@
     "english"
    ],
    "location": [
-    "manhattan",
-    "new york (state)",
+    "united states",
     "new york",
-    "united states"
+    "new york (state)",
+    "manhattan"
    ],
    "mime_type": [
     "image/gif",
     "image/jpg"
    ],
    "number": [
-    "online resource",
-    "2020638225",
     "http://www.loc.gov/item/21788674",
-    "2022-01-14t12:55:47"
+    "2022-01-14t12:55:47",
+    "online resource",
+    "2020638225"
    ],
    "online_format": [
     "image"
@@ -1119,31 +1119,31 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "prints & photographs online catalog (library of congress)",
     "prints and photographs division",
-    "catalog"
+    "catalog",
+    "prints & photographs online catalog (library of congress)"
    ],
-   "score": 9.740556,
+   "score": 9.740623,
    "shelf_id": "LC-DIG-vrg- 14518 (ONLINE) [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "new york (state)",
-    "covid-19 pandemic",
-    "digital photographs",
-    "new york",
-    "united states",
     "crossroads",
+    "united states",
+    "digital photographs",
+    "new york (state)",
+    "lines",
     "corona virus",
     "columbia",
-    "manhattan",
-    "presidential elections",
     "subway",
-    "time lapse: covid-19",
+    "covid-19 pandemic",
+    "presidential elections",
     "voting",
-    "lines"
+    "new york",
+    "time lapse: covid-19",
+    "manhattan"
    ],
    "timestamp": "2023-08-17T17:18:30.102Z",
    "title": "Early voters, 168th St. at St. Nicholas Ave., Manhattan",
@@ -1192,20 +1192,20 @@
     "english"
    ],
    "location": [
-    "manhattan",
-    "new york (state)",
+    "united states",
     "new york",
-    "united states"
+    "new york (state)",
+    "manhattan"
    ],
    "mime_type": [
     "image/gif",
     "image/jpg"
    ],
    "number": [
-    "online resource",
-    "2024-08-06t09:38:42",
+    "http://www.loc.gov/item/23812374",
     "2024706173",
-    "http://www.loc.gov/item/23812374"
+    "2024-08-06t09:38:42",
+    "online resource"
    ],
    "online_format": [
     "image"
@@ -1217,20 +1217,20 @@
     "prints and photographs division",
     "catalog"
    ],
-   "score": 9.740556,
+   "score": 9.740623,
    "shelf_id": "LC-DIG-vrg- 21281 (ONLINE)",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "palestine",
-    "new york (state)",
+    "united states",
     "digital photographs",
+    "new york (state)",
+    "columbia",
     "gaza",
     "new york",
-    "united states",
-    "columbia",
+    "palestine",
     "manhattan"
    ],
    "timestamp": "2024-08-17T12:48:02.678Z",
@@ -1280,20 +1280,20 @@
     "english"
    ],
    "location": [
-    "manhattan",
-    "new york (state)",
+    "united states",
     "new york",
-    "united states"
+    "new york (state)",
+    "manhattan"
    ],
    "mime_type": [
     "image/gif",
     "image/jpg"
    ],
    "number": [
-    "online resource",
-    "2024-08-06t09:38:42",
     "http://www.loc.gov/item/23812376",
-    "2024706175"
+    "2024-08-06t09:38:42",
+    "2024706175",
+    "online resource"
    ],
    "online_format": [
     "image"
@@ -1305,20 +1305,20 @@
     "prints and photographs division",
     "catalog"
    ],
-   "score": 9.740556,
+   "score": 9.740623,
    "shelf_id": "LC-DIG-vrg- 21283 (ONLINE)",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "palestine",
-    "new york (state)",
+    "united states",
     "digital photographs",
+    "new york (state)",
+    "columbia",
     "gaza",
     "new york",
-    "united states",
-    "columbia",
+    "palestine",
     "manhattan"
    ],
    "timestamp": "2024-08-17T12:48:02.678Z",
@@ -1368,10 +1368,10 @@
     "english"
    ],
    "location": [
-    "manhattan",
-    "new york (state)",
+    "united states",
     "new york",
-    "united states"
+    "new york (state)",
+    "manhattan"
    ],
    "mime_type": [
     "image/gif",
@@ -1379,8 +1379,8 @@
    ],
    "number": [
     "2024706177",
-    "online resource",
     "http://www.loc.gov/item/23812378",
+    "online resource",
     "2024-08-06t09:38:43"
    ],
    "online_format": [
@@ -1393,20 +1393,20 @@
     "prints and photographs division",
     "catalog"
    ],
-   "score": 9.740556,
+   "score": 9.740623,
    "shelf_id": "LC-DIG-vrg- 21285 (ONLINE)",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "palestine",
-    "new york (state)",
+    "united states",
     "digital photographs",
+    "new york (state)",
+    "columbia",
     "gaza",
     "new york",
-    "united states",
-    "columbia",
+    "palestine",
     "manhattan"
    ],
    "timestamp": "2024-08-17T12:48:02.678Z",
@@ -1456,10 +1456,10 @@
     "english"
    ],
    "location": [
-    "manhattan",
-    "new york (state)",
+    "united states",
     "new york",
-    "united states"
+    "new york (state)",
+    "manhattan"
    ],
    "mime_type": [
     "image/gif",
@@ -1467,8 +1467,8 @@
    ],
    "number": [
     "2024706179",
-    "online resource",
     "http://www.loc.gov/item/23812380",
+    "online resource",
     "2024-08-06t09:38:43"
    ],
    "online_format": [
@@ -1481,20 +1481,20 @@
     "prints and photographs division",
     "catalog"
    ],
-   "score": 9.740556,
+   "score": 9.740623,
    "shelf_id": "LC-DIG-vrg- 21287 (ONLINE)",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "palestine",
-    "new york (state)",
+    "united states",
     "digital photographs",
+    "new york (state)",
+    "columbia",
     "gaza",
     "new york",
-    "united states",
-    "columbia",
+    "palestine",
     "manhattan"
    ],
    "timestamp": "2024-08-17T12:48:02.678Z",
@@ -1588,5 +1588,5 @@
    "url": "https://www.loc.gov/resource/jukebox-657649.1"
   }
  ],
- "timestamp": 1791308808919
+ "timestamp": 1791373011041
 }

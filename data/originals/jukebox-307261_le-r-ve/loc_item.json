@@ -1,0 +1,1590 @@
+{
+ "articles_and_essays": null,
+ "cite_this": {
+  "apa": "Massenet, J., Darby, W. S. &amp; Beyle, L. (1908) <cite>Le Rêve</cite>. [Audio] Retrieved from the Library of Congress, https://www.loc.gov/item/jukebox-307261/.",
+  "chicago": "Massenet, Jules, William Sinkler Darby, and Léon Beyle. <cite>Le Rêve</cite>. 1908. Audio. https://www.loc.gov/item/jukebox-307261/.",
+  "mla": "Massenet, Jules, William Sinkler Darby, and Léon Beyle. <cite>Le Rêve</cite>. 1908. Audio. Retrieved from the Library of Congress, &lt;www.loc.gov/item/jukebox-307261/&gt;."
+ },
+ "item": {
+  "_version_": 1878219365903499264,
+  "access_restricted": false,
+  "aka": [
+   "http://www.loc.gov/jukebox/recordings/detail/id/6912",
+   "http://www.loc.gov/item/jukebox-307261/",
+   "http://www.loc.gov/resource/jukebox-307261.0/",
+   "http://www.loc.gov/resource/jukebox-307261.1/",
+   "http://www.loc.gov/resource/jukebox-307261.0",
+   "http://www.loc.gov/resource/jukebox-307261.1"
+  ],
+  "audio_type": "Vocal",
+  "campaigns": [],
+  "contributor_composer": [
+   "massenet, jules"
+  ],
+  "contributor_names": [
+   "Massenet, Jules -- Composer -- Composer",
+   "Darby, William Sinkler -- Recordist -- Recordist",
+   "Beyle, Léon -- Vocalist -- Tenor Vocal"
+  ],
+  "contributor_primary": [
+   "beyle, léon"
+  ],
+  "contributor_vocalist": [
+   "beyle, léon"
+  ],
+  "contributors": [
+   {
+    "beyle, léon": "https://www.loc.gov/search/?fa=contributor:beyle,+l%C3%A9on&fo=json"
+   },
+   {
+    "darby, william sinkler": "https://www.loc.gov/search/?fa=contributor:darby,+william+sinkler&fo=json"
+   },
+   {
+    "massenet, jules": "https://www.loc.gov/search/?fa=contributor:massenet,+jules&fo=json"
+   }
+  ],
+  "contributors_composer": [
+   {
+    "massenet, jules": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_composer:massenet,+jules&fo=json"
+   }
+  ],
+  "contributors_primary": [
+   {
+    "beyle, léon": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_primary:beyle,+l%C3%A9on&fo=json"
+   }
+  ],
+  "contributors_vocalist": [
+   {
+    "beyle, léon": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_vocalist:beyle,+l%C3%A9on&fo=json"
+   }
+  ],
+  "date": "1908-12-31",
+  "dates": [
+   {
+    "1908-12-31": "https://www.loc.gov/search/?dates=1908-12-31/1908-12-31&fo=json"
+   }
+  ],
+  "description": [
+   "Victor 45008. Matrix/Take: 5628h/[1]."
+  ],
+  "digitized": true,
+  "display_offsite": true,
+  "extract_timestamp": "2026-10-05T03:19:37.497Z",
+  "extract_urls": [
+   "http://www.loc.gov/item/jukebox-307261#nationaljukebox"
+  ],
+  "file_id": [
+   "dlc_victor_45008_01_5628h_01"
+  ],
+  "format": [
+   {
+    "sound recording": "https://www.loc.gov/search/?fa=original_format:sound+recording&fo=json"
+   }
+  ],
+  "genre": [
+   "Opera"
+  ],
+  "group": [
+   "nationaljukebox",
+   "national-jukebox"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/item/jukebox-307261/",
+  "iiif_manifest_url": "https://www.loc.gov/item/jukebox-307261/manifest.json",
+  "image_url": [
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_45008_01_5628h_01:dlc_victor_45008_01_5628h_01/full/pct:12.5/0/default.jpg#h=267&w=264",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_45008_01_5628h_01:dlc_victor_45008_01_5628h_01/full/pct:25/0/default.jpg#h=535&w=528",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_45008_01_5628h_01:dlc_victor_45008_01_5628h_01/full/pct:50/0/default.jpg#h=1070&w=1057",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_45008_01_5628h_01:dlc_victor_45008_01_5628h_01/full/pct:100/0/default.jpg#h=2140&w=2114"
+  ],
+  "index": 1,
+  "item": {
+   "audio_type": "Vocal",
+   "contributors": [
+    "Massenet, Jules -- Composer -- Composer",
+    "Darby, William Sinkler -- Recordist -- Recordist",
+    "Beyle, Léon -- Vocalist -- Tenor Vocal"
+   ],
+   "file_id": [
+    "dlc_victor_45008_01_5628h_01"
+   ],
+   "genre": [
+    "Opera"
+   ],
+   "language": "French",
+   "media_size": "10-in.",
+   "profile": "jukebox",
+   "recording_catalog_number": "45008",
+   "recording_date": "1908-12-31",
+   "recording_label": "Victor",
+   "recording_matrix_number": "5628h (Matrix ID)",
+   "recording_repository": "Source of original recording: Recorded Sound Section, Library of Congress.",
+   "recording_take_id": 307261,
+   "recording_take_number": "[1]",
+   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+   "summary": "Tenor vocal solo, with orchestra"
+  },
+  "language": [
+   "french"
+  ],
+  "languages": [
+   {
+    "french": "https://www.loc.gov/search/?fa=language:french&fo=json"
+   }
+  ],
+  "location": [
+   "france",
+   "paris"
+  ],
+  "locations": [
+   {
+    "france": "https://www.loc.gov/search/?fa=location:france&fo=json"
+   },
+   {
+    "paris": "https://www.loc.gov/search/?fa=location:paris&fo=json"
+   }
+  ],
+  "media_size": "10-in.",
+  "mime_type": [
+   "audio/mpeg",
+   "audio/wav",
+   "image/tif",
+   "image/jpeg"
+  ],
+  "online_format": [
+   "audio",
+   "image"
+  ],
+  "original_format": [
+   "sound recording"
+  ],
+  "other_formats": [],
+  "other_title": [
+   "Manon",
+   "Manon. En fermant les yeux je vois"
+  ],
+  "partof": [
+   {
+    "count": 6124,
+    "title": "recorded sound section, library of congress",
+    "url": "https://www.loc.gov/search/?fa=partof:recorded+sound+section,+library+of+congress&fo=json"
+   },
+   {
+    "count": 20273,
+    "title": "national jukebox",
+    "url": "https://www.loc.gov/collections/national-jukebox/?fo=json"
+   },
+   {
+    "count": 20496,
+    "title": "recorded sound research center",
+    "url": "https://www.loc.gov/search/?fa=partof:recorded+sound+research+center&fo=json"
+   }
+  ],
+  "partof_repository": [
+   "recorded sound section, library of congress"
+  ],
+  "profile": "jukebox",
+  "recording_catalog_number": "45008",
+  "recording_date": "1908-12-31",
+  "recording_label": "Victor",
+  "recording_matrix_number": "5628h (Matrix ID)",
+  "recording_repository": "Source of original recording: Recorded Sound Section, Library of Congress.",
+  "recording_take_id": 307261,
+  "recording_take_number": "[1]",
+  "resources": [
+   {
+    "files": 1,
+    "media": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_45008_01_5628h_01:dlc_victor_45008_01_5628h_01/full/full/0/full/default.mp3",
+    "url": "https://www.loc.gov/resource/jukebox-307261.0"
+   },
+   {
+    "files": 1,
+    "image": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_45008_01_5628h_01:dlc_victor_45008_01_5628h_01/full/pct:100/0/default.jpg",
+    "mimetype": "image/jpeg",
+    "url": "https://www.loc.gov/resource/jukebox-307261.1"
+   }
+  ],
+  "rights": [
+   "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
+  ],
+  "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+  "score": 15.333351,
+  "shard": "01",
+  "shelf_id": "Victor 45008",
+  "site": [
+   "nationaljukebox"
+  ],
+  "source_modified": "2000-01-01T12:00:00Z",
+  "subject": [
+   "vocal",
+   "victor",
+   "opera"
+  ],
+  "subject_category": [
+   "vocal"
+  ],
+  "subject_genre": [
+   "opera"
+  ],
+  "subject_label": [
+   "victor"
+  ],
+  "subjects": [
+   {
+    "opera": "https://www.loc.gov/search/?fa=subject:opera&fo=json"
+   },
+   {
+    "victor": "https://www.loc.gov/search/?fa=subject:victor&fo=json"
+   },
+   {
+    "vocal": "https://www.loc.gov/search/?fa=subject:vocal&fo=json"
+   }
+  ],
+  "subjects_category": [
+   {
+    "vocal": "https://www.loc.gov/collections/national-jukebox/?fa=subject_category:vocal&fo=json"
+   }
+  ],
+  "subjects_genre": [
+   {
+    "opera": "https://www.loc.gov/collections/national-jukebox/?fa=subject_genre:opera&fo=json"
+   }
+  ],
+  "subjects_label": [
+   {
+    "victor": "https://www.loc.gov/collections/national-jukebox/?fa=subject_label:victor&fo=json"
+   }
+  ],
+  "summary": "Tenor vocal solo, with orchestra",
+  "timestamp": "2026-10-05T14:12:49.807Z",
+  "title": "Le rêve",
+  "type": [
+   "sound recording-musical"
+  ],
+  "url": "https://www.loc.gov/item/jukebox-307261/"
+ },
+ "more_like_this": [
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/6911",
+    "http://www.loc.gov/item/jukebox-307259/",
+    "http://www.loc.gov/resource/jukebox-307259.0/",
+    "http://www.loc.gov/resource/jukebox-307259.1/",
+    "http://www.loc.gov/resource/jukebox-307259.0",
+    "http://www.loc.gov/resource/jukebox-307259.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "darby, william sinkler",
+    "beyle, léon",
+    "massenet, jules",
+    "vallandri, aline"
+   ],
+   "date": "1908-12-31",
+   "dates": [
+    "1908-12-31"
+   ],
+   "description": [
+    "Victor 45008. Matrix/Take: 5716h/[1]."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T03:19:37.497Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-307259/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_45008_01_5716h_01:dlc_victor_45008_01_5716h_01/full/pct:12.5/0/default.jpg#h=243&w=241",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_45008_01_5716h_01:dlc_victor_45008_01_5716h_01/full/pct:25/0/default.jpg#h=487&w=483",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_45008_01_5716h_01:dlc_victor_45008_01_5716h_01/full/pct:50/0/default.jpg#h=975&w=967",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_45008_01_5716h_01:dlc_victor_45008_01_5716h_01/full/pct:100/0/default.jpg#h=1950&w=1935"
+   ],
+   "index": 1,
+   "language": [
+    "french"
+   ],
+   "location": [
+    "france",
+    "paris"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Manon",
+    "Manon. Adieu, notre petite table"
+   ],
+   "partof": [
+    "national jukebox",
+    "recorded sound section, library of congress",
+    "recorded sound research center"
+   ],
+   "score": 54.52057,
+   "shelf_id": "Victor 45008",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "vocal",
+    "victor",
+    "opera"
+   ],
+   "timestamp": "2026-10-05T14:12:49.807Z",
+   "title": "Adieu, notre petite table",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-307259/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/6913",
+    "http://www.loc.gov/item/jukebox-307263/",
+    "http://www.loc.gov/resource/jukebox-307263.0/",
+    "http://www.loc.gov/resource/jukebox-307263.1/",
+    "http://www.loc.gov/resource/jukebox-307263.0",
+    "http://www.loc.gov/resource/jukebox-307263.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "beyle, léon",
+    "massenet, jules",
+    "korsoff, lucette",
+    "darby, william sinkler"
+   ],
+   "date": "1908-12-31",
+   "dates": [
+    "1908-12-31"
+   ],
+   "description": [
+    "Victor 45009. Matrix/Take: 5750h/[1]."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T03:19:37.497Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-307263/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_45009_01_5750h_01:dlc_victor_45009_01_5750h_01/full/pct:12.5/0/default.jpg#h=296&w=294",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_45009_01_5750h_01:dlc_victor_45009_01_5750h_01/full/pct:25/0/default.jpg#h=593&w=588",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_45009_01_5750h_01:dlc_victor_45009_01_5750h_01/full/pct:50/0/default.jpg#h=1187&w=1177",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_45009_01_5750h_01:dlc_victor_45009_01_5750h_01/full/pct:100/0/default.jpg#h=2374&w=2354"
+   ],
+   "index": 2,
+   "language": [
+    "french"
+   ],
+   "location": [
+    "france",
+    "paris"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Manon",
+    "Manon. J'ai marque l'heure du depart"
+   ],
+   "partof": [
+    "national jukebox",
+    "recorded sound section, library of congress",
+    "recorded sound research center"
+   ],
+   "score": 54.52057,
+   "shelf_id": "Victor 45009",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "vocal",
+    "victor",
+    "opera"
+   ],
+   "timestamp": "2026-10-05T14:12:49.807Z",
+   "title": "Nous vivrons à Paris",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-307263/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/6921",
+    "http://www.loc.gov/item/jukebox-307341/",
+    "http://www.loc.gov/resource/jukebox-307341.0/",
+    "http://www.loc.gov/resource/jukebox-307341.1/",
+    "http://www.loc.gov/resource/jukebox-307341.0",
+    "http://www.loc.gov/resource/jukebox-307341.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "darby, william sinkler",
+    "beyle, léon",
+    "massenet, jules",
+    "korsoff, lucette"
+   ],
+   "date": "1908-12-31",
+   "dates": [
+    "1908-12-31"
+   ],
+   "description": [
+    "Victor 16551. Matrix/Take: 5735h/[1]."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T03:19:37.497Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-307341/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_16551_01_5735h_01:dlc_victor_16551_01_5735h_01/full/pct:12.5/0/default.jpg#h=302&w=304",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_16551_01_5735h_01:dlc_victor_16551_01_5735h_01/full/pct:25/0/default.jpg#h=605&w=609",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_16551_01_5735h_01:dlc_victor_16551_01_5735h_01/full/pct:50/0/default.jpg#h=1211&w=1219",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_16551_01_5735h_01:dlc_victor_16551_01_5735h_01/full/pct:100/0/default.jpg#h=2422&w=2438"
+   ],
+   "index": 3,
+   "language": [
+    "french"
+   ],
+   "location": [
+    "france",
+    "paris"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Manon",
+    "Manon. J'ai marque l'heure du depart"
+   ],
+   "partof": [
+    "national jukebox",
+    "recorded sound section, library of congress",
+    "recorded sound research center"
+   ],
+   "score": 54.52057,
+   "shelf_id": "Victor 16551",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "vocal",
+    "victor",
+    "opera"
+   ],
+   "timestamp": "2026-10-05T14:12:49.807Z",
+   "title": "Et je sais votre nom",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-307341/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/6724",
+    "http://www.loc.gov/item/jukebox-298170/",
+    "http://www.loc.gov/resource/jukebox-298170.0/",
+    "http://www.loc.gov/resource/jukebox-298170.1/",
+    "http://www.loc.gov/resource/jukebox-298170.0",
+    "http://www.loc.gov/resource/jukebox-298170.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "darby, william sinkler",
+    "beyle, léon",
+    "bizet, georges",
+    "dufranne, hector"
+   ],
+   "date": "1908-12-31",
+   "dates": [
+    "1908-12-31"
+   ],
+   "description": [
+    "Victor 62750. Matrix/Take: 5828h/[1]."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T03:11:50.889Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-298170/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_62750_01_5828h_01:dlc_victor_62750_01_5828h_01/full/pct:12.5/0/default.jpg#h=297&w=298",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_62750_01_5828h_01:dlc_victor_62750_01_5828h_01/full/pct:25/0/default.jpg#h=595&w=596",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_62750_01_5828h_01:dlc_victor_62750_01_5828h_01/full/pct:50/0/default.jpg#h=1190&w=1192",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_62750_01_5828h_01:dlc_victor_62750_01_5828h_01/full/pct:100/0/default.jpg#h=2380&w=2385"
+   ],
+   "index": 4,
+   "language": [
+    "french"
+   ],
+   "location": [
+    "france",
+    "paris"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Carmen. Je suis Escamillo",
+    "Carmen"
+   ],
+   "partof": [
+    "national jukebox",
+    "recorded sound section, library of congress",
+    "recorded sound research center"
+   ],
+   "score": 47.955418,
+   "shelf_id": "Victor 62750",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "vocal",
+    "victor",
+    "opera",
+    "french"
+   ],
+   "timestamp": "2026-10-05T14:11:49.826Z",
+   "title": "Celle que vous aimez est ici",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-298170/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-307265/",
+    "http://www.loc.gov/resource/jukebox-307265.0/",
+    "http://www.loc.gov/resource/jukebox-307265.1/",
+    "http://www.loc.gov/resource/jukebox-307265.0",
+    "http://www.loc.gov/resource/jukebox-307265.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "massenet, jules",
+    "korsoff, lucette",
+    "walcutt, cleveland",
+    "scheuplein, charles",
+    "beyle, léon"
+   ],
+   "date": "1906-12-31",
+   "dates": [
+    "1906-12-31"
+   ],
+   "description": [
+    "Victor 45009. Matrix/Take: 5793o/[1]."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T03:19:37.497Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-307265/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_45009_01_5793o_01:dlc_victor_45009_01_5793o_01/full/pct:25/0/default.jpg#h=408&w=399",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_45009_01_5793o_01:dlc_victor_45009_01_5793o_01/full/pct:50/0/default.jpg#h=816&w=799",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_45009_01_5793o_01:dlc_victor_45009_01_5793o_01/full/pct:100/0/default.jpg#h=1632&w=1599"
+   ],
+   "index": 5,
+   "language": [
+    "french"
+   ],
+   "location": [
+    "france",
+    "paris"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "She is called Manon",
+    "Manon",
+    "Manon. On l'appelle Manon"
+   ],
+   "partof": [
+    "national jukebox",
+    "recorded sound section, library of congress",
+    "recorded sound research center"
+   ],
+   "score": 46.646976,
+   "shelf_id": "Victor 45009",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "vocal",
+    "victor",
+    "opera"
+   ],
+   "timestamp": "2026-10-05T14:12:49.807Z",
+   "title": "On l'appelle Manon",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-307265/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/6919",
+    "http://www.loc.gov/item/jukebox-307326/",
+    "http://www.loc.gov/resource/jukebox-307326.0/",
+    "http://www.loc.gov/resource/jukebox-307326.1/",
+    "http://www.loc.gov/resource/jukebox-307326.0",
+    "http://www.loc.gov/resource/jukebox-307326.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "beyle, léon",
+    "scheuplein, charles",
+    "rossini, gioacchino",
+    "walcutt, cleveland"
+   ],
+   "date": "1906-12-31",
+   "dates": [
+    "1906-12-31"
+   ],
+   "description": [
+    "Victor 45026. Matrix/Take: 6106o/[1]."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T03:19:37.497Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-307326/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_45026_01_6106o_01:dlc_victor_45026_01_6106o_01/full/pct:12.5/0/default.jpg#h=230&w=228",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_45026_01_6106o_01:dlc_victor_45026_01_6106o_01/full/pct:25/0/default.jpg#h=460&w=457",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_45026_01_6106o_01:dlc_victor_45026_01_6106o_01/full/pct:50/0/default.jpg#h=920&w=915",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_45026_01_6106o_01:dlc_victor_45026_01_6106o_01/full/pct:100/0/default.jpg#h=1841&w=1831"
+   ],
+   "index": 6,
+   "language": [
+    "french"
+   ],
+   "location": [
+    "france",
+    "paris"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Oh, blessed abode",
+    "Guillaume Tell. Asile hereditaire",
+    "Guillaume Tell"
+   ],
+   "partof": [
+    "national jukebox",
+    "recorded sound section, library of congress",
+    "recorded sound research center"
+   ],
+   "score": 40.081825,
+   "shelf_id": "Victor 45026",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "vocal",
+    "victor",
+    "opera"
+   ],
+   "timestamp": "2026-10-05T14:12:49.807Z",
+   "title": "Asile héréditaire",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-307326/"
+  }
+ ],
+ "notice": {
+  "info": "<strong>COLUMBUS DAY HOLIDAY:</strong> On Monday, October 12, 2026, The Jefferson Building Great Hall and exhibitions will be open from 10 a.m. - 5 p.m. to guests with timed-entry passes. The Main Reading Room will be open to visitors, no research or collections services available. All other reading rooms, the Madison and Adams Buildings will be CLOSED to the public. Regularly scheduled access resumes on Tuesday, October 13. \n",
+  "status": "production"
+ },
+ "options": {
+  "access_group": [
+   ""
+  ],
+  "access_group_raw": "",
+  "all": null,
+  "api_version": "1",
+  "app_context": null,
+  "application_shim": null,
+  "application_version": "$Revision$",
+  "attribute": null,
+  "attribute!": null,
+  "attribute_map": null,
+  "cache_tags": [
+   "nationaljukebox",
+   "national-jukebox",
+   "sgppanama/dlc",
+   "world-newspapers",
+   "sgpstarsandstripes/dlc",
+   "wwi-stars-and-stripes"
+  ],
+  "callback": null,
+  "clip": null,
+  "clip_image_width": null,
+  "clip_rotation": null,
+  "content_filter": null,
+  "content_replacement": "",
+  "count": null,
+  "dates": null,
+  "default_count": 25,
+  "delimiter": null,
+  "digital_id": null,
+  "display_level": null,
+  "distance": null,
+  "downloadOption": null,
+  "duration": 3.067990779876709,
+  "embed": [],
+  "embed!": [],
+  "error_response_status": null,
+  "excludeTerms": null,
+  "facetLimits": "",
+  "facetPrefix": null,
+  "facet_count": null,
+  "facet_style": null,
+  "field": null,
+  "form_facets": [
+   {
+    "field": "subject_label",
+    "select": "multiple"
+   },
+   {
+    "field": "subject_category",
+    "select": "multiple"
+   },
+   {
+    "field": "language",
+    "select": "multiple"
+   }
+  ],
+  "format": "json",
+  "host": "www.loc.gov",
+  "ical": false,
+  "id": "jukebox-307261/",
+  "iiif": false,
+  "include_facets": [
+   {
+    "field": "original-format"
+   },
+   {
+    "field": "partof_repository",
+    "label": "Repository"
+   },
+   {
+    "field": "subject_label",
+    "label": "Label"
+   },
+   {
+    "field": "dates"
+   },
+   {
+    "field": "subject_genre",
+    "label": "Genre"
+   },
+   {
+    "closed": true,
+    "field": "subject_target_audience",
+    "label": "Target Audience"
+   },
+   {
+    "closed": true,
+    "field": "subject_category",
+    "label": "Category"
+   },
+   {
+    "closed": true,
+    "field": "location"
+   },
+   {
+    "closed": true,
+    "field": "contributor"
+   },
+   {
+    "closed": true,
+    "field": "contributor_vocalist",
+    "label": "Vocalist"
+   },
+   {
+    "closed": true,
+    "field": "contributor_composer",
+    "label": "Composer"
+   },
+   {
+    "closed": true,
+    "field": "contributor_lyricist",
+    "label": "Lyricist"
+   },
+   {
+    "closed": true,
+    "field": "contributor_author",
+    "label": "Author"
+   },
+   {
+    "closed": true,
+    "field": "contributor_performer",
+    "label": "Performer"
+   },
+   {
+    "closed": true,
+    "field": "contributor_musical_group",
+    "label": "Musical Group"
+   },
+   {
+    "closed": true,
+    "field": "subject"
+   },
+   {
+    "closed": true,
+    "field": "language"
+   },
+   {
+    "field": "access-restricted"
+   }
+  ],
+  "index": null,
+  "inputEncoding": "UTF-8",
+  "item": null,
+  "items": null,
+  "keys": null,
+  "language": null,
+  "latlong": null,
+  "method": "GET",
+  "newSearch": null,
+  "new_clip_url": false,
+  "onsite": false,
+  "operator": null,
+  "outputEncoding": "UTF-8",
+  "page_campaigns": [],
+  "path_info": "/item/jukebox-307261/",
+  "port": "443",
+  "proxypath": null,
+  "query_string": "fo=json",
+  "redirect_proxy": false,
+  "redirect_to_item": null,
+  "referer": "",
+  "region": "",
+  "release_id": 123456789,
+  "request_host": "www.loc.gov",
+  "request_params": {
+   "fo": [
+    "json"
+   ]
+  },
+  "request_url": "https://www.loc.gov/item/jukebox-307261/?fo=json",
+  "resource": "",
+  "resource_sequence": null,
+  "scheme": "https",
+  "searchIn": null,
+  "searchTerms": "",
+  "segments": null,
+  "shards": [
+   "01"
+  ],
+  "site_date_range": "1900-01-01/1925-12-31",
+  "site_defaults": [],
+  "site_id": null,
+  "site_type": null,
+  "solrQuery": "",
+  "sortBy": null,
+  "sortOrder": null,
+  "startPage": null,
+  "style": null,
+  "suggested": null,
+  "target": null,
+  "template": "layouts/item/layout",
+  "timestamp": 1791375163.9250453,
+  "tz_aware": null,
+  "unionFacets": "",
+  "webcast_permalink": null
+ },
+ "related_items": [
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/2022270747/1880-10-03/ed-1/",
+    "http://www.loc.gov/resource/2022270747/1880-10-03/ed-1/"
+   ],
+   "batch": [
+    "dlc_panamafilm4_ver02"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "library of congress, washington, dc"
+   ],
+   "date": "1880-10-03",
+   "dates": [
+    "1880-10-03"
+   ],
+   "description": [
+    "Paris"
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-02-02T13:13:06.488Z",
+   "group": [
+    "sgppanama/dlc",
+    "world-newspapers"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/2022270747/1880-10-03/ed-1/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_panamafilm4_ver02:data:2022270747:00517179644:1880100301:0003/full/pct:6.25/0/default.jpg#h=321&w=234",
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_panamafilm4_ver02:data:2022270747:00517179644:1880100301:0003/full/pct:12.5/0/default.jpg#h=642&w=469"
+   ],
+   "index": 1,
+   "language": [
+    "french"
+   ],
+   "location": [
+    "france",
+    "paris"
+   ],
+   "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg"
+   ],
+   "number": [
+    "2022270747",
+    "1",
+    "00517179644"
+   ],
+   "numeric_shelf_id": 188010031,
+   "online_format": [
+    "image",
+    "pdf",
+    "online text"
+   ],
+   "original_format": [
+    "newspaper"
+   ],
+   "partof": [
+    "world newspapers",
+    "serial and government publications division",
+    "le journal de la bourse (paris) 1877-1??? [online resource]"
+   ],
+   "publication_frequency": [
+    "weekly"
+   ],
+   "score": 13.2554455,
+   "shelf_id": "2022270747, 1880-10-03, Edition 1",
+   "site": [
+    "chroniclingamerica"
+   ],
+   "subject": [
+    "paris (france)",
+    "paris",
+    "france",
+    "newspapers"
+   ],
+   "timestamp": "2026-02-02T15:47:13.511Z",
+   "title": "Le journal de la bourse (Paris), October 3, 1880",
+   "type": [
+    "issue"
+   ],
+   "url": "https://www.loc.gov/item/2022270747/1880-10-03/ed-1/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/20001931/1919-04-11/ed-1/",
+    "http://www.loc.gov/resource/20001931/1919-04-11/ed-1/"
+   ],
+   "batch": [
+    "dlc_argonne_ver03"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "library of congress, washington, dc"
+   ],
+   "date": "1919-04-11",
+   "dates": [
+    "1919-04-11"
+   ],
+   "description": [
+    "Paris, France"
+   ],
+   "digitized": true,
+   "extract_timestamp": "2020-09-19T00:32:24.488Z",
+   "group": [
+    "sgpstarsandstripes/dlc",
+    "wwi-stars-and-stripes"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/20001931/1919-04-11/ed-1/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_argonne_ver03:data:20001931:print:1919041101:0001/full/pct:6.25/0/default.jpg#h=412&w=318",
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_argonne_ver03:data:20001931:print:1919041101:0001/full/pct:12.5/0/default.jpg#h=825&w=637"
+   ],
+   "index": 2,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "united states",
+    "france",
+    "paris"
+   ],
+   "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg"
+   ],
+   "number": [
+    "20001931",
+    "1"
+   ],
+   "numeric_shelf_id": 191904111,
+   "online_format": [
+    "image",
+    "pdf",
+    "online text"
+   ],
+   "original_format": [
+    "newspaper"
+   ],
+   "partof": [
+    "serial and government publications division",
+    "the stars and stripes (paris, france) 1918-1919",
+    "stars and stripes: the american soldiers' newspaper of world war i, 1918-1919"
+   ],
+   "publication_frequency": [
+    "weekly"
+   ],
+   "score": 12.043781,
+   "shelf_id": "20001931, 1919-04-11, Edition 1",
+   "site": [
+    "chroniclingamerica"
+   ],
+   "subject": [
+    "united states",
+    "france",
+    "paris",
+    "world war",
+    "periodicals"
+   ],
+   "timestamp": "2022-10-27T11:27:31.241Z",
+   "title": "The stars and stripes (Paris, France), April 11, 1919",
+   "type": [
+    "issue"
+   ],
+   "url": "https://www.loc.gov/item/20001931/1919-04-11/ed-1/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/20001931/1919-03-14/ed-1/",
+    "http://www.loc.gov/resource/20001931/1919-03-14/ed-1/"
+   ],
+   "batch": [
+    "dlc_argonne_ver03"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "library of congress, washington, dc"
+   ],
+   "date": "1919-03-14",
+   "dates": [
+    "1919-03-14"
+   ],
+   "description": [
+    "Paris, France"
+   ],
+   "digitized": true,
+   "extract_timestamp": "2020-09-19T00:32:24.488Z",
+   "group": [
+    "sgpstarsandstripes/dlc",
+    "wwi-stars-and-stripes"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/20001931/1919-03-14/ed-1/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_argonne_ver03:data:20001931:print:1919031401:0001/full/pct:6.25/0/default.jpg#h=421&w=325",
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_argonne_ver03:data:20001931:print:1919031401:0001/full/pct:12.5/0/default.jpg#h=843&w=650"
+   ],
+   "index": 3,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "united states",
+    "france",
+    "paris"
+   ],
+   "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg"
+   ],
+   "number": [
+    "20001931",
+    "1"
+   ],
+   "numeric_shelf_id": 191903141,
+   "online_format": [
+    "image",
+    "pdf",
+    "online text"
+   ],
+   "original_format": [
+    "newspaper"
+   ],
+   "partof": [
+    "serial and government publications division",
+    "the stars and stripes (paris, france) 1918-1919",
+    "stars and stripes: the american soldiers' newspaper of world war i, 1918-1919"
+   ],
+   "publication_frequency": [
+    "weekly"
+   ],
+   "score": 12.043781,
+   "shelf_id": "20001931, 1919-03-14, Edition 1",
+   "site": [
+    "chroniclingamerica"
+   ],
+   "subject": [
+    "united states",
+    "france",
+    "paris",
+    "world war",
+    "periodicals"
+   ],
+   "timestamp": "2022-10-27T11:27:31.241Z",
+   "title": "The stars and stripes (Paris, France), March 14, 1919",
+   "type": [
+    "issue"
+   ],
+   "url": "https://www.loc.gov/item/20001931/1919-03-14/ed-1/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/20001931/1919-04-04/ed-1/",
+    "http://www.loc.gov/resource/20001931/1919-04-04/ed-1/"
+   ],
+   "batch": [
+    "dlc_argonne_ver03"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "library of congress, washington, dc"
+   ],
+   "date": "1919-04-04",
+   "dates": [
+    "1919-04-04"
+   ],
+   "description": [
+    "Paris, France"
+   ],
+   "digitized": true,
+   "extract_timestamp": "2020-09-19T00:32:24.488Z",
+   "group": [
+    "sgpstarsandstripes/dlc",
+    "wwi-stars-and-stripes"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/20001931/1919-04-04/ed-1/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_argonne_ver03:data:20001931:print:1919040401:0001/full/pct:6.25/0/default.jpg#h=416&w=324",
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_argonne_ver03:data:20001931:print:1919040401:0001/full/pct:12.5/0/default.jpg#h=833&w=648"
+   ],
+   "index": 4,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "united states",
+    "france",
+    "paris"
+   ],
+   "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg"
+   ],
+   "number": [
+    "20001931",
+    "1"
+   ],
+   "numeric_shelf_id": 191904041,
+   "online_format": [
+    "image",
+    "pdf",
+    "online text"
+   ],
+   "original_format": [
+    "newspaper"
+   ],
+   "partof": [
+    "serial and government publications division",
+    "the stars and stripes (paris, france) 1918-1919",
+    "stars and stripes: the american soldiers' newspaper of world war i, 1918-1919"
+   ],
+   "publication_frequency": [
+    "weekly"
+   ],
+   "score": 12.043781,
+   "shelf_id": "20001931, 1919-04-04, Edition 1",
+   "site": [
+    "chroniclingamerica"
+   ],
+   "subject": [
+    "united states",
+    "france",
+    "paris",
+    "world war",
+    "periodicals"
+   ],
+   "timestamp": "2022-10-27T11:27:31.241Z",
+   "title": "The stars and stripes (Paris, France), April 4, 1919",
+   "type": [
+    "issue"
+   ],
+   "url": "https://www.loc.gov/item/20001931/1919-04-04/ed-1/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/20001931/1919-03-21/ed-1/",
+    "http://www.loc.gov/resource/20001931/1919-03-21/ed-1/"
+   ],
+   "batch": [
+    "dlc_argonne_ver03"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "library of congress, washington, dc"
+   ],
+   "date": "1919-03-21",
+   "dates": [
+    "1919-03-21"
+   ],
+   "description": [
+    "Paris, France"
+   ],
+   "digitized": true,
+   "extract_timestamp": "2020-09-19T00:32:24.488Z",
+   "group": [
+    "sgpstarsandstripes/dlc",
+    "wwi-stars-and-stripes"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/20001931/1919-03-21/ed-1/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_argonne_ver03:data:20001931:print:1919032101:0001/full/pct:6.25/0/default.jpg#h=421&w=325",
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_argonne_ver03:data:20001931:print:1919032101:0001/full/pct:12.5/0/default.jpg#h=843&w=650"
+   ],
+   "index": 5,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "united states",
+    "france",
+    "paris"
+   ],
+   "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg"
+   ],
+   "number": [
+    "20001931",
+    "1"
+   ],
+   "numeric_shelf_id": 191903211,
+   "online_format": [
+    "image",
+    "pdf",
+    "online text"
+   ],
+   "original_format": [
+    "newspaper"
+   ],
+   "partof": [
+    "serial and government publications division",
+    "the stars and stripes (paris, france) 1918-1919",
+    "stars and stripes: the american soldiers' newspaper of world war i, 1918-1919"
+   ],
+   "publication_frequency": [
+    "weekly"
+   ],
+   "score": 12.043781,
+   "shelf_id": "20001931, 1919-03-21, Edition 1",
+   "site": [
+    "chroniclingamerica"
+   ],
+   "subject": [
+    "united states",
+    "france",
+    "paris",
+    "world war",
+    "periodicals"
+   ],
+   "timestamp": "2022-10-27T11:27:31.241Z",
+   "title": "The stars and stripes (Paris, France), March 21, 1919",
+   "type": [
+    "issue"
+   ],
+   "url": "https://www.loc.gov/item/20001931/1919-03-21/ed-1/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/20001931/1919-03-28/ed-1/",
+    "http://www.loc.gov/resource/20001931/1919-03-28/ed-1/"
+   ],
+   "batch": [
+    "dlc_argonne_ver03"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "library of congress, washington, dc"
+   ],
+   "date": "1919-03-28",
+   "dates": [
+    "1919-03-28"
+   ],
+   "description": [
+    "Paris, France"
+   ],
+   "digitized": true,
+   "extract_timestamp": "2020-09-19T00:32:24.488Z",
+   "group": [
+    "sgpstarsandstripes/dlc",
+    "wwi-stars-and-stripes"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/20001931/1919-03-28/ed-1/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_argonne_ver03:data:20001931:print:1919032801:0001/full/pct:6.25/0/default.jpg#h=421&w=325",
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_argonne_ver03:data:20001931:print:1919032801:0001/full/pct:12.5/0/default.jpg#h=843&w=650"
+   ],
+   "index": 6,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "united states",
+    "france",
+    "paris"
+   ],
+   "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg"
+   ],
+   "number": [
+    "20001931",
+    "1"
+   ],
+   "numeric_shelf_id": 191903281,
+   "online_format": [
+    "image",
+    "pdf",
+    "online text"
+   ],
+   "original_format": [
+    "newspaper"
+   ],
+   "partof": [
+    "serial and government publications division",
+    "the stars and stripes (paris, france) 1918-1919",
+    "stars and stripes: the american soldiers' newspaper of world war i, 1918-1919"
+   ],
+   "publication_frequency": [
+    "weekly"
+   ],
+   "score": 12.043781,
+   "shelf_id": "20001931, 1919-03-28, Edition 1",
+   "site": [
+    "chroniclingamerica"
+   ],
+   "subject": [
+    "united states",
+    "france",
+    "paris",
+    "world war",
+    "periodicals"
+   ],
+   "timestamp": "2022-10-27T11:27:31.241Z",
+   "title": "The stars and stripes (Paris, France), March 28, 1919",
+   "type": [
+    "issue"
+   ],
+   "url": "https://www.loc.gov/item/20001931/1919-03-28/ed-1/"
+  }
+ ],
+ "resources": [
+  {
+   "audio": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_45008_01_5628h_01:dlc_victor_45008_01_5628h_01/full/full/0/full/default.mp3",
+   "files": [
+    [
+     {
+      "aspectRation": "4:3",
+      "autoPlay": false,
+      "canDownload": true,
+      "derivatives": [
+       {
+        "derivativeUrl": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/dlc_victor_45008_01_5628h_01/dlc_victor_45008_01_5628h_01.mp3"
+       }
+      ],
+      "detailUrl": "https://www.loc.gov/item/jukebox-307261",
+      "download": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_45008_01_5628h_01:dlc_victor_45008_01_5628h_01/full/full/0/full/default.mp3",
+      "duration": 152.0,
+      "filename": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/dlc_victor_45008_01_5628h_01/dlc_victor_45008_01_5628h_01.mp3",
+      "mediaType": "A",
+      "metadata": [
+       "Le rêve",
+       "Tenor vocal solo, with orchestra"
+      ],
+      "mimetype": "audio/mpeg",
+      "poster": null,
+      "rights_restricted": true,
+      "shortName": "Le rêve",
+      "thumbnail_url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_45008_01_5628h_01:dlc_victor_45008_01_5628h_01/full/pct:12.5/0/default.jpg"
+     },
+     {
+      "height": null,
+      "levels": 1,
+      "mimetype": "audio/wav",
+      "size": 26944950,
+      "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/dlc_victor_45008_01_5628h_01/dlc_victor_45008_01_5628h_01.wav",
+      "width": null
+     }
+    ]
+   ],
+   "url": "https://www.loc.gov/resource/jukebox-307261.0"
+  },
+  {
+   "files": [
+    [
+     {
+      "height": 267,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_45008_01_5628h_01:dlc_victor_45008_01_5628h_01/full/pct:12.5/0/default.jpg",
+      "width": 264
+     },
+     {
+      "height": 535,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_45008_01_5628h_01:dlc_victor_45008_01_5628h_01/full/pct:25/0/default.jpg",
+      "width": 528
+     },
+     {
+      "height": 1070,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_45008_01_5628h_01:dlc_victor_45008_01_5628h_01/full/pct:50/0/default.jpg",
+      "width": 1057
+     },
+     {
+      "height": 2140,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_45008_01_5628h_01:dlc_victor_45008_01_5628h_01/full/pct:100/0/default.jpg",
+      "width": 2114
+     },
+     {
+      "height": null,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 13599804,
+      "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/dlc_victor_45008_01_5628h_01/dlc_victor_45008_01_5628h_01.tif",
+      "width": null
+     }
+    ]
+   ],
+   "image": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_45008_01_5628h_01:dlc_victor_45008_01_5628h_01/full/pct:100/0/default.jpg",
+   "mimetype": "image/jpeg",
+   "url": "https://www.loc.gov/resource/jukebox-307261.1"
+  }
+ ],
+ "timestamp": 1791375166993
+}

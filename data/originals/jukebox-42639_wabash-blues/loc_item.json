@@ -1,0 +1,1730 @@
+{
+ "articles_and_essays": null,
+ "cite_this": {
+  "apa": "Adkins, R., Amaturo, M., Amaturo, M., Amaturo, M., Bargy, R., Bargy, R. [...] Meinken, F. (1921) <cite>Wabash Blues</cite>. [Audio] Retrieved from the Library of Congress, https://www.loc.gov/item/jukebox-42639/.",
+  "chicago": "Adkins, Rick, Matthew Amaturo, Matthew Amaturo, Matthew Amaturo, Roy Bargy, Roy Bargy, Joe Baum, et al. <cite>Wabash Blues</cite>. 1921. Audio. https://www.loc.gov/item/jukebox-42639/.",
+  "mla": "Adkins, Rick, et al. <cite>Wabash Blues</cite>. 1921. Audio. Retrieved from the Library of Congress, &lt;www.loc.gov/item/jukebox-42639/&gt;."
+ },
+ "item": {
+  "_version_": 1878219876126949376,
+  "access_restricted": false,
+  "aka": [
+   "http://www.loc.gov/jukebox/recordings/detail/id/8265",
+   "http://www.loc.gov/item/jukebox-42639/",
+   "http://www.loc.gov/resource/jukebox-42639.0/",
+   "http://www.loc.gov/resource/jukebox-42639.1/",
+   "http://www.loc.gov/resource/jukebox-42639.0",
+   "http://www.loc.gov/resource/jukebox-42639.1"
+  ],
+  "audio_type": "Instrumental",
+  "campaigns": [],
+  "contributor_composer": [
+   "meinken, fred"
+  ],
+  "contributor_musical_group": [
+   "benson orchestra of chicago"
+  ],
+  "contributor_names": [
+   "Adkins, Rick -- Instrumentalist -- Trumpet",
+   "Amaturo, Matthew -- Instrumentalist -- Clarinet",
+   "Amaturo, Matthew -- Instrumentalist -- Soprano Saxophone",
+   "Amaturo, Matthew -- Instrumentalist -- Alto Saxophone",
+   "Bargy, Roy -- Leader -- Leader",
+   "Bargy, Roy -- Instrumentalist -- Piano",
+   "Baum, Joe -- Instrumentalist -- Violin",
+   "Carey, Guy -- Instrumentalist -- Trombone",
+   "Foeste, William -- Instrumentalist -- Bass Saxophone",
+   "Layfield, Arthur -- Instrumentalist -- Drums",
+   "Miller, Joe -- Instrumentalist -- Banjo",
+   "Thatcher, Thomas -- Instrumentalist -- Tenor Saxophone",
+   "Walthall, Albert -- Instrumentalist -- Violin",
+   "Benson Orchestra of Chicago -- Musical Group -- Musical Group",
+   "Meinken, Fred -- Composer -- Composer"
+  ],
+  "contributor_primary": [
+   "bargy, roy"
+  ],
+  "contributors": [
+   {
+    "adkins, rick": "https://www.loc.gov/search/?fa=contributor:adkins,+rick&fo=json"
+   },
+   {
+    "amaturo, matthew": "https://www.loc.gov/search/?fa=contributor:amaturo,+matthew&fo=json"
+   },
+   {
+    "bargy, roy": "https://www.loc.gov/search/?fa=contributor:bargy,+roy&fo=json"
+   },
+   {
+    "baum, joe": "https://www.loc.gov/search/?fa=contributor:baum,+joe&fo=json"
+   },
+   {
+    "benson orchestra of chicago": "https://www.loc.gov/search/?fa=contributor:benson+orchestra+of+chicago&fo=json"
+   },
+   {
+    "carey, guy": "https://www.loc.gov/search/?fa=contributor:carey,+guy&fo=json"
+   },
+   {
+    "foeste, william": "https://www.loc.gov/search/?fa=contributor:foeste,+william&fo=json"
+   },
+   {
+    "layfield, arthur": "https://www.loc.gov/search/?fa=contributor:layfield,+arthur&fo=json"
+   },
+   {
+    "meinken, fred": "https://www.loc.gov/search/?fa=contributor:meinken,+fred&fo=json"
+   },
+   {
+    "miller, joe": "https://www.loc.gov/search/?fa=contributor:miller,+joe&fo=json"
+   },
+   {
+    "thatcher, thomas": "https://www.loc.gov/search/?fa=contributor:thatcher,+thomas&fo=json"
+   },
+   {
+    "walthall, albert": "https://www.loc.gov/search/?fa=contributor:walthall,+albert&fo=json"
+   }
+  ],
+  "contributors_composer": [
+   {
+    "meinken, fred": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_composer:meinken,+fred&fo=json"
+   }
+  ],
+  "contributors_musical_group": [
+   {
+    "benson orchestra of chicago": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_musical_group:benson+orchestra+of+chicago&fo=json"
+   }
+  ],
+  "contributors_primary": [
+   {
+    "bargy, roy": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_primary:bargy,+roy&fo=json"
+   }
+  ],
+  "date": "1921-09-29",
+  "dates": [
+   {
+    "1921-09-29": "https://www.loc.gov/search/?dates=1921-09-29/1921-09-29&fo=json"
+   }
+  ],
+  "description": [
+   "Victor 18820. Matrix/Take: B-25703/1."
+  ],
+  "digitized": true,
+  "display_offsite": true,
+  "extract_timestamp": "2026-10-04T20:25:04.377Z",
+  "extract_urls": [
+   "http://www.loc.gov/item/jukebox-42639#nationaljukebox"
+  ],
+  "file_id": [
+   "dlc_victor_18820_02_b25703_01"
+  ],
+  "format": [
+   {
+    "sound recording": "https://www.loc.gov/search/?fa=original_format:sound+recording&fo=json"
+   }
+  ],
+  "genre": [
+   "Ragtime, jazz, and more",
+   "Blues"
+  ],
+  "group": [
+   "nationaljukebox",
+   "national-jukebox"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/item/jukebox-42639/",
+  "iiif_manifest_url": "https://www.loc.gov/item/jukebox-42639/manifest.json",
+  "image_url": [
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18820_02_b25703_01:dlc_victor_18820_02_b25703_01/full/pct:12.5/0/default.jpg#h=207&w=209",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18820_02_b25703_01:dlc_victor_18820_02_b25703_01/full/pct:25/0/default.jpg#h=415&w=418",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18820_02_b25703_01:dlc_victor_18820_02_b25703_01/full/pct:50/0/default.jpg#h=830&w=836",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18820_02_b25703_01:dlc_victor_18820_02_b25703_01/full/pct:100/0/default.jpg#h=1660&w=1673"
+  ],
+  "index": 1,
+  "item": {
+   "audio_type": "Instrumental",
+   "contributors": [
+    "Adkins, Rick -- Instrumentalist -- Trumpet",
+    "Amaturo, Matthew -- Instrumentalist -- Clarinet",
+    "Amaturo, Matthew -- Instrumentalist -- Soprano Saxophone",
+    "Amaturo, Matthew -- Instrumentalist -- Alto Saxophone",
+    "Bargy, Roy -- Leader -- Leader",
+    "Bargy, Roy -- Instrumentalist -- Piano",
+    "Baum, Joe -- Instrumentalist -- Violin",
+    "Carey, Guy -- Instrumentalist -- Trombone",
+    "Foeste, William -- Instrumentalist -- Bass Saxophone",
+    "Layfield, Arthur -- Instrumentalist -- Drums",
+    "Miller, Joe -- Instrumentalist -- Banjo",
+    "Thatcher, Thomas -- Instrumentalist -- Tenor Saxophone",
+    "Walthall, Albert -- Instrumentalist -- Violin",
+    "Benson Orchestra of Chicago -- Musical Group -- Musical Group",
+    "Meinken, Fred -- Composer -- Composer"
+   ],
+   "file_id": [
+    "dlc_victor_18820_02_b25703_01"
+   ],
+   "genre": [
+    "Ragtime, jazz, and more",
+    "Blues"
+   ],
+   "media_size": "10-in.",
+   "profile": "jukebox",
+   "recording_catalog_number": "18820",
+   "recording_date": "1921-09-29",
+   "recording_label": "Victor",
+   "recording_matrix_number": "B-25703 (Matrix ID)",
+   "recording_repository": "Source of original recording: Recorded Sound Section, Library of Congress.",
+   "recording_take_id": 42639,
+   "recording_take_number": "1",
+   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+   "summary": "Jazz/dance band"
+  },
+  "location": [
+   "illinois",
+   "united states",
+   "chicago"
+  ],
+  "locations": [
+   {
+    "chicago": "https://www.loc.gov/search/?fa=location:chicago&fo=json"
+   },
+   {
+    "illinois": "https://www.loc.gov/search/?fa=location:illinois&fo=json"
+   },
+   {
+    "united states": "https://www.loc.gov/search/?fa=location:united+states&fo=json"
+   }
+  ],
+  "media_size": "10-in.",
+  "mime_type": [
+   "audio/mpeg",
+   "audio/wav",
+   "image/tif",
+   "image/jpeg"
+  ],
+  "online_format": [
+   "audio",
+   "image"
+  ],
+  "original_format": [
+   "sound recording"
+  ],
+  "other_formats": [],
+  "other_title": [
+   "Fox trot"
+  ],
+  "partof": [
+   {
+    "count": 6124,
+    "title": "recorded sound section, library of congress",
+    "url": "https://www.loc.gov/search/?fa=partof:recorded+sound+section,+library+of+congress&fo=json"
+   },
+   {
+    "count": 20273,
+    "title": "national jukebox",
+    "url": "https://www.loc.gov/collections/national-jukebox/?fo=json"
+   },
+   {
+    "count": 20496,
+    "title": "recorded sound research center",
+    "url": "https://www.loc.gov/search/?fa=partof:recorded+sound+research+center&fo=json"
+   }
+  ],
+  "partof_repository": [
+   "recorded sound section, library of congress"
+  ],
+  "profile": "jukebox",
+  "recording_catalog_number": "18820",
+  "recording_date": "1921-09-29",
+  "recording_label": "Victor",
+  "recording_matrix_number": "B-25703 (Matrix ID)",
+  "recording_repository": "Source of original recording: Recorded Sound Section, Library of Congress.",
+  "recording_take_id": 42639,
+  "recording_take_number": "1",
+  "resources": [
+   {
+    "files": 1,
+    "media": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18820_02_b25703_01:dlc_victor_18820_02_b25703_01/full/full/0/full/default.mp3",
+    "url": "https://www.loc.gov/resource/jukebox-42639.0"
+   },
+   {
+    "files": 1,
+    "image": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18820_02_b25703_01:dlc_victor_18820_02_b25703_01/full/pct:100/0/default.jpg",
+    "mimetype": "image/jpeg",
+    "url": "https://www.loc.gov/resource/jukebox-42639.1"
+   }
+  ],
+  "rights": [
+   "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
+  ],
+  "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+  "score": 15.332891,
+  "shard": "01",
+  "shelf_id": "Victor 18820",
+  "site": [
+   "nationaljukebox"
+  ],
+  "source_modified": "2000-01-01T12:00:00Z",
+  "subject": [
+   "blues",
+   "victor",
+   "instrumental",
+   "ragtime, jazz, and more"
+  ],
+  "subject_category": [
+   "instrumental"
+  ],
+  "subject_genre": [
+   "ragtime, jazz, and more",
+   "blues"
+  ],
+  "subject_label": [
+   "victor"
+  ],
+  "subjects": [
+   {
+    "blues": "https://www.loc.gov/search/?fa=subject:blues&fo=json"
+   },
+   {
+    "instrumental": "https://www.loc.gov/search/?fa=subject:instrumental&fo=json"
+   },
+   {
+    "ragtime, jazz, and more": "https://www.loc.gov/search/?fa=subject:ragtime,+jazz,+and+more&fo=json"
+   },
+   {
+    "victor": "https://www.loc.gov/search/?fa=subject:victor&fo=json"
+   }
+  ],
+  "subjects_category": [
+   {
+    "instrumental": "https://www.loc.gov/collections/national-jukebox/?fa=subject_category:instrumental&fo=json"
+   }
+  ],
+  "subjects_genre": [
+   {
+    "blues": "https://www.loc.gov/collections/national-jukebox/?fa=subject_genre:blues&fo=json"
+   },
+   {
+    "ragtime, jazz, and more": "https://www.loc.gov/collections/national-jukebox/?fa=subject_genre:ragtime,+jazz,+and+more&fo=json"
+   }
+  ],
+  "subjects_label": [
+   {
+    "victor": "https://www.loc.gov/collections/national-jukebox/?fa=subject_label:victor&fo=json"
+   }
+  ],
+  "summary": "Jazz/dance band",
+  "timestamp": "2026-10-05T14:20:56.209Z",
+  "title": "Wabash blues",
+  "type": [
+   "sound recording-musical"
+  ],
+  "url": "https://www.loc.gov/item/jukebox-42639/"
+ },
+ "more_like_this": [
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/8266",
+    "http://www.loc.gov/item/jukebox-42642/",
+    "http://www.loc.gov/resource/jukebox-42642.0/",
+    "http://www.loc.gov/resource/jukebox-42642.1/",
+    "http://www.loc.gov/resource/jukebox-42642.0",
+    "http://www.loc.gov/resource/jukebox-42642.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "carey, guy",
+    "baum, joe",
+    "benson orchestra of chicago",
+    "amaturo, matthew",
+    "walthall, albert",
+    "meinken, fred",
+    "bargy, roy",
+    "thatcher, thomas",
+    "layfield, arthur",
+    "adkins, rick",
+    "miller, joe",
+    "foeste, william"
+   ],
+   "date": "1921-09-29",
+   "dates": [
+    "1921-09-29"
+   ],
+   "description": [
+    "Victor 18820. Matrix/Take: B-25703/4."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-04T20:25:04.377Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-42642/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18820_01_b25703_04:dlc_victor_18820_01_b25703_04/full/pct:12.5/0/default.jpg#h=226&w=231",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18820_01_b25703_04:dlc_victor_18820_01_b25703_04/full/pct:25/0/default.jpg#h=453&w=463",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18820_01_b25703_04:dlc_victor_18820_01_b25703_04/full/pct:50/0/default.jpg#h=906&w=927",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18820_01_b25703_04:dlc_victor_18820_01_b25703_04/full/pct:100/0/default.jpg#h=1812&w=1855"
+   ],
+   "index": 1,
+   "location": [
+    "illinois",
+    "united states",
+    "chicago"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Fox trot"
+   ],
+   "partof": [
+    "recorded sound section, library of congress",
+    "recorded sound research center",
+    "national jukebox"
+   ],
+   "score": 127.789474,
+   "shelf_id": "Victor 18820",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "blues",
+    "victor",
+    "instrumental",
+    "ragtime, jazz, and more"
+   ],
+   "timestamp": "2026-10-05T14:20:56.209Z",
+   "title": "Wabash blues",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-42642/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/4919",
+    "http://www.loc.gov/item/jukebox-189007/",
+    "http://www.loc.gov/resource/jukebox-189007.0/",
+    "http://www.loc.gov/resource/jukebox-189007.1/",
+    "http://www.loc.gov/resource/jukebox-189007.0",
+    "http://www.loc.gov/resource/jukebox-189007.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "carey, guy",
+    "baum, joe",
+    "benson orchestra of chicago",
+    "amaturo, matthew",
+    "walthall, albert",
+    "ruby, herman",
+    "bargy, roy",
+    "thatcher, thomas",
+    "ruby, harry",
+    "layfield, arthur",
+    "baker, william",
+    "miller, joe",
+    "adkins, rick",
+    "foeste, william"
+   ],
+   "date": "1921-09-28",
+   "dates": [
+    "1921-09-28"
+   ],
+   "description": [
+    "Victor 18819. Matrix/Take: B-25702/3."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T01:54:15.430Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-189007/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18819_01_b25702_03:dlc_victor_18819_01_b25702_03/full/pct:25/0/default.jpg#h=384&w=393",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18819_01_b25702_03:dlc_victor_18819_01_b25702_03/full/pct:50/0/default.jpg#h=769&w=786",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18819_01_b25702_03:dlc_victor_18819_01_b25702_03/full/pct:100/0/default.jpg#h=1538&w=1572"
+   ],
+   "index": 2,
+   "location": [
+    "illinois",
+    "united states",
+    "chicago"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Fox trot"
+   ],
+   "partof": [
+    "recorded sound section, library of congress",
+    "recorded sound research center",
+    "national jukebox"
+   ],
+   "score": 112.11067,
+   "shelf_id": "Victor 18819",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "victor",
+    "instrumental",
+    "ragtime, jazz, and more"
+   ],
+   "timestamp": "2026-10-05T14:01:15.280Z",
+   "title": "My sunny Tennessee",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-189007/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/8267",
+    "http://www.loc.gov/item/jukebox-42645/",
+    "http://www.loc.gov/resource/jukebox-42645.0/",
+    "http://www.loc.gov/resource/jukebox-42645.1/",
+    "http://www.loc.gov/resource/jukebox-42645.0",
+    "http://www.loc.gov/resource/jukebox-42645.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "carey, guy",
+    "benson orchestra of chicago",
+    "baum, joe",
+    "amaturo, matthew",
+    "walthall, albert",
+    "thatcher, thomas",
+    "bargy, roy",
+    "conrad, con",
+    "layfield, arthur",
+    "miller, joe",
+    "adkins, rick",
+    "foeste, william"
+   ],
+   "date": "1921-09-29",
+   "dates": [
+    "1921-09-29"
+   ],
+   "description": [
+    "Victor 18819. Matrix/Take: B-25704/3."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-04T20:25:04.377Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-42645/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18819_01_b25704_03:dlc_victor_18819_01_b25704_03/full/pct:12.5/0/default.jpg#h=250&w=248",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18819_01_b25704_03:dlc_victor_18819_01_b25704_03/full/pct:25/0/default.jpg#h=501&w=496",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18819_01_b25704_03:dlc_victor_18819_01_b25704_03/full/pct:50/0/default.jpg#h=1002&w=992",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18819_01_b25704_03:dlc_victor_18819_01_b25704_03/full/pct:100/0/default.jpg#h=2005&w=1985"
+   ],
+   "index": 3,
+   "location": [
+    "illinois",
+    "united states",
+    "chicago"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "One-step"
+   ],
+   "partof": [
+    "recorded sound section, library of congress",
+    "recorded sound research center",
+    "national jukebox"
+   ],
+   "score": 112.11067,
+   "shelf_id": "Victor 18819",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "victor",
+    "instrumental",
+    "ragtime, jazz, and more"
+   ],
+   "timestamp": "2026-10-05T14:20:56.209Z",
+   "title": "Ma!",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-42645/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/8270",
+    "http://www.loc.gov/item/jukebox-42655/",
+    "http://www.loc.gov/resource/jukebox-42655.0/",
+    "http://www.loc.gov/resource/jukebox-42655.1/",
+    "http://www.loc.gov/resource/jukebox-42655.0",
+    "http://www.loc.gov/resource/jukebox-42655.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "carey, guy",
+    "baum, joe",
+    "benson orchestra of chicago",
+    "amaturo, matthew",
+    "walthall, albert",
+    "meyer, george w.",
+    "bargy, roy",
+    "thatcher, thomas",
+    "straight, charley",
+    "layfield, arthur",
+    "adkins, rick",
+    "miller, joe",
+    "foeste, william"
+   ],
+   "date": "1921-09-30",
+   "dates": [
+    "1921-09-30"
+   ],
+   "description": [
+    "Victor 18820. Matrix/Take: B-25707/2."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-04T20:25:04.377Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-42655/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18820_01_b25707_02:dlc_victor_18820_01_b25707_02/full/pct:12.5/0/default.jpg#h=217&w=218",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18820_01_b25707_02:dlc_victor_18820_01_b25707_02/full/pct:25/0/default.jpg#h=435&w=437",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18820_01_b25707_02:dlc_victor_18820_01_b25707_02/full/pct:50/0/default.jpg#h=871&w=874",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18820_01_b25707_02:dlc_victor_18820_01_b25707_02/full/pct:100/0/default.jpg#h=1742&w=1748"
+   ],
+   "index": 4,
+   "location": [
+    "illinois",
+    "united states",
+    "chicago"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Fox trot"
+   ],
+   "partof": [
+    "recorded sound section, library of congress",
+    "recorded sound research center",
+    "national jukebox"
+   ],
+   "score": 112.11067,
+   "shelf_id": "Victor 18820",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "victor",
+    "instrumental",
+    "ragtime, jazz, and more"
+   ],
+   "timestamp": "2026-10-05T14:20:56.209Z",
+   "title": "Tuck me to sleep in my old 'Tucky home",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-42655/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/8271",
+    "http://www.loc.gov/item/jukebox-42656/",
+    "http://www.loc.gov/resource/jukebox-42656.0/",
+    "http://www.loc.gov/resource/jukebox-42656.1/",
+    "http://www.loc.gov/resource/jukebox-42656.0",
+    "http://www.loc.gov/resource/jukebox-42656.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "carey, guy",
+    "baum, joe",
+    "benson orchestra of chicago",
+    "amaturo, matthew",
+    "walthall, albert",
+    "meyer, george w.",
+    "bargy, roy",
+    "thatcher, thomas",
+    "straight, charley",
+    "layfield, arthur",
+    "adkins, rick",
+    "miller, joe",
+    "foeste, william"
+   ],
+   "date": "1921-09-30",
+   "dates": [
+    "1921-09-30"
+   ],
+   "description": [
+    "Victor 18820. Matrix/Take: B-25707/3."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-04T20:25:04.377Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-42656/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18820_03_b25707_03:dlc_victor_18820_03_b25707_03/full/pct:12.5/0/default.jpg#h=216&w=220",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18820_03_b25707_03:dlc_victor_18820_03_b25707_03/full/pct:25/0/default.jpg#h=433&w=441",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18820_03_b25707_03:dlc_victor_18820_03_b25707_03/full/pct:50/0/default.jpg#h=866&w=882",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18820_03_b25707_03:dlc_victor_18820_03_b25707_03/full/pct:100/0/default.jpg#h=1733&w=1765"
+   ],
+   "index": 5,
+   "location": [
+    "illinois",
+    "united states",
+    "chicago"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Fox trot"
+   ],
+   "partof": [
+    "recorded sound section, library of congress",
+    "recorded sound research center",
+    "national jukebox"
+   ],
+   "score": 112.11067,
+   "shelf_id": "Victor 18820",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "victor",
+    "instrumental",
+    "ragtime, jazz, and more"
+   ],
+   "timestamp": "2026-10-05T14:20:56.209Z",
+   "title": "Tuck me to sleep in my old 'Tucky home",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-42656/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/8268",
+    "http://www.loc.gov/item/jukebox-42647/",
+    "http://www.loc.gov/resource/jukebox-42647.0/",
+    "http://www.loc.gov/resource/jukebox-42647.1/",
+    "http://www.loc.gov/resource/jukebox-42647.0",
+    "http://www.loc.gov/resource/jukebox-42647.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "king, robert",
+    "carey, guy",
+    "baum, joe",
+    "fiorito, ted",
+    "amaturo, matthew",
+    "earl, mary",
+    "walthall, albert",
+    "benson orchestra of chicago",
+    "bargy, roy",
+    "thatcher, thomas",
+    "layfield, arthur",
+    "adkins, rick",
+    "miller, joe",
+    "foeste, william"
+   ],
+   "date": "1921-09-29",
+   "dates": [
+    "1921-09-29"
+   ],
+   "description": [
+    "Victor 18823. Matrix/Take: B-25705/2."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-04T20:25:04.377Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-42647/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18823_01_b25705_02:dlc_victor_18823_01_b25705_02/full/pct:12.5/0/default.jpg#h=243&w=247",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18823_01_b25705_02:dlc_victor_18823_01_b25705_02/full/pct:25/0/default.jpg#h=486&w=495",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18823_01_b25705_02:dlc_victor_18823_01_b25705_02/full/pct:50/0/default.jpg#h=973&w=991",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18823_01_b25705_02:dlc_victor_18823_01_b25705_02/full/pct:100/0/default.jpg#h=1947&w=1982"
+   ],
+   "index": 6,
+   "location": [
+    "illinois",
+    "united states",
+    "chicago"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Fox trot"
+   ],
+   "partof": [
+    "recorded sound section, library of congress",
+    "recorded sound research center",
+    "national jukebox"
+   ],
+   "score": 105.70354,
+   "shelf_id": "Victor 18823",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "victor",
+    "popular music",
+    "instrumental"
+   ],
+   "timestamp": "2026-10-05T14:20:56.209Z",
+   "title": "Just like a rainbow",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-42647/"
+  }
+ ],
+ "notice": {
+  "info": "<strong>COLUMBUS DAY HOLIDAY:</strong> On Monday, October 12, 2026, The Jefferson Building Great Hall and exhibitions will be open from 10 a.m. - 5 p.m. to guests with timed-entry passes. The Main Reading Room will be open to visitors, no research or collections services available. All other reading rooms, the Madison and Adams Buildings will be CLOSED to the public. Regularly scheduled access resumes on Tuesday, October 13. \n",
+  "status": "production"
+ },
+ "options": {
+  "access_group": [
+   ""
+  ],
+  "access_group_raw": "",
+  "all": null,
+  "api_version": "1",
+  "app_context": null,
+  "application_shim": null,
+  "application_version": "$Revision$",
+  "attribute": null,
+  "attribute!": null,
+  "attribute_map": null,
+  "cache_tags": [
+   "nationaljukebox",
+   "national-jukebox",
+   "ndnp/dlc-2020_now",
+   "library-of-congress-washington-dc-awardee-8",
+   "sgpjicp/dlc",
+   "japanese-internment-camp-project"
+  ],
+  "callback": null,
+  "clip": null,
+  "clip_image_width": null,
+  "clip_rotation": null,
+  "content_filter": null,
+  "content_replacement": "",
+  "count": null,
+  "dates": null,
+  "default_count": 25,
+  "delimiter": null,
+  "digital_id": null,
+  "display_level": null,
+  "distance": null,
+  "downloadOption": null,
+  "duration": 1.4382243156433105,
+  "embed": [],
+  "embed!": [],
+  "error_response_status": null,
+  "excludeTerms": null,
+  "facetLimits": "",
+  "facetPrefix": null,
+  "facet_count": null,
+  "facet_style": null,
+  "field": null,
+  "form_facets": [
+   {
+    "field": "subject_label",
+    "select": "multiple"
+   },
+   {
+    "field": "subject_category",
+    "select": "multiple"
+   },
+   {
+    "field": "language",
+    "select": "multiple"
+   }
+  ],
+  "format": "json",
+  "host": "www.loc.gov",
+  "ical": false,
+  "id": "jukebox-42639/",
+  "iiif": false,
+  "include_facets": [
+   {
+    "field": "original-format"
+   },
+   {
+    "field": "partof_repository",
+    "label": "Repository"
+   },
+   {
+    "field": "subject_label",
+    "label": "Label"
+   },
+   {
+    "field": "dates"
+   },
+   {
+    "field": "subject_genre",
+    "label": "Genre"
+   },
+   {
+    "closed": true,
+    "field": "subject_target_audience",
+    "label": "Target Audience"
+   },
+   {
+    "closed": true,
+    "field": "subject_category",
+    "label": "Category"
+   },
+   {
+    "closed": true,
+    "field": "location"
+   },
+   {
+    "closed": true,
+    "field": "contributor"
+   },
+   {
+    "closed": true,
+    "field": "contributor_vocalist",
+    "label": "Vocalist"
+   },
+   {
+    "closed": true,
+    "field": "contributor_composer",
+    "label": "Composer"
+   },
+   {
+    "closed": true,
+    "field": "contributor_lyricist",
+    "label": "Lyricist"
+   },
+   {
+    "closed": true,
+    "field": "contributor_author",
+    "label": "Author"
+   },
+   {
+    "closed": true,
+    "field": "contributor_performer",
+    "label": "Performer"
+   },
+   {
+    "closed": true,
+    "field": "contributor_musical_group",
+    "label": "Musical Group"
+   },
+   {
+    "closed": true,
+    "field": "subject"
+   },
+   {
+    "closed": true,
+    "field": "language"
+   },
+   {
+    "field": "access-restricted"
+   }
+  ],
+  "index": null,
+  "inputEncoding": "UTF-8",
+  "item": null,
+  "items": null,
+  "keys": null,
+  "language": null,
+  "latlong": null,
+  "method": "GET",
+  "newSearch": null,
+  "new_clip_url": false,
+  "onsite": false,
+  "operator": null,
+  "outputEncoding": "UTF-8",
+  "page_campaigns": [],
+  "path_info": "/item/jukebox-42639/",
+  "port": "443",
+  "proxypath": null,
+  "query_string": "fo=json",
+  "redirect_proxy": false,
+  "redirect_to_item": null,
+  "referer": "",
+  "region": "",
+  "release_id": 123456789,
+  "request_host": "www.loc.gov",
+  "request_params": {
+   "fo": [
+    "json"
+   ]
+  },
+  "request_url": "https://www.loc.gov/item/jukebox-42639/?fo=json",
+  "resource": "",
+  "resource_sequence": null,
+  "scheme": "https",
+  "searchIn": null,
+  "searchTerms": "",
+  "segments": null,
+  "shards": [
+   "01"
+  ],
+  "site_date_range": "1900-01-01/1925-12-31",
+  "site_defaults": [],
+  "site_id": null,
+  "site_type": null,
+  "solrQuery": "",
+  "sortBy": null,
+  "sortOrder": null,
+  "startPage": null,
+  "style": null,
+  "suggested": null,
+  "target": null,
+  "template": "layouts/item/layout",
+  "timestamp": 1791373432.8566759,
+  "tz_aware": null,
+  "unionFacets": "",
+  "webcast_permalink": null
+ },
+ "related_items": [
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/sn84025819/1900-01-27/ed-1/",
+    "http://www.loc.gov/resource/sn84025819/1900-01-27/ed-1/"
+   ],
+   "batch": [
+    "dlc_bigstone_ver02"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "library of congress, washington, dc"
+   ],
+   "date": "1900-01-27",
+   "dates": [
+    "1900-01-27"
+   ],
+   "description": [
+    "Chicago, Ill."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-06-21T17:45:41.532Z",
+   "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/sn84025819/1900-01-27/ed-1/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_bigstone_ver02:data:sn84025819:00220720457:1900012701:0001/full/pct:3.125/0/default.jpg#h=289&w=188",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_bigstone_ver02:data:sn84025819:00220720457:1900012701:0001/full/pct:6.25/0/default.jpg#h=579&w=376",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_bigstone_ver02:data:sn84025819:00220720457:1900012701:0001/full/pct:12.5/0/default.jpg#h=1159&w=752"
+   ],
+   "index": 1,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "chicago",
+    "cook county",
+    "united states",
+    "illinois",
+    "cook"
+   ],
+   "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg"
+   ],
+   "number": [
+    "00220720457",
+    "1",
+    "sn84025819"
+   ],
+   "numeric_shelf_id": 190001271,
+   "online_format": [
+    "image",
+    "pdf",
+    "online text"
+   ],
+   "original_format": [
+    "newspaper"
+   ],
+   "partof": [
+    "serial and government publications division",
+    "the chicago world (chicago, ill.) 1900-19??",
+    "chronicling america"
+   ],
+   "publication_frequency": [
+    "weekly"
+   ],
+   "score": 13.309539,
+   "shelf_id": "sn84025819, 1900-01-27, Edition 1",
+   "site": [
+    "chroniclingamerica"
+   ],
+   "subject": [
+    "newspapers",
+    "african american",
+    "african americans",
+    "chicago",
+    "chicago (ill.)",
+    "cook county",
+    "cook county (ill.)",
+    "united states",
+    "illinois",
+    "cook",
+    "african american newspapers"
+   ],
+   "timestamp": "2026-06-21T17:46:37.232Z",
+   "title": "The Chicago world (Chicago, Ill.), January 27, 1900",
+   "type": [
+    "issue"
+   ],
+   "url": "https://www.loc.gov/item/sn84025819/1900-01-27/ed-1/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/sn84024048/1882-11-18/ed-1/",
+    "http://www.loc.gov/resource/sn84024048/1882-11-18/ed-1/"
+   ],
+   "batch": [
+    "dlc_crater_ver01"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "library of congress, washington, dc"
+   ],
+   "date": "1882-11-18",
+   "dates": [
+    "1882-11-18"
+   ],
+   "description": [
+    "Chicago, Ill."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2023-08-07T20:30:34.324Z",
+   "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/sn84024048/1882-11-18/ed-1/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crater_ver01:data:sn84024048:00220720391:1882111801:0001/full/pct:3.125/0/default.jpg#h=275&w=203",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crater_ver01:data:sn84024048:00220720391:1882111801:0001/full/pct:6.25/0/default.jpg#h=550&w=407",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crater_ver01:data:sn84024048:00220720391:1882111801:0001/full/pct:12.5/0/default.jpg#h=1101&w=815"
+   ],
+   "index": 2,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "cook county",
+    "illinois",
+    "united states",
+    "chicago"
+   ],
+   "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg"
+   ],
+   "number": [
+    "1",
+    "00220720391",
+    "sn84024048"
+   ],
+   "numeric_shelf_id": 188211181,
+   "online_format": [
+    "image",
+    "pdf",
+    "online text"
+   ],
+   "original_format": [
+    "newspaper"
+   ],
+   "partof": [
+    "the conservator (chicago, ill.) 18??-1???",
+    "serial and government publications division",
+    "chronicling america"
+   ],
+   "publication_frequency": [
+    "weekly"
+   ],
+   "score": 13.309539,
+   "shelf_id": "sn84024048, 1882-11-18, Edition 1",
+   "site": [
+    "chroniclingamerica"
+   ],
+   "subject": [
+    "newspapers",
+    "african americans",
+    "chicago",
+    "chicago (ill.)",
+    "cook county",
+    "united states",
+    "illinois",
+    "african american"
+   ],
+   "timestamp": "2023-08-08T02:12:11.475Z",
+   "title": "The conservator (Chicago, Ill.), November 18, 1882",
+   "type": [
+    "issue"
+   ],
+   "url": "https://www.loc.gov/item/sn84024048/1882-11-18/ed-1/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/sn84024048/1882-12-23/ed-1/",
+    "http://www.loc.gov/resource/sn84024048/1882-12-23/ed-1/"
+   ],
+   "batch": [
+    "dlc_crater_ver01"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "library of congress, washington, dc"
+   ],
+   "date": "1882-12-23",
+   "dates": [
+    "1882-12-23"
+   ],
+   "description": [
+    "Chicago, Ill."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2023-08-07T20:30:34.324Z",
+   "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/sn84024048/1882-12-23/ed-1/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crater_ver01:data:sn84024048:00220720391:1882122301:0001/full/pct:3.125/0/default.jpg#h=273&w=203",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crater_ver01:data:sn84024048:00220720391:1882122301:0001/full/pct:6.25/0/default.jpg#h=546&w=406",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crater_ver01:data:sn84024048:00220720391:1882122301:0001/full/pct:12.5/0/default.jpg#h=1092&w=812"
+   ],
+   "index": 3,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "cook county",
+    "illinois",
+    "united states",
+    "chicago"
+   ],
+   "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg"
+   ],
+   "number": [
+    "1",
+    "00220720391",
+    "sn84024048"
+   ],
+   "numeric_shelf_id": 188212231,
+   "online_format": [
+    "image",
+    "pdf",
+    "online text"
+   ],
+   "original_format": [
+    "newspaper"
+   ],
+   "partof": [
+    "the conservator (chicago, ill.) 18??-1???",
+    "serial and government publications division",
+    "chronicling america"
+   ],
+   "publication_frequency": [
+    "weekly"
+   ],
+   "score": 13.309539,
+   "shelf_id": "sn84024048, 1882-12-23, Edition 1",
+   "site": [
+    "chroniclingamerica"
+   ],
+   "subject": [
+    "newspapers",
+    "african americans",
+    "chicago",
+    "chicago (ill.)",
+    "cook county",
+    "united states",
+    "illinois",
+    "african american"
+   ],
+   "timestamp": "2023-08-08T02:12:11.475Z",
+   "title": "The conservator (Chicago, Ill.), December 23, 1882",
+   "type": [
+    "issue"
+   ],
+   "url": "https://www.loc.gov/item/sn84024048/1882-12-23/ed-1/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/sn84024048/1883-09-08/ed-1/",
+    "http://www.loc.gov/resource/sn84024048/1883-09-08/ed-1/"
+   ],
+   "batch": [
+    "dlc_crater_ver01"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "library of congress, washington, dc"
+   ],
+   "date": "1883-09-08",
+   "dates": [
+    "1883-09-08"
+   ],
+   "description": [
+    "Chicago, Ill."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2023-08-07T20:30:34.324Z",
+   "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/sn84024048/1883-09-08/ed-1/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crater_ver01:data:sn84024048:00220720391:1883090801:0001/full/pct:3.125/0/default.jpg#h=273&w=203",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crater_ver01:data:sn84024048:00220720391:1883090801:0001/full/pct:6.25/0/default.jpg#h=547&w=406",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crater_ver01:data:sn84024048:00220720391:1883090801:0001/full/pct:12.5/0/default.jpg#h=1095&w=812"
+   ],
+   "index": 4,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "cook county",
+    "illinois",
+    "united states",
+    "chicago"
+   ],
+   "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg"
+   ],
+   "number": [
+    "1",
+    "00220720391",
+    "sn84024048"
+   ],
+   "numeric_shelf_id": 188309081,
+   "online_format": [
+    "image",
+    "pdf",
+    "online text"
+   ],
+   "original_format": [
+    "newspaper"
+   ],
+   "partof": [
+    "the conservator (chicago, ill.) 18??-1???",
+    "serial and government publications division",
+    "chronicling america"
+   ],
+   "publication_frequency": [
+    "weekly"
+   ],
+   "score": 13.309539,
+   "shelf_id": "sn84024048, 1883-09-08, Edition 1",
+   "site": [
+    "chroniclingamerica"
+   ],
+   "subject": [
+    "newspapers",
+    "african americans",
+    "chicago",
+    "chicago (ill.)",
+    "cook county",
+    "united states",
+    "illinois",
+    "african american"
+   ],
+   "timestamp": "2023-08-08T02:12:11.475Z",
+   "title": "The conservator (Chicago, Ill.), September 8, 1883",
+   "type": [
+    "issue"
+   ],
+   "url": "https://www.loc.gov/item/sn84024048/1883-09-08/ed-1/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/sn84024048/1886-12-18/ed-1/",
+    "http://www.loc.gov/resource/sn84024048/1886-12-18/ed-1/"
+   ],
+   "batch": [
+    "dlc_crater_ver01"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "library of congress, washington, dc"
+   ],
+   "date": "1886-12-18",
+   "dates": [
+    "1886-12-18"
+   ],
+   "description": [
+    "Chicago, Ill."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2023-08-07T20:30:34.324Z",
+   "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/sn84024048/1886-12-18/ed-1/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crater_ver01:data:sn84024048:00220720391:1886121801:0001/full/pct:3.125/0/default.jpg#h=281&w=219",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crater_ver01:data:sn84024048:00220720391:1886121801:0001/full/pct:6.25/0/default.jpg#h=563&w=438",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crater_ver01:data:sn84024048:00220720391:1886121801:0001/full/pct:12.5/0/default.jpg#h=1127&w=876"
+   ],
+   "index": 5,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "cook county",
+    "illinois",
+    "united states",
+    "chicago"
+   ],
+   "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg"
+   ],
+   "number": [
+    "1",
+    "00220720391",
+    "sn84024048"
+   ],
+   "numeric_shelf_id": 188612181,
+   "online_format": [
+    "image",
+    "pdf",
+    "online text"
+   ],
+   "original_format": [
+    "newspaper"
+   ],
+   "partof": [
+    "the conservator (chicago, ill.) 18??-1???",
+    "serial and government publications division",
+    "chronicling america"
+   ],
+   "publication_frequency": [
+    "weekly"
+   ],
+   "score": 13.309539,
+   "shelf_id": "sn84024048, 1886-12-18, Edition 1",
+   "site": [
+    "chroniclingamerica"
+   ],
+   "subject": [
+    "newspapers",
+    "african americans",
+    "chicago",
+    "chicago (ill.)",
+    "cook county",
+    "united states",
+    "illinois",
+    "african american"
+   ],
+   "timestamp": "2023-08-08T02:12:11.475Z",
+   "title": "The conservator (Chicago, Ill.), December 18, 1886",
+   "type": [
+    "issue"
+   ],
+   "url": "https://www.loc.gov/item/sn84024048/1886-12-18/ed-1/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/sn83025518/1945-08-18/ed-1/",
+    "http://www.loc.gov/resource/sn83025518/1945-08-18/ed-1/"
+   ],
+   "batch": [
+    "dlc_dupontcircle_ver01"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "library of congress, washington, dc"
+   ],
+   "date": "1945-08-18",
+   "dates": [
+    "1945-08-18"
+   ],
+   "description": [
+    "Denver, Colo."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-06-25T18:11:03.611Z",
+   "group": [
+    "sgpjicp/dlc",
+    "japanese-internment-camp-project"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/sn83025518/1945-08-18/ed-1/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_dupontcircle_ver01:data:sn83025518:00237288701:1945081801:0542/full/pct:6.25/0/default.jpg#h=456&w=329",
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_dupontcircle_ver01:data:sn83025518:00237288701:1945081801:0542/full/pct:12.5/0/default.jpg#h=912&w=659"
+   ],
+   "index": 6,
+   "language": [
+    "english",
+    "japanese"
+   ],
+   "location": [
+    "denver",
+    "california",
+    "chicago",
+    "illinois",
+    "united states",
+    "colorado"
+   ],
+   "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg"
+   ],
+   "number": [
+    "00237288701",
+    "1",
+    "sn83025518"
+   ],
+   "numeric_shelf_id": 194508181,
+   "online_format": [
+    "image",
+    "pdf",
+    "online text"
+   ],
+   "original_format": [
+    "newspaper"
+   ],
+   "other_title": [
+    "格州時事 = Colorado times",
+    "Colorado times"
+   ],
+   "partof": [
+    "japanese-american internment camp newspapers, 1942-1946",
+    "kakushu jiji = colorado times (denver, colo.) 1918-1969",
+    "serial and government publications division",
+    "chronicling america"
+   ],
+   "publication_frequency": [
+    "triweekly"
+   ],
+   "score": 10.796808,
+   "shelf_id": "sn83025518, 1945-08-18, Edition 1",
+   "site": [
+    "chroniclingamerica"
+   ],
+   "subject": [
+    "newspapers",
+    "japanese americans",
+    "forced removal and internment",
+    "denver",
+    "california",
+    "chicago",
+    "colorado",
+    "united states",
+    "japanese",
+    "illinois",
+    "denver (colo.)"
+   ],
+   "timestamp": "2026-06-25T18:59:22.691Z",
+   "title": "Kakushu jiji = Colorado times (Denver, Colo.), August 18, 1945",
+   "type": [
+    "issue"
+   ],
+   "url": "https://www.loc.gov/item/sn83025518/1945-08-18/ed-1/"
+  }
+ ],
+ "resources": [
+  {
+   "audio": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18820_02_b25703_01:dlc_victor_18820_02_b25703_01/full/full/0/full/default.mp3",
+   "files": [
+    [
+     {
+      "aspectRation": "4:3",
+      "autoPlay": false,
+      "canDownload": true,
+      "derivatives": [
+       {
+        "derivativeUrl": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/dlc_victor_18820_02_b25703_01/dlc_victor_18820_02_b25703_01.mp3"
+       }
+      ],
+      "detailUrl": "https://www.loc.gov/item/jukebox-42639",
+      "download": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18820_02_b25703_01:dlc_victor_18820_02_b25703_01/full/full/0/full/default.mp3",
+      "duration": 196.0,
+      "filename": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/dlc_victor_18820_02_b25703_01/dlc_victor_18820_02_b25703_01.mp3",
+      "mediaType": "A",
+      "metadata": [
+       "Wabash blues",
+       "Jazz/dance band"
+      ],
+      "mimetype": "audio/mpeg",
+      "poster": null,
+      "rights_restricted": true,
+      "shortName": "Wabash blues",
+      "thumbnail_url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18820_02_b25703_01:dlc_victor_18820_02_b25703_01/full/pct:12.5/0/default.jpg"
+     },
+     {
+      "height": null,
+      "levels": 1,
+      "mimetype": "audio/wav",
+      "size": 34684752,
+      "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/dlc_victor_18820_02_b25703_01/dlc_victor_18820_02_b25703_01.wav",
+      "width": null
+     }
+    ]
+   ],
+   "url": "https://www.loc.gov/resource/jukebox-42639.0"
+  },
+  {
+   "files": [
+    [
+     {
+      "height": 207,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18820_02_b25703_01:dlc_victor_18820_02_b25703_01/full/pct:12.5/0/default.jpg",
+      "width": 209
+     },
+     {
+      "height": 415,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18820_02_b25703_01:dlc_victor_18820_02_b25703_01/full/pct:25/0/default.jpg",
+      "width": 418
+     },
+     {
+      "height": 830,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18820_02_b25703_01:dlc_victor_18820_02_b25703_01/full/pct:50/0/default.jpg",
+      "width": 836
+     },
+     {
+      "height": 1660,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18820_02_b25703_01:dlc_victor_18820_02_b25703_01/full/pct:100/0/default.jpg",
+      "width": 1673
+     },
+     {
+      "height": null,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 6282688,
+      "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/dlc_victor_18820_02_b25703_01/dlc_victor_18820_02_b25703_01.tif",
+      "width": null
+     }
+    ]
+   ],
+   "image": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_18820_02_b25703_01:dlc_victor_18820_02_b25703_01/full/pct:100/0/default.jpg",
+   "mimetype": "image/jpeg",
+   "url": "https://www.loc.gov/resource/jukebox-42639.1"
+  }
+ ],
+ "timestamp": 1791373434296
+}
