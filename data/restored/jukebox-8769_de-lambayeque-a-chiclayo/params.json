@@ -1,0 +1,162 @@
+{
+ "params": {
+  "speed_ratio": 1.0,
+  "highpass_hz": 50.0,
+  "hum_notch_hz": [],
+  "declick": {
+   "order": 32,
+   "k": 8.0,
+   "max_ms": 4.0,
+   "max_percent_replaced": 2.0
+  },
+  "decrackle": {
+   "order": 24,
+   "k": 5.5,
+   "max_ms": 1.0,
+   "max_percent_replaced": 1.5
+  },
+  "denoise": {
+   "over_sub": 1.2,
+   "gain_floor_db": -15.0,
+   "dd_alpha": 0.96
+  },
+  "lowpass_hz": 6097.6,
+  "eq": {
+   "enabled": true,
+   "f_lo": 250.0,
+   "f_hi": 3811.0,
+   "strength": 0.5,
+   "max_db": 4.0,
+   "max_boost_db": 2.5,
+   "tilt_db_per_oct": 0.0
+  },
+  "loudness": "match_original"
+ },
+ "auto_rationale": [
+  "High-pass at 50 Hz (4th order, zero phase): the acoustic horn captured almost nothing this low, so only turntable rumble/DC is removed.",
+  "No mains hum peaks found (50/60 Hz + harmonics) -> no notch filters.",
+  "284 impulses/min measured -> declick threshold 8.0 sigma, decrackle 5.5 sigma.",
+  "Estimated SNR 22.4 dB -> noise over-subtraction x1.2, gain floor -15.0 dB (keeps some surface noise rather than create artefacts).",
+  "Usable band ends near 3811 Hz -> hiss low-pass at 6098 Hz (well above the last musical content).",
+  "Adaptive EQ restricted to 250-3811 Hz, strength 0.5, cuts <= 4.0 dB, boosts <= 2.5 dB."
+ ],
+ "overrides": {},
+ "stage_log": [
+  {
+   "stage": "speed correction",
+   "applied": false,
+   "reason": "no override; tuning offset alone cannot distinguish transfer-speed error from period pitch standards"
+  },
+  {
+   "stage": "high-pass (rumble/DC)",
+   "fc_hz": 50.0,
+   "order": 4,
+   "zero_phase": true
+  },
+  {
+   "stage": "declick (AR detection + LSAR interpolation)",
+   "order": 32,
+   "k_requested": 8.0,
+   "k": 8.0,
+   "max_ms": 4.0,
+   "max_percent_replaced": 2.0,
+   "detected": 980,
+   "repaired": 980,
+   "skipped_too_long": 0,
+   "samples_replaced": 11156,
+   "percent_samples_replaced": 0.1277
+  },
+  {
+   "stage": "decrackle (pass 2)",
+   "order": 24,
+   "k_requested": 5.5,
+   "k_used": 5.5,
+   "max_ms": 1.0,
+   "detected": 2504,
+   "repaired": 2504,
+   "skipped_too_long": 0,
+   "samples_replaced": 26218,
+   "percent_samples_replaced": 0.3002
+  },
+  {
+   "stage": "spectral denoise (decision-directed Wiener)",
+   "over_sub": 1.2,
+   "gain_floor_db": -15.0,
+   "dd_alpha": 0.96,
+   "noise_profile": "minimum statistics (10th percentile x2)",
+   "stft": "2048 Hann / hop 512",
+   "mean_gain_db": -8.95
+  },
+  {
+   "stage": "hiss low-pass",
+   "fc_hz": 6098,
+   "order": 4,
+   "zero_phase": true
+  },
+  {
+   "stage": "adaptive EQ (resonance flattening)",
+   "enabled": true,
+   "f_lo": 250.0,
+   "f_hi": 3811.0,
+   "strength": 0.5,
+   "max_db": 4.0,
+   "max_boost_db": 2.5,
+   "tilt_db_per_oct": 0.0,
+   "applied_range_db": [
+    -3.41,
+    2.5
+   ]
+  },
+  {
+   "stage": "level match",
+   "original_lufs": -17.65,
+   "restored_lufs": -20.29,
+   "gain_db": -0.68,
+   "limiter": false
+  },
+  {
+   "stage": "timing",
+   "seconds": 31.0
+  }
+ ],
+ "ab_cues": [
+  {
+   "label": "Original",
+   "source_start_s": 29.48,
+   "at_s": 0.0,
+   "length_s": 6.0
+  },
+  {
+   "label": "Restored",
+   "source_start_s": 29.48,
+   "at_s": 6.6,
+   "length_s": 6.0
+  },
+  {
+   "label": "Original",
+   "source_start_s": 87.82,
+   "at_s": 13.2,
+   "length_s": 6.0
+  },
+  {
+   "label": "Restored",
+   "source_start_s": 87.82,
+   "at_s": 19.8,
+   "length_s": 6.0
+  },
+  {
+   "label": "Original",
+   "source_start_s": 146.18,
+   "at_s": 26.4,
+   "length_s": 6.0
+  },
+  {
+   "label": "Restored",
+   "source_start_s": 146.18,
+   "at_s": 33.0,
+   "length_s": 6.0
+  }
+ ],
+ "source": "data/originals/jukebox-8769_de-lambayeque-a-chiclayo/loc_original.wav",
+ "source_sha256": "462913a36dd4fab15c3467f988230ad1884f0d8b93b1673f0eb700dc418c966e"
+}
