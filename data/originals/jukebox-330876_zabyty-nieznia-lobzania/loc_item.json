@@ -1,0 +1,1621 @@
+{
+ "articles_and_essays": null,
+ "cite_this": {
+  "apa": "Kartaschoff, I., Lenin, A. &amp; Hampe, F. (1908) <cite>Zabyty Nieznia Lobzania</cite>. [Audio] Retrieved from the Library of Congress, https://www.loc.gov/item/jukebox-330876/.",
+  "chicago": "Kartaschoff, I, A Lenin, and Franz Hampe. <cite>Zabyty Nieznia Lobzania</cite>. 1908. Audio. https://www.loc.gov/item/jukebox-330876/.",
+  "mla": "Kartaschoff, I, A Lenin, and Franz Hampe. <cite>Zabyty Nieznia Lobzania</cite>. 1908. Audio. Retrieved from the Library of Congress, &lt;www.loc.gov/item/jukebox-330876/&gt;."
+ },
+ "item": {
+  "_version_": 1878219459747905536,
+  "access_restricted": false,
+  "aka": [
+   "http://www.loc.gov/jukebox/recordings/detail/id/7175",
+   "http://www.loc.gov/item/jukebox-330876/",
+   "http://www.loc.gov/resource/jukebox-330876.0/",
+   "http://www.loc.gov/resource/jukebox-330876.1/",
+   "http://www.loc.gov/resource/jukebox-330876.0",
+   "http://www.loc.gov/resource/jukebox-330876.1"
+  ],
+  "audio_type": "Vocal",
+  "campaigns": [],
+  "contributor_composer": [
+   "lenin, a."
+  ],
+  "contributor_names": [
+   "Kartaschoff, I. -- Vocalist -- Baritone Vocal",
+   "Lenin, A. -- Composer -- Composer",
+   "Hampe, Franz -- Recordist -- Recordist"
+  ],
+  "contributor_primary": [
+   "kartaschoff, i."
+  ],
+  "contributor_vocalist": [
+   "kartaschoff, i."
+  ],
+  "contributors": [
+   {
+    "hampe, franz": "https://www.loc.gov/search/?fa=contributor:hampe,+franz&fo=json"
+   },
+   {
+    "kartaschoff, i.": "https://www.loc.gov/search/?fa=contributor:kartaschoff,+i.&fo=json"
+   },
+   {
+    "lenin, a.": "https://www.loc.gov/search/?fa=contributor:lenin,+a.&fo=json"
+   }
+  ],
+  "contributors_composer": [
+   {
+    "lenin, a.": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_composer:lenin,+a.&fo=json"
+   }
+  ],
+  "contributors_primary": [
+   {
+    "kartaschoff, i.": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_primary:kartaschoff,+i.&fo=json"
+   }
+  ],
+  "contributors_vocalist": [
+   {
+    "kartaschoff, i.": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_vocalist:kartaschoff,+i.&fo=json"
+   }
+  ],
+  "date": "1908-12-31",
+  "dates": [
+   {
+    "1908-12-31": "https://www.loc.gov/search/?dates=1908-12-31/1908-12-31&fo=json"
+   }
+  ],
+  "description": [
+   "Victor 73152. Matrix/Take: 7458L/[1]."
+  ],
+  "digitized": true,
+  "display_offsite": true,
+  "extract_timestamp": "2026-10-05T03:28:03.283Z",
+  "extract_urls": [
+   "http://www.loc.gov/item/jukebox-330876#nationaljukebox"
+  ],
+  "file_id": [
+   "ucsb_victor_73152_01_7458l_01"
+  ],
+  "format": [
+   {
+    "sound recording": "https://www.loc.gov/search/?fa=original_format:sound+recording&fo=json"
+   }
+  ],
+  "genre": [
+   "Russian",
+   "Ethnic music",
+   "Russian"
+  ],
+  "group": [
+   "nationaljukebox",
+   "national-jukebox"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/item/jukebox-330876/",
+  "iiif_manifest_url": "https://www.loc.gov/item/jukebox-330876/manifest.json",
+  "image_url": [
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_73152_01_7458l_01:ucsb_victor_73152_01_7458l_01/full/pct:50/0/default.jpg#h=395&w=397",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_73152_01_7458l_01:ucsb_victor_73152_01_7458l_01/full/pct:100/0/default.jpg#h=791&w=795"
+  ],
+  "index": 1,
+  "item": {
+   "audio_type": "Vocal",
+   "contributors": [
+    "Kartaschoff, I. -- Vocalist -- Baritone Vocal",
+    "Lenin, A. -- Composer -- Composer",
+    "Hampe, Franz -- Recordist -- Recordist"
+   ],
+   "file_id": [
+    "ucsb_victor_73152_01_7458l_01"
+   ],
+   "genre": [
+    "Russian",
+    "Ethnic music",
+    "Russian"
+   ],
+   "language": "English",
+   "media_size": "10-in.",
+   "profile": "jukebox",
+   "recording_catalog_number": "73152",
+   "recording_date": "1908-12-31",
+   "recording_label": "Victor",
+   "recording_matrix_number": "7458L (Matrix ID)",
+   "recording_repository": "Source of original recording: Department of Special Collections, Davidson Library, University of California, Santa Barbara.",
+   "recording_take_id": 330876,
+   "recording_take_number": "[1]",
+   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+   "summary": "Male vocal solo, with piano"
+  },
+  "language": [
+   "english"
+  ],
+  "languages": [
+   {
+    "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+   }
+  ],
+  "location": [
+   "st. petersburg",
+   "russia"
+  ],
+  "locations": [
+   {
+    "russia": "https://www.loc.gov/search/?fa=location:russia&fo=json"
+   },
+   {
+    "st. petersburg": "https://www.loc.gov/search/?fa=location:st.+petersburg&fo=json"
+   }
+  ],
+  "media_size": "10-in.",
+  "mime_type": [
+   "audio/mpeg",
+   "audio/wav",
+   "image/jpeg"
+  ],
+  "online_format": [
+   "audio",
+   "image"
+  ],
+  "original_format": [
+   "sound recording"
+  ],
+  "other_formats": [],
+  "other_title": [
+   "Zabity nezhniya lobzanya",
+   "Tender embraces forgotten"
+  ],
+  "partof": [
+   {
+    "count": 10024,
+    "title": "department of special collections, davidson library, university of california, santa barbara",
+    "url": "https://www.loc.gov/search/?fa=partof:department+of+special+collections,+davidson+library,+university+of+california,+santa+barbara&fo=json"
+   },
+   {
+    "count": 20273,
+    "title": "national jukebox",
+    "url": "https://www.loc.gov/collections/national-jukebox/?fo=json"
+   },
+   {
+    "count": 20496,
+    "title": "recorded sound research center",
+    "url": "https://www.loc.gov/search/?fa=partof:recorded+sound+research+center&fo=json"
+   }
+  ],
+  "partof_repository": [
+   "department of special collections, davidson library, university of california, santa barbara"
+  ],
+  "profile": "jukebox",
+  "recording_catalog_number": "73152",
+  "recording_date": "1908-12-31",
+  "recording_label": "Victor",
+  "recording_matrix_number": "7458L (Matrix ID)",
+  "recording_repository": "Source of original recording: Department of Special Collections, Davidson Library, University of California, Santa Barbara.",
+  "recording_take_id": 330876,
+  "recording_take_number": "[1]",
+  "resources": [
+   {
+    "files": 1,
+    "media": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_73152_01_7458l_01:ucsb_victor_73152_01_7458l_01/full/full/0/full/default.mp3",
+    "url": "https://www.loc.gov/resource/jukebox-330876.0"
+   },
+   {
+    "files": 1,
+    "image": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_73152_01_7458l_01:ucsb_victor_73152_01_7458l_01/full/pct:100/0/default.jpg",
+    "mimetype": "image/jpeg",
+    "url": "https://www.loc.gov/resource/jukebox-330876.1"
+   }
+  ],
+  "rights": [
+   "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
+  ],
+  "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+  "score": 15.333624,
+  "shard": "01",
+  "shelf_id": "Victor 73152",
+  "site": [
+   "nationaljukebox"
+  ],
+  "source_modified": "2000-01-01T12:00:00Z",
+  "subject": [
+   "vocal",
+   "ethnic music",
+   "russian",
+   "victor"
+  ],
+  "subject_category": [
+   "vocal"
+  ],
+  "subject_genre": [
+   "ethnic music"
+  ],
+  "subject_label": [
+   "victor"
+  ],
+  "subject_target_audience": [
+   "russian"
+  ],
+  "subjects": [
+   {
+    "ethnic music": "https://www.loc.gov/search/?fa=subject:ethnic+music&fo=json"
+   },
+   {
+    "russian": "https://www.loc.gov/search/?fa=subject:russian&fo=json"
+   },
+   {
+    "victor": "https://www.loc.gov/search/?fa=subject:victor&fo=json"
+   },
+   {
+    "vocal": "https://www.loc.gov/search/?fa=subject:vocal&fo=json"
+   }
+  ],
+  "subjects_category": [
+   {
+    "vocal": "https://www.loc.gov/collections/national-jukebox/?fa=subject_category:vocal&fo=json"
+   }
+  ],
+  "subjects_genre": [
+   {
+    "ethnic music": "https://www.loc.gov/collections/national-jukebox/?fa=subject_genre:ethnic+music&fo=json"
+   }
+  ],
+  "subjects_label": [
+   {
+    "victor": "https://www.loc.gov/collections/national-jukebox/?fa=subject_label:victor&fo=json"
+   }
+  ],
+  "subjects_target_audience": [
+   {
+    "russian": "https://www.loc.gov/collections/national-jukebox/?fa=subject_target_audience:russian&fo=json"
+   }
+  ],
+  "summary": "Male vocal solo, with piano",
+  "timestamp": "2026-10-05T14:14:19.247Z",
+  "title": "Zabyty nieznia lobzania",
+  "type": [
+   "sound recording-musical"
+  ],
+  "url": "https://www.loc.gov/item/jukebox-330876/"
+ },
+ "more_like_this": [
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/6655",
+    "http://www.loc.gov/item/jukebox-292870/",
+    "http://www.loc.gov/resource/jukebox-292870.0/",
+    "http://www.loc.gov/resource/jukebox-292870.1/",
+    "http://www.loc.gov/resource/jukebox-292870.0",
+    "http://www.loc.gov/resource/jukebox-292870.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "semenov, a. n.",
+    "michailova, m. a.",
+    "hampe, franz",
+    "david, félicien"
+   ],
+   "date": "1905-12-31",
+   "dates": [
+    "1905-12-31"
+   ],
+   "description": [
+    "Victor 61130. Matrix/Take: 2868L/[1]."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T03:10:24.238Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-292870/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_61130_01_2868l_01:dlc_victor_61130_01_2868l_01/full/pct:12.5/0/default.jpg#h=240&w=242",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_61130_01_2868l_01:dlc_victor_61130_01_2868l_01/full/pct:25/0/default.jpg#h=480&w=485",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_61130_01_2868l_01:dlc_victor_61130_01_2868l_01/full/pct:50/0/default.jpg#h=960&w=971",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_61130_01_2868l_01:dlc_victor_61130_01_2868l_01/full/pct:100/0/default.jpg#h=1921&w=1942"
+   ],
+   "index": 1,
+   "language": [
+    "russian"
+   ],
+   "location": [
+    "st. petersburg",
+    "russia"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "La perle du Bresil",
+    "Brazilskaya Zhemchuzhina: Kuplety Myzoli - Smotri v teni derev Brazilskaya Zhemchuzhina: Kuplety Myzoli - Smotri v teni derevBrazilskaya Zhemchuzhina: Kuplety Myzoli - Smotri v teni derev porkhaet",
+    "Thou brilliant bird"
+   ],
+   "partof": [
+    "recorded sound section, library of congress",
+    "national jukebox",
+    "recorded sound research center"
+   ],
+   "score": 34.049232,
+   "shelf_id": "Victor 61130",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "vocal",
+    "victor",
+    "opera"
+   ],
+   "timestamp": "2026-10-05T14:11:31.153Z",
+   "title": "Charmant oiseau",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-292870/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/6656",
+    "http://www.loc.gov/item/jukebox-292917/",
+    "http://www.loc.gov/resource/jukebox-292917.0/",
+    "http://www.loc.gov/resource/jukebox-292917.1/",
+    "http://www.loc.gov/resource/jukebox-292917.0",
+    "http://www.loc.gov/resource/jukebox-292917.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "tchaikovsky, peter ilich",
+    "turgarinova, kalvdija alekseevna",
+    "michailova, m. a.",
+    "hampe, franz"
+   ],
+   "date": "1905-12-31",
+   "dates": [
+    "1905-12-31"
+   ],
+   "description": [
+    "Victor 61136. Matrix/Take: 2810L/[1]."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T03:10:24.238Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-292917/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_61136_01_2810l_01:dlc_victor_61136_01_2810l_01/full/pct:12.5/0/default.jpg#h=239&w=238",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_61136_01_2810l_01:dlc_victor_61136_01_2810l_01/full/pct:25/0/default.jpg#h=478&w=476",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_61136_01_2810l_01:dlc_victor_61136_01_2810l_01/full/pct:50/0/default.jpg#h=957&w=952",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_61136_01_2810l_01:dlc_victor_61136_01_2810l_01/full/pct:100/0/default.jpg#h=1915&w=1904"
+   ],
+   "index": 2,
+   "language": [
+    "russian"
+   ],
+   "location": [
+    "st. petersburg",
+    "russia"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "O viens, mon doux berger",
+    "Pique dame",
+    "Pikovia dama. Intermediia \"Iskrennost' pastushki\". Duet Prilepy i Milovzora",
+    "Moy milenkiy druzhok, A2"
+   ],
+   "partof": [
+    "recorded sound section, library of congress",
+    "national jukebox",
+    "recorded sound research center"
+   ],
+   "score": 34.049232,
+   "shelf_id": "Victor 61136",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "vocal",
+    "victor",
+    "opera"
+   ],
+   "timestamp": "2026-10-05T14:11:31.153Z",
+   "title": "Duetto",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-292917/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/6657",
+    "http://www.loc.gov/item/jukebox-292927/",
+    "http://www.loc.gov/resource/jukebox-292927.0/",
+    "http://www.loc.gov/resource/jukebox-292927.1/",
+    "http://www.loc.gov/resource/jukebox-292927.0",
+    "http://www.loc.gov/resource/jukebox-292927.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "michailova, m. a.",
+    "hampe, franz",
+    "seidler-winkler, bruno",
+    "verdi, giuseppe"
+   ],
+   "date": "1905-12-31",
+   "dates": [
+    "1905-12-31"
+   ],
+   "description": [
+    "Victor 61141. Matrix/Take: 2918L/[1]."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T03:10:24.238Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-292927/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_61141_01_2918l_01:dlc_victor_61141_01_2918l_01/full/pct:12.5/0/default.jpg#h=238&w=242",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_61141_01_2918l_01:dlc_victor_61141_01_2918l_01/full/pct:25/0/default.jpg#h=476&w=484",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_61141_01_2918l_01:dlc_victor_61141_01_2918l_01/full/pct:50/0/default.jpg#h=953&w=968",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_61141_01_2918l_01:dlc_victor_61141_01_2918l_01/full/pct:100/0/default.jpg#h=1907&w=1937"
+   ],
+   "index": 3,
+   "language": [
+    "russian"
+   ],
+   "location": [
+    "st. petersburg",
+    "russia"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Rigoletto",
+    "Vnemlya imeni ego",
+    "Dearest name",
+    "Rigoletto. Caro nome; arranged"
+   ],
+   "partof": [
+    "recorded sound section, library of congress",
+    "national jukebox",
+    "recorded sound research center"
+   ],
+   "score": 34.049232,
+   "shelf_id": "Victor 61141",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "vocal",
+    "victor",
+    "opera"
+   ],
+   "timestamp": "2026-10-05T14:11:31.153Z",
+   "title": "Caro nome",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-292927/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/4906",
+    "http://www.loc.gov/item/jukebox-188890/",
+    "http://www.loc.gov/resource/jukebox-188890.0/",
+    "http://www.loc.gov/resource/jukebox-188890.1/",
+    "http://www.loc.gov/resource/jukebox-188890.0",
+    "http://www.loc.gov/resource/jukebox-188890.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "popova, nathalie p."
+   ],
+   "date": "1921-09-21",
+   "dates": [
+    "1921-09-21"
+   ],
+   "description": [
+    "Victor 73152. Matrix/Take: B-25055/5."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T01:54:15.430Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-188890/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_73152_01_b25055_05:ucsb_victor_73152_01_b25055_05/full/pct:50/0/default.jpg#h=395&w=398",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_73152_01_b25055_05:ucsb_victor_73152_01_b25055_05/full/pct:100/0/default.jpg#h=791&w=796"
+   ],
+   "index": 4,
+   "language": [
+    "russian"
+   ],
+   "location": [
+    "united states",
+    "new york"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "The rye field"
+   ],
+   "partof": [
+    "department of special collections, davidson library, university of california, santa barbara",
+    "national jukebox",
+    "recorded sound research center"
+   ],
+   "score": 31.877438,
+   "shelf_id": "Victor 73152",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "vocal",
+    "ethnic music",
+    "russian",
+    "victor"
+   ],
+   "timestamp": "2026-10-05T14:01:15.280Z",
+   "title": "Polosinka",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-188890/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/5468",
+    "http://www.loc.gov/item/jukebox-21939/",
+    "http://www.loc.gov/resource/jukebox-21939.0/",
+    "http://www.loc.gov/resource/jukebox-21939.1/",
+    "http://www.loc.gov/resource/jukebox-21939.0",
+    "http://www.loc.gov/resource/jukebox-21939.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "king's orchestra",
+    "bourdon, rosario",
+    "tolstoy, aleksey konstantinovich",
+    "bleĭkhman, i͡uliĭ ivanovich",
+    "olshansky, bernardo"
+   ],
+   "date": "1917-03-06",
+   "dates": [
+    "1917-03-06"
+   ],
+   "description": [
+    "Victor 69342. Matrix/Take: B-19244/2."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-04T19:01:11.222Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-21939/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_69342_01_b19244_02:ucsb_victor_69342_01_b19244_02/full/pct:50/0/default.jpg#h=394&w=396",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_69342_01_b19244_02:ucsb_victor_69342_01_b19244_02/full/pct:100/0/default.jpg#h=789&w=793"
+   ],
+   "index": 5,
+   "language": [
+    "russian"
+   ],
+   "location": [
+    "united states",
+    "new york"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "The prisoners"
+   ],
+   "partof": [
+    "department of special collections, davidson library, university of california, santa barbara",
+    "national jukebox",
+    "recorded sound research center"
+   ],
+   "score": 31.877438,
+   "shelf_id": "Victor 69342",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "vocal",
+    "ethnic music",
+    "russian",
+    "victor"
+   ],
+   "timestamp": "2026-10-05T14:04:44.546Z",
+   "title": "Kolodniki",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-21939/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/2592",
+    "http://www.loc.gov/item/jukebox-131498/",
+    "http://www.loc.gov/resource/jukebox-131498.0/",
+    "http://www.loc.gov/resource/jukebox-131498.1/",
+    "http://www.loc.gov/resource/jukebox-131498.0",
+    "http://www.loc.gov/resource/jukebox-131498.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "ferenzo, mischa",
+    "bachman, fred"
+   ],
+   "date": "1912-02-02",
+   "dates": [
+    "1912-02-02"
+   ],
+   "description": [
+    "Victor 63642. Matrix/Take: B-11556/1."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T00:01:57.339Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-131498/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_63642_01_b11556_01:ucsb_victor_63642_01_b11556_01/full/pct:50/0/default.jpg#h=394&w=396",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_63642_01_b11556_01:ucsb_victor_63642_01_b11556_01/full/pct:100/0/default.jpg#h=789&w=793"
+   ],
+   "index": 6,
+   "language": [
+    "russian"
+   ],
+   "location": [
+    "united states",
+    "new jersey",
+    "camden"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "partof": [
+    "department of special collections, davidson library, university of california, santa barbara",
+    "national jukebox",
+    "recorded sound research center"
+   ],
+   "score": 31.877438,
+   "shelf_id": "Victor 63642",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "vocal",
+    "ethnic music",
+    "russian",
+    "victor"
+   ],
+   "timestamp": "2026-10-05T13:44:18.721Z",
+   "title": "Diwnyje otshi",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-131498/"
+  }
+ ],
+ "notice": {
+  "info": "<strong>COLUMBUS DAY HOLIDAY:</strong> On Monday, October 12, 2026, The Jefferson Building Great Hall and exhibitions will be open from 10 a.m. - 5 p.m. to guests with timed-entry passes. The Main Reading Room will be open to visitors, no research or collections services available. All other reading rooms, the Madison and Adams Buildings will be CLOSED to the public. Regularly scheduled access resumes on Tuesday, October 13. \n",
+  "status": "production"
+ },
+ "options": {
+  "access_group": [
+   ""
+  ],
+  "access_group_raw": "",
+  "all": null,
+  "api_version": "1",
+  "app_context": null,
+  "application_shim": null,
+  "application_version": "$Revision$",
+  "attribute": null,
+  "attribute!": null,
+  "attribute_map": null,
+  "cache_tags": [
+   "nationaljukebox",
+   "national-jukebox",
+   "gmd.mar",
+   "catalog-split-14",
+   "catalog",
+   "general-maps",
+   "main-catalog-split-14",
+   "cph",
+   "catalog-split-12",
+   "miscellaneous-items-high-demand",
+   "main-catalog-split-12",
+   "main-catalog",
+   "det",
+   "detroit-publishing-company",
+   "pp_other",
+   "catalog-split-01",
+   "prints-and-photographs-other",
+   "main-catalog-split-01",
+   "catalog-split-02",
+   "main-catalog-split-02",
+   "catalog-split-03",
+   "main-catalog-split-03"
+  ],
+  "callback": null,
+  "clip": null,
+  "clip_image_width": null,
+  "clip_rotation": null,
+  "content_filter": null,
+  "content_replacement": "",
+  "count": null,
+  "dates": null,
+  "default_count": 25,
+  "delimiter": null,
+  "digital_id": null,
+  "display_level": null,
+  "distance": null,
+  "downloadOption": null,
+  "duration": 1.8628027439117432,
+  "embed": [],
+  "embed!": [],
+  "error_response_status": null,
+  "excludeTerms": null,
+  "facetLimits": "",
+  "facetPrefix": null,
+  "facet_count": null,
+  "facet_style": null,
+  "field": null,
+  "form_facets": [
+   {
+    "field": "subject_label",
+    "select": "multiple"
+   },
+   {
+    "field": "subject_category",
+    "select": "multiple"
+   },
+   {
+    "field": "language",
+    "select": "multiple"
+   }
+  ],
+  "format": "json",
+  "host": "www.loc.gov",
+  "ical": false,
+  "id": "jukebox-330876/",
+  "iiif": false,
+  "include_facets": [
+   {
+    "field": "original-format"
+   },
+   {
+    "field": "partof_repository",
+    "label": "Repository"
+   },
+   {
+    "field": "subject_label",
+    "label": "Label"
+   },
+   {
+    "field": "dates"
+   },
+   {
+    "field": "subject_genre",
+    "label": "Genre"
+   },
+   {
+    "closed": true,
+    "field": "subject_target_audience",
+    "label": "Target Audience"
+   },
+   {
+    "closed": true,
+    "field": "subject_category",
+    "label": "Category"
+   },
+   {
+    "closed": true,
+    "field": "location"
+   },
+   {
+    "closed": true,
+    "field": "contributor"
+   },
+   {
+    "closed": true,
+    "field": "contributor_vocalist",
+    "label": "Vocalist"
+   },
+   {
+    "closed": true,
+    "field": "contributor_composer",
+    "label": "Composer"
+   },
+   {
+    "closed": true,
+    "field": "contributor_lyricist",
+    "label": "Lyricist"
+   },
+   {
+    "closed": true,
+    "field": "contributor_author",
+    "label": "Author"
+   },
+   {
+    "closed": true,
+    "field": "contributor_performer",
+    "label": "Performer"
+   },
+   {
+    "closed": true,
+    "field": "contributor_musical_group",
+    "label": "Musical Group"
+   },
+   {
+    "closed": true,
+    "field": "subject"
+   },
+   {
+    "closed": true,
+    "field": "language"
+   },
+   {
+    "field": "access-restricted"
+   }
+  ],
+  "index": null,
+  "inputEncoding": "UTF-8",
+  "item": null,
+  "items": null,
+  "keys": null,
+  "language": null,
+  "latlong": null,
+  "method": "GET",
+  "newSearch": null,
+  "new_clip_url": false,
+  "onsite": false,
+  "operator": null,
+  "outputEncoding": "UTF-8",
+  "page_campaigns": [],
+  "path_info": "/item/jukebox-330876/",
+  "port": "443",
+  "proxypath": null,
+  "query_string": "fo=json",
+  "redirect_proxy": false,
+  "redirect_to_item": null,
+  "referer": "",
+  "region": "",
+  "release_id": 123456789,
+  "request_host": "www.loc.gov",
+  "request_params": {
+   "fo": [
+    "json"
+   ]
+  },
+  "request_url": "https://www.loc.gov/item/jukebox-330876/?fo=json",
+  "resource": "",
+  "resource_sequence": null,
+  "scheme": "https",
+  "searchIn": null,
+  "searchTerms": "",
+  "segments": null,
+  "shards": [
+   "01"
+  ],
+  "site_date_range": "1900-01-01/1925-12-31",
+  "site_defaults": [],
+  "site_id": null,
+  "site_type": null,
+  "solrQuery": "",
+  "sortBy": null,
+  "sortOrder": null,
+  "startPage": null,
+  "style": null,
+  "suggested": null,
+  "target": null,
+  "template": "layouts/item/layout",
+  "timestamp": 1791378254.3155875,
+  "tz_aware": null,
+  "unionFacets": "",
+  "webcast_permalink": null
+ },
+ "related_items": [
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://lccn.loc.gov/14002124",
+    "http://www.loc.gov/item/14002124/",
+    "https://search.catalog.loc.gov/instances/59e572b7-709c-5116-9273-886f114f0be4",
+    "https://hdl.loc.gov/loc.gmd/g7064lm.gct00144",
+    "http://www.loc.gov/resource/g7064lm.gct00144/"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "makhaev, mikhail ivanovich",
+    "michurin, ivan fedorovich",
+    "sokolovʺ, ivanʺ aleksi︠e︡evich",
+    "imperatorskai︠a︡ akademīi︠a︡ naukʺ i khudozhestvʺ (russia)",
+    "treskot, johann",
+    "valeriani, giuseppe"
+   ],
+   "date": "1753",
+   "dates": [
+    "1753"
+   ],
+   "description": [
+    "\"Planʺ Imperatorskago stolichnago goroda Moskvy, sochinennoĭ podʺ smotrenīemʺ arkhitektora Ivana Michurina vʺ 1739 godu,\" map at end. [Plan/map of the Imperial capital city of Moscow, prepared under the supervision of the architect Ivan Michurin in 1739.] Most of the plates are signed: \"Podsmotr. g. Valerīiani, snimalʺ podmasterʹi︠a︡ Mikhaĭla Makhaevʺ.\" Engraved by various engravers under supervision of Ivan Sokolov. English translation of French map captions: 1. Map of St. Petersburg from 1737 -- 2. View of the Neva towards the East between the shipyards and the 13th line of the Wasily section -- 3. View of the banks of the Neva showing the river between the Admiralty and the buildings of the Academy of Sciences -- 4. View of the banks of the Neva downriver between the Winter Palace and the buildings of the Academy of Sciences -- 5. View of the Neva towards the West between the Church of St. Isaac and the buildings of the Cadet Corps -- 6. View of the Fontancka River towards the south between the grotto and the court's storehouses -- 7. View of the Admiralty and its surroundings looking west from the triumphal arch -- 8. View of a part of the town of St. Petersburg looking east from the triumphal arch -- 9. View of the Bourse and the commodities market while ascending from the little Neva -- 10. View of the buildings of the Imperial Colleges and a part of the commodities market toward the east -- 11. View of the New Palace from the triumphal arch of Anitschki toward the east with a part of the town and Nevsky Prospect close to the shore of the Fontanka -- 12. View of the Summer Palace from the north shore -- 13. View of the Old Winter Palace and the canal that joins the Moika and the Neva -- 14. View of Kamennoy Island on the little Newka near the St. Petersburg residence of the Countess Bestoucheff Rumin -- 15. Map of Moscow from 1739. Accompanied by Supplement: Stolichnoĭ gorodʹ. S. Peterburgʺ. Chertilʺ Ī. Truskotʺ. Podsmotr. Iv. Sokolova grid. khudozhniki obshche. [Vʹ Sanktpeterburgi︠e︡, 1753]. Map 135 x 100 cm. folded to 75 x 52 cm. (in portfolio). Scale not given. Issued in 9 sheets, mounted on muslin to fold. Call number: G2114.L4 A3 1753 Suppl. Includes index. Eighteenth century Russian publications in the Library of Congress (Fessenko), 11* List of geographical atlases in the Library of Congress, 5282 Available also through the Library of Congress Web site as a raster image. List of buildings, etc. in Russian, romanized Russian, and French; list of streets in Russian and romanized Russian; legends on St. Petersburg map (1737) in Russian and German, on Moscow map in Russian. \"Планъ Императорскаго столичнаго города Москвы, сочиненной подъ смотреніемъ архитектора Ивана Мичурина въ 1739 году,\" map at end. [Plan/map of the Imperial capital city of Moscow, prepared under the supervision of the architect Ivan Michurin in 1739.] Most of the plates are signed: \"Подсмотр. г. Валеріиани, снималъ подмастерья Михайла Махаевъ.\" Engraved by various engravers under supervision of Иван Соколов. Accompanied by Supplement: Столичной городь. С. Петербургъ. Чертилъ І. Трускотъ. Подсмотр. Ив. Соколова грид. художники обще. [Вь Санктпетербургѣ, 1753]. Map 135 x 100 cm. folded to 75 x 52 cm. (in portfolio). Scale not given. Issued in 9 sheets, mounted on muslin to fold. Call number: G2114.L4 A3 1753 Suppl."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-04-29T15:39:34.634Z",
+   "group": [
+    "gmd.mar",
+    "catalog-split-14",
+    "catalog",
+    "general-maps",
+    "main-catalog-split-14"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/14002124/",
+   "image_url": [
+    "https://tile.loc.gov/storage-services/service/gmd/gmd7m/g7064m/g7064lm/gct00144/ca000001.gif",
+    "https://tile.loc.gov/storage-services/service/gmd/gmd7m/g7064m/g7064lm/gct00144/ca000001.gif#h=150&w=227",
+    "https://tile.loc.gov/image-services/iiif/service:gmd:gmd7m:g7064m:g7064lm:gct00144:ca000001/full/pct:12.5/0/default.jpg#h=938&w=1422",
+    "https://tile.loc.gov/image-services/iiif/service:gmd:gmd7m:g7064m:g7064lm:gct00144:ca000001/full/pct:25/0/default.jpg#h=1877&w=2844"
+   ],
+   "index": 1,
+   "language": [
+    "russian",
+    "french"
+   ],
+   "location": [
+    "st. petersburg",
+    "russia",
+    "saint petersburg",
+    "moscow"
+   ],
+   "mime_type": [
+    "image/gif",
+    "image/tiff",
+    "image/jpeg",
+    "image/jp2"
+   ],
+   "number": [
+    "14002124",
+    "2024-04-16t15:49:07",
+    "2025-06-07t22:50:56.500000"
+   ],
+   "online_format": [
+    "image"
+   ],
+   "original_format": [
+    "map"
+   ],
+   "other_title": [
+    "Планъ столичнаго города Санктпетербурга cъ изображеніемъ знатнѣйшихъ онаго проспектовъ /",
+    "Plan stolichnogo goroda Sanktpeterburga c izobrazheniem znatneĭshikh onogo prospektov",
+    "Plan de la ville de St. Petersbourg avec ses principales vües",
+    "Supplement has title: Stolichnoĭ gorodʹ. S. Peterburgʺ. Chertilʺ Ī. Truskotʺ"
+   ],
+   "partof": [
+    "geography and map division",
+    "catalog",
+    "cities and towns"
+   ],
+   "score": 10.135689,
+   "shelf_id": "G2114.L4 A3 1753",
+   "site": [
+    "catalog"
+   ],
+   "subject": [
+    "st. petersburg",
+    "moscow",
+    "maps",
+    "moscow (russia)",
+    "saint petersburg (russia)",
+    "early works to 1800",
+    "russia",
+    "aerial views"
+   ],
+   "timestamp": "2026-04-29T15:42:50.105Z",
+   "title": "Planʺ stolichnago goroda Sanktpeterburga cʺ izobrazhenīemʺ znatni︠e︡ĭshikhʺ onago prospektovʺ",
+   "type": [
+    "cartographic"
+   ],
+   "url": "https://www.loc.gov/item/14002124/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "https://www.loc.gov/pictures/item/2013645043/",
+    "http://www.loc.gov/item/2013645043/",
+    "http://www.loc.gov/pictures/item/2013645043/",
+    "https://www.loc.gov/pictures/collection/cph/item/2013645043/",
+    "http://www.loc.gov/pictures/collection/cph/item/2013645043/",
+    "http://www.loc.gov/resource/ds.02394/",
+    "https://hdl.loc.gov/loc.pnp/ds.02394",
+    "http://lccn.loc.gov/2013645043"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "switzer, c. c."
+   ],
+   "date": "1908-01-01",
+   "dates": [
+    "1908"
+   ],
+   "description": [
+    "1 photographic print (postcard) | Postcard shows group portrait of students and staff from Victor High School and lower grades assembled in front of building."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2021-08-24T20:11:34.937Z",
+   "group": [
+    "cph",
+    "catalog-split-12",
+    "catalog",
+    "miscellaneous-items-high-demand",
+    "main-catalog-split-12",
+    "main-catalog"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/2013645043/",
+   "image_url": [
+    "https://tile.loc.gov/storage-services/service/pnp/ds/02300/02394_150px.jpg#h=50&w=150",
+    "https://tile.loc.gov/storage-services/service/pnp/ds/02300/02394r.jpg#h=214&w=640",
+    "https://tile.loc.gov/storage-services/service/pnp/ds/02300/02394v.jpg#h=342&w=1024"
+   ],
+   "index": 2,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "victor",
+    "united states",
+    "iowa"
+   ],
+   "mime_type": [
+    "image/gif",
+    "image/jpg",
+    "image/tif"
+   ],
+   "number": [
+    "http://www.loc.gov/item/17665053",
+    "2013645043",
+    "2013-04-03t08:58:59"
+   ],
+   "online_format": [
+    "image"
+   ],
+   "original_format": [
+    "photo, print, drawing"
+   ],
+   "partof": [
+    "prints and photographs division",
+    "catalog",
+    "miscellaneous items in high demand",
+    "prints & photographs online catalog (library of congress)",
+    "lot 14058"
+   ],
+   "score": 9.757024,
+   "shelf_id": "LOT 14058, no. 123 [P&P]",
+   "site": [
+    "pictures",
+    "catalog"
+   ],
+   "subject": [
+    "victor (iowa)",
+    "group portraits",
+    "photographic postcards",
+    "schools",
+    "united states",
+    "school children",
+    "victor",
+    "photographic prints",
+    "panoramic postcards",
+    "iowa"
+   ],
+   "timestamp": "2022-05-02T06:13:36.448Z",
+   "title": "[Victor High School, Victor, Iowa]",
+   "url": "https://www.loc.gov/item/2013645043/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/pictures/collection/det/item/2016808865/",
+    "http://www.loc.gov/item/2016808865/",
+    "http://www.loc.gov/pictures/item/2016808865/",
+    "https://hdl.loc.gov/loc.pnp/det.4a09194",
+    "http://www.loc.gov/resource/det.4a09194/",
+    "http://lccn.loc.gov/2016808865"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "detroit publishing co.",
+    "jackson, william henry"
+   ],
+   "date": "1900-01-01",
+   "dates": [
+    "1900"
+   ],
+   "description": [
+    "1 negative : glass ; 8 x 10 in."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2021-09-01T22:30:01.644Z",
+   "group": [
+    "det",
+    "catalog-split-12",
+    "catalog",
+    "detroit-publishing-company",
+    "main-catalog-split-12",
+    "main-catalog"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/2016808865/",
+   "image_url": [
+    "https://tile.loc.gov/storage-services/service/pnp/det/4a00000/4a09000/4a09100/4a09194_150px.jpg#h=120&w=150",
+    "https://tile.loc.gov/storage-services/service/pnp/det/4a00000/4a09000/4a09100/4a09194t.gif#h=120&w=150",
+    "https://tile.loc.gov/storage-services/service/pnp/det/4a00000/4a09000/4a09100/4a09194r.jpg#h=511&w=640",
+    "https://tile.loc.gov/storage-services/service/pnp/det/4a00000/4a09000/4a09100/4a09194v.jpg#h=817&w=1024"
+   ],
+   "index": 3,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "victor",
+    "united states",
+    "colorado"
+   ],
+   "mime_type": [
+    "image/gif",
+    "image/jpg",
+    "image/tif"
+   ],
+   "number": [
+    "2017-10-30t13:04:57",
+    "http://www.loc.gov/item/2016808865",
+    "http://www.loc.gov/item/20110612",
+    "http://www.loc.gov/item/det1994014825/pp",
+    "2016808865"
+   ],
+   "online_format": [
+    "image"
+   ],
+   "original_format": [
+    "photo, print, drawing"
+   ],
+   "partof": [
+    "prints and photographs division",
+    "catalog",
+    "american memory",
+    "prints & photographs online catalog (library of congress)",
+    "detroit publishing company"
+   ],
+   "score": 9.757024,
+   "shelf_id": "LC-D4-13841 [P&P]",
+   "site": [
+    "pictures",
+    "catalog"
+   ],
+   "subject": [
+    "dry plate negatives",
+    "cityscape photographs",
+    "united states",
+    "colorado",
+    "victor",
+    "gold mining"
+   ],
+   "timestamp": "2022-04-25T08:19:00.040Z",
+   "title": "Victor, Colo., and the Gold Coin Mine",
+   "url": "https://www.loc.gov/item/2016808865/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "https://www.loc.gov/pictures/item/2024689882/",
+    "http://www.loc.gov/item/2024689882/",
+    "http://www.loc.gov/pictures/item/2024689882/",
+    "https://hdl.loc.gov/loc.pnp/pcrd.1d03519",
+    "https://hdl.loc.gov/loc.pnp/pcrd.1d03519",
+    "https://hdl.loc.gov/loc.pnp/pcrd.2d03519",
+    "https://hdl.loc.gov/loc.pnp/pcrd.2d03519",
+    "http://www.loc.gov/resource/pcrd.1d03519/",
+    "http://www.loc.gov/resource/pcrd.2d03519/",
+    "http://lccn.loc.gov/2024689882"
+   ],
+   "campaigns": [],
+   "date": "1910",
+   "dates": [
+    "1910"
+   ],
+   "description": [
+    "1 photograph : gelatin silver print ; sheet 9 x 14 cm (postcard format)"
+   ],
+   "digitized": true,
+   "extract_timestamp": "2024-03-02T14:28:03.271Z",
+   "group": [
+    "pp_other",
+    "catalog-split-01",
+    "catalog",
+    "prints-and-photographs-other",
+    "main-catalog-split-01"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/2024689882/",
+   "image_url": [
+    "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03519_150px.jpg#h=99&w=150",
+    "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03519r.jpg#h=422&w=640",
+    "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03519v.jpg#h=675&w=1024"
+   ],
+   "index": 4,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "victor",
+    "united states",
+    "montana"
+   ],
+   "mime_type": [
+    "image/gif",
+    "image/jpg",
+    "image/tif"
+   ],
+   "number": [
+    "2024689882",
+    "http://www.loc.gov/item/23570952",
+    "sheet",
+    "2024-02-21t08:57:11"
+   ],
+   "online_format": [
+    "image"
+   ],
+   "original_format": [
+    "photo, print, drawing"
+   ],
+   "partof": [
+    "prints and photographs division",
+    "catalog"
+   ],
+   "score": 9.757024,
+   "shelf_id": "PCRD 4 - Montana - Victor, no. 1 [P&P]",
+   "site": [
+    "pictures",
+    "catalog"
+   ],
+   "subject": [
+    "streets",
+    "united states",
+    "victor",
+    "postcards",
+    "photographs",
+    "montana"
+   ],
+   "timestamp": "2024-03-02T14:40:16.299Z",
+   "title": "Main Street, Victor, Montana",
+   "type": [
+    "still image"
+   ],
+   "url": "https://www.loc.gov/item/2024689882/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "https://www.loc.gov/pictures/item/2024689883/",
+    "http://www.loc.gov/item/2024689883/",
+    "http://www.loc.gov/pictures/item/2024689883/",
+    "https://hdl.loc.gov/loc.pnp/pcrd.1d03520",
+    "https://hdl.loc.gov/loc.pnp/pcrd.1d03520",
+    "https://hdl.loc.gov/loc.pnp/pcrd.2d03520",
+    "https://hdl.loc.gov/loc.pnp/pcrd.2d03520",
+    "http://www.loc.gov/resource/pcrd.1d03520/",
+    "http://www.loc.gov/resource/pcrd.2d03520/",
+    "http://lccn.loc.gov/2024689883"
+   ],
+   "campaigns": [],
+   "date": "1910",
+   "dates": [
+    "1910"
+   ],
+   "description": [
+    "1 photograph : gelatin silver print ; sheet 9 x 14 cm (postcard format)"
+   ],
+   "digitized": true,
+   "extract_timestamp": "2024-03-02T13:51:56.083Z",
+   "group": [
+    "pp_other",
+    "catalog-split-02",
+    "catalog",
+    "prints-and-photographs-other",
+    "main-catalog-split-02"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/2024689883/",
+   "image_url": [
+    "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03520_150px.jpg#h=98&w=150",
+    "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03520r.jpg#h=419&w=640",
+    "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03520v.jpg#h=670&w=1024"
+   ],
+   "index": 5,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "victor",
+    "united states",
+    "montana"
+   ],
+   "mime_type": [
+    "image/gif",
+    "image/jpg",
+    "image/tif"
+   ],
+   "number": [
+    "http://www.loc.gov/item/23570953",
+    "2024689883",
+    "sheet",
+    "2024-02-21t08:57:12"
+   ],
+   "online_format": [
+    "image"
+   ],
+   "original_format": [
+    "photo, print, drawing"
+   ],
+   "partof": [
+    "prints and photographs division",
+    "catalog"
+   ],
+   "score": 9.757024,
+   "shelf_id": "PCRD 4 - Montana - Victor, no. 2 [P&P]",
+   "site": [
+    "pictures",
+    "catalog"
+   ],
+   "subject": [
+    "united states",
+    "victor",
+    "postcards",
+    "photographs",
+    "montana"
+   ],
+   "timestamp": "2024-03-02T14:40:16.299Z",
+   "title": "The snow-capped peak of St. Mory's, Victor, Montana",
+   "type": [
+    "still image"
+   ],
+   "url": "https://www.loc.gov/item/2024689883/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "https://www.loc.gov/pictures/item/2024689884/",
+    "http://www.loc.gov/item/2024689884/",
+    "http://www.loc.gov/pictures/item/2024689884/",
+    "https://hdl.loc.gov/loc.pnp/pcrd.1d03521",
+    "https://hdl.loc.gov/loc.pnp/pcrd.1d03521",
+    "https://hdl.loc.gov/loc.pnp/pcrd.2d03521",
+    "https://hdl.loc.gov/loc.pnp/pcrd.2d03521",
+    "http://www.loc.gov/resource/pcrd.1d03521/",
+    "http://www.loc.gov/resource/pcrd.2d03521/",
+    "http://lccn.loc.gov/2024689884"
+   ],
+   "campaigns": [],
+   "date": "1910",
+   "dates": [
+    "1910"
+   ],
+   "description": [
+    "1 photograph : gelatin silver print ; sheet 9 x 14 cm (postcard format)"
+   ],
+   "digitized": true,
+   "extract_timestamp": "2024-03-02T14:28:03.271Z",
+   "group": [
+    "pp_other",
+    "catalog-split-03",
+    "catalog",
+    "prints-and-photographs-other",
+    "main-catalog-split-03"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/2024689884/",
+   "image_url": [
+    "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03521_150px.jpg#h=98&w=150",
+    "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03521r.jpg#h=419&w=640",
+    "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03521v.jpg#h=670&w=1024"
+   ],
+   "index": 6,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "victor",
+    "united states",
+    "montana"
+   ],
+   "mime_type": [
+    "image/gif",
+    "image/jpg",
+    "image/tif"
+   ],
+   "number": [
+    "http://www.loc.gov/item/23570954",
+    "sheet",
+    "2024-02-21t08:57:12",
+    "2024689884"
+   ],
+   "online_format": [
+    "image"
+   ],
+   "original_format": [
+    "photo, print, drawing"
+   ],
+   "partof": [
+    "prints and photographs division",
+    "catalog"
+   ],
+   "score": 9.757024,
+   "shelf_id": "PCRD 4 - Montana - Victor, no. 3 [P&P]",
+   "site": [
+    "pictures",
+    "catalog"
+   ],
+   "subject": [
+    "united states",
+    "victor",
+    "houses",
+    "postcards",
+    "photographs",
+    "montana"
+   ],
+   "timestamp": "2024-03-02T14:40:16.299Z",
+   "title": "A Bitter Root home, Victor, Montana",
+   "type": [
+    "still image"
+   ],
+   "url": "https://www.loc.gov/item/2024689884/"
+  }
+ ],
+ "resources": [
+  {
+   "audio": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_73152_01_7458l_01:ucsb_victor_73152_01_7458l_01/full/full/0/full/default.mp3",
+   "files": [
+    [
+     {
+      "aspectRation": "4:3",
+      "autoPlay": false,
+      "canDownload": true,
+      "derivatives": [
+       {
+        "derivativeUrl": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/ucsb_victor_73152_01_7458l_01/ucsb_victor_73152_01_7458l_01.mp3"
+       }
+      ],
+      "detailUrl": "https://www.loc.gov/item/jukebox-330876",
+      "download": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_73152_01_7458l_01:ucsb_victor_73152_01_7458l_01/full/full/0/full/default.mp3",
+      "duration": 170.0,
+      "filename": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/ucsb_victor_73152_01_7458l_01/ucsb_victor_73152_01_7458l_01.mp3",
+      "mediaType": "A",
+      "metadata": [
+       "Zabyty nieznia lobzania",
+       "Male vocal solo, with piano"
+      ],
+      "mimetype": "audio/mpeg",
+      "poster": null,
+      "rights_restricted": true,
+      "shortName": "Zabyty nieznia lobzania",
+      "thumbnail_url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_73152_01_7458l_01:ucsb_victor_73152_01_7458l_01/full/pct:50/0/default.jpg"
+     },
+     {
+      "height": null,
+      "levels": 1,
+      "mimetype": "audio/wav",
+      "size": 30038868,
+      "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/ucsb_victor_73152_01_7458l_01/ucsb_victor_73152_01_7458l_01.wav",
+      "width": null
+     }
+    ]
+   ],
+   "url": "https://www.loc.gov/resource/jukebox-330876.0"
+  },
+  {
+   "files": [
+    [
+     {
+      "height": 395,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_73152_01_7458l_01:ucsb_victor_73152_01_7458l_01/full/pct:50/0/default.jpg",
+      "width": 397
+     },
+     {
+      "height": 791,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_73152_01_7458l_01:ucsb_victor_73152_01_7458l_01/full/pct:100/0/default.jpg",
+      "width": 795
+     }
+    ]
+   ],
+   "image": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_73152_01_7458l_01:ucsb_victor_73152_01_7458l_01/full/pct:100/0/default.jpg",
+   "mimetype": "image/jpeg",
+   "url": "https://www.loc.gov/resource/jukebox-330876.1"
+  }
+ ],
+ "timestamp": 1791378256178
+}

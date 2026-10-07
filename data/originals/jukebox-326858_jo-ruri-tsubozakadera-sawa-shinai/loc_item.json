@@ -1,0 +1,1612 @@
+{
+ "articles_and_essays": null,
+ "cite_this": {
+  "apa": "Toyotake, R. &amp; Gaisberg, W. C. (1906) <cite>JōruriTsubozakadera: Sawa shinai 浄瑠璃壷坂寺: 澤市内</cite>. [Audio] Retrieved from the Library of Congress, https://www.loc.gov/item/jukebox-326858/.",
+  "chicago": "Toyotake, Roshō, and William Conrad Gaisberg. <cite>JōruriTsubozakadera: Sawa shinai 浄瑠璃壷坂寺: 澤市内</cite>. 1906. Audio. https://www.loc.gov/item/jukebox-326858/.",
+  "mla": "Toyotake, Roshō, and William Conrad Gaisberg. <cite>JōruriTsubozakadera: Sawa shinai 浄瑠璃壷坂寺: 澤市内</cite>. 1906. Audio. Retrieved from the Library of Congress, &lt;www.loc.gov/item/jukebox-326858/&gt;."
+ },
+ "item": {
+  "_version_": 1878219436744245249,
+  "access_restricted": false,
+  "aka": [
+   "http://www.loc.gov/jukebox/recordings/detail/id/7127",
+   "http://www.loc.gov/item/jukebox-326858/",
+   "http://www.loc.gov/resource/jukebox-326858.0/",
+   "http://www.loc.gov/resource/jukebox-326858.1/",
+   "http://www.loc.gov/resource/jukebox-326858.0",
+   "http://www.loc.gov/resource/jukebox-326858.1"
+  ],
+  "audio_type": "Vocal",
+  "campaigns": [],
+  "contributor_names": [
+   "Toyotake, Roshō -- Vocalist -- Vocalist",
+   "Gaisberg, William Conrad -- Recordist -- Recordist"
+  ],
+  "contributor_primary": [
+   "toyotake, roshō"
+  ],
+  "contributor_vocalist": [
+   "toyotake, roshō"
+  ],
+  "contributors": [
+   {
+    "gaisberg, william conrad": "https://www.loc.gov/search/?fa=contributor:gaisberg,+william+conrad&fo=json"
+   },
+   {
+    "toyotake, roshō": "https://www.loc.gov/search/?fa=contributor:toyotake,+rosh%C5%8D&fo=json"
+   }
+  ],
+  "contributors_primary": [
+   {
+    "toyotake, roshō": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_primary:toyotake,+rosh%C5%8D&fo=json"
+   }
+  ],
+  "contributors_vocalist": [
+   {
+    "toyotake, roshō": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_vocalist:toyotake,+rosh%C5%8D&fo=json"
+   }
+  ],
+  "date": "1906-11-30",
+  "dates": [
+   {
+    "1906-11-30": "https://www.loc.gov/search/?dates=1906-11-30/1906-11-30&fo=json"
+   }
+  ],
+  "description": [
+   "Victor 11154. Matrix/Take: 4815e/[1]."
+  ],
+  "digitized": true,
+  "display_offsite": true,
+  "extract_timestamp": "2026-10-05T03:24:54.234Z",
+  "extract_urls": [
+   "http://www.loc.gov/item/jukebox-326858#nationaljukebox"
+  ],
+  "file_id": [
+   "ucsb_victor_11154_01_4815e_01"
+  ],
+  "format": [
+   {
+    "sound recording": "https://www.loc.gov/search/?fa=original_format:sound+recording&fo=json"
+   }
+  ],
+  "genre": [
+   "Japanese",
+   "Ethnic music",
+   "Japanese"
+  ],
+  "group": [
+   "nationaljukebox",
+   "national-jukebox"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/item/jukebox-326858/",
+  "iiif_manifest_url": "https://www.loc.gov/item/jukebox-326858/manifest.json",
+  "image_url": [
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_11154_01_4815e_01:ucsb_victor_11154_01_4815e_01/full/pct:50/0/default.jpg#h=395&w=397",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_11154_01_4815e_01:ucsb_victor_11154_01_4815e_01/full/pct:100/0/default.jpg#h=790&w=794"
+  ],
+  "index": 1,
+  "item": {
+   "audio_type": "Vocal",
+   "contributors": [
+    "Toyotake, Roshō -- Vocalist -- Vocalist",
+    "Gaisberg, William Conrad -- Recordist -- Recordist"
+   ],
+   "file_id": [
+    "ucsb_victor_11154_01_4815e_01"
+   ],
+   "genre": [
+    "Japanese",
+    "Ethnic music",
+    "Japanese"
+   ],
+   "language": "Japanese",
+   "media_size": "12-in.",
+   "profile": "jukebox",
+   "recording_catalog_number": "11154",
+   "recording_date": "1906-11-30",
+   "recording_label": "Victor",
+   "recording_matrix_number": "4815e (Matrix ID)",
+   "recording_repository": "Source of original recording: Department of Special Collections, Davidson Library, University of California, Santa Barbara.",
+   "recording_take_id": 326858,
+   "recording_take_number": "[1]",
+   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+   "summary": "Female vocal solo, with shamisen"
+  },
+  "language": [
+   "japanese"
+  ],
+  "languages": [
+   {
+    "japanese": "https://www.loc.gov/search/?fa=language:japanese&fo=json"
+   }
+  ],
+  "location": [
+   "osaka",
+   "japan"
+  ],
+  "locations": [
+   {
+    "japan": "https://www.loc.gov/search/?fa=location:japan&fo=json"
+   },
+   {
+    "osaka": "https://www.loc.gov/search/?fa=location:osaka&fo=json"
+   }
+  ],
+  "media_size": "12-in.",
+  "mime_type": [
+   "audio/mpeg",
+   "audio/wav",
+   "image/jpeg"
+  ],
+  "online_format": [
+   "audio",
+   "image"
+  ],
+  "original_format": [
+   "sound recording"
+  ],
+  "other_formats": [],
+  "partof": [
+   {
+    "count": 10024,
+    "title": "department of special collections, davidson library, university of california, santa barbara",
+    "url": "https://www.loc.gov/search/?fa=partof:department+of+special+collections,+davidson+library,+university+of+california,+santa+barbara&fo=json"
+   },
+   {
+    "count": 20273,
+    "title": "national jukebox",
+    "url": "https://www.loc.gov/collections/national-jukebox/?fo=json"
+   },
+   {
+    "count": 20496,
+    "title": "recorded sound research center",
+    "url": "https://www.loc.gov/search/?fa=partof:recorded+sound+research+center&fo=json"
+   }
+  ],
+  "partof_repository": [
+   "department of special collections, davidson library, university of california, santa barbara"
+  ],
+  "profile": "jukebox",
+  "recording_catalog_number": "11154",
+  "recording_date": "1906-11-30",
+  "recording_label": "Victor",
+  "recording_matrix_number": "4815e (Matrix ID)",
+  "recording_repository": "Source of original recording: Department of Special Collections, Davidson Library, University of California, Santa Barbara.",
+  "recording_take_id": 326858,
+  "recording_take_number": "[1]",
+  "resources": [
+   {
+    "files": 1,
+    "media": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_11154_01_4815e_01:ucsb_victor_11154_01_4815e_01/full/full/0/full/default.mp3",
+    "url": "https://www.loc.gov/resource/jukebox-326858.0"
+   },
+   {
+    "files": 1,
+    "image": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_11154_01_4815e_01:ucsb_victor_11154_01_4815e_01/full/pct:100/0/default.jpg",
+    "mimetype": "image/jpeg",
+    "url": "https://www.loc.gov/resource/jukebox-326858.1"
+   }
+  ],
+  "rights": [
+   "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
+  ],
+  "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+  "score": 15.333624,
+  "shard": "01",
+  "shelf_id": "Victor 11154",
+  "site": [
+   "nationaljukebox"
+  ],
+  "source_modified": "2000-01-01T12:00:00Z",
+  "subject": [
+   "japanese",
+   "ethnic music",
+   "vocal",
+   "victor"
+  ],
+  "subject_category": [
+   "vocal"
+  ],
+  "subject_genre": [
+   "ethnic music"
+  ],
+  "subject_label": [
+   "victor"
+  ],
+  "subject_target_audience": [
+   "japanese"
+  ],
+  "subjects": [
+   {
+    "ethnic music": "https://www.loc.gov/search/?fa=subject:ethnic+music&fo=json"
+   },
+   {
+    "japanese": "https://www.loc.gov/search/?fa=subject:japanese&fo=json"
+   },
+   {
+    "victor": "https://www.loc.gov/search/?fa=subject:victor&fo=json"
+   },
+   {
+    "vocal": "https://www.loc.gov/search/?fa=subject:vocal&fo=json"
+   }
+  ],
+  "subjects_category": [
+   {
+    "vocal": "https://www.loc.gov/collections/national-jukebox/?fa=subject_category:vocal&fo=json"
+   }
+  ],
+  "subjects_genre": [
+   {
+    "ethnic music": "https://www.loc.gov/collections/national-jukebox/?fa=subject_genre:ethnic+music&fo=json"
+   }
+  ],
+  "subjects_label": [
+   {
+    "victor": "https://www.loc.gov/collections/national-jukebox/?fa=subject_label:victor&fo=json"
+   }
+  ],
+  "subjects_target_audience": [
+   {
+    "japanese": "https://www.loc.gov/collections/national-jukebox/?fa=subject_target_audience:japanese&fo=json"
+   }
+  ],
+  "summary": "Female vocal solo, with shamisen",
+  "timestamp": "2026-10-05T14:13:57.371Z",
+  "title": "Jōruri  Tsubozakadera : Sawa shinai (浄瑠璃  壷坂寺 : 澤市内)",
+  "type": [
+   "sound recording-musical"
+  ],
+  "url": "https://www.loc.gov/item/jukebox-326858/"
+ },
+ "more_like_this": [
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/7126",
+    "http://www.loc.gov/item/jukebox-326857/",
+    "http://www.loc.gov/resource/jukebox-326857.0/",
+    "http://www.loc.gov/resource/jukebox-326857.1/",
+    "http://www.loc.gov/resource/jukebox-326857.0",
+    "http://www.loc.gov/resource/jukebox-326857.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "kin'nosuke"
+   ],
+   "date": "1902-12-31",
+   "dates": [
+    "1902-12-31"
+   ],
+   "description": [
+    "Victor 11256. Matrix/Take: A-11256/[1]."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T03:24:54.234Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-326857/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_11256_01_a11256_01:ucsb_victor_11256_01_a11256_01/full/pct:50/0/default.jpg#h=395&w=397",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_11256_01_a11256_01:ucsb_victor_11256_01_a11256_01/full/pct:100/0/default.jpg#h=790&w=794"
+   ],
+   "index": 1,
+   "language": [
+    "japanese"
+   ],
+   "location": [
+    "japan",
+    "tokyo"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "partof": [
+    "department of special collections, davidson library, university of california, santa barbara",
+    "national jukebox",
+    "recorded sound research center"
+   ],
+   "score": 33.19052,
+   "shelf_id": "Victor 11256",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "japanese",
+    "ethnic music",
+    "vocal",
+    "victor"
+   ],
+   "timestamp": "2026-10-05T14:13:57.371Z",
+   "title": "Tokiwazu  Modoribashi",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-326857/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/4868",
+    "http://www.loc.gov/item/jukebox-188553/",
+    "http://www.loc.gov/resource/jukebox-188553.0/",
+    "http://www.loc.gov/resource/jukebox-188553.1/",
+    "http://www.loc.gov/resource/jukebox-188553.0",
+    "http://www.loc.gov/resource/jukebox-188553.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "rydel, lucjan",
+    "grabowsky, jan [i.e., františek a. pangrác]",
+    "pangrác, františek a.",
+    "shilkret, nathaniel",
+    "rózycki, maryan s.",
+    "king, edward t."
+   ],
+   "date": "1919-06-11",
+   "dates": [
+    "1919-06-11"
+   ],
+   "description": [
+    "Victor 72413. Matrix/Take: B-22915/3."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T01:52:19.482Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-188553/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_72413_01_b22915_03:ucsb_victor_72413_01_b22915_03/full/pct:50/0/default.jpg#h=395&w=396",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_72413_01_b22915_03:ucsb_victor_72413_01_b22915_03/full/pct:100/0/default.jpg#h=791&w=793"
+   ],
+   "index": 2,
+   "language": [
+    "polish"
+   ],
+   "location": [
+    "united states",
+    "new york"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "The shepherds came to Bethlehem",
+    "Kolendy polskie (Christmas carol)"
+   ],
+   "partof": [
+    "department of special collections, davidson library, university of california, santa barbara",
+    "national jukebox",
+    "recorded sound research center"
+   ],
+   "score": 25.400866,
+   "shelf_id": "Victor 72413",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "polish",
+    "religious",
+    "vocal",
+    "ethnic music",
+    "victor"
+   ],
+   "timestamp": "2026-10-05T14:01:15.280Z",
+   "title": "Przybieżeli do Betlejem pasterze",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-188553/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/4894",
+    "http://www.loc.gov/item/jukebox-188771/",
+    "http://www.loc.gov/resource/jukebox-188771.0/",
+    "http://www.loc.gov/resource/jukebox-188771.1/",
+    "http://www.loc.gov/resource/jukebox-188771.0",
+    "http://www.loc.gov/resource/jukebox-188771.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "zimmermann, fritz",
+    "bourdon, rosario",
+    "huber, ferdinand fürchtegott",
+    "lapitino, francis j."
+   ],
+   "date": "1920-07-12",
+   "dates": [
+    "1920-07-12"
+   ],
+   "description": [
+    "Victor 73080. Matrix/Take: B-24316/2."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T01:54:15.430Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-188771/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_73080_01_b24316_02:ucsb_victor_73080_01_b24316_02/full/pct:50/0/default.jpg#h=395&w=396",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_73080_01_b24316_02:ucsb_victor_73080_01_b24316_02/full/pct:100/0/default.jpg#h=790&w=793"
+   ],
+   "index": 3,
+   "language": [
+    "swiss german"
+   ],
+   "location": [
+    "united states",
+    "new jersey",
+    "camden"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Folk song",
+    "The Swiss hunter"
+   ],
+   "partof": [
+    "department of special collections, davidson library, university of california, santa barbara",
+    "national jukebox",
+    "recorded sound research center"
+   ],
+   "score": 25.400866,
+   "shelf_id": "Victor 73080",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "vocal",
+    "ethnic music",
+    "victor",
+    "swiss"
+   ],
+   "timestamp": "2026-10-05T14:01:15.280Z",
+   "title": "De Gaemsjaeger",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-188771/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/4906",
+    "http://www.loc.gov/item/jukebox-188890/",
+    "http://www.loc.gov/resource/jukebox-188890.0/",
+    "http://www.loc.gov/resource/jukebox-188890.1/",
+    "http://www.loc.gov/resource/jukebox-188890.0",
+    "http://www.loc.gov/resource/jukebox-188890.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "popova, nathalie p."
+   ],
+   "date": "1921-09-21",
+   "dates": [
+    "1921-09-21"
+   ],
+   "description": [
+    "Victor 73152. Matrix/Take: B-25055/5."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T01:54:15.430Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-188890/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_73152_01_b25055_05:ucsb_victor_73152_01_b25055_05/full/pct:50/0/default.jpg#h=395&w=398",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_73152_01_b25055_05:ucsb_victor_73152_01_b25055_05/full/pct:100/0/default.jpg#h=791&w=796"
+   ],
+   "index": 4,
+   "language": [
+    "russian"
+   ],
+   "location": [
+    "united states",
+    "new york"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "The rye field"
+   ],
+   "partof": [
+    "department of special collections, davidson library, university of california, santa barbara",
+    "national jukebox",
+    "recorded sound research center"
+   ],
+   "score": 25.400866,
+   "shelf_id": "Victor 73152",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "vocal",
+    "ethnic music",
+    "russian",
+    "victor"
+   ],
+   "timestamp": "2026-10-05T14:01:15.280Z",
+   "title": "Polosinka",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-188890/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/4922",
+    "http://www.loc.gov/item/jukebox-189036/",
+    "http://www.loc.gov/resource/jukebox-189036.0/",
+    "http://www.loc.gov/resource/jukebox-189036.1/",
+    "http://www.loc.gov/resource/jukebox-189036.0",
+    "http://www.loc.gov/resource/jukebox-189036.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "bixio, c. a.",
+    "shilkret, nathaniel",
+    "cibelli, eugenio"
+   ],
+   "date": "1921-12-16",
+   "dates": [
+    "1921-12-16"
+   ],
+   "description": [
+    "Victor 68581. Matrix/Take: C-25875/1."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T01:54:15.430Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-189036/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_68581_01_c25875_01:ucsb_victor_68581_01_c25875_01/full/pct:25/0/default.jpg#h=300&w=300",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_68581_01_c25875_01:ucsb_victor_68581_01_c25875_01/full/pct:50/0/default.jpg#h=600&w=600",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_68581_01_c25875_01:ucsb_victor_68581_01_c25875_01/full/pct:100/0/default.jpg#h=1200&w=1200"
+   ],
+   "index": 5,
+   "language": [
+    "italian (neapolitan)"
+   ],
+   "location": [
+    "united states",
+    "new york"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "While the train was speeding onward"
+   ],
+   "partof": [
+    "department of special collections, davidson library, university of california, santa barbara",
+    "national jukebox",
+    "recorded sound research center"
+   ],
+   "score": 25.400866,
+   "shelf_id": "Victor 68581",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "vocal",
+    "ethnic music",
+    "italian (neapolitan)",
+    "victor"
+   ],
+   "timestamp": "2026-10-05T14:01:15.280Z",
+   "title": "Filava filava",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-189036/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/4930",
+    "http://www.loc.gov/item/jukebox-189211/",
+    "http://www.loc.gov/resource/jukebox-189211.0/",
+    "http://www.loc.gov/resource/jukebox-189211.1/",
+    "http://www.loc.gov/resource/jukebox-189211.0",
+    "http://www.loc.gov/resource/jukebox-189211.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "rogers, walter b.",
+    "harper, j. d.",
+    "lauder, harry"
+   ],
+   "date": "1915-11-20",
+   "dates": [
+    "1915-11-20"
+   ],
+   "description": [
+    "Victor 45197. Matrix/Take: B-16789/2."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T01:56:07.048Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-189211/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_45197_01_b16789_02:ucsb_victor_45197_01_b16789_02/full/pct:50/0/default.jpg#h=394&w=396",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_45197_01_b16789_02:ucsb_victor_45197_01_b16789_02/full/pct:100/0/default.jpg#h=788&w=793"
+   ],
+   "index": 6,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "united states",
+    "new york"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "partof": [
+    "department of special collections, davidson library, university of california, santa barbara",
+    "national jukebox",
+    "recorded sound research center"
+   ],
+   "score": 25.400866,
+   "shelf_id": "Victor 45197",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "vocal",
+    "ethnic music",
+    "victor",
+    "ethnic spoken word",
+    "humorous songs"
+   ],
+   "timestamp": "2026-10-05T14:01:15.280Z",
+   "title": "She is my Rosie",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-189211/"
+  }
+ ],
+ "notice": {
+  "info": "<strong>COLUMBUS DAY HOLIDAY:</strong> On Monday, October 12, 2026, The Jefferson Building Great Hall and exhibitions will be open from 10 a.m. - 5 p.m. to guests with timed-entry passes. The Main Reading Room will be open to visitors, no research or collections services available. All other reading rooms, the Madison and Adams Buildings will be CLOSED to the public. Regularly scheduled access resumes on Tuesday, October 13. \n",
+  "status": "production"
+ },
+ "options": {
+  "access_group": [
+   ""
+  ],
+  "access_group_raw": "",
+  "all": null,
+  "api_version": "1",
+  "app_context": null,
+  "application_shim": null,
+  "application_version": "$Revision$",
+  "attribute": null,
+  "attribute!": null,
+  "attribute_map": null,
+  "cache_tags": [
+   "nationaljukebox",
+   "national-jukebox",
+   "cph",
+   "catalog-split-00",
+   "catalog",
+   "miscellaneous-items-high-demand",
+   "main-catalog-split-00",
+   "main-catalog",
+   "jpd",
+   "catalog-split-05",
+   "japanese-fine-prints-pre-1915",
+   "main-catalog-split-05",
+   "catalog-split-09",
+   "main-catalog-split-09",
+   "pos",
+   "catalog-split-03",
+   "artist-posters",
+   "main-catalog-split-03",
+   "catalog-split-12",
+   "main-catalog-split-12"
+  ],
+  "callback": null,
+  "clip": null,
+  "clip_image_width": null,
+  "clip_rotation": null,
+  "content_filter": null,
+  "content_replacement": "",
+  "count": null,
+  "dates": null,
+  "default_count": 25,
+  "delimiter": null,
+  "digital_id": null,
+  "display_level": null,
+  "distance": null,
+  "downloadOption": null,
+  "duration": 0.6094999313354492,
+  "embed": [],
+  "embed!": [],
+  "error_response_status": null,
+  "excludeTerms": null,
+  "facetLimits": "",
+  "facetPrefix": null,
+  "facet_count": null,
+  "facet_style": null,
+  "field": null,
+  "form_facets": [
+   {
+    "field": "subject_label",
+    "select": "multiple"
+   },
+   {
+    "field": "subject_category",
+    "select": "multiple"
+   },
+   {
+    "field": "language",
+    "select": "multiple"
+   }
+  ],
+  "format": "json",
+  "host": "www.loc.gov",
+  "ical": false,
+  "id": "jukebox-326858/",
+  "iiif": false,
+  "include_facets": [
+   {
+    "field": "original-format"
+   },
+   {
+    "field": "partof_repository",
+    "label": "Repository"
+   },
+   {
+    "field": "subject_label",
+    "label": "Label"
+   },
+   {
+    "field": "dates"
+   },
+   {
+    "field": "subject_genre",
+    "label": "Genre"
+   },
+   {
+    "closed": true,
+    "field": "subject_target_audience",
+    "label": "Target Audience"
+   },
+   {
+    "closed": true,
+    "field": "subject_category",
+    "label": "Category"
+   },
+   {
+    "closed": true,
+    "field": "location"
+   },
+   {
+    "closed": true,
+    "field": "contributor"
+   },
+   {
+    "closed": true,
+    "field": "contributor_vocalist",
+    "label": "Vocalist"
+   },
+   {
+    "closed": true,
+    "field": "contributor_composer",
+    "label": "Composer"
+   },
+   {
+    "closed": true,
+    "field": "contributor_lyricist",
+    "label": "Lyricist"
+   },
+   {
+    "closed": true,
+    "field": "contributor_author",
+    "label": "Author"
+   },
+   {
+    "closed": true,
+    "field": "contributor_performer",
+    "label": "Performer"
+   },
+   {
+    "closed": true,
+    "field": "contributor_musical_group",
+    "label": "Musical Group"
+   },
+   {
+    "closed": true,
+    "field": "subject"
+   },
+   {
+    "closed": true,
+    "field": "language"
+   },
+   {
+    "field": "access-restricted"
+   }
+  ],
+  "index": null,
+  "inputEncoding": "UTF-8",
+  "item": null,
+  "items": null,
+  "keys": null,
+  "language": null,
+  "latlong": null,
+  "method": "GET",
+  "newSearch": null,
+  "new_clip_url": false,
+  "onsite": false,
+  "operator": null,
+  "outputEncoding": "UTF-8",
+  "page_campaigns": [],
+  "path_info": "/item/jukebox-326858/",
+  "port": "443",
+  "proxypath": null,
+  "query_string": "fo=json",
+  "redirect_proxy": false,
+  "redirect_to_item": null,
+  "referer": "",
+  "region": "",
+  "release_id": 123456789,
+  "request_host": "www.loc.gov",
+  "request_params": {
+   "fo": [
+    "json"
+   ]
+  },
+  "request_url": "https://www.loc.gov/item/jukebox-326858/?fo=json",
+  "resource": "",
+  "resource_sequence": null,
+  "scheme": "https",
+  "searchIn": null,
+  "searchTerms": "",
+  "segments": null,
+  "shards": [
+   "01"
+  ],
+  "site_date_range": "1900-01-01/1925-12-31",
+  "site_defaults": [],
+  "site_id": null,
+  "site_type": null,
+  "solrQuery": "",
+  "sortBy": null,
+  "sortOrder": null,
+  "startPage": null,
+  "style": null,
+  "suggested": null,
+  "target": null,
+  "template": "layouts/item/layout",
+  "timestamp": 1791377385.469127,
+  "tz_aware": null,
+  "unionFacets": "",
+  "webcast_permalink": null
+ },
+ "related_items": [
+  {
+   "access_restricted": false,
+   "aka": [
+    "https://www.loc.gov/pictures/item/2021790119/",
+    "http://www.loc.gov/item/2021790119/",
+    "http://www.loc.gov/pictures/item/2021790119/",
+    "https://www.loc.gov/pictures/collection/cph/item/2021790119/",
+    "http://www.loc.gov/pictures/collection/cph/item/2021790119/",
+    "http://www.loc.gov/resource/ppmsca.74994/",
+    "http://lccn.loc.gov/2021790119",
+    "https://hdl.loc.gov/loc.pnp/ppmsca.74994"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "utagawa, kunikazu"
+   ],
+   "date": "1860-01-01",
+   "dates": [
+    "1860"
+   ],
+   "description": [
+    "1 print : woodcut, color ; sheet 25 x 18 cm."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2022-01-01T13:30:12.425Z",
+   "group": [
+    "cph",
+    "catalog-split-00",
+    "catalog",
+    "miscellaneous-items-high-demand",
+    "main-catalog-split-00",
+    "main-catalog"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/2021790119/",
+   "image_url": [
+    "https://tile.loc.gov/storage-services/service/pnp/ppmsca/74900/74994_150px.jpg#h=150&w=108",
+    "https://tile.loc.gov/storage-services/service/pnp/ppmsca/74900/74994r.jpg#h=640&w=460",
+    "https://tile.loc.gov/storage-services/service/pnp/ppmsca/74900/74994v.jpg#h=1024&w=735"
+   ],
+   "index": 1,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "osaka",
+    "japan"
+   ],
+   "mime_type": [
+    "image/gif",
+    "image/jpg",
+    "image/tif"
+   ],
+   "number": [
+    "2021-12-22t08:53:20",
+    "http://www.loc.gov/item/22353258",
+    "sheet",
+    "2021790119"
+   ],
+   "online_format": [
+    "image"
+   ],
+   "original_format": [
+    "photo, print, drawing"
+   ],
+   "partof": [
+    "prints and photographs division",
+    "catalog",
+    "miscellaneous items in high demand",
+    "prints & photographs online catalog (library of congress)"
+   ],
+   "score": 12.307821,
+   "shelf_id": "Unprocessed in PR 13 CN 2010:100, [item] [P&P]",
+   "site": [
+    "pictures",
+    "catalog"
+   ],
+   "subject": [
+    "osaka",
+    "architectural drawings",
+    "bridges",
+    "woodcuts",
+    "japan",
+    "japanese",
+    "ukiyo-e"
+   ],
+   "timestamp": "2022-05-02T10:35:57.148Z",
+   "title": "[View of Tamae-bashi Bridge (Tamae-bashi kei)]",
+   "url": "https://www.loc.gov/item/2021790119/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/pictures/collection/jpd/item/2002700127/",
+    "http://www.loc.gov/item/2002700127/",
+    "http://www.loc.gov/pictures/item/2002700127/",
+    "https://hdl.loc.gov/loc.pnp/cph.3g10382",
+    "http://www.loc.gov/resource/cph.3g10382/",
+    "http://lccn.loc.gov/2002700127"
+   ],
+   "campaigns": [],
+   "date": "1850-01-01",
+   "description": [
+    "1 print on hōsho paper : woodcut, color ; 15.5 x 36 cm. (block), 16.5 x 37 cm. (sheet) | Japanese print shows people crossing a bridge on foot and on horseback."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2021-09-01T22:52:37.148Z",
+   "group": [
+    "jpd",
+    "catalog-split-05",
+    "catalog",
+    "japanese-fine-prints-pre-1915",
+    "main-catalog-split-05",
+    "main-catalog"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/2002700127/",
+   "image_url": [
+    "https://tile.loc.gov/storage-services/service/pnp/cph/3g10000/3g10000/3g10300/3g10382_150px.jpg#h=121&w=150",
+    "https://tile.loc.gov/storage-services/service/pnp/cph/3g10000/3g10000/3g10300/3g10382t.gif#h=121&w=150",
+    "https://tile.loc.gov/storage-services/service/pnp/cph/3g10000/3g10000/3g10300/3g10382r.jpg#h=516&w=640",
+    "https://tile.loc.gov/storage-services/service/pnp/cph/3g10000/3g10000/3g10300/3g10382v.jpg#h=826&w=1024"
+   ],
+   "index": 2,
+   "language": [
+    "japanese",
+    "english"
+   ],
+   "latlong": [
+    35.95,
+    137.26667
+   ],
+   "location": [
+    "osaka",
+    "japan"
+   ],
+   "location_str": "",
+   "lonlat": [
+    137.26667,
+    35.95
+   ],
+   "mime_type": [
+    "image/gif",
+    "image/jpg",
+    "image/tif"
+   ],
+   "number": [
+    "http://www.loc.gov/item/12963869",
+    "http://www.loc.gov/item/2002700127",
+    "2002700127",
+    "2009-08-05t08:32:30",
+    "http://www.loc.gov/item/cha2001000016/pp"
+   ],
+   "online_format": [
+    "image"
+   ],
+   "original_format": [
+    "photo, print, drawing"
+   ],
+   "partof": [
+    "fine prints: japanese, pre-1915",
+    "prints and photographs division",
+    "catalog",
+    "prints & photographs online catalog (library of congress)"
+   ],
+   "score": 12.307821,
+   "shelf_id": "FP 2 - Chadbourne, no. 14 (A size) [P&P]",
+   "site": [
+    "pictures",
+    "catalog"
+   ],
+   "subject": [
+    "osaka",
+    "color",
+    "bridges",
+    "woodcuts",
+    "japan",
+    "city & town life",
+    "cityscape prints",
+    "japanese"
+   ],
+   "timestamp": "2022-04-29T03:10:37.425Z",
+   "title": "Naniwa Higashibori tekkyō no zu",
+   "url": "https://www.loc.gov/item/2002700127/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/pictures/collection/jpd/item/2008660030/",
+    "http://www.loc.gov/item/2008660030/",
+    "http://www.loc.gov/pictures/item/2008660030/",
+    "https://hdl.loc.gov/loc.pnp/jpd.00765",
+    "http://www.loc.gov/resource/jpd.00765/",
+    "http://lccn.loc.gov/2008660030"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "utagawa, toyoharu"
+   ],
+   "date": "1764-01-01",
+   "description": [
+    "1 print : woodcut, color ; 25.9 x 38.9 cm. | Print shows a festival in honor of Sugawara Michizane taking place at night at the Tenman Tenjin shrine in Osaka; many people crossing a high wooden bridge lined with lanterns over a river filled with boats of revelers taking part in the festivities."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2021-09-01T22:52:38.072Z",
+   "group": [
+    "jpd",
+    "catalog-split-09",
+    "catalog",
+    "japanese-fine-prints-pre-1915",
+    "main-catalog-split-09",
+    "main-catalog"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/2008660030/",
+   "image_url": [
+    "https://tile.loc.gov/storage-services/service/pnp/jpd/00700/00765_150px.jpg#h=101&w=150",
+    "https://tile.loc.gov/storage-services/service/pnp/jpd/00700/00765t.gif#h=101&w=150",
+    "https://tile.loc.gov/storage-services/service/pnp/jpd/00700/00765r.jpg#h=433&w=640",
+    "https://tile.loc.gov/storage-services/service/pnp/jpd/00700/00765v.jpg#h=692&w=1024"
+   ],
+   "index": 3,
+   "language": [
+    "japanese",
+    "english"
+   ],
+   "latlong": [
+    35.95,
+    137.26667
+   ],
+   "location": [
+    "osaka",
+    "japan"
+   ],
+   "location_str": "",
+   "lonlat": [
+    137.26667,
+    35.95
+   ],
+   "mime_type": [
+    "image/gif",
+    "image/jpg",
+    "image/tif"
+   ],
+   "number": [
+    "http://www.loc.gov/item/jpd2005000700",
+    "2008660030",
+    "2008-10-10t10:32:37",
+    "http://www.loc.gov/item/2008660030"
+   ],
+   "online_format": [
+    "image"
+   ],
+   "original_format": [
+    "photo, print, drawing"
+   ],
+   "partof": [
+    "fine prints: japanese, pre-1915",
+    "prints and photographs division",
+    "catalog",
+    "prints & photographs online catalog (library of congress)"
+   ],
+   "score": 12.307821,
+   "shelf_id": "FP 2 - JPD, no. 698 (A size) [P&P]",
+   "site": [
+    "pictures",
+    "catalog"
+   ],
+   "subject": [
+    "osaka",
+    "night",
+    "japanese",
+    "commemoration",
+    "rivers",
+    "ukiyo-e",
+    "color",
+    "bridges",
+    "woodcuts",
+    "japan",
+    "845-903",
+    "boats",
+    "shrines",
+    "festivals",
+    "sugawara, michizane"
+   ],
+   "timestamp": "2022-04-29T03:12:51.847Z",
+   "title": "Ukie naniwa tenmatenjin yomatsuri no zu",
+   "url": "https://www.loc.gov/item/2008660030/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "https://www.loc.gov/pictures/item/2023630955/",
+    "http://www.loc.gov/item/2023630955/",
+    "http://www.loc.gov/pictures/item/2023630955/",
+    "https://www.loc.gov/pictures/collection/pos/item/2023630955/",
+    "http://www.loc.gov/pictures/collection/pos/item/2023630955/",
+    "https://hdl.loc.gov/loc.pnp/ppmscd.02532",
+    "https://hdl.loc.gov/loc.pnp/ppmscd.02532",
+    "http://www.loc.gov/resource/ppmscd.02532/",
+    "http://lccn.loc.gov/2023630955"
+   ],
+   "campaigns": [],
+   "date": "1970",
+   "dates": [
+    "1970"
+   ],
+   "description": [
+    "1 print : color lithograph ; sheet 72.9 x 51.5 cm (poster format) | Poster shows the center spot brightened where so many poles set with flags of red, green, blue, yellow, pink, and white waving."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2025-03-29T12:27:06.711Z",
+   "group": [
+    "pos",
+    "catalog-split-03",
+    "catalog",
+    "artist-posters",
+    "main-catalog-split-03"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/2023630955/",
+   "image_url": [
+    "https://tile.loc.gov/storage-services/service/pnp/ppmscd/02500/02532_150px.jpg#h=150&w=108",
+    "https://tile.loc.gov/storage-services/service/pnp/ppmscd/02500/02532r.jpg#h=640&w=459",
+    "https://tile.loc.gov/storage-services/service/pnp/ppmscd/02500/02532v.jpg#h=1024&w=735"
+   ],
+   "index": 4,
+   "language": [
+    "japanese",
+    "english"
+   ],
+   "location": [
+    "osaka",
+    "japan"
+   ],
+   "mime_type": [
+    "image/gif",
+    "image/jpg",
+    "image/tif"
+   ],
+   "number": [
+    "2025-03-18t11:50:07",
+    "http://www.loc.gov/item/23074986",
+    "2023630955",
+    "sheet"
+   ],
+   "online_format": [
+    "image"
+   ],
+   "original_format": [
+    "photo, print, drawing"
+   ],
+   "other_title": [
+    "日本万国博 大阪, 昭和45年3月15日開会. 人類の進步と調和, Expo '70"
+   ],
+   "partof": [
+    "prints and photographs division",
+    "catalog",
+    "posters: artist posters"
+   ],
+   "score": 12.307821,
+   "shelf_id": "POS - Japan, no. 899 (C size) [P&P]",
+   "site": [
+    "pictures",
+    "catalog"
+   ],
+   "subject": [
+    "osaka",
+    "exhibitions",
+    "fairs",
+    "flags",
+    "lithographs",
+    "color",
+    "osaka, japan)",
+    "japan",
+    "expo (international exhibitions bureau)",
+    "posters",
+    "japanese"
+   ],
+   "timestamp": "2025-03-29T12:27:48.036Z",
+   "title": "Nihon Bankoku Haku Ōsaka, Shōwa 45-nen, 3-gatsu 15-nichi kaikai. Jinrui no shinpo to chōwa, Expo '70.",
+   "type": [
+    "still image"
+   ],
+   "url": "https://www.loc.gov/item/2023630955/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "https://www.loc.gov/pictures/item/2023631263/",
+    "http://www.loc.gov/item/2023631263/",
+    "http://www.loc.gov/pictures/item/2023631263/",
+    "https://www.loc.gov/pictures/collection/pos/item/2023631263/",
+    "http://www.loc.gov/pictures/collection/pos/item/2023631263/",
+    "https://hdl.loc.gov/loc.pnp/ppmscd.02533",
+    "https://hdl.loc.gov/loc.pnp/ppmscd.02533",
+    "http://www.loc.gov/resource/ppmscd.02533/",
+    "http://lccn.loc.gov/2023631263"
+   ],
+   "campaigns": [],
+   "date": "1970",
+   "dates": [
+    "1970"
+   ],
+   "description": [
+    "1 print : silkscreen ; sheet  75.9 x 48.7 cm (poster format) | Poster shows the symbol mark of Expo '70 in red, five big circles and one small in the center, against a white background."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2025-03-29T12:27:06.711Z",
+   "group": [
+    "pos",
+    "catalog-split-12",
+    "catalog",
+    "artist-posters",
+    "main-catalog-split-12"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/2023631263/",
+   "image_url": [
+    "https://tile.loc.gov/storage-services/service/pnp/ppmscd/02500/02533_150px.jpg#h=150&w=97",
+    "https://tile.loc.gov/storage-services/service/pnp/ppmscd/02500/02533r.jpg#h=640&w=415",
+    "https://tile.loc.gov/storage-services/service/pnp/ppmscd/02500/02533v.jpg#h=1024&w=665"
+   ],
+   "index": 5,
+   "language": [
+    "japanese",
+    "english"
+   ],
+   "location": [
+    "osaka",
+    "japan"
+   ],
+   "mime_type": [
+    "image/gif",
+    "image/jpg",
+    "image/tif"
+   ],
+   "number": [
+    "http://www.loc.gov/item/23144821",
+    "2025-03-18t11:34:39",
+    "2023631263",
+    "sheet"
+   ],
+   "online_format": [
+    "image"
+   ],
+   "original_format": [
+    "photo, print, drawing"
+   ],
+   "other_title": [
+    "EXPO '70,日本万国博覧会 Japan World Exposition, Osaka, 1970"
+   ],
+   "partof": [
+    "prints and photographs division",
+    "catalog",
+    "posters: artist posters"
+   ],
+   "score": 12.307821,
+   "shelf_id": "POS - Japan, no. 1037 (C size) [P&P]",
+   "site": [
+    "pictures",
+    "catalog"
+   ],
+   "subject": [
+    "osaka",
+    "exhibitions",
+    "fairs",
+    "color",
+    "lithographs",
+    "osaka, japan)",
+    "japan",
+    "expo (international exhibitions bureau)",
+    "posters",
+    "japanese"
+   ],
+   "timestamp": "2025-03-29T12:27:48.036Z",
+   "title": "EXPO '70, Nihon Bankoku Hakurankai Japan World Exposition, Osaka, 1970.",
+   "type": [
+    "still image"
+   ],
+   "url": "https://www.loc.gov/item/2023631263/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "https://www.loc.gov/pictures/item/2023631267/",
+    "http://www.loc.gov/item/2023631267/",
+    "http://www.loc.gov/pictures/item/2023631267/",
+    "https://www.loc.gov/pictures/collection/pos/item/2023631267/",
+    "http://www.loc.gov/pictures/collection/pos/item/2023631267/",
+    "https://hdl.loc.gov/loc.pnp/ppmscd.02534",
+    "https://hdl.loc.gov/loc.pnp/ppmscd.02534",
+    "http://www.loc.gov/resource/ppmscd.02534/",
+    "http://lccn.loc.gov/2023631267"
+   ],
+   "campaigns": [],
+   "date": "1930",
+   "dates": [
+    "1930"
+   ],
+   "description": [
+    "1 print : color lithograph ; sheet 103.5 x 72.9 cm (poster format) | Poster shows a colored phtograph of many faces of children (different nationalities), mostly facing up, under them, sceneries of the Fair sketched in many colors. This photo exactly the same with LCCN 2023631266, the size is much bigger."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2025-03-29T12:27:06.711Z",
+   "group": [
+    "pos",
+    "catalog-split-00",
+    "catalog",
+    "artist-posters",
+    "main-catalog-split-00"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/2023631267/",
+   "image_url": [
+    "https://tile.loc.gov/storage-services/service/pnp/ppmscd/02500/02534_150px.jpg#h=150&w=106",
+    "https://tile.loc.gov/storage-services/service/pnp/ppmscd/02500/02534r.jpg#h=640&w=452",
+    "https://tile.loc.gov/storage-services/service/pnp/ppmscd/02500/02534v.jpg#h=1024&w=724"
+   ],
+   "index": 6,
+   "language": [
+    "japanese",
+    "english"
+   ],
+   "location": [
+    "osaka",
+    "japan"
+   ],
+   "mime_type": [
+    "image/gif",
+    "image/jpg",
+    "image/tif"
+   ],
+   "number": [
+    "http://www.loc.gov/item/23145934",
+    "2023631267",
+    "sheet",
+    "2025-03-18t11:43:11"
+   ],
+   "online_format": [
+    "image"
+   ],
+   "original_format": [
+    "photo, print, drawing"
+   ],
+   "other_title": [
+    "日本万国博 人類の進步と調和, Expo '70, 昭和45年3月15日開会: 大阪"
+   ],
+   "partof": [
+    "prints and photographs division",
+    "catalog",
+    "posters: artist posters"
+   ],
+   "score": 12.307821,
+   "shelf_id": "POS - Japan, no. 1041 (C size) [P&P]",
+   "site": [
+    "pictures",
+    "catalog"
+   ],
+   "subject": [
+    "osaka",
+    "exhibitions",
+    "fairs",
+    "color",
+    "lithographs",
+    "children",
+    "osaka, japan)",
+    "japan",
+    "expo (international exhibitions bureau)",
+    "posters",
+    "japanese"
+   ],
+   "timestamp": "2025-03-29T12:27:48.036Z",
+   "title": "Nihon Bankoku Haku Jinrui no shinpo to chōwa, Expo '70, Shōwa 45-nen, 3-gatsu 15-nichi kaikai: Ōsaka.",
+   "type": [
+    "still image"
+   ],
+   "url": "https://www.loc.gov/item/2023631267/"
+  }
+ ],
+ "resources": [
+  {
+   "audio": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_11154_01_4815e_01:ucsb_victor_11154_01_4815e_01/full/full/0/full/default.mp3",
+   "files": [
+    [
+     {
+      "aspectRation": "4:3",
+      "autoPlay": false,
+      "canDownload": true,
+      "derivatives": [
+       {
+        "derivativeUrl": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/ucsb_victor_11154_01_4815e_01/ucsb_victor_11154_01_4815e_01.mp3"
+       }
+      ],
+      "detailUrl": "https://www.loc.gov/item/jukebox-326858",
+      "download": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_11154_01_4815e_01:ucsb_victor_11154_01_4815e_01/full/full/0/full/default.mp3",
+      "duration": 158.0,
+      "filename": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/ucsb_victor_11154_01_4815e_01/ucsb_victor_11154_01_4815e_01.mp3",
+      "mediaType": "A",
+      "metadata": [
+       "Jōruri ; Tsubozakadera : Sawa shinai (浄瑠璃 ; 壷坂寺 : 澤市内)",
+       "Female vocal solo, with shamisen"
+      ],
+      "mimetype": "audio/mpeg",
+      "poster": null,
+      "rights_restricted": true,
+      "shortName": "Jōruri ; Tsubozakadera : Sawa shinai (浄瑠璃 ; 壷坂寺 : 澤市内)",
+      "thumbnail_url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_11154_01_4815e_01:ucsb_victor_11154_01_4815e_01/full/pct:50/0/default.jpg"
+     },
+     {
+      "height": null,
+      "levels": 1,
+      "mimetype": "audio/wav",
+      "size": 28020076,
+      "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/ucsb_victor_11154_01_4815e_01/ucsb_victor_11154_01_4815e_01.wav",
+      "width": null
+     }
+    ]
+   ],
+   "url": "https://www.loc.gov/resource/jukebox-326858.0"
+  },
+  {
+   "files": [
+    [
+     {
+      "height": 395,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_11154_01_4815e_01:ucsb_victor_11154_01_4815e_01/full/pct:50/0/default.jpg",
+      "width": 397
+     },
+     {
+      "height": 790,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_11154_01_4815e_01:ucsb_victor_11154_01_4815e_01/full/pct:100/0/default.jpg",
+      "width": 794
+     }
+    ]
+   ],
+   "image": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_11154_01_4815e_01:ucsb_victor_11154_01_4815e_01/full/pct:100/0/default.jpg",
+   "mimetype": "image/jpeg",
+   "url": "https://www.loc.gov/resource/jukebox-326858.1"
+  }
+ ],
+ "timestamp": 1791377386079
+}

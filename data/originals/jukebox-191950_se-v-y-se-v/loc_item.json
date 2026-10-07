@@ -1,0 +1,1599 @@
+{
+ "articles_and_essays": null,
+ "cite_this": {
+  "apa": "Schultze, J., Alurralde, M. &amp; Alurralde, M. (1917) <cite>Se Vá Y Se Vá ... !</cite>. [Audio] Retrieved from the Library of Congress, https://www.loc.gov/item/jukebox-191950/.",
+  "chicago": "Schultze, Jorge, Moises Alurralde, and Moises Alurralde. <cite>Se Vá Y Se Vá ... !</cite>. 1917. Audio. https://www.loc.gov/item/jukebox-191950/.",
+  "mla": "Schultze, Jorge, Moises Alurralde, and Moises Alurralde. <cite>Se Vá Y Se Vá ... !</cite>. 1917. Audio. Retrieved from the Library of Congress, &lt;www.loc.gov/item/jukebox-191950/&gt;."
+ },
+ "item": {
+  "_version_": 1878218725461590016,
+  "access_restricted": false,
+  "aka": [
+   "http://www.loc.gov/jukebox/recordings/detail/id/5111",
+   "http://www.loc.gov/item/jukebox-191950/",
+   "http://www.loc.gov/resource/jukebox-191950.0/",
+   "http://www.loc.gov/resource/jukebox-191950.1/",
+   "http://www.loc.gov/resource/jukebox-191950.0",
+   "http://www.loc.gov/resource/jukebox-191950.1"
+  ],
+  "audio_type": "Vocal",
+  "campaigns": [],
+  "contributor_names": [
+   "Schultze, Jorge -- Vocalist -- Tenor Vocal",
+   "Alurralde, Moises -- Vocalist -- Baritone Vocal",
+   "Alurralde, Moises -- Instrumentalist -- Guitar"
+  ],
+  "contributor_primary": [
+   "schultze, jorge"
+  ],
+  "contributor_vocalist": [
+   "schultze, jorge",
+   "alurralde, moises"
+  ],
+  "contributors": [
+   {
+    "alurralde, moises": "https://www.loc.gov/search/?fa=contributor:alurralde,+moises&fo=json"
+   },
+   {
+    "schultze, jorge": "https://www.loc.gov/search/?fa=contributor:schultze,+jorge&fo=json"
+   }
+  ],
+  "contributors_primary": [
+   {
+    "schultze, jorge": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_primary:schultze,+jorge&fo=json"
+   }
+  ],
+  "contributors_vocalist": [
+   {
+    "alurralde, moises": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_vocalist:alurralde,+moises&fo=json"
+   },
+   {
+    "schultze, jorge": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_vocalist:schultze,+jorge&fo=json"
+   }
+  ],
+  "date": "1917-07-22",
+  "dates": [
+   {
+    "1917-07-22": "https://www.loc.gov/search/?dates=1917-07-22/1917-07-22&fo=json"
+   }
+  ],
+  "description": [
+   "Victor 69846. Matrix/Take: G-2173/1."
+  ],
+  "digitized": true,
+  "display_offsite": true,
+  "extract_timestamp": "2026-10-05T02:01:41.456Z",
+  "extract_urls": [
+   "http://www.loc.gov/item/jukebox-191950#nationaljukebox"
+  ],
+  "file_id": [
+   "ucsb_victor_69846_01_g2173_01"
+  ],
+  "format": [
+   {
+    "sound recording": "https://www.loc.gov/search/?fa=original_format:sound+recording&fo=json"
+   }
+  ],
+  "genre": [
+   "Spanish (Bolivia)",
+   "Ethnic music",
+   "Spanish (Bolivia)"
+  ],
+  "group": [
+   "nationaljukebox",
+   "national-jukebox"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/item/jukebox-191950/",
+  "iiif_manifest_url": "https://www.loc.gov/item/jukebox-191950/manifest.json",
+  "image_url": [
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_69846_01_g2173_01:ucsb_victor_69846_01_g2173_01/full/pct:25/0/default.jpg#h=300&w=300",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_69846_01_g2173_01:ucsb_victor_69846_01_g2173_01/full/pct:50/0/default.jpg#h=600&w=600",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_69846_01_g2173_01:ucsb_victor_69846_01_g2173_01/full/pct:100/0/default.jpg#h=1200&w=1200"
+  ],
+  "index": 1,
+  "item": {
+   "audio_type": "Vocal",
+   "contributors": [
+    "Schultze, Jorge -- Vocalist -- Tenor Vocal",
+    "Alurralde, Moises -- Vocalist -- Baritone Vocal",
+    "Alurralde, Moises -- Instrumentalist -- Guitar"
+   ],
+   "file_id": [
+    "ucsb_victor_69846_01_g2173_01"
+   ],
+   "genre": [
+    "Spanish (Bolivia)",
+    "Ethnic music",
+    "Spanish (Bolivia)"
+   ],
+   "language": "Spanish",
+   "media_size": "10-in.",
+   "profile": "jukebox",
+   "recording_catalog_number": "69846",
+   "recording_date": "1917-07-22",
+   "recording_label": "Victor",
+   "recording_matrix_number": "G-2173 (Matrix ID)",
+   "recording_repository": "Source of original recording: Department of Special Collections, Davidson Library, University of California, Santa Barbara.",
+   "recording_take_id": 191950,
+   "recording_take_number": "1",
+   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+   "summary": "Male vocal duet, with guitar"
+  },
+  "language": [
+   "spanish"
+  ],
+  "languages": [
+   {
+    "spanish": "https://www.loc.gov/search/?fa=language:spanish&fo=json"
+   }
+  ],
+  "location": [
+   "la paz",
+   "bolivia"
+  ],
+  "locations": [
+   {
+    "bolivia": "https://www.loc.gov/search/?fa=location:bolivia&fo=json"
+   },
+   {
+    "la paz": "https://www.loc.gov/search/?fa=location:la+paz&fo=json"
+   }
+  ],
+  "media_size": "10-in.",
+  "mime_type": [
+   "audio/mpeg",
+   "audio/wav",
+   "image/jpeg"
+  ],
+  "online_format": [
+   "audio",
+   "image"
+  ],
+  "original_format": [
+   "sound recording"
+  ],
+  "other_formats": [],
+  "other_title": [
+   "Pasacalle"
+  ],
+  "partof": [
+   {
+    "count": 10024,
+    "title": "department of special collections, davidson library, university of california, santa barbara",
+    "url": "https://www.loc.gov/search/?fa=partof:department+of+special+collections,+davidson+library,+university+of+california,+santa+barbara&fo=json"
+   },
+   {
+    "count": 20273,
+    "title": "national jukebox",
+    "url": "https://www.loc.gov/collections/national-jukebox/?fo=json"
+   },
+   {
+    "count": 20496,
+    "title": "recorded sound research center",
+    "url": "https://www.loc.gov/search/?fa=partof:recorded+sound+research+center&fo=json"
+   }
+  ],
+  "partof_repository": [
+   "department of special collections, davidson library, university of california, santa barbara"
+  ],
+  "profile": "jukebox",
+  "recording_catalog_number": "69846",
+  "recording_date": "1917-07-22",
+  "recording_label": "Victor",
+  "recording_matrix_number": "G-2173 (Matrix ID)",
+  "recording_repository": "Source of original recording: Department of Special Collections, Davidson Library, University of California, Santa Barbara.",
+  "recording_take_id": 191950,
+  "recording_take_number": "1",
+  "resources": [
+   {
+    "files": 1,
+    "media": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_69846_01_g2173_01:ucsb_victor_69846_01_g2173_01/full/full/0/full/default.mp3",
+    "url": "https://www.loc.gov/resource/jukebox-191950.0"
+   },
+   {
+    "files": 1,
+    "image": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_69846_01_g2173_01:ucsb_victor_69846_01_g2173_01/full/pct:100/0/default.jpg",
+    "mimetype": "image/jpeg",
+    "url": "https://www.loc.gov/resource/jukebox-191950.1"
+   }
+  ],
+  "rights": [
+   "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
+  ],
+  "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+  "score": 15.333624,
+  "shard": "01",
+  "shelf_id": "Victor 69846",
+  "site": [
+   "nationaljukebox"
+  ],
+  "source_modified": "2000-01-01T12:00:00Z",
+  "subject": [
+   "ethnic music",
+   "vocal",
+   "victor",
+   "spanish (bolivia)"
+  ],
+  "subject_category": [
+   "vocal"
+  ],
+  "subject_genre": [
+   "ethnic music"
+  ],
+  "subject_label": [
+   "victor"
+  ],
+  "subject_target_audience": [
+   "spanish (bolivia)"
+  ],
+  "subjects": [
+   {
+    "ethnic music": "https://www.loc.gov/search/?fa=subject:ethnic+music&fo=json"
+   },
+   {
+    "spanish (bolivia)": "https://www.loc.gov/search/?fa=subject:spanish+%28bolivia%29&fo=json"
+   },
+   {
+    "victor": "https://www.loc.gov/search/?fa=subject:victor&fo=json"
+   },
+   {
+    "vocal": "https://www.loc.gov/search/?fa=subject:vocal&fo=json"
+   }
+  ],
+  "subjects_category": [
+   {
+    "vocal": "https://www.loc.gov/collections/national-jukebox/?fa=subject_category:vocal&fo=json"
+   }
+  ],
+  "subjects_genre": [
+   {
+    "ethnic music": "https://www.loc.gov/collections/national-jukebox/?fa=subject_genre:ethnic+music&fo=json"
+   }
+  ],
+  "subjects_label": [
+   {
+    "victor": "https://www.loc.gov/collections/national-jukebox/?fa=subject_label:victor&fo=json"
+   }
+  ],
+  "subjects_target_audience": [
+   {
+    "spanish (bolivia)": "https://www.loc.gov/collections/national-jukebox/?fa=subject_target_audience:spanish+%28bolivia%29&fo=json"
+   }
+  ],
+  "summary": "Male vocal duet, with guitar",
+  "timestamp": "2026-10-05T14:02:38.959Z",
+  "title": "Se vá y se vá ... !",
+  "type": [
+   "sound recording-musical"
+  ],
+  "url": "https://www.loc.gov/item/jukebox-191950/"
+ },
+ "more_like_this": [
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/5112",
+    "http://www.loc.gov/item/jukebox-191978/",
+    "http://www.loc.gov/resource/jukebox-191978.0/",
+    "http://www.loc.gov/resource/jukebox-191978.1/",
+    "http://www.loc.gov/resource/jukebox-191978.0",
+    "http://www.loc.gov/resource/jukebox-191978.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "aranibar, s.",
+    "orquesta salazar",
+    "salazar, juan cristin"
+   ],
+   "date": "1917-07-25",
+   "dates": [
+    "1917-07-25"
+   ],
+   "description": [
+    "Victor 69846. Matrix/Take: G-2205/1."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T02:01:41.456Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-191978/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_69846_01_g2205_01:ucsb_victor_69846_01_g2205_01/full/pct:25/0/default.jpg#h=300&w=300",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_69846_01_g2205_01:ucsb_victor_69846_01_g2205_01/full/pct:50/0/default.jpg#h=600&w=600",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_69846_01_g2205_01:ucsb_victor_69846_01_g2205_01/full/pct:100/0/default.jpg#h=1200&w=1200"
+   ],
+   "index": 1,
+   "location": [
+    "la paz",
+    "bolivia"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Marcha"
+   ],
+   "partof": [
+    "recorded sound research center",
+    "national jukebox",
+    "department of special collections, davidson library, university of california, santa barbara"
+   ],
+   "score": 43.119194,
+   "shelf_id": "Victor 69846",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "victor",
+    "ethnic music",
+    "instrumental",
+    "classical music",
+    "spanish (bolivia)"
+   ],
+   "timestamp": "2026-10-05T14:02:38.959Z",
+   "title": "Marcha General Pando",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-191978/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/4868",
+    "http://www.loc.gov/item/jukebox-188553/",
+    "http://www.loc.gov/resource/jukebox-188553.0/",
+    "http://www.loc.gov/resource/jukebox-188553.1/",
+    "http://www.loc.gov/resource/jukebox-188553.0",
+    "http://www.loc.gov/resource/jukebox-188553.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "king, edward t.",
+    "rózycki, maryan s.",
+    "grabowsky, jan [i.e., františek a. pangrác]",
+    "shilkret, nathaniel",
+    "rydel, lucjan",
+    "pangrác, františek a."
+   ],
+   "date": "1919-06-11",
+   "dates": [
+    "1919-06-11"
+   ],
+   "description": [
+    "Victor 72413. Matrix/Take: B-22915/3."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T01:52:19.482Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-188553/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_72413_01_b22915_03:ucsb_victor_72413_01_b22915_03/full/pct:50/0/default.jpg#h=395&w=396",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_72413_01_b22915_03:ucsb_victor_72413_01_b22915_03/full/pct:100/0/default.jpg#h=791&w=793"
+   ],
+   "index": 2,
+   "language": [
+    "polish"
+   ],
+   "location": [
+    "new york",
+    "united states"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "The shepherds came to Bethlehem",
+    "Kolendy polskie (Christmas carol)"
+   ],
+   "partof": [
+    "recorded sound research center",
+    "national jukebox",
+    "department of special collections, davidson library, university of california, santa barbara"
+   ],
+   "score": 25.400866,
+   "shelf_id": "Victor 72413",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "victor",
+    "polish",
+    "ethnic music",
+    "vocal",
+    "religious"
+   ],
+   "timestamp": "2026-10-05T14:01:15.280Z",
+   "title": "Przybieżeli do Betlejem pasterze",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-188553/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/4894",
+    "http://www.loc.gov/item/jukebox-188771/",
+    "http://www.loc.gov/resource/jukebox-188771.0/",
+    "http://www.loc.gov/resource/jukebox-188771.1/",
+    "http://www.loc.gov/resource/jukebox-188771.0",
+    "http://www.loc.gov/resource/jukebox-188771.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "zimmermann, fritz",
+    "bourdon, rosario",
+    "lapitino, francis j.",
+    "huber, ferdinand fürchtegott"
+   ],
+   "date": "1920-07-12",
+   "dates": [
+    "1920-07-12"
+   ],
+   "description": [
+    "Victor 73080. Matrix/Take: B-24316/2."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T01:54:15.430Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-188771/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_73080_01_b24316_02:ucsb_victor_73080_01_b24316_02/full/pct:50/0/default.jpg#h=395&w=396",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_73080_01_b24316_02:ucsb_victor_73080_01_b24316_02/full/pct:100/0/default.jpg#h=790&w=793"
+   ],
+   "index": 3,
+   "language": [
+    "swiss german"
+   ],
+   "location": [
+    "camden",
+    "united states",
+    "new jersey"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Folk song",
+    "The Swiss hunter"
+   ],
+   "partof": [
+    "recorded sound research center",
+    "national jukebox",
+    "department of special collections, davidson library, university of california, santa barbara"
+   ],
+   "score": 25.400866,
+   "shelf_id": "Victor 73080",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "ethnic music",
+    "vocal",
+    "victor",
+    "swiss"
+   ],
+   "timestamp": "2026-10-05T14:01:15.280Z",
+   "title": "De Gaemsjaeger",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-188771/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/4906",
+    "http://www.loc.gov/item/jukebox-188890/",
+    "http://www.loc.gov/resource/jukebox-188890.0/",
+    "http://www.loc.gov/resource/jukebox-188890.1/",
+    "http://www.loc.gov/resource/jukebox-188890.0",
+    "http://www.loc.gov/resource/jukebox-188890.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "popova, nathalie p."
+   ],
+   "date": "1921-09-21",
+   "dates": [
+    "1921-09-21"
+   ],
+   "description": [
+    "Victor 73152. Matrix/Take: B-25055/5."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T01:54:15.430Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-188890/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_73152_01_b25055_05:ucsb_victor_73152_01_b25055_05/full/pct:50/0/default.jpg#h=395&w=398",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_73152_01_b25055_05:ucsb_victor_73152_01_b25055_05/full/pct:100/0/default.jpg#h=791&w=796"
+   ],
+   "index": 4,
+   "language": [
+    "russian"
+   ],
+   "location": [
+    "new york",
+    "united states"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "The rye field"
+   ],
+   "partof": [
+    "recorded sound research center",
+    "national jukebox",
+    "department of special collections, davidson library, university of california, santa barbara"
+   ],
+   "score": 25.400866,
+   "shelf_id": "Victor 73152",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "ethnic music",
+    "vocal",
+    "russian",
+    "victor"
+   ],
+   "timestamp": "2026-10-05T14:01:15.280Z",
+   "title": "Polosinka",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-188890/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/4922",
+    "http://www.loc.gov/item/jukebox-189036/",
+    "http://www.loc.gov/resource/jukebox-189036.0/",
+    "http://www.loc.gov/resource/jukebox-189036.1/",
+    "http://www.loc.gov/resource/jukebox-189036.0",
+    "http://www.loc.gov/resource/jukebox-189036.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "shilkret, nathaniel",
+    "bixio, c. a.",
+    "cibelli, eugenio"
+   ],
+   "date": "1921-12-16",
+   "dates": [
+    "1921-12-16"
+   ],
+   "description": [
+    "Victor 68581. Matrix/Take: C-25875/1."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T01:54:15.430Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-189036/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_68581_01_c25875_01:ucsb_victor_68581_01_c25875_01/full/pct:25/0/default.jpg#h=300&w=300",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_68581_01_c25875_01:ucsb_victor_68581_01_c25875_01/full/pct:50/0/default.jpg#h=600&w=600",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_68581_01_c25875_01:ucsb_victor_68581_01_c25875_01/full/pct:100/0/default.jpg#h=1200&w=1200"
+   ],
+   "index": 5,
+   "language": [
+    "italian (neapolitan)"
+   ],
+   "location": [
+    "new york",
+    "united states"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "While the train was speeding onward"
+   ],
+   "partof": [
+    "recorded sound research center",
+    "national jukebox",
+    "department of special collections, davidson library, university of california, santa barbara"
+   ],
+   "score": 25.400866,
+   "shelf_id": "Victor 68581",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "ethnic music",
+    "vocal",
+    "victor",
+    "italian (neapolitan)"
+   ],
+   "timestamp": "2026-10-05T14:01:15.280Z",
+   "title": "Filava filava",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-189036/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/4930",
+    "http://www.loc.gov/item/jukebox-189211/",
+    "http://www.loc.gov/resource/jukebox-189211.0/",
+    "http://www.loc.gov/resource/jukebox-189211.1/",
+    "http://www.loc.gov/resource/jukebox-189211.0",
+    "http://www.loc.gov/resource/jukebox-189211.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "rogers, walter b.",
+    "lauder, harry",
+    "harper, j. d."
+   ],
+   "date": "1915-11-20",
+   "dates": [
+    "1915-11-20"
+   ],
+   "description": [
+    "Victor 45197. Matrix/Take: B-16789/2."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T01:56:07.048Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-189211/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_45197_01_b16789_02:ucsb_victor_45197_01_b16789_02/full/pct:50/0/default.jpg#h=394&w=396",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_45197_01_b16789_02:ucsb_victor_45197_01_b16789_02/full/pct:100/0/default.jpg#h=788&w=793"
+   ],
+   "index": 6,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "new york",
+    "united states"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "partof": [
+    "recorded sound research center",
+    "national jukebox",
+    "department of special collections, davidson library, university of california, santa barbara"
+   ],
+   "score": 25.400866,
+   "shelf_id": "Victor 45197",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "humorous songs",
+    "victor",
+    "ethnic music",
+    "vocal",
+    "ethnic spoken word"
+   ],
+   "timestamp": "2026-10-05T14:01:15.280Z",
+   "title": "She is my Rosie",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-189211/"
+  }
+ ],
+ "notice": {
+  "info": "<strong>COLUMBUS DAY HOLIDAY:</strong> On Monday, October 12, 2026, The Jefferson Building Great Hall and exhibitions will be open from 10 a.m. - 5 p.m. to guests with timed-entry passes. The Main Reading Room will be open to visitors, no research or collections services available. All other reading rooms, the Madison and Adams Buildings will be CLOSED to the public. Regularly scheduled access resumes on Tuesday, October 13. \n",
+  "status": "production"
+ },
+ "options": {
+  "access_group": [
+   ""
+  ],
+  "access_group_raw": "",
+  "all": null,
+  "api_version": "1",
+  "app_context": null,
+  "application_shim": null,
+  "application_version": "$Revision$",
+  "attribute": null,
+  "attribute!": null,
+  "attribute_map": null,
+  "cache_tags": [
+   "nationaljukebox",
+   "national-jukebox",
+   "wdlpartner",
+   "catalog-split-01",
+   "catalog",
+   "world-digital-library-partners",
+   "main-catalog-split-01",
+   "main-catalog",
+   "cph",
+   "catalog-split-12",
+   "miscellaneous-items-high-demand",
+   "main-catalog-split-12",
+   "det",
+   "detroit-publishing-company",
+   "pp_other",
+   "prints-and-photographs-other",
+   "catalog-split-02",
+   "main-catalog-split-02",
+   "catalog-split-03",
+   "main-catalog-split-03"
+  ],
+  "callback": null,
+  "clip": null,
+  "clip_image_width": null,
+  "clip_rotation": null,
+  "content_filter": null,
+  "content_replacement": "",
+  "count": null,
+  "dates": null,
+  "default_count": 25,
+  "delimiter": null,
+  "digital_id": null,
+  "display_level": null,
+  "distance": null,
+  "downloadOption": null,
+  "duration": 0.9343476295471191,
+  "embed": [],
+  "embed!": [],
+  "error_response_status": null,
+  "excludeTerms": null,
+  "facetLimits": "",
+  "facetPrefix": null,
+  "facet_count": null,
+  "facet_style": null,
+  "field": null,
+  "form_facets": [
+   {
+    "field": "subject_label",
+    "select": "multiple"
+   },
+   {
+    "field": "subject_category",
+    "select": "multiple"
+   },
+   {
+    "field": "language",
+    "select": "multiple"
+   }
+  ],
+  "format": "json",
+  "host": "www.loc.gov",
+  "ical": false,
+  "id": "jukebox-191950/",
+  "iiif": false,
+  "include_facets": [
+   {
+    "field": "original-format"
+   },
+   {
+    "field": "partof_repository",
+    "label": "Repository"
+   },
+   {
+    "field": "subject_label",
+    "label": "Label"
+   },
+   {
+    "field": "dates"
+   },
+   {
+    "field": "subject_genre",
+    "label": "Genre"
+   },
+   {
+    "closed": true,
+    "field": "subject_target_audience",
+    "label": "Target Audience"
+   },
+   {
+    "closed": true,
+    "field": "subject_category",
+    "label": "Category"
+   },
+   {
+    "closed": true,
+    "field": "location"
+   },
+   {
+    "closed": true,
+    "field": "contributor"
+   },
+   {
+    "closed": true,
+    "field": "contributor_vocalist",
+    "label": "Vocalist"
+   },
+   {
+    "closed": true,
+    "field": "contributor_composer",
+    "label": "Composer"
+   },
+   {
+    "closed": true,
+    "field": "contributor_lyricist",
+    "label": "Lyricist"
+   },
+   {
+    "closed": true,
+    "field": "contributor_author",
+    "label": "Author"
+   },
+   {
+    "closed": true,
+    "field": "contributor_performer",
+    "label": "Performer"
+   },
+   {
+    "closed": true,
+    "field": "contributor_musical_group",
+    "label": "Musical Group"
+   },
+   {
+    "closed": true,
+    "field": "subject"
+   },
+   {
+    "closed": true,
+    "field": "language"
+   },
+   {
+    "field": "access-restricted"
+   }
+  ],
+  "index": null,
+  "inputEncoding": "UTF-8",
+  "item": null,
+  "items": null,
+  "keys": null,
+  "language": null,
+  "latlong": null,
+  "method": "GET",
+  "newSearch": null,
+  "new_clip_url": false,
+  "onsite": false,
+  "operator": null,
+  "outputEncoding": "UTF-8",
+  "page_campaigns": [],
+  "path_info": "/item/jukebox-191950/",
+  "port": "443",
+  "proxypath": null,
+  "query_string": "fo=json",
+  "redirect_proxy": false,
+  "redirect_to_item": null,
+  "referer": "",
+  "region": "",
+  "release_id": 123456789,
+  "request_host": "www.loc.gov",
+  "request_params": {
+   "fo": [
+    "json"
+   ]
+  },
+  "request_url": "https://www.loc.gov/item/jukebox-191950/?fo=json",
+  "resource": "",
+  "resource_sequence": null,
+  "scheme": "https",
+  "searchIn": null,
+  "searchTerms": "",
+  "segments": null,
+  "shards": [
+   "01"
+  ],
+  "site_date_range": "1900-01-01/1925-12-31",
+  "site_defaults": [],
+  "site_id": null,
+  "site_type": null,
+  "solrQuery": "",
+  "sortBy": null,
+  "sortOrder": null,
+  "startPage": null,
+  "style": null,
+  "suggested": null,
+  "target": null,
+  "template": "layouts/item/layout",
+  "timestamp": 1791377566.217116,
+  "tz_aware": null,
+  "unionFacets": "",
+  "webcast_permalink": null
+ },
+ "related_items": [
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/2021666910/",
+    "http://lccn.loc.gov/2021666910",
+    "https://hdl.loc.gov/loc.wdl/wdl.13753",
+    "http://www.loc.gov/resource/wdl.13753/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_13753/"
+   ],
+   "campaigns": [],
+   "date": "1616-01-01",
+   "dates": [
+    "1616"
+   ],
+   "description": [
+    "Constituciones de la provincia de Sant Antonio de los Charcas hechas y recebidas en el capitulo provincial celebrado en el Convento de San Francisco dela Ciudad de la Paz (Constitutions of the province of San Antonio de los Charcas issued and received in the Provincial Chapter celebrated in the Convent of Saint Francis of the city of La Paz) was published in Lima, Peru, in 1616. San Antonio de los Charcas was a province of the Viceroyalty of Peru, located in what is now Bolivia. The provincial capital was La Paz. The first printing press in South America was established in Lima by Antonio Ricardo (circa 1540-1606), an Italian who had worked for a time as a printer with the Jesuits in Mexico City. This book is part of a collection of 39 first editions in the National Library of Peru, produced at the press between 1584 and 1619. The collection was inscribed on the UNESCO Memory of the World Register in 2013. In Latin, Spanish, and several Amerindian languages, these books are an important part of the record of the encounter between two worlds: the Amerindian civilization of the Incas and the European culture represented by the Spanish conquistadors. They are important sources for the study of the dissemination of ideas in the Spanish Empire, including the evangelization process and the diffusion of Catholicism on the one hand and the debate over the indigenous peoples and their condition as human beings on the other. Several of the books provide insights into the political, cultural, and social organization of the vanquished Inca civilization, as well as a record of the Quechua and Aymara languages spoken by the Incas."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2021-07-23T23:07:30.216Z",
+   "group": [
+    "wdlpartner",
+    "catalog-split-01",
+    "catalog",
+    "world-digital-library-partners",
+    "main-catalog-split-01",
+    "main-catalog"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/2021666910/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:13:75:3:wdl_13753:002/full/pct:12.5/0/default.jpg",
+    "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:13:75:3:wdl_13753:002/full/pct:12.5/0/default.jpg#h=289&w=211",
+    "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:13:75:3:wdl_13753:002/full/pct:25/0/default.jpg#h=579&w=423",
+    "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:13:75:3:wdl_13753:002/full/pct:50/0/default.jpg#h=1159&w=846",
+    "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:13:75:3:wdl_13753:002/full/pct:100/0/default.jpg#h=2318&w=1693"
+   ],
+   "index": 1,
+   "language": [
+    "spanish"
+   ],
+   "location": [
+    "la paz",
+    "chuquisaca",
+    "bolivia"
+   ],
+   "mime_type": [
+    "application/zip",
+    "application/pdf",
+    "image/jpeg",
+    "image/jp2"
+   ],
+   "number": [
+    "2021-05-27t08:39:34",
+    "2021666910"
+   ],
+   "online_format": [
+    "compressed data",
+    "pdf",
+    "image"
+   ],
+   "original_format": [
+    "book"
+   ],
+   "other_title": [
+    "Constitvciones de la provincia de Sant Antonio de los Charcas hechas y recebidas en el capitulo prouincial celebrado en el Conuento de San Francisco dela Ciudad dela Paz"
+   ],
+   "partof": [
+    "world digital library - partner items",
+    "national library of peru",
+    "world digital library",
+    "catalog"
+   ],
+   "score": 11.725817,
+   "shelf_id": "http://lccn.loc.gov/2021666910",
+   "site": [
+    "catalog"
+   ],
+   "subject": [
+    "statutes and codes",
+    "missions",
+    "bolivia",
+    "memory of the world",
+    "la paz",
+    "catholic church",
+    "chuquisaca",
+    "franciscans"
+   ],
+   "timestamp": "2022-09-11T21:18:51.620Z",
+   "title": "Constitutions of the Province of San Antonio de los Charcas Issued and Received in the Provincial Chapter Celebrated in the Convent of Saint Francis of the City of La Paz.",
+   "type": [
+    "text"
+   ],
+   "url": "https://www.loc.gov/item/2021666910/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "https://www.loc.gov/pictures/item/2013645043/",
+    "http://www.loc.gov/item/2013645043/",
+    "http://www.loc.gov/pictures/item/2013645043/",
+    "https://www.loc.gov/pictures/collection/cph/item/2013645043/",
+    "http://www.loc.gov/pictures/collection/cph/item/2013645043/",
+    "http://www.loc.gov/resource/ds.02394/",
+    "https://hdl.loc.gov/loc.pnp/ds.02394",
+    "http://lccn.loc.gov/2013645043"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "switzer, c. c."
+   ],
+   "date": "1908-01-01",
+   "dates": [
+    "1908"
+   ],
+   "description": [
+    "1 photographic print (postcard) | Postcard shows group portrait of students and staff from Victor High School and lower grades assembled in front of building."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2021-08-24T20:11:34.937Z",
+   "group": [
+    "cph",
+    "catalog-split-12",
+    "catalog",
+    "miscellaneous-items-high-demand",
+    "main-catalog-split-12",
+    "main-catalog"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/2013645043/",
+   "image_url": [
+    "https://tile.loc.gov/storage-services/service/pnp/ds/02300/02394_150px.jpg#h=50&w=150",
+    "https://tile.loc.gov/storage-services/service/pnp/ds/02300/02394r.jpg#h=214&w=640",
+    "https://tile.loc.gov/storage-services/service/pnp/ds/02300/02394v.jpg#h=342&w=1024"
+   ],
+   "index": 2,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "iowa",
+    "united states",
+    "victor"
+   ],
+   "mime_type": [
+    "image/gif",
+    "image/jpg",
+    "image/tif"
+   ],
+   "number": [
+    "2013-04-03t08:58:59",
+    "http://www.loc.gov/item/17665053",
+    "2013645043"
+   ],
+   "online_format": [
+    "image"
+   ],
+   "original_format": [
+    "photo, print, drawing"
+   ],
+   "partof": [
+    "prints & photographs online catalog (library of congress)",
+    "miscellaneous items in high demand",
+    "prints and photographs division",
+    "lot 14058",
+    "catalog"
+   ],
+   "score": 9.757024,
+   "shelf_id": "LOT 14058, no. 123 [P&P]",
+   "site": [
+    "pictures",
+    "catalog"
+   ],
+   "subject": [
+    "photographic postcards",
+    "victor",
+    "group portraits",
+    "iowa",
+    "victor (iowa)",
+    "school children",
+    "panoramic postcards",
+    "photographic prints",
+    "united states",
+    "schools"
+   ],
+   "timestamp": "2022-05-02T06:13:36.448Z",
+   "title": "[Victor High School, Victor, Iowa]",
+   "url": "https://www.loc.gov/item/2013645043/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/pictures/collection/det/item/2016808865/",
+    "http://www.loc.gov/item/2016808865/",
+    "http://www.loc.gov/pictures/item/2016808865/",
+    "https://hdl.loc.gov/loc.pnp/det.4a09194",
+    "http://www.loc.gov/resource/det.4a09194/",
+    "http://lccn.loc.gov/2016808865"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "jackson, william henry",
+    "detroit publishing co."
+   ],
+   "date": "1900-01-01",
+   "dates": [
+    "1900"
+   ],
+   "description": [
+    "1 negative : glass ; 8 x 10 in."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2021-09-01T22:30:01.644Z",
+   "group": [
+    "det",
+    "catalog-split-12",
+    "catalog",
+    "detroit-publishing-company",
+    "main-catalog-split-12",
+    "main-catalog"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/2016808865/",
+   "image_url": [
+    "https://tile.loc.gov/storage-services/service/pnp/det/4a00000/4a09000/4a09100/4a09194_150px.jpg#h=120&w=150",
+    "https://tile.loc.gov/storage-services/service/pnp/det/4a00000/4a09000/4a09100/4a09194t.gif#h=120&w=150",
+    "https://tile.loc.gov/storage-services/service/pnp/det/4a00000/4a09000/4a09100/4a09194r.jpg#h=511&w=640",
+    "https://tile.loc.gov/storage-services/service/pnp/det/4a00000/4a09000/4a09100/4a09194v.jpg#h=817&w=1024"
+   ],
+   "index": 3,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "united states",
+    "victor",
+    "colorado"
+   ],
+   "mime_type": [
+    "image/gif",
+    "image/jpg",
+    "image/tif"
+   ],
+   "number": [
+    "2016808865",
+    "http://www.loc.gov/item/det1994014825/pp",
+    "http://www.loc.gov/item/20110612",
+    "2017-10-30t13:04:57",
+    "http://www.loc.gov/item/2016808865"
+   ],
+   "online_format": [
+    "image"
+   ],
+   "original_format": [
+    "photo, print, drawing"
+   ],
+   "partof": [
+    "prints & photographs online catalog (library of congress)",
+    "detroit publishing company",
+    "prints and photographs division",
+    "american memory",
+    "catalog"
+   ],
+   "score": 9.757024,
+   "shelf_id": "LC-D4-13841 [P&P]",
+   "site": [
+    "pictures",
+    "catalog"
+   ],
+   "subject": [
+    "cityscape photographs",
+    "victor",
+    "united states",
+    "dry plate negatives",
+    "colorado",
+    "gold mining"
+   ],
+   "timestamp": "2022-04-25T08:19:00.040Z",
+   "title": "Victor, Colo., and the Gold Coin Mine",
+   "url": "https://www.loc.gov/item/2016808865/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "https://www.loc.gov/pictures/item/2024689882/",
+    "http://www.loc.gov/item/2024689882/",
+    "http://www.loc.gov/pictures/item/2024689882/",
+    "https://hdl.loc.gov/loc.pnp/pcrd.1d03519",
+    "https://hdl.loc.gov/loc.pnp/pcrd.1d03519",
+    "https://hdl.loc.gov/loc.pnp/pcrd.2d03519",
+    "https://hdl.loc.gov/loc.pnp/pcrd.2d03519",
+    "http://www.loc.gov/resource/pcrd.1d03519/",
+    "http://www.loc.gov/resource/pcrd.2d03519/",
+    "http://lccn.loc.gov/2024689882"
+   ],
+   "campaigns": [],
+   "date": "1910",
+   "dates": [
+    "1910"
+   ],
+   "description": [
+    "1 photograph : gelatin silver print ; sheet 9 x 14 cm (postcard format)"
+   ],
+   "digitized": true,
+   "extract_timestamp": "2024-03-02T14:28:03.271Z",
+   "group": [
+    "pp_other",
+    "catalog-split-01",
+    "catalog",
+    "prints-and-photographs-other",
+    "main-catalog-split-01"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/2024689882/",
+   "image_url": [
+    "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03519_150px.jpg#h=99&w=150",
+    "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03519r.jpg#h=422&w=640",
+    "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03519v.jpg#h=675&w=1024"
+   ],
+   "index": 4,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "montana",
+    "united states",
+    "victor"
+   ],
+   "mime_type": [
+    "image/gif",
+    "image/jpg",
+    "image/tif"
+   ],
+   "number": [
+    "http://www.loc.gov/item/23570952",
+    "2024-02-21t08:57:11",
+    "2024689882",
+    "sheet"
+   ],
+   "online_format": [
+    "image"
+   ],
+   "original_format": [
+    "photo, print, drawing"
+   ],
+   "partof": [
+    "prints and photographs division",
+    "catalog"
+   ],
+   "score": 9.757024,
+   "shelf_id": "PCRD 4 - Montana - Victor, no. 1 [P&P]",
+   "site": [
+    "pictures",
+    "catalog"
+   ],
+   "subject": [
+    "montana",
+    "victor",
+    "photographs",
+    "postcards",
+    "united states",
+    "streets"
+   ],
+   "timestamp": "2024-03-02T14:40:16.299Z",
+   "title": "Main Street, Victor, Montana",
+   "type": [
+    "still image"
+   ],
+   "url": "https://www.loc.gov/item/2024689882/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "https://www.loc.gov/pictures/item/2024689883/",
+    "http://www.loc.gov/item/2024689883/",
+    "http://www.loc.gov/pictures/item/2024689883/",
+    "https://hdl.loc.gov/loc.pnp/pcrd.1d03520",
+    "https://hdl.loc.gov/loc.pnp/pcrd.1d03520",
+    "https://hdl.loc.gov/loc.pnp/pcrd.2d03520",
+    "https://hdl.loc.gov/loc.pnp/pcrd.2d03520",
+    "http://www.loc.gov/resource/pcrd.1d03520/",
+    "http://www.loc.gov/resource/pcrd.2d03520/",
+    "http://lccn.loc.gov/2024689883"
+   ],
+   "campaigns": [],
+   "date": "1910",
+   "dates": [
+    "1910"
+   ],
+   "description": [
+    "1 photograph : gelatin silver print ; sheet 9 x 14 cm (postcard format)"
+   ],
+   "digitized": true,
+   "extract_timestamp": "2024-03-02T13:51:56.083Z",
+   "group": [
+    "pp_other",
+    "catalog-split-02",
+    "catalog",
+    "prints-and-photographs-other",
+    "main-catalog-split-02"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/2024689883/",
+   "image_url": [
+    "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03520_150px.jpg#h=98&w=150",
+    "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03520r.jpg#h=419&w=640",
+    "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03520v.jpg#h=670&w=1024"
+   ],
+   "index": 5,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "montana",
+    "united states",
+    "victor"
+   ],
+   "mime_type": [
+    "image/gif",
+    "image/jpg",
+    "image/tif"
+   ],
+   "number": [
+    "2024-02-21t08:57:12",
+    "http://www.loc.gov/item/23570953",
+    "sheet",
+    "2024689883"
+   ],
+   "online_format": [
+    "image"
+   ],
+   "original_format": [
+    "photo, print, drawing"
+   ],
+   "partof": [
+    "prints and photographs division",
+    "catalog"
+   ],
+   "score": 9.757024,
+   "shelf_id": "PCRD 4 - Montana - Victor, no. 2 [P&P]",
+   "site": [
+    "pictures",
+    "catalog"
+   ],
+   "subject": [
+    "montana",
+    "victor",
+    "photographs",
+    "postcards",
+    "united states"
+   ],
+   "timestamp": "2024-03-02T14:40:16.299Z",
+   "title": "The snow-capped peak of St. Mory's, Victor, Montana",
+   "type": [
+    "still image"
+   ],
+   "url": "https://www.loc.gov/item/2024689883/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "https://www.loc.gov/pictures/item/2024689884/",
+    "http://www.loc.gov/item/2024689884/",
+    "http://www.loc.gov/pictures/item/2024689884/",
+    "https://hdl.loc.gov/loc.pnp/pcrd.1d03521",
+    "https://hdl.loc.gov/loc.pnp/pcrd.1d03521",
+    "https://hdl.loc.gov/loc.pnp/pcrd.2d03521",
+    "https://hdl.loc.gov/loc.pnp/pcrd.2d03521",
+    "http://www.loc.gov/resource/pcrd.1d03521/",
+    "http://www.loc.gov/resource/pcrd.2d03521/",
+    "http://lccn.loc.gov/2024689884"
+   ],
+   "campaigns": [],
+   "date": "1910",
+   "dates": [
+    "1910"
+   ],
+   "description": [
+    "1 photograph : gelatin silver print ; sheet 9 x 14 cm (postcard format)"
+   ],
+   "digitized": true,
+   "extract_timestamp": "2024-03-02T14:28:03.271Z",
+   "group": [
+    "pp_other",
+    "catalog-split-03",
+    "catalog",
+    "prints-and-photographs-other",
+    "main-catalog-split-03"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/2024689884/",
+   "image_url": [
+    "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03521_150px.jpg#h=98&w=150",
+    "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03521r.jpg#h=419&w=640",
+    "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03521v.jpg#h=670&w=1024"
+   ],
+   "index": 6,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "montana",
+    "united states",
+    "victor"
+   ],
+   "mime_type": [
+    "image/gif",
+    "image/jpg",
+    "image/tif"
+   ],
+   "number": [
+    "2024-02-21t08:57:12",
+    "sheet",
+    "2024689884",
+    "http://www.loc.gov/item/23570954"
+   ],
+   "online_format": [
+    "image"
+   ],
+   "original_format": [
+    "photo, print, drawing"
+   ],
+   "partof": [
+    "prints and photographs division",
+    "catalog"
+   ],
+   "score": 9.757024,
+   "shelf_id": "PCRD 4 - Montana - Victor, no. 3 [P&P]",
+   "site": [
+    "pictures",
+    "catalog"
+   ],
+   "subject": [
+    "montana",
+    "victor",
+    "houses",
+    "photographs",
+    "postcards",
+    "united states"
+   ],
+   "timestamp": "2024-03-02T14:40:16.299Z",
+   "title": "A Bitter Root home, Victor, Montana",
+   "type": [
+    "still image"
+   ],
+   "url": "https://www.loc.gov/item/2024689884/"
+  }
+ ],
+ "resources": [
+  {
+   "audio": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_69846_01_g2173_01:ucsb_victor_69846_01_g2173_01/full/full/0/full/default.mp3",
+   "files": [
+    [
+     {
+      "aspectRation": "4:3",
+      "autoPlay": false,
+      "canDownload": true,
+      "derivatives": [
+       {
+        "derivativeUrl": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/ucsb_victor_69846_01_g2173_01/ucsb_victor_69846_01_g2173_01.mp3"
+       }
+      ],
+      "detailUrl": "https://www.loc.gov/item/jukebox-191950",
+      "download": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_69846_01_g2173_01:ucsb_victor_69846_01_g2173_01/full/full/0/full/default.mp3",
+      "duration": 151.0,
+      "filename": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/ucsb_victor_69846_01_g2173_01/ucsb_victor_69846_01_g2173_01.mp3",
+      "mediaType": "A",
+      "metadata": [
+       "Se vá y se vá ... !",
+       "Male vocal duet, with guitar"
+      ],
+      "mimetype": "audio/mpeg",
+      "poster": null,
+      "rights_restricted": true,
+      "shortName": "Se vá y se vá ... !",
+      "thumbnail_url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_69846_01_g2173_01:ucsb_victor_69846_01_g2173_01/full/pct:25/0/default.jpg"
+     },
+     {
+      "height": null,
+      "levels": 1,
+      "mimetype": "audio/wav",
+      "size": 26763148,
+      "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/ucsb_victor_69846_01_g2173_01/ucsb_victor_69846_01_g2173_01.wav",
+      "width": null
+     }
+    ]
+   ],
+   "url": "https://www.loc.gov/resource/jukebox-191950.0"
+  },
+  {
+   "files": [
+    [
+     {
+      "height": 300,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_69846_01_g2173_01:ucsb_victor_69846_01_g2173_01/full/pct:25/0/default.jpg",
+      "width": 300
+     },
+     {
+      "height": 600,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_69846_01_g2173_01:ucsb_victor_69846_01_g2173_01/full/pct:50/0/default.jpg",
+      "width": 600
+     },
+     {
+      "height": 1200,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_69846_01_g2173_01:ucsb_victor_69846_01_g2173_01/full/pct:100/0/default.jpg",
+      "width": 1200
+     }
+    ]
+   ],
+   "image": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_69846_01_g2173_01:ucsb_victor_69846_01_g2173_01/full/pct:100/0/default.jpg",
+   "mimetype": "image/jpeg",
+   "url": "https://www.loc.gov/resource/jukebox-191950.1"
+  }
+ ],
+ "timestamp": 1791377567151
+}
