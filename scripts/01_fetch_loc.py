@@ -27,6 +27,9 @@ import time
 import urllib.request
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+from restoration.places import CITIES, city_from_loc  # noqa: E402
+
 ROOT = Path(__file__).resolve().parents[1]
 ORIG = ROOT / "data" / "originals"
 META = ROOT / "data" / "metadata"
@@ -160,7 +163,8 @@ def process(entry: dict) -> dict:
                 time.sleep(1)
             downloads[key] = {"url": url, "file": str(p.relative_to(ROOT)), "bytes": p.stat().st_size, "sha256": sha256(p)}
 
-    city = next((c for c in ("Camden", "New York", "Philadelphia", "Chicago") if c.lower() in [x.lower() for x in it.get("location", [])]), None)
+    city = city_from_loc(it.get("location"))
+    country = CITIES[city]["country"] if city else None
     meta = {
         "id": item_id,
         "slug": slug,
@@ -173,6 +177,7 @@ def process(entry: dict) -> dict:
         "year": int((it.get("recording_date") or it.get("date"))[:4]),
         "recording_location_loc": it.get("location") or [],
         "recording_city": city,
+        "recording_country": country,
         "genre_loc": it.get("genre") or [],
         "category": entry.get("category"),
         "summary": it.get("summary"),
@@ -201,7 +206,9 @@ def process(entry: dict) -> dict:
                 "LoC: 'You are responsible for deciding whether your use of the items in this collection is legal.'",
                 "LoC: 'Some materials may be protected under international law.' Public-domain status here is asserted for the United States only.",
                 "Required credit line: 'Library of Congress, National Jukebox.'",
-            ],
+            ] + ([f"Recorded in {city}, {country}, outside US jurisdiction, and issued on a US label ({catalog.get('label')} {catalog.get('catalog_number')}). "
+                  "The US public-domain status above is the only status assessed here; rights in the country of recording were not separately assessed."]
+                 if city and not CITIES[city].get("us") else []),
             "credit_line": "Library of Congress, National Jukebox.",
         },
         "downloads": downloads,

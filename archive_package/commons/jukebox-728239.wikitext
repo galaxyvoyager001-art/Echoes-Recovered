@@ -1,7 +1,7 @@
 =={{int:filedesc}}==
 {{Information
 |description={{en|1=Let it alone - Williams, Bert. Male vocal solo, with orchestra. Recorded 1906-11-30 in United States, New York. Columbia 3504, matrix 3504 (Matrix ID), take 2. Restored version (click interpolation, noise reduction, band-limited filtering, bounded EQ; no generative processing). Original transfer: Library of Congress, National Jukebox.}}
-|date=1906-11-30 (recording); 2026-10-06 (restoration)
+|date=1906-11-30 (recording); 2026-10-07 (restoration)
 |source=Library of Congress, National Jukebox: https://www.loc.gov/item/jukebox-728239/ ; restoration code and logs: https://github.com/galaxyvoyager001-art/Echoes-Recovered
 |author=Williams, Bert (performer); Columbia (record company); restoration: Echoes Recovered project
 |permission=Credit line requested by the Library of Congress: "Library of Congress, National Jukebox."

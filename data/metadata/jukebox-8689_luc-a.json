@@ -1,0 +1,112 @@
+{
+ "id": "jukebox-8689",
+ "slug": "jukebox-8689_luc-a",
+ "title": "Lucía",
+ "other_titles": [
+  "Vals"
+ ],
+ "performers": [
+  "andrade, oscar",
+  "gastelú, lucrecia",
+  "gastelú, sinecia",
+  "hermanas gastelú"
+ ],
+ "primary_performer": "hermanas gastelú",
+ "contributors_with_roles": [
+  "Andrade, Oscar -- Instrumentalist -- Guitar",
+  "Gastelú, Lucrecia -- Vocalist -- Vocalist",
+  "Gastelú, Sinecia -- Vocalist -- Vocalist",
+  "Hermanas Gastelú -- Vocal Group -- Vocal Group"
+ ],
+ "recording_date": "1913-09-05",
+ "year": 1913,
+ "recording_location_loc": [
+  "perú",
+  "lima"
+ ],
+ "recording_city": "Lima",
+ "recording_country": "Peru",
+ "genre_loc": [
+  "Spanish (Peru)",
+  "Popular music",
+  "Ethnic music"
+ ],
+ "category": "Peruvian song",
+ "summary": "Female vocal duet, with guitar",
+ "description": [
+  "Victor 65631. Matrix/Take: L-151/1."
+ ],
+ "language": [
+  "spanish"
+ ],
+ "matrix": "L-151 (Matrix ID)",
+ "take": "1",
+ "file_id": "jvm_victor_65631_01_l151_01",
+ "disc": {
+  "label": "Victor",
+  "catalog_number": "65631",
+  "source_copy_prefix": "jvm"
+ },
+ "source_copy": "Source of original recording: Johnson Victrola Museum, Delaware.",
+ "duration_s": 169.0,
+ "loc_item_url": "https://www.loc.gov/item/jukebox-8689/",
+ "loc_api_url": "https://www.loc.gov/item/jukebox-8689/?fo=json",
+ "loc_files": {
+  "mp3": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/jvm_victor_65631_01_l151_01/jvm_victor_65631_01_l151_01.mp3",
+  "wav": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/jvm_victor_65631_01_l151_01/jvm_victor_65631_01_l151_01.wav",
+  "label": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_65631_01_l151_01:jvm_victor_65631_01_l151_01/full/pct:100/0/default.jpg"
+ },
+ "curator_note": "A female duet with guitar recorded in Lima in September 1913, during Victor's recording sessions in Peru.",
+ "rights": {
+  "checked_utc": "2026-10-07T12:17:15+00:00",
+  "loc_rights_and_access_text": "The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years. In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use. You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law. You may also need permission from holders of other rights, such as publicity and/or privacy rights. Credit Line: Library of Congress, National Jukebox. More about Copyright and other Restrictions . For guidance about compiling full citations consult Citing Primary Sources .",
+  "loc_rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+  "access_restricted": false,
+  "media_player_flags": {
+   "canDownload": true,
+   "rights_restricted": true
+  },
+  "cleared_for_reuse": true,
+  "status": "Public domain in the United States (published before 1923; Music Modernization Act, 17 U.S.C. 1401(a)(2)(B)(i))",
+  "reasons": [
+   "Rights & Access text states that recordings published prior to 1923 are in the public domain (Music Modernization Act).",
+   "Recording date 1913-09-05 is before 1922-01-01 (project margin so that publication also precedes 1923).",
+   "Evidence of publication: transfer is from an issued Victor disc (catalog no. 65631 in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ],
+  "caveats": [
+   "LoC: 'You are responsible for deciding whether your use of the items in this collection is legal.'",
+   "LoC: 'Some materials may be protected under international law.' Public-domain status here is asserted for the United States only.",
+   "Required credit line: 'Library of Congress, National Jukebox.'",
+   "Recorded in Lima, Peru, outside US jurisdiction, and issued on a US label (Victor 65631). The US public-domain status above is the only status assessed here; rights in the country of recording were not separately assessed."
+  ],
+  "credit_line": "Library of Congress, National Jukebox."
+ },
+ "downloads": {
+  "wav": {
+   "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/jvm_victor_65631_01_l151_01/jvm_victor_65631_01_l151_01.wav",
+   "file": "data/originals/jukebox-8689_luc-a/loc_original.wav",
+   "bytes": 29835804,
+   "sha256": "98102d13ffc341dc6bdecd5c180ad31c96ba4603ec2273ca34627b972b887848"
+  },
+  "mp3": {
+   "url": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/jvm_victor_65631_01_l151_01/jvm_victor_65631_01_l151_01.mp3",
+   "file": "data/originals/jukebox-8689_luc-a/loc_original.mp3",
+   "bytes": 5414287,
+   "sha256": "cc5265247360bf1e374cf1f18bf3b64d49ac33ae67f7c820cbf9d88b82078fe3"
+  },
+  "label": {
+   "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_65631_01_l151_01:jvm_victor_65631_01_l151_01/full/pct:100/0/default.jpg",
+   "file": "data/originals/jukebox-8689_luc-a/loc_label.jpg",
+   "bytes": 760529,
+   "sha256": "af124ad6d270cc3fc7afb21f29737c7ae0174d468ef902c7aa40fcd7deb96fe7"
+  }
+ },
+ "lossless_copy": {
+  "file": "data/originals/jukebox-8689_luc-a/loc_original.flac",
+  "bytes": 12962058,
+  "pcm_md5_wav": "bac5873f599e7c61831b59dfae209f3a",
+  "pcm_md5_flac": "bac5873f599e7c61831b59dfae209f3a",
+  "bit_exact": true
+ }
+}

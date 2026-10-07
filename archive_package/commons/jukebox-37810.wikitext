@@ -1,7 +1,7 @@
 =={{int:filedesc}}==
 {{Information
 |description={{en|1=Whispering - Ambassador Orchestra. Jazz/dance band. Recorded 1920-08-23 in Camden, United States, New Jersey. Victor 18690, matrix B-24393 (Matrix ID), take 9. Restored version (click interpolation, noise reduction, band-limited filtering, bounded EQ; no generative processing). Original transfer: Library of Congress, National Jukebox.}}
-|date=1920-08-23 (recording); 2026-10-06 (restoration)
+|date=1920-08-23 (recording); 2026-10-07 (restoration)
 |source=Library of Congress, National Jukebox: https://www.loc.gov/item/jukebox-37810/ ; restoration code and logs: https://github.com/galaxyvoyager001-art/Echoes-Recovered
 |author=Ambassador Orchestra (performer); Victor (record company); restoration: Echoes Recovered project
 |permission=Credit line requested by the Library of Congress: "Library of Congress, National Jukebox."

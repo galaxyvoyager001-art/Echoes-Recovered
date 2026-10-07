@@ -6,13 +6,18 @@ The site in site/ references audio and images relative to the repository root
 script copies index.html, data.js and every referenced file into OUT_DIR with
 the same relative layout and sets the base path to "./".
 
-Usage: python scripts/06_bundle_site.py OUT_DIR [--fragment]
-  --fragment  drop the <!doctype>/<html> lines (for hosts that add their own skeleton)
+Usage: python scripts/06_bundle_site.py OUT_DIR [--fragment] [--web-kbps N]
+  --fragment    drop the <!doctype>/<html> lines (for hosts that add their own skeleton)
+  --web-kbps N  for size-limited hosts: re-encode every MP3 (original, restored, A/B,
+                removed) to N kbps mono CBR with identical settings, so the A/B
+                comparison stays fair; the page then says it plays web copies.
 """
 import json
 import re
 import shutil
+import subprocess
 import sys
+from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -21,11 +26,13 @@ ROOT = Path(__file__).resolve().parents[1]
 def main():
     out = Path(sys.argv[1]).resolve()
     frag = "--fragment" in sys.argv
+    kbps = int(sys.argv[sys.argv.index("--web-kbps") + 1]) if "--web-kbps" in sys.argv else None
     out.mkdir(parents=True, exist_ok=True)
     html = (ROOT / "site" / "index.html").read_text()
     if frag:
         html = re.sub(r"^<!doctype html>\s*<html lang=\"en\">\s*", "", html)
-    html = html.replace('<script>window.STM_BASE = window.STM_BASE || "../";</script>', '<script>window.STM_BASE = "./";</script>')
+    web = f'window.STM_WEBCOPY = "{kbps} kbps mono";' if kbps else ""
+    html = html.replace('<script>window.STM_BASE = window.STM_BASE || "../";</script>', f'<script>window.STM_BASE = "./"; {web}</script>')
     (out / "index.html").write_text(html)
     js = (ROOT / "site" / "data.js").read_text()
     (out / "data.js").write_text(js)
@@ -33,10 +40,16 @@ def main():
     files = []
     for s in data["songs"]:
         files += list(s["audio"].values()) + list(s["img"].values()) + [s["log"]]
-    for rel in files:
+    def put(rel):
         dst = out / rel
         dst.parent.mkdir(parents=True, exist_ok=True)
-        shutil.copy2(ROOT / rel, dst)
+        if kbps and rel.endswith(".mp3"):
+            subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", str(ROOT / rel), "-ac", "1",
+                            "-codec:a", "libmp3lame", "-b:a", f"{kbps}k", str(dst)], check=True)
+        else:
+            shutil.copy2(ROOT / rel, dst)
+    with ThreadPoolExecutor(4) as ex:
+        list(ex.map(put, files))
     print(f"bundled {len(files)} files into {out}")
 
 

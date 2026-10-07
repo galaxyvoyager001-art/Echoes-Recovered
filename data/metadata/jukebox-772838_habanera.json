@@ -1,0 +1,105 @@
+{
+ "id": "jukebox-772838",
+ "slug": "jukebox-772838_habanera",
+ "title": "Habanera",
+ "other_titles": [
+  "Carmen",
+  "Carmen. Habanera"
+ ],
+ "performers": [
+  "bizet, georges",
+  "cisneros, eleanora de"
+ ],
+ "primary_performer": "cisneros, eleanora de",
+ "contributors_with_roles": [
+  "Bizet, Georges -- Composer -- Composer",
+  "Cisneros, Eleanora de -- Vocalist -- Mezzo-Soprano"
+ ],
+ "recording_date": "1908-12-31",
+ "year": 1908,
+ "recording_location_loc": [
+  "milan",
+  "italy"
+ ],
+ "recording_city": "Milan",
+ "recording_country": "Italy",
+ "genre_loc": [],
+ "category": "Opera",
+ "summary": "Female vocal solo",
+ "description": [
+  "Columbia 10198. Matrix/Take: 10198/1."
+ ],
+ "language": [
+  "spanish"
+ ],
+ "matrix": "10198 (Matrix ID)",
+ "take": "1",
+ "file_id": "ucsb_col_10198_01_10198_01",
+ "disc": {
+  "label": "Columbia",
+  "catalog_number": "10198",
+  "source_copy_prefix": "ucsb"
+ },
+ "source_copy": "Source of original recording: Department of Special Collections, Davidson Library, University of California, Santa Barbara.",
+ "duration_s": 141.0,
+ "loc_item_url": "https://www.loc.gov/item/jukebox-772838/",
+ "loc_api_url": "https://www.loc.gov/item/jukebox-772838/?fo=json",
+ "loc_files": {
+  "mp3": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/ucsb_col_10198_01_10198_01/ucsb_col_10198_01_10198_01.mp3",
+  "wav": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/ucsb_col_10198_01_10198_01/ucsb_col_10198_01_10198_01.wav",
+  "label": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_10198_01_10198_01:ucsb_col_10198_01_10198_01/full/pct:100/0/default.jpg"
+ },
+ "curator_note": "The Habanera from Bizet's Carmen, sung by mezzo-soprano Eleanora de Cisneros on a Columbia disc recorded in Milan. LoC gives only the year (1908) for this session.",
+ "rights": {
+  "checked_utc": "2026-10-07T12:16:59+00:00",
+  "loc_rights_and_access_text": "The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years. In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use. You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law. You may also need permission from holders of other rights, such as publicity and/or privacy rights. Credit Line: Library of Congress, National Jukebox. More about Copyright and other Restrictions . For guidance about compiling full citations consult Citing Primary Sources .",
+  "loc_rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+  "access_restricted": false,
+  "media_player_flags": {
+   "canDownload": true,
+   "rights_restricted": true
+  },
+  "cleared_for_reuse": true,
+  "status": "Public domain in the United States (published before 1923; Music Modernization Act, 17 U.S.C. 1401(a)(2)(B)(i))",
+  "reasons": [
+   "Rights & Access text states that recordings published prior to 1923 are in the public domain (Music Modernization Act).",
+   "Recording date 1908-12-31 is before 1922-01-01 (project margin so that publication also precedes 1923).",
+   "Evidence of publication: transfer is from an issued Columbia disc (catalog no. 10198 in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ],
+  "caveats": [
+   "LoC: 'You are responsible for deciding whether your use of the items in this collection is legal.'",
+   "LoC: 'Some materials may be protected under international law.' Public-domain status here is asserted for the United States only.",
+   "Required credit line: 'Library of Congress, National Jukebox.'",
+   "Recorded in Milan, Italy, outside US jurisdiction, and issued on a US label (Columbia 10198). The US public-domain status above is the only status assessed here; rights in the country of recording were not separately assessed."
+  ],
+  "credit_line": "Library of Congress, National Jukebox."
+ },
+ "downloads": {
+  "wav": {
+   "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/ucsb_col_10198_01_10198_01/ucsb_col_10198_01_10198_01.wav",
+   "file": "data/originals/jukebox-772838_habanera/loc_original.wav",
+   "bytes": 12488770,
+   "sha256": "71e0c3c97c879dc578295ba6dfcd879a34a60795fe4ffdac81eb3070125a066a"
+  },
+  "mp3": {
+   "url": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/ucsb_col_10198_01_10198_01/ucsb_col_10198_01_10198_01.mp3",
+   "file": "data/originals/jukebox-772838_habanera/loc_original.mp3",
+   "bytes": 4533229,
+   "sha256": "123db4a742f91e2fd3fc2a704eada4bd3dbc41efcd1a175f81e3c7ea2f1995eb"
+  },
+  "label": {
+   "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_10198_01_10198_01:ucsb_col_10198_01_10198_01/full/pct:100/0/default.jpg",
+   "file": "data/originals/jukebox-772838_habanera/loc_label.jpg",
+   "bytes": 1925703,
+   "sha256": "449b5eb05e783f6d825c8c9a183cc3053a4f6ae7620a1c95cd70d4e7edae4f20"
+  }
+ },
+ "lossless_copy": {
+  "file": "data/originals/jukebox-772838_habanera/loc_original.flac",
+  "bytes": 8555835,
+  "pcm_md5_wav": "1356ce6c5590f8614d258e2327dc9e5d",
+  "pcm_md5_flac": "1356ce6c5590f8614d258e2327dc9e5d",
+  "bit_exact": true
+ }
+}

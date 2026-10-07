@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=El albanico, El albanico : Marcha - Regt. Band Of H. M. Scots Guards. Band. Recorded 1911-12-31 in United Kingdom, London. Columbia A1398, matrix 27678 (Matrix ID), take 2. Restored version (click interpolation, noise reduction, band-limited filtering, bounded EQ; no generative processing). Original transfer: Library of Congress, National Jukebox.}}
+|date=1911-12-31 (recording); 2026-10-07 (restoration)
+|source=Library of Congress, National Jukebox: https://www.loc.gov/item/jukebox-745838/ ; restoration code and logs: https://github.com/galaxyvoyager001-art/Echoes-Recovered
+|author=Regt. Band Of H. M. Scots Guards (performer); Columbia (record company); restoration: Echoes Recovered project
+|permission=Credit line requested by the Library of Congress: "Library of Congress, National Jukebox."
+|other versions=Unrestored LoC transfer: https://www.loc.gov/item/jukebox-745838/
+}}
+
+=={{int:license-header}}==
+{{PD-US-record-expired}}
+<!-- Check on Commons before uploading: the work must also be PD in its source country (these discs were first published in the US). -->
+
+[[Category:National Jukebox]]
+[[Category:1911 sound recordings]]

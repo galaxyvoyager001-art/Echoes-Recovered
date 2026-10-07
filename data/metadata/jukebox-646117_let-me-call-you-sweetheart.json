@@ -21,10 +21,11 @@
  "recording_date": "1911-07-28",
  "year": 1911,
  "recording_location_loc": [
-  "new york",
-  "united states"
+  "united states",
+  "new york"
  ],
  "recording_city": "New York",
+ "recording_country": "United States",
  "genre_loc": [],
  "category": "Popular song",
  "summary": "Male vocal quartet, with orchestra",
@@ -53,7 +54,7 @@
  },
  "curator_note": "'Let Me Call You Sweetheart' (Friedman/Whitson, 1910) in a male-quartet arrangement typical of the period.",
  "rights": {
-  "checked_utc": "2026-10-06T18:19:44+00:00",
+  "checked_utc": "2026-10-07T12:16:09+00:00",
   "loc_rights_and_access_text": "The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years. In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use. You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law. You may also need permission from holders of other rights, such as publicity and/or privacy rights. Credit Line: Library of Congress, National Jukebox. More about Copyright and other Restrictions . For guidance about compiling full citations consult Citing Primary Sources .",
   "loc_rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
   "access_restricted": false,

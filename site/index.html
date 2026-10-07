@@ -5,192 +5,259 @@
 <meta charset="utf-8">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Libre+Bodoni:ital,wght@0,500;0,700;1,500&family=Source+Sans+3:wght@400;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,500;0,6..96,700;0,6..96,900;1,6..96,500&family=IM+Fell+English:ital@0;1&family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&family=Special+Elite&display=swap">
 <style>
-/* Layout: listening-room console. Map + timeline (where/when) on the left, the selected disc on the right, catalogue below. */
+/* Layout: a 1910s record-catalogue spread. Claret masthead; hand-tinted atlas + catalogue ruler on the left;
+   a paper record sleeve (label spins while playing) on the right; a ledger of every disc below. */
 :root {
-  --paper: #f2f3f1;
-  --card: #fbfbfa;
-  --ink: #15171c;
-  --ink-2: #545a64;
-  --line: #d3d6da;
-  --accent: #1f5f8b;      /* catalogue-stamp cobalt: restored audio, selection */
-  --orig: #7d7f80;        /* graphite: original transfer */
-  --muted-fill: #e4e6e8;
-  --state: #e6e8e5;
-  --state-line: #b9bec4;
-  --water: #f2f3f1;
-  --display: "Libre Bodoni", "Bodoni 72", Didot, Georgia, serif;
-  --body: "Source Sans 3", "Segoe UI", system-ui, sans-serif;
-  --mono: "IBM Plex Mono", ui-monospace, Menlo, Consolas, monospace;
+  --paper: #efe3c6;       /* aged catalogue paper */
+  --paper-2: #f7efdc;     /* sleeve / card stock */
+  --ink: #2a1c12;         /* sepia-black printing ink */
+  --ink-2: #6b5640;
+  --rule: #c7b083;
+  --claret: #8c1f2a;      /* Victor red-label */
+  --gold: #a87a22;        /* label gilt */
+  --gold-soft: #e6c873;
+  --teal: #2e6b66;
+  --navy: #26406a;
+  --rust: #b0532e;
+  --plum: #6e3a68;
+  --sea: #c7dccf;
+  --sea-line: #9fbfb0;
+  --land-0: #ecd9a2; --land-1: #e5b9a2; --land-2: #c9d39d; --land-3: #d8c2da; --land-4: #f1cb8c;
+  --land-line: #8f7652;
+  --on-claret: #f7e8c4;
+  --mast: #8c1f2a; --mast-gold: #e6c873;
+  --display: "Bodoni Moda", "Bodoni 72", Didot, Georgia, serif;
+  --fell: "IM Fell English", "Iowan Old Style", Georgia, serif;
+  --body: "Libre Caslon Text", "Iowan Old Style", Georgia, serif;
+  --type: "Special Elite", "Courier Prime", "Courier New", monospace;
   color-scheme: light;
 }
 @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
-  --paper: #121417; --card: #1a1d21; --ink: #e9e8e4; --ink-2: #a9aeb6; --line: #33383f;
-  --accent: #74aee0; --orig: #9a9c9e; --muted-fill: #262a30; --state: #22262b; --state-line: #444a52; --water: #121417;
+  --paper: #1b1410; --paper-2: #251b15; --ink: #f1e4c8; --ink-2: #c6ae8b; --rule: #54402e;
+  --claret: #d4525e; --gold: #d9aa4c; --gold-soft: #6b5426; --teal: #63aaa1; --navy: #7f9fd6; --rust: #e0805a; --plum: #c58cbf;
+  --sea: #142a2c; --sea-line: #24484a;
+  --land-0: #4a3e25; --land-1: #4d3229; --land-2: #39432a; --land-3: #423448; --land-4: #57401f; --land-line: #8a7556;
+  --on-claret: #f7e8c4; --mast: #5e141c; --mast-gold: #e2bd5e;
   color-scheme: dark; } }
 :root[data-theme="dark"] {
-  --paper: #121417; --card: #1a1d21; --ink: #e9e8e4; --ink-2: #a9aeb6; --line: #33383f;
-  --accent: #74aee0; --orig: #9a9c9e; --muted-fill: #262a30; --state: #22262b; --state-line: #444a52; --water: #121417;
+  --paper: #1b1410; --paper-2: #251b15; --ink: #f1e4c8; --ink-2: #c6ae8b; --rule: #54402e;
+  --claret: #d4525e; --gold: #d9aa4c; --gold-soft: #6b5426; --teal: #63aaa1; --navy: #7f9fd6; --rust: #e0805a; --plum: #c58cbf;
+  --sea: #142a2c; --sea-line: #24484a;
+  --land-0: #4a3e25; --land-1: #4d3229; --land-2: #39432a; --land-3: #423448; --land-4: #57401f; --land-line: #8a7556;
+  --on-claret: #f7e8c4; --mast: #5e141c; --mast-gold: #e2bd5e;
   color-scheme: dark; }
 
 * { box-sizing: border-box; }
-body { margin: 0; background: var(--paper); color: var(--ink); font: 16px/1.5 var(--body); }
-.wrap { max-width: 1240px; margin: 0 auto; padding-inline: 20px; padding-block: 28px 64px; }
-a { color: var(--accent); }
-a:focus-visible, button:focus-visible, [tabindex]:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
-h1, h2, h3 { font-family: var(--display); font-weight: 500; text-wrap: balance; margin: 0; }
-h1 { font-size: clamp(2.2rem, 5vw, 3.4rem); line-height: 1.02; letter-spacing: -0.01em; margin-top: 8px; }
-h2 { font-size: 1.45rem; }
-.eyebrow { font: 500 0.72rem/1 var(--mono); letter-spacing: 0.12em; text-transform: uppercase; color: var(--ink-2); }
-.mono { font-family: var(--mono); font-variant-numeric: tabular-nums; }
+body {
+  margin: 0; color: var(--ink); font: 16px/1.55 var(--body); background-color: var(--paper);
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='220' height='220'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .45 0 0 0 0 .32 0 0 0 0 .18 0 0 0 .07 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+a { color: var(--claret); text-underline-offset: 2px; }
+a:focus-visible, button:focus-visible, [tabindex]:focus-visible, input:focus-visible { outline: 2px dashed var(--claret); outline-offset: 3px; }
+h1, h2, h3 { font-family: var(--display); margin: 0; text-wrap: balance; }
+.type { font-family: var(--type); }
+.wrap { max-width: 1280px; margin: 0 auto; padding-inline: 20px; padding-block: 0 72px; }
 
-header.top { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 20px 40px; align-items: end; padding-bottom: 22px; border-bottom: 1px solid var(--line); }
-header.top p { margin: 10px 0 0; max-width: 62ch; color: var(--ink-2); }
-.counts { display: flex; gap: 28px; }
-.counts div { display: grid; gap: 4px; }
-.counts b { font: 500 1.9rem/1 var(--display); }
-.counts span { font: 0.72rem/1.2 var(--mono); letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-2); }
+/* ---------- masthead ---------- */
+.mast { background: var(--mast); color: var(--on-claret); border-bottom: 6px double var(--mast-gold); }
+.mast-in { max-width: 1280px; margin: 0 auto; padding-inline: 20px; padding-block: 26px 30px;
+  display: grid; grid-template-columns: auto minmax(0, 1fr) auto; gap: 28px; align-items: center; }
+.emblem { width: 118px; height: 118px; border-radius: 50%; position: relative; flex: none;
+  background: repeating-radial-gradient(circle, #141010 0 1.6px, #2a2422 1.6px 3.2px); box-shadow: 0 0 0 3px var(--mast-gold); }
+.emblem::after { content: ""; position: absolute; inset: 34%; border-radius: 50%; background: radial-gradient(circle, #141010 0 7%, var(--mast-gold) 8% 12%, #9e1d2a 13%); }
+.mast .eyebrow { font: 0.78rem/1.3 var(--type); letter-spacing: 0.14em; text-transform: uppercase; opacity: 0.92; }
+.mast h1 { font-weight: 900; font-size: clamp(2.6rem, 6.4vw, 5rem); line-height: 0.95; letter-spacing: -0.01em; margin-top: 6px; }
+.mast h1 em { font-family: var(--fell); font-weight: 400; font-style: italic; font-size: 0.5em; letter-spacing: 0; display: block; margin-top: 8px; color: var(--mast-gold); }
+.mast p { margin: 12px 0 0; max-width: 60ch; font-size: 0.98rem; opacity: 0.95; }
+.seals { display: flex; gap: 14px; }
+.seal { width: 104px; height: 104px; border-radius: 50%; display: grid; place-content: center; text-align: center;
+  background: var(--paper-2); color: var(--ink); border: 3px double var(--gold); box-shadow: 0 0 0 4px var(--mast), 0 0 0 5px var(--mast-gold); }
+.seal b { font: 900 1.7rem/1 var(--display); color: var(--claret); }
+.seal span { font: 0.62rem/1.15 var(--type); text-transform: uppercase; letter-spacing: 0.06em; margin-top: 4px; }
 
-.console { display: grid; grid-template-columns: minmax(0, 1.25fr) minmax(0, 1fr); gap: 28px; margin-top: 26px; align-items: start; }
-.panel { background: var(--card); border: 1px solid var(--line); border-radius: 6px; }
-.where, .when { padding: 16px 16px 10px; }
-.when { margin-top: 18px; }
-.panel-head { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; flex-wrap: wrap; margin-bottom: 8px; }
-.panel-head h2 { font-size: 1.15rem; }
-.hint { font-size: 0.85rem; color: var(--ink-2); }
+/* ---------- section heads ---------- */
+.shead { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; flex-wrap: wrap; margin-bottom: 10px; }
+.shead h2 { font-size: 1.6rem; font-weight: 700; }
+.shead h2 small { font-family: var(--fell); font-style: italic; font-weight: 400; font-size: 0.72em; color: var(--ink-2); margin-left: 8px; }
+.hint { font-size: 0.86rem; color: var(--ink-2); font-style: italic; }
+.ornament { text-align: center; color: var(--gold); letter-spacing: 0.6em; font-size: 0.9rem; margin-block: 34px 26px; }
 
+.console { display: grid; grid-template-columns: minmax(0, 1.42fr) minmax(0, 1fr); gap: 28px; margin-top: 30px; align-items: start; }
+.plate { background: var(--paper-2); border: 1px solid var(--rule); box-shadow: 0 0 0 4px var(--paper-2), 0 0 0 5px var(--rule); padding: 16px; }
+.plate + .plate { margin-top: 26px; }
+
+/* ---------- map ---------- */
 svg { display: block; width: 100%; height: auto; }
-.state { fill: var(--state); stroke: var(--state-line); stroke-width: 1; }
-.state-label { font: 500 17px var(--mono); letter-spacing: 0.1em; fill: var(--ink-2); text-transform: uppercase; }
+.sea { fill: var(--sea); }
+.grat { stroke: var(--sea-line); stroke-width: 1; stroke-dasharray: 3 5; fill: none; }
+.land { stroke: var(--land-line); stroke-width: 0.6; stroke-linejoin: round; }
+.t0 { fill: var(--land-0); } .t1 { fill: var(--land-1); } .t2 { fill: var(--land-2); } .t3 { fill: var(--land-3); } .t4 { fill: var(--land-4); }
+.frame { fill: none; stroke: var(--ink); stroke-width: 2; }
+.frame-in { fill: none; stroke: var(--ink); stroke-width: 0.8; }
+.zoombox { fill: none; stroke: var(--claret); stroke-width: 2; stroke-dasharray: 4 3; }
+.cartouche rect { fill: var(--paper-2); stroke: var(--ink); stroke-width: 1.2; }
+.cartouche text { fill: var(--ink); }
+.cart-t { font: 700 23px var(--display); }
+.cart-s { font: italic 15px var(--fell); }
 .city { cursor: pointer; }
-.city circle.halo { fill: var(--accent); opacity: 0.16; }
-.city circle.dot { fill: var(--accent); stroke: var(--card); stroke-width: 2; }
-.city text { font: 600 24px var(--body); fill: var(--ink); paint-order: stroke; stroke: var(--state); stroke-width: 5px; }
-.city text.n { font: 500 18px var(--mono); fill: var(--ink-2); }
-.city.dim { opacity: 0.35; }
-.city.on circle.halo { opacity: 0.32; }
+.city .ring { fill: var(--claret); fill-opacity: 0.18; stroke: var(--claret); stroke-width: 1.5; }
+.city .pin { fill: var(--claret); stroke: var(--gold-soft); stroke-width: 2.5; }
+.city text { font: italic 600 19px var(--display); fill: var(--ink); paint-order: stroke; stroke: var(--paper-2); stroke-width: 5px; stroke-linejoin: round; }
+.city text.n { font: 14px var(--type); fill: var(--ink-2); font-style: normal; }
+.city.dim { opacity: 0.28; }
+.city.on .ring { fill-opacity: 0.42; }
+.compass text { font: 700 15px var(--display); fill: var(--ink); }
+.compass path { fill: var(--ink); } .compass path.lt { fill: var(--gold); }
 
-.axis text { font: 20px var(--mono); fill: var(--ink-2); }
-.axis line { stroke: var(--line); }
+/* ---------- timeline ---------- */
+.axis text { font: 19px var(--type); fill: var(--ink-2); }
+.axis line { stroke: var(--ink); }
 .yearband { fill: transparent; cursor: pointer; }
-.yearband:hover { fill: var(--muted-fill); }
-.yearband.on { fill: var(--muted-fill); }
-.excluded { fill: var(--muted-fill); }
-.excluded-label { font: 18px var(--body); fill: var(--ink-2); }
-.rec { cursor: pointer; fill: var(--accent); stroke: var(--card); stroke-width: 2; }
-.rec.dim { opacity: 0.25; }
-.rec.sel { fill: var(--ink); }
+.yearband:hover, .yearband.on { fill: var(--gold-soft); fill-opacity: 0.45; }
+.excluded { fill: var(--rule); fill-opacity: 0.35; }
+.excluded-label { font: italic 18px var(--fell); fill: var(--ink-2); }
+.rec { cursor: pointer; stroke: var(--paper-2); stroke-width: 2.5; }
+.rec.dim { opacity: 0.18; }
+.rec.sel { stroke: var(--ink); stroke-width: 3.5; }
 
-.filters { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 16px; align-items: center; }
-.chip { font: 600 0.82rem var(--body); border: 1px solid var(--line); background: var(--card); color: var(--ink); border-radius: 999px; padding: 5px 12px; cursor: pointer; }
-.chip[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: var(--card); }
-.state-pill { font: 0.8rem var(--mono); color: var(--ink-2); }
-button.clear { font: 600 0.82rem var(--body); background: none; border: 0; color: var(--accent); cursor: pointer; padding: 5px 4px; text-decoration: underline; }
+.fam-opera { --c: var(--claret); } .fam-jazz { --c: var(--teal); } .fam-popular { --c: var(--gold); }
+.fam-band { --c: var(--navy); } .fam-latin { --c: var(--rust); } .fam-europe { --c: var(--plum); }
+.rec { fill: var(--c); }
 
-.disc { position: sticky; top: calc(env(safe-area-inset-top, 0px) + 16px); padding: 20px; display: grid; gap: 16px; }
-.disc-head { display: grid; grid-template-columns: 112px minmax(0, 1fr); gap: 16px; align-items: start; }
-.disc-head img { width: 112px; height: 112px; object-fit: cover; border-radius: 50%; border: 1px solid var(--line); background: var(--muted-fill); }
-.disc h2 { font-size: 1.7rem; line-height: 1.1; }
-.disc .who { margin-top: 6px; font-weight: 600; }
-dl.facts { display: grid; grid-template-columns: auto minmax(0, 1fr); gap: 4px 14px; margin: 0; font-size: 0.92rem; }
-dl.facts dt { font: 500 0.72rem/1.9 var(--mono); letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-2); }
-dl.facts dd { margin: 0; min-width: 0; overflow-wrap: anywhere; }
-.note { margin: 0; font-size: 0.95rem; }
-.note small { display: block; color: var(--ink-2); margin-top: 4px; }
+.filters { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 14px; align-items: center; }
+.chip { font: 0.86rem var(--body); border: 1.5px solid var(--c, var(--ink)); background: var(--paper-2); color: var(--ink); border-radius: 999px; padding: 4px 12px 4px 8px; cursor: pointer; display: inline-flex; gap: 7px; align-items: center; }
+.chip i { width: 12px; height: 12px; border-radius: 50%; background: var(--c); display: inline-block; }
+.chip[aria-pressed="true"] { background: var(--c); color: var(--paper-2); }
+.chip[aria-pressed="true"] i { background: var(--paper-2); }
+button.clear { font: italic 0.9rem var(--fell); background: none; border: 0; color: var(--claret); cursor: pointer; text-decoration: underline; padding: 4px; }
+
+/* ---------- the sleeve ---------- */
+.sleeve { position: sticky; top: calc(env(safe-area-inset-top, 0px) + 14px); background: var(--paper-2);
+  border: 1px solid var(--rule); box-shadow: 0 0 0 5px var(--paper-2), 0 0 0 6px var(--rule), 6px 8px 0 6px rgba(60, 35, 15, 0.14);
+  padding: 22px; display: grid; gap: 16px; }
+.sleeve-top { display: grid; grid-template-columns: 150px minmax(0, 1fr); gap: 18px; align-items: center; }
+.disc { width: 150px; height: 150px; border-radius: 50%; position: relative; background: repeating-radial-gradient(circle, #151111 0 1.4px, #2b2523 1.4px 2.8px); box-shadow: 0 2px 0 rgba(0,0,0,.25); }
+.disc img { position: absolute; inset: 22%; width: 56%; height: 56%; border-radius: 50%; object-fit: cover; }
+.disc::after { content: ""; position: absolute; left: 50%; top: 50%; width: 6px; height: 6px; margin: -3px; border-radius: 50%; background: var(--paper-2); }
+@media (prefers-reduced-motion: no-preference) {
+  .disc { animation: spin 1.8s linear infinite; animation-play-state: paused; }
+  .disc.playing { animation-play-state: running; }
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+.fam-tag { font: 0.74rem var(--type); letter-spacing: 0.08em; text-transform: uppercase; color: var(--c); }
+.sleeve h2 { font-size: 1.85rem; line-height: 1.08; font-weight: 700; margin-top: 4px; }
+.sleeve .who { font: italic 1.1rem var(--fell); margin-top: 6px; }
+.card { background: var(--paper); border: 1px solid var(--rule); padding: 12px 14px;
+  background-image: repeating-linear-gradient(transparent 0 25px, color-mix(in srgb, var(--teal) 22%, transparent) 25px 26px); }
+dl.facts { display: grid; grid-template-columns: auto minmax(0, 1fr); gap: 2px 14px; margin: 0; font-size: 0.92rem; line-height: 26px; }
+dl.facts dt { font: 0.78rem/26px var(--type); text-transform: uppercase; letter-spacing: 0.05em; color: var(--claret); }
+dl.facts dd { margin: 0; min-width: 0; overflow-wrap: anywhere; font-family: var(--type); }
+.note { margin: 0; font-size: 0.98rem; }
+.note small { display: block; color: var(--ink-2); margin-top: 4px; font-style: italic; }
 
 .players { display: grid; gap: 10px; }
-.player { display: grid; grid-template-columns: 92px minmax(0, 1fr); gap: 10px; align-items: center; }
-.player .lab { font: 500 0.75rem var(--mono); letter-spacing: 0.08em; text-transform: uppercase; }
-.player .lab::before { content: ""; display: inline-block; width: 10px; height: 10px; border-radius: 2px; margin-right: 6px; vertical-align: -1px; }
-.player.o .lab::before { background: var(--orig); }
-.player.r .lab::before { background: var(--accent); }
-audio { width: 100%; height: 36px; }
-.flip { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
-.flip button { font: 600 0.88rem var(--body); border: 1px solid var(--accent); color: var(--accent); background: var(--card); padding: 7px 14px; border-radius: 4px; cursor: pointer; }
-.flip button:hover { background: var(--muted-fill); }
-.flip span { font-size: 0.85rem; color: var(--ink-2); }
+.player { display: grid; grid-template-columns: 46px minmax(0, 1fr); gap: 12px; align-items: center; padding: 8px 10px; border: 1px solid var(--rule); background: var(--paper); }
+.player .play { width: 46px; height: 46px; border-radius: 50%; border: 2px solid var(--gold); background: var(--pc); color: var(--paper-2); cursor: pointer; display: grid; place-items: center; }
+.player.o { --pc: var(--ink-2); } .player.r { --pc: var(--claret); }
+.player .play svg { width: 18px; height: 18px; fill: currentColor; }
+.player .lab { display: flex; justify-content: space-between; gap: 8px; font: 0.82rem var(--type); text-transform: uppercase; letter-spacing: 0.06em; }
+.player .lab b { color: var(--pc); font-weight: 400; }
+.player input[type=range] { width: 100%; accent-color: var(--pc); margin: 6px 0 0; }
+.switch { display: flex; gap: 12px; align-items: center; flex-wrap: wrap; }
+.switch button { font: 700 0.95rem var(--display); letter-spacing: 0.04em; color: var(--on-claret); background: var(--claret); border: 2px solid var(--gold); padding: 8px 16px; cursor: pointer; box-shadow: 0 3px 0 var(--gold); }
+.switch button:active { transform: translateY(2px); box-shadow: 0 1px 0 var(--gold); }
+.switch span { font-size: 0.86rem; font-style: italic; color: var(--ink-2); }
+.metrics { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 10px; }
+.metric { text-align: center; border-top: 3px double var(--gold); padding-top: 6px; }
+.metric b { display: block; font: 1rem var(--type); font-variant-numeric: tabular-nums; }
+.metric span { font-size: 0.78rem; color: var(--ink-2); font-style: italic; }
+.links { display: flex; flex-wrap: wrap; gap: 6px 18px; font-size: 0.92rem; }
+.rights { font-size: 0.8rem; color: var(--ink-2); border-top: 1px solid var(--rule); padding-top: 10px; }
+details.spec summary { cursor: pointer; font-size: 0.92rem; color: var(--claret); }
+details.spec img { margin-top: 8px; border: 1px solid var(--rule); }
 
-.metrics { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 8px; }
-.metric { border-top: 2px solid var(--line); padding-top: 6px; }
-.metric b { display: block; font: 500 0.95rem var(--mono); font-variant-numeric: tabular-nums; }
-.metric span { font-size: 0.75rem; color: var(--ink-2); }
-.links { display: flex; flex-wrap: wrap; gap: 6px 16px; font-size: 0.88rem; }
-.rights { font-size: 0.8rem; color: var(--ink-2); border-top: 1px solid var(--line); padding-top: 10px; }
-details.spec summary { cursor: pointer; font-size: 0.88rem; color: var(--accent); }
-details.spec img { margin-top: 8px; border-radius: 4px; border: 1px solid var(--line); }
-
-section.catalogue { margin-top: 40px; }
-.cat-head { display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 8px; margin-bottom: 10px; }
-.table-wrap { overflow-x: auto; border: 1px solid var(--line); border-radius: 6px; background: var(--card); }
-table { border-collapse: collapse; width: 100%; min-width: 760px; font-size: 0.92rem; }
-th, td { text-align: left; padding: 9px 12px; border-bottom: 1px solid var(--line); vertical-align: top; }
-th { font: 500 0.7rem var(--mono); letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-2); background: var(--card); }
+/* ---------- ledger ---------- */
+.table-wrap { overflow-x: auto; background: var(--paper-2); border: 1px solid var(--rule); box-shadow: 0 0 0 4px var(--paper-2), 0 0 0 5px var(--rule); }
+table { border-collapse: collapse; width: 100%; min-width: 820px; font-size: 0.92rem; }
+th, td { text-align: left; padding: 8px 12px; border-bottom: 1px dotted var(--rule); vertical-align: top; }
+th { font: 0.78rem var(--type); text-transform: uppercase; letter-spacing: 0.06em; color: var(--paper-2); background: var(--ink); }
 tbody tr { cursor: pointer; }
-tbody tr:hover { background: var(--muted-fill); }
-tbody tr.sel { background: var(--muted-fill); box-shadow: inset 3px 0 0 var(--accent); }
-td.num { font-family: var(--mono); font-variant-numeric: tabular-nums; white-space: nowrap; }
+tbody tr:nth-child(even) { background: color-mix(in srgb, var(--gold-soft) 18%, transparent); }
+tbody tr:hover { background: color-mix(in srgb, var(--gold-soft) 45%, transparent); }
+tbody tr.sel { box-shadow: inset 4px 0 0 var(--claret); background: color-mix(in srgb, var(--gold-soft) 45%, transparent); }
+td.t { font-family: var(--type); white-space: nowrap; }
+td .dot { display: inline-block; width: 10px; height: 10px; border-radius: 50%; background: var(--c); margin-right: 7px; vertical-align: 0; }
 
-section.about { margin-top: 40px; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 28px; border-top: 1px solid var(--line); padding-top: 24px; }
-section.about h3 { font-size: 1.1rem; margin-bottom: 6px; }
-section.about p { margin: 0; font-size: 0.92rem; color: var(--ink-2); }
+section.about { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 30px; }
+section.about h3 { font-size: 1.2rem; margin-bottom: 6px; color: var(--claret); }
+section.about p { margin: 0; font-size: 0.93rem; }
 
-.tip { position: fixed; pointer-events: none; background: var(--ink); color: var(--paper); font-size: 0.82rem; padding: 6px 9px; border-radius: 4px; max-width: 260px; z-index: 5; }
+.tip { position: fixed; pointer-events: none; background: var(--ink); color: var(--paper); font: 0.84rem var(--body); padding: 6px 9px; max-width: 280px; z-index: 5; border: 1px solid var(--gold); }
 
-@media (max-width: 900px) {
+@media (max-width: 960px) {
   .console { grid-template-columns: minmax(0, 1fr); }
-  .disc { position: static; }
+  .sleeve { position: static; }
   section.about { grid-template-columns: minmax(0, 1fr); }
-  header.top { grid-template-columns: minmax(0, 1fr); }
+  .mast-in { grid-template-columns: minmax(0, 1fr); }
+  .emblem { display: none; }
 }
-@media (max-width: 480px) {
-  .wrap { padding-inline: 16px; }
-  .disc-head { grid-template-columns: 76px minmax(0, 1fr); }
-  .disc-head img { width: 76px; height: 76px; }
-  .player { grid-template-columns: minmax(0, 1fr); gap: 4px; }
-  .metrics { grid-template-columns: repeat(2, minmax(0, 1fr)); }
-  .counts { gap: 18px; }
+@media (max-width: 520px) {
+  .wrap, .mast-in { padding-inline: 16px; }
+  .seals { gap: 8px; }
+  .seal { width: 86px; height: 86px; } .seal b { font-size: 1.3rem; }
+  .sleeve { padding: 16px; }
+  .sleeve-top { grid-template-columns: 100px minmax(0, 1fr); }
+  .disc { width: 100px; height: 100px; }
+  .metrics { grid-template-columns: minmax(0, 1fr); }
 }
-@media (prefers-reduced-motion: no-preference) { .rec, .city circle { transition: opacity .15s; } }
 </style>
 
-<div class="wrap">
-  <header class="top">
+<header class="mast">
+  <div class="mast-in">
+    <div class="emblem" aria-hidden="true"></div>
     <div>
-      <div class="eyebrow">Echoes Recovered · Library of Congress National Jukebox</div>
-      <h1>Sound Time Map</h1>
-      <p>Acoustic-era discs, 1901–1921, placed where and when they were recorded. Each one plays twice: the Library of Congress transfer exactly as published, and a restoration made with documented, non-generative signal processing.</p>
+      <div class="eyebrow">Echoes Recovered · from the Library of Congress National Jukebox</div>
+      <h1>Sound Time Map<em>Acoustic recordings of the gramophone age, heard again</em></h1>
+      <p>Shellac discs recorded between 1901 and 1921, from Camden to Buenos Aires and Milan. Each one plays twice: the Library of Congress transfer exactly as published, and a restoration made with documented, non-generative signal processing.</p>
     </div>
-    <div class="counts" id="counts"></div>
-  </header>
+    <div class="seals" id="counts"></div>
+  </div>
+</header>
 
+<div class="wrap">
   <div class="console">
     <div>
-      <div class="panel where">
-        <div class="panel-head"><h2>Where</h2><span class="hint">Cities as given in each LoC record. Studio addresses are not shown.</span></div>
-        <svg id="map" role="img" aria-label="Map of recording cities"></svg>
+      <div class="plate">
+        <div class="shead"><h2>Where <small>the needles dropped</small></h2><span class="hint">Cities as named in each LoC record. No studio addresses.</span></div>
+        <svg id="map" role="img" aria-label="World map of recording cities"></svg>
       </div>
-      <div class="panel when">
-        <div class="panel-head"><h2>When</h2><span class="hint">Each dot is one recording session. Select a year or a dot.</span></div>
+      <div class="plate">
+        <div class="shead"><h2>When <small>the catalogue, year by year</small></h2><span class="hint">Each dot is one recording. Choose a year or a dot.</span></div>
         <svg id="timeline" role="img" aria-label="Timeline 1900 to 1925"></svg>
+        <div class="filters" id="filters" aria-label="Filter by kind of music"></div>
       </div>
-      <div class="filters" id="filters" aria-label="Filter by music type"></div>
     </div>
-    <aside class="panel disc" id="disc" aria-live="polite"></aside>
+    <aside class="sleeve" id="sleeve" aria-live="polite"></aside>
   </div>
 
-  <section class="catalogue">
-    <div class="cat-head"><h2>Catalogue</h2><span class="state-pill" id="catstate"></span></div>
+  <div class="ornament" aria-hidden="true">❦ ❦ ❦</div>
+
+  <section>
+    <div class="shead"><h2>The Ledger <small>every disc in the collection</small></h2><span class="hint type" id="catstate"></span></div>
     <div class="table-wrap"><table>
-      <thead><tr><th>Recorded</th><th>Title</th><th>Performer</th><th>City</th><th>Type</th><th>Disc</th><th>Clicks/min, before → after</th></tr></thead>
+      <thead><tr><th>Recorded</th><th>Title</th><th>Performer</th><th>City</th><th>Kind</th><th>Disc</th><th>Clicks / min</th></tr></thead>
       <tbody id="rows"></tbody>
     </table></div>
   </section>
 
+  <div class="ornament" aria-hidden="true">❦ ❦ ❦</div>
+
   <section class="about">
-    <div><h3>Source and rights</h3><p>Every recording comes from the Library of Congress National Jukebox. Each item's Rights &amp; Access statement was checked: recordings published before 1923 are in the US public domain under the Music Modernization Act. Only issued discs recorded before 1922 were used, as a safety margin on the publication date. Credit: Library of Congress, National Jukebox.</p></div>
-    <div><h3>How the restoration works</h3><p>The two stereo channels are folded to mono. Clicks are detected with an autoregressive model and bridged from the samples on either side. Surface noise is reduced with a decision-directed Wiener filter, hiss above the recorded band is filtered off, and a bounded EQ evens out horn resonances. Nothing is synthesised. The project repository holds the code, the parameters for every track, and its logs.</p></div>
-    <div><h3>How to listen</h3><p>Start either player, then use “Switch” to jump to the other version at the same moment. The A/B file alternates identical passages. “What was removed” plays the exact difference signal, so you can check that the processing took out noise rather than music.</p></div>
+    <div><h3>Source and rights</h3><p>Every recording comes from the Library of Congress National Jukebox. Each item's Rights &amp; Access statement was checked: recordings published before 1923 are in the US public domain under the Music Modernization Act. Only issued discs recorded before 1922 were used. For discs recorded outside the US, only the US status was assessed. Credit: Library of Congress, National Jukebox.</p></div>
+    <div><h3>How the restoration works</h3><p>The channels are folded to mono. Clicks are detected with an autoregressive model and bridged from the real samples on either side. Surface noise is reduced with a decision-directed Wiener filter, hiss above the recorded band is filtered off, and a bounded EQ evens out horn resonances. Nothing is synthesised, and the code and every track's parameters are public.</p></div>
+    <div><h3>How to listen</h3><p>Start either player, then press “Switch” to jump to the other version at the same moment. The label turns while a record plays. “What was removed” plays the exact difference signal, so you can hear that the processing took out noise, not music.</p></div>
   </section>
 </div>
 <div class="tip" id="tip" hidden></div>
@@ -199,108 +266,160 @@ section.about p { margin: 0; font-size: 0.92rem; color: var(--ink-2); }
 <script src="data.js"></script>
 <script>
 (() => {
-  const D = window.STM, B = window.STM_BASE, S = D.songs;
+  const D = window.STM, B = window.STM_BASE, S = D.songs, M = D.map;
   const NS = "http://www.w3.org/2000/svg";
-  const st = { city: null, year: null, cat: null, sel: S.find(s => s.id === "jukebox-186254") || S[0] };
   const $ = id => document.getElementById(id);
   const el = (tag, attrs = {}, parent) => { const e = document.createElementNS(NS, tag); for (const k in attrs) e.setAttribute(k, attrs[k]); if (parent) parent.appendChild(e); return e; };
   const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
-  const title = s => s.split(" ").map((w, i) => (i && /^(and|of|the)$/.test(w)) ? w : w.replace(/^([\[(]?)([a-z])/, (m, a, b) => a + b.toUpperCase())).join(" ").replace(/\[I\.e\./g, "[i.e.");
-  const catGroup = c => c.split(/[\/(]/)[0].trim();
-  const match = s => (!st.city || s.city === st.city) && (!st.year || s.year === st.year) && (!st.cat || catGroup(s.category) === st.cat);
-  const tip = $("tip");
-  const showTip = (e, html) => { tip.innerHTML = html; tip.hidden = false; tip.style.left = Math.min(e.clientX + 12, innerWidth - 270) + "px"; tip.style.top = (e.clientY + 14) + "px"; };
-  const hideTip = () => { tip.hidden = true; };
 
-  // counts (computed from the data that is actually present)
-  const cities = new Set(S.map(s => s.city)), yrs = S.map(s => s.year);
-  $("counts").innerHTML = `<div><b>${S.length}</b><span>restored discs</span></div><div><b>${cities.size}</b><span>recording cities</span></div><div><b>${Math.min(...yrs)}–${Math.max(...yrs)}</b><span>recorded</span></div>`;
+  // kinds of music -> colour families (categories are the project's labels in config/selection.json)
+  const FAM = [
+    ["opera", "Opera", /opera/i],
+    ["jazz", "Jazz & blues", /jazz|blues/i],
+    ["latin", "Latin American song", /mexican|cuban song|tango|peruvian|chilean|brazilian|venezuelan song|puerto rican song/i],
+    ["europe", "European song", /neapolitan|italian|irish|galician|music hall/i],
+    ["band", "Bands & dance orchestras", /band|orchestra/i],
+    ["popular", "Ragtime & popular song", /./],
+  ];
+  const fam = s => FAM.find(f => f[2].test(s.category))[0];
+  S.forEach(s => { s.fam = fam(s); });
+  const famName = k => FAM.find(f => f[0] === k)[1];
+
+  const st = { city: null, year: null, fam: null, sel: S.find(s => s.id === "jukebox-202073") || S[0] };
+  const match = s => (!st.city || s.city === st.city) && (!st.year || s.year === st.year) && (!st.fam || s.fam === st.fam);
+  const tip = $("tip");
+  const showTip = (e, html) => { tip.innerHTML = html; tip.hidden = false; tip.style.left = Math.min(e.clientX + 14, innerWidth - 290) + "px"; tip.style.top = (e.clientY + 16) + "px"; };
+  const hideTip = () => { tip.hidden = true; };
+  const press = (node, fn) => { node.addEventListener("click", fn); node.addEventListener("keydown", e => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); fn(e); } }); };
+
+  const cities = Object.keys(M.cities), yrs = S.map(s => s.year), countries = new Set(S.map(s => s.country));
+  $("counts").innerHTML = `<div class="seal"><b>${S.length}</b><span>discs<br>restored</span></div><div class="seal"><b>${cities.length}</b><span>cities in<br>${countries.size} countr${countries.size > 1 ? "ies" : "y"}</span></div><div class="seal"><b>${Math.min(...yrs)}</b><span>to ${Math.max(...yrs)}</span></div>`;
 
   // ---------- map ----------
-  const M = D.map, map = $("map");
+  const map = $("map");
   map.setAttribute("viewBox", `0 0 ${M.w} ${M.h}`);
-  el("rect", { x: 0, y: 0, width: M.w, height: M.h, fill: "var(--water)" }, map);
-  for (const [name, d] of Object.entries(M.states)) el("path", { d, class: "state" }, map);
-  const sl = { "New York": [560, 60], "Pennsylvania": [60, 200], "New Jersey": [600, 470], "Connecticut": [860, 60] };
-  for (const [n, [x, y]] of Object.entries(sl)) if (M.states[n]) { const t = el("text", { x, y, class: "state-label" }, map); t.textContent = n; }
-  const cityLab = { "New York": [22, 6, "start"], "Camden": [24, 30, "start"], "Philadelphia": [-24, -14, "end"], "Chicago": [22, 6, "start"] };
+  el("rect", { x: 0, y: 0, width: M.w, height: M.h, class: "sea" }, map);
+  M.graticule.lons.forEach(x => el("line", { x1: x, x2: x, y1: 0, y2: M.h, class: "grat" }, map));
+  M.graticule.lats.forEach(([, y]) => el("line", { x1: 0, x2: M.w, y1: y, y2: y, class: "grat" }, map));
+  M.countries.forEach(c => el("path", { d: c.d, class: `land t${c.t}` }, map));
+  const [bx0, by0, bx1, by1] = M.inset.box;
+  el("rect", { x: bx0, y: by0, width: bx1 - bx0, height: by1 - by0, class: "zoombox" }, map);
+  // inset panel in the South Atlantic, lower right (no recording cities there)
+  const IW = 390, IH = IW * M.inset.h / M.inset.w, IX = M.w - IW - 26, IY = M.h - IH - 50;
+  const ins = el("g", { transform: `translate(${IX},${IY})` }, map);
+  el("rect", { x: -6, y: -6, width: IW + 12, height: IH + 40, fill: "var(--paper-2)", class: "frame-in" }, ins);
+  const insSvg = el("svg", { x: 0, y: 0, width: IW, height: IH, viewBox: `0 0 ${M.inset.w} ${M.inset.h}`, style: `width:${IW}px;height:${IH}px;overflow:hidden` }, ins);
+  el("rect", { x: 0, y: 0, width: M.inset.w, height: M.inset.h, class: "sea" }, insSvg);
+  M.inset.states.forEach(s => el("path", { d: s.d, class: `land t${s.t}` }, insSvg));
+  const it = el("text", { x: 0, y: IH + 24, class: "cart-s", fill: "var(--ink)" }, ins); it.textContent = "Enlarged: New York – Philadelphia";
+  el("line", { x1: IX - 6, y1: IY - 6, x2: bx1, y2: by1, stroke: "var(--claret)", "stroke-width": 1.5, "stroke-dasharray": "4 3" }, map);
+  // cartouche + compass
+  const cart = el("g", { class: "cartouche", transform: "translate(26,26)" }, map);
+  el("rect", { x: 0, y: 0, width: 334, height: 86 }, cart);
+  el("rect", { x: 5, y: 5, width: 324, height: 76, fill: "none" }, cart);
+  const c1 = el("text", { x: 167, y: 38, "text-anchor": "middle", class: "cart-t" }, cart); c1.textContent = "The Recording World";
+  const c2 = el("text", { x: 167, y: 62, "text-anchor": "middle", class: "cart-s" }, cart); c2.textContent = "Victor & Columbia sessions, 1901–1921";
+  const cp = el("g", { class: "compass", transform: `translate(${M.w - 70},70)` }, map);
+  el("path", { d: "M0,-38 L8,0 L0,6 L-8,0 Z" }, cp); el("path", { d: "M0,38 L8,0 L0,-6 L-8,0 Z", class: "lt" }, cp);
+  el("path", { d: "M-30,0 L0,-5 L4,0 L0,5 Z", class: "lt" }, cp); el("path", { d: "M30,0 L0,5 L-4,0 L0,-5 Z", class: "lt" }, cp);
+  const cn = el("text", { x: 0, y: -44, "text-anchor": "middle" }, cp); cn.textContent = "N";
+  el("rect", { x: 0, y: 0, width: M.w, height: M.h, class: "frame" }, map);
+
   const cityG = {};
+  const LAB = { "New York": [16, -6, "start"], "Camden": [16, 26, "start"], "Philadelphia": [-16, -10, "end"], "Havana": [16, 4, "start"],
+    "Mexico City": [-16, 6, "end"], "San Juan": [16, -4, "start"], "Caracas": [16, 18, "start"], "Lima": [-16, 6, "end"],
+    "Santiago": [-16, 6, "end"], "Buenos Aires": [16, 8, "start"], "Rio de Janeiro": [16, 6, "start"], "Chicago": [-16, -4, "end"],
+    "London": [-16, -8, "end"], "Paris": [-16, 14, "end"], "Milan": [14, 20, "start"], "Berlin": [14, -6, "start"] };
+  function drawCity(parent, name, x, y, c, scale, inInset) {
+    const g = el("g", { class: "city", tabindex: 0, role: "button", "aria-label": `${name}, ${c.country}: ${c.count} recordings` }, parent);
+    const r = (5 + Math.sqrt(c.count) * 3.4) * scale;
+    el("circle", { cx: x, cy: y, r: r + 5 * scale, class: "ring" }, g);
+    el("circle", { cx: x, cy: y, r: 5.5 * scale, class: "pin" }, g);
+    const [dx, dy, anc] = inInset ? ({ "Philadelphia": [-34, -30, "start"], "Camden": [16, 26, "start"], "New York": [-16, -14, "end"] }[name] || [14, 4, "start"]) : (LAB[name] || [14, 4, "start"]);
+    const t = el("text", { x: x + dx * scale, y: y + dy * scale, "text-anchor": anc, style: `font-size:${19 * scale}px` }, g); t.textContent = name;
+    const t2 = el("text", { x: x + dx * scale, y: y + (dy + 17) * scale, "text-anchor": anc, class: "n", style: `font-size:${14 * scale}px` }, g); t2.textContent = `${c.count} disc${c.count > 1 ? "s" : ""}`;
+    press(g, () => { st.city = st.city === name ? null : name; pickFirst(); render(); });
+    g.addEventListener("mousemove", e => showTip(e, `<b>${esc(name)}</b>, ${esc(c.country)}<br>${c.count} recording${c.count > 1 ? "s" : ""}`)); g.addEventListener("mouseleave", hideTip);
+    (cityG[name] ||= []).push(g);
+  }
   for (const [n, c] of Object.entries(M.cities)) {
-    const g = el("g", { class: "city", tabindex: 0, role: "button", "aria-label": `${n}: ${c.count} recordings` }, map);
-    const r = 6 + Math.sqrt(c.count) * 4;
-    el("circle", { cx: c.x, cy: c.y, r: r + 6, class: "halo" }, g);
-    el("circle", { cx: c.x, cy: c.y, r: 8, class: "dot" }, g);
-    const [dx, dy, anc] = cityLab[n] || [14, 4, "start"];
-    const t = el("text", { x: c.x + dx, y: c.y + dy, "text-anchor": anc }, g); t.textContent = n;
-    const t2 = el("text", { x: c.x + dx, y: c.y + dy + 24, "text-anchor": anc, class: "n" }, g); t2.textContent = `${c.count} recording${c.count > 1 ? "s" : ""}`;
-    const act = () => { st.city = st.city === n ? null : n; pickFirst(); render(); };
-    g.addEventListener("click", act); g.addEventListener("keydown", e => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); act(); } });
-    g.addEventListener("mousemove", e => showTip(e, `<b>${n}</b><br>${c.count} recordings · ${c.state}`)); g.addEventListener("mouseleave", hideTip);
-    cityG[n] = g;
+    if (c.inset) drawCity(insSvg, n, c.ix, c.iy, c, M.inset.w / IW, true);
+    else drawCity(map, n, c.x, c.y, c, 1, false);
   }
 
   // ---------- timeline ----------
   const T = $("timeline"), TW = 1000, Y0 = 1900, Y1 = 1926, L = 24, R = 16;
-  const xOf = d => { const dt = new Date(d + "T00:00:00Z"); const y = dt.getUTCFullYear(); const f = (dt - Date.UTC(y, 0, 1)) / (Date.UTC(y + 1, 0, 1) - Date.UTC(y, 0, 1)); return L + (y + f - Y0) / (Y1 - Y0) * (TW - L - R); };
   const xY = y => L + (y - Y0) / (Y1 - Y0) * (TW - L - R);
-  // stack dots per year to avoid overlap
+  const xOf = d => { const dt = new Date(d + "T00:00:00Z"); const y = dt.getUTCFullYear(); const f = (dt - Date.UTC(y, 0, 1)) / (Date.UTC(y + 1, 0, 1) - Date.UTC(y, 0, 1)); return xY(y + Math.min(f, 0.97)); };
   const perYear = {}; S.forEach(s => { (perYear[s.year] ||= []).push(s); });
   const maxStack = Math.max(...Object.values(perYear).map(a => a.length));
-  const rowH = 24, base = 70 + maxStack * rowH, TH = base + 50;
+  const rowH = 22, base = 40 + maxStack * rowH, TH = base + 50;
   T.setAttribute("viewBox", `0 0 ${TW} ${TH}`);
-  el("rect", { x: xY(1922), y: 10, width: xY(1926) - xY(1922), height: base - 6, class: "excluded" }, T);
-  const ex = el("text", { x: xY(1922) + 10, y: 36, class: "excluded-label" }, T); ex.textContent = "1922–25";
-  const ex2 = el("text", { x: xY(1922) + 10, y: 58, class: "excluded-label" }, T); ex2.textContent = "not used";
+  el("rect", { x: xY(1922), y: 8, width: xY(1926) - xY(1922), height: base - 4, class: "excluded" }, T);
+  const ex = el("text", { x: xY(1922) + 10, y: 34, class: "excluded-label" }, T); ex.textContent = "1922–25";
+  const ex2 = el("text", { x: xY(1922) + 10, y: 56, class: "excluded-label" }, T); ex2.textContent = "not used";
   const bands = {};
   for (let y = Y0; y < 1922; y++) {
-    const b = el("rect", { x: xY(y), y: 10, width: xY(y + 1) - xY(y), height: base - 6, class: "yearband", tabindex: perYear[y] ? 0 : -1, role: "button", "aria-label": `${y}: ${(perYear[y] || []).length} recordings` }, T);
-    const act = () => { st.year = st.year === y ? null : y; pickFirst(); render(); };
-    b.addEventListener("click", act); b.addEventListener("keydown", e => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); act(); } });
+    const b = el("rect", { x: xY(y), y: 8, width: xY(y + 1) - xY(y), height: base - 4, class: "yearband", tabindex: perYear[y] ? 0 : -1, role: "button", "aria-label": `${y}: ${(perYear[y] || []).length} recordings` }, T);
+    press(b, () => { st.year = st.year === y ? null : y; pickFirst(); render(); });
     b.addEventListener("mousemove", e => showTip(e, `<b>${y}</b> · ${(perYear[y] || []).length} recordings`)); b.addEventListener("mouseleave", hideTip);
     bands[y] = b;
   }
   const ax = el("g", { class: "axis" }, T);
-  el("line", { x1: L, x2: TW - R, y1: base + 4, y2: base + 4 }, ax);
-  for (let y = Y0; y <= 1925; y += 5) { el("line", { x1: xY(y), x2: xY(y), y1: base + 4, y2: base + 10 }, ax); const t = el("text", { x: xY(y), y: base + 26, "text-anchor": "middle" }, ax); t.textContent = y; }
-  for (let y = Y0; y <= 1925; y++) if (y % 5) el("line", { x1: xY(y), x2: xY(y), y1: base + 4, y2: base + 8 }, ax);
+  el("line", { x1: L, x2: TW - R, y1: base + 4, y2: base + 4, "stroke-width": 2 }, ax);
+  for (let y = Y0; y <= 1925; y++) el("line", { x1: xY(y), x2: xY(y), y1: base + 4, y2: base + (y % 5 ? 9 : 14), "stroke-width": y % 5 ? 1 : 2 }, ax);
+  for (let y = Y0; y <= 1925; y += 5) { const t = el("text", { x: xY(y), y: base + 36, "text-anchor": "middle" }, ax); t.textContent = y; }
   const dots = {};
   Object.values(perYear).forEach(arr => arr.sort((a, b) => a.date < b.date ? -1 : 1).forEach((s, i) => {
-    const c = el("circle", { cx: xOf(s.date), cy: base - 14 - i * rowH, r: 9, class: "rec", tabindex: 0, role: "button", "aria-label": `${s.title}, ${s.date}` }, T);
-    const act = e => { e.stopPropagation(); st.sel = s; render(); };
-    c.addEventListener("click", act); c.addEventListener("keydown", e => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); act(e); } });
-    c.addEventListener("mousemove", e => showTip(e, `<b>${esc(s.title)}</b><br>${esc(title(s.performer))} · ${s.date} · ${s.city}`)); c.addEventListener("mouseleave", hideTip);
+    const c = el("circle", { cx: xOf(s.date), cy: base - 12 - i * rowH, r: 8.5, class: `rec fam-${s.fam}`, tabindex: 0, role: "button", "aria-label": `${s.title}, ${s.date}, ${s.city}` }, T);
+    press(c, e => { e.stopPropagation(); st.sel = s; render(); });
+    c.addEventListener("mousemove", e => showTip(e, `<b>${esc(s.title)}</b><br>${esc(s.performer)} · ${s.date_year_only ? s.year : s.date} · ${esc(s.city)}`)); c.addEventListener("mouseleave", hideTip);
     dots[s.id] = c;
   }));
 
-  // ---------- filters ----------
-  const cats = [...new Set(S.map(s => catGroup(s.category)))].sort();
+  // ---------- filters (also the colour legend) ----------
   const F = $("filters");
-  cats.forEach(c => { const b = document.createElement("button"); b.className = "chip"; b.textContent = c; b.setAttribute("aria-pressed", "false"); b.onclick = () => { st.cat = st.cat === c ? null : c; pickFirst(); render(); }; b.dataset.cat = c; F.appendChild(b); });
-  const clr = document.createElement("button"); clr.className = "clear"; clr.textContent = "Show all"; clr.onclick = () => { st.city = st.year = st.cat = null; render(); }; F.appendChild(clr);
-
+  FAM.forEach(([k, name]) => {
+    const n = S.filter(s => s.fam === k).length; if (!n) return;
+    const b = document.createElement("button"); b.className = `chip fam-${k}`; b.dataset.fam = k; b.setAttribute("aria-pressed", "false");
+    b.innerHTML = `<i></i>${name} <span class="type">${n}</span>`;
+    b.onclick = () => { st.fam = st.fam === k ? null : k; pickFirst(); render(); };
+    F.appendChild(b);
+  });
+  const clr = document.createElement("button"); clr.className = "clear"; clr.textContent = "Show all"; clr.onclick = () => { st.city = st.year = st.fam = null; render(); }; F.appendChild(clr);
   function pickFirst() { if (!match(st.sel)) { const f = S.find(match); if (f) st.sel = f; } }
 
-  // ---------- detail ----------
-  function disc(s) {
+  // ---------- the sleeve ----------
+  const ICON_PLAY = '<svg viewBox="0 0 24 24"><path d="M7 4l14 8-14 8z"/></svg>', ICON_PAUSE = '<svg viewBox="0 0 24 24"><path d="M6 4h4v16H6zM14 4h4v16h-4z"/></svg>';
+  const fmt = t => isFinite(t) ? `${Math.floor(t / 60)}:${String(Math.floor(t % 60)).padStart(2, "0")}` : "–:––";
+  function player(kind, label, src) {
+    return `<div class="player ${kind}"><button class="play" type="button" aria-label="Play ${label}">${ICON_PLAY}</button>
+      <div><div class="lab"><b>${label}</b><span class="time">0:00 / –:––</span></div>
+      <input type="range" min="0" max="1000" value="0" aria-label="${label} position"></div>
+      <audio preload="none" src="${B}${src}"></audio></div>`;
+  }
+  function sleeve(s) {
     const m = s.metrics, disc = s.disc.label ? `${s.disc.label} ${s.disc.catalog_number}` : "—";
-    $("disc").innerHTML = `
-      <div class="disc-head">
-        <img src="${B}${s.img.label}" alt="Disc label, ${esc(s.disc.label || "")} ${esc(s.disc.catalog_number || "")}">
-        <div><div class="eyebrow">${esc(s.category)}</div><h2>${esc(s.title)}</h2><div class="who">${esc(title(s.performer))}</div></div>
+    $("sleeve").className = `sleeve fam-${s.fam}`;
+    $("sleeve").innerHTML = `
+      <div class="sleeve-top">
+        <div class="disc" id="disc"><img src="${B}${s.img.label}" alt="Disc label, ${esc(disc)}"></div>
+        <div><div class="fam-tag">${esc(s.category)}</div><h2>${esc(s.title)}</h2><div class="who">${esc(s.performer)}</div></div>
       </div>
-      <dl class="facts">
-        <dt>Recorded</dt><dd class="mono">${s.date}</dd>
-        <dt>Place</dt><dd>${esc(title(s.location_loc.join(", ")))} <span class="hint">(LoC record)</span></dd>
-        <dt>Genre</dt><dd>${esc(s.genre_loc.join(" · "))}</dd>
-        <dt>Disc</dt><dd class="mono">${esc(disc)} · matrix ${esc(s.matrix || "")} take ${esc(s.take || "")}</dd>
+      <div class="card"><dl class="facts">
+        <dt>Recorded</dt><dd>${s.date_year_only ? `${s.year} <span class="hint">(LoC gives the year only)</span>` : s.date}</dd>
+        <dt>Place</dt><dd>${esc(s.city)}, ${esc(s.country)}</dd>
+        <dt>Disc</dt><dd>${esc(disc)} · matrix ${esc(s.matrix || "")} take ${esc(s.take || "")}</dd>
+        <dt>Genre</dt><dd>${esc(s.genre_loc.join(" · ") || s.summary)}</dd>
+        <dt>Scoring</dt><dd>${esc(s.summary || "")}</dd>
         <dt>Credits</dt><dd>${esc(s.contributors.map(c => { const [n, , r] = c.split(" -- "); return `${n} (${(r || "").toLowerCase()})`; }).join("; "))}</dd>
         <dt>Source</dt><dd><a href="${s.loc_url}" target="_blank" rel="noopener">${s.loc_url.replace("https://", "")}</a></dd>
-      </dl>
-      <p class="note">${esc(s.note)}<small>Context note written for this project. The rest of the facts above come from the LoC record.</small></p>
+      </dl></div>
+      <p class="note">${esc(s.note)}<small>Context note written for this project. The facts on the card come from the LoC record.</small></p>
       <div class="players">
-        <div class="player o"><span class="lab">Original</span><audio id="aO" controls preload="none" src="${B}${s.audio.original}"></audio></div>
-        <div class="player r"><span class="lab">Restored</span><audio id="aR" controls preload="none" src="${B}${s.audio.restored}"></audio></div>
-        <div class="flip"><button id="flip" type="button">Switch at same moment</button><span id="flipstate">Plays whichever version is not playing, from the same position.</span></div>
+        ${player("o", "Original · LoC transfer", s.audio.original)}
+        ${player("r", "Restored", s.audio.restored)}
+        <div class="switch"><button id="flip" type="button">Switch at same moment</button><span id="flipstate">Jumps to the other version from the same position.</span></div>
       </div>
       <div class="metrics">
         <div class="metric"><b>${m.noise_before} → ${m.noise_after}</b><span>surface noise, dBFS</span></div>
@@ -308,18 +427,38 @@ section.about p { margin: 0; font-size: 0.92rem; color: var(--ink-2); }
         <div class="metric"><b>${m.band[0]}–${m.band[1]} Hz</b><span>band with music</span></div>
       </div>
       <div class="links">
-        <a href="${B}${s.audio.ab}" target="_blank" rel="noopener">A/B passages (MP3)</a>
-        <a href="${B}${s.audio.removed}" target="_blank" rel="noopener">What was removed (MP3)</a>
+        <a href="${B}${s.audio.ab}" target="_blank" rel="noopener">A/B passages</a>
+        <a href="${B}${s.audio.removed}" target="_blank" rel="noopener">What was removed</a>
         <a href="${B}${s.log}" target="_blank" rel="noopener">Restoration log</a>
       </div>
-      <details class="spec"><summary>Spectrogram, original vs restored</summary><img loading="lazy" src="${B}${s.img.spectrogram}" alt="Spectrogram of original and restored audio"></details>
-      <div class="rights">${esc(s.rights)}. ${esc(s.credit)} ${m.replaced_pct}% of samples were interpolated across clicks; everything else is the original signal, filtered.</div>`;
-    const o = $("aO"), r = $("aR");
-    o.addEventListener("play", () => r.pause()); r.addEventListener("play", () => o.pause());
+      <details class="spec"><summary>Spectrogram, original and restored</summary><img loading="lazy" src="${B}${s.img.spectrogram}" alt="Spectrogram of original and restored audio"></details>
+      ${window.STM_WEBCOPY ? `<div class="rights">This hosted copy plays ${window.STM_WEBCOPY} web copies of both versions, encoded with identical settings. The exact LoC files and full-quality restorations are in the project repository.</div>` : ""}
+      <div class="rights">${esc(s.rights)}. ${!s.us ? "Recorded outside the US: only the US status was assessed. " : ""}${esc(s.credit)} ${m.replaced_pct}% of samples were interpolated across clicks; everything else is the original signal, filtered.</div>`;
+    wirePlayers();
+  }
+  function wirePlayers() {
+    const ps = [...$("sleeve").querySelectorAll(".player")].map(p => ({ p, a: p.querySelector("audio"), btn: p.querySelector(".play"), rng: p.querySelector("input"), tm: p.querySelector(".time") }));
+    const discEl = $("disc");
+    const sync = () => {
+      ps.forEach(({ a, btn, rng, tm }) => {
+        btn.innerHTML = a.paused ? ICON_PLAY : ICON_PAUSE;
+        btn.setAttribute("aria-label", (a.paused ? "Play " : "Pause ") + btn.getAttribute("aria-label").replace(/^(Play|Pause) /, ""));
+        if (a.duration) rng.value = Math.round(a.currentTime / a.duration * 1000);
+        tm.textContent = `${fmt(a.currentTime)} / ${fmt(a.duration)}`;
+      });
+      discEl.classList.toggle("playing", ps.some(x => !x.a.paused));
+    };
+    ps.forEach((x, i) => {
+      const other = ps[1 - i];
+      x.btn.onclick = () => { if (x.a.paused) { other.a.pause(); x.a.play().catch(() => {}); } else x.a.pause(); };
+      ["play", "pause", "timeupdate", "loadedmetadata", "ended"].forEach(ev => x.a.addEventListener(ev, sync));
+      x.rng.oninput = () => { const go = () => { x.a.currentTime = x.rng.value / 1000 * x.a.duration; }; if (x.a.duration) go(); else { x.a.preload = "auto"; x.a.addEventListener("loadedmetadata", go, { once: true }); x.a.load(); } };
+    });
     $("flip").onclick = () => {
+      const [o, r] = ps.map(x => x.a);
       const from = !r.paused ? r : !o.paused ? o : (o.currentTime >= r.currentTime ? o : r);
-      const to = from === o ? r : o;
-      const t = from.currentTime; from.pause();
+      const to = from === o ? r : o, t = from.currentTime;
+      from.pause();
       const go = () => { try { to.currentTime = t; } catch (_) {} to.play().catch(() => {}); };
       if (to.readyState >= 1) go(); else { to.preload = "auto"; to.addEventListener("loadedmetadata", go, { once: true }); to.load(); }
       $("flipstate").textContent = `Now playing: ${to === o ? "Original" : "Restored"} at ${t.toFixed(1)} s`;
@@ -328,16 +467,17 @@ section.about p { margin: 0; font-size: 0.92rem; color: var(--ink-2); }
 
   // ---------- render ----------
   function render() {
-    for (const [n, g] of Object.entries(cityG)) { g.classList.toggle("on", st.city === n); g.classList.toggle("dim", !!st.city && st.city !== n); }
+    const vis = S.filter(match);
+    const live = new Set(S.filter(s => (!st.year || s.year === st.year) && (!st.fam || s.fam === st.fam)).map(s => s.city));
+    for (const [n, gs] of Object.entries(cityG)) gs.forEach(g => { g.classList.toggle("on", st.city === n); g.classList.toggle("dim", (!!st.city && st.city !== n) || !live.has(n)); });
     for (const [y, b] of Object.entries(bands)) b.classList.toggle("on", st.year === +y);
     for (const s of S) { dots[s.id].classList.toggle("dim", !match(s)); dots[s.id].classList.toggle("sel", s === st.sel); }
-    F.querySelectorAll(".chip").forEach(b => b.setAttribute("aria-pressed", String(b.dataset.cat === st.cat)));
-    const list = S.filter(match);
-    const parts = [st.city, st.year, st.cat].filter(Boolean);
-    $("catstate").textContent = `${list.length} of ${S.length}${parts.length ? " · " + parts.join(" · ") : ""}`;
-    $("rows").innerHTML = list.map(s => `<tr data-id="${s.id}" class="${s === st.sel ? "sel" : ""}" tabindex="0"><td class="num">${s.date}</td><td>${esc(s.title)}</td><td>${esc(title(s.performer))}</td><td>${esc(s.city)}</td><td>${esc(s.category)}</td><td class="num">${esc(s.disc.label || "")} ${esc(s.disc.catalog_number || "")}</td><td class="num">${s.metrics.ipm_before} → ${s.metrics.ipm_after}</td></tr>`).join("");
-    $("rows").querySelectorAll("tr").forEach(tr => { const f = () => { st.sel = S.find(s => s.id === tr.dataset.id); render(); $("disc").scrollIntoView({ block: "nearest", behavior: "smooth" }); }; tr.onclick = f; tr.onkeydown = e => { if (e.key === "Enter") f(); }; });
-    if ($("disc").dataset.id !== st.sel.id) { disc(st.sel); $("disc").dataset.id = st.sel.id; }
+    F.querySelectorAll(".chip").forEach(b => b.setAttribute("aria-pressed", String(b.dataset.fam === st.fam)));
+    const parts = [st.city, st.year, st.fam && famName(st.fam)].filter(Boolean);
+    $("catstate").textContent = `${vis.length} of ${S.length}${parts.length ? " · " + parts.join(" · ") : ""}`;
+    $("rows").innerHTML = vis.map(s => `<tr data-id="${s.id}" class="fam-${s.fam}${s === st.sel ? " sel" : ""}" tabindex="0"><td class="t">${s.date_year_only ? s.year : s.date}</td><td><span class="dot"></span>${esc(s.title)}</td><td>${esc(s.performer)}</td><td>${esc(s.city)}</td><td>${esc(s.category)}</td><td class="t">${esc(s.disc.label || "")} ${esc(s.disc.catalog_number || "")}</td><td class="t">${s.metrics.ipm_before} → ${s.metrics.ipm_after}</td></tr>`).join("");
+    $("rows").querySelectorAll("tr").forEach(tr => { const f = () => { st.sel = S.find(s => s.id === tr.dataset.id); render(); $("sleeve").scrollIntoView({ block: "nearest", behavior: "smooth" }); }; tr.onclick = f; tr.onkeydown = e => { if (e.key === "Enter") f(); }; });
+    if ($("sleeve").dataset.id !== st.sel.id) { sleeve(st.sel); $("sleeve").dataset.id = st.sel.id; }
   }
   render();
 })();

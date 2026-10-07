@@ -35,5 +35,6 @@ Echoes Recovered - licensing
    CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR
    THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-4. Map base data: us-atlas 3.0.1 (ISC License), derived from US Census Bureau
+4. Map base data: world-atlas 2.0.2 (ISC License), derived from Natural Earth
+   (public domain); us-atlas 3.0.1 (ISC License), derived from US Census Bureau
    cartographic boundary files (public domain).

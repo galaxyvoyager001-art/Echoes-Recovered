@@ -1,0 +1,104 @@
+{
+ "id": "jukebox-324371",
+ "slug": "jukebox-324371_imita-o-d-um-batuque-africano",
+ "title": "Imitação d'um batuque africano",
+ "other_titles": [],
+ "performers": [
+  "nunes, cezar"
+ ],
+ "primary_performer": "nunes, cezar",
+ "contributors_with_roles": [
+  "Nunes, Cezar -- Vocalist -- Baritone Vocal"
+ ],
+ "recording_date": "1907-11-01",
+ "year": 1907,
+ "recording_location_loc": [
+  "brazil",
+  "rio de janeiro"
+ ],
+ "recording_city": "Rio de Janeiro",
+ "recording_country": "Brazil",
+ "genre_loc": [
+  "Portuguese (Brazil)",
+  "Popular music",
+  "Ethnic music"
+ ],
+ "category": "Brazilian song",
+ "summary": "Male vocal solo, with guitar",
+ "description": [
+  "Victor 69244. Matrix/Take: 6-G/[1]."
+ ],
+ "language": [
+  "portuguese"
+ ],
+ "matrix": "6-G (Matrix ID)",
+ "take": "[1]",
+ "file_id": "jvm_victor_69244_01_6g_01",
+ "disc": {
+  "label": "Victor",
+  "catalog_number": "69244",
+  "source_copy_prefix": "jvm"
+ },
+ "source_copy": "Source of original recording: Johnson Victrola Museum, Delaware.",
+ "duration_s": 165.0,
+ "loc_item_url": "https://www.loc.gov/item/jukebox-324371/",
+ "loc_api_url": "https://www.loc.gov/item/jukebox-324371/?fo=json",
+ "loc_files": {
+  "mp3": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/jvm_victor_69244_01_6g_01/jvm_victor_69244_01_6g_01.mp3",
+  "wav": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/jvm_victor_69244_01_6g_01/jvm_victor_69244_01_6g_01.wav",
+  "label": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_69244_01_6g_01:jvm_victor_69244_01_6g_01/full/pct:100/0/default.jpg"
+ },
+ "curator_note": "Cezar Nunes' 'Imitação d'um batuque africano' (imitation of an African batuque), recorded in Rio de Janeiro in November 1907.",
+ "rights": {
+  "checked_utc": "2026-10-07T12:17:24+00:00",
+  "loc_rights_and_access_text": "The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years. In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use. You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law. You may also need permission from holders of other rights, such as publicity and/or privacy rights. Credit Line: Library of Congress, National Jukebox. More about Copyright and other Restrictions . For guidance about compiling full citations consult Citing Primary Sources .",
+  "loc_rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+  "access_restricted": false,
+  "media_player_flags": {
+   "canDownload": true,
+   "rights_restricted": true
+  },
+  "cleared_for_reuse": true,
+  "status": "Public domain in the United States (published before 1923; Music Modernization Act, 17 U.S.C. 1401(a)(2)(B)(i))",
+  "reasons": [
+   "Rights & Access text states that recordings published prior to 1923 are in the public domain (Music Modernization Act).",
+   "Recording date 1907-11-01 is before 1922-01-01 (project margin so that publication also precedes 1923).",
+   "Evidence of publication: transfer is from an issued Victor disc (catalog no. 69244 in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ],
+  "caveats": [
+   "LoC: 'You are responsible for deciding whether your use of the items in this collection is legal.'",
+   "LoC: 'Some materials may be protected under international law.' Public-domain status here is asserted for the United States only.",
+   "Required credit line: 'Library of Congress, National Jukebox.'",
+   "Recorded in Rio de Janeiro, Brazil, outside US jurisdiction, and issued on a US label (Victor 69244). The US public-domain status above is the only status assessed here; rights in the country of recording were not separately assessed."
+  ],
+  "credit_line": "Library of Congress, National Jukebox."
+ },
+ "downloads": {
+  "wav": {
+   "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/jvm_victor_69244_01_6g_01/jvm_victor_69244_01_6g_01.wav",
+   "file": "data/originals/jukebox-324371_imita-o-d-um-batuque-africano/loc_original.wav",
+   "bytes": 29108276,
+   "sha256": "bc1bcbe951d1f163dad5681c4ce86891ac7d10fbd924a7fa788887d61877cb11"
+  },
+  "mp3": {
+   "url": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/jvm_victor_69244_01_6g_01/jvm_victor_69244_01_6g_01.mp3",
+   "file": "data/originals/jukebox-324371_imita-o-d-um-batuque-africano/loc_original.mp3",
+   "bytes": 5282212,
+   "sha256": "e02f609e95e68ae203a7da1ea1a1b0dcb2a94ecba372e67b1ca0d975c295013b"
+  },
+  "label": {
+   "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_69244_01_6g_01:jvm_victor_69244_01_6g_01/full/pct:100/0/default.jpg",
+   "file": "data/originals/jukebox-324371_imita-o-d-um-batuque-africano/loc_label.jpg",
+   "bytes": 833450,
+   "sha256": "ad536b64e33ce1c740115e29092bbcbbf92eac8a9fab7ce72f7864375aa4966e"
+  }
+ },
+ "lossless_copy": {
+  "file": "data/originals/jukebox-324371_imita-o-d-um-batuque-africano/loc_original.flac",
+  "bytes": 12346672,
+  "pcm_md5_wav": "5738f77f8fb8418938e796b03c922e9a",
+  "pcm_md5_flac": "5738f77f8fb8418938e796b03c922e9a",
+  "bit_exact": true
+ }
+}

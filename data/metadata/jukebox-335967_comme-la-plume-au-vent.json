@@ -1,0 +1,109 @@
+{
+ "id": "jukebox-335967",
+ "slug": "jukebox-335967_comme-la-plume-au-vent",
+ "title": "Comme la plume au vent",
+ "other_titles": [
+  "Rigoletto",
+  "Rigoletto. Donna e mobile"
+ ],
+ "performers": [
+  "campagnola, léon",
+  "scheuplein, charles",
+  "verdi, giuseppe"
+ ],
+ "primary_performer": "campagnola, léon",
+ "contributors_with_roles": [
+  "Scheuplein, Charles -- Recordist -- Recordist",
+  "Campagnola, Léon -- Vocalist -- Tenor Vocal",
+  "Verdi, Giuseppe -- Composer -- Composer"
+ ],
+ "recording_date": "1911-07-08",
+ "year": 1911,
+ "recording_location_loc": [
+  "paris",
+  "france"
+ ],
+ "recording_city": "Paris",
+ "recording_country": "France",
+ "genre_loc": [
+  "Opera"
+ ],
+ "category": "Opera",
+ "summary": "Tenor vocal solo, with orchestra",
+ "description": [
+  "Victor 45118. Matrix/Take: 16534u/[1]."
+ ],
+ "language": [
+  "french"
+ ],
+ "matrix": "16534u (Matrix ID)",
+ "take": "[1]",
+ "file_id": "dlc_victor_45118_01_16534u_01",
+ "disc": {
+  "label": "Victor",
+  "catalog_number": "45118",
+  "source_copy_prefix": "dlc"
+ },
+ "source_copy": "Source of original recording: Recorded Sound Section, Library of Congress.",
+ "duration_s": 137.0,
+ "loc_item_url": "https://www.loc.gov/item/jukebox-335967/",
+ "loc_api_url": "https://www.loc.gov/item/jukebox-335967/?fo=json",
+ "loc_files": {
+  "mp3": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/dlc_victor_45118_01_16534u_01/dlc_victor_45118_01_16534u_01.mp3",
+  "wav": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/dlc_victor_45118_01_16534u_01/dlc_victor_45118_01_16534u_01.wav",
+  "label": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_45118_01_16534u_01:dlc_victor_45118_01_16534u_01/full/pct:100/0/default.jpg"
+ },
+ "curator_note": "'La donna è mobile' in French ('Comme la plume au vent') sung by Léon Campagnola, recorded in Paris in July 1911.",
+ "rights": {
+  "checked_utc": "2026-10-07T12:17:36+00:00",
+  "loc_rights_and_access_text": "The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years. In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use. You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law. You may also need permission from holders of other rights, such as publicity and/or privacy rights. Credit Line: Library of Congress, National Jukebox. More about Copyright and other Restrictions . For guidance about compiling full citations consult Citing Primary Sources .",
+  "loc_rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+  "access_restricted": false,
+  "media_player_flags": {
+   "canDownload": true,
+   "rights_restricted": true
+  },
+  "cleared_for_reuse": true,
+  "status": "Public domain in the United States (published before 1923; Music Modernization Act, 17 U.S.C. 1401(a)(2)(B)(i))",
+  "reasons": [
+   "Rights & Access text states that recordings published prior to 1923 are in the public domain (Music Modernization Act).",
+   "Recording date 1911-07-08 is before 1922-01-01 (project margin so that publication also precedes 1923).",
+   "Evidence of publication: transfer is from an issued Victor disc (catalog no. 45118 in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ],
+  "caveats": [
+   "LoC: 'You are responsible for deciding whether your use of the items in this collection is legal.'",
+   "LoC: 'Some materials may be protected under international law.' Public-domain status here is asserted for the United States only.",
+   "Required credit line: 'Library of Congress, National Jukebox.'",
+   "Recorded in Paris, France, outside US jurisdiction, and issued on a US label (Victor 45118). The US public-domain status above is the only status assessed here; rights in the country of recording were not separately assessed."
+  ],
+  "credit_line": "Library of Congress, National Jukebox."
+ },
+ "downloads": {
+  "wav": {
+   "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/dlc_victor_45118_01_16534u_01/dlc_victor_45118_01_16534u_01.wav",
+   "file": "data/originals/jukebox-335967_comme-la-plume-au-vent/loc_original.wav",
+   "bytes": 24214188,
+   "sha256": "46bc37c29fb23f80f95852ce978250aab85c476b533500d2376452cf5f8b5ce0"
+  },
+  "mp3": {
+   "url": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/dlc_victor_45118_01_16534u_01/dlc_victor_45118_01_16534u_01.mp3",
+   "file": "data/originals/jukebox-335967_comme-la-plume-au-vent/loc_original.mp3",
+   "bytes": 2197262,
+   "sha256": "112e428317ef7b96a6f8aff53cdc5ad8257c3e7043707313227d1ad4a0da8dcf"
+  },
+  "label": {
+   "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_45118_01_16534u_01:dlc_victor_45118_01_16534u_01/full/pct:100/0/default.jpg",
+   "file": "data/originals/jukebox-335967_comme-la-plume-au-vent/loc_label.jpg",
+   "bytes": 544042,
+   "sha256": "7ff73a5a3c45220fc53c0584840c793e9df07e0470cd6b9ce003d0f440588d60"
+  }
+ },
+ "lossless_copy": {
+  "file": "data/originals/jukebox-335967_comme-la-plume-au-vent/loc_original.flac",
+  "bytes": 10437557,
+  "pcm_md5_wav": "d42fc03ed8bed56849ce2290450c6d69",
+  "pcm_md5_flac": "d42fc03ed8bed56849ce2290450c6d69",
+  "bit_exact": true
+ }
+}

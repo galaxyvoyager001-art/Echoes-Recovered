@@ -12,4 +12,4 @@ python3 scripts/04_build_site.py
 python3 scripts/05_build_archive_package.py
 python3 scripts/07_results_table.py
 python3 phonograph/design.py
-echo "Done. Serve with: python3 -m http.server 8000  ->  http://localhost:8000/site/"
+echo "Done. Serve with: python3 scripts/serve.py . 8000  ->  http://localhost:8000/site/"

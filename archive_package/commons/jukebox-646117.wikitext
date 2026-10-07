@@ -1,7 +1,7 @@
 =={{int:filedesc}}==
 {{Information
-|description={{en|1=Let me call you sweetheart - Columbia Quartette. Male vocal quartet, with orchestra. Recorded 1911-07-28 in New York, United States. Columbia A1057, matrix 19503 (Matrix ID), take 1. Restored version (click interpolation, noise reduction, band-limited filtering, bounded EQ; no generative processing). Original transfer: Library of Congress, National Jukebox.}}
-|date=1911-07-28 (recording); 2026-10-06 (restoration)
+|description={{en|1=Let me call you sweetheart - Columbia Quartette. Male vocal quartet, with orchestra. Recorded 1911-07-28 in United States, New York. Columbia A1057, matrix 19503 (Matrix ID), take 1. Restored version (click interpolation, noise reduction, band-limited filtering, bounded EQ; no generative processing). Original transfer: Library of Congress, National Jukebox.}}
+|date=1911-07-28 (recording); 2026-10-07 (restoration)
 |source=Library of Congress, National Jukebox: https://www.loc.gov/item/jukebox-646117/ ; restoration code and logs: https://github.com/galaxyvoyager001-art/Echoes-Recovered
 |author=Columbia Quartette (performer); Columbia (record company); restoration: Echoes Recovered project
 |permission=Credit line requested by the Library of Congress: "Library of Congress, National Jukebox."

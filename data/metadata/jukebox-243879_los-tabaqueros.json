@@ -1,0 +1,108 @@
+{
+ "id": "jukebox-243879",
+ "slug": "jukebox-243879_los-tabaqueros",
+ "title": "Los tabaqueros",
+ "other_titles": [
+  "Danzon"
+ ],
+ "performers": [
+  "orquesta de enrique peña",
+  "peña, enrique"
+ ],
+ "primary_performer": "orquesta de enrique peña",
+ "contributors_with_roles": [
+  "Orquesta de Enrique Peña -- Musical Group -- Musical Group",
+  "Peña, Enrique -- Composer -- Composer",
+  "Peña, Enrique -- Conductor -- Conductor",
+  "Peña, Enrique -- Instrumentalist -- Cornet"
+ ],
+ "recording_date": "1909-02-01",
+ "year": 1909,
+ "recording_location_loc": [
+  "cuba",
+  "havana"
+ ],
+ "recording_city": "Havana",
+ "recording_country": "Cuba",
+ "genre_loc": [
+  "Spanish (Cuba)",
+  "Popular music",
+  "Ethnic music"
+ ],
+ "category": "Cuban dance orchestra",
+ "summary": "Orchestra",
+ "description": [
+  "Victor 62327. Matrix/Take: R-188/1."
+ ],
+ "language": null,
+ "matrix": "R-188 (Matrix ID)",
+ "take": "1",
+ "file_id": "ucsb_victor_62327_01_r188_01",
+ "disc": {
+  "label": "Victor",
+  "catalog_number": "62327",
+  "source_copy_prefix": "ucsb"
+ },
+ "source_copy": "Source of original recording: Department of Special Collections, Davidson Library, University of California, Santa Barbara.",
+ "duration_s": 190.0,
+ "loc_item_url": "https://www.loc.gov/item/jukebox-243879/",
+ "loc_api_url": "https://www.loc.gov/item/jukebox-243879/?fo=json",
+ "loc_files": {
+  "mp3": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/ucsb_victor_62327_01_r188_01/ucsb_victor_62327_01_r188_01.mp3",
+  "wav": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/ucsb_victor_62327_01_r188_01/ucsb_victor_62327_01_r188_01.wav",
+  "label": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_62327_01_r188_01:ucsb_victor_62327_01_r188_01/full/pct:100/0/default.jpg"
+ },
+ "curator_note": "The orchestra of Enrique Peña, a Havana danzón band leader, recorded in Havana in February 1909.",
+ "rights": {
+  "checked_utc": "2026-10-07T12:16:57+00:00",
+  "loc_rights_and_access_text": "The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years. In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use. You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law. You may also need permission from holders of other rights, such as publicity and/or privacy rights. Credit Line: Library of Congress, National Jukebox. More about Copyright and other Restrictions . For guidance about compiling full citations consult Citing Primary Sources .",
+  "loc_rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+  "access_restricted": false,
+  "media_player_flags": {
+   "canDownload": true,
+   "rights_restricted": true
+  },
+  "cleared_for_reuse": true,
+  "status": "Public domain in the United States (published before 1923; Music Modernization Act, 17 U.S.C. 1401(a)(2)(B)(i))",
+  "reasons": [
+   "Rights & Access text states that recordings published prior to 1923 are in the public domain (Music Modernization Act).",
+   "Recording date 1909-02-01 is before 1922-01-01 (project margin so that publication also precedes 1923).",
+   "Evidence of publication: transfer is from an issued Victor disc (catalog no. 62327 in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ],
+  "caveats": [
+   "LoC: 'You are responsible for deciding whether your use of the items in this collection is legal.'",
+   "LoC: 'Some materials may be protected under international law.' Public-domain status here is asserted for the United States only.",
+   "Required credit line: 'Library of Congress, National Jukebox.'",
+   "Recorded in Havana, Cuba, outside US jurisdiction, and issued on a US label (Victor 62327). The US public-domain status above is the only status assessed here; rights in the country of recording were not separately assessed."
+  ],
+  "credit_line": "Library of Congress, National Jukebox."
+ },
+ "downloads": {
+  "wav": {
+   "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/ucsb_victor_62327_01_r188_01/ucsb_victor_62327_01_r188_01.wav",
+   "file": "data/originals/jukebox-243879_los-tabaqueros/loc_original.wav",
+   "bytes": 33531988,
+   "sha256": "2b97584c15076550d2d9559e7e96ce6e771984cabeb737421cad0c1f97b57003"
+  },
+  "mp3": {
+   "url": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/ucsb_victor_62327_01_r188_01/ucsb_victor_62327_01_r188_01.mp3",
+   "file": "data/originals/jukebox-243879_los-tabaqueros/loc_original.mp3",
+   "bytes": 3042158,
+   "sha256": "3c302011487cd67042eea679adbd18a5583fa2e86e64307013075182581327d0"
+  },
+  "label": {
+   "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_62327_01_r188_01:ucsb_victor_62327_01_r188_01/full/pct:100/0/default.jpg",
+   "file": "data/originals/jukebox-243879_los-tabaqueros/loc_label.jpg",
+   "bytes": 51103,
+   "sha256": "43e1e407fa69f4765981570d0432116f4ddbe75be86ab7ac8322834c7dbab8f5"
+  }
+ },
+ "lossless_copy": {
+  "file": "data/originals/jukebox-243879_los-tabaqueros/loc_original.flac",
+  "bytes": 12147205,
+  "pcm_md5_wav": "25f1a87b165ef55f631bd986c31d0503",
+  "pcm_md5_flac": "25f1a87b165ef55f631bd986c31d0503",
+  "bit_exact": true
+ }
+}

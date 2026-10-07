@@ -1,7 +1,7 @@
 =={{int:filedesc}}==
 {{Information
-|description={{en|1=There's ragtime in the air - Peerless Quartet. Male vocal quartet, with orchestra. Recorded 1913-10-07 in New York, United States. Columbia A1441, matrix 39033 (Matrix ID), take 3. Restored version (click interpolation, noise reduction, band-limited filtering, bounded EQ; no generative processing). Original transfer: Library of Congress, National Jukebox.}}
-|date=1913-10-07 (recording); 2026-10-06 (restoration)
+|description={{en|1=There's ragtime in the air - Peerless Quartet. Male vocal quartet, with orchestra. Recorded 1913-10-07 in United States, New York. Columbia A1441, matrix 39033 (Matrix ID), take 3. Restored version (click interpolation, noise reduction, band-limited filtering, bounded EQ; no generative processing). Original transfer: Library of Congress, National Jukebox.}}
+|date=1913-10-07 (recording); 2026-10-07 (restoration)
 |source=Library of Congress, National Jukebox: https://www.loc.gov/item/jukebox-649241/ ; restoration code and logs: https://github.com/galaxyvoyager001-art/Echoes-Recovered
 |author=Peerless Quartet (performer); Columbia (record company); restoration: Echoes Recovered project
 |permission=Credit line requested by the Library of Congress: "Library of Congress, National Jukebox."

@@ -1,0 +1,114 @@
+{
+ "id": "jukebox-301579",
+ "slug": "jukebox-301579_lied-des-hirtenknaben-und-chor-der-pilge",
+ "title": "Lied des Hirtenknaben und Chor der Pilger",
+ "other_titles": [
+  "Tannhauser. Pilgerchor",
+  "Tannhauser. Frau Holde kam",
+  "Tannhauser",
+  "Shepherd's song and pilgrims' chorus"
+ ],
+ "performers": [
+  "nebe-quartett",
+  "runge, gertrud",
+  "wagner, richard",
+  "weimarsches vokal-quartett"
+ ],
+ "primary_performer": "runge, gertrud",
+ "contributors_with_roles": [
+  "Runge, Gertrud -- Vocalist -- Soprano Vocal",
+  "Nebe-Quartett -- Vocal Group -- Vocal Group",
+  "Weimarsches Vokal-Quartett -- Vocal Group -- Vocal Group",
+  "Wagner, Richard -- Composer -- Composer"
+ ],
+ "recording_date": "1911-09-09",
+ "year": 1911,
+ "recording_location_loc": [
+  "germany",
+  "berlin"
+ ],
+ "recording_city": "Berlin",
+ "recording_country": "Germany",
+ "genre_loc": [
+  "Opera",
+  "German"
+ ],
+ "category": "Opera",
+ "summary": "Soprano vocal solo, with male vocal quartet and orchestra",
+ "description": [
+  "Victor 68352. Matrix/Take: 2376c/[1]."
+ ],
+ "language": [
+  "german"
+ ],
+ "matrix": "2376c (Matrix ID)",
+ "take": "[1]",
+ "file_id": "dlc_victor_68352_01_2376c_01",
+ "disc": {
+  "label": "Victor",
+  "catalog_number": "68352",
+  "source_copy_prefix": "dlc"
+ },
+ "source_copy": "Source of original recording: Recorded Sound Section, Library of Congress.",
+ "duration_s": 185.0,
+ "loc_item_url": "https://www.loc.gov/item/jukebox-301579/",
+ "loc_api_url": "https://www.loc.gov/item/jukebox-301579/?fo=json",
+ "loc_files": {
+  "mp3": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/dlc_victor_68352_01_2376c_01/dlc_victor_68352_01_2376c_01.mp3",
+  "wav": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/dlc_victor_68352_01_2376c_01/dlc_victor_68352_01_2376c_01.wav",
+  "label": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_68352_01_2376c_01:dlc_victor_68352_01_2376c_01/full/pct:100/0/default.jpg"
+ },
+ "curator_note": "The Shepherd's Song and Pilgrims' Chorus from Wagner's Tannhäuser, sung by soprano Gertrud Runge with male chorus, recorded in Berlin in September 1911.",
+ "rights": {
+  "checked_utc": "2026-10-07T12:17:47+00:00",
+  "loc_rights_and_access_text": "The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years. In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use. You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law. You may also need permission from holders of other rights, such as publicity and/or privacy rights. Credit Line: Library of Congress, National Jukebox. More about Copyright and other Restrictions . For guidance about compiling full citations consult Citing Primary Sources .",
+  "loc_rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+  "access_restricted": false,
+  "media_player_flags": {
+   "canDownload": true,
+   "rights_restricted": true
+  },
+  "cleared_for_reuse": true,
+  "status": "Public domain in the United States (published before 1923; Music Modernization Act, 17 U.S.C. 1401(a)(2)(B)(i))",
+  "reasons": [
+   "Rights & Access text states that recordings published prior to 1923 are in the public domain (Music Modernization Act).",
+   "Recording date 1911-09-09 is before 1922-01-01 (project margin so that publication also precedes 1923).",
+   "Evidence of publication: transfer is from an issued Victor disc (catalog no. 68352 in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ],
+  "caveats": [
+   "LoC: 'You are responsible for deciding whether your use of the items in this collection is legal.'",
+   "LoC: 'Some materials may be protected under international law.' Public-domain status here is asserted for the United States only.",
+   "Required credit line: 'Library of Congress, National Jukebox.'",
+   "Recorded in Berlin, Germany, outside US jurisdiction, and issued on a US label (Victor 68352). The US public-domain status above is the only status assessed here; rights in the country of recording were not separately assessed."
+  ],
+  "credit_line": "Library of Congress, National Jukebox."
+ },
+ "downloads": {
+  "wav": {
+   "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/dlc_victor_68352_01_2376c_01/dlc_victor_68352_01_2376c_01.wav",
+   "file": "data/originals/jukebox-301579_lied-des-hirtenknaben-und-chor-der-pilge/loc_original.wav",
+   "bytes": 32701534,
+   "sha256": "906548b1b25206d3e59d2a0ca0fbbebe7a96b725c8d689b2e95d332727d8a767"
+  },
+  "mp3": {
+   "url": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/dlc_victor_68352_01_2376c_01/dlc_victor_68352_01_2376c_01.mp3",
+   "file": "data/originals/jukebox-301579_lied-des-hirtenknaben-und-chor-der-pilge/loc_original.mp3",
+   "bytes": 2966724,
+   "sha256": "be975b941bf9f91982058efc497e5a845f39bac9c20aa8254f3ae4086a5ec18d"
+  },
+  "label": {
+   "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_68352_01_2376c_01:dlc_victor_68352_01_2376c_01/full/pct:100/0/default.jpg",
+   "file": "data/originals/jukebox-301579_lied-des-hirtenknaben-und-chor-der-pilge/loc_label.jpg",
+   "bytes": 823647,
+   "sha256": "cf5b38be917ffc51d9a6029ba1c88c4643a81d92dd4f91104864c080dbf6ff86"
+  }
+ },
+ "lossless_copy": {
+  "file": "data/originals/jukebox-301579_lied-des-hirtenknaben-und-chor-der-pilge/loc_original.flac",
+  "bytes": 13730277,
+  "pcm_md5_wav": "3cef89c45d29403c4a810870732b78b8",
+  "pcm_md5_flac": "3cef89c45d29403c4a810870732b78b8",
+  "bit_exact": true
+ }
+}

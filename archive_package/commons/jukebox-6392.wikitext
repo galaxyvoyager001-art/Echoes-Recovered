@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=El guajiro enamorado - Silveira, Martín. Male vocal solo, with bandurría. Recorded 1907-03-05 in Havana, Cuba. Victor 62257, matrix O-18 (Matrix ID), take 1. Restored version (click interpolation, noise reduction, band-limited filtering, bounded EQ; no generative processing). Original transfer: Library of Congress, National Jukebox.}}
+|date=1907-03-05 (recording); 2026-10-07 (restoration)
+|source=Library of Congress, National Jukebox: https://www.loc.gov/item/jukebox-6392/ ; restoration code and logs: https://github.com/galaxyvoyager001-art/Echoes-Recovered
+|author=Silveira, Martín (performer); Victor (record company); restoration: Echoes Recovered project
+|permission=Credit line requested by the Library of Congress: "Library of Congress, National Jukebox."
+|other versions=Unrestored LoC transfer: https://www.loc.gov/item/jukebox-6392/
+}}
+
+=={{int:license-header}}==
+{{PD-US-record-expired}}
+<!-- Check on Commons before uploading: the work must also be PD in its source country (these discs were first published in the US). -->
+
+[[Category:National Jukebox]]
+[[Category:1907 sound recordings]]

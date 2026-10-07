@@ -1,0 +1,106 @@
+{
+ "id": "jukebox-6537",
+ "slug": "jukebox-6537_la-paloma-azul",
+ "title": "La paloma azul",
+ "other_titles": [
+  "Danza tapatia"
+ ],
+ "performers": [
+  "abrego, jesús",
+  "picazo, leopoldo"
+ ],
+ "primary_performer": "abrego, jesús",
+ "contributors_with_roles": [
+  "Abrego, Jesús -- Vocalist -- Tenor Vocal",
+  "Picazo, Leopoldo -- Vocalist -- Baritone Vocal"
+ ],
+ "recording_date": "1907-07-08",
+ "year": 1907,
+ "recording_location_loc": [
+  "mexico",
+  "mexico city"
+ ],
+ "recording_city": "Mexico City",
+ "recording_country": "Mexico",
+ "genre_loc": [
+  "Spanish (Mexico)"
+ ],
+ "category": "Mexican song",
+ "summary": "Male vocal duet, with guitar",
+ "description": [
+  "Victor 62039. Matrix/Take: O-186/1."
+ ],
+ "language": [
+  "spanish"
+ ],
+ "matrix": "O-186 (Matrix ID)",
+ "take": "1",
+ "file_id": "jvm_victor_62039_01_o186_01",
+ "disc": {
+  "label": "Victor",
+  "catalog_number": "62039",
+  "source_copy_prefix": "jvm"
+ },
+ "source_copy": "Source of original recording: Johnson Victrola Museum, Delaware.",
+ "duration_s": 147.0,
+ "loc_item_url": "https://www.loc.gov/item/jukebox-6537/",
+ "loc_api_url": "https://www.loc.gov/item/jukebox-6537/?fo=json",
+ "loc_files": {
+  "mp3": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/jvm_victor_62039_01_o186_01/jvm_victor_62039_01_o186_01.mp3",
+  "wav": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/jvm_victor_62039_01_o186_01/jvm_victor_62039_01_o186_01.wav",
+  "label": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_62039_01_o186_01:jvm_victor_62039_01_o186_01/full/pct:100/0/default.jpg"
+ },
+ "curator_note": "A Mexico City recording from July 1907 by Jesús Abrego (tenor) and Leopoldo Picazo (baritone), who made many guitar-accompanied duet records for Victor in 1905 and 1907. LoC also titles it 'Danza tapatía'.",
+ "rights": {
+  "checked_utc": "2026-10-07T12:16:47+00:00",
+  "loc_rights_and_access_text": "The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years. In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use. You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law. You may also need permission from holders of other rights, such as publicity and/or privacy rights. Credit Line: Library of Congress, National Jukebox. More about Copyright and other Restrictions . For guidance about compiling full citations consult Citing Primary Sources .",
+  "loc_rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+  "access_restricted": false,
+  "media_player_flags": {
+   "canDownload": true,
+   "rights_restricted": true
+  },
+  "cleared_for_reuse": true,
+  "status": "Public domain in the United States (published before 1923; Music Modernization Act, 17 U.S.C. 1401(a)(2)(B)(i))",
+  "reasons": [
+   "Rights & Access text states that recordings published prior to 1923 are in the public domain (Music Modernization Act).",
+   "Recording date 1907-07-08 is before 1922-01-01 (project margin so that publication also precedes 1923).",
+   "Evidence of publication: transfer is from an issued Victor disc (catalog no. 62039 in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ],
+  "caveats": [
+   "LoC: 'You are responsible for deciding whether your use of the items in this collection is legal.'",
+   "LoC: 'Some materials may be protected under international law.' Public-domain status here is asserted for the United States only.",
+   "Required credit line: 'Library of Congress, National Jukebox.'",
+   "Recorded in Mexico City, Mexico, outside US jurisdiction, and issued on a US label (Victor 62039). The US public-domain status above is the only status assessed here; rights in the country of recording were not separately assessed."
+  ],
+  "credit_line": "Library of Congress, National Jukebox."
+ },
+ "downloads": {
+  "wav": {
+   "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/jvm_victor_62039_01_o186_01/jvm_victor_62039_01_o186_01.wav",
+   "file": "data/originals/jukebox-6537_la-paloma-azul/loc_original.wav",
+   "bytes": 26071492,
+   "sha256": "019013cbdf12526b09ded94bfaa3a5f3d5e68752060e1be61fa338b41e251edf"
+  },
+  "mp3": {
+   "url": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/jvm_victor_62039_01_o186_01/jvm_victor_62039_01_o186_01.mp3",
+   "file": "data/originals/jukebox-6537_la-paloma-azul/loc_original.mp3",
+   "bytes": 4731342,
+   "sha256": "d72cfb426873ce7f9c363ba4960f18a69661883be53a6784518262ee47cdd734"
+  },
+  "label": {
+   "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_62039_01_o186_01:jvm_victor_62039_01_o186_01/full/pct:100/0/default.jpg",
+   "file": "data/originals/jukebox-6537_la-paloma-azul/loc_label.jpg",
+   "bytes": 907019,
+   "sha256": "3382cc48e664406937a72d5c5b1265569c2700bd8eb98c3c22bc14a9a97f963c"
+  }
+ },
+ "lossless_copy": {
+  "file": "data/originals/jukebox-6537_la-paloma-azul/loc_original.flac",
+  "bytes": 9760053,
+  "pcm_md5_wav": "999a4339e0350698e8036da1f367df58",
+  "pcm_md5_flac": "999a4339e0350698e8036da1f367df58",
+  "bit_exact": true
+ }
+}

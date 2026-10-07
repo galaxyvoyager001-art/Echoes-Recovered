@@ -1,0 +1,108 @@
+{
+ "id": "jukebox-243821",
+ "slug": "jukebox-243821_clave-uni-n",
+ "title": "Clave Unión",
+ "other_titles": [
+  "Dialogo de clave"
+ ],
+ "performers": [
+  "colombo, adolfo",
+  "lópez, regino"
+ ],
+ "primary_performer": "colombo, adolfo",
+ "contributors_with_roles": [
+  "Colombo, Adolfo -- Vocalist -- Tenor Vocal",
+  "López, Regino -- Vocalist -- Baritone Vocal"
+ ],
+ "recording_date": "1909-02-04",
+ "year": 1909,
+ "recording_location_loc": [
+  "cuba",
+  "havana"
+ ],
+ "recording_city": "Havana",
+ "recording_country": "Cuba",
+ "genre_loc": [
+  "Spanish (Cuba)",
+  "Popular music",
+  "Ethnic music"
+ ],
+ "category": "Cuban song",
+ "summary": "Male vocal duet, with guitar",
+ "description": [
+  "Victor 62336. Matrix/Take: R-220/1."
+ ],
+ "language": [
+  "spanish"
+ ],
+ "matrix": "R-220 (Matrix ID)",
+ "take": "1",
+ "file_id": "jvm_victor_62336_01_r220_01",
+ "disc": {
+  "label": "Victor",
+  "catalog_number": "62336",
+  "source_copy_prefix": "jvm"
+ },
+ "source_copy": "Source of original recording: Johnson Victrola Museum, Delaware.",
+ "duration_s": 156.0,
+ "loc_item_url": "https://www.loc.gov/item/jukebox-243821/",
+ "loc_api_url": "https://www.loc.gov/item/jukebox-243821/?fo=json",
+ "loc_files": {
+  "mp3": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/jvm_victor_62336_01_r220_01/jvm_victor_62336_01_r220_01.mp3",
+  "wav": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/jvm_victor_62336_01_r220_01/jvm_victor_62336_01_r220_01.wav",
+  "label": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_62336_01_r220_01:jvm_victor_62336_01_r220_01/full/pct:100/0/default.jpg"
+ },
+ "curator_note": "A Havana recording from February 1909. LoC lists it as a male vocal duet with guitar; the title refers to a clave, a choral song form popular in early 20th-century Havana.",
+ "rights": {
+  "checked_utc": "2026-10-07T12:16:52+00:00",
+  "loc_rights_and_access_text": "The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years. In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use. You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law. You may also need permission from holders of other rights, such as publicity and/or privacy rights. Credit Line: Library of Congress, National Jukebox. More about Copyright and other Restrictions . For guidance about compiling full citations consult Citing Primary Sources .",
+  "loc_rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+  "access_restricted": false,
+  "media_player_flags": {
+   "canDownload": true,
+   "rights_restricted": true
+  },
+  "cleared_for_reuse": true,
+  "status": "Public domain in the United States (published before 1923; Music Modernization Act, 17 U.S.C. 1401(a)(2)(B)(i))",
+  "reasons": [
+   "Rights & Access text states that recordings published prior to 1923 are in the public domain (Music Modernization Act).",
+   "Recording date 1909-02-04 is before 1922-01-01 (project margin so that publication also precedes 1923).",
+   "Evidence of publication: transfer is from an issued Victor disc (catalog no. 62336 in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ],
+  "caveats": [
+   "LoC: 'You are responsible for deciding whether your use of the items in this collection is legal.'",
+   "LoC: 'Some materials may be protected under international law.' Public-domain status here is asserted for the United States only.",
+   "Required credit line: 'Library of Congress, National Jukebox.'",
+   "Recorded in Havana, Cuba, outside US jurisdiction, and issued on a US label (Victor 62336). The US public-domain status above is the only status assessed here; rights in the country of recording were not separately assessed."
+  ],
+  "credit_line": "Library of Congress, National Jukebox."
+ },
+ "downloads": {
+  "wav": {
+   "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/jvm_victor_62336_01_r220_01/jvm_victor_62336_01_r220_01.wav",
+   "file": "data/originals/jukebox-243821_clave-uni-n/loc_original.wav",
+   "bytes": 27644908,
+   "sha256": "27d400e30c769d090d8c9e91ef23636487653feee29414587141ac3110ad1d02"
+  },
+  "mp3": {
+   "url": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/jvm_victor_62336_01_r220_01/jvm_victor_62336_01_r220_01.mp3",
+   "file": "data/originals/jukebox-243821_clave-uni-n/loc_original.mp3",
+   "bytes": 5017226,
+   "sha256": "f8afee76fb5292b7b0a590e8099d0db05ac32634909d83259d47e60e4003b72f"
+  },
+  "label": {
+   "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_62336_01_r220_01:jvm_victor_62336_01_r220_01/full/pct:100/0/default.jpg",
+   "file": "data/originals/jukebox-243821_clave-uni-n/loc_label.jpg",
+   "bytes": 888374,
+   "sha256": "97c76292ac293f22fe3ce4cdfa2fdf9632559969f429dd84d7c2c09c5ee5c297"
+  }
+ },
+ "lossless_copy": {
+  "file": "data/originals/jukebox-243821_clave-uni-n/loc_original.flac",
+  "bytes": 12687550,
+  "pcm_md5_wav": "eeabffcde79b23ccf083846c45bc2fa5",
+  "pcm_md5_flac": "eeabffcde79b23ccf083846c45bc2fa5",
+  "bit_exact": true
+ }
+}

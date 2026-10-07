@@ -1,0 +1,108 @@
+{
+ "id": "jukebox-192569",
+ "slug": "jukebox-192569_torna-a-surriento",
+ "title": "Torna a Surriento",
+ "other_titles": [],
+ "performers": [
+  "bianca, lia",
+  "de curtis, ernesto",
+  "de curtis, g. b."
+ ],
+ "primary_performer": "bianca, lia",
+ "contributors_with_roles": [
+  "De Curtis, G. B. -- Lyricist -- Lyricist",
+  "Bianca, Lia -- Vocalist -- Soprano Vocal",
+  "De Curtis, Ernesto -- Composer -- Composer"
+ ],
+ "recording_date": "1910-03-25",
+ "year": 1910,
+ "recording_location_loc": [
+  "argentina",
+  "buenos aires"
+ ],
+ "recording_city": "Buenos Aires",
+ "recording_country": "Argentina",
+ "genre_loc": [
+  "Italian (Neapolitan)",
+  "Classical music",
+  "Italian (Neapolitan)"
+ ],
+ "category": "Neapolitan song",
+ "summary": "Female vocal solo, with orchestra",
+ "description": [
+  "Victor 62914. Matrix/Take: R-683/[1]."
+ ],
+ "language": [
+  "italian (neapolitan)"
+ ],
+ "matrix": "R-683 (Matrix ID)",
+ "take": "[1]",
+ "file_id": "ucsb_victor_62914_01_r683_01",
+ "disc": {
+  "label": "Victor",
+  "catalog_number": "62914",
+  "source_copy_prefix": "ucsb"
+ },
+ "source_copy": "Source of original recording: Department of Special Collections, Davidson Library, University of California, Santa Barbara.",
+ "duration_s": 178.0,
+ "loc_item_url": "https://www.loc.gov/item/jukebox-192569/",
+ "loc_api_url": "https://www.loc.gov/item/jukebox-192569/?fo=json",
+ "loc_files": {
+  "mp3": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/ucsb_victor_62914_01_r683_01/ucsb_victor_62914_01_r683_01.mp3",
+  "wav": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/ucsb_victor_62914_01_r683_01/ucsb_victor_62914_01_r683_01.wav",
+  "label": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_62914_01_r683_01:ucsb_victor_62914_01_r683_01/full/pct:100/0/default.jpg"
+ },
+ "curator_note": "'Torna a Surriento' (De Curtis) sung by Lia Bianca, recorded in Buenos Aires in March 1910 for the city's large Italian-speaking audience.",
+ "rights": {
+  "checked_utc": "2026-10-07T12:17:10+00:00",
+  "loc_rights_and_access_text": "The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years. In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use. You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law. You may also need permission from holders of other rights, such as publicity and/or privacy rights. Credit Line: Library of Congress, National Jukebox. More about Copyright and other Restrictions . For guidance about compiling full citations consult Citing Primary Sources .",
+  "loc_rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+  "access_restricted": false,
+  "media_player_flags": {
+   "canDownload": true,
+   "rights_restricted": true
+  },
+  "cleared_for_reuse": true,
+  "status": "Public domain in the United States (published before 1923; Music Modernization Act, 17 U.S.C. 1401(a)(2)(B)(i))",
+  "reasons": [
+   "Rights & Access text states that recordings published prior to 1923 are in the public domain (Music Modernization Act).",
+   "Recording date 1910-03-25 is before 1922-01-01 (project margin so that publication also precedes 1923).",
+   "Evidence of publication: transfer is from an issued Victor disc (catalog no. 62914 in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ],
+  "caveats": [
+   "LoC: 'You are responsible for deciding whether your use of the items in this collection is legal.'",
+   "LoC: 'Some materials may be protected under international law.' Public-domain status here is asserted for the United States only.",
+   "Required credit line: 'Library of Congress, National Jukebox.'",
+   "Recorded in Buenos Aires, Argentina, outside US jurisdiction, and issued on a US label (Victor 62914). The US public-domain status above is the only status assessed here; rights in the country of recording were not separately assessed."
+  ],
+  "credit_line": "Library of Congress, National Jukebox."
+ },
+ "downloads": {
+  "wav": {
+   "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/ucsb_victor_62914_01_r683_01/ucsb_victor_62914_01_r683_01.wav",
+   "file": "data/originals/jukebox-192569_torna-a-surriento/loc_original.wav",
+   "bytes": 31530972,
+   "sha256": "3805fc0d8aefcda3a08d90267b11808fb7218f7bb6008131692fbed11b28214a"
+  },
+  "mp3": {
+   "url": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/ucsb_victor_62914_01_r683_01/ucsb_victor_62914_01_r683_01.mp3",
+   "file": "data/originals/jukebox-192569_torna-a-surriento/loc_original.mp3",
+   "bytes": 2860764,
+   "sha256": "f3ff3737379cb718f71f38328d3dfafe2ed11b8da58f3502622e2b57a65d6c02"
+  },
+  "label": {
+   "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_62914_01_r683_01:ucsb_victor_62914_01_r683_01/full/pct:100/0/default.jpg",
+   "file": "data/originals/jukebox-192569_torna-a-surriento/loc_label.jpg",
+   "bytes": 43995,
+   "sha256": "7c8fbc0b6937627dafd1ff2caba05032651e44a85a49c25d8bfc8d6b4977ec49"
+  }
+ },
+ "lossless_copy": {
+  "file": "data/originals/jukebox-192569_torna-a-surriento/loc_original.flac",
+  "bytes": 10934981,
+  "pcm_md5_wav": "da263792c781fa7f8f0d230dcb821e56",
+  "pcm_md5_flac": "da263792c781fa7f8f0d230dcb821e56",
+  "bit_exact": true
+ }
+}

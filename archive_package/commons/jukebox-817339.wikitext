@@ -1,7 +1,7 @@
 =={{int:filedesc}}==
 {{Information
-|description={{en|1=Swanee - Jolson, Al. Male vocal solo and whistling, with orchestra. Recorded 1920-01-08 in United States, New York. Columbia A2884, matrix 78917 (Matrix ID), take 00. Restored version (click interpolation, noise reduction, band-limited filtering, bounded EQ; no generative processing). Original transfer: Library of Congress, National Jukebox.}}
-|date=1920-01-08 (recording); 2026-10-06 (restoration)
+|description={{en|1=Swanee - Jolson, Al. Male vocal solo and whistling, with orchestra. Recorded 1920-01-08 in New York, United States. Columbia A2884, matrix 78917 (Matrix ID), take 00. Restored version (click interpolation, noise reduction, band-limited filtering, bounded EQ; no generative processing). Original transfer: Library of Congress, National Jukebox.}}
+|date=1920-01-08 (recording); 2026-10-07 (restoration)
 |source=Library of Congress, National Jukebox: https://www.loc.gov/item/jukebox-817339/ ; restoration code and logs: https://github.com/galaxyvoyager001-art/Echoes-Recovered
 |author=Jolson, Al (performer); Columbia (record company); restoration: Echoes Recovered project
 |permission=Credit line requested by the Library of Congress: "Library of Congress, National Jukebox."

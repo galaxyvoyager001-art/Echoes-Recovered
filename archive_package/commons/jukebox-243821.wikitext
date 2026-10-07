@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Clave Unión - Colombo, Adolfo. Male vocal duet, with guitar. Recorded 1909-02-04 in Cuba, Havana. Victor 62336, matrix R-220 (Matrix ID), take 1. Restored version (click interpolation, noise reduction, band-limited filtering, bounded EQ; no generative processing). Original transfer: Library of Congress, National Jukebox.}}
+|date=1909-02-04 (recording); 2026-10-07 (restoration)
+|source=Library of Congress, National Jukebox: https://www.loc.gov/item/jukebox-243821/ ; restoration code and logs: https://github.com/galaxyvoyager001-art/Echoes-Recovered
+|author=Colombo, Adolfo (performer); Victor (record company); restoration: Echoes Recovered project
+|permission=Credit line requested by the Library of Congress: "Library of Congress, National Jukebox."
+|other versions=Unrestored LoC transfer: https://www.loc.gov/item/jukebox-243821/
+}}
+
+=={{int:license-header}}==
+{{PD-US-record-expired}}
+<!-- Check on Commons before uploading: the work must also be PD in its source country (these discs were first published in the US). -->
+
+[[Category:National Jukebox]]
+[[Category:1909 sound recordings]]
