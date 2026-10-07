@@ -18,7 +18,7 @@ from PIL import Image
 
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT))
-from restoration.places import CITIES  # noqa: E402
+from restoration.places import CITIES, REGIONS, place  # noqa: E402
 from restoration.text import name_case  # noqa: E402
 
 SITE = ROOT / "site"
@@ -118,7 +118,8 @@ def main():
             "id": m["id"], "slug": m["slug"], "title": m["title"], "other_titles": m["other_titles"],
             "performer": name_case(m["primary_performer"]), "contributors": m["contributors_with_roles"],
             "date": m["recording_date"], "year": m["year"], "city": m["recording_city"],
-            "country": CITIES[m["recording_city"]]["country"], "us": bool(CITIES[m["recording_city"]].get("us")), "location_loc": m["recording_location_loc"],
+            "country": place(m["recording_city"])["country"], "us": bool(place(m["recording_city"]).get("us")),
+            "region_only": bool(place(m["recording_city"]).get("region")), "location_loc": m["recording_location_loc"],
             "genre_loc": m["genre_loc"], "category": m["category"], "summary": m["summary"], "matrix": m["matrix"],
             "take": m["take"], "disc": m["disc"], "language": m["language"], "duration_s": b["duration_s"],
             "note": m["curator_note"], "loc_url": m["loc_item_url"], "rights": m["rights"]["status"],
@@ -148,29 +149,43 @@ def main():
         d = path_for(sh, arcs, wp, wb)
         if d:
             world.append({"n": sh["name"], "t": tint[i], "d": d})
-    # inset: NY - Philadelphia corridor
-    ib = (-75.95, 39.72, -73.45, 40.98)
-    ip = Proj(ib, 360)
+    # insets: places too close together (NY-Philadelphia) or outside the main frame (Japan)
     sarcs, sshapes = decode(SITE / "assets" / "us-atlas-states-10m.json", "states")
-    stint = colour_shapes(sshapes)
-    inset = [{"n": sh["name"], "t": stint[i], "d": path_for(sh, sarcs, ip, ib, 0.4)} for i, sh in enumerate(sshapes)]
-    inset = [x for x in inset if x["d"]]
+    INSETS = [
+        {"id": "corridor", "label": "Enlarged: New York – Philadelphia", "bbox": (-75.95, 39.72, -73.45, 40.98), "w": 360,
+         "arcs": sarcs, "shapes": sshapes, "tint": colour_shapes(sshapes), "min_px": 0.4},
+        {"id": "japan", "label": "Inset: Japan (east of the main map)", "bbox": (128.5, 30.2, 146.5, 45.8), "w": 300,
+         "arcs": arcs, "shapes": shapes, "tint": tint, "min_px": 0.4},
+    ]
+    insets = []
+    for ins in INSETS:
+        pr = Proj(ins["bbox"], ins["w"])
+        ins["proj"] = pr
+        paths = [{"n": sh["name"], "t": ins["tint"][i], "d": path_for(sh, ins["arcs"], pr, ins["bbox"], ins["min_px"])}
+                 for i, sh in enumerate(ins["shapes"])]
+        bb = ins["bbox"]
+        inside_world = bb[0] >= wb[0] and bb[2] <= wb[2] and bb[1] >= wb[1] and bb[3] <= wb[3]
+        box = [round(v, 1) for p_ in (wp(bb[0], bb[3]), wp(bb[2], bb[1])) for v in p_] if inside_world else None
+        insets.append({"id": ins["id"], "label": ins["label"], "w": pr.w, "h": pr.h, "shapes": [x for x in paths if x["d"]], "box": box})
 
     cities = {}
-    for name, c in CITIES.items():
+    for name, c in {**CITIES, **REGIONS}.items():
         n = sum(1 for s in songs if s["city"] == name)
         if not n:
             continue
-        x, y = wp(c["lon"], c["lat"])
-        e = {"country": c["country"], "lat": c["lat"], "lon": c["lon"], "x": round(x, 1), "y": round(y, 1), "count": n}
-        if ib[0] <= c["lon"] <= ib[2] and ib[1] <= c["lat"] <= ib[3]:
-            ix, iy = ip(c["lon"], c["lat"])
-            e.update(inset=True, ix=round(ix, 1), iy=round(iy, 1))
+        e = {"country": c["country"], "lat": c["lat"], "lon": c["lon"], "count": n, "region": bool(c.get("region")), "shape": c.get("shape")}
+        for k, ins in enumerate(INSETS):
+            bb = ins["bbox"]
+            if bb[0] <= c["lon"] <= bb[2] and bb[1] <= c["lat"] <= bb[3]:
+                ix, iy = ins["proj"](c["lon"], c["lat"])
+                e.update(inset=k, ix=round(ix, 1), iy=round(iy, 1))
+                break
+        else:
+            x, y = wp(c["lon"], c["lat"])
+            e.update(x=round(x, 1), y=round(y, 1))
         cities[name] = e
-    ibox = [wp(ib[0], ib[3]), wp(ib[2], ib[1])]
     data = {"songs": songs, "map": {
-        "w": wp.w, "h": wp.h, "countries": world, "cities": cities,
-        "inset": {"w": ip.w, "h": ip.h, "states": inset, "box": [round(v, 1) for p in ibox for v in p]},
+        "w": wp.w, "h": wp.h, "countries": world, "cities": cities, "insets": insets,
         "graticule": {"lons": [round(wp(lo, 0)[0], 1) for lo in range(-120, 41, 20)],
                       "lats": [[la, round(wp(0, la)[1], 1)] for la in range(-40, 61, 20)]},
         "source": "world-atlas 2.0.2 (Natural Earth) and us-atlas 3.0.1 (US Census Bureau)"}}

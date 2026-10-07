@@ -22,6 +22,20 @@ CITIES = {
     "Paris": {"loc": "paris", "country": "France", "lat": 48.8566, "lon": 2.3522},
     "Milan": {"loc": "milan", "country": "Italy", "lat": 45.4642, "lon": 9.1900},
     "Berlin": {"loc": "berlin", "country": "Germany", "lat": 52.5200, "lon": 13.4050},
+    "Madrid": {"loc": "madrid", "country": "Spain", "lat": 40.4168, "lon": -3.7038},
+    "St. Petersburg": {"loc": "st. petersburg", "country": "Russia", "lat": 59.9311, "lon": 30.3609},
+    "Bogotá": {"loc": "bogotá", "country": "Colombia", "lat": 4.7110, "lon": -74.0721},
+    "Guayaquil": {"loc": "guayaquil", "country": "Ecuador", "lat": -2.1710, "lon": -79.9224},
+    "Arequipa": {"loc": "arequipa", "country": "Peru", "lat": -16.4090, "lon": -71.5375},
+    "La Paz": {"loc": "la paz", "country": "Bolivia", "lat": -16.4897, "lon": -68.1193},
+    "Tokyo": {"loc": "tokyo", "country": "Japan", "lat": 35.6762, "lon": 139.6503},
+    "Osaka": {"loc": "osaka", "country": "Japan", "lat": 34.6937, "lon": 135.5023},
+}
+
+# Country-level entries, used only when the LoC record names a country but no city.
+# The map highlights the whole country (shape = world-atlas name); no point is invented.
+REGIONS = {
+    "Japan (city not recorded)": {"loc": "japan", "country": "Japan", "shape": "Japan", "lat": 37.5, "lon": 137.5, "region": True},
 }
 
 
@@ -32,4 +46,12 @@ def city_from_loc(locations):
     for name, c in sorted(CITIES.items(), key=lambda kv: kv[0] == "New York"):
         if c["loc"] in locs:
             return name
+    for name, c in REGIONS.items():
+        if c["loc"] in locs:
+            return name
     return None
+
+
+def place(name):
+    """City or region record for a name returned by city_from_loc."""
+    return CITIES.get(name) or REGIONS[name]

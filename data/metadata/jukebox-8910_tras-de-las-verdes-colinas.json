@@ -1,0 +1,111 @@
+{
+ "id": "jukebox-8910",
+ "slug": "jukebox-8910_tras-de-las-verdes-colinas",
+ "title": "Tras de las verdes colinas",
+ "other_titles": [
+  "Bambuco"
+ ],
+ "performers": [
+  "escobar, alberto",
+  "wills, alejandro"
+ ],
+ "primary_performer": "wills, alejandro",
+ "contributors_with_roles": [
+  "Wills, Alejandro -- Instrumentalist -- Guitar",
+  "Escobar, Alberto -- Instrumentalist -- Tiple",
+  "Wills, Alejandro -- Composer -- Composer",
+  "Wills, Alejandro -- Vocalist -- Baritone Vocal",
+  "Escobar, Alberto -- Vocalist -- Tenor Vocal"
+ ],
+ "recording_date": "1913-11-09",
+ "year": 1913,
+ "recording_location_loc": [
+  "colombia",
+  "bogotá"
+ ],
+ "recording_city": "Bogotá",
+ "recording_country": "Colombia",
+ "genre_loc": [
+  "Spanish (Colombia)",
+  "Ethnic music",
+  "Spanish (Colombia)"
+ ],
+ "category": "Colombian song",
+ "summary": "Male vocal duet, with pito, tiple, and guitar",
+ "description": [
+  "Victor 65892. Matrix/Take: L-375/1."
+ ],
+ "language": [
+  "spanish"
+ ],
+ "matrix": "L-375 (Matrix ID)",
+ "take": "1",
+ "file_id": "ucsb_victor_65892_01_l375_01",
+ "disc": {
+  "label": "Victor",
+  "catalog_number": "65892",
+  "source_copy_prefix": "ucsb"
+ },
+ "source_copy": "Source of original recording: Department of Special Collections, Davidson Library, University of California, Santa Barbara.",
+ "duration_s": 193.0,
+ "loc_item_url": "https://www.loc.gov/item/jukebox-8910/",
+ "loc_api_url": "https://www.loc.gov/item/jukebox-8910/?fo=json",
+ "loc_files": {
+  "mp3": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/ucsb_victor_65892_01_l375_01/ucsb_victor_65892_01_l375_01.mp3",
+  "wav": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/ucsb_victor_65892_01_l375_01/ucsb_victor_65892_01_l375_01.wav",
+  "label": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_65892_01_l375_01:ucsb_victor_65892_01_l375_01/full/pct:100/0/default.jpg"
+ },
+ "curator_note": "A bambuco by Alejandro Wills, who sings and plays guitar, with Alberto Escobar on tiple (the Colombian treble guitar) and pito; recorded in Bogotá in November 1913.",
+ "rights": {
+  "checked_utc": "2026-10-07T13:04:24+00:00",
+  "loc_rights_and_access_text": "The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years. In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use. You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law. You may also need permission from holders of other rights, such as publicity and/or privacy rights. Credit Line: Library of Congress, National Jukebox. More about Copyright and other Restrictions . For guidance about compiling full citations consult Citing Primary Sources .",
+  "loc_rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+  "access_restricted": false,
+  "media_player_flags": {
+   "canDownload": true,
+   "rights_restricted": true
+  },
+  "cleared_for_reuse": true,
+  "status": "Public domain in the United States (published before 1923; Music Modernization Act, 17 U.S.C. 1401(a)(2)(B)(i))",
+  "reasons": [
+   "Rights & Access text states that recordings published prior to 1923 are in the public domain (Music Modernization Act).",
+   "Recording date 1913-11-09 is before 1922-01-01 (project margin so that publication also precedes 1923).",
+   "Evidence of publication: transfer is from an issued Victor disc (catalog no. 65892 in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ],
+  "caveats": [
+   "LoC: 'You are responsible for deciding whether your use of the items in this collection is legal.'",
+   "LoC: 'Some materials may be protected under international law.' Public-domain status here is asserted for the United States only.",
+   "Required credit line: 'Library of Congress, National Jukebox.'",
+   "Recorded in Bogotá, Colombia, outside US jurisdiction, and issued on a US label (Victor 65892). The US public-domain status above is the only status assessed here; rights in the country of recording were not separately assessed."
+  ],
+  "credit_line": "Library of Congress, National Jukebox."
+ },
+ "downloads": {
+  "wav": {
+   "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/ucsb_victor_65892_01_l375_01/ucsb_victor_65892_01_l375_01.wav",
+   "file": "data/originals/jukebox-8910_tras-de-las-verdes-colinas/loc_original.wav",
+   "bytes": 34068540,
+   "sha256": "013a4b1f5ee6d177e7258938b042612fc5819a614870e86a2b83184a1b2fc39f"
+  },
+  "mp3": {
+   "url": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/ucsb_victor_65892_01_l375_01/ucsb_victor_65892_01_l375_01.mp3",
+   "file": "data/originals/jukebox-8910_tras-de-las-verdes-colinas/loc_original.mp3",
+   "bytes": 3091060,
+   "sha256": "3fa69611a84934cc20e4826a89d2798bbe6ab331671a84a24086c5fc96c27d10"
+  },
+  "label": {
+   "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_65892_01_l375_01:ucsb_victor_65892_01_l375_01/full/pct:100/0/default.jpg",
+   "file": "data/originals/jukebox-8910_tras-de-las-verdes-colinas/loc_label.jpg",
+   "bytes": 63781,
+   "sha256": "5f165ca8987b2ed2ac76b837d13a2017f7a939c4fe9aacf7d451d8db4d0b5eab"
+  }
+ },
+ "lossless_copy": {
+  "file": "data/originals/jukebox-8910_tras-de-las-verdes-colinas/loc_original.flac",
+  "bytes": 12473788,
+  "pcm_md5_wav": "18e6795dad2fdf278443beccce33d2e4",
+  "pcm_md5_flac": "18e6795dad2fdf278443beccce33d2e4",
+  "bit_exact": true
+ }
+}

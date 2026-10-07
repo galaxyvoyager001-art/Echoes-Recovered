@@ -7,12 +7,12 @@
 ## 实际完成情况（数字均来自仓库内的真实输出）
 
 <!-- RESULTS:START -->
-* 共核查 **54** 个 LoC 候选，**52** 首通过版权核查并完成修复，**2** 首被排除（理由见 [docs/RESULTS.md](docs/RESULTS.md)）。
-* 录制年份 1901–1921；录制城市（按 LoC 记录）：Berlin, Buenos Aires, Camden, Caracas, Chicago, Havana, Lima, London, Mexico City, Milan, New York, Paris, Philadelphia, Rio de Janeiro, San Juan, Santiago。
-* Median surface-noise level: **-34.6 dBFS -> -45.1 dBFS** (median change -9.7 dB).
-* Median impulses/min (AR detector, k=8): **817 -> 69**.
-* Samples interpolated across clicks: median **1.52%**, max 4.20% per track.
-* Energy removed in 300-3000 Hz relative to the original: median **-21.6 dB** (range -33.8 to -10.9 dB).
+* 共核查 **69** 个 LoC 候选，**67** 首通过版权核查并完成修复，**2** 首被排除（理由见 [docs/RESULTS.md](docs/RESULTS.md)）。
+* 录制年份 1901–1921；录制城市（按 LoC 记录）：Arequipa, Berlin, Bogotá, Buenos Aires, Camden, Caracas, Chicago, Guayaquil, Havana, La Paz, Lima, London, Madrid, Mexico City, Milan, New York, Osaka, Paris, Philadelphia, Rio de Janeiro, San Juan, Santiago, St. Petersburg, Tokyo。
+* Median surface-noise level: **-36.2 dBFS -> -45.9 dBFS** (median change -9.9 dB).
+* Median impulses/min (AR detector, k=8): **820 -> 56**.
+* Samples interpolated across clicks: median **1.57%**, max 4.20% per track.
+* Energy removed in 300-3000 Hz relative to the original: median **-21.9 dB** (range -33.8 to -10.9 dB).
 * Tracks with a 50/60 Hz peak flagged and notched: 1. Speed/pitch corrections applied: 0. Generative/AI processing: none.
 
 
@@ -97,8 +97,8 @@ python3 scripts/serve.py . 8000   # 在仓库根目录运行；这个小服务�
 ```
 
 * **时间轴：** 1900–1925，每个点对应一次录音；可以点年份筛选，也可以点单个录音。1922–1925 年以灰色标出"未收录（版权余量）"。
-* **地图：** 手工上色风格的世界地图（world-atlas 2.0.2 / Natural Earth 国界，相邻国家自动分配不同底色），外加一张放大的 New York – Philadelphia 嵌入图（us-atlas 3.0.1 州界，因为 New York、Camden、Philadelphia 三地在世界地图上会重叠）。全部在本地投影，不依赖地图瓦片服务。点位只标在 LoC 记录中写明的**城市**，不标任何具体地址。
-* **视觉风格：** 1910 年代唱片目录风格：Victor 红标唱片的酒红与金色、旧纸张底色、打字机字体的档案卡片；唱片标签在播放时旋转。音乐按 6 类着色（歌剧、爵士与布鲁斯、拉丁美洲歌曲、欧洲歌曲、乐队与舞厅乐团、ragtime 与流行歌曲），色块同时是筛选按钮和图例。支持浅色与深色主题。
+* **地图：** 手工上色风格的世界地图（world-atlas 2.0.2 / Natural Earth 国界，相邻国家自动分配不同底色），外加两张嵌入图：放大的 New York – Philadelphia（us-atlas 3.0.1 州界，因为 New York、Camden、Philadelphia 三地在世界地图上会重叠），以及位于主图范围以东的日本（Tokyo、Osaka）。如果某条 LoC 记录只写了国家没有城市，代码会高亮整个国家而不是编造一个点（`restoration/places.py` 中的 REGIONS；目前收录的曲目都有城市）。全部在本地投影，不依赖地图瓦片服务。点位只标在 LoC 记录中写明的**城市**，不标任何具体地址。
+* **视觉风格：** 1910 年代唱片目录风格：Victor 红标唱片的酒红与金色、旧纸张底色、打字机字体的档案卡片；唱片标签在播放时旋转。音乐按 7 类着色（日本音乐、歌剧、爵士与布鲁斯、拉丁美洲歌曲、欧洲歌曲、乐队与舞厅乐团、ragtime 与流行歌曲），色块同时是筛选按钮和图例。支持浅色与深色主题。
 * **详情面板：** 标题、表演者、日期、地点（LoC 原文）、LoC 类型、唱片编号与 matrix/take、演职人员、LoC 原始页面链接、项目背景注释（已标明是项目撰写）、**Original 与 Restored 两个播放器**、"在同一时刻切换"按钮、A/B 文件、被去除部分、修复日志和频谱图。
 * 网站直接引用 `data/` 里的文件，不重复存储音频。部署到 GitHub Pages 时选择从仓库根目录发布即可。
 

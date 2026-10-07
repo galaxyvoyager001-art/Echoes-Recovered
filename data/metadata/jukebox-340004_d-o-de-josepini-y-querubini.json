@@ -1,0 +1,113 @@
+{
+ "id": "jukebox-340004",
+ "slug": "jukebox-340004_d-o-de-josepini-y-querubini",
+ "title": "Dúo de Josepini y Querubini",
+ "other_titles": [
+  "El duo de La Africana"
+ ],
+ "performers": [
+  "caballero, manuel fernández",
+  "lópez, [?] [madrid vocalist, 1910s]",
+  "lópez, [?] [madrid vocalist,s]",
+  "marquina, pascual",
+  "sagi-barba, emilio",
+  "scheuplein, charles"
+ ],
+ "primary_performer": "sagi-barba, emilio",
+ "contributors_with_roles": [
+  "Marquina, Pascual -- Conductor -- Conductor",
+  "Scheuplein, Charles -- Recordist -- Recordist",
+  "Sagi-Barba, Emilio -- Vocalist -- Baritone Vocal",
+  "López, [?] [Madrid vocalist, 1910s] -- Vocalist -- Vocalist",
+  "Caballero, Manuel Fernández -- Composer -- Composer"
+ ],
+ "recording_date": "1915-01-19",
+ "year": 1915,
+ "recording_location_loc": [
+  "madrid",
+  "spain"
+ ],
+ "recording_city": "Madrid",
+ "recording_country": "Spain",
+ "genre_loc": [
+  "Ethnic music"
+ ],
+ "category": "Zarzuela",
+ "summary": "Vocal duet (tenor and baritone), with orchestra",
+ "description": [
+  "López, [?] [Madrid vocalist, 1910s] -- Vocalist -- Vocalist, performing. Victor 45289. Matrix/Take: 19007u/[1]."
+ ],
+ "language": [
+  "spanish"
+ ],
+ "matrix": "19007u (Matrix ID)",
+ "take": "[1]",
+ "file_id": "ucsb_victor_45289_01_19007u_01",
+ "disc": {
+  "label": "Victor",
+  "catalog_number": "45289",
+  "source_copy_prefix": "ucsb"
+ },
+ "source_copy": "Source of original recording: Department of Special Collections, Davidson Library, University of California, Santa Barbara.",
+ "duration_s": 205.0,
+ "loc_item_url": "https://www.loc.gov/item/jukebox-340004/",
+ "loc_api_url": "https://www.loc.gov/item/jukebox-340004/?fo=json",
+ "loc_files": {
+  "mp3": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/ucsb_victor_45289_01_19007u_01/ucsb_victor_45289_01_19007u_01.mp3",
+  "wav": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/ucsb_victor_45289_01_19007u_01/ucsb_victor_45289_01_19007u_01.wav",
+  "label": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_45289_01_19007u_01:ucsb_victor_45289_01_19007u_01/full/pct:100/0/default.jpg"
+ },
+ "curator_note": "The duet from the zarzuela 'El dúo de La Africana', with baritone Emilio Sagi-Barba, a leading zarzuela singer, and orchestra conducted by Pascual Marquina; recorded in Madrid in January 1915.",
+ "rights": {
+  "checked_utc": "2026-10-07T13:04:18+00:00",
+  "loc_rights_and_access_text": "The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years. In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use. You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law. You may also need permission from holders of other rights, such as publicity and/or privacy rights. Credit Line: Library of Congress, National Jukebox. More about Copyright and other Restrictions . For guidance about compiling full citations consult Citing Primary Sources .",
+  "loc_rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+  "access_restricted": false,
+  "media_player_flags": {
+   "canDownload": true,
+   "rights_restricted": true
+  },
+  "cleared_for_reuse": true,
+  "status": "Public domain in the United States (published before 1923; Music Modernization Act, 17 U.S.C. 1401(a)(2)(B)(i))",
+  "reasons": [
+   "Rights & Access text states that recordings published prior to 1923 are in the public domain (Music Modernization Act).",
+   "Recording date 1915-01-19 is before 1922-01-01 (project margin so that publication also precedes 1923).",
+   "Evidence of publication: transfer is from an issued Victor disc (catalog no. 45289 in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ],
+  "caveats": [
+   "LoC: 'You are responsible for deciding whether your use of the items in this collection is legal.'",
+   "LoC: 'Some materials may be protected under international law.' Public-domain status here is asserted for the United States only.",
+   "Required credit line: 'Library of Congress, National Jukebox.'",
+   "Recorded in Madrid, Spain, outside US jurisdiction, and issued on a US label (Victor 45289). The US public-domain status above is the only status assessed here; rights in the country of recording were not separately assessed."
+  ],
+  "credit_line": "Library of Congress, National Jukebox."
+ },
+ "downloads": {
+  "wav": {
+   "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/ucsb_victor_45289_01_19007u_01/ucsb_victor_45289_01_19007u_01.wav",
+   "file": "data/originals/jukebox-340004_d-o-de-josepini-y-querubini/loc_original.wav",
+   "bytes": 36156516,
+   "sha256": "82c113bb16759888348caa2ad707f27d725593266364ced903c1e9b845a157aa"
+  },
+  "mp3": {
+   "url": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/ucsb_victor_45289_01_19007u_01/ucsb_victor_45289_01_19007u_01.mp3",
+   "file": "data/originals/jukebox-340004_d-o-de-josepini-y-querubini/loc_original.mp3",
+   "bytes": 3280395,
+   "sha256": "4098b7c537433377289a0c8cebfd87715b4a57d25feec1577f8ebe336e988c9a"
+  },
+  "label": {
+   "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_45289_01_19007u_01:ucsb_victor_45289_01_19007u_01/full/pct:100/0/default.jpg",
+   "file": "data/originals/jukebox-340004_d-o-de-josepini-y-querubini/loc_label.jpg",
+   "bytes": 52087,
+   "sha256": "cda8b0f22febfbb6a8df5ba0b5789fb61e008521a3f4e98404541f077e574230"
+  }
+ },
+ "lossless_copy": {
+  "file": "data/originals/jukebox-340004_d-o-de-josepini-y-querubini/loc_original.flac",
+  "bytes": 12162158,
+  "pcm_md5_wav": "07308bb2dc10b99aa08f0ce1a5b78e61",
+  "pcm_md5_flac": "07308bb2dc10b99aa08f0ce1a5b78e61",
+  "bit_exact": true
+ }
+}

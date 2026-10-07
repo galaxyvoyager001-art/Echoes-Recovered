@@ -1,7 +1,7 @@
 Source-Organization: Echoes Recovered (independent project; not affiliated with the Library of Congress)
-External-Description: 52 acoustic-era recordings from the Library of Congress National Jukebox (recorded 1901-05-16 to 1921-09-29), LoC transfers plus restored versions, with metadata, rights records and restoration logs.
+External-Description: 67 acoustic-era recordings from the Library of Congress National Jukebox (recorded 1901-05-16 to 1921-09-29), LoC transfers plus restored versions, with metadata, rights records and restoration logs.
 External-Identifier: https://github.com/galaxyvoyager001-art/Echoes-Recovered
 Bagging-Date: 2026-10-07
-Payload-Oxum-Files: 728
+Payload-Oxum-Files: 938
 Rights: Underlying sound recordings: public domain in the United States (published before 1923). Restoration outputs, code and documentation: CC0 1.0 / MIT (see LICENSE).
 Credit-Line: Library of Congress, National Jukebox.

@@ -1,0 +1,113 @@
+{
+ "id": "jukebox-292927",
+ "slug": "jukebox-292927_caro-nome",
+ "title": "Caro nome",
+ "other_titles": [
+  "Rigoletto",
+  "Vnemlya imeni ego",
+  "Dearest name",
+  "Rigoletto. Caro nome; arranged"
+ ],
+ "performers": [
+  "hampe, franz",
+  "michailova, m. a.",
+  "seidler-winkler, bruno",
+  "verdi, giuseppe"
+ ],
+ "primary_performer": "michailova, m. a.",
+ "contributors_with_roles": [
+  "Hampe, Franz -- Recordist -- Recordist",
+  "Verdi, Giuseppe -- Composer -- Composer",
+  "Michailova, M. A. -- Vocalist -- Soprano Vocal",
+  "Seidler-Winkler, Bruno -- Conductor -- Conductor"
+ ],
+ "recording_date": "1905-12-31",
+ "year": 1905,
+ "recording_location_loc": [
+  "st. petersburg",
+  "russia"
+ ],
+ "recording_city": "St. Petersburg",
+ "recording_country": "Russia",
+ "genre_loc": [
+  "Opera"
+ ],
+ "category": "Opera",
+ "summary": "Soprano vocal solo, with orchestra",
+ "description": [
+  "Victor 61141. Matrix/Take: 2918L/[1]."
+ ],
+ "language": [
+  "russian"
+ ],
+ "matrix": "2918L (Matrix ID)",
+ "take": "[1]",
+ "file_id": "dlc_victor_61141_01_2918l_01",
+ "disc": {
+  "label": "Victor",
+  "catalog_number": "61141",
+  "source_copy_prefix": "dlc"
+ },
+ "source_copy": "Source of original recording: Recorded Sound Section, Library of Congress.",
+ "duration_s": 177.0,
+ "loc_item_url": "https://www.loc.gov/item/jukebox-292927/",
+ "loc_api_url": "https://www.loc.gov/item/jukebox-292927/?fo=json",
+ "loc_files": {
+  "mp3": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/dlc_victor_61141_01_2918l_01/dlc_victor_61141_01_2918l_01.mp3",
+  "wav": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/dlc_victor_61141_01_2918l_01/dlc_victor_61141_01_2918l_01.wav",
+  "label": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_61141_01_2918l_01:dlc_victor_61141_01_2918l_01/full/pct:100/0/default.jpg"
+ },
+ "curator_note": "'Caro nome' from Verdi's Rigoletto (LoC also gives the Russian title 'Vnemlya imeni ego'), sung by soprano M. A. Michailova with orchestra conducted by Bruno Seidler-Winkler; recorded in St. Petersburg by Franz Hampe. LoC gives only the year (1905).",
+ "rights": {
+  "checked_utc": "2026-10-07T13:04:12+00:00",
+  "loc_rights_and_access_text": "The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years. In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use. You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law. You may also need permission from holders of other rights, such as publicity and/or privacy rights. Credit Line: Library of Congress, National Jukebox. More about Copyright and other Restrictions . For guidance about compiling full citations consult Citing Primary Sources .",
+  "loc_rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+  "access_restricted": false,
+  "media_player_flags": {
+   "canDownload": true,
+   "rights_restricted": true
+  },
+  "cleared_for_reuse": true,
+  "status": "Public domain in the United States (published before 1923; Music Modernization Act, 17 U.S.C. 1401(a)(2)(B)(i))",
+  "reasons": [
+   "Rights & Access text states that recordings published prior to 1923 are in the public domain (Music Modernization Act).",
+   "Recording date 1905-12-31 is before 1922-01-01 (project margin so that publication also precedes 1923).",
+   "Evidence of publication: transfer is from an issued Victor disc (catalog no. 61141 in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ],
+  "caveats": [
+   "LoC: 'You are responsible for deciding whether your use of the items in this collection is legal.'",
+   "LoC: 'Some materials may be protected under international law.' Public-domain status here is asserted for the United States only.",
+   "Required credit line: 'Library of Congress, National Jukebox.'",
+   "Recorded in St. Petersburg, Russia, outside US jurisdiction, and issued on a US label (Victor 61141). The US public-domain status above is the only status assessed here; rights in the country of recording were not separately assessed."
+  ],
+  "credit_line": "Library of Congress, National Jukebox."
+ },
+ "downloads": {
+  "wav": {
+   "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/dlc_victor_61141_01_2918l_01/dlc_victor_61141_01_2918l_01.wav",
+   "file": "data/originals/jukebox-292927_caro-nome/loc_original.wav",
+   "bytes": 31218386,
+   "sha256": "85c43cfe534e6db5a33ce5495c0aa9f0f500e44bccf33530995e889f2e4aa14d"
+  },
+  "mp3": {
+   "url": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/dlc_victor_61141_01_2918l_01/dlc_victor_61141_01_2918l_01.mp3",
+   "file": "data/originals/jukebox-292927_caro-nome/loc_original.mp3",
+   "bytes": 2832559,
+   "sha256": "6a710842f676f3a5ab9dcccaf55938c0c6643e5f9c39f1567ed6d097103dc3d0"
+  },
+  "label": {
+   "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_61141_01_2918l_01:dlc_victor_61141_01_2918l_01/full/pct:100/0/default.jpg",
+   "file": "data/originals/jukebox-292927_caro-nome/loc_label.jpg",
+   "bytes": 610772,
+   "sha256": "17a5675d603e9301ce8caa591e76b351624ed668de4cf3e1c06c2c68af3fd704"
+  }
+ },
+ "lossless_copy": {
+  "file": "data/originals/jukebox-292927_caro-nome/loc_original.flac",
+  "bytes": 13166001,
+  "pcm_md5_wav": "82ef83cd87e3523fb71862cfb2165415",
+  "pcm_md5_flac": "82ef83cd87e3523fb71862cfb2165415",
+  "bit_exact": true
+ }
+}

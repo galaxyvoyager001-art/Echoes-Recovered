@@ -22,6 +22,7 @@
   --navy: #26406a;
   --rust: #b0532e;
   --plum: #6e3a68;
+  --jade: #3f7a3a;
   --sea: #c7dccf;
   --sea-line: #9fbfb0;
   --land-0: #ecd9a2; --land-1: #e5b9a2; --land-2: #c9d39d; --land-3: #d8c2da; --land-4: #f1cb8c;
@@ -36,14 +37,14 @@
 }
 @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
   --paper: #1b1410; --paper-2: #251b15; --ink: #f1e4c8; --ink-2: #c6ae8b; --rule: #54402e;
-  --claret: #d4525e; --gold: #d9aa4c; --gold-soft: #6b5426; --teal: #63aaa1; --navy: #7f9fd6; --rust: #e0805a; --plum: #c58cbf;
+  --claret: #d4525e; --gold: #d9aa4c; --gold-soft: #6b5426; --teal: #63aaa1; --navy: #7f9fd6; --rust: #e0805a; --plum: #c58cbf; --jade: #86bf6c;
   --sea: #142a2c; --sea-line: #24484a;
   --land-0: #4a3e25; --land-1: #4d3229; --land-2: #39432a; --land-3: #423448; --land-4: #57401f; --land-line: #8a7556;
   --on-claret: #f7e8c4; --mast: #5e141c; --mast-gold: #e2bd5e;
   color-scheme: dark; } }
 :root[data-theme="dark"] {
   --paper: #1b1410; --paper-2: #251b15; --ink: #f1e4c8; --ink-2: #c6ae8b; --rule: #54402e;
-  --claret: #d4525e; --gold: #d9aa4c; --gold-soft: #6b5426; --teal: #63aaa1; --navy: #7f9fd6; --rust: #e0805a; --plum: #c58cbf;
+  --claret: #d4525e; --gold: #d9aa4c; --gold-soft: #6b5426; --teal: #63aaa1; --navy: #7f9fd6; --rust: #e0805a; --plum: #c58cbf; --jade: #86bf6c;
   --sea: #142a2c; --sea-line: #24484a;
   --land-0: #4a3e25; --land-1: #4d3229; --land-2: #39432a; --land-3: #423448; --land-4: #57401f; --land-line: #8a7556;
   --on-claret: #f7e8c4; --mast: #5e141c; --mast-gold: #e2bd5e;
@@ -107,6 +108,8 @@ svg { display: block; width: 100%; height: auto; }
 .city text { font: italic 600 19px var(--display); fill: var(--ink); paint-order: stroke; stroke: var(--paper-2); stroke-width: 5px; stroke-linejoin: round; }
 .city text.n { font: 14px var(--type); fill: var(--ink-2); font-style: normal; }
 .city.dim { opacity: 0.28; }
+.region-shape { stroke: var(--claret); stroke-width: 2.5; stroke-dasharray: 6 4; fill-opacity: 0.9; }
+.region.on .region-shape { fill: var(--gold-soft); }
 .city.on .ring { fill-opacity: 0.42; }
 .compass text { font: 700 15px var(--display); fill: var(--ink); }
 .compass path { fill: var(--ink); } .compass path.lt { fill: var(--gold); }
@@ -123,7 +126,7 @@ svg { display: block; width: 100%; height: auto; }
 .rec.sel { stroke: var(--ink); stroke-width: 3.5; }
 
 .fam-opera { --c: var(--claret); } .fam-jazz { --c: var(--teal); } .fam-popular { --c: var(--gold); }
-.fam-band { --c: var(--navy); } .fam-latin { --c: var(--rust); } .fam-europe { --c: var(--plum); }
+.fam-band { --c: var(--navy); } .fam-asia { --c: var(--jade); } .fam-latin { --c: var(--rust); } .fam-europe { --c: var(--plum); }
 .rec { fill: var(--c); }
 
 .filters { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 14px; align-items: center; }
@@ -220,7 +223,7 @@ section.about p { margin: 0; font-size: 0.93rem; }
     <div>
       <div class="eyebrow">Echoes Recovered · from the Library of Congress National Jukebox</div>
       <h1>Sound Time Map<em>Acoustic recordings of the gramophone age, heard again</em></h1>
-      <p>Shellac discs recorded between 1901 and 1921, from Camden to Buenos Aires and Milan. Each one plays twice: the Library of Congress transfer exactly as published, and a restoration made with documented, non-generative signal processing.</p>
+      <p>Shellac discs recorded between 1901 and 1921, from Camden and Havana to Bogotá, St. Petersburg and Tokyo. Each one plays twice: the Library of Congress transfer exactly as published, and a restoration made with documented, non-generative signal processing.</p>
     </div>
     <div class="seals" id="counts"></div>
   </div>
@@ -274,10 +277,11 @@ section.about p { margin: 0; font-size: 0.93rem; }
 
   // kinds of music -> colour families (categories are the project's labels in config/selection.json)
   const FAM = [
+    ["asia", "Japanese music", /japanese/i],
     ["opera", "Opera", /opera/i],
     ["jazz", "Jazz & blues", /jazz|blues/i],
-    ["latin", "Latin American song", /mexican|cuban song|tango|peruvian|chilean|brazilian|venezuelan song|puerto rican song/i],
-    ["europe", "European song", /neapolitan|italian|irish|galician|music hall/i],
+    ["latin", "Latin American song", /mexican|cuban song|tango|peruvian|chilean|brazilian|venezuelan song|puerto rican song|colombian|ecuadorian|bolivian/i],
+    ["europe", "European song", /neapolitan|italian|irish|galician|music hall|russian|zarzuela/i],
     ["band", "Bands & dance orchestras", /band|orchestra/i],
     ["popular", "Ragtime & popular song", /./],
   ];
@@ -302,50 +306,75 @@ section.about p { margin: 0; font-size: 0.93rem; }
   M.graticule.lons.forEach(x => el("line", { x1: x, x2: x, y1: 0, y2: M.h, class: "grat" }, map));
   M.graticule.lats.forEach(([, y]) => el("line", { x1: 0, x2: M.w, y1: y, y2: y, class: "grat" }, map));
   M.countries.forEach(c => el("path", { d: c.d, class: `land t${c.t}` }, map));
-  const [bx0, by0, bx1, by1] = M.inset.box;
-  el("rect", { x: bx0, y: by0, width: bx1 - bx0, height: by1 - by0, class: "zoombox" }, map);
-  // inset panel in the South Atlantic, lower right (no recording cities there)
-  const IW = 390, IH = IW * M.inset.h / M.inset.w, IX = M.w - IW - 26, IY = M.h - IH - 50;
-  const ins = el("g", { transform: `translate(${IX},${IY})` }, map);
-  el("rect", { x: -6, y: -6, width: IW + 12, height: IH + 40, fill: "var(--paper-2)", class: "frame-in" }, ins);
-  const insSvg = el("svg", { x: 0, y: 0, width: IW, height: IH, viewBox: `0 0 ${M.inset.w} ${M.inset.h}`, style: `width:${IW}px;height:${IH}px;overflow:hidden` }, ins);
-  el("rect", { x: 0, y: 0, width: M.inset.w, height: M.inset.h, class: "sea" }, insSvg);
-  M.inset.states.forEach(s => el("path", { d: s.d, class: `land t${s.t}` }, insSvg));
-  const it = el("text", { x: 0, y: IH + 24, class: "cart-s", fill: "var(--ink)" }, ins); it.textContent = "Enlarged: New York – Philadelphia";
-  el("line", { x1: IX - 6, y1: IY - 6, x2: bx1, y2: by1, stroke: "var(--claret)", "stroke-width": 1.5, "stroke-dasharray": "4 3" }, map);
-  // cartouche + compass
+  // cartouche (over Canada) + compass (mid-Atlantic): areas with no recording cities
   const cart = el("g", { class: "cartouche", transform: "translate(26,26)" }, map);
   el("rect", { x: 0, y: 0, width: 334, height: 86 }, cart);
   el("rect", { x: 5, y: 5, width: 324, height: 76, fill: "none" }, cart);
   const c1 = el("text", { x: 167, y: 38, "text-anchor": "middle", class: "cart-t" }, cart); c1.textContent = "The Recording World";
   const c2 = el("text", { x: 167, y: 62, "text-anchor": "middle", class: "cart-s" }, cart); c2.textContent = "Victor & Columbia sessions, 1901–1921";
-  const cp = el("g", { class: "compass", transform: `translate(${M.w - 70},70)` }, map);
+  const cp = el("g", { class: "compass", transform: "translate(640,250)" }, map);
   el("path", { d: "M0,-38 L8,0 L0,6 L-8,0 Z" }, cp); el("path", { d: "M0,38 L8,0 L0,-6 L-8,0 Z", class: "lt" }, cp);
   el("path", { d: "M-30,0 L0,-5 L4,0 L0,5 Z", class: "lt" }, cp); el("path", { d: "M30,0 L0,5 L-4,0 L0,-5 Z", class: "lt" }, cp);
   const cn = el("text", { x: 0, y: -44, "text-anchor": "middle" }, cp); cn.textContent = "N";
+
+  // inset panels: corridor in the South Atlantic (lower right), Japan in the South Pacific (lower left)
+  const SLOT = { corridor: (w, h) => [M.w - w - 26, M.h - h - 50], japan: (w, h) => [30, M.h - h - 50] };
+  const IWID = { corridor: 390, japan: 250 };
+  const insets = M.insets.map(I => {
+    const IW = IWID[I.id] || 300, IH = IW * I.h / I.w, [IX, IY] = SLOT[I.id](IW, IH);
+    const g = el("g", { transform: `translate(${IX},${IY})` }, map);
+    el("rect", { x: -6, y: -6, width: IW + 12, height: IH + 40, fill: "var(--paper-2)", class: "frame-in" }, g);
+    const svg = el("svg", { x: 0, y: 0, width: IW, height: IH, viewBox: `0 0 ${I.w} ${I.h}`, style: `width:${IW}px;height:${IH}px;overflow:hidden` }, g);
+    el("rect", { x: 0, y: 0, width: I.w, height: I.h, class: "sea" }, svg);
+    const paths = {};
+    I.shapes.forEach(sh => { paths[sh.n] = el("path", { d: sh.d, class: `land t${sh.t}` }, svg); });
+    const cap = el("text", { x: 0, y: IH + 24, class: "cart-s", fill: "var(--ink)" }, g); cap.textContent = I.label;
+    if (I.box) {
+      const [bx0, by0, bx1, by1] = I.box;
+      el("rect", { x: bx0, y: by0, width: bx1 - bx0, height: by1 - by0, class: "zoombox" }, map);
+      el("line", { x1: IX - 6, y1: IY - 6, x2: bx1, y2: by1, stroke: "var(--claret)", "stroke-width": 1.5, "stroke-dasharray": "4 3" }, map);
+    }
+    return { I, svg, paths, scale: I.w / IW };
+  });
   el("rect", { x: 0, y: 0, width: M.w, height: M.h, class: "frame" }, map);
 
   const cityG = {};
   const LAB = { "New York": [16, -6, "start"], "Camden": [16, 26, "start"], "Philadelphia": [-16, -10, "end"], "Havana": [16, 4, "start"],
-    "Mexico City": [-16, 6, "end"], "San Juan": [16, -4, "start"], "Caracas": [16, 18, "start"], "Lima": [-16, 6, "end"],
+    "Mexico City": [-16, 6, "end"], "San Juan": [16, -4, "start"], "Caracas": [16, 0, "start"], "Bogotá": [-16, 0, "end"],
+    "Guayaquil": [-16, 2, "end"], "Lima": [-16, 4, "end"], "Arequipa": [-16, 22, "end"], "La Paz": [16, 10, "start"],
     "Santiago": [-16, 6, "end"], "Buenos Aires": [16, 8, "start"], "Rio de Janeiro": [16, 6, "start"], "Chicago": [-16, -4, "end"],
-    "London": [-16, -8, "end"], "Paris": [-16, 14, "end"], "Milan": [14, 20, "start"], "Berlin": [14, -6, "start"] };
-  function drawCity(parent, name, x, y, c, scale, inInset) {
+    "London": [-16, -8, "end"], "Paris": [-16, 14, "end"], "Madrid": [-16, 6, "end"], "Milan": [14, 20, "start"],
+    "Berlin": [14, -6, "start"], "St. Petersburg": [-16, 16, "end"] };
+  const INLAB = { "Philadelphia": [-34, -30, "start"], "Camden": [16, 26, "start"], "New York": [-16, -14, "end"], "Tokyo": [16, 0, "start"], "Osaka": [-16, 24, "end"] };
+  const pickCity = name => () => { st.city = st.city === name ? null : name; pickFirst(); render(); };
+  const tipCity = (name, c) => e => showTip(e, `<b>${esc(name)}</b>, ${esc(c.country)}<br>${c.count} recording${c.count > 1 ? "s" : ""}`);
+  function drawCity(parent, name, x, y, c, scale, lab) {
     const g = el("g", { class: "city", tabindex: 0, role: "button", "aria-label": `${name}, ${c.country}: ${c.count} recordings` }, parent);
     const r = (5 + Math.sqrt(c.count) * 3.4) * scale;
     el("circle", { cx: x, cy: y, r: r + 5 * scale, class: "ring" }, g);
     el("circle", { cx: x, cy: y, r: 5.5 * scale, class: "pin" }, g);
-    const [dx, dy, anc] = inInset ? ({ "Philadelphia": [-34, -30, "start"], "Camden": [16, 26, "start"], "New York": [-16, -14, "end"] }[name] || [14, 4, "start"]) : (LAB[name] || [14, 4, "start"]);
+    const [dx, dy, anc] = lab[name] || [14, 4, "start"];
     const t = el("text", { x: x + dx * scale, y: y + dy * scale, "text-anchor": anc, style: `font-size:${19 * scale}px` }, g); t.textContent = name;
     const t2 = el("text", { x: x + dx * scale, y: y + (dy + 17) * scale, "text-anchor": anc, class: "n", style: `font-size:${14 * scale}px` }, g); t2.textContent = `${c.count} disc${c.count > 1 ? "s" : ""}`;
-    press(g, () => { st.city = st.city === name ? null : name; pickFirst(); render(); });
-    g.addEventListener("mousemove", e => showTip(e, `<b>${esc(name)}</b>, ${esc(c.country)}<br>${c.count} recording${c.count > 1 ? "s" : ""}`)); g.addEventListener("mouseleave", hideTip);
+    press(g, pickCity(name)); g.addEventListener("mousemove", tipCity(name, c)); g.addEventListener("mouseleave", hideTip);
     (cityG[name] ||= []).push(g);
   }
-  for (const [n, c] of Object.entries(M.cities)) {
-    if (c.inset) drawCity(insSvg, n, c.ix, c.iy, c, M.inset.w / IW, true);
-    else drawCity(map, n, c.x, c.y, c, 1, false);
+  // a record that names only a country: highlight the whole country, never a point
+  function drawRegion(ins, name, c) {
+    const shape = ins.paths[c.shape];
+    const g = el("g", { class: "city region", tabindex: 0, role: "button", "aria-label": `${name}: ${c.count} recording${c.count > 1 ? "s" : ""}` }, ins.svg);
+    if (shape) { g.appendChild(shape); shape.classList.add("region-shape"); }
+    const sc = ins.scale, t = el("text", { x: c.ix, y: 30 * sc, "text-anchor": "middle", style: `font-size:${17 * sc}px` }, g); t.textContent = "Japan · city not recorded";
+    const t2 = el("text", { x: c.ix, y: 48 * sc, "text-anchor": "middle", class: "n", style: `font-size:${14 * sc}px` }, g); t2.textContent = `${c.count} disc${c.count > 1 ? "s" : ""} (country only)`;
+    press(g, pickCity(name)); g.addEventListener("mousemove", tipCity(name, c)); g.addEventListener("mouseleave", hideTip);
+    (cityG[name] ||= []).push(g);
   }
+  const entries = Object.entries(M.cities);
+  entries.filter(([, c]) => c.region).forEach(([n, c]) => drawRegion(insets[c.inset], n, c));
+  entries.filter(([, c]) => !c.region).forEach(([n, c]) => {
+    if (c.inset !== undefined) drawCity(insets[c.inset].svg, n, c.ix, c.iy, c, insets[c.inset].scale, INLAB);
+    else drawCity(map, n, c.x, c.y, c, 1, LAB);
+  });
 
   // ---------- timeline ----------
   const T = $("timeline"), TW = 1000, Y0 = 1900, Y1 = 1926, L = 24, R = 16;
@@ -408,7 +437,7 @@ section.about p { margin: 0; font-size: 0.93rem; }
       </div>
       <div class="card"><dl class="facts">
         <dt>Recorded</dt><dd>${s.date_year_only ? `${s.year} <span class="hint">(LoC gives the year only)</span>` : s.date}</dd>
-        <dt>Place</dt><dd>${esc(s.city)}, ${esc(s.country)}</dd>
+        <dt>Place</dt><dd>${s.region_only ? `${esc(s.country)} <span class="hint">(LoC names the country only)</span>` : `${esc(s.city)}, ${esc(s.country)}`}</dd>
         <dt>Disc</dt><dd>${esc(disc)} · matrix ${esc(s.matrix || "")} take ${esc(s.take || "")}</dd>
         <dt>Genre</dt><dd>${esc(s.genre_loc.join(" · ") || s.summary)}</dd>
         <dt>Scoring</dt><dd>${esc(s.summary || "")}</dd>

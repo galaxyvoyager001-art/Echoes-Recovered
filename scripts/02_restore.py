@@ -18,6 +18,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
 import subprocess
 import sys
 from concurrent.futures import ProcessPoolExecutor
@@ -126,7 +127,9 @@ def process(meta_path: Path, overrides: dict) -> dict:
     mp3(tmpwav, out / "ab_compare.mp3")
     tmpwav.unlink()
 
-    title = f"{meta['title']} - {name_case(meta['primary_performer'])} ({meta['recording_date']})"
+    # plot fonts have no CJK glyphs: drop a parenthesised CJK original title from figure titles only
+    plot_title = re.sub(r"\s*\([^)]*[\u3000-\u9fff][^)]*\)?", "", meta["title"]).strip()
+    title = f"{plot_title} - {name_case(meta['primary_performer'])} ({meta['recording_date']})"
     plots.waveform(x, y, sr, ex["click_regions"], title, out / "waveform.png")
     plots.spectrogram(x, y, sr, title, out / "spectrogram.jpg")
     plots.spectrum(x, y, sr, ex.get("eq_curve"), before["usable_band_hz"], title, out / "spectrum.png")

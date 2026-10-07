@@ -28,7 +28,7 @@ import urllib.request
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
-from restoration.places import CITIES, city_from_loc  # noqa: E402
+from restoration.places import city_from_loc, place  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[1]
 ORIG = ROOT / "data" / "originals"
@@ -164,7 +164,7 @@ def process(entry: dict) -> dict:
             downloads[key] = {"url": url, "file": str(p.relative_to(ROOT)), "bytes": p.stat().st_size, "sha256": sha256(p)}
 
     city = city_from_loc(it.get("location"))
-    country = CITIES[city]["country"] if city else None
+    country = place(city)["country"] if city else None
     meta = {
         "id": item_id,
         "slug": slug,
@@ -208,7 +208,7 @@ def process(entry: dict) -> dict:
                 "Required credit line: 'Library of Congress, National Jukebox.'",
             ] + ([f"Recorded in {city}, {country}, outside US jurisdiction, and issued on a US label ({catalog.get('label')} {catalog.get('catalog_number')}). "
                   "The US public-domain status above is the only status assessed here; rights in the country of recording were not separately assessed."]
-                 if city and not CITIES[city].get("us") else []),
+                 if city and not place(city).get("us") else []),
             "credit_line": "Library of Congress, National Jukebox.",
         },
         "downloads": downloads,
