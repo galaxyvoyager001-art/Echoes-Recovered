@@ -1,7 +1,7 @@
 {
  "articles_and_essays": [
   {
-   "score": 6.463626,
+   "score": 6.4462643,
    "title": "Songs by Irving Berlin | Playlist of Recordings | About this Collection | National Jukebox | Digital Collections",
    "url": "https://www.loc.gov/collections/national-jukebox/about-this-collection/playlists/songs-by-irving-berlin/"
   }
@@ -158,9 +158,9 @@
    }
   ],
   "location": [
-   "united states",
    "camden",
-   "new jersey"
+   "new jersey",
+   "united states"
   ],
   "locations": [
    {
@@ -233,7 +233,7 @@
    "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
   ],
   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
-  "score": 15.331501,
+  "score": 15.332874,
   "shard": "01",
   "shelf_id": "Victor 16908",
   "site": [
@@ -242,8 +242,8 @@
   "source_modified": "2000-01-01T12:00:00Z",
   "subject": [
    "vocal",
-   "popular music",
-   "victor"
+   "victor",
+   "popular music"
   ],
   "subject_category": [
    "vocal"
@@ -303,9 +303,9 @@
    "contributor": [
     "harlan, byron g.",
     "berlin, irving",
+    "levy, ted",
     "collins, arthur",
-    "collins and harlan",
-    "levy, ted"
+    "collins and harlan"
    ],
    "date": "1916-01-10",
    "dates": [
@@ -333,9 +333,9 @@
     "english"
    ],
    "location": [
-    "united states",
     "camden",
-    "new jersey"
+    "new jersey",
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -352,18 +352,18 @@
    ],
    "partof": [
     "recorded sound section, library of congress",
-    "national jukebox",
-    "recorded sound research center"
+    "recorded sound research center",
+    "national jukebox"
    ],
-   "score": 54.814964,
+   "score": 54.819817,
    "shelf_id": "Victor 17955",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
     "vocal",
-    "popular music",
-    "victor"
+    "victor",
+    "popular music"
    ],
    "timestamp": "2026-10-05T13:52:40.702Z",
    "title": "When you're down in Louisville (Call on me)",
@@ -384,10 +384,10 @@
    ],
    "campaigns": [],
    "contributor": [
-    "harlan, byron g.",
-    "collins, arthur",
     "berlin, irving",
-    "collins and harlan"
+    "harlan, byron g.",
+    "collins and harlan",
+    "collins, arthur"
    ],
    "date": "1911-11-22",
    "dates": [
@@ -415,9 +415,9 @@
     "english"
    ],
    "location": [
-    "united states",
     "camden",
-    "new jersey"
+    "new jersey",
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -434,18 +434,18 @@
    ],
    "partof": [
     "recorded sound section, library of congress",
-    "national jukebox",
-    "recorded sound research center"
+    "recorded sound research center",
+    "national jukebox"
    ],
-   "score": 54.814964,
+   "score": 54.819817,
    "shelf_id": "Victor 17020",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
     "vocal",
-    "popular music",
-    "victor"
+    "victor",
+    "popular music"
    ],
    "timestamp": "2026-10-05T13:43:43.496Z",
    "title": "Everybody's doing it now",
@@ -498,9 +498,9 @@
     "english"
    ],
    "location": [
-    "united states",
     "camden",
-    "new jersey"
+    "new jersey",
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -517,19 +517,19 @@
    ],
    "partof": [
     "recorded sound section, library of congress",
-    "national jukebox",
-    "recorded sound research center"
+    "recorded sound research center",
+    "national jukebox"
    ],
-   "score": 54.814964,
+   "score": 54.819817,
    "shelf_id": "Victor 17075",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
     "vocal",
-    "popular music",
+    "ethnic characterizations",
     "victor",
-    "ethnic characterizations"
+    "popular music"
    ],
    "timestamp": "2026-10-05T13:43:43.496Z",
    "title": "I want to be in Dixie",
@@ -550,10 +550,10 @@
    ],
    "campaigns": [],
    "contributor": [
-    "harlan, byron g.",
-    "collins, arthur",
     "berlin, irving",
-    "collins and harlan"
+    "harlan, byron g.",
+    "collins and harlan",
+    "collins, arthur"
    ],
    "date": "1913-11-19",
    "dates": [
@@ -581,9 +581,9 @@
     "english"
    ],
    "location": [
-    "united states",
     "camden",
-    "new jersey"
+    "new jersey",
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -600,19 +600,19 @@
    ],
    "partof": [
     "recorded sound section, library of congress",
-    "national jukebox",
-    "recorded sound research center"
+    "recorded sound research center",
+    "national jukebox"
    ],
-   "score": 54.814964,
+   "score": 54.819817,
    "shelf_id": "Victor 17527",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
     "vocal",
-    "popular music",
+    "ethnic characterizations",
     "victor",
-    "ethnic characterizations"
+    "popular music"
    ],
    "timestamp": "2026-10-05T13:47:28.843Z",
    "title": "Down in Chattanooga",
@@ -633,10 +633,10 @@
    ],
    "campaigns": [],
    "contributor": [
-    "harlan, byron g.",
-    "berlin, irving",
     "collins, arthur",
-    "collins and harlan"
+    "berlin, irving",
+    "collins and harlan",
+    "harlan, byron g."
    ],
    "date": "1910-02-12",
    "dates": [
@@ -664,9 +664,9 @@
     "english"
    ],
    "location": [
-    "united states",
     "camden",
-    "new jersey"
+    "new jersey",
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -683,18 +683,18 @@
    ],
    "partof": [
     "recorded sound section, library of congress",
-    "national jukebox",
-    "recorded sound research center"
+    "recorded sound research center",
+    "national jukebox"
    ],
-   "score": 54.814964,
+   "score": 54.819817,
    "shelf_id": "Victor 16472",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
     "vocal",
-    "popular music",
-    "victor"
+    "victor",
+    "popular music"
    ],
    "timestamp": "2026-10-05T13:41:11.673Z",
    "title": "That mesmerizing Mendelssohn tune",
@@ -715,10 +715,10 @@
    ],
    "campaigns": [],
    "contributor": [
-    "harlan, byron g.",
     "collins, arthur",
     "berlin, irving",
-    "collins and harlan"
+    "collins and harlan",
+    "harlan, byron g."
    ],
    "date": "1912-11-05",
    "dates": [
@@ -746,9 +746,9 @@
     "english"
    ],
    "location": [
-    "united states",
     "camden",
-    "new jersey"
+    "new jersey",
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -765,19 +765,19 @@
    ],
    "partof": [
     "recorded sound section, library of congress",
-    "national jukebox",
-    "recorded sound research center"
+    "recorded sound research center",
+    "national jukebox"
    ],
-   "score": 54.814964,
+   "score": 54.819817,
    "shelf_id": "Victor 17246",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
     "vocal",
-    "popular music",
+    "ethnic characterizations",
     "victor",
-    "ethnic characterizations"
+    "popular music"
    ],
    "timestamp": "2026-10-05T13:45:12.040Z",
    "title": "When the midnight choo-choo leaves for Alabam'",
@@ -840,7 +840,7 @@
   "display_level": null,
   "distance": null,
   "downloadOption": null,
-  "duration": 2.6510732173919678,
+  "duration": 0.5314099788665771,
   "embed": [],
   "embed!": [],
   "error_response_status": null,
@@ -999,7 +999,7 @@
   "suggested": null,
   "target": null,
   "template": "layouts/item/layout",
-  "timestamp": 1791308585.0133045,
+  "timestamp": 1791372963.7823522,
   "tz_aware": null,
   "unionFacets": "",
   "webcast_permalink": null
@@ -1050,9 +1050,9 @@
     "english"
    ],
    "location": [
-    "united states",
     "victor",
-    "iowa"
+    "iowa",
+    "united states"
    ],
    "mime_type": [
     "image/gif",
@@ -1060,9 +1060,9 @@
     "image/tif"
    ],
    "number": [
-    "http://www.loc.gov/item/17665053",
     "2013-04-03t08:58:59",
-    "2013645043"
+    "2013645043",
+    "http://www.loc.gov/item/17665053"
    ],
    "online_format": [
     "image"
@@ -1071,29 +1071,29 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "lot 14058",
-    "prints and photographs division",
-    "prints & photographs online catalog (library of congress)",
+    "catalog",
     "miscellaneous items in high demand",
-    "catalog"
+    "prints & photographs online catalog (library of congress)",
+    "prints and photographs division",
+    "lot 14058"
    ],
-   "score": 10.158577,
+   "score": 10.158625,
    "shelf_id": "LOT 14058, no. 123 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "photographic prints",
-    "photographic postcards",
     "victor (iowa)",
-    "united states",
-    "school children",
-    "schools",
-    "group portraits",
-    "panoramic postcards",
     "victor",
-    "iowa"
+    "panoramic postcards",
+    "school children",
+    "iowa",
+    "group portraits",
+    "united states",
+    "photographic postcards",
+    "schools",
+    "photographic prints"
    ],
    "timestamp": "2022-05-02T06:13:36.448Z",
    "title": "[Victor High School, Victor, Iowa]",
@@ -1144,8 +1144,8 @@
     "english"
    ],
    "location": [
-    "united states",
     "victor",
+    "united states",
     "colorado"
    ],
    "mime_type": [
@@ -1154,10 +1154,10 @@
     "image/tif"
    ],
    "number": [
-    "2017-10-30t13:04:57",
-    "2016808865",
     "http://www.loc.gov/item/det1994014825/pp",
     "http://www.loc.gov/item/2016808865",
+    "2017-10-30t13:04:57",
+    "2016808865",
     "http://www.loc.gov/item/20110612"
    ],
    "online_format": [
@@ -1167,23 +1167,23 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "prints and photographs division",
-    "prints & photographs online catalog (library of congress)",
-    "detroit publishing company",
+    "american memory",
     "catalog",
-    "american memory"
+    "detroit publishing company",
+    "prints & photographs online catalog (library of congress)",
+    "prints and photographs division"
    ],
-   "score": 10.158577,
+   "score": 10.158625,
    "shelf_id": "LC-D4-13841 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "united states",
-    "dry plate negatives",
-    "gold mining",
     "cityscape photographs",
+    "dry plate negatives",
+    "united states",
+    "gold mining",
     "colorado",
     "victor"
    ],
@@ -1234,9 +1234,9 @@
     "english"
    ],
    "location": [
-    "united states",
+    "montana",
     "victor",
-    "montana"
+    "united states"
    ],
    "mime_type": [
     "image/gif",
@@ -1244,10 +1244,10 @@
     "image/tif"
    ],
    "number": [
-    "sheet",
-    "2024689882",
     "http://www.loc.gov/item/23570952",
-    "2024-02-21t08:57:11"
+    "2024-02-21t08:57:11",
+    "sheet",
+    "2024689882"
    ],
    "online_format": [
     "image"
@@ -1256,22 +1256,22 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "prints and photographs division",
-    "catalog"
+    "catalog",
+    "prints and photographs division"
    ],
-   "score": 10.158577,
+   "score": 10.158625,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 1 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "photographs",
-    "united states",
     "streets",
-    "postcards",
+    "photographs",
+    "montana",
+    "united states",
     "victor",
-    "montana"
+    "postcards"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "Main Street, Victor, Montana",
@@ -1323,9 +1323,9 @@
     "english"
    ],
    "location": [
-    "united states",
+    "montana",
     "victor",
-    "montana"
+    "united states"
    ],
    "mime_type": [
     "image/gif",
@@ -1333,9 +1333,9 @@
     "image/tif"
    ],
    "number": [
-    "sheet",
     "2024689883",
     "http://www.loc.gov/item/23570953",
+    "sheet",
     "2024-02-21t08:57:12"
    ],
    "online_format": [
@@ -1345,10 +1345,10 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "prints and photographs division",
-    "catalog"
+    "catalog",
+    "prints and photographs division"
    ],
-   "score": 10.158577,
+   "score": 10.158625,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 2 [P&P]",
    "site": [
     "pictures",
@@ -1356,10 +1356,10 @@
    ],
    "subject": [
     "photographs",
+    "montana",
     "united states",
-    "postcards",
     "victor",
-    "montana"
+    "postcards"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "The snow-capped peak of St. Mory's, Victor, Montana",
@@ -1411,9 +1411,9 @@
     "english"
    ],
    "location": [
-    "united states",
+    "montana",
     "victor",
-    "montana"
+    "united states"
    ],
    "mime_type": [
     "image/gif",
@@ -1421,10 +1421,10 @@
     "image/tif"
    ],
    "number": [
-    "sheet",
-    "2024689884",
     "http://www.loc.gov/item/23570954",
-    "2024-02-21t08:57:12"
+    "sheet",
+    "2024-02-21t08:57:12",
+    "2024689884"
    ],
    "online_format": [
     "image"
@@ -1433,10 +1433,10 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "prints and photographs division",
-    "catalog"
+    "catalog",
+    "prints and photographs division"
    ],
-   "score": 10.158577,
+   "score": 10.158625,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 3 [P&P]",
    "site": [
     "pictures",
@@ -1444,11 +1444,11 @@
    ],
    "subject": [
     "photographs",
+    "montana",
     "united states",
     "houses",
-    "postcards",
     "victor",
-    "montana"
+    "postcards"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "A Bitter Root home, Victor, Montana",
@@ -1500,9 +1500,9 @@
     "english"
    ],
    "location": [
-    "united states",
+    "montana",
     "victor",
-    "montana"
+    "united states"
    ],
    "mime_type": [
     "image/gif",
@@ -1510,10 +1510,10 @@
     "image/tif"
    ],
    "number": [
+    "2024-02-21t08:57:13",
     "sheet",
-    "http://www.loc.gov/item/23570955",
     "2024689885",
-    "2024-02-21t08:57:13"
+    "http://www.loc.gov/item/23570955"
    ],
    "online_format": [
     "image"
@@ -1522,22 +1522,22 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "prints and photographs division",
-    "catalog"
+    "catalog",
+    "prints and photographs division"
    ],
-   "score": 10.158577,
+   "score": 10.158625,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 4 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "photographs",
-    "united states",
-    "postcards",
-    "schools",
     "victor",
-    "montana"
+    "photographs",
+    "montana",
+    "united states",
+    "schools",
+    "postcards"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "School house, Victor, Mont.",
@@ -1630,5 +1630,5 @@
    "url": "https://www.loc.gov/resource/jukebox-130333.1"
   }
  ],
- "timestamp": 1791308587664
+ "timestamp": 1791372964314
 }

@@ -1,7 +1,7 @@
 {
  "articles_and_essays": [
   {
-   "score": 6.7902555,
+   "score": 6.809562,
    "title": "The Painful Birth of Blues and Jazz",
    "url": "https://blogs.loc.gov/folklife/2017/02/birth-of-blues-and-jazz/"
   }
@@ -147,8 +147,8 @@
   ],
   "location": [
    "camden",
-   "united states",
-   "new jersey"
+   "new jersey",
+   "united states"
   ],
   "locations": [
    {
@@ -221,7 +221,7 @@
    "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
   ],
   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
-  "score": 15.331501,
+  "score": 15.332874,
   "shard": "01",
   "shelf_id": "Victor 17657",
   "site": [
@@ -229,8 +229,8 @@
   ],
   "source_modified": "2000-01-01T12:00:00Z",
   "subject": [
-   "ragtime, jazz, and more",
    "victor",
+   "ragtime, jazz, and more",
    "vocal",
    "blues"
   ],
@@ -298,8 +298,8 @@
    "campaigns": [],
    "contributor": [
     "victor military band",
-    "handy, w. c.",
-    "king, edward t."
+    "king, edward t.",
+    "handy, w. c."
    ],
    "date": "1916-10-19",
    "dates": [
@@ -325,8 +325,8 @@
    "index": 1,
    "location": [
     "camden",
-    "united states",
-    "new jersey"
+    "new jersey",
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -347,17 +347,17 @@
    ],
    "partof": [
     "recorded sound section, library of congress",
-    "recorded sound research center",
-    "national jukebox"
+    "national jukebox",
+    "recorded sound research center"
    ],
-   "score": 44.1425,
+   "score": 44.14651,
    "shelf_id": "Victor 18174",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "ragtime, jazz, and more",
     "victor",
+    "ragtime, jazz, and more",
     "instrumental",
     "blues"
    ],
@@ -380,10 +380,10 @@
    ],
    "campaigns": [],
    "contributor": [
+    "cupero, e. v.",
     "victor military band",
-    "handy, w. c.",
     "king, edward t.",
-    "cupero, e. v."
+    "handy, w. c."
    ],
    "date": "1914-07-15",
    "dates": [
@@ -409,8 +409,8 @@
    "index": 2,
    "location": [
     "camden",
-    "united states",
-    "new jersey"
+    "new jersey",
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -430,17 +430,17 @@
    ],
    "partof": [
     "recorded sound section, library of congress",
-    "recorded sound research center",
-    "national jukebox"
+    "national jukebox",
+    "recorded sound research center"
    ],
-   "score": 44.1425,
+   "score": 44.14651,
    "shelf_id": "Victor 17619",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "ragtime, jazz, and more",
     "victor",
+    "ragtime, jazz, and more",
     "instrumental",
     "blues"
    ],
@@ -463,10 +463,10 @@
    ],
    "campaigns": [],
    "contributor": [
-    "layton, turner",
     "creamer, henry",
     "harris, marion",
-    "pasternack, josef"
+    "pasternack, josef",
+    "layton, turner"
    ],
    "date": "1917-12-06",
    "dates": [
@@ -495,8 +495,8 @@
    ],
    "location": [
     "camden",
-    "united states",
-    "new jersey"
+    "new jersey",
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -513,17 +513,17 @@
    ],
    "partof": [
     "recorded sound section, library of congress",
-    "recorded sound research center",
-    "national jukebox"
+    "national jukebox",
+    "recorded sound research center"
    ],
-   "score": 41.19102,
+   "score": 41.195934,
    "shelf_id": "Victor 18443",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "ragtime, jazz, and more",
     "victor",
+    "ragtime, jazz, and more",
     "vocal",
     "blues"
    ],
@@ -546,11 +546,11 @@
    ],
    "campaigns": [],
    "contributor": [
-    "smalle, ed",
-    "murray, billy",
     "sterling, andrew b.",
-    "pasternack, josef",
-    "von tilzer, harry"
+    "smalle, ed",
+    "von tilzer, harry",
+    "murray, billy",
+    "pasternack, josef"
    ],
    "date": "1919-06-19",
    "dates": [
@@ -579,8 +579,8 @@
    ],
    "location": [
     "camden",
-    "united states",
-    "new jersey"
+    "new jersey",
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -597,20 +597,20 @@
    ],
    "partof": [
     "recorded sound section, library of congress",
-    "recorded sound research center",
-    "national jukebox"
+    "national jukebox",
+    "recorded sound research center"
    ],
-   "score": 41.19102,
+   "score": 41.195934,
    "shelf_id": "Victor 18593",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
+    "ragtime, jazz, and more",
+    "humorous songs",
     "vocal",
     "blues",
-    "victor",
-    "ragtime, jazz, and more",
-    "humorous songs"
+    "victor"
    ],
    "timestamp": "2026-10-05T14:13:57.371Z",
    "title": "I ain't 'en got 'en no time to have the blues",
@@ -631,11 +631,11 @@
    ],
    "campaigns": [],
    "contributor": [
-    "morgan, carey",
-    "swanstrom, arthur",
     "mccarron, chas. r.",
-    "pasternack, josef",
-    "walker, esther"
+    "swanstrom, arthur",
+    "walker, esther",
+    "morgan, carey",
+    "pasternack, josef"
    ],
    "date": "1919-09-26",
    "dates": [
@@ -664,8 +664,8 @@
    ],
    "location": [
     "camden",
-    "united states",
-    "new jersey"
+    "new jersey",
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -682,17 +682,17 @@
    ],
    "partof": [
     "recorded sound section, library of congress",
-    "recorded sound research center",
-    "national jukebox"
+    "national jukebox",
+    "recorded sound research center"
    ],
-   "score": 41.19102,
+   "score": 41.195934,
    "shelf_id": "Victor 18619",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "ragtime, jazz, and more",
     "victor",
+    "ragtime, jazz, and more",
     "vocal",
     "blues"
    ],
@@ -715,10 +715,10 @@
    ],
    "campaigns": [],
    "contributor": [
-    "joseph c. smith's orchestra",
     "raderman, harry",
-    "handy, w. c.",
-    "smith, joseph c."
+    "joseph c. smith's orchestra",
+    "smith, joseph c.",
+    "handy, w. c."
    ],
    "date": "1919-10-01",
    "dates": [
@@ -743,8 +743,8 @@
    ],
    "index": 6,
    "location": [
-    "new york",
-    "united states"
+    "united states",
+    "new york"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -765,20 +765,20 @@
    ],
    "partof": [
     "recorded sound section, library of congress",
-    "recorded sound research center",
-    "national jukebox"
+    "national jukebox",
+    "recorded sound research center"
    ],
-   "score": 37.88518,
+   "score": 37.888374,
    "shelf_id": "Victor 18618",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "blues",
-    "victor",
-    "instrumental",
     "ragtime, jazz, and more",
-    "humorous songs"
+    "humorous songs",
+    "instrumental",
+    "blues",
+    "victor"
    ],
    "timestamp": "2026-10-05T14:15:01.733Z",
    "title": "Yellow Dog blues",
@@ -841,7 +841,7 @@
   "display_level": null,
   "distance": null,
   "downloadOption": null,
-  "duration": 2.6756982803344727,
+  "duration": 1.6193132400512695,
   "embed": [],
   "embed!": [],
   "error_response_status": null,
@@ -1000,7 +1000,7 @@
   "suggested": null,
   "target": null,
   "template": "layouts/item/layout",
-  "timestamp": 1791308759.0651069,
+  "timestamp": 1791372994.8835382,
   "tz_aware": null,
   "unionFacets": "",
   "webcast_permalink": null
@@ -1051,9 +1051,9 @@
     "english"
    ],
    "location": [
-    "iowa",
     "victor",
-    "united states"
+    "united states",
+    "iowa"
    ],
    "mime_type": [
     "image/gif",
@@ -1061,8 +1061,8 @@
     "image/tif"
    ],
    "number": [
-    "2013-04-03t08:58:59",
     "2013645043",
+    "2013-04-03t08:58:59",
     "http://www.loc.gov/item/17665053"
    ],
    "online_format": [
@@ -1072,29 +1072,29 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "lot 14058",
+    "prints & photographs online catalog (library of congress)",
     "prints and photographs division",
-    "catalog",
     "miscellaneous items in high demand",
-    "prints & photographs online catalog (library of congress)"
+    "lot 14058",
+    "catalog"
    ],
-   "score": 10.158577,
+   "score": 10.158625,
    "shelf_id": "LOT 14058, no. 123 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "iowa",
-    "school children",
-    "photographic postcards",
-    "united states",
-    "victor (iowa)",
-    "group portraits",
     "schools",
+    "school children",
+    "victor (iowa)",
+    "iowa",
+    "photographic postcards",
     "victor",
+    "group portraits",
+    "panoramic postcards",
     "photographic prints",
-    "panoramic postcards"
+    "united states"
    ],
    "timestamp": "2022-05-02T06:13:36.448Z",
    "title": "[Victor High School, Victor, Iowa]",
@@ -1112,8 +1112,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "detroit publishing co.",
-    "jackson, william henry"
+    "jackson, william henry",
+    "detroit publishing co."
    ],
    "date": "1900-01-01",
    "dates": [
@@ -1145,9 +1145,9 @@
     "english"
    ],
    "location": [
-    "colorado",
     "victor",
-    "united states"
+    "united states",
+    "colorado"
    ],
    "mime_type": [
     "image/gif",
@@ -1155,11 +1155,11 @@
     "image/tif"
    ],
    "number": [
-    "http://www.loc.gov/item/20110612",
-    "http://www.loc.gov/item/det1994014825/pp",
-    "2016808865",
     "http://www.loc.gov/item/2016808865",
-    "2017-10-30t13:04:57"
+    "http://www.loc.gov/item/det1994014825/pp",
+    "2017-10-30t13:04:57",
+    "2016808865",
+    "http://www.loc.gov/item/20110612"
    ],
    "online_format": [
     "image"
@@ -1168,25 +1168,25 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "prints and photographs division",
     "american memory",
-    "catalog",
+    "prints & photographs online catalog (library of congress)",
+    "prints and photographs division",
     "detroit publishing company",
-    "prints & photographs online catalog (library of congress)"
+    "catalog"
    ],
-   "score": 10.158577,
+   "score": 10.158625,
    "shelf_id": "LC-D4-13841 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "united states",
     "colorado",
-    "dry plate negatives",
-    "gold mining",
     "victor",
-    "cityscape photographs"
+    "cityscape photographs",
+    "united states",
+    "gold mining",
+    "dry plate negatives"
    ],
    "timestamp": "2022-04-25T08:19:00.040Z",
    "title": "Victor, Colo., and the Gold Coin Mine",
@@ -1236,8 +1236,8 @@
    ],
    "location": [
     "victor",
-    "montana",
-    "united states"
+    "united states",
+    "montana"
    ],
    "mime_type": [
     "image/gif",
@@ -1245,8 +1245,8 @@
     "image/tif"
    ],
    "number": [
-    "2024-02-21t08:57:11",
     "http://www.loc.gov/item/23570952",
+    "2024-02-21t08:57:11",
     "sheet",
     "2024689882"
    ],
@@ -1260,19 +1260,19 @@
     "prints and photographs division",
     "catalog"
    ],
-   "score": 10.158577,
+   "score": 10.158625,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 1 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "united states",
     "postcards",
-    "montana",
     "streets",
+    "photographs",
+    "montana",
     "victor",
-    "photographs"
+    "united states"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "Main Street, Victor, Montana",
@@ -1325,8 +1325,8 @@
    ],
    "location": [
     "victor",
-    "montana",
-    "united states"
+    "united states",
+    "montana"
    ],
    "mime_type": [
     "image/gif",
@@ -1334,10 +1334,10 @@
     "image/tif"
    ],
    "number": [
-    "2024689883",
-    "http://www.loc.gov/item/23570953",
     "2024-02-21t08:57:12",
-    "sheet"
+    "sheet",
+    "http://www.loc.gov/item/23570953",
+    "2024689883"
    ],
    "online_format": [
     "image"
@@ -1349,7 +1349,7 @@
     "prints and photographs division",
     "catalog"
    ],
-   "score": 10.158577,
+   "score": 10.158625,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 2 [P&P]",
    "site": [
     "pictures",
@@ -1357,10 +1357,10 @@
    ],
    "subject": [
     "postcards",
-    "united states",
+    "photographs",
     "montana",
     "victor",
-    "photographs"
+    "united states"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "The snow-capped peak of St. Mory's, Victor, Montana",
@@ -1413,8 +1413,8 @@
    ],
    "location": [
     "victor",
-    "montana",
-    "united states"
+    "united states",
+    "montana"
    ],
    "mime_type": [
     "image/gif",
@@ -1422,10 +1422,10 @@
     "image/tif"
    ],
    "number": [
-    "2024-02-21t08:57:12",
-    "sheet",
     "http://www.loc.gov/item/23570954",
-    "2024689884"
+    "2024689884",
+    "2024-02-21t08:57:12",
+    "sheet"
    ],
    "online_format": [
     "image"
@@ -1437,19 +1437,19 @@
     "prints and photographs division",
     "catalog"
    ],
-   "score": 10.158577,
+   "score": 10.158625,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 3 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "united states",
-    "postcards",
     "houses",
+    "postcards",
+    "photographs",
     "montana",
     "victor",
-    "photographs"
+    "united states"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "A Bitter Root home, Victor, Montana",
@@ -1502,8 +1502,8 @@
    ],
    "location": [
     "victor",
-    "montana",
-    "united states"
+    "united states",
+    "montana"
    ],
    "mime_type": [
     "image/gif",
@@ -1511,9 +1511,9 @@
     "image/tif"
    ],
    "number": [
-    "http://www.loc.gov/item/23570955",
     "2024-02-21t08:57:13",
     "sheet",
+    "http://www.loc.gov/item/23570955",
     "2024689885"
    ],
    "online_format": [
@@ -1526,19 +1526,19 @@
     "prints and photographs division",
     "catalog"
    ],
-   "score": 10.158577,
+   "score": 10.158625,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 4 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "united states",
     "postcards",
     "schools",
+    "photographs",
     "montana",
     "victor",
-    "photographs"
+    "united states"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "School house, Victor, Mont.",
@@ -1631,5 +1631,5 @@
    "url": "https://www.loc.gov/resource/jukebox-11226.1"
   }
  ],
- "timestamp": 1791308761741
+ "timestamp": 1791372996503
 }

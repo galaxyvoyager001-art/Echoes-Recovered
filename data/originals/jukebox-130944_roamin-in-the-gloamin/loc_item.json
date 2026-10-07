@@ -143,8 +143,8 @@
    }
   ],
   "location": [
-   "new york",
-   "united states"
+   "united states",
+   "new york"
   ],
   "locations": [
    {
@@ -214,7 +214,7 @@
    "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
   ],
   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
-  "score": 15.5938225,
+  "score": 15.595194,
   "shard": "01",
   "shelf_id": "Victor 55129",
   "site": [
@@ -222,11 +222,11 @@
   ],
   "source_modified": "2000-01-01T12:00:00Z",
   "subject": [
+   "ethnic music",
    "monologues, dialogues, and recitations",
-   "victor",
-   "descriptive specialties",
    "vocal",
-   "ethnic music"
+   "victor",
+   "descriptive specialties"
   ],
   "subject_category": [
    "vocal"
@@ -298,8 +298,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "lauder, harry",
-    "quintrell, fred"
+    "quintrell, fred",
+    "lauder, harry"
    ],
    "date": "1911-10-18",
    "dates": [
@@ -326,8 +326,8 @@
     "english"
    ],
    "location": [
-    "new york",
-    "united states"
+    "united states",
+    "new york"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -342,21 +342,21 @@
     "sound recording"
    ],
    "partof": [
-    "department of special collections, davidson library, university of california, santa barbara",
     "recorded sound research center",
-    "national jukebox"
+    "national jukebox",
+    "department of special collections, davidson library, university of california, santa barbara"
    ],
-   "score": 52.478687,
+   "score": 52.480988,
    "shelf_id": "Victor 70061",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
+    "ethnic music",
     "monologues, dialogues, and recitations",
-    "victor",
-    "descriptive specialties",
     "vocal",
-    "ethnic music"
+    "victor",
+    "descriptive specialties"
    ],
    "timestamp": "2026-10-05T14:10:57.401Z",
    "title": "Roamin' in the gloamin '",
@@ -376,10 +376,10 @@
    ],
    "campaigns": [],
    "contributor": [
-    "minciotti, silvio",
-    "silvio minciotti e compagnia",
     "king, edward t.",
-    "king's band"
+    "king's band",
+    "minciotti, silvio",
+    "silvio minciotti e compagnia"
    ],
    "date": "1916-09-07",
    "dates": [
@@ -407,8 +407,8 @@
     "italian"
    ],
    "location": [
-    "new york",
-    "united states"
+    "united states",
+    "new york"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -431,18 +431,18 @@
     "recorded sound research center",
     "national jukebox"
    ],
-   "score": 38.91209,
+   "score": 38.914833,
    "shelf_id": "Victor 69066",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "spoken",
-    "monologues, dialogues, and recitations",
-    "victor",
-    "descriptive specialties",
     "ethnic music",
-    "italian"
+    "descriptive specialties",
+    "victor",
+    "italian",
+    "monologues, dialogues, and recitations",
+    "spoken"
    ],
    "timestamp": "2026-10-05T14:00:52.153Z",
    "title": "Dopo la guerra",
@@ -462,8 +462,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "silvio minciotti e compagnia",
-    "minciotti, silvio"
+    "minciotti, silvio",
+    "silvio minciotti e compagnia"
    ],
    "date": "1916-09-22",
    "dates": [
@@ -491,8 +491,8 @@
     "italian"
    ],
    "location": [
-    "new york",
-    "united states"
+    "united states",
+    "new york"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -515,18 +515,18 @@
     "recorded sound research center",
     "national jukebox"
    ],
-   "score": 38.91209,
+   "score": 38.914833,
    "shelf_id": "Victor 69066",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "spoken",
-    "monologues, dialogues, and recitations",
-    "victor",
-    "descriptive specialties",
     "ethnic music",
-    "italian"
+    "descriptive specialties",
+    "victor",
+    "italian",
+    "monologues, dialogues, and recitations",
+    "spoken"
    ],
    "timestamp": "2026-10-05T14:03:24.569Z",
    "title": "I soldati mandolinisti",
@@ -547,8 +547,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "lauder, harry",
-    "quintrell, fred"
+    "quintrell, fred",
+    "lauder, harry"
    ],
    "date": "1911-10-18",
    "dates": [
@@ -574,8 +574,8 @@
     "english"
    ],
    "location": [
-    "new york",
-    "united states"
+    "united states",
+    "new york"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -593,20 +593,20 @@
     "Scotch song"
    ],
    "partof": [
-    "department of special collections, davidson library, university of california, santa barbara",
     "recorded sound research center",
-    "national jukebox"
+    "national jukebox",
+    "department of special collections, davidson library, university of california, santa barbara"
    ],
-   "score": 38.17315,
+   "score": 38.174824,
    "shelf_id": "Victor 60105",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
     "victor",
-    "vocal",
+    "ethnic music",
     "humorous songs",
-    "ethnic music"
+    "vocal"
    ],
    "timestamp": "2026-10-05T13:43:23.063Z",
    "title": "Roamin' in the gloamin'",
@@ -627,8 +627,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "lauder, harry",
-    "hannaway, michael"
+    "hannaway, michael",
+    "lauder, harry"
    ],
    "date": "1910-02-25",
    "dates": [
@@ -655,8 +655,8 @@
     "english"
    ],
    "location": [
-    "new york",
-    "united states"
+    "united states",
+    "new york"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -674,21 +674,21 @@
     "Scotch specialty"
    ],
    "partof": [
-    "department of special collections, davidson library, university of california, santa barbara",
     "recorded sound research center",
-    "national jukebox"
+    "national jukebox",
+    "department of special collections, davidson library, university of california, santa barbara"
    ],
-   "score": 37.755184,
+   "score": 37.75765,
    "shelf_id": "Victor 70018",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "victor",
-    "descriptive specialties",
-    "vocal",
+    "ethnic music",
     "humorous songs",
-    "ethnic music"
+    "vocal",
+    "victor",
+    "descriptive specialties"
    ],
    "timestamp": "2026-10-05T13:41:11.673Z",
    "title": "The Blarney Stone",
@@ -709,9 +709,9 @@
    ],
    "campaigns": [],
    "contributor": [
-    "lauder, harry",
     "quintrell, fred",
-    "grafton, gerald"
+    "grafton, gerald",
+    "lauder, harry"
    ],
    "date": "1911-10-18",
    "dates": [
@@ -738,8 +738,8 @@
     "english"
    ],
    "location": [
-    "camden",
     "new jersey",
+    "camden",
     "united states"
    ],
    "mime_type": [
@@ -758,19 +758,19 @@
     "A wee deoch-an-doris"
    ],
    "partof": [
-    "department of special collections, davidson library, university of california, santa barbara",
     "recorded sound research center",
-    "national jukebox"
+    "national jukebox",
+    "department of special collections, davidson library, university of california, santa barbara"
    ],
-   "score": 36.118015,
+   "score": 36.12086,
    "shelf_id": "Victor 70062",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
     "victor",
-    "vocal",
-    "ethnic music"
+    "ethnic music",
+    "vocal"
    ],
    "timestamp": "2026-10-05T13:43:23.063Z",
    "title": "A wee deoch an' doris",
@@ -833,7 +833,7 @@
   "display_level": null,
   "distance": null,
   "downloadOption": null,
-  "duration": 1.8023593425750732,
+  "duration": 0.9161176681518555,
   "embed": [],
   "embed!": [],
   "error_response_status": null,
@@ -992,7 +992,7 @@
   "suggested": null,
   "target": null,
   "template": "layouts/item/layout",
-  "timestamp": 1791308680.0398672,
+  "timestamp": 1791372975.9308486,
   "tz_aware": null,
   "unionFacets": "",
   "webcast_permalink": null
@@ -1043,9 +1043,9 @@
     "english"
    ],
    "location": [
-    "united states",
     "iowa",
-    "victor"
+    "victor",
+    "united states"
    ],
    "mime_type": [
     "image/gif",
@@ -1053,9 +1053,9 @@
     "image/tif"
    ],
    "number": [
-    "2013645043",
+    "2013-04-03t08:58:59",
     "http://www.loc.gov/item/17665053",
-    "2013-04-03t08:58:59"
+    "2013645043"
    ],
    "online_format": [
     "image"
@@ -1066,27 +1066,27 @@
    "partof": [
     "prints and photographs division",
     "miscellaneous items in high demand",
-    "lot 14058",
     "catalog",
-    "prints & photographs online catalog (library of congress)"
+    "prints & photographs online catalog (library of congress)",
+    "lot 14058"
    ],
-   "score": 10.158577,
+   "score": 10.158625,
    "shelf_id": "LOT 14058, no. 123 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "group portraits",
+    "victor (iowa)",
     "iowa",
-    "photographic postcards",
-    "victor",
     "panoramic postcards",
     "photographic prints",
     "united states",
+    "photographic postcards",
     "schools",
     "school children",
-    "victor (iowa)"
+    "group portraits",
+    "victor"
    ],
    "timestamp": "2022-05-02T06:13:36.448Z",
    "title": "[Victor High School, Victor, Iowa]",
@@ -1137,9 +1137,9 @@
     "english"
    ],
    "location": [
-    "colorado",
+    "victor",
     "united states",
-    "victor"
+    "colorado"
    ],
    "mime_type": [
     "image/gif",
@@ -1147,11 +1147,11 @@
     "image/tif"
    ],
    "number": [
-    "2016808865",
-    "http://www.loc.gov/item/2016808865",
     "http://www.loc.gov/item/20110612",
+    "http://www.loc.gov/item/2016808865",
     "http://www.loc.gov/item/det1994014825/pp",
-    "2017-10-30t13:04:57"
+    "2017-10-30t13:04:57",
+    "2016808865"
    ],
    "online_format": [
     "image"
@@ -1160,13 +1160,13 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "detroit publishing company",
     "prints and photographs division",
     "american memory",
     "catalog",
-    "prints & photographs online catalog (library of congress)"
+    "prints & photographs online catalog (library of congress)",
+    "detroit publishing company"
    ],
-   "score": 10.158577,
+   "score": 10.158625,
    "shelf_id": "LC-D4-13841 [P&P]",
    "site": [
     "pictures",
@@ -1174,11 +1174,11 @@
    ],
    "subject": [
     "victor",
-    "cityscape photographs",
-    "colorado",
+    "gold mining",
     "united states",
+    "colorado",
     "dry plate negatives",
-    "gold mining"
+    "cityscape photographs"
    ],
    "timestamp": "2022-04-25T08:19:00.040Z",
    "title": "Victor, Colo., and the Gold Coin Mine",
@@ -1228,8 +1228,8 @@
    ],
    "location": [
     "montana",
-    "united states",
-    "victor"
+    "victor",
+    "united states"
    ],
    "mime_type": [
     "image/gif",
@@ -1237,8 +1237,8 @@
     "image/tif"
    ],
    "number": [
-    "http://www.loc.gov/item/23570952",
     "2024689882",
+    "http://www.loc.gov/item/23570952",
     "sheet",
     "2024-02-21t08:57:11"
    ],
@@ -1252,19 +1252,19 @@
     "catalog",
     "prints and photographs division"
    ],
-   "score": 10.158577,
+   "score": 10.158625,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 1 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "victor",
-    "photographs",
-    "montana",
-    "postcards",
     "streets",
-    "united states"
+    "united states",
+    "montana",
+    "photographs",
+    "postcards",
+    "victor"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "Main Street, Victor, Montana",
@@ -1317,8 +1317,8 @@
    ],
    "location": [
     "montana",
-    "united states",
-    "victor"
+    "victor",
+    "united states"
    ],
    "mime_type": [
     "image/gif",
@@ -1327,8 +1327,8 @@
    ],
    "number": [
     "2024-02-21t08:57:12",
-    "sheet",
     "2024689883",
+    "sheet",
     "http://www.loc.gov/item/23570953"
    ],
    "online_format": [
@@ -1341,18 +1341,18 @@
     "catalog",
     "prints and photographs division"
    ],
-   "score": 10.158577,
+   "score": 10.158625,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 2 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "victor",
-    "photographs",
+    "united states",
     "montana",
+    "photographs",
     "postcards",
-    "united states"
+    "victor"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "The snow-capped peak of St. Mory's, Victor, Montana",
@@ -1405,8 +1405,8 @@
    ],
    "location": [
     "montana",
-    "united states",
-    "victor"
+    "victor",
+    "united states"
    ],
    "mime_type": [
     "image/gif",
@@ -1416,8 +1416,8 @@
    "number": [
     "2024689884",
     "2024-02-21t08:57:12",
-    "sheet",
-    "http://www.loc.gov/item/23570954"
+    "http://www.loc.gov/item/23570954",
+    "sheet"
    ],
    "online_format": [
     "image"
@@ -1429,19 +1429,19 @@
     "catalog",
     "prints and photographs division"
    ],
-   "score": 10.158577,
+   "score": 10.158625,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 3 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "victor",
-    "photographs",
-    "montana",
-    "postcards",
+    "united states",
     "houses",
-    "united states"
+    "montana",
+    "photographs",
+    "postcards",
+    "victor"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "A Bitter Root home, Victor, Montana",
@@ -1494,8 +1494,8 @@
    ],
    "location": [
     "montana",
-    "united states",
-    "victor"
+    "victor",
+    "united states"
    ],
    "mime_type": [
     "image/gif",
@@ -1503,10 +1503,10 @@
     "image/tif"
    ],
    "number": [
-    "2024689885",
-    "sheet",
     "http://www.loc.gov/item/23570955",
-    "2024-02-21t08:57:13"
+    "sheet",
+    "2024-02-21t08:57:13",
+    "2024689885"
    ],
    "online_format": [
     "image"
@@ -1518,19 +1518,19 @@
     "catalog",
     "prints and photographs division"
    ],
-   "score": 10.158577,
+   "score": 10.158625,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 4 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "victor",
-    "photographs",
-    "montana",
-    "postcards",
     "united states",
-    "schools"
+    "montana",
+    "schools",
+    "photographs",
+    "postcards",
+    "victor"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "School house, Victor, Mont.",
@@ -1623,5 +1623,5 @@
    "url": "https://www.loc.gov/resource/jukebox-130944.1"
   }
  ],
- "timestamp": 1791308681842
+ "timestamp": 1791372976847
 }

@@ -1,7 +1,7 @@
 {
  "articles_and_essays": [
   {
-   "score": 6.9215164,
+   "score": 6.941004,
    "title": "They Start the Victrola and Go Dancing Around",
    "url": "https://blogs.loc.gov/now-see-hear/2022/06/they-start-the-victrola-and-go-dancing-around/"
   }
@@ -129,8 +129,8 @@
    "summary": "Orchestra"
   },
   "location": [
-   "new york",
-   "united states"
+   "united states",
+   "new york"
   ],
   "locations": [
    {
@@ -200,7 +200,7 @@
    "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
   ],
   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
-  "score": 15.331501,
+  "score": 15.332874,
   "shard": "01",
   "shelf_id": "Victor 17553",
   "site": [
@@ -256,9 +256,9 @@
    ],
    "campaigns": [],
    "contributor": [
+    "macklin, cecil",
     "europe's society orchestra",
-    "europe, james reese",
-    "macklin, cecil"
+    "europe, james reese"
    ],
    "date": "1913-12-29",
    "dates": [
@@ -283,8 +283,8 @@
    ],
    "index": 1,
    "location": [
-    "new york",
-    "united states"
+    "united states",
+    "new york"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -305,18 +305,18 @@
    ],
    "partof": [
     "recorded sound research center",
-    "national jukebox",
-    "recorded sound section, library of congress"
+    "recorded sound section, library of congress",
+    "national jukebox"
    ],
-   "score": 39.167667,
+   "score": 39.16868,
    "shelf_id": "Victor 35359",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
     "popular music",
-    "instrumental",
-    "victor"
+    "victor",
+    "instrumental"
    ],
    "timestamp": "2026-10-05T13:47:28.843Z",
    "title": "Too much mustard",
@@ -337,9 +337,9 @@
    ],
    "campaigns": [],
    "contributor": [
+    "europe, james reese",
     "europe's society orchestra",
-    "storoni, juca",
-    "europe, james reese"
+    "storoni, juca"
    ],
    "date": "1913-12-29",
    "dates": [
@@ -364,8 +364,8 @@
    ],
    "index": 2,
    "location": [
-    "new york",
-    "united states"
+    "united states",
+    "new york"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -385,18 +385,18 @@
    ],
    "partof": [
     "recorded sound research center",
-    "national jukebox",
-    "recorded sound section, library of congress"
+    "recorded sound section, library of congress",
+    "national jukebox"
    ],
-   "score": 39.167667,
+   "score": 39.16868,
    "shelf_id": "Victor 35360",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
+    "ethnic music",
     "victor",
-    "instrumental",
-    "ethnic music"
+    "instrumental"
    ],
    "timestamp": "2026-10-05T13:47:28.843Z",
    "title": "Amapa",
@@ -417,8 +417,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "europe's society orchestra",
     "europe, james reese",
+    "europe's society orchestra",
     "logatti, lorenzo"
    ],
    "date": "1913-12-29",
@@ -444,8 +444,8 @@
    ],
    "index": 3,
    "location": [
-    "new york",
-    "united states"
+    "united states",
+    "new york"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -465,18 +465,18 @@
    ],
    "partof": [
     "recorded sound research center",
-    "national jukebox",
-    "recorded sound section, library of congress"
+    "recorded sound section, library of congress",
+    "national jukebox"
    ],
-   "score": 39.167667,
+   "score": 39.16868,
    "shelf_id": "Victor 35360",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
+    "ethnic music",
     "victor",
-    "instrumental",
-    "ethnic music"
+    "instrumental"
    ],
    "timestamp": "2026-10-05T13:47:28.843Z",
    "title": "Irresistible",
@@ -496,9 +496,9 @@
    ],
    "campaigns": [],
    "contributor": [
-    "europe's society orchestra",
     "europe, james reese",
-    "kern, jerome"
+    "kern, jerome",
+    "europe's society orchestra"
    ],
    "date": "1914-02-10",
    "dates": [
@@ -523,8 +523,8 @@
    ],
    "index": 4,
    "location": [
-    "new york",
-    "united states"
+    "united states",
+    "new york"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -545,10 +545,10 @@
    ],
    "partof": [
     "recorded sound research center",
-    "national jukebox",
-    "recorded sound section, library of congress"
+    "recorded sound section, library of congress",
+    "national jukebox"
    ],
-   "score": 39.167667,
+   "score": 39.16868,
    "shelf_id": "Victor 17553",
    "site": [
     "nationaljukebox"
@@ -576,8 +576,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "europe's society orchestra",
-    "europe, james reese"
+    "europe, james reese",
+    "europe's society orchestra"
    ],
    "date": "1914-02-10",
    "dates": [
@@ -602,8 +602,8 @@
    ],
    "index": 5,
    "location": [
-    "new york",
-    "united states"
+    "united states",
+    "new york"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -624,17 +624,17 @@
    ],
    "partof": [
     "recorded sound research center",
-    "national jukebox",
-    "recorded sound section, library of congress"
+    "recorded sound section, library of congress",
+    "national jukebox"
    ],
-   "score": 39.167667,
+   "score": 39.16868,
    "shelf_id": "Victor 35372",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "instrumental",
     "ragtime, jazz, and more",
+    "instrumental",
     "victor"
    ],
    "timestamp": "2026-10-05T13:47:46.447Z",
@@ -656,8 +656,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "europe's society orchestra",
-    "europe, james reese"
+    "europe, james reese",
+    "europe's society orchestra"
    ],
    "date": "1914-02-10",
    "dates": [
@@ -682,8 +682,8 @@
    ],
    "index": 6,
    "location": [
-    "new york",
-    "united states"
+    "united states",
+    "new york"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -703,17 +703,17 @@
    ],
    "partof": [
     "recorded sound research center",
-    "national jukebox",
-    "recorded sound section, library of congress"
+    "recorded sound section, library of congress",
+    "national jukebox"
    ],
-   "score": 39.167667,
+   "score": 39.16868,
    "shelf_id": "Victor 35372",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "instrumental",
     "classical music",
+    "instrumental",
     "victor"
    ],
    "timestamp": "2026-10-05T13:47:46.447Z",
@@ -778,7 +778,7 @@
   "display_level": null,
   "distance": null,
   "downloadOption": null,
-  "duration": 0.7493774890899658,
+  "duration": 0.4275960922241211,
   "embed": [],
   "embed!": [],
   "error_response_status": null,
@@ -937,7 +937,7 @@
   "suggested": null,
   "target": null,
   "template": "layouts/item/layout",
-  "timestamp": 1791308706.5597546,
+  "timestamp": 1791372988.8426485,
   "tz_aware": null,
   "unionFacets": "",
   "webcast_permalink": null
@@ -953,9 +953,9 @@
    ],
    "campaigns": [],
    "contributor": [
-    "dabney, ford t.",
+    "europe, james reese",
     "williams, carl f.",
-    "europe, james reese"
+    "dabney, ford t."
    ],
    "date": "1914",
    "dates": [
@@ -991,24 +991,24 @@
     "image/jp2"
    ],
    "number": [
-    "http://www.loc.gov/resource/ihas.100010529.9",
-    "http://www.loc.gov/resource/ihas.100010529.8",
-    "http://www.loc.gov/resource/ihas.100010529.1",
-    "http://www.loc.gov/resource/ihas.100010529.11",
-    "http://www.loc.gov/resource/ihas.100010529.10",
-    "http://www.loc.gov/item/2023867055",
-    "http://www.loc.gov/resource/ihas.100010529.7",
     "http://www.loc.gov/resource/ihas.100010529.6",
+    "http://www.loc.gov/item/2023867055",
+    "http://www.loc.gov/resource/ihas.100010529.5",
+    "2023867055",
+    "http://www.loc.gov/resource/ihas.100010529.11",
+    "http://www.loc.gov/resource/ihas.100010529.8",
     "2024-06-13t10:06:02",
     "http://www.loc.gov/resource/ihas.100010529.3",
-    "sheet",
+    "http://www.loc.gov/resource/ihas.100010529.7",
+    "http://www.loc.gov/resource/ihas.100010529.12",
     "http://www.loc.gov/resource/ihas.100010529.4",
     "http://www.loc.gov/resource/ihas.100010529.2",
-    "2023867055",
+    "http://www.loc.gov/resource/ihas.100010529.9",
     "http://www.loc.gov/item/ihas.100010529",
-    "http://www.loc.gov/resource/ihas.100010529.5",
-    "http://www.loc.gov/resource/ihas.100010529.12",
-    "http://www.loc.gov/resource/ihas.100010529.0"
+    "http://www.loc.gov/resource/ihas.100010529.1",
+    "http://www.loc.gov/resource/ihas.100010529.0",
+    "sheet",
+    "http://www.loc.gov/resource/ihas.100010529.10"
    ],
    "online_format": [
     "image",
@@ -1019,21 +1019,21 @@
    ],
    "partof": [
     "the library of congress celebrates the songs of america",
-    "catalog",
+    "african-american band music & recordings, 1883-1923",
     "music division",
-    "african-american band music & recordings, 1883-1923"
+    "catalog"
    ],
-   "score": 14.039842,
+   "score": 14.039894,
    "shelf_id": "https://repo.loc.gov/access/public/music/musihas-100010529/.resource.json",
    "site": [
     "catalog"
    ],
    "subject": [
     "music",
-    "band music",
-    "united states",
     "popular music",
+    "band music",
     "parts (music)",
+    "united states",
     "african americans"
    ],
    "timestamp": "2025-12-18T09:49:05.559Z",
@@ -1053,9 +1053,9 @@
    ],
    "campaigns": [],
    "contributor": [
-    "dabney, ford t.",
+    "europe, james reese",
     "williams, carl f.",
-    "europe, james reese"
+    "dabney, ford t."
    ],
    "date": "1914",
    "dates": [
@@ -1091,23 +1091,23 @@
     "image/jp2"
    ],
    "number": [
-    "http://www.loc.gov/resource/ihas.100010530.8",
-    "http://www.loc.gov/resource/ihas.100010530.0",
-    "http://www.loc.gov/resource/ihas.100010530.3",
-    "http://www.loc.gov/resource/ihas.100010530.11",
-    "http://www.loc.gov/resource/ihas.100010530.2",
-    "http://www.loc.gov/item/ihas.100010530",
-    "http://www.loc.gov/resource/ihas.100010530.5",
-    "2024-06-13t10:06:02",
-    "http://www.loc.gov/resource/ihas.100010530.6",
-    "http://www.loc.gov/resource/ihas.100010530.12",
-    "http://www.loc.gov/item/2023867056",
-    "http://www.loc.gov/resource/ihas.100010530.4",
-    "sheet",
-    "http://www.loc.gov/resource/ihas.100010530.1",
     "http://www.loc.gov/resource/ihas.100010530.10",
+    "http://www.loc.gov/resource/ihas.100010530.1",
+    "http://www.loc.gov/resource/ihas.100010530.3",
+    "http://www.loc.gov/resource/ihas.100010530.5",
+    "http://www.loc.gov/resource/ihas.100010530.4",
+    "http://www.loc.gov/resource/ihas.100010530.6",
+    "2024-06-13t10:06:02",
+    "http://www.loc.gov/resource/ihas.100010530.11",
     "http://www.loc.gov/resource/ihas.100010530.9",
+    "http://www.loc.gov/resource/ihas.100010530.8",
+    "http://www.loc.gov/item/2023867056",
+    "http://www.loc.gov/item/ihas.100010530",
+    "http://www.loc.gov/resource/ihas.100010530.2",
+    "http://www.loc.gov/resource/ihas.100010530.0",
+    "sheet",
     "2023867056",
+    "http://www.loc.gov/resource/ihas.100010530.12",
     "http://www.loc.gov/resource/ihas.100010530.7"
    ],
    "online_format": [
@@ -1119,21 +1119,21 @@
    ],
    "partof": [
     "the library of congress celebrates the songs of america",
-    "catalog",
+    "african-american band music & recordings, 1883-1923",
     "music division",
-    "african-american band music & recordings, 1883-1923"
+    "catalog"
    ],
-   "score": 14.039842,
+   "score": 14.039894,
    "shelf_id": "https://repo.loc.gov/access/public/music/musihas-100010530/.resource.json",
    "site": [
     "catalog"
    ],
    "subject": [
     "music",
-    "band music",
-    "united states",
     "popular music",
+    "band music",
     "parts (music)",
+    "united states",
     "african americans"
    ],
    "timestamp": "2025-12-18T09:49:05.559Z",
@@ -1153,10 +1153,10 @@
    ],
    "campaigns": [],
    "contributor": [
-    "dabney, ford t.",
+    "greene, schuyler",
     "europe, james reese",
     "kern, jerome",
-    "greene, schuyler"
+    "dabney, ford t."
    ],
    "date": "1915",
    "dates": [
@@ -1190,11 +1190,11 @@
     "image/jp2"
    ],
    "number": [
-    "2023-12-07t16:39:58",
     "http://www.loc.gov/item/musm1508.10042003",
-    "http://www.loc.gov/resource/musm1508.10042003.0",
     "http://www.loc.gov/item/2016760030",
-    "2016760030"
+    "2016760030",
+    "2023-12-07t16:39:58",
+    "http://www.loc.gov/resource/musm1508.10042003.0"
    ],
    "online_format": [
     "image",
@@ -1205,10 +1205,10 @@
    ],
    "partof": [
     "catalog",
-    "music division",
-    "sheet music of the musical theater"
+    "sheet music of the musical theater",
+    "music division"
    ],
-   "score": 13.471294,
+   "score": 13.471347,
    "shelf_id": "https://repo.loc.gov/access/public/music/musm1508-10042003/.resource.json",
    "site": [
     "catalog"
@@ -1268,9 +1268,9 @@
     "english"
    ],
    "location": [
-    "united states",
     "iowa",
-    "victor"
+    "victor",
+    "united states"
    ],
    "mime_type": [
     "image/gif",
@@ -1278,9 +1278,9 @@
     "image/tif"
    ],
    "number": [
-    "2013645043",
+    "2013-04-03t08:58:59",
     "http://www.loc.gov/item/17665053",
-    "2013-04-03t08:58:59"
+    "2013645043"
    ],
    "online_format": [
     "image"
@@ -1291,27 +1291,27 @@
    "partof": [
     "prints and photographs division",
     "miscellaneous items in high demand",
-    "lot 14058",
     "catalog",
-    "prints & photographs online catalog (library of congress)"
+    "prints & photographs online catalog (library of congress)",
+    "lot 14058"
    ],
-   "score": 10.158577,
+   "score": 10.158625,
    "shelf_id": "LOT 14058, no. 123 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "group portraits",
+    "victor (iowa)",
     "iowa",
-    "photographic postcards",
-    "victor",
     "panoramic postcards",
     "photographic prints",
     "united states",
+    "photographic postcards",
     "schools",
     "school children",
-    "victor (iowa)"
+    "group portraits",
+    "victor"
    ],
    "timestamp": "2022-05-02T06:13:36.448Z",
    "title": "[Victor High School, Victor, Iowa]",
@@ -1362,9 +1362,9 @@
     "english"
    ],
    "location": [
-    "colorado",
+    "victor",
     "united states",
-    "victor"
+    "colorado"
    ],
    "mime_type": [
     "image/gif",
@@ -1372,11 +1372,11 @@
     "image/tif"
    ],
    "number": [
-    "2016808865",
-    "http://www.loc.gov/item/2016808865",
     "http://www.loc.gov/item/20110612",
+    "http://www.loc.gov/item/2016808865",
     "http://www.loc.gov/item/det1994014825/pp",
-    "2017-10-30t13:04:57"
+    "2017-10-30t13:04:57",
+    "2016808865"
    ],
    "online_format": [
     "image"
@@ -1385,13 +1385,13 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "detroit publishing company",
     "prints and photographs division",
     "american memory",
     "catalog",
-    "prints & photographs online catalog (library of congress)"
+    "prints & photographs online catalog (library of congress)",
+    "detroit publishing company"
    ],
-   "score": 10.158577,
+   "score": 10.158625,
    "shelf_id": "LC-D4-13841 [P&P]",
    "site": [
     "pictures",
@@ -1399,11 +1399,11 @@
    ],
    "subject": [
     "victor",
-    "cityscape photographs",
-    "colorado",
+    "gold mining",
     "united states",
+    "colorado",
     "dry plate negatives",
-    "gold mining"
+    "cityscape photographs"
    ],
    "timestamp": "2022-04-25T08:19:00.040Z",
    "title": "Victor, Colo., and the Gold Coin Mine",
@@ -1453,8 +1453,8 @@
    ],
    "location": [
     "montana",
-    "united states",
-    "victor"
+    "victor",
+    "united states"
    ],
    "mime_type": [
     "image/gif",
@@ -1462,8 +1462,8 @@
     "image/tif"
    ],
    "number": [
-    "http://www.loc.gov/item/23570952",
     "2024689882",
+    "http://www.loc.gov/item/23570952",
     "sheet",
     "2024-02-21t08:57:11"
    ],
@@ -1477,19 +1477,19 @@
     "catalog",
     "prints and photographs division"
    ],
-   "score": 10.158577,
+   "score": 10.158625,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 1 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "victor",
-    "photographs",
-    "montana",
-    "postcards",
     "streets",
-    "united states"
+    "united states",
+    "montana",
+    "photographs",
+    "postcards",
+    "victor"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "Main Street, Victor, Montana",
@@ -1582,5 +1582,5 @@
    "url": "https://www.loc.gov/resource/jukebox-134539.1"
   }
  ],
- "timestamp": 1791308707309
+ "timestamp": 1791372989270
 }
