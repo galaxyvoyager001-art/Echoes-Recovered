@@ -1,7 +1,7 @@
 {
  "articles_and_essays": [
   {
-   "score": 6.5018044,
+   "score": 6.482482,
    "title": "Songs by George M. Cohan | Playlist of Recordings | About this Collection | National Jukebox | Digital Collections",
    "url": "https://www.loc.gov/collections/national-jukebox/about-this-collection/playlists/songs-by-george-m-cohan/"
   }
@@ -147,9 +147,9 @@
    }
   ],
   "location": [
-   "united states",
+   "new jersey",
    "camden",
-   "new jersey"
+   "united states"
   ],
   "locations": [
    {
@@ -221,7 +221,7 @@
    "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
   ],
   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
-  "score": 15.331501,
+  "score": 15.333351,
   "shard": "01",
   "shelf_id": "Victor 45130",
   "site": [
@@ -229,9 +229,9 @@
   ],
   "source_modified": "2000-01-01T12:00:00Z",
   "subject": [
-   "vocal",
+   "victor",
    "popular music",
-   "victor"
+   "vocal"
   ],
   "subject_category": [
    "vocal"
@@ -289,9 +289,9 @@
    ],
    "campaigns": [],
    "contributor": [
+    "maxwell, elsa",
     "bayes, nora",
-    "pasternack, josef",
-    "maxwell, elsa"
+    "pasternack, josef"
    ],
    "date": "1916-12-08",
    "dates": [
@@ -317,9 +317,9 @@
     "english"
    ],
    "location": [
-    "united states",
+    "new jersey",
     "camden",
-    "new jersey"
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -334,19 +334,19 @@
     "sound recording"
    ],
    "partof": [
+    "recorded sound research center",
     "national jukebox",
-    "department of special collections, davidson library, university of california, santa barbara",
-    "recorded sound research center"
+    "department of special collections, davidson library, university of california, santa barbara"
    ],
-   "score": 43.62907,
+   "score": 43.634296,
    "shelf_id": "Victor 45136",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "vocal",
+    "victor",
     "popular music",
-    "victor"
+    "vocal"
    ],
    "timestamp": "2026-10-05T14:04:02.655Z",
    "title": "Please keep out of my dreams",
@@ -367,10 +367,10 @@
    ],
    "campaigns": [],
    "contributor": [
-    "bayes, nora",
     "burkhardt, addison",
-    "pasternack, josef",
-    "fisher, fred"
+    "fisher, fred",
+    "bayes, nora",
+    "pasternack, josef"
    ],
    "date": "1917-04-07",
    "dates": [
@@ -396,9 +396,9 @@
     "english"
    ],
    "location": [
-    "united states",
+    "new jersey",
     "camden",
-    "new jersey"
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -416,20 +416,20 @@
     "Let the River Shannon flow"
    ],
    "partof": [
+    "recorded sound research center",
     "national jukebox",
-    "department of special collections, davidson library, university of california, santa barbara",
-    "recorded sound research center"
+    "department of special collections, davidson library, university of california, santa barbara"
    ],
-   "score": 43.62907,
+   "score": 43.634296,
    "shelf_id": "Victor 45123",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "vocal",
-    "popular music",
     "victor",
-    "ethnic characterizations"
+    "popular music",
+    "ethnic characterizations",
+    "vocal"
    ],
    "timestamp": "2026-10-05T14:05:35.069Z",
    "title": "Pull the cork out of Erin",
@@ -450,10 +450,10 @@
    ],
    "campaigns": [],
    "contributor": [
-    "bayes, nora",
+    "fisher, fred",
     "pasternack, josef",
-    "mccarthy, joseph",
-    "fisher, fred"
+    "bayes, nora",
+    "mccarthy, joseph"
    ],
    "date": "1917-04-07",
    "dates": [
@@ -479,9 +479,9 @@
     "english"
    ],
    "location": [
-    "united states",
+    "new jersey",
     "camden",
-    "new jersey"
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -496,20 +496,20 @@
     "sound recording"
    ],
    "partof": [
+    "recorded sound research center",
     "national jukebox",
-    "department of special collections, davidson library, university of california, santa barbara",
-    "recorded sound research center"
+    "department of special collections, davidson library, university of california, santa barbara"
    ],
-   "score": 43.62907,
+   "score": 43.634296,
    "shelf_id": "Victor 45123",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "vocal",
-    "religious",
     "humorous songs",
     "popular music",
+    "vocal",
+    "religious",
     "victor"
    ],
    "timestamp": "2026-10-05T14:05:35.069Z",
@@ -531,9 +531,9 @@
    ],
    "campaigns": [],
    "contributor": [
-    "bayes, nora",
     "cobb, will d.",
     "edwards, gus",
+    "bayes, nora",
     "pasternack, josef"
    ],
    "date": "1917-07-13",
@@ -560,9 +560,9 @@
     "english"
    ],
    "location": [
-    "united states",
+    "new jersey",
     "camden",
-    "new jersey"
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -577,19 +577,19 @@
     "sound recording"
    ],
    "partof": [
+    "recorded sound research center",
     "national jukebox",
-    "department of special collections, davidson library, university of california, santa barbara",
-    "recorded sound research center"
+    "department of special collections, davidson library, university of california, santa barbara"
    ],
-   "score": 43.62907,
+   "score": 43.634296,
    "shelf_id": "Victor 45130",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "vocal",
+    "victor",
     "popular music",
-    "victor"
+    "vocal"
    ],
    "timestamp": "2026-10-05T14:07:58.680Z",
    "title": "Laddie boy",
@@ -610,12 +610,12 @@
    ],
    "campaigns": [],
    "contributor": [
-    "dixon, raymond",
-    "orpheus quartet",
     "werrenrath, reinald",
+    "dixon, raymond",
+    "macdonough, harry",
+    "orpheus quartet",
     "glenn, wilfred",
     "pasternack, josef",
-    "macdonough, harry",
     "murphy, lambert",
     "cohan, george m."
    ],
@@ -645,9 +645,9 @@
     "english"
    ],
    "location": [
-    "united states",
+    "new jersey",
     "camden",
-    "new jersey"
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -663,19 +663,19 @@
     "sound recording"
    ],
    "partof": [
+    "recorded sound research center",
     "recorded sound section, library of congress",
-    "national jukebox",
-    "recorded sound research center"
+    "national jukebox"
    ],
-   "score": 39.457375,
+   "score": 39.462086,
    "shelf_id": "Victor 18494",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "vocal",
+    "victor",
     "popular music",
-    "victor"
+    "vocal"
    ],
    "timestamp": "2026-10-05T14:11:49.826Z",
    "title": "When you come back (And you will come back, there's the whole world waiting for you)",
@@ -697,10 +697,10 @@
    "campaigns": [],
    "contributor": [
     "bayes, nora",
-    "pasternack, josef",
     "goetz, e. ray",
-    "jerome, william",
-    "schwartz, jean"
+    "schwartz, jean",
+    "pasternack, josef",
+    "jerome, william"
    ],
    "date": "1916-10-27",
    "dates": [
@@ -726,9 +726,9 @@
     "english"
    ],
    "location": [
-    "united states",
+    "new jersey",
     "camden",
-    "new jersey"
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -743,20 +743,20 @@
     "sound recording"
    ],
    "partof": [
+    "recorded sound research center",
     "national jukebox",
-    "department of special collections, davidson library, university of california, santa barbara",
-    "recorded sound research center"
+    "department of special collections, davidson library, university of california, santa barbara"
    ],
-   "score": 38.86055,
+   "score": 38.865334,
    "shelf_id": "Victor 45105",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "vocal",
-    "humorous songs",
     "victor",
-    "ethnic characterizations"
+    "humorous songs",
+    "ethnic characterizations",
+    "vocal"
    ],
    "timestamp": "2026-10-05T14:03:44.203Z",
    "title": "When John McCormack sings a song",
@@ -816,7 +816,7 @@
   "display_level": null,
   "distance": null,
   "downloadOption": null,
-  "duration": 1.025871992111206,
+  "duration": 0.7502541542053223,
   "embed": [],
   "embed!": [],
   "error_response_status": null,
@@ -975,7 +975,7 @@
   "suggested": null,
   "target": null,
   "template": "layouts/item/layout",
-  "timestamp": 1791308819.323627,
+  "timestamp": 1791375085.5575116,
   "tz_aware": null,
   "unionFacets": "",
   "webcast_permalink": null
@@ -1031,12 +1031,12 @@
     "image/jp2"
    ],
    "number": [
-    "sheet",
-    "http://www.loc.gov/resource/ihas.200185791.0",
-    "http://www.loc.gov/item/2023796507",
-    "2024-04-24t09:39:43",
     "2023796507",
-    "http://www.loc.gov/item/ihas.200185791"
+    "http://www.loc.gov/resource/ihas.200185791.0",
+    "http://www.loc.gov/item/ihas.200185791",
+    "sheet",
+    "http://www.loc.gov/item/2023796507",
+    "2024-04-24t09:39:43"
    ],
    "online_format": [
     "image",
@@ -1046,22 +1046,22 @@
     "notated music"
    ],
    "partof": [
-    "music division",
     "the library of congress celebrates the songs of america",
-    "catalog",
-    "yiddish american popular sheet music"
+    "music division",
+    "yiddish american popular sheet music",
+    "catalog"
    ],
-   "score": 12.311327,
+   "score": 12.311728,
    "shelf_id": "https://repo.loc.gov/access/public/music/musihas-200185791/.resource.json",
    "site": [
     "catalog"
    ],
    "subject": [
-    "songs, yiddish",
     "music",
+    "songs, yiddish",
+    "popular music",
     "united states",
     "sheet music",
-    "popular music",
     "jews"
    ],
    "timestamp": "2025-07-19T13:57:22.872Z",
@@ -1082,8 +1082,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "bayes, nora",
     "downing, sam",
+    "bayes, nora",
     "glatt, abe"
    ],
    "date": "1918",
@@ -1124,11 +1124,11 @@
     "image/jp2"
    ],
    "number": [
-    "http://www.loc.gov/item/ihas.200204257",
-    "2023-10-12t14:46:54",
     "2013566477",
-    "http://www.loc.gov/item/2013566477",
-    "http://www.loc.gov/resource/ihas.200204257.0"
+    "http://www.loc.gov/resource/ihas.200204257.0",
+    "2023-10-12t14:46:54",
+    "http://www.loc.gov/item/ihas.200204257",
+    "http://www.loc.gov/item/2013566477"
    ],
    "online_format": [
     "image",
@@ -1138,24 +1138,24 @@
     "notated music"
    ],
    "partof": [
+    "the library of congress celebrates the songs of america",
     "world war i sheet music",
     "music division",
-    "the library of congress celebrates the songs of america",
     "catalog"
    ],
-   "score": 11.088976,
+   "score": 11.089366,
    "shelf_id": "https://repo.loc.gov/access/public/music/muswwism-200204257/.resource.json",
    "site": [
     "catalog"
    ],
    "subject": [
+    "ii",
+    "popular music",
+    "william",
     "united states",
     "world war",
-    "popular music",
-    "ii",
-    "william",
-    "german emperor",
-    "songs and music"
+    "songs and music",
+    "german emperor"
    ],
    "timestamp": "2025-06-08T12:14:47.188Z",
    "title": "The man who put the germ in Germany",
@@ -1175,8 +1175,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "bayes, nora",
-    "norworth, jack"
+    "norworth, jack",
+    "bayes, nora"
    ],
    "date": "1909",
    "dates": [
@@ -1216,11 +1216,11 @@
     "image/jp2"
    ],
    "number": [
-    "2023-10-17t14:14:53",
-    "http://www.loc.gov/item/musbaseball.100102",
     "http://www.loc.gov/item/2016571524",
+    "2016571524",
     "http://www.loc.gov/resource/musbaseball.100102.0",
-    "2016571524"
+    "http://www.loc.gov/item/musbaseball.100102",
+    "2023-10-17t14:14:53"
    ],
    "online_format": [
     "image",
@@ -1230,24 +1230,24 @@
     "notated music"
    ],
    "partof": [
-    "music division",
+    "catalog",
     "baseball sheet music",
-    "catalog"
+    "music division"
    ],
-   "score": 11.088976,
+   "score": 11.089366,
    "shelf_id": "https://repo.loc.gov/access/public/music/musbaseball-100102/.resource.json",
    "site": [
     "catalog"
    ],
    "subject": [
     "scores",
-    "united states",
-    "baseball umpires",
-    "baseball",
-    "songs",
-    "popular music",
     "songs with piano",
-    "songs and music"
+    "popular music",
+    "united states",
+    "baseball",
+    "baseball umpires",
+    "songs and music",
+    "songs"
    ],
    "timestamp": "2025-06-26T08:36:49.927Z",
    "title": "Let's get the umpire's goat",
@@ -1267,8 +1267,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "bayes, nora",
-    "norworth, jack"
+    "norworth, jack",
+    "bayes, nora"
    ],
    "date": "1910",
    "dates": [
@@ -1323,24 +1323,24 @@
     "notated music"
    ],
    "partof": [
+    "catalog",
     "music division",
-    "women's suffrage in sheet music",
-    "catalog"
+    "women's suffrage in sheet music"
    ],
-   "score": 11.088976,
+   "score": 11.089366,
    "shelf_id": "M1665.W8 B",
    "site": [
     "catalog"
    ],
    "subject": [
-    "scores",
     "music",
-    "united states",
-    "women",
-    "suffrage",
-    "songs",
+    "scores",
     "popular music",
-    "songs and music"
+    "united states",
+    "suffrage",
+    "women",
+    "songs and music",
+    "songs"
    ],
    "timestamp": "2026-05-13T09:35:57.656Z",
    "title": "Everyone in favor say aye",
@@ -1394,9 +1394,9 @@
     "english"
    ],
    "location": [
-    "united states",
+    "iowa",
     "victor",
-    "iowa"
+    "united states"
    ],
    "mime_type": [
     "image/gif",
@@ -1404,8 +1404,8 @@
     "image/tif"
    ],
    "number": [
-    "http://www.loc.gov/item/17665053",
     "2013-04-03t08:58:59",
+    "http://www.loc.gov/item/17665053",
     "2013645043"
    ],
    "online_format": [
@@ -1415,29 +1415,29 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "lot 14058",
     "prints and photographs division",
-    "prints & photographs online catalog (library of congress)",
     "miscellaneous items in high demand",
-    "catalog"
+    "catalog",
+    "prints & photographs online catalog (library of congress)",
+    "lot 14058"
    ],
-   "score": 10.158577,
+   "score": 10.158625,
    "shelf_id": "LOT 14058, no. 123 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "photographic prints",
-    "photographic postcards",
     "victor (iowa)",
-    "united states",
-    "school children",
-    "schools",
-    "group portraits",
+    "iowa",
     "panoramic postcards",
-    "victor",
-    "iowa"
+    "photographic prints",
+    "united states",
+    "photographic postcards",
+    "schools",
+    "school children",
+    "group portraits",
+    "victor"
    ],
    "timestamp": "2022-05-02T06:13:36.448Z",
    "title": "[Victor High School, Victor, Iowa]",
@@ -1455,8 +1455,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "detroit publishing co.",
-    "jackson, william henry"
+    "jackson, william henry",
+    "detroit publishing co."
    ],
    "date": "1900-01-01",
    "dates": [
@@ -1488,8 +1488,8 @@
     "english"
    ],
    "location": [
-    "united states",
     "victor",
+    "united states",
     "colorado"
    ],
    "mime_type": [
@@ -1498,11 +1498,11 @@
     "image/tif"
    ],
    "number": [
-    "2017-10-30t13:04:57",
-    "2016808865",
-    "http://www.loc.gov/item/det1994014825/pp",
+    "http://www.loc.gov/item/20110612",
     "http://www.loc.gov/item/2016808865",
-    "http://www.loc.gov/item/20110612"
+    "http://www.loc.gov/item/det1994014825/pp",
+    "2017-10-30t13:04:57",
+    "2016808865"
    ],
    "online_format": [
     "image"
@@ -1512,24 +1512,24 @@
    ],
    "partof": [
     "prints and photographs division",
-    "prints & photographs online catalog (library of congress)",
-    "detroit publishing company",
+    "american memory",
     "catalog",
-    "american memory"
+    "prints & photographs online catalog (library of congress)",
+    "detroit publishing company"
    ],
-   "score": 10.158577,
+   "score": 10.158625,
    "shelf_id": "LC-D4-13841 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "united states",
-    "dry plate negatives",
+    "victor",
     "gold mining",
-    "cityscape photographs",
+    "united states",
     "colorado",
-    "victor"
+    "dry plate negatives",
+    "cityscape photographs"
    ],
    "timestamp": "2022-04-25T08:19:00.040Z",
    "title": "Victor, Colo., and the Gold Coin Mine",
@@ -1599,5 +1599,5 @@
    "url": "https://www.loc.gov/resource/jukebox-24786.1"
   }
  ],
- "timestamp": 1791308820349
+ "timestamp": 1791375086308
 }

@@ -1,0 +1,1630 @@
+{
+ "articles_and_essays": null,
+ "cite_this": {
+  "apa": "Abreu, T. R. (1917) <cite>El Abandono</cite>. [Audio] Retrieved from the Library of Congress, https://www.loc.gov/item/jukebox-191651/.",
+  "chicago": "Abreu, Tomás R. <cite>El Abandono</cite>. 1917. Audio. https://www.loc.gov/item/jukebox-191651/.",
+  "mla": "Abreu, Tomás R. <cite>El Abandono</cite>. 1917. Audio. Retrieved from the Library of Congress, &lt;www.loc.gov/item/jukebox-191651/&gt;."
+ },
+ "item": {
+  "_version_": 1878218725408112640,
+  "access_restricted": false,
+  "aka": [
+   "http://www.loc.gov/item/jukebox-191651/",
+   "http://www.loc.gov/resource/jukebox-191651.0/",
+   "http://www.loc.gov/resource/jukebox-191651.1/",
+   "http://www.loc.gov/resource/jukebox-191651.0",
+   "http://www.loc.gov/resource/jukebox-191651.1"
+  ],
+  "audio_type": "Vocal",
+  "campaigns": [],
+  "contributor_names": [
+   "Abreu, Tomás R. -- Vocalist -- Tenor Vocal"
+  ],
+  "contributor_primary": [
+   "abreu, tomás r."
+  ],
+  "contributor_vocalist": [
+   "abreu, tomás r."
+  ],
+  "contributors": [
+   {
+    "abreu, tomás r.": "https://www.loc.gov/search/?fa=contributor:abreu,+tom%C3%A1s+r.&fo=json"
+   }
+  ],
+  "contributors_primary": [
+   {
+    "abreu, tomás r.": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_primary:abreu,+tom%C3%A1s+r.&fo=json"
+   }
+  ],
+  "contributors_vocalist": [
+   {
+    "abreu, tomás r.": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_vocalist:abreu,+tom%C3%A1s+r.&fo=json"
+   }
+  ],
+  "date": "1917-01-25",
+  "dates": [
+   {
+    "1917-01-25": "https://www.loc.gov/search/?dates=1917-01-25/1917-01-25&fo=json"
+   }
+  ],
+  "description": [
+   "Victor 69636. Matrix/Take: G-1787/1."
+  ],
+  "digitized": true,
+  "display_offsite": true,
+  "extract_timestamp": "2026-10-05T02:01:41.456Z",
+  "extract_urls": [
+   "http://www.loc.gov/item/jukebox-191651#nationaljukebox"
+  ],
+  "file_id": [
+   "jvm_victor_69636_01_g1787_01"
+  ],
+  "format": [
+   {
+    "sound recording": "https://www.loc.gov/search/?fa=original_format:sound+recording&fo=json"
+   }
+  ],
+  "genre": [
+   "Spanish (Venezuela)",
+   "Popular music",
+   "Ethnic music"
+  ],
+  "group": [
+   "nationaljukebox",
+   "national-jukebox"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/item/jukebox-191651/",
+  "iiif_manifest_url": "https://www.loc.gov/item/jukebox-191651/manifest.json",
+  "image_url": [
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_69636_01_g1787_01:jvm_victor_69636_01_g1787_01/full/pct:12.5/0/default.jpg#h=277&w=273",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_69636_01_g1787_01:jvm_victor_69636_01_g1787_01/full/pct:25/0/default.jpg#h=555&w=547",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_69636_01_g1787_01:jvm_victor_69636_01_g1787_01/full/pct:50/0/default.jpg#h=1111&w=1094",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_69636_01_g1787_01:jvm_victor_69636_01_g1787_01/full/pct:100/0/default.jpg#h=2222&w=2188"
+  ],
+  "index": 1,
+  "item": {
+   "audio_type": "Vocal",
+   "contributors": [
+    "Abreu, Tomás R. -- Vocalist -- Tenor Vocal"
+   ],
+   "file_id": [
+    "jvm_victor_69636_01_g1787_01"
+   ],
+   "genre": [
+    "Spanish (Venezuela)",
+    "Popular music",
+    "Ethnic music"
+   ],
+   "language": "Spanish",
+   "media_size": "10-in.",
+   "profile": "jukebox",
+   "recording_catalog_number": "69636",
+   "recording_date": "1917-01-25",
+   "recording_label": "Victor",
+   "recording_matrix_number": "G-1787 (Matrix ID)",
+   "recording_repository": "Source of original recording: Johnson Victrola Museum, Delaware.",
+   "recording_take_id": 191651,
+   "recording_take_number": "1",
+   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+   "summary": "Male vocal solo, with guitar"
+  },
+  "language": [
+   "spanish"
+  ],
+  "languages": [
+   {
+    "spanish": "https://www.loc.gov/search/?fa=language:spanish&fo=json"
+   }
+  ],
+  "location": [
+   "caracas",
+   "venezuela"
+  ],
+  "locations": [
+   {
+    "caracas": "https://www.loc.gov/search/?fa=location:caracas&fo=json"
+   },
+   {
+    "venezuela": "https://www.loc.gov/search/?fa=location:venezuela&fo=json"
+   }
+  ],
+  "media_size": "10-in.",
+  "mime_type": [
+   "audio/mpeg",
+   "audio/wav",
+   "image/tif",
+   "image/jpeg"
+  ],
+  "online_format": [
+   "audio",
+   "image"
+  ],
+  "original_format": [
+   "sound recording"
+  ],
+  "other_formats": [],
+  "other_title": [
+   "Cancion"
+  ],
+  "partof": [
+   {
+    "count": 3495,
+    "title": "johnson victrola museum, delaware",
+    "url": "https://www.loc.gov/search/?fa=partof:johnson+victrola+museum,+delaware&fo=json"
+   },
+   {
+    "count": 20273,
+    "title": "national jukebox",
+    "url": "https://www.loc.gov/collections/national-jukebox/?fo=json"
+   },
+   {
+    "count": 20496,
+    "title": "recorded sound research center",
+    "url": "https://www.loc.gov/search/?fa=partof:recorded+sound+research+center&fo=json"
+   }
+  ],
+  "partof_repository": [
+   "johnson victrola museum, delaware"
+  ],
+  "profile": "jukebox",
+  "recording_catalog_number": "69636",
+  "recording_date": "1917-01-25",
+  "recording_label": "Victor",
+  "recording_matrix_number": "G-1787 (Matrix ID)",
+  "recording_repository": "Source of original recording: Johnson Victrola Museum, Delaware.",
+  "recording_take_id": 191651,
+  "recording_take_number": "1",
+  "resources": [
+   {
+    "files": 1,
+    "media": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_69636_01_g1787_01:jvm_victor_69636_01_g1787_01/full/full/0/full/default.mp3",
+    "url": "https://www.loc.gov/resource/jukebox-191651.0"
+   },
+   {
+    "files": 1,
+    "image": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_69636_01_g1787_01:jvm_victor_69636_01_g1787_01/full/pct:100/0/default.jpg",
+    "mimetype": "image/jpeg",
+    "url": "https://www.loc.gov/resource/jukebox-191651.1"
+   }
+  ],
+  "rights": [
+   "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
+  ],
+  "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+  "score": 15.759031,
+  "shard": "01",
+  "shelf_id": "Victor 69636",
+  "site": [
+   "nationaljukebox"
+  ],
+  "source_modified": "2000-01-01T12:00:00Z",
+  "subject": [
+   "spanish (venezuela)",
+   "ethnic music",
+   "vocal",
+   "victor",
+   "popular music"
+  ],
+  "subject_category": [
+   "vocal"
+  ],
+  "subject_genre": [
+   "popular music",
+   "ethnic music"
+  ],
+  "subject_label": [
+   "victor"
+  ],
+  "subject_target_audience": [
+   "spanish (venezuela)"
+  ],
+  "subjects": [
+   {
+    "ethnic music": "https://www.loc.gov/search/?fa=subject:ethnic+music&fo=json"
+   },
+   {
+    "popular music": "https://www.loc.gov/search/?fa=subject:popular+music&fo=json"
+   },
+   {
+    "spanish (venezuela)": "https://www.loc.gov/search/?fa=subject:spanish+%28venezuela%29&fo=json"
+   },
+   {
+    "victor": "https://www.loc.gov/search/?fa=subject:victor&fo=json"
+   },
+   {
+    "vocal": "https://www.loc.gov/search/?fa=subject:vocal&fo=json"
+   }
+  ],
+  "subjects_category": [
+   {
+    "vocal": "https://www.loc.gov/collections/national-jukebox/?fa=subject_category:vocal&fo=json"
+   }
+  ],
+  "subjects_genre": [
+   {
+    "ethnic music": "https://www.loc.gov/collections/national-jukebox/?fa=subject_genre:ethnic+music&fo=json"
+   },
+   {
+    "popular music": "https://www.loc.gov/collections/national-jukebox/?fa=subject_genre:popular+music&fo=json"
+   }
+  ],
+  "subjects_label": [
+   {
+    "victor": "https://www.loc.gov/collections/national-jukebox/?fa=subject_label:victor&fo=json"
+   }
+  ],
+  "subjects_target_audience": [
+   {
+    "spanish (venezuela)": "https://www.loc.gov/collections/national-jukebox/?fa=subject_target_audience:spanish+%28venezuela%29&fo=json"
+   }
+  ],
+  "summary": "Male vocal solo, with guitar",
+  "timestamp": "2026-10-05T14:02:38.959Z",
+  "title": "El abandono",
+  "type": [
+   "sound recording-musical"
+  ],
+  "url": "https://www.loc.gov/item/jukebox-191651/"
+ },
+ "more_like_this": [
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-191650/",
+    "http://www.loc.gov/resource/jukebox-191650.0/",
+    "http://www.loc.gov/resource/jukebox-191650.1/",
+    "http://www.loc.gov/resource/jukebox-191650.0",
+    "http://www.loc.gov/resource/jukebox-191650.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "abreu, tomás r."
+   ],
+   "date": "1917-01-25",
+   "dates": [
+    "1917-01-25"
+   ],
+   "description": [
+    "Victor 72692. Matrix/Take: G-1786/1."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T02:01:41.456Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-191650/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_72692_01_g1786_01:jvm_victor_72692_01_g1786_01/full/pct:12.5/0/default.jpg#h=348&w=341",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_72692_01_g1786_01:jvm_victor_72692_01_g1786_01/full/pct:25/0/default.jpg#h=696&w=683",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_72692_01_g1786_01:jvm_victor_72692_01_g1786_01/full/pct:50/0/default.jpg#h=1392&w=1367",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_72692_01_g1786_01:jvm_victor_72692_01_g1786_01/full/pct:100/0/default.jpg#h=2785&w=2735"
+   ],
+   "index": 1,
+   "language": [
+    "spanish"
+   ],
+   "location": [
+    "caracas",
+    "venezuela"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Cancion"
+   ],
+   "partof": [
+    "national jukebox",
+    "recorded sound research center",
+    "johnson victrola museum, delaware"
+   ],
+   "score": 60.130016,
+   "shelf_id": "Victor 72692",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "spanish (venezuela)",
+    "ethnic music",
+    "vocal",
+    "victor",
+    "popular music"
+   ],
+   "timestamp": "2026-10-05T14:02:38.959Z",
+   "title": "El adiós",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-191650/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-187492/",
+    "http://www.loc.gov/resource/jukebox-187492.0/",
+    "http://www.loc.gov/resource/jukebox-187492.1/",
+    "http://www.loc.gov/resource/jukebox-187492.0",
+    "http://www.loc.gov/resource/jukebox-187492.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "lópez, francisco",
+    "cuerpo de francisco lópez y salvador flores",
+    "flores, salvador"
+   ],
+   "date": "1917-01-27",
+   "dates": [
+    "1917-01-27"
+   ],
+   "description": [
+    "Victor 69636. Matrix/Take: G-1793/1."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T01:50:09.649Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-187492/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_69636_01_g1793_01:jvm_victor_69636_01_g1793_01/full/pct:12.5/0/default.jpg#h=305&w=305",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_69636_01_g1793_01:jvm_victor_69636_01_g1793_01/full/pct:25/0/default.jpg#h=611&w=610",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_69636_01_g1793_01:jvm_victor_69636_01_g1793_01/full/pct:50/0/default.jpg#h=1223&w=1220",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_69636_01_g1793_01:jvm_victor_69636_01_g1793_01/full/pct:100/0/default.jpg#h=2447&w=2440"
+   ],
+   "index": 2,
+   "language": [
+    "spanish"
+   ],
+   "location": [
+    "caracas",
+    "venezuela"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Joropo cantado"
+   ],
+   "partof": [
+    "national jukebox",
+    "recorded sound research center",
+    "johnson victrola museum, delaware"
+   ],
+   "score": 51.53071,
+   "shelf_id": "Victor 69636",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "spanish (venezuela)",
+    "ethnic music",
+    "vocal",
+    "victor",
+    "popular music"
+   ],
+   "timestamp": "2026-10-05T14:00:28.666Z",
+   "title": "Flor de María",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-187492/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-191666/",
+    "http://www.loc.gov/resource/jukebox-191666.0/",
+    "http://www.loc.gov/resource/jukebox-191666.1/",
+    "http://www.loc.gov/resource/jukebox-191666.0",
+    "http://www.loc.gov/resource/jukebox-191666.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "sarno, pepino",
+    "gutiérrez, pedro elias"
+   ],
+   "date": "1917-02-01",
+   "dates": [
+    "1917-02-01"
+   ],
+   "description": [
+    "Victor 72692. Matrix/Take: G-1826/1."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T02:01:41.456Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-191666/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_72692_01_g1826_01:jvm_victor_72692_01_g1826_01/full/pct:12.5/0/default.jpg#h=254&w=249",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_72692_01_g1826_01:jvm_victor_72692_01_g1826_01/full/pct:25/0/default.jpg#h=508&w=499",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_72692_01_g1826_01:jvm_victor_72692_01_g1826_01/full/pct:50/0/default.jpg#h=1016&w=998",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_72692_01_g1826_01:jvm_victor_72692_01_g1826_01/full/pct:100/0/default.jpg#h=2032&w=1996"
+   ],
+   "index": 3,
+   "language": [
+    "spanish"
+   ],
+   "location": [
+    "caracas",
+    "venezuela"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Canto sagrado"
+   ],
+   "partof": [
+    "national jukebox",
+    "recorded sound research center",
+    "johnson victrola museum, delaware"
+   ],
+   "score": 51.53071,
+   "shelf_id": "Victor 72692",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "spanish (venezuela)",
+    "ethnic music",
+    "vocal",
+    "victor",
+    "popular music"
+   ],
+   "timestamp": "2026-10-05T14:02:38.959Z",
+   "title": "Cristus factus esta",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-191666/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/5107",
+    "http://www.loc.gov/item/jukebox-191652/",
+    "http://www.loc.gov/resource/jukebox-191652.0/",
+    "http://www.loc.gov/resource/jukebox-191652.1/",
+    "http://www.loc.gov/resource/jukebox-191652.0",
+    "http://www.loc.gov/resource/jukebox-191652.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "abreu, tomás r."
+   ],
+   "date": "1917-01-25",
+   "dates": [
+    "1917-01-25"
+   ],
+   "description": [
+    "Victor 72682. Matrix/Take: G-1788/1."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T02:01:41.456Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-191652/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_72682_01_g1788_01:ucsb_victor_72682_01_g1788_01/full/pct:25/0/default.jpg#h=300&w=300",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_72682_01_g1788_01:ucsb_victor_72682_01_g1788_01/full/pct:50/0/default.jpg#h=600&w=600",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_72682_01_g1788_01:ucsb_victor_72682_01_g1788_01/full/pct:100/0/default.jpg#h=1200&w=1200"
+   ],
+   "index": 4,
+   "language": [
+    "spanish"
+   ],
+   "location": [
+    "caracas",
+    "venezuela"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Cancion"
+   ],
+   "partof": [
+    "department of special collections, davidson library, university of california, santa barbara",
+    "national jukebox",
+    "recorded sound research center"
+   ],
+   "score": 50.34797,
+   "shelf_id": "Victor 72682",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "ethnic music",
+    "vocal",
+    "spanish (venezuela)",
+    "victor"
+   ],
+   "timestamp": "2026-10-05T14:02:38.959Z",
+   "title": "La noche triste",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-191652/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-202035/",
+    "http://www.loc.gov/resource/jukebox-202035.0/",
+    "http://www.loc.gov/resource/jukebox-202035.1/",
+    "http://www.loc.gov/resource/jukebox-202035.0",
+    "http://www.loc.gov/resource/jukebox-202035.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "gutiérrez, pedro elias",
+    "orquesta caraqueña"
+   ],
+   "date": "1917-01-31",
+   "dates": [
+    "1917-01-31"
+   ],
+   "description": [
+    "Victor 72687. Matrix/Take: G-1821/2."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T02:05:46.479Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-202035/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_72687_01_g1821_02:jvm_victor_72687_01_g1821_02/full/pct:12.5/0/default.jpg#h=275&w=274",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_72687_01_g1821_02:jvm_victor_72687_01_g1821_02/full/pct:25/0/default.jpg#h=550&w=549",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_72687_01_g1821_02:jvm_victor_72687_01_g1821_02/full/pct:50/0/default.jpg#h=1101&w=1099",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_72687_01_g1821_02:jvm_victor_72687_01_g1821_02/full/pct:100/0/default.jpg#h=2202&w=2198"
+   ],
+   "index": 5,
+   "location": [
+    "caracas",
+    "venezuela"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Aire guanareno"
+   ],
+   "partof": [
+    "national jukebox",
+    "recorded sound research center",
+    "johnson victrola museum, delaware"
+   ],
+   "score": 47.12169,
+   "shelf_id": "Victor 72687",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "spanish (venezuela)",
+    "ethnic music",
+    "instrumental",
+    "victor",
+    "popular music"
+   ],
+   "timestamp": "2026-10-05T14:03:44.203Z",
+   "title": "Caricari",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-202035/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-209388/",
+    "http://www.loc.gov/resource/jukebox-209388.0/",
+    "http://www.loc.gov/resource/jukebox-209388.1/",
+    "http://www.loc.gov/resource/jukebox-209388.0",
+    "http://www.loc.gov/resource/jukebox-209388.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "gutiérrez, pedro elias",
+    "orquesta caraqueña"
+   ],
+   "date": "1917-01-31",
+   "dates": [
+    "1917-01-31"
+   ],
+   "description": [
+    "Victor 72687. Matrix/Take: G-1817/2."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T02:06:42.783Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-209388/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_72687_01_g1817_02:jvm_victor_72687_01_g1817_02/full/pct:12.5/0/default.jpg#h=247&w=242",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_72687_01_g1817_02:jvm_victor_72687_01_g1817_02/full/pct:25/0/default.jpg#h=495&w=485",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_72687_01_g1817_02:jvm_victor_72687_01_g1817_02/full/pct:50/0/default.jpg#h=991&w=970",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_72687_01_g1817_02:jvm_victor_72687_01_g1817_02/full/pct:100/0/default.jpg#h=1982&w=1940"
+   ],
+   "index": 6,
+   "location": [
+    "caracas",
+    "venezuela"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Vals"
+   ],
+   "partof": [
+    "national jukebox",
+    "recorded sound research center",
+    "johnson victrola museum, delaware"
+   ],
+   "score": 47.12169,
+   "shelf_id": "Victor 72687",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "spanish (venezuela)",
+    "ethnic music",
+    "instrumental",
+    "victor",
+    "popular music"
+   ],
+   "timestamp": "2026-10-05T14:04:02.655Z",
+   "title": "Emilia",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-209388/"
+  }
+ ],
+ "notice": {
+  "info": "<strong>COLUMBUS DAY HOLIDAY:</strong> On Monday, October 12, 2026, The Jefferson Building Great Hall and exhibitions will be open from 10 a.m. - 5 p.m. to guests with timed-entry passes. The Main Reading Room will be open to visitors, no research or collections services available. All other reading rooms, the Madison and Adams Buildings will be CLOSED to the public. Regularly scheduled access resumes on Tuesday, October 13. \n",
+  "status": "production"
+ },
+ "options": {
+  "access_group": [
+   ""
+  ],
+  "access_group_raw": "",
+  "all": null,
+  "api_version": "1",
+  "app_context": null,
+  "application_shim": null,
+  "application_version": "$Revision$",
+  "attribute": null,
+  "attribute!": null,
+  "attribute_map": null,
+  "cache_tags": [
+   "nationaljukebox",
+   "national-jukebox",
+   "ll/llserialset/mono",
+   "catalog-split-10",
+   "catalog",
+   "congressional-serial-set-document-level",
+   "main-catalog-split-10",
+   "catalog-split-03",
+   "main-catalog-split-03",
+   "paprika-iabooks",
+   "catalog-split-14",
+   "main-catalog-split-14",
+   "cph",
+   "catalog-split-12",
+   "miscellaneous-items-high-demand",
+   "main-catalog-split-12",
+   "main-catalog",
+   "det",
+   "detroit-publishing-company",
+   "pp_other",
+   "catalog-split-01",
+   "prints-and-photographs-other",
+   "main-catalog-split-01"
+  ],
+  "callback": null,
+  "clip": null,
+  "clip_image_width": null,
+  "clip_rotation": null,
+  "content_filter": null,
+  "content_replacement": "",
+  "count": null,
+  "dates": null,
+  "default_count": 25,
+  "delimiter": null,
+  "digital_id": null,
+  "display_level": null,
+  "distance": null,
+  "downloadOption": null,
+  "duration": 1.2973203659057617,
+  "embed": [],
+  "embed!": [],
+  "error_response_status": null,
+  "excludeTerms": null,
+  "facetLimits": "",
+  "facetPrefix": null,
+  "facet_count": null,
+  "facet_style": null,
+  "field": null,
+  "form_facets": [
+   {
+    "field": "subject_label",
+    "select": "multiple"
+   },
+   {
+    "field": "subject_category",
+    "select": "multiple"
+   },
+   {
+    "field": "language",
+    "select": "multiple"
+   }
+  ],
+  "format": "json",
+  "host": "www.loc.gov",
+  "ical": false,
+  "id": "jukebox-191651/",
+  "iiif": false,
+  "include_facets": [
+   {
+    "field": "original-format"
+   },
+   {
+    "field": "partof_repository",
+    "label": "Repository"
+   },
+   {
+    "field": "subject_label",
+    "label": "Label"
+   },
+   {
+    "field": "dates"
+   },
+   {
+    "field": "subject_genre",
+    "label": "Genre"
+   },
+   {
+    "closed": true,
+    "field": "subject_target_audience",
+    "label": "Target Audience"
+   },
+   {
+    "closed": true,
+    "field": "subject_category",
+    "label": "Category"
+   },
+   {
+    "closed": true,
+    "field": "location"
+   },
+   {
+    "closed": true,
+    "field": "contributor"
+   },
+   {
+    "closed": true,
+    "field": "contributor_vocalist",
+    "label": "Vocalist"
+   },
+   {
+    "closed": true,
+    "field": "contributor_composer",
+    "label": "Composer"
+   },
+   {
+    "closed": true,
+    "field": "contributor_lyricist",
+    "label": "Lyricist"
+   },
+   {
+    "closed": true,
+    "field": "contributor_author",
+    "label": "Author"
+   },
+   {
+    "closed": true,
+    "field": "contributor_performer",
+    "label": "Performer"
+   },
+   {
+    "closed": true,
+    "field": "contributor_musical_group",
+    "label": "Musical Group"
+   },
+   {
+    "closed": true,
+    "field": "subject"
+   },
+   {
+    "closed": true,
+    "field": "language"
+   },
+   {
+    "field": "access-restricted"
+   }
+  ],
+  "index": null,
+  "inputEncoding": "UTF-8",
+  "item": null,
+  "items": null,
+  "keys": null,
+  "language": null,
+  "latlong": null,
+  "method": "GET",
+  "newSearch": null,
+  "new_clip_url": false,
+  "onsite": false,
+  "operator": null,
+  "outputEncoding": "UTF-8",
+  "page_campaigns": [],
+  "path_info": "/item/jukebox-191651/",
+  "port": "443",
+  "proxypath": null,
+  "query_string": "fo=json",
+  "redirect_proxy": false,
+  "redirect_to_item": null,
+  "referer": "",
+  "region": "",
+  "release_id": 123456789,
+  "request_host": "www.loc.gov",
+  "request_params": {
+   "fo": [
+    "json"
+   ]
+  },
+  "request_url": "https://www.loc.gov/item/jukebox-191651/?fo=json",
+  "resource": "",
+  "resource_sequence": null,
+  "scheme": "https",
+  "searchIn": null,
+  "searchTerms": "",
+  "segments": null,
+  "shards": [
+   "01"
+  ],
+  "site_date_range": "1900-01-01/1925-12-31",
+  "site_defaults": [],
+  "site_id": null,
+  "site_type": null,
+  "solrQuery": "",
+  "sortBy": null,
+  "sortOrder": null,
+  "startPage": null,
+  "style": null,
+  "suggested": null,
+  "target": null,
+  "template": "layouts/item/layout",
+  "timestamp": 1791375171.6475484,
+  "tz_aware": null,
+  "unionFacets": "",
+  "webcast_permalink": null
+ },
+ "related_items": [
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://lccn.loc.gov/2024791287",
+    "http://www.loc.gov/item/2024791287/",
+    "https://search.catalog.loc.gov/instances/4259eb35-2c39-4f06-a639-dc7a6bc774ca",
+    "https://hdl.loc.gov/loc.law/llserialsetce.00178_00_00-042-0182-0000",
+    "http://www.loc.gov/resource/llserialsetce.00178_00_00-042-0182-0000/"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "united states. congress. house",
+    "united states congress. house. committee on foreign affairs",
+    "everett, edward",
+    "united states. government publishing office"
+   ],
+   "date": "1828",
+   "dates": [
+    "1828"
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-03-01T16:39:49.416Z",
+   "group": [
+    "ll/llserialset/mono",
+    "catalog-split-10",
+    "catalog",
+    "congressional-serial-set-document-level",
+    "main-catalog-split-10"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/2024791287/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ll:llserialsetce:00:17:8_:00:_0:0:00178_00_00:00178_00_00-042-0182-0000:0290/full/pct:12.5/0/default.jpg"
+   ],
+   "index": 1,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "buenos aires",
+    "argentina",
+    "caracas",
+    "venezuela"
+   ],
+   "mime_type": [
+    "text/plain",
+    "image/jpeg",
+    "application/pdf",
+    "image/jp2"
+   ],
+   "number": [
+    "online resource",
+    "2026-02-18t14:27:21.500000",
+    "2024791287"
+   ],
+   "online_format": [
+    "online text",
+    "image",
+    "pdf"
+   ],
+   "original_format": [
+    "book"
+   ],
+   "other_title": [
+    "Cited as: H. Rept. 20-182"
+   ],
+   "partof": [
+    "law library of congress",
+    "united states congressional serial set (bound house and senate documents and reports)",
+    "20th congress, 1st session",
+    "united states congressional serial set: serial no. 178",
+    "catalog"
+   ],
+   "score": 11.227575,
+   "shelf_id": "KF12",
+   "site": [
+    "catalog"
+   ],
+   "subject": [
+    "expense accounts",
+    "financial statements",
+    "ambassadors",
+    "wages",
+    "diplomats",
+    "poinsett, joel roberts",
+    "legislative report - private bills",
+    "scott, alexander",
+    "buenos aires, argentina",
+    "claims",
+    "caracas, venezuela",
+    "government publication",
+    "legislative materials"
+   ],
+   "timestamp": "2026-03-01T18:34:59.739Z",
+   "title": "Alexander Scott. March 7, 1828. Read, and laid upon the table",
+   "type": [
+    "text"
+   ],
+   "url": "https://www.loc.gov/item/2024791287/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://lccn.loc.gov/2024770931",
+    "http://www.loc.gov/item/2024770931/",
+    "https://search.catalog.loc.gov/instances/9abf7e3d-5760-5ce4-9e08-a40068cfa421",
+    "https://hdl.loc.gov/loc.law/llserialsetce.03141_00_00-025-2341-0000",
+    "http://www.loc.gov/resource/llserialsetce.03141_00_00-025-2341-0000/"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "chipman, j. l. (john logan)",
+    "united states. congress. house",
+    "united states congress. house. committee on foreign affairs",
+    "united states. government publishing office"
+   ],
+   "date": "1893",
+   "dates": [
+    "1893"
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-07-20T12:57:14.332Z",
+   "group": [
+    "ll/llserialset/mono",
+    "catalog-split-03",
+    "catalog",
+    "congressional-serial-set-document-level",
+    "main-catalog-split-03"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/2024770931/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ll:llserialsetce:03:14:1_:00:_0:0:03141_00_00:03141_00_00-025-2341-0000:0129/full/pct:12.5/0/default.jpg",
+    "https://tile.loc.gov/image-services/iiif/service:ll:llserialsetce:03:14:1_:00:_0:0:03141_00_00:03141_00_00-025-2341-0000:0129/full/pct:12.5/0/default.jpg#h=431&w=262",
+    "https://tile.loc.gov/image-services/iiif/service:ll:llserialsetce:03:14:1_:00:_0:0:03141_00_00:03141_00_00-025-2341-0000:0129/full/pct:25/0/default.jpg#h=862&w=525",
+    "https://tile.loc.gov/image-services/iiif/service:ll:llserialsetce:03:14:1_:00:_0:0:03141_00_00:03141_00_00-025-2341-0000:0129/full/pct:50/0/default.jpg#h=1725&w=1051",
+    "https://tile.loc.gov/image-services/iiif/service:ll:llserialsetce:03:14:1_:00:_0:0:03141_00_00:03141_00_00-025-2341-0000:0129/full/pct:100/0/default.jpg#h=3451&w=2103"
+   ],
+   "index": 2,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "caracas",
+    "venezuela"
+   ],
+   "mime_type": [
+    "application/pdf",
+    "text/plain",
+    "image/jpeg",
+    "image/jp2"
+   ],
+   "number": [
+    "online resource",
+    "2024770931",
+    "2026-07-16t23:18:12.800000"
+   ],
+   "online_format": [
+    "pdf",
+    "online text",
+    "image"
+   ],
+   "original_format": [
+    "book"
+   ],
+   "other_title": [
+    "Cited as: H. Rept. 52-2341"
+   ],
+   "partof": [
+    "law library of congress",
+    "52th congress, 2nd session",
+    "united states congressional serial set (bound house and senate documents and reports)",
+    "united states congressional serial set: serial no. 3141",
+    "catalog"
+   ],
+   "score": 11.227575,
+   "shelf_id": "KF12",
+   "site": [
+    "catalog"
+   ],
+   "subject": [
+    "legislative report - public bills",
+    "treaties",
+    "payment",
+    "mixed commission of the united states of america and the republic of venezuela",
+    "claims",
+    "caracas, venezuela",
+    "venezuela",
+    "government publication",
+    "government liability (international law)",
+    "legislative materials"
+   ],
+   "timestamp": "2026-07-20T18:36:44.525Z",
+   "title": "Caracas awards of 1868. January 24, 1893. -- Committed to the Committee of the Whole House on the State of the Union and ordered to be printed",
+   "type": [
+    "text"
+   ],
+   "url": "https://www.loc.gov/item/2024770931/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://lccn.loc.gov/01024061",
+    "http://www.loc.gov/item/01024061/",
+    "http://www.loc.gov/resource/gdcmassbookdig.visittocolombiai01duan/",
+    "http://www.loc.gov/resource/scd0001.00026537216/",
+    "https://hdl.loc.gov/loc.gdc/scd0001.00026537216"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "duane, william"
+   ],
+   "date": "1826",
+   "dates": [
+    "1826"
+   ],
+   "description": [
+    "Also available in digital form."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2025-08-29T06:52:05.496Z",
+   "group": [
+    "paprika-iabooks",
+    "catalog-split-14",
+    "catalog",
+    "main-catalog-split-14"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/01024061/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:visittocolombiai01duan:visittocolombiai01duan_0007/full/pct:12.5/0/default.jpg",
+    "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:visittocolombiai01duan:visittocolombiai01duan_0007/full/pct:12.5/0/default.jpg#h=415&w=232",
+    "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:visittocolombiai01duan:visittocolombiai01duan_0007/full/pct:25.0/0/default.jpg#h=831&w=464",
+    "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:visittocolombiai01duan:visittocolombiai01duan_0007/full/pct:50.0/0/default.jpg#h=1663&w=928",
+    "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:visittocolombiai01duan:visittocolombiai01duan_0007/full/pct:100.0/0/default.jpg#h=3327&w=1856"
+   ],
+   "index": 3,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "colombia",
+    "caracas",
+    "venezuela"
+   ],
+   "mime_type": [
+    "text/xml",
+    "image/jpeg",
+    "image/jp2",
+    "text/plain",
+    "application/json",
+    "application/pdf"
+   ],
+   "number": [
+    "2019-01-23t10:10:01",
+    "01024061"
+   ],
+   "online_format": [
+    "online text",
+    "image",
+    "pdf"
+   ],
+   "original_format": [
+    "book"
+   ],
+   "partof": [
+    "general collections",
+    "selected digitized books",
+    "catalog"
+   ],
+   "score": 9.940828,
+   "shelf_id": "https://repo.loc.gov/access/public/gdcmassbookdig/visittocolombiai01duan/.resource.json",
+   "site": [
+    "catalog"
+   ],
+   "subject": [
+    "colombia",
+    "description and travel",
+    "caracas (venezuela)",
+    "venezuela"
+   ],
+   "timestamp": "2025-08-29T11:54:18.387Z",
+   "title": "A visit to Colombia, in the years, 1822 & 1823,",
+   "type": [
+    "text"
+   ],
+   "url": "https://www.loc.gov/item/01024061/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "https://www.loc.gov/pictures/item/2013645043/",
+    "http://www.loc.gov/item/2013645043/",
+    "http://www.loc.gov/pictures/item/2013645043/",
+    "https://www.loc.gov/pictures/collection/cph/item/2013645043/",
+    "http://www.loc.gov/pictures/collection/cph/item/2013645043/",
+    "http://www.loc.gov/resource/ds.02394/",
+    "https://hdl.loc.gov/loc.pnp/ds.02394",
+    "http://lccn.loc.gov/2013645043"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "switzer, c. c."
+   ],
+   "date": "1908-01-01",
+   "dates": [
+    "1908"
+   ],
+   "description": [
+    "1 photographic print (postcard) | Postcard shows group portrait of students and staff from Victor High School and lower grades assembled in front of building."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2021-08-24T20:11:34.937Z",
+   "group": [
+    "cph",
+    "catalog-split-12",
+    "catalog",
+    "miscellaneous-items-high-demand",
+    "main-catalog-split-12",
+    "main-catalog"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/2013645043/",
+   "image_url": [
+    "https://tile.loc.gov/storage-services/service/pnp/ds/02300/02394_150px.jpg#h=50&w=150",
+    "https://tile.loc.gov/storage-services/service/pnp/ds/02300/02394r.jpg#h=214&w=640",
+    "https://tile.loc.gov/storage-services/service/pnp/ds/02300/02394v.jpg#h=342&w=1024"
+   ],
+   "index": 4,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "victor",
+    "united states",
+    "iowa"
+   ],
+   "mime_type": [
+    "image/gif",
+    "image/jpg",
+    "image/tif"
+   ],
+   "number": [
+    "2013645043",
+    "2013-04-03t08:58:59",
+    "http://www.loc.gov/item/17665053"
+   ],
+   "online_format": [
+    "image"
+   ],
+   "original_format": [
+    "photo, print, drawing"
+   ],
+   "partof": [
+    "prints & photographs online catalog (library of congress)",
+    "prints and photographs division",
+    "miscellaneous items in high demand",
+    "lot 14058",
+    "catalog"
+   ],
+   "score": 9.757024,
+   "shelf_id": "LOT 14058, no. 123 [P&P]",
+   "site": [
+    "pictures",
+    "catalog"
+   ],
+   "subject": [
+    "schools",
+    "school children",
+    "victor (iowa)",
+    "iowa",
+    "photographic postcards",
+    "victor",
+    "group portraits",
+    "panoramic postcards",
+    "photographic prints",
+    "united states"
+   ],
+   "timestamp": "2022-05-02T06:13:36.448Z",
+   "title": "[Victor High School, Victor, Iowa]",
+   "url": "https://www.loc.gov/item/2013645043/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/pictures/collection/det/item/2016808865/",
+    "http://www.loc.gov/item/2016808865/",
+    "http://www.loc.gov/pictures/item/2016808865/",
+    "https://hdl.loc.gov/loc.pnp/det.4a09194",
+    "http://www.loc.gov/resource/det.4a09194/",
+    "http://lccn.loc.gov/2016808865"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "jackson, william henry",
+    "detroit publishing co."
+   ],
+   "date": "1900-01-01",
+   "dates": [
+    "1900"
+   ],
+   "description": [
+    "1 negative : glass ; 8 x 10 in."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2021-09-01T22:30:01.644Z",
+   "group": [
+    "det",
+    "catalog-split-12",
+    "catalog",
+    "detroit-publishing-company",
+    "main-catalog-split-12",
+    "main-catalog"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/2016808865/",
+   "image_url": [
+    "https://tile.loc.gov/storage-services/service/pnp/det/4a00000/4a09000/4a09100/4a09194_150px.jpg#h=120&w=150",
+    "https://tile.loc.gov/storage-services/service/pnp/det/4a00000/4a09000/4a09100/4a09194t.gif#h=120&w=150",
+    "https://tile.loc.gov/storage-services/service/pnp/det/4a00000/4a09000/4a09100/4a09194r.jpg#h=511&w=640",
+    "https://tile.loc.gov/storage-services/service/pnp/det/4a00000/4a09000/4a09100/4a09194v.jpg#h=817&w=1024"
+   ],
+   "index": 5,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "victor",
+    "united states",
+    "colorado"
+   ],
+   "mime_type": [
+    "image/gif",
+    "image/jpg",
+    "image/tif"
+   ],
+   "number": [
+    "http://www.loc.gov/item/2016808865",
+    "http://www.loc.gov/item/det1994014825/pp",
+    "2017-10-30t13:04:57",
+    "2016808865",
+    "http://www.loc.gov/item/20110612"
+   ],
+   "online_format": [
+    "image"
+   ],
+   "original_format": [
+    "photo, print, drawing"
+   ],
+   "partof": [
+    "american memory",
+    "prints & photographs online catalog (library of congress)",
+    "prints and photographs division",
+    "detroit publishing company",
+    "catalog"
+   ],
+   "score": 9.757024,
+   "shelf_id": "LC-D4-13841 [P&P]",
+   "site": [
+    "pictures",
+    "catalog"
+   ],
+   "subject": [
+    "colorado",
+    "victor",
+    "cityscape photographs",
+    "united states",
+    "gold mining",
+    "dry plate negatives"
+   ],
+   "timestamp": "2022-04-25T08:19:00.040Z",
+   "title": "Victor, Colo., and the Gold Coin Mine",
+   "url": "https://www.loc.gov/item/2016808865/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "https://www.loc.gov/pictures/item/2024689882/",
+    "http://www.loc.gov/item/2024689882/",
+    "http://www.loc.gov/pictures/item/2024689882/",
+    "https://hdl.loc.gov/loc.pnp/pcrd.1d03519",
+    "https://hdl.loc.gov/loc.pnp/pcrd.1d03519",
+    "https://hdl.loc.gov/loc.pnp/pcrd.2d03519",
+    "https://hdl.loc.gov/loc.pnp/pcrd.2d03519",
+    "http://www.loc.gov/resource/pcrd.1d03519/",
+    "http://www.loc.gov/resource/pcrd.2d03519/",
+    "http://lccn.loc.gov/2024689882"
+   ],
+   "campaigns": [],
+   "date": "1910",
+   "dates": [
+    "1910"
+   ],
+   "description": [
+    "1 photograph : gelatin silver print ; sheet 9 x 14 cm (postcard format)"
+   ],
+   "digitized": true,
+   "extract_timestamp": "2024-03-02T14:28:03.271Z",
+   "group": [
+    "pp_other",
+    "catalog-split-01",
+    "catalog",
+    "prints-and-photographs-other",
+    "main-catalog-split-01"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/2024689882/",
+   "image_url": [
+    "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03519_150px.jpg#h=99&w=150",
+    "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03519r.jpg#h=422&w=640",
+    "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03519v.jpg#h=675&w=1024"
+   ],
+   "index": 6,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "victor",
+    "united states",
+    "montana"
+   ],
+   "mime_type": [
+    "image/gif",
+    "image/jpg",
+    "image/tif"
+   ],
+   "number": [
+    "http://www.loc.gov/item/23570952",
+    "2024-02-21t08:57:11",
+    "sheet",
+    "2024689882"
+   ],
+   "online_format": [
+    "image"
+   ],
+   "original_format": [
+    "photo, print, drawing"
+   ],
+   "partof": [
+    "prints and photographs division",
+    "catalog"
+   ],
+   "score": 9.757024,
+   "shelf_id": "PCRD 4 - Montana - Victor, no. 1 [P&P]",
+   "site": [
+    "pictures",
+    "catalog"
+   ],
+   "subject": [
+    "postcards",
+    "streets",
+    "photographs",
+    "montana",
+    "victor",
+    "united states"
+   ],
+   "timestamp": "2024-03-02T14:40:16.299Z",
+   "title": "Main Street, Victor, Montana",
+   "type": [
+    "still image"
+   ],
+   "url": "https://www.loc.gov/item/2024689882/"
+  }
+ ],
+ "resources": [
+  {
+   "audio": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_69636_01_g1787_01:jvm_victor_69636_01_g1787_01/full/full/0/full/default.mp3",
+   "files": [
+    [
+     {
+      "aspectRation": "4:3",
+      "autoPlay": false,
+      "canDownload": true,
+      "derivatives": [
+       {
+        "derivativeUrl": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/jvm_victor_69636_01_g1787_01/jvm_victor_69636_01_g1787_01.mp3"
+       }
+      ],
+      "detailUrl": "https://www.loc.gov/item/jukebox-191651",
+      "download": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_69636_01_g1787_01:jvm_victor_69636_01_g1787_01/full/full/0/full/default.mp3",
+      "duration": 178.0,
+      "filename": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/jvm_victor_69636_01_g1787_01/jvm_victor_69636_01_g1787_01.mp3",
+      "mediaType": "A",
+      "metadata": [
+       "El abandono",
+       "Male vocal solo, with guitar"
+      ],
+      "mimetype": "audio/mpeg",
+      "poster": null,
+      "rights_restricted": true,
+      "shortName": "El abandono",
+      "thumbnail_url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_69636_01_g1787_01:jvm_victor_69636_01_g1787_01/full/pct:12.5/0/default.jpg"
+     },
+     {
+      "height": null,
+      "levels": 1,
+      "mimetype": "audio/wav",
+      "size": 31457680,
+      "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/jvm_victor_69636_01_g1787_01/jvm_victor_69636_01_g1787_01.wav",
+      "width": null
+     }
+    ]
+   ],
+   "url": "https://www.loc.gov/resource/jukebox-191651.0"
+  },
+  {
+   "files": [
+    [
+     {
+      "height": 277,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_69636_01_g1787_01:jvm_victor_69636_01_g1787_01/full/pct:12.5/0/default.jpg",
+      "width": 273
+     },
+     {
+      "height": 555,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_69636_01_g1787_01:jvm_victor_69636_01_g1787_01/full/pct:25/0/default.jpg",
+      "width": 547
+     },
+     {
+      "height": 1111,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_69636_01_g1787_01:jvm_victor_69636_01_g1787_01/full/pct:50/0/default.jpg",
+      "width": 1094
+     },
+     {
+      "height": 2222,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_69636_01_g1787_01:jvm_victor_69636_01_g1787_01/full/pct:100/0/default.jpg",
+      "width": 2188
+     },
+     {
+      "height": null,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 19450436,
+      "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/jvm_victor_69636_01_g1787_01/jvm_victor_69636_01_g1787_01.tif",
+      "width": null
+     }
+    ]
+   ],
+   "image": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_69636_01_g1787_01:jvm_victor_69636_01_g1787_01/full/pct:100/0/default.jpg",
+   "mimetype": "image/jpeg",
+   "url": "https://www.loc.gov/resource/jukebox-191651.1"
+  }
+ ],
+ "timestamp": 1791375172945
+}
