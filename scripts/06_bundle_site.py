@@ -6,11 +6,12 @@ The site in site/ references audio and images relative to the repository root
 script copies index.html, data.js and every referenced file into OUT_DIR with
 the same relative layout and sets the base path to "./".
 
-Usage: python scripts/06_bundle_site.py OUT_DIR [--fragment] [--web-kbps N]
+Usage: python scripts/06_bundle_site.py OUT_DIR [--fragment] [--web-kbps N] [--diag-kbps M]
   --fragment    drop the <!doctype>/<html> lines (for hosts that add their own skeleton)
   --web-kbps N  for size-limited hosts: re-encode every MP3 (original, restored, A/B,
                 removed) to N kbps mono CBR with identical settings, so the A/B
                 comparison stays fair; the page then says it plays web copies.
+  --diag-kbps M bitrate for the diagnostic 'removed component' files (default: N)
 """
 import json
 import re
@@ -27,6 +28,7 @@ def main():
     out = Path(sys.argv[1]).resolve()
     frag = "--fragment" in sys.argv
     kbps = int(sys.argv[sys.argv.index("--web-kbps") + 1]) if "--web-kbps" in sys.argv else None
+    diag = int(sys.argv[sys.argv.index("--diag-kbps") + 1]) if "--diag-kbps" in sys.argv else kbps
     out.mkdir(parents=True, exist_ok=True)
     html = (ROOT / "site" / "index.html").read_text()
     if frag:
@@ -45,7 +47,7 @@ def main():
         dst.parent.mkdir(parents=True, exist_ok=True)
         if kbps and rel.endswith(".mp3"):
             subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", str(ROOT / rel), "-ac", "1",
-                            "-codec:a", "libmp3lame", "-b:a", f"{kbps}k", str(dst)], check=True)
+                            "-codec:a", "libmp3lame", "-b:a", f"{diag if rel.endswith('removed_component.mp3') else kbps}k", str(dst)], check=True)
         else:
             shutil.copy2(ROOT / rel, dst)
     with ThreadPoolExecutor(4) as ex:
