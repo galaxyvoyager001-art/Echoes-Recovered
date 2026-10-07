@@ -1,7 +1,7 @@
 {
  "articles_and_essays": [
   {
-   "score": 6.9215164,
+   "score": 6.941004,
    "title": "Celebrating Black Performers in the New and Expanded National Jukebox!",
    "url": "https://blogs.loc.gov/now-see-hear/2021/07/celebrating-black-performers-in-the-new-and-expanded-national-jukebox/"
   }
@@ -211,7 +211,7 @@
    "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
   ],
   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
-  "score": 15.331501,
+  "score": 15.332874,
   "shard": "01",
   "shelf_id": "Columbia 3504",
   "site": [
@@ -219,8 +219,8 @@
   ],
   "source_modified": "2000-01-01T12:00:00Z",
   "subject": [
-   "vocal",
-   "columbia"
+   "columbia",
+   "vocal"
   ],
   "subject_category": [
    "vocal"
@@ -266,9 +266,9 @@
    ],
    "campaigns": [],
    "contributor": [
+    "rogers, alex",
     "vodery, will h.",
-    "williams, bert",
-    "rogers, alex"
+    "williams, bert"
    ],
    "date": "1916-07-22",
    "dates": [
@@ -314,18 +314,18 @@
    ],
    "partof": [
     "national jukebox",
-    "department of special collections, davidson library, university of california, santa barbara",
-    "recorded sound research center"
+    "recorded sound research center",
+    "department of special collections, davidson library, university of california, santa barbara"
    ],
-   "score": 37.81176,
+   "score": 37.81456,
    "shelf_id": "Columbia A2078",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "vocal",
     "popular music",
-    "columbia"
+    "columbia",
+    "vocal"
    ],
    "timestamp": "2026-10-05T14:31:42.478Z",
    "title": "The Lee family",
@@ -345,9 +345,9 @@
    ],
    "campaigns": [],
    "contributor": [
+    "rogers, alex",
     "vodery, will h.",
-    "williams, bert",
-    "rogers, alex"
+    "williams, bert"
    ],
    "date": "1918-08-29",
    "dates": [
@@ -393,17 +393,17 @@
    ],
    "partof": [
     "national jukebox",
-    "department of special collections, davidson library, university of california, santa barbara",
-    "recorded sound research center"
+    "recorded sound research center",
+    "department of special collections, davidson library, university of california, santa barbara"
    ],
-   "score": 37.81176,
+   "score": 37.81456,
    "shelf_id": "Columbia A2652",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "vocal",
-    "columbia"
+    "columbia",
+    "vocal"
    ],
    "timestamp": "2026-10-05T14:34:41.394Z",
    "title": "When I return",
@@ -423,8 +423,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "williams, bert",
-    "rogers, alex"
+    "rogers, alex",
+    "williams, bert"
    ],
    "date": "1920-09-19",
    "dates": [
@@ -473,17 +473,17 @@
    ],
    "partof": [
     "national jukebox",
-    "department of special collections, davidson library, university of california, santa barbara",
-    "recorded sound research center"
+    "recorded sound research center",
+    "department of special collections, davidson library, university of california, santa barbara"
    ],
-   "score": 37.81176,
+   "score": 37.81456,
    "shelf_id": "Columbia A1853",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "vocal",
-    "columbia"
+    "columbia",
+    "vocal"
    ],
    "timestamp": "2026-10-05T14:44:40.905Z",
    "title": "Never mo'",
@@ -503,10 +503,10 @@
    ],
    "campaigns": [],
    "contributor": [
-    "kaufman, irving",
     "johnson, howard e.",
-    "roberts, luckey",
-    "rogers, alex"
+    "kaufman, irving",
+    "rogers, alex",
+    "roberts, luckey"
    ],
    "date": "1917-08-08",
    "dates": [
@@ -552,18 +552,18 @@
    ],
    "partof": [
     "national jukebox",
-    "department of special collections, davidson library, university of california, santa barbara",
-    "recorded sound research center"
+    "recorded sound research center",
+    "department of special collections, davidson library, university of california, santa barbara"
    ],
-   "score": 30.814337,
+   "score": 30.817324,
    "shelf_id": "Columbia A2372",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "vocal",
     "popular music",
-    "columbia"
+    "columbia",
+    "vocal"
    ],
    "timestamp": "2026-10-05T14:33:11.110Z",
    "title": "Rockaway",
@@ -583,9 +583,9 @@
    ],
    "campaigns": [],
    "contributor": [
+    "rogers, alex",
     "right quintette, the",
-    "cook, will marion",
-    "rogers, alex"
+    "cook, will marion"
    ],
    "date": "1915-12-24",
    "dates": [
@@ -631,17 +631,17 @@
    ],
    "partof": [
     "national jukebox",
-    "department of special collections, davidson library, university of california, santa barbara",
-    "recorded sound research center"
+    "recorded sound research center",
+    "department of special collections, davidson library, university of california, santa barbara"
    ],
-   "score": 30.814337,
+   "score": 30.817324,
    "shelf_id": "Columbia A1987",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "vocal",
-    "columbia"
+    "columbia",
+    "vocal"
    ],
    "timestamp": "2026-10-05T14:30:54.571Z",
    "title": "Exhortation",
@@ -662,8 +662,8 @@
    "campaigns": [],
    "contributor": [
     "right quintette, the",
-    "cook, will marion",
-    "rogers, alex"
+    "rogers, alex",
+    "cook, will marion"
    ],
    "date": "1915-12-24",
    "dates": [
@@ -709,17 +709,17 @@
    ],
    "partof": [
     "national jukebox",
-    "department of special collections, davidson library, university of california, santa barbara",
-    "recorded sound research center"
+    "recorded sound research center",
+    "department of special collections, davidson library, university of california, santa barbara"
    ],
-   "score": 30.814337,
+   "score": 30.817324,
    "shelf_id": "Columbia A1987",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "vocal",
-    "columbia"
+    "columbia",
+    "vocal"
    ],
    "timestamp": "2026-10-05T14:30:54.571Z",
    "title": "Rain song",
@@ -778,7 +778,7 @@
   "display_level": null,
   "distance": null,
   "downloadOption": null,
-  "duration": 22.33764338493347,
+  "duration": 1.0157182216644287,
   "embed": [],
   "embed!": [],
   "error_response_status": null,
@@ -937,7 +937,7 @@
   "suggested": null,
   "target": null,
   "template": "layouts/item/layout",
-  "timestamp": 1791308010.2161317,
+  "timestamp": 1791372881.4554884,
   "tz_aware": null,
   "unionFacets": "",
   "webcast_permalink": null
@@ -953,8 +953,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "williams, bert",
-    "rogers, alex"
+    "rogers, alex",
+    "williams, bert"
    ],
    "date": "1909",
    "dates": [
@@ -988,11 +988,11 @@
     "image/jp2"
    ],
    "number": [
-    "2016762620",
     "http://www.loc.gov/item/musm1508.10039348",
-    "2023-12-07t16:39:09",
+    "http://www.loc.gov/resource/musm1508.10039348.0",
     "http://www.loc.gov/item/2016762620",
-    "http://www.loc.gov/resource/musm1508.10039348.0"
+    "2016762620",
+    "2023-12-07t16:39:09"
    ],
    "online_format": [
     "image",
@@ -1006,7 +1006,7 @@
     "music division",
     "catalog"
    ],
-   "score": 13.371149,
+   "score": 13.3712015,
    "shelf_id": "https://repo.loc.gov/access/public/music/musm1508-10039348/.resource.json",
    "site": [
     "catalog"
@@ -1031,8 +1031,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "williams, bert",
-    "rogers, alex"
+    "rogers, alex",
+    "williams, bert"
    ],
    "date": "1909",
    "dates": [
@@ -1066,11 +1066,11 @@
     "image/jp2"
    ],
    "number": [
-    "http://www.loc.gov/item/2016762619",
-    "2023-12-07t16:39:09",
     "http://www.loc.gov/item/musm1508.10039349",
+    "http://www.loc.gov/resource/musm1508.10039349.0",
+    "http://www.loc.gov/item/2016762619",
     "2016762619",
-    "http://www.loc.gov/resource/musm1508.10039349.0"
+    "2023-12-07t16:39:09"
    ],
    "online_format": [
     "image",
@@ -1084,7 +1084,7 @@
     "music division",
     "catalog"
    ],
-   "score": 13.371149,
+   "score": 13.3712015,
    "shelf_id": "https://repo.loc.gov/access/public/music/musm1508-10039349/.resource.json",
    "site": [
     "catalog"
@@ -1109,8 +1109,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "williams, bert",
-    "rogers, alex"
+    "rogers, alex",
+    "williams, bert"
    ],
    "date": "1909",
    "dates": [
@@ -1144,11 +1144,11 @@
     "image/jp2"
    ],
    "number": [
-    "http://www.loc.gov/item/musm1508.10039350",
-    "2023-12-07t16:39:09",
     "http://www.loc.gov/resource/musm1508.10039350.0",
     "2016762618",
-    "http://www.loc.gov/item/2016762618"
+    "http://www.loc.gov/item/musm1508.10039350",
+    "http://www.loc.gov/item/2016762618",
+    "2023-12-07t16:39:09"
    ],
    "online_format": [
     "image",
@@ -1162,7 +1162,7 @@
     "music division",
     "catalog"
    ],
-   "score": 13.371149,
+   "score": 13.3712015,
    "shelf_id": "https://repo.loc.gov/access/public/music/musm1508-10039350/.resource.json",
    "site": [
     "catalog"
@@ -1187,8 +1187,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "williams, bert",
-    "rogers, alex"
+    "rogers, alex",
+    "williams, bert"
    ],
    "date": "1909",
    "dates": [
@@ -1222,11 +1222,11 @@
     "image/jp2"
    ],
    "number": [
+    "2016762617",
+    "http://www.loc.gov/item/musm1508.10039351",
     "http://www.loc.gov/item/2016762617",
     "2023-12-07t16:39:09",
-    "http://www.loc.gov/item/musm1508.10039351",
-    "http://www.loc.gov/resource/musm1508.10039351.0",
-    "2016762617"
+    "http://www.loc.gov/resource/musm1508.10039351.0"
    ],
    "online_format": [
     "image",
@@ -1240,7 +1240,7 @@
     "music division",
     "catalog"
    ],
-   "score": 13.371149,
+   "score": 13.3712015,
    "shelf_id": "https://repo.loc.gov/access/public/music/musm1508-10039351/.resource.json",
    "site": [
     "catalog"
@@ -1265,8 +1265,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "williams, bert",
-    "rogers, alex"
+    "rogers, alex",
+    "williams, bert"
    ],
    "date": "1909",
    "dates": [
@@ -1300,11 +1300,11 @@
     "image/jp2"
    ],
    "number": [
+    "http://www.loc.gov/resource/musm1508.10039354.0",
     "http://www.loc.gov/item/2016762614",
-    "2023-12-07t16:39:09",
     "2016762614",
     "http://www.loc.gov/item/musm1508.10039354",
-    "http://www.loc.gov/resource/musm1508.10039354.0"
+    "2023-12-07t16:39:09"
    ],
    "online_format": [
     "image",
@@ -1318,7 +1318,7 @@
     "music division",
     "catalog"
    ],
-   "score": 13.371149,
+   "score": 13.3712015,
    "shelf_id": "https://repo.loc.gov/access/public/music/musm1508-10039354/.resource.json",
    "site": [
     "catalog"
@@ -1343,8 +1343,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "williams, bert",
-    "rogers, alex"
+    "rogers, alex",
+    "williams, bert"
    ],
    "date": "1907",
    "dates": [
@@ -1378,9 +1378,9 @@
     "image/jp2"
    ],
    "number": [
-    "http://www.loc.gov/resource/musm1508.10076812.0",
-    "2023-12-07t16:48:24",
     "http://www.loc.gov/item/musm1508.10076812",
+    "2023-12-07t16:48:24",
+    "http://www.loc.gov/resource/musm1508.10076812.0",
     "2016730710",
     "http://www.loc.gov/item/2016730710"
    ],
@@ -1396,7 +1396,7 @@
     "music division",
     "catalog"
    ],
-   "score": 13.371149,
+   "score": 13.3712015,
    "shelf_id": "https://repo.loc.gov/access/public/music/musm1508-10076812/.resource.json",
    "site": [
     "catalog"
@@ -1495,5 +1495,5 @@
    "url": "https://www.loc.gov/resource/jukebox-728239.1"
   }
  ],
- "timestamp": 1791308032554
+ "timestamp": 1791372882471
 }

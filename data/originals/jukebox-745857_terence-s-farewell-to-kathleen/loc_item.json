@@ -1,0 +1,1583 @@
+{
+ "articles_and_essays": null,
+ "cite_this": {
+  "apa": "Thomas, W. (1912) <cite>Terence's farewell to Kathleen</cite>. [Audio] Retrieved from the Library of Congress, https://www.loc.gov/item/jukebox-745857/.",
+  "chicago": "Thomas, William. <cite>Terence's farewell to Kathleen</cite>. 1912. Audio. https://www.loc.gov/item/jukebox-745857/.",
+  "mla": "Thomas, William. <cite>Terence's farewell to Kathleen</cite>. 1912. Audio. Retrieved from the Library of Congress, &lt;www.loc.gov/item/jukebox-745857/&gt;."
+ },
+ "item": {
+  "_version_": 1878221582878375936,
+  "access_restricted": false,
+  "aka": [
+   "http://www.loc.gov/item/jukebox-745857/",
+   "http://www.loc.gov/resource/jukebox-745857.0/",
+   "http://www.loc.gov/resource/jukebox-745857.1/",
+   "http://www.loc.gov/resource/jukebox-745857.0",
+   "http://www.loc.gov/resource/jukebox-745857.1"
+  ],
+  "audio_type": "Vocal",
+  "campaigns": [],
+  "contributor_names": [
+   "Thomas, William -- Vocalist -- Tenor Vocal"
+  ],
+  "contributor_primary": [
+   "thomas, william"
+  ],
+  "contributor_vocalist": [
+   "thomas, william"
+  ],
+  "contributors": [
+   {
+    "thomas, william": "https://www.loc.gov/search/?fa=contributor:thomas,+william&fo=json"
+   }
+  ],
+  "contributors_primary": [
+   {
+    "thomas, william": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_primary:thomas,+william&fo=json"
+   }
+  ],
+  "contributors_vocalist": [
+   {
+    "thomas, william": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_vocalist:thomas,+william&fo=json"
+   }
+  ],
+  "date": "1912-12-31",
+  "dates": [
+   {
+    "1912-12-31": "https://www.loc.gov/search/?dates=1912-12-31/1912-12-31&fo=json"
+   }
+  ],
+  "description": [
+   "Columbia A1385. Matrix/Take: 28268/1."
+  ],
+  "digitized": true,
+  "display_offsite": true,
+  "extract_timestamp": "2026-10-05T06:49:33.409Z",
+  "extract_urls": [
+   "http://www.loc.gov/item/jukebox-745857#nationaljukebox"
+  ],
+  "file_id": [
+   "ucsb_col_a1385_01_28268_01"
+  ],
+  "format": [
+   {
+    "sound recording": "https://www.loc.gov/search/?fa=original_format:sound+recording&fo=json"
+   }
+  ],
+  "genre": [
+   "Popular music",
+   "Ethnic music"
+  ],
+  "group": [
+   "nationaljukebox",
+   "national-jukebox"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/item/jukebox-745857/",
+  "iiif_manifest_url": "https://www.loc.gov/item/jukebox-745857/manifest.json",
+  "image_url": [
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1385_01_28268_01:ucsb_col_a1385_01_28268_01/full/pct:12.5/0/default.jpg#h=329&w=329",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1385_01_28268_01:ucsb_col_a1385_01_28268_01/full/pct:25/0/default.jpg#h=658&w=658",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1385_01_28268_01:ucsb_col_a1385_01_28268_01/full/pct:50/0/default.jpg#h=1316&w=1316",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1385_01_28268_01:ucsb_col_a1385_01_28268_01/full/pct:100/0/default.jpg#h=2632&w=2632"
+  ],
+  "index": 1,
+  "item": {
+   "audio_type": "Vocal",
+   "contributors": [
+    "Thomas, William -- Vocalist -- Tenor Vocal"
+   ],
+   "file_id": [
+    "ucsb_col_a1385_01_28268_01"
+   ],
+   "genre": [
+    "Popular music",
+    "Ethnic music"
+   ],
+   "language": "English",
+   "media_size": "10-in.",
+   "profile": "jukebox",
+   "recording_catalog_number": "A1385",
+   "recording_date": "1912-12-31",
+   "recording_label": "Columbia",
+   "recording_matrix_number": "28268 (Matrix ID)",
+   "recording_repository": "Source of original recording: Department of Special Collections, Davidson Library, University of California, Santa Barbara.",
+   "recording_take_id": 745857,
+   "recording_take_number": "1",
+   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+   "summary": "Male vocal solo, with orchestra"
+  },
+  "language": [
+   "english"
+  ],
+  "languages": [
+   {
+    "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+   }
+  ],
+  "location": [
+   "united kingdom",
+   "london"
+  ],
+  "locations": [
+   {
+    "london": "https://www.loc.gov/search/?fa=location:london&fo=json"
+   },
+   {
+    "united kingdom": "https://www.loc.gov/search/?fa=location:united+kingdom&fo=json"
+   }
+  ],
+  "media_size": "10-in.",
+  "mime_type": [
+   "audio/mpeg",
+   "audio/wav",
+   "image/tif",
+   "image/jpeg"
+  ],
+  "online_format": [
+   "audio",
+   "image"
+  ],
+  "original_format": [
+   "sound recording"
+  ],
+  "other_formats": [],
+  "partof": [
+   {
+    "count": 10024,
+    "title": "department of special collections, davidson library, university of california, santa barbara",
+    "url": "https://www.loc.gov/search/?fa=partof:department+of+special+collections,+davidson+library,+university+of+california,+santa+barbara&fo=json"
+   },
+   {
+    "count": 20273,
+    "title": "national jukebox",
+    "url": "https://www.loc.gov/collections/national-jukebox/?fo=json"
+   },
+   {
+    "count": 20496,
+    "title": "recorded sound research center",
+    "url": "https://www.loc.gov/search/?fa=partof:recorded+sound+research+center&fo=json"
+   }
+  ],
+  "partof_repository": [
+   "department of special collections, davidson library, university of california, santa barbara"
+  ],
+  "profile": "jukebox",
+  "recording_catalog_number": "A1385",
+  "recording_date": "1912-12-31",
+  "recording_label": "Columbia",
+  "recording_matrix_number": "28268 (Matrix ID)",
+  "recording_repository": "Source of original recording: Department of Special Collections, Davidson Library, University of California, Santa Barbara.",
+  "recording_take_id": 745857,
+  "recording_take_number": "1",
+  "resources": [
+   {
+    "files": 1,
+    "media": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1385_01_28268_01:ucsb_col_a1385_01_28268_01/full/full/0/full/default.mp3",
+    "url": "https://www.loc.gov/resource/jukebox-745857.0"
+   },
+   {
+    "files": 1,
+    "image": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1385_01_28268_01:ucsb_col_a1385_01_28268_01/full/pct:100/0/default.jpg",
+    "mimetype": "image/jpeg",
+    "url": "https://www.loc.gov/resource/jukebox-745857.1"
+   }
+  ],
+  "rights": [
+   "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
+  ],
+  "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+  "score": 15.332891,
+  "shard": "01",
+  "shelf_id": "Columbia A1385",
+  "site": [
+   "nationaljukebox"
+  ],
+  "source_modified": "2000-01-01T12:00:00Z",
+  "subject": [
+   "ethnic music",
+   "vocal",
+   "popular music",
+   "columbia"
+  ],
+  "subject_category": [
+   "vocal"
+  ],
+  "subject_genre": [
+   "popular music",
+   "ethnic music"
+  ],
+  "subject_label": [
+   "columbia"
+  ],
+  "subjects": [
+   {
+    "columbia": "https://www.loc.gov/search/?fa=subject:columbia&fo=json"
+   },
+   {
+    "ethnic music": "https://www.loc.gov/search/?fa=subject:ethnic+music&fo=json"
+   },
+   {
+    "popular music": "https://www.loc.gov/search/?fa=subject:popular+music&fo=json"
+   },
+   {
+    "vocal": "https://www.loc.gov/search/?fa=subject:vocal&fo=json"
+   }
+  ],
+  "subjects_category": [
+   {
+    "vocal": "https://www.loc.gov/collections/national-jukebox/?fa=subject_category:vocal&fo=json"
+   }
+  ],
+  "subjects_genre": [
+   {
+    "ethnic music": "https://www.loc.gov/collections/national-jukebox/?fa=subject_genre:ethnic+music&fo=json"
+   },
+   {
+    "popular music": "https://www.loc.gov/collections/national-jukebox/?fa=subject_genre:popular+music&fo=json"
+   }
+  ],
+  "subjects_label": [
+   {
+    "columbia": "https://www.loc.gov/collections/national-jukebox/?fa=subject_label:columbia&fo=json"
+   }
+  ],
+  "summary": "Male vocal solo, with orchestra",
+  "timestamp": "2026-10-05T14:48:04.014Z",
+  "title": "Terence's farewell to Kathleen",
+  "type": [
+   "sound recording-musical"
+  ],
+  "url": "https://www.loc.gov/item/jukebox-745857/"
+ },
+ "more_like_this": [
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-745831/",
+    "http://www.loc.gov/resource/jukebox-745831.0/",
+    "http://www.loc.gov/resource/jukebox-745831.1/",
+    "http://www.loc.gov/resource/jukebox-745831.0",
+    "http://www.loc.gov/resource/jukebox-745831.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "thomas, william",
+    "french, arthur w.",
+    "persley, george w."
+   ],
+   "date": "1912-12-31",
+   "dates": [
+    "1912-12-31"
+   ],
+   "description": [
+    "Columbia A1413. Matrix/Take: 28266/2."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T06:49:33.409Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-745831/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1413_01_28266_02:ucsb_col_a1413_01_28266_02/full/pct:12.5/0/default.jpg#h=393&w=393",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1413_01_28266_02:ucsb_col_a1413_01_28266_02/full/pct:25/0/default.jpg#h=786&w=786",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1413_01_28266_02:ucsb_col_a1413_01_28266_02/full/pct:50/0/default.jpg#h=1572&w=1572",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1413_01_28266_02:ucsb_col_a1413_01_28266_02/full/pct:100/0/default.jpg#h=3145&w=3145"
+   ],
+   "index": 1,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "united kingdom",
+    "london"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "partof": [
+    "department of special collections, davidson library, university of california, santa barbara",
+    "national jukebox",
+    "recorded sound research center"
+   ],
+   "score": 41.499092,
+   "shelf_id": "Columbia A1413",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "vocal",
+    "popular music",
+    "columbia"
+   ],
+   "timestamp": "2026-10-05T14:48:04.014Z",
+   "title": "Barney, take me home again",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-745831/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-745832/",
+    "http://www.loc.gov/resource/jukebox-745832.0/",
+    "http://www.loc.gov/resource/jukebox-745832.1/",
+    "http://www.loc.gov/resource/jukebox-745832.0",
+    "http://www.loc.gov/resource/jukebox-745832.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "thomas, william",
+    "de vere, stephen e.",
+    "robinson, joseph"
+   ],
+   "date": "1912-12-31",
+   "dates": [
+    "1912-12-31"
+   ],
+   "description": [
+    "Columbia A1413. Matrix/Take: 28269/1."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T06:49:33.409Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-745832/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1413_01_28269_01:ucsb_col_a1413_01_28269_01/full/pct:12.5/0/default.jpg#h=331&w=331",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1413_01_28269_01:ucsb_col_a1413_01_28269_01/full/pct:25/0/default.jpg#h=663&w=663",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1413_01_28269_01:ucsb_col_a1413_01_28269_01/full/pct:50/0/default.jpg#h=1326&w=1326",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1413_01_28269_01:ucsb_col_a1413_01_28269_01/full/pct:100/0/default.jpg#h=2653&w=2653"
+   ],
+   "index": 2,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "united kingdom",
+    "london"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "partof": [
+    "department of special collections, davidson library, university of california, santa barbara",
+    "national jukebox",
+    "recorded sound research center"
+   ],
+   "score": 36.730175,
+   "shelf_id": "Columbia A1413",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "vocal",
+    "columbia"
+   ],
+   "timestamp": "2026-10-05T14:48:04.014Z",
+   "title": "The snowy breasted pearl",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-745832/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-745858/",
+    "http://www.loc.gov/resource/jukebox-745858.0/",
+    "http://www.loc.gov/resource/jukebox-745858.1/",
+    "http://www.loc.gov/resource/jukebox-745858.0",
+    "http://www.loc.gov/resource/jukebox-745858.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "thomas, william",
+    "lover, samuel"
+   ],
+   "date": "1912-12-31",
+   "dates": [
+    "1912-12-31"
+   ],
+   "description": [
+    "Columbia A1385. Matrix/Take: 28289/2."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T06:49:33.409Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-745858/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1385_01_28289_02:ucsb_col_a1385_01_28289_02/full/pct:12.5/0/default.jpg#h=307&w=307",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1385_01_28289_02:ucsb_col_a1385_01_28289_02/full/pct:25/0/default.jpg#h=614&w=614",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1385_01_28289_02:ucsb_col_a1385_01_28289_02/full/pct:50/0/default.jpg#h=1228&w=1228",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1385_01_28289_02:ucsb_col_a1385_01_28289_02/full/pct:100/0/default.jpg#h=2457&w=2457"
+   ],
+   "index": 3,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "united kingdom",
+    "london"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Rory O'More"
+   ],
+   "partof": [
+    "department of special collections, davidson library, university of california, santa barbara",
+    "national jukebox",
+    "recorded sound research center"
+   ],
+   "score": 36.730175,
+   "shelf_id": "Columbia A1385",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "vocal",
+    "columbia"
+   ],
+   "timestamp": "2026-10-05T14:48:04.014Z",
+   "title": "Rory O’Moore",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-745858/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-713136/",
+    "http://www.loc.gov/resource/jukebox-713136.0/",
+    "http://www.loc.gov/resource/jukebox-713136.1/",
+    "http://www.loc.gov/resource/jukebox-713136.0",
+    "http://www.loc.gov/resource/jukebox-713136.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "williams, billy",
+    "godfrey, fred"
+   ],
+   "date": "1912-12-31",
+   "dates": [
+    "1912-12-31"
+   ],
+   "description": [
+    "Columbia A1729. Matrix/Take: 27932/1."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T06:10:00.880Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-713136/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1729_01_27932_01:ucsb_col_a1729_01_27932_01/full/pct:12.5/0/default.jpg#h=330&w=330",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1729_01_27932_01:ucsb_col_a1729_01_27932_01/full/pct:25/0/default.jpg#h=661&w=661",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1729_01_27932_01:ucsb_col_a1729_01_27932_01/full/pct:50/0/default.jpg#h=1323&w=1323",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1729_01_27932_01:ucsb_col_a1729_01_27932_01/full/pct:100/0/default.jpg#h=2647&w=2647"
+   ],
+   "index": 4,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "united kingdom",
+    "london"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Comic song"
+   ],
+   "partof": [
+    "department of special collections, davidson library, university of california, santa barbara",
+    "national jukebox",
+    "recorded sound research center"
+   ],
+   "score": 34.453472,
+   "shelf_id": "Columbia A1729",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "humorous songs",
+    "vocal",
+    "popular music",
+    "columbia"
+   ],
+   "timestamp": "2026-10-05T14:44:40.905Z",
+   "title": "All the silver from the silvery moon",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-713136/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-747784/",
+    "http://www.loc.gov/resource/jukebox-747784.0/",
+    "http://www.loc.gov/resource/jukebox-747784.1/",
+    "http://www.loc.gov/resource/jukebox-747784.0",
+    "http://www.loc.gov/resource/jukebox-747784.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "thomas, william"
+   ],
+   "date": "1912-12-31",
+   "dates": [
+    "1912-12-31"
+   ],
+   "description": [
+    "Columbia A1676. Matrix/Take: 28003/1."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T06:51:02.846Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-747784/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1676_01_28003_01:ucsb_col_a1676_01_28003_01/full/pct:12.5/0/default.jpg#h=303&w=303",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1676_01_28003_01:ucsb_col_a1676_01_28003_01/full/pct:25/0/default.jpg#h=606&w=606",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1676_01_28003_01:ucsb_col_a1676_01_28003_01/full/pct:50/0/default.jpg#h=1213&w=1213",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1676_01_28003_01:ucsb_col_a1676_01_28003_01/full/pct:100/0/default.jpg#h=2427&w=2427"
+   ],
+   "index": 5,
+   "language": [
+    "english"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "partof": [
+    "department of special collections, davidson library, university of california, santa barbara",
+    "national jukebox",
+    "recorded sound research center"
+   ],
+   "score": 32.52042,
+   "shelf_id": "Columbia A1676",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "vocal",
+    "popular music",
+    "columbia"
+   ],
+   "timestamp": "2026-10-05T14:48:23.696Z",
+   "title": "The wearing of the green, The wearin’ o’ the green",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-747784/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-747915/",
+    "http://www.loc.gov/resource/jukebox-747915.0/",
+    "http://www.loc.gov/resource/jukebox-747915.1/",
+    "http://www.loc.gov/resource/jukebox-747915.0",
+    "http://www.loc.gov/resource/jukebox-747915.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "thomas, william",
+    "lover, samuel"
+   ],
+   "date": "1912-12-31",
+   "dates": [
+    "1912-12-31"
+   ],
+   "description": [
+    "Columbia A1447. Matrix/Take: 28287/1."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T06:52:48.108Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-747915/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1447_01_28287_01:ucsb_col_a1447_01_28287_01/full/pct:12.5/0/default.jpg#h=311&w=311",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1447_01_28287_01:ucsb_col_a1447_01_28287_01/full/pct:25/0/default.jpg#h=622&w=622",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1447_01_28287_01:ucsb_col_a1447_01_28287_01/full/pct:50/0/default.jpg#h=1244&w=1244",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1447_01_28287_01:ucsb_col_a1447_01_28287_01/full/pct:100/0/default.jpg#h=2488&w=2488"
+   ],
+   "index": 6,
+   "language": [
+    "english"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "partof": [
+    "department of special collections, davidson library, university of california, santa barbara",
+    "national jukebox",
+    "recorded sound research center"
+   ],
+   "score": 32.52042,
+   "shelf_id": "Columbia A1447",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "vocal",
+    "popular music",
+    "columbia"
+   ],
+   "timestamp": "2026-10-05T14:48:23.696Z",
+   "title": "Barney O'Hea",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-747915/"
+  }
+ ],
+ "notice": {
+  "info": "<strong>COLUMBUS DAY HOLIDAY:</strong> On Monday, October 12, 2026, The Jefferson Building Great Hall and exhibitions will be open from 10 a.m. - 5 p.m. to guests with timed-entry passes. The Main Reading Room will be open to visitors, no research or collections services available. All other reading rooms, the Madison and Adams Buildings will be CLOSED to the public. Regularly scheduled access resumes on Tuesday, October 13. \n",
+  "status": "production"
+ },
+ "options": {
+  "access_group": [
+   ""
+  ],
+  "access_group_raw": "",
+  "all": null,
+  "api_version": "1",
+  "app_context": null,
+  "application_shim": null,
+  "application_version": "$Revision$",
+  "attribute": null,
+  "attribute!": null,
+  "attribute_map": null,
+  "cache_tags": [
+   "nationaljukebox",
+   "national-jukebox",
+   "paprika-music",
+   "catalog-split-01",
+   "catalog",
+   "main-catalog-split-01",
+   "catalog-split-14",
+   "main-catalog-split-14",
+   "catalog-split-11",
+   "main-catalog-split-11",
+   "catalog-split-05",
+   "main-catalog-split-05",
+   "catalog-split-10",
+   "main-catalog-split-10",
+   "ndnp/dlc-2020_now",
+   "library-of-congress-washington-dc-awardee-8"
+  ],
+  "callback": null,
+  "clip": null,
+  "clip_image_width": null,
+  "clip_rotation": null,
+  "content_filter": null,
+  "content_replacement": "",
+  "count": null,
+  "dates": null,
+  "default_count": 25,
+  "delimiter": null,
+  "digital_id": null,
+  "display_level": null,
+  "distance": null,
+  "downloadOption": null,
+  "duration": 1.010859727859497,
+  "embed": [],
+  "embed!": [],
+  "error_response_status": null,
+  "excludeTerms": null,
+  "facetLimits": "",
+  "facetPrefix": null,
+  "facet_count": null,
+  "facet_style": null,
+  "field": null,
+  "form_facets": [
+   {
+    "field": "subject_label",
+    "select": "multiple"
+   },
+   {
+    "field": "subject_category",
+    "select": "multiple"
+   },
+   {
+    "field": "language",
+    "select": "multiple"
+   }
+  ],
+  "format": "json",
+  "host": "www.loc.gov",
+  "ical": false,
+  "id": "jukebox-745857/",
+  "iiif": false,
+  "include_facets": [
+   {
+    "field": "original-format"
+   },
+   {
+    "field": "partof_repository",
+    "label": "Repository"
+   },
+   {
+    "field": "subject_label",
+    "label": "Label"
+   },
+   {
+    "field": "dates"
+   },
+   {
+    "field": "subject_genre",
+    "label": "Genre"
+   },
+   {
+    "closed": true,
+    "field": "subject_target_audience",
+    "label": "Target Audience"
+   },
+   {
+    "closed": true,
+    "field": "subject_category",
+    "label": "Category"
+   },
+   {
+    "closed": true,
+    "field": "location"
+   },
+   {
+    "closed": true,
+    "field": "contributor"
+   },
+   {
+    "closed": true,
+    "field": "contributor_vocalist",
+    "label": "Vocalist"
+   },
+   {
+    "closed": true,
+    "field": "contributor_composer",
+    "label": "Composer"
+   },
+   {
+    "closed": true,
+    "field": "contributor_lyricist",
+    "label": "Lyricist"
+   },
+   {
+    "closed": true,
+    "field": "contributor_author",
+    "label": "Author"
+   },
+   {
+    "closed": true,
+    "field": "contributor_performer",
+    "label": "Performer"
+   },
+   {
+    "closed": true,
+    "field": "contributor_musical_group",
+    "label": "Musical Group"
+   },
+   {
+    "closed": true,
+    "field": "subject"
+   },
+   {
+    "closed": true,
+    "field": "language"
+   },
+   {
+    "field": "access-restricted"
+   }
+  ],
+  "index": null,
+  "inputEncoding": "UTF-8",
+  "item": null,
+  "items": null,
+  "keys": null,
+  "language": null,
+  "latlong": null,
+  "method": "GET",
+  "newSearch": null,
+  "new_clip_url": false,
+  "onsite": false,
+  "operator": null,
+  "outputEncoding": "UTF-8",
+  "page_campaigns": [],
+  "path_info": "/item/jukebox-745857/",
+  "port": "443",
+  "proxypath": null,
+  "query_string": "fo=json",
+  "redirect_proxy": false,
+  "redirect_to_item": null,
+  "referer": "",
+  "region": "",
+  "release_id": 123456789,
+  "request_host": "www.loc.gov",
+  "request_params": {
+   "fo": [
+    "json"
+   ]
+  },
+  "request_url": "https://www.loc.gov/item/jukebox-745857/?fo=json",
+  "resource": "",
+  "resource_sequence": null,
+  "scheme": "https",
+  "searchIn": null,
+  "searchTerms": "",
+  "segments": null,
+  "shards": [
+   "01"
+  ],
+  "site_date_range": "1900-01-01/1925-12-31",
+  "site_defaults": [],
+  "site_id": null,
+  "site_type": null,
+  "solrQuery": "",
+  "sortBy": null,
+  "sortOrder": null,
+  "startPage": null,
+  "style": null,
+  "suggested": null,
+  "target": null,
+  "template": "layouts/item/layout",
+  "timestamp": 1791373192.7539833,
+  "tz_aware": null,
+  "unionFacets": "",
+  "webcast_permalink": null
+ },
+ "related_items": [
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://lccn.loc.gov/2014571373",
+    "http://www.loc.gov/item/2014571373/",
+    "http://www.loc.gov/resource/music.muswwism-200205690/",
+    "https://hdl.loc.gov/loc.music/2014571373",
+    "http://www.loc.gov/resource/2014571373/"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "hill, arthur",
+    "bramwell, j. calder"
+   ],
+   "date": "1917",
+   "dates": [
+    "1917"
+   ],
+   "description": [
+    "For voice and piano. Also available in digital form on the Library of Congress Web site. Staff notation."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2025-06-10T07:58:24.195Z",
+   "group": [
+    "paprika-music",
+    "catalog-split-01",
+    "catalog",
+    "main-catalog-split-01"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/2014571373/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:music:muswwism-200205690:0001/full/pct:6.25/0/default.jpg",
+    "https://tile.loc.gov/image-services/iiif/public:music:muswwism-200205690:0001/full/pct:6.25/0/default.jpg#h=355&w=277",
+    "https://tile.loc.gov/image-services/iiif/public:music:muswwism-200205690:0001/full/pct:12.5/0/default.jpg#h=711&w=554",
+    "https://tile.loc.gov/image-services/iiif/public:music:muswwism-200205690:0001/full/pct:25.0/0/default.jpg#h=1422&w=1109",
+    "https://tile.loc.gov/image-services/iiif/public:music:muswwism-200205690:0001/full/pct:50.0/0/default.jpg#h=2845&w=2219",
+    "https://tile.loc.gov/image-services/iiif/public:music:muswwism-200205690:0001/full/pct:100.0/0/default.jpg#h=5691&w=4438"
+   ],
+   "index": 1,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "united states",
+    "united kingdom"
+   ],
+   "mime_type": [
+    "image/jpeg",
+    "application/pdf",
+    "image/jp2"
+   ],
+   "number": [
+    "2023-10-12t14:48:24",
+    "2014571373",
+    "http://www.loc.gov/item/ihas.200205690",
+    "http://www.loc.gov/resource/ihas.200205690.0",
+    "http://www.loc.gov/item/2014571373"
+   ],
+   "online_format": [
+    "image",
+    "pdf"
+   ],
+   "original_format": [
+    "notated music"
+   ],
+   "partof": [
+    "world war i sheet music",
+    "the library of congress celebrates the songs of america",
+    "music division",
+    "catalog"
+   ],
+   "score": 10.990313,
+   "shelf_id": "https://repo.loc.gov/access/public/music/muswwism-200205690/.resource.json",
+   "site": [
+    "catalog"
+   ],
+   "subject": [
+    "songs and music",
+    "world war",
+    "united kingdom",
+    "flags",
+    "united states",
+    "popular music"
+   ],
+   "timestamp": "2025-06-10T08:59:10.932Z",
+   "title": "Rally, boys, rally marching song",
+   "type": [
+    "notated music"
+   ],
+   "url": "https://www.loc.gov/item/2014571373/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://lccn.loc.gov/2013560904",
+    "http://www.loc.gov/item/2013560904/",
+    "http://www.loc.gov/resource/music.muswwism-200205838/",
+    "https://hdl.loc.gov/loc.music/2013560904",
+    "http://www.loc.gov/resource/2013560904/"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "hopley, joseph b.",
+    "jeffrey, j. g."
+   ],
+   "date": "1919",
+   "dates": [
+    "1919"
+   ],
+   "description": [
+    "For voice and piano. Also available in digital form on the Library of Congress Web site. Staff notation."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2025-06-10T07:46:08.103Z",
+   "group": [
+    "paprika-music",
+    "catalog-split-14",
+    "catalog",
+    "main-catalog-split-14"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/2013560904/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:music:muswwism-200205838:0001/full/pct:6.25/0/default.jpg",
+    "https://tile.loc.gov/image-services/iiif/public:music:muswwism-200205838:0001/full/pct:6.25/0/default.jpg#h=351&w=272",
+    "https://tile.loc.gov/image-services/iiif/public:music:muswwism-200205838:0001/full/pct:12.5/0/default.jpg#h=702&w=544",
+    "https://tile.loc.gov/image-services/iiif/public:music:muswwism-200205838:0001/full/pct:25.0/0/default.jpg#h=1405&w=1089",
+    "https://tile.loc.gov/image-services/iiif/public:music:muswwism-200205838:0001/full/pct:50.0/0/default.jpg#h=2811&w=2178",
+    "https://tile.loc.gov/image-services/iiif/public:music:muswwism-200205838:0001/full/pct:100.0/0/default.jpg#h=5622&w=4356"
+   ],
+   "index": 2,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "united states",
+    "france",
+    "united kingdom"
+   ],
+   "mime_type": [
+    "image/jpeg",
+    "application/pdf",
+    "image/jp2"
+   ],
+   "number": [
+    "http://www.loc.gov/item/ihas.200205838",
+    "http://www.loc.gov/resource/ihas.200205838.0",
+    "http://www.loc.gov/item/2013560904",
+    "2013560904",
+    "2023-10-05t09:45:07"
+   ],
+   "online_format": [
+    "image",
+    "pdf"
+   ],
+   "original_format": [
+    "notated music"
+   ],
+   "partof": [
+    "world war i sheet music",
+    "the library of congress celebrates the songs of america",
+    "music division",
+    "catalog"
+   ],
+   "score": 10.990313,
+   "shelf_id": "https://repo.loc.gov/access/public/music/muswwism-200205838/.resource.json",
+   "site": [
+    "catalog"
+   ],
+   "subject": [
+    "songs and music",
+    "france",
+    "allied and associated powers",
+    "world war",
+    "united kingdom",
+    "flags",
+    "united states",
+    "popular music"
+   ],
+   "timestamp": "2025-06-10T09:02:41.455Z",
+   "title": "The flag's adieu",
+   "type": [
+    "notated music"
+   ],
+   "url": "https://www.loc.gov/item/2013560904/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://lccn.loc.gov/2014560270",
+    "http://www.loc.gov/item/2014560270/",
+    "http://www.loc.gov/resource/music.muswwism-200199874/",
+    "https://hdl.loc.gov/loc.music/2014560270",
+    "http://www.loc.gov/resource/2014560270/"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "browne, raymond a.",
+    "beaumont, fred"
+   ],
+   "date": "1918",
+   "dates": [
+    "1918"
+   ],
+   "description": [
+    "Melody only. Manuscript in ink, with typescript lyrics. Also available in digital form on the Library of Congress Web site. Staff notation."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2025-06-08T09:33:17.941Z",
+   "group": [
+    "paprika-music",
+    "catalog-split-11",
+    "catalog",
+    "main-catalog-split-11"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/2014560270/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:music:muswwism-200199874:0001/full/pct:6.25/0/default.jpg",
+    "https://tile.loc.gov/image-services/iiif/public:music:muswwism-200199874:0001/full/pct:6.25/0/default.jpg#h=325&w=252",
+    "https://tile.loc.gov/image-services/iiif/public:music:muswwism-200199874:0001/full/pct:12.5/0/default.jpg#h=650&w=504",
+    "https://tile.loc.gov/image-services/iiif/public:music:muswwism-200199874:0001/full/pct:25.0/0/default.jpg#h=1300&w=1009",
+    "https://tile.loc.gov/image-services/iiif/public:music:muswwism-200199874:0001/full/pct:50.0/0/default.jpg#h=2600&w=2018",
+    "https://tile.loc.gov/image-services/iiif/public:music:muswwism-200199874:0001/full/pct:100.0/0/default.jpg#h=5201&w=4037"
+   ],
+   "index": 3,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "united states",
+    "united kingdom"
+   ],
+   "mime_type": [
+    "image/jpeg",
+    "application/pdf",
+    "image/jp2"
+   ],
+   "number": [
+    "2014560270",
+    "http://www.loc.gov/item/ihas.200199874",
+    "http://www.loc.gov/resource/ihas.200199874.0",
+    "http://www.loc.gov/item/2014560270",
+    "2023-10-12t14:43:03"
+   ],
+   "online_format": [
+    "image",
+    "pdf"
+   ],
+   "original_format": [
+    "notated music"
+   ],
+   "partof": [
+    "world war i sheet music",
+    "the library of congress celebrates the songs of america",
+    "music division",
+    "catalog"
+   ],
+   "score": 10.990313,
+   "shelf_id": "https://repo.loc.gov/access/public/music/muswwism-200199874/.resource.json",
+   "site": [
+    "catalog"
+   ],
+   "subject": [
+    "songs and music",
+    "song and music",
+    "world war",
+    "united kingdom",
+    "flags",
+    "united states",
+    "popular music"
+   ],
+   "timestamp": "2025-06-08T11:09:06.964Z",
+   "title": "We're going back to the union Jack!",
+   "type": [
+    "notated music"
+   ],
+   "url": "https://www.loc.gov/item/2014560270/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://lccn.loc.gov/2014560487",
+    "http://www.loc.gov/item/2014560487/",
+    "http://www.loc.gov/resource/music.muswwism-200199805/",
+    "https://hdl.loc.gov/loc.music/2014560487",
+    "http://www.loc.gov/resource/2014560487/"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "browne, raymond a.",
+    "shellington, alice l."
+   ],
+   "date": "1917",
+   "dates": [
+    "1917"
+   ],
+   "description": [
+    "Melody only. Manuscript in ink, with typescript lyrics. Also available in digital form on the Library of Congress Web site. Staff notation."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2025-06-08T10:37:04.317Z",
+   "group": [
+    "paprika-music",
+    "catalog-split-05",
+    "catalog",
+    "main-catalog-split-05"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/2014560487/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:music:muswwism-200199805:0001/full/pct:6.25/0/default.jpg",
+    "https://tile.loc.gov/image-services/iiif/public:music:muswwism-200199805:0001/full/pct:6.25/0/default.jpg#h=327&w=250",
+    "https://tile.loc.gov/image-services/iiif/public:music:muswwism-200199805:0001/full/pct:12.5/0/default.jpg#h=655&w=500",
+    "https://tile.loc.gov/image-services/iiif/public:music:muswwism-200199805:0001/full/pct:25.0/0/default.jpg#h=1311&w=1001",
+    "https://tile.loc.gov/image-services/iiif/public:music:muswwism-200199805:0001/full/pct:50.0/0/default.jpg#h=2622&w=2003",
+    "https://tile.loc.gov/image-services/iiif/public:music:muswwism-200199805:0001/full/pct:100.0/0/default.jpg#h=5244&w=4007"
+   ],
+   "index": 4,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "united states",
+    "united kingdom"
+   ],
+   "mime_type": [
+    "image/jpeg",
+    "application/pdf",
+    "image/jp2"
+   ],
+   "number": [
+    "http://www.loc.gov/item/ihas.200199805",
+    "2014560487",
+    "http://www.loc.gov/item/2014560487",
+    "http://www.loc.gov/resource/ihas.200199805.0",
+    "2023-10-12t14:42:59"
+   ],
+   "online_format": [
+    "image",
+    "pdf"
+   ],
+   "original_format": [
+    "notated music"
+   ],
+   "partof": [
+    "world war i sheet music",
+    "the library of congress celebrates the songs of america",
+    "music division",
+    "catalog"
+   ],
+   "score": 10.990313,
+   "shelf_id": "https://repo.loc.gov/access/public/music/muswwism-200199805/.resource.json",
+   "site": [
+    "catalog"
+   ],
+   "subject": [
+    "songs and music",
+    "world war",
+    "united kingdom",
+    "flags",
+    "united states",
+    "popular music"
+   ],
+   "timestamp": "2025-06-08T11:09:06.964Z",
+   "title": "Two flags that float together",
+   "type": [
+    "notated music"
+   ],
+   "url": "https://www.loc.gov/item/2014560487/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://lccn.loc.gov/2014560314",
+    "http://www.loc.gov/item/2014560314/",
+    "http://www.loc.gov/resource/music.muswwism-200199918/",
+    "https://hdl.loc.gov/loc.music/2014560314",
+    "http://www.loc.gov/resource/2014560314/"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "browne, raymond a.",
+    "williams, samuel worthington"
+   ],
+   "date": "1917",
+   "dates": [
+    "1917"
+   ],
+   "description": [
+    "Melody only. Manuscript in ink, with typescript lyrics. Also available in digital form on the Library of Congress Web site. Staff notation."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2025-06-08T09:51:43.667Z",
+   "group": [
+    "paprika-music",
+    "catalog-split-10",
+    "catalog",
+    "main-catalog-split-10"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/2014560314/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:music:muswwism-200199918:0001/full/pct:6.25/0/default.jpg",
+    "https://tile.loc.gov/image-services/iiif/public:music:muswwism-200199918:0001/full/pct:6.25/0/default.jpg#h=326&w=251",
+    "https://tile.loc.gov/image-services/iiif/public:music:muswwism-200199918:0001/full/pct:12.5/0/default.jpg#h=652&w=503",
+    "https://tile.loc.gov/image-services/iiif/public:music:muswwism-200199918:0001/full/pct:25.0/0/default.jpg#h=1304&w=1007",
+    "https://tile.loc.gov/image-services/iiif/public:music:muswwism-200199918:0001/full/pct:50.0/0/default.jpg#h=2608&w=2015",
+    "https://tile.loc.gov/image-services/iiif/public:music:muswwism-200199918:0001/full/pct:100.0/0/default.jpg#h=5217&w=4031"
+   ],
+   "index": 5,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "united states",
+    "france",
+    "united kingdom"
+   ],
+   "mime_type": [
+    "image/jpeg",
+    "application/pdf",
+    "image/jp2"
+   ],
+   "number": [
+    "http://www.loc.gov/resource/ihas.200199918.0",
+    "2023-10-12t14:43:06",
+    "http://www.loc.gov/item/2014560314",
+    "http://www.loc.gov/item/ihas.200199918",
+    "2014560314"
+   ],
+   "online_format": [
+    "image",
+    "pdf"
+   ],
+   "original_format": [
+    "notated music"
+   ],
+   "partof": [
+    "world war i sheet music",
+    "the library of congress celebrates the songs of america",
+    "music division",
+    "catalog"
+   ],
+   "score": 10.990313,
+   "shelf_id": "https://repo.loc.gov/access/public/music/muswwism-200199918/.resource.json",
+   "site": [
+    "catalog"
+   ],
+   "subject": [
+    "songs and music",
+    "france",
+    "allied and associated powers",
+    "world war",
+    "united kingdom",
+    "flags",
+    "united states",
+    "popular music"
+   ],
+   "timestamp": "2025-06-08T11:10:29.282Z",
+   "title": "When the three flags float as one",
+   "type": [
+    "notated music"
+   ],
+   "url": "https://www.loc.gov/item/2014560314/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/sn83025803/1923-01-27/ed-1/",
+    "http://www.loc.gov/resource/sn83025803/1923-01-27/ed-1/"
+   ],
+   "batch": [
+    "dlc_greatsalt_ver02"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "library of congress, washington, dc"
+   ],
+   "date": "1923-01-27",
+   "dates": [
+    "1923-01-27"
+   ],
+   "description": [
+    "Columbia, S.C."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2023-08-07T20:31:54.774Z",
+   "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/sn83025803/1923-01-27/ed-1/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_greatsalt_ver02:data:sn83025803:00220720366:1923012701:0001/full/pct:3.125/0/default.jpg#h=297&w=209",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_greatsalt_ver02:data:sn83025803:00220720366:1923012701:0001/full/pct:6.25/0/default.jpg#h=595&w=418",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_greatsalt_ver02:data:sn83025803:00220720366:1923012701:0001/full/pct:12.5/0/default.jpg#h=1191&w=836"
+   ],
+   "index": 6,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "richland county",
+    "columbia",
+    "united states",
+    "south carolina",
+    "richland"
+   ],
+   "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg"
+   ],
+   "number": [
+    "1",
+    "sn83025803",
+    "00220720366"
+   ],
+   "numeric_shelf_id": 192301271,
+   "online_format": [
+    "image",
+    "pdf",
+    "online text"
+   ],
+   "original_format": [
+    "newspaper"
+   ],
+   "partof": [
+    "the southern indicator (columbia, s.c.) 1903-1925",
+    "serial and government publications division",
+    "chronicling america"
+   ],
+   "publication_frequency": [
+    "weekly"
+   ],
+   "score": 8.395876,
+   "shelf_id": "sn83025803, 1923-01-27, Edition 1",
+   "site": [
+    "chroniclingamerica"
+   ],
+   "subject": [
+    "columbia (s.c.)",
+    "richland county",
+    "columbia",
+    "african american",
+    "richland",
+    "african americans",
+    "richland county (s.c.)",
+    "newspapers",
+    "south carolina",
+    "united states"
+   ],
+   "timestamp": "2023-08-08T08:28:37.775Z",
+   "title": "The Southern indicator (Columbia, S.C.), January 27, 1923",
+   "type": [
+    "issue"
+   ],
+   "url": "https://www.loc.gov/item/sn83025803/1923-01-27/ed-1/"
+  }
+ ],
+ "resources": [
+  {
+   "audio": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1385_01_28268_01:ucsb_col_a1385_01_28268_01/full/full/0/full/default.mp3",
+   "files": [
+    [
+     {
+      "aspectRation": "4:3",
+      "autoPlay": false,
+      "canDownload": true,
+      "derivatives": [
+       {
+        "derivativeUrl": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/ucsb_col_a1385_01_28268_01/ucsb_col_a1385_01_28268_01.mp3"
+       }
+      ],
+      "detailUrl": "https://www.loc.gov/item/jukebox-745857",
+      "download": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1385_01_28268_01:ucsb_col_a1385_01_28268_01/full/full/0/full/default.mp3",
+      "duration": 182.0,
+      "filename": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/ucsb_col_a1385_01_28268_01/ucsb_col_a1385_01_28268_01.mp3",
+      "mediaType": "A",
+      "metadata": [
+       "Terence's farewell to Kathleen",
+       "Male vocal solo, with orchestra"
+      ],
+      "mimetype": "audio/mpeg",
+      "poster": null,
+      "rights_restricted": true,
+      "shortName": "Terence's farewell to Kathleen",
+      "thumbnail_url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1385_01_28268_01:ucsb_col_a1385_01_28268_01/full/pct:12.5/0/default.jpg"
+     },
+     {
+      "height": null,
+      "levels": 1,
+      "mimetype": "audio/wav",
+      "size": 32135464,
+      "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/ucsb_col_a1385_01_28268_01/ucsb_col_a1385_01_28268_01.wav",
+      "width": null
+     }
+    ]
+   ],
+   "url": "https://www.loc.gov/resource/jukebox-745857.0"
+  },
+  {
+   "files": [
+    [
+     {
+      "height": 329,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1385_01_28268_01:ucsb_col_a1385_01_28268_01/full/pct:12.5/0/default.jpg",
+      "width": 329
+     },
+     {
+      "height": 658,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1385_01_28268_01:ucsb_col_a1385_01_28268_01/full/pct:25/0/default.jpg",
+      "width": 658
+     },
+     {
+      "height": 1316,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1385_01_28268_01:ucsb_col_a1385_01_28268_01/full/pct:50/0/default.jpg",
+      "width": 1316
+     },
+     {
+      "height": 2632,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1385_01_28268_01:ucsb_col_a1385_01_28268_01/full/pct:100/0/default.jpg",
+      "width": 2632
+     },
+     {
+      "height": null,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 20816532,
+      "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/ucsb_col_a1385_01_28268_01/ucsb_col_a1385_01_28268_01.tif",
+      "width": null
+     }
+    ]
+   ],
+   "image": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1385_01_28268_01:ucsb_col_a1385_01_28268_01/full/pct:100/0/default.jpg",
+   "mimetype": "image/jpeg",
+   "url": "https://www.loc.gov/resource/jukebox-745857.1"
+  }
+ ],
+ "timestamp": 1791373193765
+}

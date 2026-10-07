@@ -1,0 +1,1610 @@
+{
+ "articles_and_essays": null,
+ "cite_this": {
+  "apa": "Bizet, G. &amp; Cisneros, E. D. (1908) <cite>Habanera</cite>. [Audio] Retrieved from the Library of Congress, https://www.loc.gov/item/jukebox-772838/.",
+  "chicago": "Bizet, Georges, and Eleanora De Cisneros. <cite>Habanera</cite>. 1908. Audio. https://www.loc.gov/item/jukebox-772838/.",
+  "mla": "Bizet, Georges, and Eleanora De Cisneros. <cite>Habanera</cite>. 1908. Audio. Retrieved from the Library of Congress, &lt;www.loc.gov/item/jukebox-772838/&gt;."
+ },
+ "item": {
+  "_version_": 1878221976782241792,
+  "access_restricted": false,
+  "aka": [
+   "http://www.loc.gov/item/jukebox-772838/",
+   "http://www.loc.gov/resource/jukebox-772838.0/",
+   "http://www.loc.gov/resource/jukebox-772838.1/",
+   "http://www.loc.gov/resource/jukebox-772838.0",
+   "http://www.loc.gov/resource/jukebox-772838.1"
+  ],
+  "audio_type": "Vocal",
+  "campaigns": [],
+  "contributor_composer": [
+   "bizet, georges"
+  ],
+  "contributor_names": [
+   "Bizet, Georges -- Composer -- Composer",
+   "Cisneros, Eleanora de -- Vocalist -- Mezzo-Soprano"
+  ],
+  "contributor_primary": [
+   "cisneros, eleanora de"
+  ],
+  "contributor_vocalist": [
+   "cisneros, eleanora de"
+  ],
+  "contributors": [
+   {
+    "bizet, georges": "https://www.loc.gov/search/?fa=contributor:bizet,+georges&fo=json"
+   },
+   {
+    "cisneros, eleanora de": "https://www.loc.gov/search/?fa=contributor:cisneros,+eleanora+de&fo=json"
+   }
+  ],
+  "contributors_composer": [
+   {
+    "bizet, georges": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_composer:bizet,+georges&fo=json"
+   }
+  ],
+  "contributors_primary": [
+   {
+    "cisneros, eleanora de": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_primary:cisneros,+eleanora+de&fo=json"
+   }
+  ],
+  "contributors_vocalist": [
+   {
+    "cisneros, eleanora de": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_vocalist:cisneros,+eleanora+de&fo=json"
+   }
+  ],
+  "date": "1908-12-31",
+  "dates": [
+   {
+    "1908-12-31": "https://www.loc.gov/search/?dates=1908-12-31/1908-12-31&fo=json"
+   }
+  ],
+  "description": [
+   "Columbia 10198. Matrix/Take: 10198/1."
+  ],
+  "digitized": true,
+  "display_offsite": true,
+  "extract_timestamp": "2026-10-05T07:34:39.211Z",
+  "extract_urls": [
+   "http://www.loc.gov/item/jukebox-772838#nationaljukebox"
+  ],
+  "file_id": [
+   "ucsb_col_10198_01_10198_01"
+  ],
+  "format": [
+   {
+    "sound recording": "https://www.loc.gov/search/?fa=original_format:sound+recording&fo=json"
+   }
+  ],
+  "group": [
+   "nationaljukebox",
+   "national-jukebox"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/item/jukebox-772838/",
+  "iiif_manifest_url": "https://www.loc.gov/item/jukebox-772838/manifest.json",
+  "image_url": [
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_10198_01_10198_01:ucsb_col_10198_01_10198_01/full/pct:12.5/0/default.jpg#h=456&w=456",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_10198_01_10198_01:ucsb_col_10198_01_10198_01/full/pct:25/0/default.jpg#h=912&w=912",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_10198_01_10198_01:ucsb_col_10198_01_10198_01/full/pct:50/0/default.jpg#h=1824&w=1824",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_10198_01_10198_01:ucsb_col_10198_01_10198_01/full/pct:100/0/default.jpg#h=3648&w=3648"
+  ],
+  "index": 1,
+  "item": {
+   "audio_type": "Vocal",
+   "contributors": [
+    "Bizet, Georges -- Composer -- Composer",
+    "Cisneros, Eleanora de -- Vocalist -- Mezzo-Soprano"
+   ],
+   "file_id": [
+    "ucsb_col_10198_01_10198_01"
+   ],
+   "language": "Spanish",
+   "media_size": "10-in.",
+   "profile": "jukebox",
+   "recording_catalog_number": "10198",
+   "recording_date": "1908-12-31",
+   "recording_label": "Columbia",
+   "recording_matrix_number": "10198 (Matrix ID)",
+   "recording_repository": "Source of original recording: Department of Special Collections, Davidson Library, University of California, Santa Barbara.",
+   "recording_take_id": 772838,
+   "recording_take_number": "1",
+   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+   "summary": "Female vocal solo"
+  },
+  "language": [
+   "spanish"
+  ],
+  "languages": [
+   {
+    "spanish": "https://www.loc.gov/search/?fa=language:spanish&fo=json"
+   }
+  ],
+  "location": [
+   "milan",
+   "italy"
+  ],
+  "locations": [
+   {
+    "italy": "https://www.loc.gov/search/?fa=location:italy&fo=json"
+   },
+   {
+    "milan": "https://www.loc.gov/search/?fa=location:milan&fo=json"
+   }
+  ],
+  "media_size": "10-in.",
+  "mime_type": [
+   "audio/mpeg",
+   "audio/wav",
+   "image/tif",
+   "image/jpeg"
+  ],
+  "online_format": [
+   "audio",
+   "image"
+  ],
+  "original_format": [
+   "sound recording"
+  ],
+  "other_formats": [],
+  "other_title": [
+   "Carmen",
+   "Carmen. Habanera"
+  ],
+  "partof": [
+   {
+    "count": 10024,
+    "title": "department of special collections, davidson library, university of california, santa barbara",
+    "url": "https://www.loc.gov/search/?fa=partof:department+of+special+collections,+davidson+library,+university+of+california,+santa+barbara&fo=json"
+   },
+   {
+    "count": 20273,
+    "title": "national jukebox",
+    "url": "https://www.loc.gov/collections/national-jukebox/?fo=json"
+   },
+   {
+    "count": 20496,
+    "title": "recorded sound research center",
+    "url": "https://www.loc.gov/search/?fa=partof:recorded+sound+research+center&fo=json"
+   }
+  ],
+  "partof_repository": [
+   "department of special collections, davidson library, university of california, santa barbara"
+  ],
+  "profile": "jukebox",
+  "recording_catalog_number": "10198",
+  "recording_date": "1908-12-31",
+  "recording_label": "Columbia",
+  "recording_matrix_number": "10198 (Matrix ID)",
+  "recording_repository": "Source of original recording: Department of Special Collections, Davidson Library, University of California, Santa Barbara.",
+  "recording_take_id": 772838,
+  "recording_take_number": "1",
+  "resources": [
+   {
+    "files": 1,
+    "media": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_10198_01_10198_01:ucsb_col_10198_01_10198_01/full/full/0/full/default.mp3",
+    "url": "https://www.loc.gov/resource/jukebox-772838.0"
+   },
+   {
+    "files": 1,
+    "image": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_10198_01_10198_01:ucsb_col_10198_01_10198_01/full/pct:100/0/default.jpg",
+    "mimetype": "image/jpeg",
+    "url": "https://www.loc.gov/resource/jukebox-772838.1"
+   }
+  ],
+  "rights": [
+   "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
+  ],
+  "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+  "score": 15.333351,
+  "shard": "01",
+  "shelf_id": "Columbia 10198",
+  "site": [
+   "nationaljukebox"
+  ],
+  "source_modified": "2000-01-01T12:00:00Z",
+  "subject": [
+   "vocal",
+   "columbia"
+  ],
+  "subject_category": [
+   "vocal"
+  ],
+  "subject_label": [
+   "columbia"
+  ],
+  "subjects": [
+   {
+    "columbia": "https://www.loc.gov/search/?fa=subject:columbia&fo=json"
+   },
+   {
+    "vocal": "https://www.loc.gov/search/?fa=subject:vocal&fo=json"
+   }
+  ],
+  "subjects_category": [
+   {
+    "vocal": "https://www.loc.gov/collections/national-jukebox/?fa=subject_category:vocal&fo=json"
+   }
+  ],
+  "subjects_label": [
+   {
+    "columbia": "https://www.loc.gov/collections/national-jukebox/?fa=subject_label:columbia&fo=json"
+   }
+  ],
+  "summary": "Female vocal solo",
+  "timestamp": "2026-10-05T14:54:19.754Z",
+  "title": "Habanera",
+  "type": [
+   "sound recording-musical"
+  ],
+  "url": "https://www.loc.gov/item/jukebox-772838/"
+ },
+ "more_like_this": [
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-745854/",
+    "http://www.loc.gov/resource/jukebox-745854.0/",
+    "http://www.loc.gov/resource/jukebox-745854.1/",
+    "http://www.loc.gov/resource/jukebox-745854.0",
+    "http://www.loc.gov/resource/jukebox-745854.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "bendinelli, angelo",
+    "bizet, georges"
+   ],
+   "date": "1914-12-31",
+   "dates": [
+    "1914-12-31"
+   ],
+   "description": [
+    "Columbia A1391. Matrix/Take: 11243/1."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T06:49:33.409Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-745854/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1391_01_11243_01:ucsb_col_a1391_01_11243_01/full/pct:12.5/0/default.jpg#h=329&w=329",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1391_01_11243_01:ucsb_col_a1391_01_11243_01/full/pct:25/0/default.jpg#h=658&w=658",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1391_01_11243_01:ucsb_col_a1391_01_11243_01/full/pct:50/0/default.jpg#h=1317&w=1317",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1391_01_11243_01:ucsb_col_a1391_01_11243_01/full/pct:100/0/default.jpg#h=2635&w=2635"
+   ],
+   "index": 1,
+   "language": [
+    "italian"
+   ],
+   "location": [
+    "milan",
+    "italy"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Carmen. Fleur que tu m'avais jetee",
+    "Carmen",
+    "Il fiorche aveir a me tu dato",
+    "The flowers that you lightly gave me"
+   ],
+   "partof": [
+    "department of special collections, davidson library, university of california, santa barbara",
+    "national jukebox",
+    "recorded sound research center"
+   ],
+   "score": 34.958363,
+   "shelf_id": "Columbia A1391",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "vocal",
+    "columbia"
+   ],
+   "timestamp": "2026-10-05T14:48:04.014Z",
+   "title": "Il fior che a me tu dato, Romanza dei fiori",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-745854/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-747831/",
+    "http://www.loc.gov/resource/jukebox-747831.0/",
+    "http://www.loc.gov/resource/jukebox-747831.1/",
+    "http://www.loc.gov/resource/jukebox-747831.0",
+    "http://www.loc.gov/resource/jukebox-747831.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "bizet, georges",
+    "frascani, nini"
+   ],
+   "date": "1914-12-31",
+   "dates": [
+    "1914-12-31"
+   ],
+   "description": [
+    "Columbia A1634. Matrix/Take: 11154/1."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T06:51:02.846Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-747831/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1634_01_11154_01:ucsb_col_a1634_01_11154_01/full/pct:12.5/0/default.jpg#h=290&w=290",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1634_01_11154_01:ucsb_col_a1634_01_11154_01/full/pct:25/0/default.jpg#h=581&w=581",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1634_01_11154_01:ucsb_col_a1634_01_11154_01/full/pct:50/0/default.jpg#h=1162&w=1162",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1634_01_11154_01:ucsb_col_a1634_01_11154_01/full/pct:100/0/default.jpg#h=2325&w=2325"
+   ],
+   "index": 2,
+   "language": [
+    "italian"
+   ],
+   "location": [
+    "milan",
+    "italy"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Near the ramparts of Seville",
+    "Carmen"
+   ],
+   "partof": [
+    "department of special collections, davidson library, university of california, santa barbara",
+    "national jukebox",
+    "recorded sound research center"
+   ],
+   "score": 34.958363,
+   "shelf_id": "Columbia A1634",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "classical music",
+    "opera",
+    "vocal",
+    "columbia"
+   ],
+   "timestamp": "2026-10-05T14:48:23.696Z",
+   "title": "Presso il bastion di Siviglia",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-747831/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-767537/",
+    "http://www.loc.gov/resource/jukebox-767537.0/",
+    "http://www.loc.gov/resource/jukebox-767537.1/",
+    "http://www.loc.gov/resource/jukebox-767537.0",
+    "http://www.loc.gov/resource/jukebox-767537.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "bizet, georges",
+    "frascani, nini"
+   ],
+   "date": "1914-12-31",
+   "dates": [
+    "1914-12-31"
+   ],
+   "description": [
+    "Columbia A1634. Matrix/Take: 11153/1."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T07:26:31.294Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-767537/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1634_01_11153_01:ucsb_col_a1634_01_11153_01/full/pct:12.5/0/default.jpg#h=311&w=311",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1634_01_11153_01:ucsb_col_a1634_01_11153_01/full/pct:25/0/default.jpg#h=623&w=623",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1634_01_11153_01:ucsb_col_a1634_01_11153_01/full/pct:50/0/default.jpg#h=1247&w=1247",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1634_01_11153_01:ucsb_col_a1634_01_11153_01/full/pct:100/0/default.jpg#h=2495&w=2495"
+   ],
+   "index": 3,
+   "language": [
+    "italian"
+   ],
+   "location": [
+    "milan",
+    "italy"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Carmen",
+    "Card scene"
+   ],
+   "partof": [
+    "department of special collections, davidson library, university of california, santa barbara",
+    "national jukebox",
+    "recorded sound research center"
+   ],
+   "score": 34.958363,
+   "shelf_id": "Columbia A1634",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "vocal",
+    "columbia"
+   ],
+   "timestamp": "2026-10-05T14:52:23.498Z",
+   "title": "Scena delle carte",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-767537/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/6748",
+    "http://www.loc.gov/item/jukebox-299073/",
+    "http://www.loc.gov/resource/jukebox-299073.0/",
+    "http://www.loc.gov/resource/jukebox-299073.1/",
+    "http://www.loc.gov/resource/jukebox-299073.0",
+    "http://www.loc.gov/resource/jukebox-299073.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "bizet, georges",
+    "sabajno, carlo",
+    "hampe, franz",
+    "lavin de casas, bianca"
+   ],
+   "date": "1904-12-31",
+   "dates": [
+    "1904-12-31"
+   ],
+   "description": [
+    "Victor 62617. Matrix/Take: 2354L/[1]."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T03:13:11.380Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-299073/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_62617_01_gr2354l_01:ucsb_victor_62617_01_gr2354l_01/full/pct:50/0/default.jpg#h=394&w=397",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_62617_01_gr2354l_01:ucsb_victor_62617_01_gr2354l_01/full/pct:100/0/default.jpg#h=789&w=794"
+   ],
+   "index": 4,
+   "language": [
+    "italian"
+   ],
+   "location": [
+    "milan",
+    "italy"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Carmen",
+    "Carmen. En vain pour eviter",
+    "Card scene"
+   ],
+   "partof": [
+    "department of special collections, davidson library, university of california, santa barbara",
+    "national jukebox",
+    "recorded sound research center"
+   ],
+   "score": 30.052177,
+   "shelf_id": "Victor 62617",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "italian",
+    "vocal",
+    "opera",
+    "victor"
+   ],
+   "timestamp": "2026-10-05T14:11:49.826Z",
+   "title": "Scena delle carte",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-299073/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-745821/",
+    "http://www.loc.gov/resource/jukebox-745821.0/",
+    "http://www.loc.gov/resource/jukebox-745821.1/",
+    "http://www.loc.gov/resource/jukebox-745821.0",
+    "http://www.loc.gov/resource/jukebox-745821.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "mascagni, pietro",
+    "martinez-patti, gino"
+   ],
+   "date": "1910-12-31",
+   "dates": [
+    "1910-12-31"
+   ],
+   "description": [
+    "Columbia A1064. Matrix/Take: 10979/1."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T06:49:33.409Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-745821/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1064_01_10979_01:ucsb_col_a1064_01_10979_01/full/pct:12.5/0/default.jpg#h=419&w=419",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1064_01_10979_01:ucsb_col_a1064_01_10979_01/full/pct:25/0/default.jpg#h=838&w=838",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1064_01_10979_01:ucsb_col_a1064_01_10979_01/full/pct:50/0/default.jpg#h=1676&w=1676",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1064_01_10979_01:ucsb_col_a1064_01_10979_01/full/pct:100/0/default.jpg#h=3353&w=3353"
+   ],
+   "index": 5,
+   "language": [
+    "italian"
+   ],
+   "location": [
+    "milan",
+    "italy"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Cavalleria rusticana",
+    "Hail to the red wine flowing",
+    "Drinking song",
+    "Cavalleria rusticana. Viva il vino spumeggiante"
+   ],
+   "partof": [
+    "department of special collections, davidson library, university of california, santa barbara",
+    "national jukebox",
+    "recorded sound research center"
+   ],
+   "score": 28.597338,
+   "shelf_id": "Columbia A1064",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "vocal",
+    "columbia"
+   ],
+   "timestamp": "2026-10-05T14:48:04.014Z",
+   "title": "Brindisi",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-745821/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-745822/",
+    "http://www.loc.gov/resource/jukebox-745822.0/",
+    "http://www.loc.gov/resource/jukebox-745822.1/",
+    "http://www.loc.gov/resource/jukebox-745822.0",
+    "http://www.loc.gov/resource/jukebox-745822.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "mascagni, pietro",
+    "martinez-patti, gino"
+   ],
+   "date": "1910-12-31",
+   "dates": [
+    "1910-12-31"
+   ],
+   "description": [
+    "Columbia A1064. Matrix/Take: 10951/1."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T06:49:33.409Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-745822/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1064_01_10951_01:ucsb_col_a1064_01_10951_01/full/pct:12.5/0/default.jpg#h=399&w=399",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1064_01_10951_01:ucsb_col_a1064_01_10951_01/full/pct:25/0/default.jpg#h=799&w=799",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1064_01_10951_01:ucsb_col_a1064_01_10951_01/full/pct:50/0/default.jpg#h=1598&w=1598",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a1064_01_10951_01:ucsb_col_a1064_01_10951_01/full/pct:100/0/default.jpg#h=3197&w=3197"
+   ],
+   "index": 6,
+   "language": [
+    "italian"
+   ],
+   "location": [
+    "milan",
+    "italy"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Oh Lola, fair as the flowers",
+    "Cavalleria rusticana",
+    "Cavalleria rusticana. O Lola"
+   ],
+   "partof": [
+    "department of special collections, davidson library, university of california, santa barbara",
+    "national jukebox",
+    "recorded sound research center"
+   ],
+   "score": 28.597338,
+   "shelf_id": "Columbia A1064",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "vocal",
+    "columbia"
+   ],
+   "timestamp": "2026-10-05T14:48:04.014Z",
+   "title": "Siciliana",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-745822/"
+  }
+ ],
+ "notice": {
+  "info": "<strong>COLUMBUS DAY HOLIDAY:</strong> On Monday, October 12, 2026, The Jefferson Building Great Hall and exhibitions will be open from 10 a.m. - 5 p.m. to guests with timed-entry passes. The Main Reading Room will be open to visitors, no research or collections services available. All other reading rooms, the Madison and Adams Buildings will be CLOSED to the public. Regularly scheduled access resumes on Tuesday, October 13. \n",
+  "status": "production"
+ },
+ "options": {
+  "access_group": [
+   ""
+  ],
+  "access_group_raw": "",
+  "all": null,
+  "api_version": "1",
+  "app_context": null,
+  "application_shim": null,
+  "application_version": "$Revision$",
+  "attribute": null,
+  "attribute!": null,
+  "attribute_map": null,
+  "cache_tags": [
+   "nationaljukebox",
+   "national-jukebox",
+   "ndnp/dlc-2020_now",
+   "library-of-congress-washington-dc-awardee-8",
+   "wdlpartner",
+   "catalog-split-06",
+   "catalog",
+   "world-digital-library-partners",
+   "main-catalog-split-06",
+   "main-catalog",
+   "catalog-split-14",
+   "gdc/scd",
+   "main-catalog-split-14",
+   "general-collections-scan-on-demand-new",
+   "cph",
+   "catalog-split-08",
+   "miscellaneous-items-high-demand",
+   "main-catalog-split-08",
+   "fsa",
+   "catalog-split-15",
+   "fsa-owi-black-and-white-negatives",
+   "main-catalog-split-15"
+  ],
+  "callback": null,
+  "clip": null,
+  "clip_image_width": null,
+  "clip_rotation": null,
+  "content_filter": null,
+  "content_replacement": "",
+  "count": null,
+  "dates": null,
+  "default_count": 25,
+  "delimiter": null,
+  "digital_id": null,
+  "display_level": null,
+  "distance": null,
+  "downloadOption": null,
+  "duration": 1.3581633567810059,
+  "embed": [],
+  "embed!": [],
+  "error_response_status": null,
+  "excludeTerms": null,
+  "facetLimits": "",
+  "facetPrefix": null,
+  "facet_count": null,
+  "facet_style": null,
+  "field": null,
+  "form_facets": [
+   {
+    "field": "subject_label",
+    "select": "multiple"
+   },
+   {
+    "field": "subject_category",
+    "select": "multiple"
+   },
+   {
+    "field": "language",
+    "select": "multiple"
+   }
+  ],
+  "format": "json",
+  "host": "www.loc.gov",
+  "ical": false,
+  "id": "jukebox-772838/",
+  "iiif": false,
+  "include_facets": [
+   {
+    "field": "original-format"
+   },
+   {
+    "field": "partof_repository",
+    "label": "Repository"
+   },
+   {
+    "field": "subject_label",
+    "label": "Label"
+   },
+   {
+    "field": "dates"
+   },
+   {
+    "field": "subject_genre",
+    "label": "Genre"
+   },
+   {
+    "closed": true,
+    "field": "subject_target_audience",
+    "label": "Target Audience"
+   },
+   {
+    "closed": true,
+    "field": "subject_category",
+    "label": "Category"
+   },
+   {
+    "closed": true,
+    "field": "location"
+   },
+   {
+    "closed": true,
+    "field": "contributor"
+   },
+   {
+    "closed": true,
+    "field": "contributor_vocalist",
+    "label": "Vocalist"
+   },
+   {
+    "closed": true,
+    "field": "contributor_composer",
+    "label": "Composer"
+   },
+   {
+    "closed": true,
+    "field": "contributor_lyricist",
+    "label": "Lyricist"
+   },
+   {
+    "closed": true,
+    "field": "contributor_author",
+    "label": "Author"
+   },
+   {
+    "closed": true,
+    "field": "contributor_performer",
+    "label": "Performer"
+   },
+   {
+    "closed": true,
+    "field": "contributor_musical_group",
+    "label": "Musical Group"
+   },
+   {
+    "closed": true,
+    "field": "subject"
+   },
+   {
+    "closed": true,
+    "field": "language"
+   },
+   {
+    "field": "access-restricted"
+   }
+  ],
+  "index": null,
+  "inputEncoding": "UTF-8",
+  "item": null,
+  "items": null,
+  "keys": null,
+  "language": null,
+  "latlong": null,
+  "method": "GET",
+  "newSearch": null,
+  "new_clip_url": false,
+  "onsite": false,
+  "operator": null,
+  "outputEncoding": "UTF-8",
+  "page_campaigns": [],
+  "path_info": "/item/jukebox-772838/",
+  "port": "443",
+  "proxypath": null,
+  "query_string": "fo=json",
+  "redirect_proxy": false,
+  "redirect_to_item": null,
+  "referer": "",
+  "region": "",
+  "release_id": 123456789,
+  "request_host": "www.loc.gov",
+  "request_params": {
+   "fo": [
+    "json"
+   ]
+  },
+  "request_url": "https://www.loc.gov/item/jukebox-772838/?fo=json",
+  "resource": "",
+  "resource_sequence": null,
+  "scheme": "https",
+  "searchIn": null,
+  "searchTerms": "",
+  "segments": null,
+  "shards": [
+   "01"
+  ],
+  "site_date_range": "1900-01-01/1925-12-31",
+  "site_defaults": [],
+  "site_id": null,
+  "site_type": null,
+  "solrQuery": "",
+  "sortBy": null,
+  "sortOrder": null,
+  "startPage": null,
+  "style": null,
+  "suggested": null,
+  "target": null,
+  "template": "layouts/item/layout",
+  "timestamp": 1791375120.8118193,
+  "tz_aware": null,
+  "unionFacets": "",
+  "webcast_permalink": null
+ },
+ "related_items": [
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/sn83025803/1923-01-27/ed-1/",
+    "http://www.loc.gov/resource/sn83025803/1923-01-27/ed-1/"
+   ],
+   "batch": [
+    "dlc_greatsalt_ver02"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "library of congress, washington, dc"
+   ],
+   "date": "1923-01-27",
+   "dates": [
+    "1923-01-27"
+   ],
+   "description": [
+    "Columbia, S.C."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2023-08-07T20:31:54.774Z",
+   "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/sn83025803/1923-01-27/ed-1/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_greatsalt_ver02:data:sn83025803:00220720366:1923012701:0001/full/pct:3.125/0/default.jpg#h=297&w=209",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_greatsalt_ver02:data:sn83025803:00220720366:1923012701:0001/full/pct:6.25/0/default.jpg#h=595&w=418",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_greatsalt_ver02:data:sn83025803:00220720366:1923012701:0001/full/pct:12.5/0/default.jpg#h=1191&w=836"
+   ],
+   "index": 1,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "richland county",
+    "columbia",
+    "united states",
+    "south carolina",
+    "richland"
+   ],
+   "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg"
+   ],
+   "number": [
+    "1",
+    "sn83025803",
+    "00220720366"
+   ],
+   "numeric_shelf_id": 192301271,
+   "online_format": [
+    "image",
+    "pdf",
+    "online text"
+   ],
+   "original_format": [
+    "newspaper"
+   ],
+   "partof": [
+    "the southern indicator (columbia, s.c.) 1903-1925",
+    "serial and government publications division",
+    "chronicling america"
+   ],
+   "publication_frequency": [
+    "weekly"
+   ],
+   "score": 8.395876,
+   "shelf_id": "sn83025803, 1923-01-27, Edition 1",
+   "site": [
+    "chroniclingamerica"
+   ],
+   "subject": [
+    "columbia (s.c.)",
+    "richland county",
+    "columbia",
+    "african american",
+    "richland",
+    "african americans",
+    "richland county (s.c.)",
+    "newspapers",
+    "south carolina",
+    "united states"
+   ],
+   "timestamp": "2023-08-08T08:28:37.775Z",
+   "title": "The Southern indicator (Columbia, S.C.), January 27, 1923",
+   "type": [
+    "issue"
+   ],
+   "url": "https://www.loc.gov/item/sn83025803/1923-01-27/ed-1/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/sn83025803/1923-02-03/ed-1/",
+    "http://www.loc.gov/resource/sn83025803/1923-02-03/ed-1/"
+   ],
+   "batch": [
+    "dlc_greatsalt_ver02"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "library of congress, washington, dc"
+   ],
+   "date": "1923-02-03",
+   "dates": [
+    "1923-02-03"
+   ],
+   "description": [
+    "Columbia, S.C."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2023-08-07T20:31:54.774Z",
+   "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/sn83025803/1923-02-03/ed-1/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_greatsalt_ver02:data:sn83025803:00220720366:1923020301:0001/full/pct:3.125/0/default.jpg#h=302&w=207",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_greatsalt_ver02:data:sn83025803:00220720366:1923020301:0001/full/pct:6.25/0/default.jpg#h=604&w=415"
+   ],
+   "index": 2,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "richland county",
+    "columbia",
+    "united states",
+    "south carolina",
+    "richland"
+   ],
+   "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg"
+   ],
+   "number": [
+    "1",
+    "sn83025803",
+    "00220720366"
+   ],
+   "numeric_shelf_id": 192302031,
+   "online_format": [
+    "image",
+    "pdf",
+    "online text"
+   ],
+   "original_format": [
+    "newspaper"
+   ],
+   "partof": [
+    "the southern indicator (columbia, s.c.) 1903-1925",
+    "serial and government publications division",
+    "chronicling america"
+   ],
+   "publication_frequency": [
+    "weekly"
+   ],
+   "score": 8.395876,
+   "shelf_id": "sn83025803, 1923-02-03, Edition 1",
+   "site": [
+    "chroniclingamerica"
+   ],
+   "subject": [
+    "columbia (s.c.)",
+    "richland county",
+    "columbia",
+    "african american",
+    "richland",
+    "african americans",
+    "richland county (s.c.)",
+    "newspapers",
+    "south carolina",
+    "united states"
+   ],
+   "timestamp": "2023-08-08T08:28:37.775Z",
+   "title": "The Southern indicator (Columbia, S.C.), February 3, 1923",
+   "type": [
+    "issue"
+   ],
+   "url": "https://www.loc.gov/item/sn83025803/1923-02-03/ed-1/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "https://hdl.loc.gov/loc.wdl/wdl.14692",
+    "http://www.loc.gov/resource/wdl.14692/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_14692/",
+    "http://www.loc.gov/item/2021668085/",
+    "http://lccn.loc.gov/2021668085"
+   ],
+   "campaigns": [],
+   "date": "0875-01-01",
+   "dates": [
+    "0875"
+   ],
+   "description": [
+    "Together with two manuscripts in the Vatican Library, this psalter preserves the so-called diacritical Milan recension of the Psalms, which was carried out between the end of the eighth century and the middle of the ninth century. The Psalms, the core of the work, are preceded by a critical foreword on the text and by other introductory matter; biblical canticles and hymns in a typical Milan arrangement are annexed. According to recent research, the present copy was produced as early as the last decades of the ninth century in Milan, where the manuscript remained for at least three centuries. It remains unclear how it came into the ducal art collection in Munich, where it must have arrived by 1580 at the latest; from there it was transferred to the court library. Besides a full-page picture of David as Psalmist, the manuscript is decorated with interlace frames and numerous historiated and figured initials. The stylistic model is Franco-Saxon illumination, here with regional variations. Influences from late antiquity have been noted, particularly in the treatment of the figures."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2021-07-24T06:02:24.151Z",
+   "group": [
+    "wdlpartner",
+    "catalog-split-06",
+    "catalog",
+    "world-digital-library-partners",
+    "main-catalog-split-06",
+    "main-catalog"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/2021668085/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:14:69:2:wdl_14692:bsb00015213_00366/full/pct:6.25/0/default.jpg",
+    "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:14:69:2:wdl_14692:bsb00015213_00366/full/pct:6.25/0/default.jpg#h=257&w=183",
+    "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:14:69:2:wdl_14692:bsb00015213_00366/full/pct:12.5/0/default.jpg#h=515&w=366",
+    "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:14:69:2:wdl_14692:bsb00015213_00366/full/pct:25/0/default.jpg#h=1031&w=732",
+    "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:14:69:2:wdl_14692:bsb00015213_00366/full/pct:50/0/default.jpg#h=2062&w=1465",
+    "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:14:69:2:wdl_14692:bsb00015213_00366/full/pct:100/0/default.jpg#h=4124&w=2930"
+   ],
+   "index": 3,
+   "language": [
+    "latin"
+   ],
+   "location": [
+    "milan",
+    "lombardy",
+    "italy"
+   ],
+   "mime_type": [
+    "application/zip",
+    "application/pdf",
+    "image/jpeg",
+    "image/jp2"
+   ],
+   "number": [
+    "2021668085",
+    "2021-06-01t15:58:56"
+   ],
+   "online_format": [
+    "compressed data",
+    "pdf",
+    "image"
+   ],
+   "original_format": [
+    "book"
+   ],
+   "other_title": [
+    "Psalterium"
+   ],
+   "partof": [
+    "world digital library",
+    "catalog",
+    "bavarian state library",
+    "world digital library - partner items"
+   ],
+   "score": 7.891544,
+   "shelf_id": "http://lccn.loc.gov/2021668085",
+   "site": [
+    "catalog"
+   ],
+   "subject": [
+    "psalms",
+    "illuminations",
+    "875 to 899",
+    "milan",
+    "lombardy",
+    "italy",
+    "prayers",
+    "psalters",
+    "hymns",
+    "bible. old testament"
+   ],
+   "timestamp": "2022-09-11T21:41:36.618Z",
+   "title": "Bobbio Psalter.",
+   "type": [
+    "text"
+   ],
+   "url": "https://www.loc.gov/item/2021668085/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://lccn.loc.gov/2020718028",
+    "http://www.loc.gov/item/2020718028/",
+    "https://search.catalog.loc.gov/instances/d8dd4102-fa51-4bf2-9532-f35fcbd2aa21",
+    "https://hdl.loc.gov/loc.gdc/gdcebookspublic.2020718028",
+    "http://www.loc.gov/resource/gdcebookspublic.2020718028/"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "cengarle, federica",
+    "covini, maria nadia"
+   ],
+   "date": "2015",
+   "dates": [
+    "2015"
+   ],
+   "description": [
+    "Papers presented at a conference held in Milan, Italy, June 13-14, 2013. Includes bibliographical references. Description based on print version record; resource not viewed."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-04-06T15:25:01.603Z",
+   "group": [
+    "catalog-split-14",
+    "catalog",
+    "gdc/scd",
+    "main-catalog-split-14",
+    "general-collections-scan-on-demand-new"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/2020718028/",
+   "image_url": [
+    "https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/20/71/80/28/2020718028/2020718028.gif",
+    "https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/20/71/80/28/2020718028/2020718028.gif#h=500&w=355"
+   ],
+   "index": 4,
+   "language": [
+    "italian"
+   ],
+   "location": [
+    "milan",
+    "italy"
+   ],
+   "mime_type": [
+    "image/gif",
+    "application/pdf"
+   ],
+   "number": [
+    "2026-03-27t20:53:24.400000",
+    "2020718028",
+    "online resource"
+   ],
+   "online_format": [
+    "image",
+    "pdf"
+   ],
+   "original_format": [
+    "book"
+   ],
+   "partof": [
+    "general collections",
+    "open access books",
+    "catalog"
+   ],
+   "score": 7.891544,
+   "shelf_id": "DG657.73.F55",
+   "site": [
+    "catalog"
+   ],
+   "subject": [
+    "history",
+    "politics and government",
+    "italy",
+    "to 1535",
+    "church history",
+    "congresses",
+    "conference papers and proceedings",
+    "duke of milan",
+    "filippo maria visconti",
+    "milan (italy)"
+   ],
+   "timestamp": "2026-04-06T16:22:08.762Z",
+   "title": "Il ducato di Filippo Maria Visconti, 1412-1447 : economia, politica, cultura",
+   "type": [
+    "text"
+   ],
+   "url": "https://www.loc.gov/item/2020718028/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "https://www.loc.gov/pictures/item/2015645179/",
+    "http://www.loc.gov/item/2015645179/",
+    "http://www.loc.gov/pictures/item/2015645179/",
+    "https://www.loc.gov/pictures/collection/cph/item/2015645179/",
+    "http://www.loc.gov/pictures/collection/cph/item/2015645179/",
+    "https://hdl.loc.gov/loc.pnp/ds.07229",
+    "https://hdl.loc.gov/loc.pnp/ds.07229",
+    "http://www.loc.gov/resource/ds.07229/",
+    "http://lccn.loc.gov/2015645179"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "leffler, warren k."
+   ],
+   "date": "1967-01-01",
+   "dates": [
+    "1967"
+   ],
+   "description": [
+    "1 photograph : negative; film width 35mm (roll format)"
+   ],
+   "digitized": true,
+   "extract_timestamp": "2023-03-14T15:02:24.330Z",
+   "group": [
+    "cph",
+    "catalog-split-08",
+    "catalog",
+    "miscellaneous-items-high-demand",
+    "main-catalog-split-08",
+    "main-catalog"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/2015645179/",
+   "image_url": [
+    "https://tile.loc.gov/storage-services/service/pnp/ds/07200/07229_150px.jpg#h=150&w=99",
+    "https://tile.loc.gov/storage-services/service/pnp/ds/07200/07229r.jpg#h=640&w=423",
+    "https://tile.loc.gov/storage-services/service/pnp/ds/07200/07229v.jpg#h=1024&w=677"
+   ],
+   "index": 5,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "fort jackson",
+    "south carolina",
+    "columbia"
+   ],
+   "mime_type": [
+    "image/gif",
+    "image/jpg",
+    "image/tif"
+   ],
+   "number": [
+    "2015645179",
+    "sheet",
+    "2023-02-07t07:37:07",
+    "http://www.loc.gov/item/18567475"
+   ],
+   "online_format": [
+    "image"
+   ],
+   "original_format": [
+    "photo, print, drawing"
+   ],
+   "partof": [
+    "prints & photographs online catalog (library of congress)",
+    "miscellaneous items in high demand",
+    "prints and photographs division",
+    "catalog"
+   ],
+   "score": 7.499112,
+   "shelf_id": "LC-U9-17428 -25A [P&P]",
+   "site": [
+    "pictures",
+    "catalog"
+   ],
+   "subject": [
+    "columbia",
+    "vietnam war",
+    "hairdressing",
+    "draft (military service)",
+    "film negatives",
+    "military personnel",
+    "south carolina",
+    "fort jackson (s.c.)"
+   ],
+   "timestamp": "2023-03-14T15:47:58.134Z",
+   "title": "[New U.S. Army draft recruit getting his hair cut by a barber]",
+   "type": [
+    "still image"
+   ],
+   "url": "https://www.loc.gov/item/2015645179/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/pictures/collection/fsa/item/2017779473/",
+    "http://www.loc.gov/item/2017779473/",
+    "http://www.loc.gov/pictures/item/2017779473/",
+    "https://hdl.loc.gov/loc.pnp/fsa.8b19295",
+    "http://www.loc.gov/resource/fsa.8b19295/",
+    "http://lccn.loc.gov/2017779473"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "rothstein, arthur"
+   ],
+   "date": "1939-01-01",
+   "dates": [
+    "1939"
+   ],
+   "description": [
+    "1 negative : safety ; 3 1/4 x 4 1/4 inches or smaller."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2021-09-01T20:16:11.899Z",
+   "group": [
+    "fsa",
+    "catalog-split-15",
+    "catalog",
+    "fsa-owi-black-and-white-negatives",
+    "main-catalog-split-15",
+    "main-catalog"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/2017779473/",
+   "image_url": [
+    "https://tile.loc.gov/storage-services/service/pnp/fsa/8b19000/8b19200/8b19295_150px.jpg#h=115&w=150",
+    "https://tile.loc.gov/storage-services/service/pnp/fsa/8b19000/8b19200/8b19295t.gif#h=113&w=150",
+    "https://tile.loc.gov/storage-services/service/pnp/fsa/8b19000/8b19200/8b19295r.jpg#h=492&w=640",
+    "https://tile.loc.gov/storage-services/service/pnp/fsa/8b19000/8b19200/8b19295v.jpg#h=788&w=1024"
+   ],
+   "index": 6,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "united states",
+    "boone county",
+    "missouri",
+    "columbia"
+   ],
+   "mime_type": [
+    "image/gif",
+    "image/jpg",
+    "image/tif"
+   ],
+   "number": [
+    "http://www.loc.gov/item/2017779473",
+    "2017-08-16t11:45:13",
+    "2017779473",
+    "http://www.loc.gov/item/fsa2000010614/pp",
+    "http://www.loc.gov/item/19902866"
+   ],
+   "online_format": [
+    "image"
+   ],
+   "original_format": [
+    "photo, print, drawing"
+   ],
+   "partof": [
+    "american memory",
+    "prints & photographs online catalog (library of congress)",
+    "prints and photographs division",
+    "lot 1212",
+    "farm security administration/office of war information black-and-white negatives",
+    "catalog"
+   ],
+   "score": 7.499112,
+   "shelf_id": "LC-USF34- 029215-D [P&P] LOT 1212A (corresponding photographic print)",
+   "site": [
+    "pictures",
+    "catalog"
+   ],
+   "subject": [
+    "safety film negatives",
+    "missouri",
+    "columbia",
+    "united states",
+    "boone county"
+   ],
+   "timestamp": "2022-04-25T19:18:18.314Z",
+   "title": "Baking bread. Columbia, Missouri",
+   "url": "https://www.loc.gov/item/2017779473/"
+  }
+ ],
+ "resources": [
+  {
+   "audio": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_10198_01_10198_01:ucsb_col_10198_01_10198_01/full/full/0/full/default.mp3",
+   "files": [
+    [
+     {
+      "aspectRation": "4:3",
+      "autoPlay": false,
+      "canDownload": true,
+      "derivatives": [
+       {
+        "derivativeUrl": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/ucsb_col_10198_01_10198_01/ucsb_col_10198_01_10198_01.mp3"
+       }
+      ],
+      "detailUrl": "https://www.loc.gov/item/jukebox-772838",
+      "download": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_10198_01_10198_01:ucsb_col_10198_01_10198_01/full/full/0/full/default.mp3",
+      "duration": 141.0,
+      "filename": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/ucsb_col_10198_01_10198_01/ucsb_col_10198_01_10198_01.mp3",
+      "mediaType": "A",
+      "metadata": [
+       "Habanera",
+       "Female vocal solo"
+      ],
+      "mimetype": "audio/mpeg",
+      "poster": null,
+      "rights_restricted": true,
+      "shortName": "Habanera",
+      "thumbnail_url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_10198_01_10198_01:ucsb_col_10198_01_10198_01/full/pct:12.5/0/default.jpg"
+     },
+     {
+      "height": null,
+      "levels": 1,
+      "mimetype": "audio/wav",
+      "size": 12488770,
+      "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/ucsb_col_10198_01_10198_01/ucsb_col_10198_01_10198_01.wav",
+      "width": null
+     }
+    ]
+   ],
+   "url": "https://www.loc.gov/resource/jukebox-772838.0"
+  },
+  {
+   "files": [
+    [
+     {
+      "height": 456,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_10198_01_10198_01:ucsb_col_10198_01_10198_01/full/pct:12.5/0/default.jpg",
+      "width": 456
+     },
+     {
+      "height": 912,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_10198_01_10198_01:ucsb_col_10198_01_10198_01/full/pct:25/0/default.jpg",
+      "width": 912
+     },
+     {
+      "height": 1824,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_10198_01_10198_01:ucsb_col_10198_01_10198_01/full/pct:50/0/default.jpg",
+      "width": 1824
+     },
+     {
+      "height": 3648,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_10198_01_10198_01:ucsb_col_10198_01_10198_01/full/pct:100/0/default.jpg",
+      "width": 3648
+     },
+     {
+      "height": null,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 39953310,
+      "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/ucsb_col_10198_01_10198_01/ucsb_col_10198_01_10198_01.tif",
+      "width": null
+     }
+    ]
+   ],
+   "image": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_10198_01_10198_01:ucsb_col_10198_01_10198_01/full/pct:100/0/default.jpg",
+   "mimetype": "image/jpeg",
+   "url": "https://www.loc.gov/resource/jukebox-772838.1"
+  }
+ ],
+ "timestamp": 1791375122170
+}

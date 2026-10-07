@@ -134,8 +134,8 @@
    }
   ],
   "location": [
-   "united states",
-   "new york"
+   "new york",
+   "united states"
   ],
   "locations": [
    {
@@ -205,7 +205,7 @@
    "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
   ],
   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
-  "score": 15.331501,
+  "score": 15.332874,
   "shard": "01",
   "shelf_id": "Columbia A2884",
   "site": [
@@ -260,12 +260,12 @@
    ],
    "campaigns": [],
    "contributor": [
-    "van, gus",
-    "de sylva, b. g.",
-    "van and schenck",
-    "caesar, irving",
     "schenck, joe",
-    "gershwin, george"
+    "van, gus",
+    "caesar, irving",
+    "de sylva, b. g.",
+    "gershwin, george",
+    "van and schenck"
    ],
    "date": "1922-06-27",
    "dates": [
@@ -293,8 +293,8 @@
     "english"
    ],
    "location": [
-    "united states",
-    "new york"
+    "new york",
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -310,19 +310,19 @@
     "sound recording"
    ],
    "partof": [
-    "national jukebox",
     "department of special collections, davidson library, university of california, santa barbara",
-    "recorded sound research center"
+    "recorded sound research center",
+    "national jukebox"
    ],
-   "score": 37.62766,
+   "score": 37.63051,
    "shelf_id": "Columbia A3668",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
     "vocal",
-    "popular music",
-    "columbia"
+    "columbia",
+    "popular music"
    ],
    "timestamp": "2026-10-05T14:37:15.141Z",
    "title": "The Yankee Doodle blues",
@@ -342,9 +342,9 @@
    ],
    "campaigns": [],
    "contributor": [
-    "youmans, vincent",
+    "caesar, irving",
     "shannon four",
-    "caesar, irving"
+    "youmans, vincent"
    ],
    "date": "1924-09-25",
    "dates": [
@@ -372,8 +372,8 @@
     "english"
    ],
    "location": [
-    "united states",
-    "new york"
+    "new york",
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -392,11 +392,11 @@
     "No, no, Nanette"
    ],
    "partof": [
-    "national jukebox",
     "department of special collections, davidson library, university of california, santa barbara",
-    "recorded sound research center"
+    "recorded sound research center",
+    "national jukebox"
    ],
-   "score": 30.796152,
+   "score": 30.799145,
    "shelf_id": "Columbia 222-D",
    "site": [
     "nationaljukebox"
@@ -423,8 +423,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "cantor, eddie",
-    "caesar, irving"
+    "caesar, irving",
+    "cantor, eddie"
    ],
    "date": "1922-04-28",
    "dates": [
@@ -452,8 +452,8 @@
     "english"
    ],
    "location": [
-    "united states",
-    "new york"
+    "new york",
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -473,11 +473,11 @@
     "Make it snappy"
    ],
    "partof": [
-    "national jukebox",
     "department of special collections, davidson library, university of california, santa barbara",
-    "recorded sound research center"
+    "recorded sound research center",
+    "national jukebox"
    ],
-   "score": 30.796152,
+   "score": 30.799145,
    "shelf_id": "Columbia A3624",
    "site": [
     "nationaljukebox"
@@ -505,10 +505,10 @@
    "campaigns": [],
    "contributor": [
     "christy, harold",
-    "caesar, irving",
-    "conrad, con",
+    "sherman, al",
     "hackett, charles",
-    "sherman, al"
+    "conrad, con",
+    "caesar, irving"
    ],
    "date": "1925-02-16",
    "dates": [
@@ -536,8 +536,8 @@
     "english"
    ],
    "location": [
-    "united states",
-    "new york"
+    "new york",
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -553,11 +553,11 @@
     "sound recording"
    ],
    "partof": [
-    "national jukebox",
     "department of special collections, davidson library, university of california, santa barbara",
-    "recorded sound research center"
+    "recorded sound research center",
+    "national jukebox"
    ],
-   "score": 30.796152,
+   "score": 30.799145,
    "shelf_id": "Columbia 33053-D",
    "site": [
     "nationaljukebox"
@@ -584,9 +584,9 @@
    ],
    "campaigns": [],
    "contributor": [
+    "caesar, irving",
     "mackenzie, tandy",
-    "edwards, leo",
-    "caesar, irving"
+    "edwards, leo"
    ],
    "date": "1924-06-25",
    "dates": [
@@ -614,8 +614,8 @@
     "english"
    ],
    "location": [
-    "united states",
-    "new york"
+    "new york",
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -631,11 +631,11 @@
     "sound recording"
    ],
    "partof": [
-    "national jukebox",
     "department of special collections, davidson library, university of california, santa barbara",
-    "recorded sound research center"
+    "recorded sound research center",
+    "national jukebox"
    ],
-   "score": 30.796152,
+   "score": 30.799145,
    "shelf_id": "Columbia 20022-D",
    "site": [
     "nationaljukebox"
@@ -662,9 +662,9 @@
    ],
    "campaigns": [],
    "contributor": [
-    "lewis, sam m.",
-    "jolson, al",
     "young, joe",
+    "jolson, al",
+    "lewis, sam m.",
     "schwartz, jean"
    ],
    "date": "1917-12-13",
@@ -693,8 +693,8 @@
     "english"
    ],
    "location": [
-    "united states",
-    "new york"
+    "new york",
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -710,11 +710,11 @@
     "sound recording"
    ],
    "partof": [
-    "national jukebox",
     "department of special collections, davidson library, university of california, santa barbara",
-    "recorded sound research center"
+    "recorded sound research center",
+    "national jukebox"
    ],
-   "score": 29.930204,
+   "score": 29.933432,
    "shelf_id": "Columbia A2478",
    "site": [
     "nationaljukebox"
@@ -778,7 +778,7 @@
   "display_level": null,
   "distance": null,
   "downloadOption": null,
-  "duration": 4.133402347564697,
+  "duration": 0.5827550888061523,
   "embed": [],
   "embed!": [],
   "error_response_status": null,
@@ -937,7 +937,7 @@
   "suggested": null,
   "target": null,
   "template": "layouts/item/layout",
-  "timestamp": 1791308857.6470563,
+  "timestamp": 1791373035.7024448,
   "tz_aware": null,
   "unionFacets": "",
   "webcast_permalink": null
@@ -988,11 +988,11 @@
     "image/jp2"
    ],
    "number": [
-    "2023-12-07t16:46:58",
+    "http://www.loc.gov/item/2016739039",
     "http://www.loc.gov/item/musm1508.10064116",
+    "2023-12-07t16:46:58",
     "http://www.loc.gov/resource/musm1508.10064116.0",
-    "2016739039",
-    "http://www.loc.gov/item/2016739039"
+    "2016739039"
    ],
    "online_format": [
     "image",
@@ -1003,10 +1003,10 @@
    ],
    "partof": [
     "sheet music of the musical theater",
-    "music division",
-    "catalog"
+    "catalog",
+    "music division"
    ],
-   "score": 11.786064,
+   "score": 11.786276,
    "shelf_id": "https://repo.loc.gov/access/public/music/musm1508-10064116/.resource.json",
    "site": [
     "catalog"
@@ -1066,11 +1066,11 @@
     "image/jp2"
    ],
    "number": [
-    "2023-12-07t16:47:03",
     "2016735239",
-    "http://www.loc.gov/resource/musm1508.10066982.0",
     "http://www.loc.gov/item/musm1508.10066982",
-    "http://www.loc.gov/item/2016735239"
+    "http://www.loc.gov/item/2016735239",
+    "2023-12-07t16:47:03",
+    "http://www.loc.gov/resource/musm1508.10066982.0"
    ],
    "online_format": [
     "image",
@@ -1081,10 +1081,10 @@
    ],
    "partof": [
     "sheet music of the musical theater",
-    "music division",
-    "catalog"
+    "catalog",
+    "music division"
    ],
-   "score": 11.786064,
+   "score": 11.786276,
    "shelf_id": "https://repo.loc.gov/access/public/music/musm1508-10066982/.resource.json",
    "site": [
     "catalog"
@@ -1144,11 +1144,11 @@
     "image/jp2"
    ],
    "number": [
-    "2016730190",
-    "2023-12-07t16:48:35",
-    "http://www.loc.gov/item/musm1508.10077335",
     "http://www.loc.gov/item/2016730190",
-    "http://www.loc.gov/resource/musm1508.10077335.0"
+    "2023-12-07t16:48:35",
+    "2016730190",
+    "http://www.loc.gov/resource/musm1508.10077335.0",
+    "http://www.loc.gov/item/musm1508.10077335"
    ],
    "online_format": [
     "image",
@@ -1159,10 +1159,10 @@
    ],
    "partof": [
     "sheet music of the musical theater",
-    "music division",
-    "catalog"
+    "catalog",
+    "music division"
    ],
-   "score": 11.786064,
+   "score": 11.786276,
    "shelf_id": "https://repo.loc.gov/access/public/music/musm1508-10077335/.resource.json",
    "site": [
     "catalog"
@@ -1222,10 +1222,10 @@
     "image/jp2"
    ],
    "number": [
-    "2016770502",
+    "http://www.loc.gov/item/2016770502",
     "http://www.loc.gov/resource/musm1508.10031338.0",
     "2023-12-07t16:26:17",
-    "http://www.loc.gov/item/2016770502",
+    "2016770502",
     "http://www.loc.gov/item/musm1508.10031338"
    ],
    "online_format": [
@@ -1237,10 +1237,10 @@
    ],
    "partof": [
     "sheet music of the musical theater",
-    "music division",
-    "catalog"
+    "catalog",
+    "music division"
    ],
-   "score": 11.786064,
+   "score": 11.786276,
    "shelf_id": "https://repo.loc.gov/access/public/music/musm1508-10031338/.resource.json",
    "site": [
     "catalog"
@@ -1302,11 +1302,11 @@
     "image/jpeg"
    ],
    "number": [
-    "http://www.loc.gov/resource/musm1508.10004507.0",
-    "http://www.loc.gov/item/musm1508.10004507",
-    "http://www.loc.gov/item/2016791633",
     "2016791633",
-    "2023-12-07t16:23:04"
+    "http://www.loc.gov/item/musm1508.10004507",
+    "2023-12-07t16:23:04",
+    "http://www.loc.gov/resource/musm1508.10004507.0",
+    "http://www.loc.gov/item/2016791633"
    ],
    "online_format": [
     "image",
@@ -1318,10 +1318,10 @@
    ],
    "partof": [
     "sheet music of the musical theater",
-    "music division",
-    "catalog"
+    "catalog",
+    "music division"
    ],
-   "score": 11.786064,
+   "score": 11.786276,
    "shelf_id": "https://repo.loc.gov/access/public/music/musm1508-10004507/.resource.json",
    "site": [
     "catalog"
@@ -1383,11 +1383,11 @@
     "image/jpeg"
    ],
    "number": [
-    "2023-12-07t16:46:58",
-    "2016739035",
+    "http://www.loc.gov/resource/musm1508.10064121.0",
     "http://www.loc.gov/item/musm1508.10064121",
-    "http://www.loc.gov/item/2016739035",
-    "http://www.loc.gov/resource/musm1508.10064121.0"
+    "2016739035",
+    "2023-12-07t16:46:58",
+    "http://www.loc.gov/item/2016739035"
    ],
    "online_format": [
     "image",
@@ -1399,10 +1399,10 @@
    ],
    "partof": [
     "sheet music of the musical theater",
-    "music division",
-    "catalog"
+    "catalog",
+    "music division"
    ],
-   "score": 11.786064,
+   "score": 11.786276,
    "shelf_id": "https://repo.loc.gov/access/public/music/musm1508-10064121/.resource.json",
    "site": [
     "catalog"
@@ -1501,5 +1501,5 @@
    "url": "https://www.loc.gov/resource/jukebox-817339.1"
   }
  ],
- "timestamp": 1791308861780
+ "timestamp": 1791373036285
 }
