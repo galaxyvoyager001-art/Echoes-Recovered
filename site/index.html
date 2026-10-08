@@ -477,6 +477,7 @@ section.about p { margin: 0; font-size: 0.93rem; }
       <div class="rights">${esc(s.rights)}. ${!s.us ? "Recorded outside the US: only the US status was assessed. " : ""}${esc(s.credit)} ${m.replaced_pct}% of samples were interpolated across clicks; everything else is the original signal, filtered.</div>`;
     wirePlayers();
   }
+  const counted = new Set();
   function wirePlayers() {
     const ps = [...$("sleeve").querySelectorAll(".player")].map(p => ({ p, a: p.querySelector("audio"), btn: p.querySelector(".play"), rng: p.querySelector("input"), tm: p.querySelector(".time") }));
     const discEl = $("disc");
@@ -493,6 +494,11 @@ section.about p { margin: 0; font-size: 0.93rem; }
       const other = ps[1 - i];
       x.btn.onclick = () => { if (x.a.paused) { other.a.pause(); x.a.play().catch(() => {}); } else x.a.pause(); };
       ["play", "pause", "timeupdate", "loadedmetadata", "ended"].forEach(ev => x.a.addEventListener(ev, sync));
+      // anonymous play count (only when the hosted copy loads GoatCounter); once per song and version per visit
+      x.a.addEventListener("play", () => {
+        const key = `play/${st.sel.slug}/${i ? "restored" : "original"}`;
+        if (window.goatcounter && window.goatcounter.count && !counted.has(key)) { counted.add(key); window.goatcounter.count({ path: key, title: st.sel.title, event: true }); }
+      });
       x.rng.oninput = () => { const go = () => { x.a.currentTime = x.rng.value / 1000 * x.a.duration; }; if (x.a.duration) go(); else { x.a.preload = "auto"; x.a.addEventListener("loadedmetadata", go, { once: true }); x.a.load(); } };
     });
     $("flip").onclick = () => {

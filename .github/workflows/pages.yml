@@ -1,0 +1,43 @@
+# Publishes the Sound Time Map to GitHub Pages.
+# One-time setup: Settings -> Pages -> Source: "GitHub Actions".
+# Optional view counting: create a free site at goatcounter.com, then
+# Settings -> Secrets and variables -> Actions -> Variables -> GOATCOUNTER_CODE = <your code>.
+name: Publish site
+on:
+  push:
+    branches: [claude/phonograph-restoration-project-fcutfk, main]
+    paths: [site/**, data/**, scripts/06_bundle_site.py, .github/workflows/pages.yml]
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: true
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Bundle site (full-quality MP3s)
+        env:
+          GC: ${{ vars.GOATCOUNTER_CODE }}
+        run: python scripts/06_bundle_site.py _site ${GC:+--goatcounter "$GC"}
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

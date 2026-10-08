@@ -13,6 +13,8 @@ Usage: python scripts/06_bundle_site.py OUT_DIR [--fragment] [--web-kbps N] [--d
                 comparison stays fair; the page then says it plays web copies.
   --diag-kbps M bitrate for the diagnostic 'removed component' files (default: N)
                 (LAME cannot go below 32 kbps at 44.1 kHz, so lower values are clamped)
+  --goatcounter CODE  add the GoatCounter page-view script (https://CODE.goatcounter.com);
+                the page also sends one anonymous event per song version played
   --remote URL  for hosts with a file-count limit: link the A/B file, log and spectrogram
                 to URL/<path> (e.g. the GitHub tree of a commit) instead of copying them
 """
@@ -39,6 +41,12 @@ def main():
         html = re.sub(r"^<!doctype html>\s*<html lang=\"en\">\s*", "", html)
     web = f'window.STM_WEBCOPY = "{kbps} kbps mono";' if kbps else ""
     html = html.replace('<script>window.STM_BASE = window.STM_BASE || "../";</script>', f'<script>window.STM_BASE = "./"; {web}</script>')
+    if "--goatcounter" in sys.argv:
+        code = sys.argv[sys.argv.index("--goatcounter") + 1]
+        assert re.fullmatch(r"[a-z0-9-]+", code), "GoatCounter code: lowercase letters, digits, hyphens"
+        tag = f'<script data-goatcounter="https://{code}.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>'
+        html = html.replace('<meta charset="utf-8">', '<meta charset="utf-8">\n' + tag, 1)
+        assert tag in html
     (out / "index.html").write_text(html)
     js = (ROOT / "site" / "data.js").read_text()
     head, data = js[: js.index("=") + 1], json.loads(js[js.index("=") + 1 : js.rstrip().rindex(";")])

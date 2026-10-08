@@ -104,6 +104,11 @@ python3 scripts/serve.py . 8000   # 在仓库根目录运行；这个小服务�
 * **详情面板：** 标题、表演者、日期、地点（LoC 原文）、LoC 类型、唱片编号与 matrix/take、演职人员、LoC 原始页面链接、项目背景注释（已标明是项目撰写）、**Original 与 Restored 两个播放器**、"在同一时刻切换"按钮、A/B 文件、被去除部分、修复日志和频谱图。
 * 网站直接引用 `data/` 里的文件，不重复存储音频。部署到 GitHub Pages 时选择从仓库根目录发布即可。
 
+### 公开发布与浏览量统计
+* `.github/workflows/pages.yml` 会把网站打包（完整音质 MP3，约 800 MB，低于 GitHub Pages 的 1 GB 上限）并发布到 GitHub Pages。只需在仓库 Settings → Pages 把 Source 设为 "GitHub Actions"。
+* 浏览量统计用 [GoatCounter](https://www.goatcounter.com)：免费，不用 cookie，不收集个人信息。注册后在 Settings → Secrets and variables → Actions → Variables 添加 `GOATCOUNTER_CODE`（你的站点代码），重新运行工作流即可。除页面访问外，每首歌的 Original / Restored 第一次被播放时各记一次匿名事件（`play/<slug>/original|restored`）。
+* 没有设置 `GOATCOUNTER_CODE` 时，发布出去的页面不加载任何统计脚本。
+
 ## 4. 机械留声机
 见 [phonograph/README.md](phonograph/README.md)：原理（唱针 → 针杆 → 振膜 → 唱臂 → 指数号角）、零件清单、尺寸、材料、装配步骤、安全提示和实测记录表。`phonograph/design.py` 生成全部尺寸、1:1 号角纸样、频闪盘和总图。**这是一份设计方案，实物尚未制作。**
 
