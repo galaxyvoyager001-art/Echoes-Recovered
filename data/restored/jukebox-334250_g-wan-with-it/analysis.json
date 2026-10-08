@@ -1,0 +1,60 @@
+{
+ "before": {
+  "duration_s": 156.47,
+  "music_start_s": 0.8,
+  "music_end_s": 154.5,
+  "lead_in_s": 0.8,
+  "noise_profile_method": "lead-in groove (0.80 s)",
+  "surface_noise_rms_dbfs": -37.6,
+  "programme_level_p90_dbfs": -20.1,
+  "est_snr_db": 17.5,
+  "noise_floor_in_music_p5_dbfs": -36.4,
+  "impulses_per_min": 4821.9,
+  "impulse_len_median_ms": 0.23,
+  "impulses_longer_than_2ms": 0,
+  "hiss_band_5_10k_vs_mid_db": -19.7,
+  "usable_band_hz": [
+   172,
+   3316
+  ],
+  "hum": [],
+  "clipping": {
+   "peak_dbfs": -5.02,
+   "samples_over_98.5pct_fullscale": 0
+  },
+  "tuning_offset_cents_vs_A440": -34.0,
+  "wow": {
+   "peak_freq_hz": 1.0,
+   "implied_rpm": 60.0,
+   "peak_over_neighbourhood_db": 0.0,
+   "distinct_peak": false,
+   "voiced_fraction": 0.43
+  }
+ },
+ "after": {
+  "duration_s": 156.47,
+  "music_start_s": 0.8,
+  "music_end_s": 154.5,
+  "lead_in_s": 0.8,
+  "noise_profile_method": "lead-in groove (0.80 s)",
+  "surface_noise_rms_dbfs": -56.2,
+  "programme_level_p90_dbfs": -20.0,
+  "est_snr_db": 36.2,
+  "noise_floor_in_music_p5_dbfs": -37.3,
+  "impulses_per_min": 110.1,
+  "impulse_len_median_ms": 0.25,
+  "impulses_longer_than_2ms": 1,
+  "hiss_band_5_10k_vs_mid_db": -45.4,
+  "hum": [],
+  "clipping": {
+   "peak_dbfs": -5.48,
+   "samples_over_98.5pct_fullscale": 0
+  }
+ },
+ "removed_component": {
+  "removed_rms_dbfs": -39.0,
+  "removed_vs_original_energy_300_3000hz_db": -21.8,
+  "removed_vs_original_energy_above_5khz_db": -0.1
+ },
+ "source_channel_correlation": 1.0
+}

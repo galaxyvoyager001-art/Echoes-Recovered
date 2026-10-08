@@ -141,8 +141,8 @@
    }
   ],
   "location": [
-   "colombia",
-   "bogotá"
+   "bogotá",
+   "colombia"
   ],
   "locations": [
    {
@@ -214,7 +214,7 @@
    "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
   ],
   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
-  "score": 15.333624,
+  "score": 15.335318,
   "shard": "01",
   "shelf_id": "Victor 65892",
   "site": [
@@ -222,10 +222,10 @@
   ],
   "source_modified": "2000-01-01T12:00:00Z",
   "subject": [
-   "vocal",
-   "spanish (colombia)",
+   "ethnic music",
    "victor",
-   "ethnic music"
+   "spanish (colombia)",
+   "vocal"
   ],
   "subject_category": [
    "vocal"
@@ -294,8 +294,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "escobar, alberto",
-    "wills, alejandro"
+    "wills, alejandro",
+    "escobar, alberto"
    ],
    "date": "1913-11-09",
    "dates": [
@@ -322,8 +322,8 @@
     "spanish"
    ],
    "location": [
-    "colombia",
-    "bogotá"
+    "bogotá",
+    "colombia"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -342,19 +342,19 @@
    ],
    "partof": [
     "department of special collections, davidson library, university of california, santa barbara",
-    "national jukebox",
-    "recorded sound research center"
+    "recorded sound research center",
+    "national jukebox"
    ],
-   "score": 59.594063,
+   "score": 59.604557,
    "shelf_id": "Victor 65893",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "vocal",
-    "spanish (colombia)",
+    "ethnic music",
     "victor",
-    "ethnic music"
+    "spanish (colombia)",
+    "vocal"
    ],
    "timestamp": "2026-10-05T14:56:23.046Z",
    "title": "En la luz de tu mirada",
@@ -374,8 +374,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "escobar, alberto",
-    "wills, alejandro"
+    "wills, alejandro",
+    "escobar, alberto"
    ],
    "date": "1913-11-09",
    "dates": [
@@ -403,8 +403,8 @@
     "spanish"
    ],
    "location": [
-    "colombia",
-    "bogotá"
+    "bogotá",
+    "colombia"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -423,19 +423,19 @@
     "Gavota"
    ],
    "partof": [
-    "national jukebox",
+    "johnson victrola museum, delaware",
     "recorded sound research center",
-    "johnson victrola museum, delaware"
+    "national jukebox"
    ],
-   "score": 50.233128,
+   "score": 50.24205,
    "shelf_id": "Victor 65920",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "vocal",
+    "victor",
     "spanish (colombia)",
-    "victor"
+    "vocal"
    ],
    "timestamp": "2026-10-05T14:56:23.046Z",
    "title": "Ausencia",
@@ -455,11 +455,11 @@
    ],
    "campaigns": [],
    "contributor": [
-    "forero, [?]",
-    "rubiano, jorge a.",
-    "cuarteto nacional",
     "escobar, alberto",
-    "wills, alejandro"
+    "forero, [?]",
+    "wills, alejandro",
+    "rubiano, jorge a.",
+    "cuarteto nacional"
    ],
    "date": "1913-11-09",
    "dates": [
@@ -484,8 +484,8 @@
    ],
    "index": 3,
    "location": [
-    "colombia",
-    "bogotá"
+    "bogotá",
+    "colombia"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -504,19 +504,19 @@
     "Bambuco"
    ],
    "partof": [
-    "national jukebox",
+    "johnson victrola museum, delaware",
     "recorded sound research center",
-    "johnson victrola museum, delaware"
+    "national jukebox"
    ],
-   "score": 45.82403,
+   "score": 45.83227,
    "shelf_id": "Victor 65888",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
+    "instrumental",
     "spanish (colombia)",
-    "victor",
-    "instrumental"
+    "victor"
    ],
    "timestamp": "2026-10-05T14:56:23.046Z",
    "title": "Peter",
@@ -536,11 +536,11 @@
    ],
    "campaigns": [],
    "contributor": [
-    "forero, [?]",
-    "rubiano, jorge a.",
-    "cuarteto nacional",
     "escobar, alberto",
-    "wills, alejandro"
+    "forero, [?]",
+    "wills, alejandro",
+    "rubiano, jorge a.",
+    "cuarteto nacional"
    ],
    "date": "1913-11-08",
    "dates": [
@@ -565,8 +565,8 @@
    ],
    "index": 4,
    "location": [
-    "colombia",
-    "bogotá"
+    "bogotá",
+    "colombia"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -585,19 +585,19 @@
     "Pasillo"
    ],
    "partof": [
-    "national jukebox",
+    "johnson victrola museum, delaware",
     "recorded sound research center",
-    "johnson victrola museum, delaware"
+    "national jukebox"
    ],
-   "score": 45.82403,
+   "score": 45.83227,
    "shelf_id": "Victor 65887",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
+    "instrumental",
     "spanish (colombia)",
-    "victor",
-    "instrumental"
+    "victor"
    ],
    "timestamp": "2026-10-05T14:56:23.046Z",
    "title": "Plenilunio",
@@ -617,11 +617,11 @@
    ],
    "campaigns": [],
    "contributor": [
-    "bocanegra, miguel",
+    "escobar, alberto",
     "trío colombiano",
     "grenet, eliseo",
-    "escobar, alberto",
-    "wills, alejandro"
+    "wills, alejandro",
+    "bocanegra, miguel"
    ],
    "date": "1919-04-22",
    "dates": [
@@ -649,8 +649,8 @@
     "spanish"
    ],
    "location": [
-    "new york",
-    "united states"
+    "united states",
+    "new york"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -669,21 +669,21 @@
     "Danzon cantado"
    ],
    "partof": [
-    "national jukebox",
+    "johnson victrola museum, delaware",
     "recorded sound research center",
-    "johnson victrola museum, delaware"
+    "national jukebox"
    ],
-   "score": 45.01241,
+   "score": 45.022186,
    "shelf_id": "Victor 72322",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "spanish (colombia)",
-    "victor",
     "popular music",
+    "ethnic music",
+    "victor",
     "vocal",
-    "ethnic music"
+    "spanish (colombia)"
    ],
    "timestamp": "2026-10-05T14:13:38.157Z",
    "title": "La mora",
@@ -703,11 +703,11 @@
    ],
    "campaigns": [],
    "contributor": [
-    "bocanegra, miguel",
-    "wills, alejandro",
-    "trío colombiano",
+    "morales pino, pedro",
     "escobar, alberto",
-    "morales pino, pedro"
+    "trío colombiano",
+    "wills, alejandro",
+    "bocanegra, miguel"
    ],
    "date": "1919-05-19",
    "dates": [
@@ -735,8 +735,8 @@
     "spanish"
    ],
    "location": [
-    "new york",
-    "united states"
+    "united states",
+    "new york"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -752,21 +752,21 @@
     "sound recording"
    ],
    "partof": [
-    "national jukebox",
+    "johnson victrola museum, delaware",
     "recorded sound research center",
-    "johnson victrola museum, delaware"
+    "national jukebox"
    ],
-   "score": 45.01241,
+   "score": 45.022186,
    "shelf_id": "Victor 72331",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "spanish (colombia)",
-    "victor",
     "popular music",
+    "ethnic music",
+    "victor",
     "vocal",
-    "ethnic music"
+    "spanish (colombia)"
    ],
    "timestamp": "2026-10-05T14:13:38.157Z",
    "title": "Trigueña",
@@ -826,7 +826,7 @@
   "display_level": null,
   "distance": null,
   "downloadOption": null,
-  "duration": 1.5614683628082275,
+  "duration": 0.4409942626953125,
   "embed": [],
   "embed!": [],
   "error_response_status": null,
@@ -985,7 +985,7 @@
   "suggested": null,
   "target": null,
   "template": "layouts/item/layout",
-  "timestamp": 1791377493.629505,
+  "timestamp": 1791463637.6146023,
   "tz_aware": null,
   "unionFacets": "",
   "webcast_permalink": null
@@ -1028,8 +1028,8 @@
     "spanish"
    ],
    "location": [
-    "colombia",
-    "bogotá"
+    "bogotá",
+    "colombia"
    ],
    "mime_type": [
     "image/jp2",
@@ -1038,9 +1038,9 @@
     "image/jpeg"
    ],
    "number": [
-    "2022270750",
     "00517179644",
-    "1"
+    "1",
+    "2022270750"
    ],
    "numeric_shelf_id": 189008091,
    "online_format": [
@@ -1053,8 +1053,8 @@
    ],
    "partof": [
     "world newspapers",
-    "serial and government publications division",
-    "canal de panamá (bogotá) 18??-???? [online resource]"
+    "canal de panamá (bogotá) 18??-???? [online resource]",
+    "serial and government publications division"
    ],
    "score": 18.607254,
    "shelf_id": "2022270750, 1890-08-09, Edition 1",
@@ -1062,10 +1062,10 @@
     "chroniclingamerica"
    ],
    "subject": [
-    "colombia",
+    "bogotá (colombia)",
     "newspapers",
     "bogotá",
-    "bogotá (colombia)"
+    "colombia"
    ],
    "timestamp": "2026-02-02T15:47:13.511Z",
    "title": "Canal de Panamá (Bogotá), August 9, 1890",
@@ -1111,8 +1111,8 @@
     "spanish"
    ],
    "location": [
-    "colombia",
-    "bogotá"
+    "bogotá",
+    "colombia"
    ],
    "mime_type": [
     "image/jp2",
@@ -1121,9 +1121,9 @@
     "image/jpeg"
    ],
    "number": [
-    "2022270750",
     "00517179644",
-    "1"
+    "1",
+    "2022270750"
    ],
    "numeric_shelf_id": 189011151,
    "online_format": [
@@ -1136,8 +1136,8 @@
    ],
    "partof": [
     "world newspapers",
-    "serial and government publications division",
-    "canal de panamá (bogotá) 18??-???? [online resource]"
+    "canal de panamá (bogotá) 18??-???? [online resource]",
+    "serial and government publications division"
    ],
    "score": 18.607254,
    "shelf_id": "2022270750, 1890-11-15, Edition 1",
@@ -1145,10 +1145,10 @@
     "chroniclingamerica"
    ],
    "subject": [
-    "colombia",
+    "bogotá (colombia)",
     "newspapers",
     "bogotá",
-    "bogotá (colombia)"
+    "colombia"
    ],
    "timestamp": "2026-02-02T15:47:13.511Z",
    "title": "Canal de Panamá (Bogotá), November 15, 1890",
@@ -1190,21 +1190,21 @@
     "periodical"
    ],
    "partof": [
-    "hlas volume 36",
+    "latin american, caribbean, and european division",
     "spanish america--poetry--special studies (hpk2500)",
     "handbook of latin american studies",
-    "latin american, caribbean, and european division"
+    "hlas volume 36"
    ],
-   "score": 11.382661,
+   "score": 11.385561,
    "shelf_id": "36:hpk2500:hlas-bi74106638",
    "site": [
     "handbook of latin american studies"
    ],
    "subject": [
     "peru",
-    "literary criticism -- peru",
+    "literary criticism",
     "vallejo, césar",
-    "literary criticism"
+    "literary criticism -- peru"
    ],
    "timestamp": "2026-08-11T16:51:30.329Z",
    "title": "Cómo leer a Vallejo",
@@ -1258,8 +1258,8 @@
     "spanish"
    ],
    "location": [
-    "colombia",
     "bogotá",
+    "colombia",
     "distrito capital de bogotá"
    ],
    "mime_type": [
@@ -1269,8 +1269,8 @@
     "image/jp2"
    ],
    "number": [
-    "2021667797",
-    "2021-06-01t15:56:56"
+    "2021-06-01t15:56:56",
+    "2021667797"
    ],
    "online_format": [
     "compressed data",
@@ -1284,24 +1284,24 @@
     "Conquista i descubrimiento del Nuevo Reino de Granada de las Indias Occidentales del Mar Océano y fundación de la ciudad de Santa Fé de Bogotá"
    ],
    "partof": [
-    "world digital library - partner items",
-    "world digital library",
     "national library of colombia",
-    "catalog"
+    "catalog",
+    "world digital library - partner items",
+    "world digital library"
    ],
-   "score": 10.515799,
+   "score": 10.515588,
    "shelf_id": "http://lccn.loc.gov/2021667797",
    "site": [
     "catalog"
    ],
    "subject": [
-    "1550 to 1638",
     "colonies",
-    "spain",
-    "distrito capital de bogotá",
     "colombia",
     "bogotá",
-    "colombian literature"
+    "1550 to 1638",
+    "colombian literature",
+    "distrito capital de bogotá",
+    "spain"
    ],
    "timestamp": "2022-09-11T21:36:14.353Z",
    "title": "Conquest and Discovery of the New Kingdom of Granada in the West Indies of the Ocean Sea and Foundation of the City of Santa Fe de Bogotá.",
@@ -1355,8 +1355,8 @@
     "spanish"
    ],
    "location": [
-    "colombia",
     "bogotá",
+    "colombia",
     "distrito capital de bogotá"
    ],
    "mime_type": [
@@ -1365,8 +1365,8 @@
     "image/jp2"
    ],
    "number": [
-    "2021-07-16t09:15:15",
-    "2021670115"
+    "2021670115",
+    "2021-07-16t09:15:15"
    ],
    "online_format": [
     "compressed data",
@@ -1379,32 +1379,32 @@
     "Entrada a Bogotá por San Victorino i vista lejana de los nevados del Tolima, Quindío, Santa Isabel, Ruíz i Mesa de Herveo"
    ],
    "partof": [
-    "world digital library - partner items",
-    "world digital library",
     "national library of colombia",
-    "catalog"
+    "catalog",
+    "world digital library - partner items",
+    "world digital library"
    ],
-   "score": 10.515799,
+   "score": 10.515588,
    "shelf_id": "http://lccn.loc.gov/2021670115",
    "site": [
     "catalog"
    ],
    "subject": [
-    "clothing and dress",
-    "carriages and carts",
-    "mountains",
-    "horse-drawn vehicles",
-    "wagons",
-    "horses",
-    "ruiz, nevado del (colombia)",
     "expeditions and surveys",
+    "mountains",
+    "colombia",
+    "ruiz, nevado del (colombia)",
+    "bogotá",
+    "street scenes",
+    "cities and towns",
+    "horse-drawn vehicles",
+    "carriages and carts",
+    "horses",
+    "volcanoes",
     "distrito capital de bogotá",
     "regional memory of the world register, scientific memory of andean america",
-    "volcanoes",
-    "colombia",
-    "bogotá",
-    "cities and towns",
-    "street scenes"
+    "wagons",
+    "clothing and dress"
    ],
    "timestamp": "2022-09-11T21:47:59.732Z",
    "title": "Entrance to Bogotá through San Victorino, Province of Bogotá.",
@@ -1455,9 +1455,9 @@
     "english"
    ],
    "location": [
-    "colombia",
+    "bogotá",
     "western hemisphere",
-    "bogotá"
+    "colombia"
    ],
    "mime_type": [
     "image/gif",
@@ -1466,9 +1466,9 @@
     "image/jp2"
    ],
    "number": [
-    "75693304",
     "2009-08-07t12:35:31",
-    "2025-06-07t18:30:52.600000"
+    "2025-06-07t18:30:52.600000",
+    "75693304"
    ],
    "online_format": [
     "image"
@@ -1477,21 +1477,21 @@
     "map"
    ],
    "partof": [
-    "general maps",
     "catalog",
+    "general maps",
     "geography and map division"
    ],
-   "score": 10.515799,
+   "score": 10.515588,
    "shelf_id": "G3291.B72 1966 .U5",
    "site": [
     "catalog"
    ],
    "subject": [
-    "western hemisphere",
     "maps",
     "azimuthal equidistant projection (cartography)",
-    "distances, etc",
-    "bogotá (colombia)"
+    "western hemisphere",
+    "bogotá (colombia)",
+    "distances, etc"
    ],
    "timestamp": "2026-04-29T16:16:09.563Z",
    "title": "Azimuthal equidistant projection centered on Bogotá, Colombia. 3-66",
@@ -1570,5 +1570,5 @@
    "url": "https://www.loc.gov/resource/jukebox-8910.1"
   }
  ],
- "timestamp": 1791377495191
+ "timestamp": 1791463638056
 }

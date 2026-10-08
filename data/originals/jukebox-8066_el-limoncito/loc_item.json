@@ -1,55 +1,76 @@
 {
  "articles_and_essays": null,
  "cite_this": {
-  "apa": "Dopazo, M. (1912) <cite>Alborada de Veiga</cite>. [Audio] Retrieved from the Library of Congress, https://www.loc.gov/item/jukebox-8317/.",
-  "chicago": "Dopazo, Manuel. <cite>Alborada de Veiga</cite>. 1912. Audio. https://www.loc.gov/item/jukebox-8317/.",
-  "mla": "Dopazo, Manuel. <cite>Alborada de Veiga</cite>. 1912. Audio. Retrieved from the Library of Congress, &lt;www.loc.gov/item/jukebox-8317/&gt;."
+  "apa": "Quiroz Y Muñoz, Muñoz, J., Quiroz, S. &amp; Muñoz, J. (1923) <cite>El Limoncito</cite>. [Audio] Retrieved from the Library of Congress, https://www.loc.gov/item/jukebox-8066/.",
+  "chicago": "Quiroz Y Muñoz, J Muñoz, Salvador Quiroz, and J Muñoz. <cite>El Limoncito</cite>. 1923. Audio. https://www.loc.gov/item/jukebox-8066/.",
+  "mla": "Quiroz Y Muñoz, et al. <cite>El Limoncito</cite>. 1923. Audio. Retrieved from the Library of Congress, &lt;www.loc.gov/item/jukebox-8066/&gt;."
  },
  "item": {
-  "_version_": 1878222031115255808,
+  "_version_": 1878221976882905088,
   "access_restricted": false,
   "aka": [
-   "http://www.loc.gov/item/jukebox-8317/",
-   "http://www.loc.gov/resource/jukebox-8317.0/",
-   "http://www.loc.gov/resource/jukebox-8317.1/",
-   "http://www.loc.gov/resource/jukebox-8317.0",
-   "http://www.loc.gov/resource/jukebox-8317.1"
+   "http://www.loc.gov/item/jukebox-8066/",
+   "http://www.loc.gov/resource/jukebox-8066.0/",
+   "http://www.loc.gov/resource/jukebox-8066.1/",
+   "http://www.loc.gov/resource/jukebox-8066.0",
+   "http://www.loc.gov/resource/jukebox-8066.1"
   ],
-  "audio_type": "Instrumental",
+  "audio_type": "Vocal",
   "campaigns": [],
   "contributor_names": [
-   "Dopazo, Manuel -- Instrumentalist -- Gaita"
+   "Quiroz y Muñoz -- Vocal Group -- Vocal Group",
+   "Muñoz, J. -- Instrumentalist -- Guitar",
+   "Quiroz, Salvador -- Vocalist -- Tenor Vocal",
+   "Muñoz, J. -- Vocalist -- Vocalist"
   ],
   "contributor_primary": [
-   "dopazo, manuel"
+   "quiroz y muñoz"
+  ],
+  "contributor_vocalist": [
+   "quiroz, salvador",
+   "muñoz, j."
   ],
   "contributors": [
    {
-    "dopazo, manuel": "https://www.loc.gov/search/?fa=contributor:dopazo,+manuel&fo=json"
+    "muñoz, j.": "https://www.loc.gov/search/?fa=contributor:mu%C3%B1oz,+j.&fo=json"
+   },
+   {
+    "quiroz y muñoz": "https://www.loc.gov/search/?fa=contributor:quiroz+y+mu%C3%B1oz&fo=json"
+   },
+   {
+    "quiroz, salvador": "https://www.loc.gov/search/?fa=contributor:quiroz,+salvador&fo=json"
    }
   ],
   "contributors_primary": [
    {
-    "dopazo, manuel": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_primary:dopazo,+manuel&fo=json"
+    "quiroz y muñoz": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_primary:quiroz+y+mu%C3%B1oz&fo=json"
    }
   ],
-  "date": "1912-01-31",
+  "contributors_vocalist": [
+   {
+    "muñoz, j.": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_vocalist:mu%C3%B1oz,+j.&fo=json"
+   },
+   {
+    "quiroz, salvador": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_vocalist:quiroz,+salvador&fo=json"
+   }
+  ],
+  "date": "1923-03-23",
   "dates": [
    {
-    "1912-01-31": "https://www.loc.gov/search/?dates=1912-01-31/1912-01-31&fo=json"
+    "1923-03-23": "https://www.loc.gov/search/?dates=1923-03-23/1923-03-23&fo=json"
    }
   ],
   "description": [
-   "Victor 63732. Matrix/Take: H-445/1."
+   "Victor 73888. Matrix/Take: G-2977/2."
   ],
   "digitized": true,
   "display_offsite": true,
-  "extract_timestamp": "2026-10-04T17:52:40.646Z",
+  "extract_timestamp": "2026-10-04T17:51:29.953Z",
   "extract_urls": [
-   "http://www.loc.gov/item/jukebox-8317#nationaljukebox"
+   "http://www.loc.gov/item/jukebox-8066#nationaljukebox"
   ],
   "file_id": [
-   "jvm_victor_63732_01_h445_01"
+   "jvm_victor_73888_01_g2977_02"
   ],
   "format": [
    {
@@ -57,7 +78,8 @@
    }
   ],
   "genre": [
-   "Spanish (Argentina)",
+   "Spanish (Mexico)",
+   "Spanish (Cuba)",
    "Popular music",
    "Ethnic music"
   ],
@@ -66,56 +88,70 @@
    "national-jukebox"
   ],
   "hassegments": false,
-  "id": "http://www.loc.gov/item/jukebox-8317/",
-  "iiif_manifest_url": "https://www.loc.gov/item/jukebox-8317/manifest.json",
+  "id": "http://www.loc.gov/item/jukebox-8066/",
+  "iiif_manifest_url": "https://www.loc.gov/item/jukebox-8066/manifest.json",
   "image_url": [
-   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_63732_01_h445_01:jvm_victor_63732_01_h445_01/full/pct:12.5/0/default.jpg#h=289&w=287",
-   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_63732_01_h445_01:jvm_victor_63732_01_h445_01/full/pct:25/0/default.jpg#h=579&w=575",
-   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_63732_01_h445_01:jvm_victor_63732_01_h445_01/full/pct:50/0/default.jpg#h=1159&w=1150",
-   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_63732_01_h445_01:jvm_victor_63732_01_h445_01/full/pct:100/0/default.jpg#h=2318&w=2300"
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73888_01_g2977_02:jvm_victor_73888_01_g2977_02/full/pct:12.5/0/default.jpg#h=285&w=283",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73888_01_g2977_02:jvm_victor_73888_01_g2977_02/full/pct:25/0/default.jpg#h=571&w=566",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73888_01_g2977_02:jvm_victor_73888_01_g2977_02/full/pct:50/0/default.jpg#h=1142&w=1132",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73888_01_g2977_02:jvm_victor_73888_01_g2977_02/full/pct:100/0/default.jpg#h=2285&w=2264"
   ],
   "index": 1,
   "item": {
-   "audio_type": "Instrumental",
+   "audio_type": "Vocal",
    "contributors": [
-    "Dopazo, Manuel -- Instrumentalist -- Gaita"
+    "Quiroz y Muñoz -- Vocal Group -- Vocal Group",
+    "Muñoz, J. -- Instrumentalist -- Guitar",
+    "Quiroz, Salvador -- Vocalist -- Tenor Vocal",
+    "Muñoz, J. -- Vocalist -- Vocalist"
    ],
    "file_id": [
-    "jvm_victor_63732_01_h445_01"
+    "jvm_victor_73888_01_g2977_02"
    ],
    "genre": [
-    "Spanish (Argentina)",
+    "Spanish (Mexico)",
+    "Spanish (Cuba)",
     "Popular music",
     "Ethnic music"
    ],
+   "language": "Spanish",
    "media_size": "10-in.",
    "profile": "jukebox",
-   "recording_catalog_number": "63732",
-   "recording_date": "1912-01-31",
+   "recording_catalog_number": "73888",
+   "recording_date": "1923-03-23",
    "recording_label": "Victor",
-   "recording_matrix_number": "H-445 (Matrix ID)",
+   "recording_matrix_number": "G-2977 (Matrix ID)",
    "recording_repository": "Source of original recording: Johnson Victrola Museum, Delaware.",
-   "recording_take_id": 8317,
-   "recording_take_number": "1",
+   "recording_take_id": 8066,
+   "recording_take_number": "2",
    "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
-   "summary": "Gaita solo, with tambor"
+   "summary": "Male vocal duet, with guitar"
   },
+  "language": [
+   "spanish"
+  ],
+  "languages": [
+   {
+    "spanish": "https://www.loc.gov/search/?fa=language:spanish&fo=json"
+   }
+  ],
   "location": [
-   "buenos aires",
-   "argentina"
+   "mexico city",
+   "mexico"
   ],
   "locations": [
    {
-    "argentina": "https://www.loc.gov/search/?fa=location:argentina&fo=json"
+    "mexico": "https://www.loc.gov/search/?fa=location:mexico&fo=json"
    },
    {
-    "buenos aires": "https://www.loc.gov/search/?fa=location:buenos+aires&fo=json"
+    "mexico city": "https://www.loc.gov/search/?fa=location:mexico+city&fo=json"
    }
   ],
   "media_size": "10-in.",
   "mime_type": [
    "audio/mpeg",
    "audio/wav",
+   "image/tif",
    "image/jpeg"
   ],
   "online_format": [
@@ -127,7 +163,8 @@
   ],
   "other_formats": [],
   "other_title": [
-   "Aire regional espanol"
+   "Son abajerio",
+   "Son abajeno"
   ],
   "partof": [
    {
@@ -150,46 +187,46 @@
    "johnson victrola museum, delaware"
   ],
   "profile": "jukebox",
-  "recording_catalog_number": "63732",
-  "recording_date": "1912-01-31",
+  "recording_catalog_number": "73888",
+  "recording_date": "1923-03-23",
   "recording_label": "Victor",
-  "recording_matrix_number": "H-445 (Matrix ID)",
+  "recording_matrix_number": "G-2977 (Matrix ID)",
   "recording_repository": "Source of original recording: Johnson Victrola Museum, Delaware.",
-  "recording_take_id": 8317,
-  "recording_take_number": "1",
+  "recording_take_id": 8066,
+  "recording_take_number": "2",
   "resources": [
    {
     "files": 1,
-    "media": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_63732_01_h445_01:jvm_victor_63732_01_h445_01/full/full/0/full/default.mp3",
-    "url": "https://www.loc.gov/resource/jukebox-8317.0"
+    "media": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73888_01_g2977_02:jvm_victor_73888_01_g2977_02/full/full/0/full/default.mp3",
+    "url": "https://www.loc.gov/resource/jukebox-8066.0"
    },
    {
     "files": 1,
-    "image": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_63732_01_h445_01:jvm_victor_63732_01_h445_01/full/pct:100/0/default.jpg",
+    "image": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73888_01_g2977_02:jvm_victor_73888_01_g2977_02/full/pct:100/0/default.jpg",
     "mimetype": "image/jpeg",
-    "url": "https://www.loc.gov/resource/jukebox-8317.1"
+    "url": "https://www.loc.gov/resource/jukebox-8066.1"
    }
   ],
   "rights": [
    "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
   ],
   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
-  "score": 15.457672,
+  "score": 16.532057,
   "shard": "01",
-  "shelf_id": "Victor 63732",
+  "shelf_id": "Victor 73888",
   "site": [
    "nationaljukebox"
   ],
   "source_modified": "2000-01-01T12:00:00Z",
   "subject": [
+   "spanish (mexico); spanish (cuba)",
    "victor",
-   "instrumental",
    "popular music",
-   "ethnic music",
-   "spanish (argentina)"
+   "vocal",
+   "ethnic music"
   ],
   "subject_category": [
-   "instrumental"
+   "vocal"
   ],
   "subject_genre": [
    "popular music",
@@ -199,28 +236,28 @@
    "victor"
   ],
   "subject_target_audience": [
-   "spanish (argentina)"
+   "spanish (mexico); spanish (cuba)"
   ],
   "subjects": [
    {
     "ethnic music": "https://www.loc.gov/search/?fa=subject:ethnic+music&fo=json"
    },
    {
-    "instrumental": "https://www.loc.gov/search/?fa=subject:instrumental&fo=json"
-   },
-   {
     "popular music": "https://www.loc.gov/search/?fa=subject:popular+music&fo=json"
    },
    {
-    "spanish (argentina)": "https://www.loc.gov/search/?fa=subject:spanish+%28argentina%29&fo=json"
+    "spanish (mexico); spanish (cuba)": "https://www.loc.gov/search/?fa=subject:spanish+%28mexico%29%3B+spanish+%28cuba%29&fo=json"
    },
    {
     "victor": "https://www.loc.gov/search/?fa=subject:victor&fo=json"
+   },
+   {
+    "vocal": "https://www.loc.gov/search/?fa=subject:vocal&fo=json"
    }
   ],
   "subjects_category": [
    {
-    "instrumental": "https://www.loc.gov/collections/national-jukebox/?fa=subject_category:instrumental&fo=json"
+    "vocal": "https://www.loc.gov/collections/national-jukebox/?fa=subject_category:vocal&fo=json"
    }
   ],
   "subjects_genre": [
@@ -238,215 +275,61 @@
   ],
   "subjects_target_audience": [
    {
-    "spanish (argentina)": "https://www.loc.gov/collections/national-jukebox/?fa=subject_target_audience:spanish+%28argentina%29&fo=json"
+    "spanish (mexico); spanish (cuba)": "https://www.loc.gov/collections/national-jukebox/?fa=subject_target_audience:spanish+%28mexico%29%3B+spanish+%28cuba%29&fo=json"
    }
   ],
-  "summary": "Gaita solo, with tambor",
-  "timestamp": "2026-10-05T14:55:11.428Z",
-  "title": "Alborada de Veiga",
+  "summary": "Male vocal duet, with guitar",
+  "timestamp": "2026-10-05T14:54:19.754Z",
+  "title": "El limoncito",
   "type": [
    "sound recording-musical"
   ],
-  "url": "https://www.loc.gov/item/jukebox-8317/"
+  "url": "https://www.loc.gov/item/jukebox-8066/"
  },
  "more_like_this": [
   {
    "access_restricted": false,
    "aka": [
-    "http://www.loc.gov/item/jukebox-255386/",
-    "http://www.loc.gov/resource/jukebox-255386.0/",
-    "http://www.loc.gov/resource/jukebox-255386.1/",
-    "http://www.loc.gov/resource/jukebox-255386.0",
-    "http://www.loc.gov/resource/jukebox-255386.1"
+    "http://www.loc.gov/item/jukebox-8065/",
+    "http://www.loc.gov/resource/jukebox-8065.0/",
+    "http://www.loc.gov/resource/jukebox-8065.1/",
+    "http://www.loc.gov/resource/jukebox-8065.0",
+    "http://www.loc.gov/resource/jukebox-8065.1"
    ],
    "campaigns": [],
    "contributor": [
-    "dopazo, manuel"
+    "muñoz, j.",
+    "quiroz y muñoz",
+    "quiroz, salvador"
    ],
-   "date": "1912-01-31",
+   "date": "1923-03-23",
    "dates": [
-    "1912-01-31"
+    "1923-03-23"
    ],
    "description": [
-    "Victor 65163. Matrix/Take: H-452/1."
+    "Victor 73888. Matrix/Take: G-2976/1."
    ],
    "digitized": true,
-   "extract_timestamp": "2026-10-05T02:56:54.512Z",
+   "extract_timestamp": "2026-10-04T17:51:29.953Z",
    "group": [
     "nationaljukebox",
     "national-jukebox"
    ],
    "hassegments": false,
-   "id": "http://www.loc.gov/item/jukebox-255386/",
+   "id": "http://www.loc.gov/item/jukebox-8065/",
    "image_url": [
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_65163_01_h452_01:jvm_victor_65163_01_h452_01/full/pct:12.5/0/default.jpg#h=299&w=296",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_65163_01_h452_01:jvm_victor_65163_01_h452_01/full/pct:25/0/default.jpg#h=599&w=592",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_65163_01_h452_01:jvm_victor_65163_01_h452_01/full/pct:50/0/default.jpg#h=1198&w=1184",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_65163_01_h452_01:jvm_victor_65163_01_h452_01/full/pct:100/0/default.jpg#h=2396&w=2369"
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73888_01_g2976_01:jvm_victor_73888_01_g2976_01/full/pct:12.5/0/default.jpg#h=284&w=283",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73888_01_g2976_01:jvm_victor_73888_01_g2976_01/full/pct:25/0/default.jpg#h=568&w=566",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73888_01_g2976_01:jvm_victor_73888_01_g2976_01/full/pct:50/0/default.jpg#h=1137&w=1133",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73888_01_g2976_01:jvm_victor_73888_01_g2976_01/full/pct:100/0/default.jpg#h=2274&w=2267"
    ],
    "index": 1,
+   "language": [
+    "spanish"
+   ],
    "location": [
-    "buenos aires",
-    "argentina"
-   ],
-   "mime_type": [
-    "audio/mpeg",
-    "audio/wav",
-    "image/jpeg"
-   ],
-   "online_format": [
-    "audio",
-    "image"
-   ],
-   "original_format": [
-    "sound recording"
-   ],
-   "other_title": [
-    "Marcha"
-   ],
-   "partof": [
-    "recorded sound research center",
-    "johnson victrola museum, delaware",
-    "national jukebox"
-   ],
-   "score": 56.881165,
-   "shelf_id": "Victor 65163",
-   "site": [
-    "nationaljukebox"
-   ],
-   "subject": [
-    "victor",
-    "instrumental",
-    "popular music",
-    "ethnic music",
-    "spanish (argentina)"
-   ],
-   "timestamp": "2026-10-05T14:08:54.108Z",
-   "title": "Marcha de mi pueblo",
-   "type": [
-    "sound recording-musical"
-   ],
-   "url": "https://www.loc.gov/item/jukebox-255386/"
-  },
-  {
-   "access_restricted": false,
-   "aka": [
-    "http://www.loc.gov/item/jukebox-8319/",
-    "http://www.loc.gov/resource/jukebox-8319.0/",
-    "http://www.loc.gov/resource/jukebox-8319.1/",
-    "http://www.loc.gov/resource/jukebox-8319.0",
-    "http://www.loc.gov/resource/jukebox-8319.1"
-   ],
-   "campaigns": [],
-   "contributor": [
-    "dopazo, manuel"
-   ],
-   "date": "1912-01-31",
-   "dates": [
-    "1912-01-31"
-   ],
-   "description": [
-    "Victor 63732. Matrix/Take: H-447/1."
-   ],
-   "digitized": true,
-   "extract_timestamp": "2026-10-04T17:52:40.646Z",
-   "group": [
-    "nationaljukebox",
-    "national-jukebox"
-   ],
-   "hassegments": false,
-   "id": "http://www.loc.gov/item/jukebox-8319/",
-   "image_url": [
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_63732_01_h447_01:jvm_victor_63732_01_h447_01/full/pct:12.5/0/default.jpg#h=302&w=303",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_63732_01_h447_01:jvm_victor_63732_01_h447_01/full/pct:25/0/default.jpg#h=605&w=606",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_63732_01_h447_01:jvm_victor_63732_01_h447_01/full/pct:50/0/default.jpg#h=1210&w=1213",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_63732_01_h447_01:jvm_victor_63732_01_h447_01/full/pct:100/0/default.jpg#h=2420&w=2426"
-   ],
-   "index": 2,
-   "location": [
-    "buenos aires",
-    "argentina"
-   ],
-   "mime_type": [
-    "audio/mpeg",
-    "audio/wav",
-    "image/jpeg"
-   ],
-   "online_format": [
-    "audio",
-    "image"
-   ],
-   "original_format": [
-    "sound recording"
-   ],
-   "other_title": [
-    "Aire regional espanol"
-   ],
-   "partof": [
-    "recorded sound research center",
-    "johnson victrola museum, delaware",
-    "national jukebox"
-   ],
-   "score": 56.881165,
-   "shelf_id": "Victor 63732",
-   "site": [
-    "nationaljukebox"
-   ],
-   "subject": [
-    "victor",
-    "instrumental",
-    "popular music",
-    "ethnic music",
-    "spanish (argentina)"
-   ],
-   "timestamp": "2026-10-05T14:55:11.428Z",
-   "title": "Rebeiraña de Mondoñedo",
-   "type": [
-    "sound recording-musical"
-   ],
-   "url": "https://www.loc.gov/item/jukebox-8319/"
-  },
-  {
-   "access_restricted": false,
-   "aka": [
-    "http://www.loc.gov/item/jukebox-191724/",
-    "http://www.loc.gov/resource/jukebox-191724.0/",
-    "http://www.loc.gov/resource/jukebox-191724.1/",
-    "http://www.loc.gov/resource/jukebox-191724.0",
-    "http://www.loc.gov/resource/jukebox-191724.1"
-   ],
-   "campaigns": [],
-   "contributor": [
-    "dúo juannino",
-    "damiano, josé",
-    "metallo, gerardo",
-    "gozzola, juan"
-   ],
-   "date": "1917-04-30",
-   "dates": [
-    "1917-04-30"
-   ],
-   "description": [
-    "Victor 69724. Matrix/Take: G-1896/1."
-   ],
-   "digitized": true,
-   "extract_timestamp": "2026-10-05T02:01:41.456Z",
-   "group": [
-    "nationaljukebox",
-    "national-jukebox"
-   ],
-   "hassegments": false,
-   "id": "http://www.loc.gov/item/jukebox-191724/",
-   "image_url": [
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_69724_01_g1896_01:jvm_victor_69724_01_g1896_01/full/pct:12.5/0/default.jpg#h=294&w=294",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_69724_01_g1896_01:jvm_victor_69724_01_g1896_01/full/pct:25/0/default.jpg#h=589&w=588",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_69724_01_g1896_01:jvm_victor_69724_01_g1896_01/full/pct:50/0/default.jpg#h=1179&w=1177",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_69724_01_g1896_01:jvm_victor_69724_01_g1896_01/full/pct:100/0/default.jpg#h=2358&w=2354"
-   ],
-   "index": 3,
-   "location": [
-    "buenos aires",
-    "argentina"
+    "mexico city",
+    "mexico"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -462,84 +345,241 @@
     "sound recording"
    ],
    "other_title": [
-    "Mazurka"
+    "Cancion jocosa"
    ],
    "partof": [
     "recorded sound research center",
     "johnson victrola museum, delaware",
     "national jukebox"
    ],
-   "score": 48.3382,
-   "shelf_id": "Victor 69724",
+   "score": 76.27038,
+   "shelf_id": "Victor 73888",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
+    "spanish (mexico); spanish (cuba)",
     "victor",
-    "instrumental",
     "popular music",
-    "ethnic music",
-    "spanish (argentina)"
+    "vocal",
+    "ethnic music"
    ],
-   "timestamp": "2026-10-05T14:02:38.959Z",
-   "title": "La morocha",
+   "timestamp": "2026-10-05T14:54:19.754Z",
+   "title": "Así es el mundo",
    "type": [
     "sound recording-musical"
    ],
-   "url": "https://www.loc.gov/item/jukebox-191724/"
+   "url": "https://www.loc.gov/item/jukebox-8065/"
   },
   {
    "access_restricted": false,
    "aka": [
-    "http://www.loc.gov/item/jukebox-210313/",
-    "http://www.loc.gov/resource/jukebox-210313.0/",
-    "http://www.loc.gov/resource/jukebox-210313.1/",
-    "http://www.loc.gov/resource/jukebox-210313.0",
-    "http://www.loc.gov/resource/jukebox-210313.1"
+    "http://www.loc.gov/item/jukebox-8058/",
+    "http://www.loc.gov/resource/jukebox-8058.0/",
+    "http://www.loc.gov/resource/jukebox-8058.1/",
+    "http://www.loc.gov/resource/jukebox-8058.0",
+    "http://www.loc.gov/resource/jukebox-8058.1"
    ],
    "campaigns": [],
    "contributor": [
-    "arolas, eduardo",
-    "lombardo, c.",
-    "bianco, francisco n.",
-    "ricardi, l.",
-    "orquesta típica eduardo arolas",
-    "tuegolo, r.",
-    "nocera netto, domingo"
+    "muñoz, j.",
+    "quiroz y muñoz",
+    "quiroz, salvador"
    ],
-   "date": "1917-05-15",
+   "date": "1923-03-21",
    "dates": [
-    "1917-05-15"
+    "1923-03-21"
    ],
    "description": [
-    "Victor 72239. Matrix/Take: G-2015/1."
+    "Victor 77048. Matrix/Take: G-2969/3."
    ],
    "digitized": true,
-   "extract_timestamp": "2026-10-05T02:06:42.783Z",
+   "extract_timestamp": "2026-10-04T17:51:29.953Z",
    "group": [
     "nationaljukebox",
     "national-jukebox"
    ],
    "hassegments": false,
-   "id": "http://www.loc.gov/item/jukebox-210313/",
+   "id": "http://www.loc.gov/item/jukebox-8058/",
    "image_url": [
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_72239_01_g2015_01:jvm_victor_72239_01_g2015_01/full/pct:12.5/0/default.jpg#h=253&w=251",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_72239_01_g2015_01:jvm_victor_72239_01_g2015_01/full/pct:25/0/default.jpg#h=507&w=503",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_72239_01_g2015_01:jvm_victor_72239_01_g2015_01/full/pct:50/0/default.jpg#h=1015&w=1006",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_72239_01_g2015_01:jvm_victor_72239_01_g2015_01/full/pct:100/0/default.jpg#h=2030&w=2013"
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_77048_01_g2969_03:jvm_victor_77048_01_g2969_03/full/pct:12.5/0/default.jpg#h=288&w=286",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_77048_01_g2969_03:jvm_victor_77048_01_g2969_03/full/pct:25/0/default.jpg#h=577&w=572",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_77048_01_g2969_03:jvm_victor_77048_01_g2969_03/full/pct:50/0/default.jpg#h=1155&w=1145",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_77048_01_g2969_03:jvm_victor_77048_01_g2969_03/full/pct:100/0/default.jpg#h=2311&w=2290"
+   ],
+   "index": 2,
+   "language": [
+    "spanish"
+   ],
+   "location": [
+    "cuba",
+    "havana"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Son jalisciense"
+   ],
+   "partof": [
+    "recorded sound research center",
+    "johnson victrola museum, delaware",
+    "national jukebox"
+   ],
+   "score": 58.777485,
+   "shelf_id": "Victor 77048",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "spanish (mexico); spanish (cuba)",
+    "vocal",
+    "victor"
+   ],
+   "timestamp": "2026-10-05T14:54:19.754Z",
+   "title": "El venadito",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-8058/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-8059/",
+    "http://www.loc.gov/resource/jukebox-8059.0/",
+    "http://www.loc.gov/resource/jukebox-8059.1/",
+    "http://www.loc.gov/resource/jukebox-8059.0",
+    "http://www.loc.gov/resource/jukebox-8059.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "muñoz, j.",
+    "quiroz y muñoz",
+    "quiroz, salvador"
+   ],
+   "date": "1923-03-21",
+   "dates": [
+    "1923-03-21"
+   ],
+   "description": [
+    "Victor 77048. Matrix/Take: G-2970/2."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-04T17:51:29.953Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-8059/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_77048_01_g2970_02:jvm_victor_77048_01_g2970_02/full/pct:12.5/0/default.jpg#h=313&w=311",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_77048_01_g2970_02:jvm_victor_77048_01_g2970_02/full/pct:25/0/default.jpg#h=627&w=623",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_77048_01_g2970_02:jvm_victor_77048_01_g2970_02/full/pct:50/0/default.jpg#h=1255&w=1247",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_77048_01_g2970_02:jvm_victor_77048_01_g2970_02/full/pct:100/0/default.jpg#h=2510&w=2494"
+   ],
+   "index": 3,
+   "language": [
+    "spanish"
+   ],
+   "location": [
+    "cuba",
+    "havana"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Cancion"
+   ],
+   "partof": [
+    "recorded sound research center",
+    "johnson victrola museum, delaware",
+    "national jukebox"
+   ],
+   "score": 58.777485,
+   "shelf_id": "Victor 77048",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "spanish (mexico); spanish (cuba)",
+    "vocal",
+    "victor"
+   ],
+   "timestamp": "2026-10-05T14:54:19.754Z",
+   "title": "Yo fuí el primero",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-8059/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-328239/",
+    "http://www.loc.gov/resource/jukebox-328239.0/",
+    "http://www.loc.gov/resource/jukebox-328239.1/",
+    "http://www.loc.gov/resource/jukebox-328239.0",
+    "http://www.loc.gov/resource/jukebox-328239.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "lydia, [?], señorita"
+   ],
+   "date": "1908-11-03",
+   "dates": [
+    "1908-11-03"
+   ],
+   "description": [
+    "Victor 62350. Matrix/Take: R-125/1."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T03:26:00.520Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-328239/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_62350_01_r125_01:jvm_victor_62350_01_r125_01/full/pct:12.5/0/default.jpg#h=284&w=285",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_62350_01_r125_01:jvm_victor_62350_01_r125_01/full/pct:25/0/default.jpg#h=569&w=570",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_62350_01_r125_01:jvm_victor_62350_01_r125_01/full/pct:50/0/default.jpg#h=1139&w=1141",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_62350_01_r125_01:jvm_victor_62350_01_r125_01/full/pct:100/0/default.jpg#h=2279&w=2282"
    ],
    "index": 4,
    "language": [
     "spanish"
    ],
    "location": [
-    "buenos aires",
-    "argentina"
+    "mexico city",
+    "mexico"
    ],
    "mime_type": [
     "audio/mpeg",
     "audio/wav",
-    "image/tif",
     "image/jpeg"
    ],
    "online_format": [
@@ -550,78 +590,76 @@
     "sound recording"
    ],
    "other_title": [
-    "Estilo criollo cantado"
+    "Couplets"
    ],
    "partof": [
     "recorded sound research center",
     "johnson victrola museum, delaware",
     "national jukebox"
    ],
-   "score": 43.514786,
-   "shelf_id": "Victor 72239",
+   "score": 38.55025,
+   "shelf_id": "Victor 62350",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
     "victor",
     "popular music",
-    "vocal",
     "ethnic music",
-    "spanish (argentina)"
+    "vocal"
    ],
-   "timestamp": "2026-10-05T14:04:22.786Z",
-   "title": "Dolorido",
+   "timestamp": "2026-10-05T14:13:57.371Z",
+   "title": "Mon petit chat",
    "type": [
     "sound recording-musical"
    ],
-   "url": "https://www.loc.gov/item/jukebox-210313/"
+   "url": "https://www.loc.gov/item/jukebox-328239/"
   },
   {
    "access_restricted": false,
    "aka": [
-    "http://www.loc.gov/item/jukebox-191721/",
-    "http://www.loc.gov/resource/jukebox-191721.0/",
-    "http://www.loc.gov/resource/jukebox-191721.1/",
-    "http://www.loc.gov/resource/jukebox-191721.0",
-    "http://www.loc.gov/resource/jukebox-191721.1"
+    "http://www.loc.gov/item/jukebox-328240/",
+    "http://www.loc.gov/resource/jukebox-328240.0/",
+    "http://www.loc.gov/resource/jukebox-328240.1/",
+    "http://www.loc.gov/resource/jukebox-328240.0",
+    "http://www.loc.gov/resource/jukebox-328240.1"
    ],
    "campaigns": [],
    "contributor": [
-    "nocera netto, domingo"
+    "vera, perico"
    ],
-   "date": "1917-04-28",
+   "date": "1908-11-05",
    "dates": [
-    "1917-04-28"
+    "1908-11-05"
    ],
    "description": [
-    "Victor 69726. Matrix/Take: G-1892/1."
+    "Victor 62350. Matrix/Take: R-139-1/1."
    ],
    "digitized": true,
-   "extract_timestamp": "2026-10-05T02:01:41.456Z",
+   "extract_timestamp": "2026-10-05T03:26:00.520Z",
    "group": [
     "nationaljukebox",
     "national-jukebox"
    ],
    "hassegments": false,
-   "id": "http://www.loc.gov/item/jukebox-191721/",
+   "id": "http://www.loc.gov/item/jukebox-328240/",
    "image_url": [
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_69726_01_g1892_01:jvm_victor_69726_01_g1892_01/full/pct:12.5/0/default.jpg#h=293&w=288",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_69726_01_g1892_01:jvm_victor_69726_01_g1892_01/full/pct:25/0/default.jpg#h=586&w=577",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_69726_01_g1892_01:jvm_victor_69726_01_g1892_01/full/pct:50/0/default.jpg#h=1172&w=1154",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_69726_01_g1892_01:jvm_victor_69726_01_g1892_01/full/pct:100/0/default.jpg#h=2344&w=2308"
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_62350_01_r1391_01:jvm_victor_62350_01_r1391_01/full/pct:12.5/0/default.jpg#h=293&w=291",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_62350_01_r1391_01:jvm_victor_62350_01_r1391_01/full/pct:25/0/default.jpg#h=587&w=583",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_62350_01_r1391_01:jvm_victor_62350_01_r1391_01/full/pct:50/0/default.jpg#h=1174&w=1167",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_62350_01_r1391_01:jvm_victor_62350_01_r1391_01/full/pct:100/0/default.jpg#h=2348&w=2334"
    ],
    "index": 5,
    "language": [
     "spanish"
    ],
    "location": [
-    "buenos aires",
-    "argentina"
+    "mexico city",
+    "mexico"
    ],
    "mime_type": [
     "audio/mpeg",
     "audio/wav",
-    "image/tif",
     "image/jpeg"
    ],
    "online_format": [
@@ -632,15 +670,15 @@
     "sound recording"
    ],
    "other_title": [
-    "Lamento santiagueno"
+    "4 coplas del negro"
    ],
    "partof": [
     "recorded sound research center",
     "johnson victrola museum, delaware",
     "national jukebox"
    ],
-   "score": 43.514786,
-   "shelf_id": "Victor 69726",
+   "score": 38.55025,
+   "shelf_id": "Victor 62350",
    "site": [
     "nationaljukebox"
    ],
@@ -648,64 +686,62 @@
     "victor",
     "popular music",
     "vocal",
-    "ethnic music",
-    "spanish (argentina)"
+    "spanish",
+    "ethnic music"
    ],
-   "timestamp": "2026-10-05T14:02:38.959Z",
-   "title": "Si no tenis corazón",
+   "timestamp": "2026-10-05T14:13:57.371Z",
+   "title": "Las bribonas",
    "type": [
     "sound recording-musical"
    ],
-   "url": "https://www.loc.gov/item/jukebox-191721/"
+   "url": "https://www.loc.gov/item/jukebox-328240/"
   },
   {
    "access_restricted": false,
    "aka": [
-    "http://www.loc.gov/item/jukebox-191782/",
-    "http://www.loc.gov/resource/jukebox-191782.0/",
-    "http://www.loc.gov/resource/jukebox-191782.1/",
-    "http://www.loc.gov/resource/jukebox-191782.0",
-    "http://www.loc.gov/resource/jukebox-191782.1"
+    "http://www.loc.gov/item/jukebox-317049/",
+    "http://www.loc.gov/resource/jukebox-317049.0/",
+    "http://www.loc.gov/resource/jukebox-317049.1/",
+    "http://www.loc.gov/resource/jukebox-317049.0",
+    "http://www.loc.gov/resource/jukebox-317049.1"
    ],
    "campaigns": [],
    "contributor": [
-    "dúo criollo bianco-riverol",
-    "bianco, francisco n.",
-    "riverol, ignacio"
+    "picazo, leopoldo",
+    "abrego, jesús"
    ],
-   "date": "1917-05-05",
+   "date": "1908-10-18",
    "dates": [
-    "1917-05-05"
+    "1908-10-18"
    ],
    "description": [
-    "Victor 69821. Matrix/Take: G-1964/1."
+    "Victor 62126. Matrix/Take: R-28/1."
    ],
    "digitized": true,
-   "extract_timestamp": "2026-10-05T02:01:41.456Z",
+   "extract_timestamp": "2026-10-05T03:21:37.925Z",
    "group": [
     "nationaljukebox",
     "national-jukebox"
    ],
    "hassegments": false,
-   "id": "http://www.loc.gov/item/jukebox-191782/",
+   "id": "http://www.loc.gov/item/jukebox-317049/",
    "image_url": [
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_69821_01_g1964_01:jvm_victor_69821_01_g1964_01/full/pct:12.5/0/default.jpg#h=234&w=229",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_69821_01_g1964_01:jvm_victor_69821_01_g1964_01/full/pct:25/0/default.jpg#h=469&w=458",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_69821_01_g1964_01:jvm_victor_69821_01_g1964_01/full/pct:50/0/default.jpg#h=939&w=916",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_69821_01_g1964_01:jvm_victor_69821_01_g1964_01/full/pct:100/0/default.jpg#h=1879&w=1833"
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_62126_01_r28_01:jvm_victor_62126_01_r28_01/full/pct:12.5/0/default.jpg#h=319&w=317",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_62126_01_r28_01:jvm_victor_62126_01_r28_01/full/pct:25/0/default.jpg#h=638&w=635",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_62126_01_r28_01:jvm_victor_62126_01_r28_01/full/pct:50/0/default.jpg#h=1276&w=1271",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_62126_01_r28_01:jvm_victor_62126_01_r28_01/full/pct:100/0/default.jpg#h=2553&w=2543"
    ],
    "index": 6,
    "language": [
     "spanish"
    ],
    "location": [
-    "buenos aires",
-    "argentina"
+    "mexico city",
+    "mexico"
    ],
    "mime_type": [
     "audio/mpeg",
     "audio/wav",
-    "image/tif",
     "image/jpeg"
    ],
    "online_format": [
@@ -715,16 +751,13 @@
    "original_format": [
     "sound recording"
    ],
-   "other_title": [
-    "Estilo provinciano"
-   ],
    "partof": [
     "recorded sound research center",
     "johnson victrola museum, delaware",
     "national jukebox"
    ],
-   "score": 43.514786,
-   "shelf_id": "Victor 69821",
+   "score": 38.55025,
+   "shelf_id": "Victor 62126",
    "site": [
     "nationaljukebox"
    ],
@@ -732,15 +765,15 @@
     "victor",
     "popular music",
     "vocal",
-    "ethnic music",
-    "spanish (argentina)"
+    "spanish (mexico)",
+    "ethnic music"
    ],
-   "timestamp": "2026-10-05T14:02:38.959Z",
-   "title": "La tucumana",
+   "timestamp": "2026-10-05T14:13:16.452Z",
+   "title": "La risa de cupido",
    "type": [
     "sound recording-musical"
    ],
-   "url": "https://www.loc.gov/item/jukebox-191782/"
+   "url": "https://www.loc.gov/item/jukebox-317049/"
   }
  ],
  "notice": {
@@ -763,6 +796,8 @@
   "cache_tags": [
    "nationaljukebox",
    "national-jukebox",
+   "sgppanama/dlc",
+   "world-newspapers",
    "cph",
    "catalog-split-12",
    "catalog",
@@ -778,9 +813,7 @@
    "catalog-split-02",
    "main-catalog-split-02",
    "catalog-split-03",
-   "main-catalog-split-03",
-   "catalog-split-04",
-   "main-catalog-split-04"
+   "main-catalog-split-03"
   ],
   "callback": null,
   "clip": null,
@@ -796,7 +829,7 @@
   "display_level": null,
   "distance": null,
   "downloadOption": null,
-  "duration": 0.4133424758911133,
+  "duration": 0.488051176071167,
   "embed": [],
   "embed!": [],
   "error_response_status": null,
@@ -823,7 +856,7 @@
   "format": "json",
   "host": "www.loc.gov",
   "ical": false,
-  "id": "jukebox-8317/",
+  "id": "jukebox-8066/",
   "iiif": false,
   "include_facets": [
    {
@@ -918,7 +951,7 @@
   "operator": null,
   "outputEncoding": "UTF-8",
   "page_campaigns": [],
-  "path_info": "/item/jukebox-8317/",
+  "path_info": "/item/jukebox-8066/",
   "port": "443",
   "proxypath": null,
   "query_string": "fo=json",
@@ -933,7 +966,7 @@
     "json"
    ]
   },
-  "request_url": "https://www.loc.gov/item/jukebox-8317/?fo=json",
+  "request_url": "https://www.loc.gov/item/jukebox-8066/?fo=json",
   "resource": "",
   "resource_sequence": null,
   "scheme": "https",
@@ -955,12 +988,100 @@
   "suggested": null,
   "target": null,
   "template": "layouts/item/layout",
-  "timestamp": 1791463455.7585666,
+  "timestamp": 1791464114.4209409,
   "tz_aware": null,
   "unionFacets": "",
   "webcast_permalink": null
  },
  "related_items": [
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/2019238211/1882-09-21/ed-1/",
+    "http://www.loc.gov/resource/2019238211/1882-09-21/ed-1/"
+   ],
+   "batch": [
+    "dlc_panamafilm4_ver02"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "library of congress, washington, dc"
+   ],
+   "date": "1882-09-21",
+   "dates": [
+    "1882-09-21"
+   ],
+   "description": [
+    "México"
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-02-02T13:13:06.488Z",
+   "group": [
+    "sgppanama/dlc",
+    "world-newspapers"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/2019238211/1882-09-21/ed-1/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_panamafilm4_ver02:data:2019238211:00517179644:1882092101:0019/full/pct:3.125/0/default.jpg#h=277&w=185",
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_panamafilm4_ver02:data:2019238211:00517179644:1882092101:0019/full/pct:6.25/0/default.jpg#h=555&w=371",
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_panamafilm4_ver02:data:2019238211:00517179644:1882092101:0019/full/pct:12.5/0/default.jpg#h=1110&w=743"
+   ],
+   "index": 1,
+   "language": [
+    "spanish"
+   ],
+   "location": [
+    "mexico city",
+    "mexico"
+   ],
+   "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg"
+   ],
+   "number": [
+    "2019238211",
+    "00517179644",
+    "1"
+   ],
+   "numeric_shelf_id": 188209211,
+   "online_format": [
+    "image",
+    "pdf",
+    "online text"
+   ],
+   "original_format": [
+    "newspaper"
+   ],
+   "partof": [
+    "world newspapers",
+    "serial and government publications division",
+    "el nacional : periódico de política, literatura, ciencias, artes, industria, agricultura, minería y comercio (méxico) 1880-???? [online resource]"
+   ],
+   "publication_frequency": [
+    "daily"
+   ],
+   "score": 18.339077,
+   "shelf_id": "2019238211, 1882-09-21, Edition 1",
+   "site": [
+    "chroniclingamerica"
+   ],
+   "subject": [
+    "newspapers",
+    "mexico city",
+    "mexico",
+    "politics and government",
+    "mexico city (mexico)"
+   ],
+   "timestamp": "2026-02-02T15:47:13.511Z",
+   "title": "El nacional : periódico de política, literatura, ciencias, artes, industria, agricultura, minería y comercio (México), September 21, 1882",
+   "type": [
+    "issue"
+   ],
+   "url": "https://www.loc.gov/item/2019238211/1882-09-21/ed-1/"
+  },
   {
    "access_restricted": false,
    "aka": [
@@ -1001,7 +1122,7 @@
     "https://tile.loc.gov/storage-services/service/pnp/ds/02300/02394r.jpg#h=214&w=640",
     "https://tile.loc.gov/storage-services/service/pnp/ds/02300/02394v.jpg#h=342&w=1024"
    ],
-   "index": 1,
+   "index": 2,
    "language": [
     "english"
    ],
@@ -1095,7 +1216,7 @@
     "https://tile.loc.gov/storage-services/service/pnp/det/4a00000/4a09000/4a09100/4a09194r.jpg#h=511&w=640",
     "https://tile.loc.gov/storage-services/service/pnp/det/4a00000/4a09000/4a09100/4a09194v.jpg#h=817&w=1024"
    ],
-   "index": 2,
+   "index": 3,
    "language": [
     "english"
    ],
@@ -1185,7 +1306,7 @@
     "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03519r.jpg#h=422&w=640",
     "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03519v.jpg#h=675&w=1024"
    ],
-   "index": 3,
+   "index": 4,
    "language": [
     "english"
    ],
@@ -1274,7 +1395,7 @@
     "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03520r.jpg#h=419&w=640",
     "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03520v.jpg#h=670&w=1024"
    ],
-   "index": 4,
+   "index": 5,
    "language": [
     "english"
    ],
@@ -1362,7 +1483,7 @@
     "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03521r.jpg#h=419&w=640",
     "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03521v.jpg#h=670&w=1024"
    ],
-   "index": 5,
+   "index": 6,
    "language": [
     "english"
    ],
@@ -1412,100 +1533,11 @@
     "still image"
    ],
    "url": "https://www.loc.gov/item/2024689884/"
-  },
-  {
-   "access_restricted": false,
-   "aka": [
-    "https://www.loc.gov/pictures/item/2024689885/",
-    "http://www.loc.gov/item/2024689885/",
-    "http://www.loc.gov/pictures/item/2024689885/",
-    "https://hdl.loc.gov/loc.pnp/pcrd.1d03522",
-    "https://hdl.loc.gov/loc.pnp/pcrd.1d03522",
-    "https://hdl.loc.gov/loc.pnp/pcrd.2d03522",
-    "https://hdl.loc.gov/loc.pnp/pcrd.2d03522",
-    "http://www.loc.gov/resource/pcrd.1d03522/",
-    "http://www.loc.gov/resource/pcrd.2d03522/",
-    "http://lccn.loc.gov/2024689885"
-   ],
-   "campaigns": [],
-   "date": "1910",
-   "dates": [
-    "1910"
-   ],
-   "description": [
-    "1 photograph : gelatin silver print ; sheet 9 x 14 cm (postcard format)"
-   ],
-   "digitized": true,
-   "extract_timestamp": "2024-03-02T14:28:03.271Z",
-   "group": [
-    "pp_other",
-    "catalog-split-04",
-    "catalog",
-    "prints-and-photographs-other",
-    "main-catalog-split-04"
-   ],
-   "hassegments": false,
-   "id": "http://www.loc.gov/item/2024689885/",
-   "image_url": [
-    "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03522_150px.jpg#h=99&w=150",
-    "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03522r.jpg#h=421&w=640",
-    "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03522v.jpg#h=673&w=1024"
-   ],
-   "index": 6,
-   "language": [
-    "english"
-   ],
-   "location": [
-    "victor",
-    "montana",
-    "united states"
-   ],
-   "mime_type": [
-    "image/gif",
-    "image/jpg",
-    "image/tif"
-   ],
-   "number": [
-    "2024689885",
-    "2024-02-21t08:57:13",
-    "sheet",
-    "http://www.loc.gov/item/23570955"
-   ],
-   "online_format": [
-    "image"
-   ],
-   "original_format": [
-    "photo, print, drawing"
-   ],
-   "partof": [
-    "prints and photographs division",
-    "catalog"
-   ],
-   "score": 9.75644,
-   "shelf_id": "PCRD 4 - Montana - Victor, no. 4 [P&P]",
-   "site": [
-    "pictures",
-    "catalog"
-   ],
-   "subject": [
-    "victor",
-    "postcards",
-    "united states",
-    "photographs",
-    "montana",
-    "schools"
-   ],
-   "timestamp": "2024-03-02T14:40:16.299Z",
-   "title": "School house, Victor, Mont.",
-   "type": [
-    "still image"
-   ],
-   "url": "https://www.loc.gov/item/2024689885/"
   }
  ],
  "resources": [
   {
-   "audio": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_63732_01_h445_01:jvm_victor_63732_01_h445_01/full/full/0/full/default.mp3",
+   "audio": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73888_01_g2977_02:jvm_victor_73888_01_g2977_02/full/full/0/full/default.mp3",
    "files": [
     [
      {
@@ -1514,69 +1546,77 @@
       "canDownload": true,
       "derivatives": [
        {
-        "derivativeUrl": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/jvm_victor_63732_01_h445_01/jvm_victor_63732_01_h445_01.mp3"
+        "derivativeUrl": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/jvm_victor_73888_01_g2977_02/jvm_victor_73888_01_g2977_02.mp3"
        }
       ],
-      "detailUrl": "https://www.loc.gov/item/jukebox-8317",
-      "download": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_63732_01_h445_01:jvm_victor_63732_01_h445_01/full/full/0/full/default.mp3",
-      "duration": 182.0,
-      "filename": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/jvm_victor_63732_01_h445_01/jvm_victor_63732_01_h445_01.mp3",
+      "detailUrl": "https://www.loc.gov/item/jukebox-8066",
+      "download": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73888_01_g2977_02:jvm_victor_73888_01_g2977_02/full/full/0/full/default.mp3",
+      "duration": 184.0,
+      "filename": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/jvm_victor_73888_01_g2977_02/jvm_victor_73888_01_g2977_02.mp3",
       "mediaType": "A",
       "metadata": [
-       "Alborada de Veiga",
-       "Gaita solo, with tambor"
+       "El limoncito",
+       "Male vocal duet, with guitar"
       ],
       "mimetype": "audio/mpeg",
       "poster": null,
       "rights_restricted": true,
-      "shortName": "Alborada de Veiga",
-      "thumbnail_url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_63732_01_h445_01:jvm_victor_63732_01_h445_01/full/pct:12.5/0/default.jpg"
+      "shortName": "El limoncito",
+      "thumbnail_url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73888_01_g2977_02:jvm_victor_73888_01_g2977_02/full/pct:12.5/0/default.jpg"
      },
      {
       "height": null,
       "levels": 1,
       "mimetype": "audio/wav",
-      "size": 32111332,
-      "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/jvm_victor_63732_01_h445_01/jvm_victor_63732_01_h445_01.wav",
+      "size": 32598860,
+      "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/jvm_victor_73888_01_g2977_02/jvm_victor_73888_01_g2977_02.wav",
       "width": null
      }
     ]
    ],
-   "url": "https://www.loc.gov/resource/jukebox-8317.0"
+   "url": "https://www.loc.gov/resource/jukebox-8066.0"
   },
   {
    "files": [
     [
      {
-      "height": 289,
+      "height": 285,
       "mimetype": "image/jpeg",
-      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_63732_01_h445_01:jvm_victor_63732_01_h445_01/full/pct:12.5/0/default.jpg",
-      "width": 287
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73888_01_g2977_02:jvm_victor_73888_01_g2977_02/full/pct:12.5/0/default.jpg",
+      "width": 283
      },
      {
-      "height": 579,
+      "height": 571,
       "mimetype": "image/jpeg",
-      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_63732_01_h445_01:jvm_victor_63732_01_h445_01/full/pct:25/0/default.jpg",
-      "width": 575
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73888_01_g2977_02:jvm_victor_73888_01_g2977_02/full/pct:25/0/default.jpg",
+      "width": 566
      },
      {
-      "height": 1159,
+      "height": 1142,
       "mimetype": "image/jpeg",
-      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_63732_01_h445_01:jvm_victor_63732_01_h445_01/full/pct:50/0/default.jpg",
-      "width": 1150
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73888_01_g2977_02:jvm_victor_73888_01_g2977_02/full/pct:50/0/default.jpg",
+      "width": 1132
      },
      {
-      "height": 2318,
+      "height": 2285,
       "mimetype": "image/jpeg",
-      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_63732_01_h445_01:jvm_victor_63732_01_h445_01/full/pct:100/0/default.jpg",
-      "width": 2300
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73888_01_g2977_02:jvm_victor_73888_01_g2977_02/full/pct:100/0/default.jpg",
+      "width": 2264
+     },
+     {
+      "height": null,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 20696492,
+      "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/jvm_victor_73888_01_g2977_02/jvm_victor_73888_01_g2977_02.tif",
+      "width": null
      }
     ]
    ],
-   "image": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_63732_01_h445_01:jvm_victor_63732_01_h445_01/full/pct:100/0/default.jpg",
+   "image": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73888_01_g2977_02:jvm_victor_73888_01_g2977_02/full/pct:100/0/default.jpg",
    "mimetype": "image/jpeg",
-   "url": "https://www.loc.gov/resource/jukebox-8317.1"
+   "url": "https://www.loc.gov/resource/jukebox-8066.1"
   }
  ],
- "timestamp": 1791463456172
+ "timestamp": 1791464114909
 }
