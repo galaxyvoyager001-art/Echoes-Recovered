@@ -148,8 +148,8 @@
    }
   ],
   "location": [
-   "camden",
    "new jersey",
+   "camden",
    "united states"
   ],
   "locations": [
@@ -226,7 +226,7 @@
    "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
   ],
   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
-  "score": 15.332874,
+  "score": 15.335243,
   "shard": "01",
   "shelf_id": "Victor 18211",
   "site": [
@@ -281,12 +281,12 @@
    ],
    "campaigns": [],
    "contributor": [
-    "baker, elsie",
-    "shannon, j. r.",
-    "brown, edna",
-    "eppel, john valentine",
     "logan, frederic knight",
-    "pasternack, josef"
+    "brown, edna",
+    "shannon, j. r.",
+    "baker, elsie",
+    "pasternack, josef",
+    "eppel, john valentine"
    ],
    "date": "1916-12-15",
    "dates": [
@@ -314,8 +314,8 @@
     "english"
    ],
    "location": [
-    "camden",
     "new jersey",
+    "camden",
     "united states"
    ],
    "mime_type": [
@@ -335,11 +335,11 @@
     "The Missouri waltz"
    ],
    "partof": [
-    "recorded sound section, library of congress",
+    "recorded sound research center",
     "national jukebox",
-    "recorded sound research center"
+    "recorded sound section, library of congress"
    ],
-   "score": 45.125385,
+   "score": 45.13969,
    "shelf_id": "Victor 18214",
    "site": [
     "nationaljukebox"
@@ -367,15 +367,15 @@
    ],
    "campaigns": [],
    "contributor": [
-    "reitz, william h.",
-    "shaw, elliott",
-    "yellen, jack",
-    "baker, elsie",
     "rattay, howard",
     "brown, edna",
+    "bourdon, rosario",
+    "yellen, jack",
     "olman, abe",
+    "baker, elsie",
+    "reitz, william h.",
     "pasternack, josef",
-    "bourdon, rosario"
+    "shaw, elliott"
    ],
    "date": "1921-12-01",
    "dates": [
@@ -403,8 +403,8 @@
     "english"
    ],
    "location": [
-    "camden",
     "new jersey",
+    "camden",
     "united states"
    ],
    "mime_type": [
@@ -421,19 +421,19 @@
     "sound recording"
    ],
    "partof": [
-    "recorded sound section, library of congress",
+    "recorded sound research center",
     "national jukebox",
-    "recorded sound research center"
+    "recorded sound section, library of congress"
    ],
-   "score": 45.125385,
+   "score": 45.13969,
    "shelf_id": "Victor 18841",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
     "victor",
-    "vocal",
-    "popular music"
+    "popular music",
+    "vocal"
    ],
    "timestamp": "2026-10-05T14:21:18.172Z",
    "title": "Mississippi cradle",
@@ -453,13 +453,13 @@
    ],
    "campaigns": [],
    "contributor": [
-    "baker, elsie",
-    "harrison, charles",
+    "bourdon, rosario",
     "kern, jerome",
     "brown, edna",
-    "de sylva, b. g.",
+    "baker, elsie",
     "pasternack, josef",
-    "bourdon, rosario"
+    "de sylva, b. g.",
+    "harrison, charles"
    ],
    "date": "1921-01-19",
    "dates": [
@@ -487,8 +487,8 @@
     "english"
    ],
    "location": [
-    "camden",
     "new jersey",
+    "camden",
     "united states"
    ],
    "mime_type": [
@@ -508,11 +508,11 @@
     "Sally"
    ],
    "partof": [
-    "recorded sound section, library of congress",
+    "recorded sound research center",
     "national jukebox",
-    "recorded sound research center"
+    "recorded sound section, library of congress"
    ],
-   "score": 45.125385,
+   "score": 45.13969,
    "shelf_id": "Victor 18731",
    "site": [
     "nationaljukebox"
@@ -540,12 +540,12 @@
    ],
    "campaigns": [],
    "contributor": [
+    "reed, james",
+    "rogers, walter b.",
+    "brown, edna",
     "kutz, james fulton",
     "baker, elsie",
-    "miller, reed",
-    "brown, edna",
-    "rogers, walter b.",
-    "reed, james"
+    "miller, reed"
    ],
    "date": "1916-04-06",
    "dates": [
@@ -573,8 +573,8 @@
     "english"
    ],
    "location": [
-    "camden",
     "new jersey",
+    "camden",
     "united states"
    ],
    "mime_type": [
@@ -591,19 +591,19 @@
     "sound recording"
    ],
    "partof": [
-    "recorded sound section, library of congress",
+    "recorded sound research center",
     "national jukebox",
-    "recorded sound research center"
+    "recorded sound section, library of congress"
    ],
-   "score": 40.03682,
+   "score": 40.04875,
    "shelf_id": "Victor 18032",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
     "victor",
-    "vocal",
-    "popular music"
+    "popular music",
+    "vocal"
    ],
    "timestamp": "2026-10-05T14:00:03.665Z",
    "title": "Fair Hawaii",
@@ -624,13 +624,13 @@
    ],
    "campaigns": [],
    "contributor": [
-    "petrie, h. w.",
     "levy, ted",
-    "baker, elsie",
     "harrison, james f.",
-    "wheeler, frederick j.",
     "brown, edna",
-    "roden, robert f."
+    "roden, robert f.",
+    "petrie, h. w.",
+    "wheeler, frederick j.",
+    "baker, elsie"
    ],
    "date": "1914-09-23",
    "dates": [
@@ -658,8 +658,8 @@
     "english"
    ],
    "location": [
-    "camden",
     "new jersey",
+    "camden",
     "united states"
    ],
    "mime_type": [
@@ -676,19 +676,19 @@
     "sound recording"
    ],
    "partof": [
-    "recorded sound section, library of congress",
+    "recorded sound research center",
     "national jukebox",
-    "recorded sound research center"
+    "recorded sound section, library of congress"
    ],
-   "score": 40.03682,
+   "score": 40.04875,
    "shelf_id": "Victor 17641",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
     "victor",
-    "vocal",
-    "popular music"
+    "popular music",
+    "vocal"
    ],
    "timestamp": "2026-10-05T14:00:28.666Z",
    "title": "When June-time brings the roses",
@@ -709,12 +709,12 @@
    ],
    "campaigns": [],
    "contributor": [
-    "baker, elsie",
-    "miller, reed",
-    "carroll, earl",
-    "brown, edna",
     "reed, james",
-    "bourdon, rosario"
+    "bourdon, rosario",
+    "brown, edna",
+    "carroll, earl",
+    "baker, elsie",
+    "miller, reed"
    ],
    "date": "1916-06-22",
    "dates": [
@@ -742,8 +742,8 @@
     "english"
    ],
    "location": [
-    "camden",
     "new jersey",
+    "camden",
     "united states"
    ],
    "mime_type": [
@@ -763,19 +763,19 @@
     "Canary Cottage"
    ],
    "partof": [
-    "recorded sound section, library of congress",
+    "recorded sound research center",
     "national jukebox",
-    "recorded sound research center"
+    "recorded sound section, library of congress"
    ],
-   "score": 40.03682,
+   "score": 40.04875,
    "shelf_id": "Victor 18103",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "musical theater",
+    "victor",
     "vocal",
-    "victor"
+    "musical theater"
    ],
    "timestamp": "2026-10-05T13:59:34.005Z",
    "title": "I never knew",
@@ -839,7 +839,7 @@
   "display_level": null,
   "distance": null,
   "downloadOption": null,
-  "duration": 0.5134809017181396,
+  "duration": 0.646052360534668,
   "embed": [],
   "embed!": [],
   "error_response_status": null,
@@ -998,7 +998,7 @@
   "suggested": null,
   "target": null,
   "template": "layouts/item/layout",
-  "timestamp": 1791373001.3415291,
+  "timestamp": 1791463208.122079,
   "tz_aware": null,
   "unionFacets": "",
   "webcast_permalink": null
@@ -1014,10 +1014,10 @@
    ],
    "campaigns": [],
    "contributor": [
-    "hubbell, raymond",
-    "bovill, c. a.",
+    "golden, john l.",
     "darewski, max",
-    "golden, john l."
+    "bovill, c. a.",
+    "hubbell, raymond"
    ],
    "date": "1916",
    "dates": [
@@ -1050,12 +1050,12 @@
     "image/jp2"
    ],
    "number": [
-    "http://www.loc.gov/resource/ihas.100006740.0",
-    "http://www.loc.gov/item/2023793048",
     "2023-11-30t11:46:50",
+    "http://www.loc.gov/resource/ihas.100006740.0",
+    "http://www.loc.gov/item/ihas.100006740",
+    "http://www.loc.gov/item/2023793048",
     "sheet",
-    "2023793048",
-    "http://www.loc.gov/item/ihas.100006740"
+    "2023793048"
    ],
    "online_format": [
     "image",
@@ -1066,11 +1066,11 @@
    ],
    "partof": [
     "the library of congress celebrates the songs of america",
+    "catalog",
     "music division",
-    "historic sheet music collection, 1800-1922",
-    "catalog"
+    "historic sheet music collection, 1800-1922"
    ],
-   "score": 13.677394,
+   "score": 13.690815,
    "shelf_id": "https://repo.loc.gov/access/public/music/musihas-100006740/.resource.json",
    "site": [
     "catalog"
@@ -1137,9 +1137,9 @@
     "image/tif"
    ],
    "number": [
-    "2013645043",
+    "http://www.loc.gov/item/17665053",
     "2013-04-03t08:58:59",
-    "http://www.loc.gov/item/17665053"
+    "2013645043"
    ],
    "online_format": [
     "image"
@@ -1149,28 +1149,28 @@
    ],
    "partof": [
     "prints & photographs online catalog (library of congress)",
-    "prints and photographs division",
     "miscellaneous items in high demand",
     "lot 14058",
+    "prints and photographs division",
     "catalog"
    ],
-   "score": 10.158625,
+   "score": 10.157352,
    "shelf_id": "LOT 14058, no. 123 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "schools",
-    "school children",
-    "victor (iowa)",
-    "iowa",
-    "photographic postcards",
     "victor",
-    "group portraits",
-    "panoramic postcards",
     "photographic prints",
-    "united states"
+    "school children",
+    "united states",
+    "panoramic postcards",
+    "photographic postcards",
+    "victor (iowa)",
+    "group portraits",
+    "iowa",
+    "schools"
    ],
    "timestamp": "2022-05-02T06:13:36.448Z",
    "title": "[Victor High School, Victor, Iowa]",
@@ -1188,8 +1188,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "jackson, william henry",
-    "detroit publishing co."
+    "detroit publishing co.",
+    "jackson, william henry"
    ],
    "date": "1900-01-01",
    "dates": [
@@ -1222,8 +1222,8 @@
    ],
    "location": [
     "victor",
-    "united states",
-    "colorado"
+    "colorado",
+    "united states"
    ],
    "mime_type": [
     "image/gif",
@@ -1231,11 +1231,11 @@
     "image/tif"
    ],
    "number": [
-    "http://www.loc.gov/item/2016808865",
     "http://www.loc.gov/item/det1994014825/pp",
+    "http://www.loc.gov/item/2016808865",
     "2017-10-30t13:04:57",
-    "2016808865",
-    "http://www.loc.gov/item/20110612"
+    "http://www.loc.gov/item/20110612",
+    "2016808865"
    ],
    "online_format": [
     "image"
@@ -1244,25 +1244,25 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "american memory",
     "prints & photographs online catalog (library of congress)",
-    "prints and photographs division",
+    "american memory",
     "detroit publishing company",
+    "prints and photographs division",
     "catalog"
    ],
-   "score": 10.158625,
+   "score": 10.157352,
    "shelf_id": "LC-D4-13841 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "colorado",
     "victor",
-    "cityscape photographs",
-    "united states",
+    "dry plate negatives",
     "gold mining",
-    "dry plate negatives"
+    "united states",
+    "colorado",
+    "cityscape photographs"
    ],
    "timestamp": "2022-04-25T08:19:00.040Z",
    "title": "Victor, Colo., and the Gold Coin Mine",
@@ -1312,8 +1312,8 @@
    ],
    "location": [
     "victor",
-    "united states",
-    "montana"
+    "montana",
+    "united states"
    ],
    "mime_type": [
     "image/gif",
@@ -1321,10 +1321,10 @@
     "image/tif"
    ],
    "number": [
-    "http://www.loc.gov/item/23570952",
     "2024-02-21t08:57:11",
+    "2024689882",
     "sheet",
-    "2024689882"
+    "http://www.loc.gov/item/23570952"
    ],
    "online_format": [
     "image"
@@ -1336,19 +1336,19 @@
     "prints and photographs division",
     "catalog"
    ],
-   "score": 10.158625,
+   "score": 10.157352,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 1 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "postcards",
-    "streets",
-    "photographs",
-    "montana",
     "victor",
-    "united states"
+    "streets",
+    "postcards",
+    "united states",
+    "photographs",
+    "montana"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "Main Street, Victor, Montana",
@@ -1401,8 +1401,8 @@
    ],
    "location": [
     "victor",
-    "united states",
-    "montana"
+    "montana",
+    "united states"
    ],
    "mime_type": [
     "image/gif",
@@ -1410,9 +1410,9 @@
     "image/tif"
    ],
    "number": [
+    "http://www.loc.gov/item/23570953",
     "2024-02-21t08:57:12",
     "sheet",
-    "http://www.loc.gov/item/23570953",
     "2024689883"
    ],
    "online_format": [
@@ -1425,18 +1425,18 @@
     "prints and photographs division",
     "catalog"
    ],
-   "score": 10.158625,
+   "score": 10.157352,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 2 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "postcards",
-    "photographs",
-    "montana",
     "victor",
-    "united states"
+    "postcards",
+    "united states",
+    "photographs",
+    "montana"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "The snow-capped peak of St. Mory's, Victor, Montana",
@@ -1489,8 +1489,8 @@
    ],
    "location": [
     "victor",
-    "united states",
-    "montana"
+    "montana",
+    "united states"
    ],
    "mime_type": [
     "image/gif",
@@ -1498,8 +1498,8 @@
     "image/tif"
    ],
    "number": [
-    "http://www.loc.gov/item/23570954",
     "2024689884",
+    "http://www.loc.gov/item/23570954",
     "2024-02-21t08:57:12",
     "sheet"
    ],
@@ -1513,19 +1513,19 @@
     "prints and photographs division",
     "catalog"
    ],
-   "score": 10.158625,
+   "score": 10.157352,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 3 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "houses",
+    "victor",
     "postcards",
+    "united states",
     "photographs",
     "montana",
-    "victor",
-    "united states"
+    "houses"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "A Bitter Root home, Victor, Montana",
@@ -1618,5 +1618,5 @@
    "url": "https://www.loc.gov/resource/jukebox-186160.1"
   }
  ],
- "timestamp": 1791373001855
+ "timestamp": 1791463208768
 }

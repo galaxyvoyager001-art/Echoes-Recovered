@@ -1,7 +1,7 @@
 {
  "articles_and_essays": [
   {
-   "score": 6.8721485,
+   "score": 6.876397,
    "title": "The Serious Business of Clowning Around",
    "url": "https://blogs.loc.gov/folklife/2024/08/43833/"
   }
@@ -209,7 +209,7 @@
    "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
   ],
   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
-  "score": 15.332874,
+  "score": 15.335243,
   "shard": "01",
   "shelf_id": "Victor 930",
   "site": [
@@ -218,8 +218,8 @@
   "source_modified": "2000-01-01T12:00:00Z",
   "subject": [
    "victor",
-   "vocal",
-   "opera"
+   "opera",
+   "vocal"
   ],
   "subject_category": [
    "vocal"
@@ -300,8 +300,8 @@
     "italian"
    ],
    "location": [
-    "camden",
     "new jersey",
+    "camden",
     "united states"
    ],
    "mime_type": [
@@ -319,19 +319,19 @@
     "La boheme"
    ],
    "partof": [
-    "recorded sound section, library of congress",
+    "recorded sound research center",
     "national jukebox",
-    "recorded sound research center"
+    "recorded sound section, library of congress"
    ],
-   "score": 39.350193,
+   "score": 39.361507,
    "shelf_id": "Victor 6012",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
     "victor",
-    "vocal",
-    "opera"
+    "opera",
+    "vocal"
    ],
    "timestamp": "2026-10-05T13:43:43.496Z",
    "title": "Testa adorata",
@@ -374,8 +374,8 @@
     "italian"
    ],
    "location": [
-    "camden",
     "new jersey",
+    "camden",
     "united states"
    ],
    "mime_type": [
@@ -394,19 +394,19 @@
     "Boheme. Io non ho che una povera stanzetta"
    ],
    "partof": [
-    "recorded sound section, library of congress",
+    "recorded sound research center",
     "national jukebox",
-    "recorded sound research center"
+    "recorded sound section, library of congress"
    ],
-   "score": 39.350193,
+   "score": 39.361507,
    "shelf_id": "Victor 6012",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
     "victor",
-    "vocal",
-    "opera"
+    "opera",
+    "vocal"
    ],
    "timestamp": "2026-10-05T13:43:43.496Z",
    "title": "Io non ho che una povera stanzetta",
@@ -464,11 +464,11 @@
     "sound recording"
    ],
    "partof": [
-    "recorded sound section, library of congress",
+    "recorded sound research center",
     "national jukebox",
-    "recorded sound research center"
+    "recorded sound section, library of congress"
    ],
-   "score": 35.64973,
+   "score": 35.661163,
    "shelf_id": "Victor 509",
    "site": [
     "nationaljukebox"
@@ -538,11 +538,11 @@
     "Serenade Francaise"
    ],
    "partof": [
-    "recorded sound section, library of congress",
+    "recorded sound research center",
     "national jukebox",
-    "recorded sound research center"
+    "recorded sound section, library of congress"
    ],
-   "score": 35.64973,
+   "score": 35.661163,
    "shelf_id": "Victor 8008",
    "site": [
     "nationaljukebox"
@@ -569,13 +569,13 @@
    ],
    "campaigns": [],
    "contributor": [
-    "murphy, lambert",
-    "victor opera company",
-    "hooley, william f.",
-    "macdonough, harry",
-    "werrenrath, reinald",
     "marsh, lucy isabelle",
     "dunlap, marguerite",
+    "werrenrath, reinald",
+    "victor opera company",
+    "macdonough, harry",
+    "hooley, william f.",
+    "murphy, lambert",
     "kline, olive",
     "leoncavallo, ruggiero"
    ],
@@ -626,19 +626,19 @@
     "Pagliacci. Selections"
    ],
    "partof": [
-    "recorded sound section, library of congress",
+    "recorded sound research center",
     "national jukebox",
-    "recorded sound research center"
+    "recorded sound section, library of congress"
    ],
-   "score": 35.41145,
+   "score": 35.42118,
    "shelf_id": "Victor 31876",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
     "victor",
-    "vocal",
-    "opera"
+    "opera",
+    "vocal"
    ],
    "timestamp": "2026-10-05T13:45:26.818Z",
    "title": "Gems from I pagliacci",
@@ -659,13 +659,13 @@
    ],
    "campaigns": [],
    "contributor": [
-    "murphy, lambert",
-    "victor opera company",
-    "hooley, william f.",
-    "macdonough, harry",
-    "werrenrath, reinald",
     "marsh, lucy isabelle",
     "dunlap, marguerite",
+    "werrenrath, reinald",
+    "victor opera company",
+    "macdonough, harry",
+    "hooley, william f.",
+    "murphy, lambert",
     "kline, olive",
     "leoncavallo, ruggiero"
    ],
@@ -716,19 +716,19 @@
     "Pagliacci. Selections"
    ],
    "partof": [
-    "recorded sound section, library of congress",
+    "recorded sound research center",
     "national jukebox",
-    "recorded sound research center"
+    "recorded sound section, library of congress"
    ],
-   "score": 35.41145,
+   "score": 35.42118,
    "shelf_id": "Victor 35343",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
     "victor",
-    "vocal",
-    "opera"
+    "opera",
+    "vocal"
    ],
    "timestamp": "2026-10-05T13:45:26.818Z",
    "title": "Gems from I pagliacci",
@@ -791,7 +791,7 @@
   "display_level": null,
   "distance": null,
   "downloadOption": null,
-  "duration": 0.4618713855743408,
+  "duration": 1.367835521697998,
   "embed": [],
   "embed!": [],
   "error_response_status": null,
@@ -950,7 +950,7 @@
   "suggested": null,
   "target": null,
   "template": "layouts/item/layout",
-  "timestamp": 1791372872.5826025,
+  "timestamp": 1791462993.495489,
   "tz_aware": null,
   "unionFacets": "",
   "webcast_permalink": null
@@ -1011,9 +1011,9 @@
     "image/tif"
    ],
    "number": [
-    "2013645043",
     "2013-04-03t08:58:59",
-    "http://www.loc.gov/item/17665053"
+    "http://www.loc.gov/item/17665053",
+    "2013645043"
    ],
    "online_format": [
     "image"
@@ -1022,29 +1022,29 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "prints & photographs online catalog (library of congress)",
+    "catalog",
     "prints and photographs division",
     "miscellaneous items in high demand",
-    "lot 14058",
-    "catalog"
+    "prints & photographs online catalog (library of congress)",
+    "lot 14058"
    ],
-   "score": 10.158625,
+   "score": 10.157352,
    "shelf_id": "LOT 14058, no. 123 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "schools",
-    "school children",
-    "victor (iowa)",
-    "iowa",
-    "photographic postcards",
     "victor",
-    "group portraits",
-    "panoramic postcards",
+    "united states",
     "photographic prints",
-    "united states"
+    "photographic postcards",
+    "iowa",
+    "group portraits",
+    "schools",
+    "panoramic postcards",
+    "school children",
+    "victor (iowa)"
    ],
    "timestamp": "2022-05-02T06:13:36.448Z",
    "title": "[Victor High School, Victor, Iowa]",
@@ -1062,8 +1062,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "jackson, william henry",
-    "detroit publishing co."
+    "detroit publishing co.",
+    "jackson, william henry"
    ],
    "date": "1900-01-01",
    "dates": [
@@ -1095,9 +1095,9 @@
     "english"
    ],
    "location": [
+    "colorado",
     "victor",
-    "united states",
-    "colorado"
+    "united states"
    ],
    "mime_type": [
     "image/gif",
@@ -1106,10 +1106,10 @@
    ],
    "number": [
     "http://www.loc.gov/item/2016808865",
+    "http://www.loc.gov/item/20110612",
     "http://www.loc.gov/item/det1994014825/pp",
-    "2017-10-30t13:04:57",
     "2016808865",
-    "http://www.loc.gov/item/20110612"
+    "2017-10-30t13:04:57"
    ],
    "online_format": [
     "image"
@@ -1118,25 +1118,25 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "american memory",
-    "prints & photographs online catalog (library of congress)",
+    "catalog",
     "prints and photographs division",
     "detroit publishing company",
-    "catalog"
+    "american memory",
+    "prints & photographs online catalog (library of congress)"
    ],
-   "score": 10.158625,
+   "score": 10.157352,
    "shelf_id": "LC-D4-13841 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "colorado",
     "victor",
-    "cityscape photographs",
     "united states",
-    "gold mining",
-    "dry plate negatives"
+    "dry plate negatives",
+    "cityscape photographs",
+    "colorado",
+    "gold mining"
    ],
    "timestamp": "2022-04-25T08:19:00.040Z",
    "title": "Victor, Colo., and the Gold Coin Mine",
@@ -1185,9 +1185,9 @@
     "english"
    ],
    "location": [
+    "montana",
     "victor",
-    "united states",
-    "montana"
+    "united states"
    ],
    "mime_type": [
     "image/gif",
@@ -1195,9 +1195,9 @@
     "image/tif"
    ],
    "number": [
-    "http://www.loc.gov/item/23570952",
-    "2024-02-21t08:57:11",
     "sheet",
+    "2024-02-21t08:57:11",
+    "http://www.loc.gov/item/23570952",
     "2024689882"
    ],
    "online_format": [
@@ -1210,19 +1210,19 @@
     "prints and photographs division",
     "catalog"
    ],
-   "score": 10.158625,
+   "score": 10.157352,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 1 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "postcards",
-    "streets",
-    "photographs",
     "montana",
     "victor",
-    "united states"
+    "united states",
+    "streets",
+    "postcards",
+    "photographs"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "Main Street, Victor, Montana",
@@ -1274,9 +1274,9 @@
     "english"
    ],
    "location": [
+    "montana",
     "victor",
-    "united states",
-    "montana"
+    "united states"
    ],
    "mime_type": [
     "image/gif",
@@ -1284,8 +1284,8 @@
     "image/tif"
    ],
    "number": [
-    "2024-02-21t08:57:12",
     "sheet",
+    "2024-02-21t08:57:12",
     "http://www.loc.gov/item/23570953",
     "2024689883"
    ],
@@ -1299,18 +1299,18 @@
     "prints and photographs division",
     "catalog"
    ],
-   "score": 10.158625,
+   "score": 10.157352,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 2 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "postcards",
-    "photographs",
     "montana",
     "victor",
-    "united states"
+    "united states",
+    "postcards",
+    "photographs"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "The snow-capped peak of St. Mory's, Victor, Montana",
@@ -1362,9 +1362,9 @@
     "english"
    ],
    "location": [
+    "montana",
     "victor",
-    "united states",
-    "montana"
+    "united states"
    ],
    "mime_type": [
     "image/gif",
@@ -1372,10 +1372,10 @@
     "image/tif"
    ],
    "number": [
-    "http://www.loc.gov/item/23570954",
-    "2024689884",
+    "sheet",
     "2024-02-21t08:57:12",
-    "sheet"
+    "2024689884",
+    "http://www.loc.gov/item/23570954"
    ],
    "online_format": [
     "image"
@@ -1387,19 +1387,19 @@
     "prints and photographs division",
     "catalog"
    ],
-   "score": 10.158625,
+   "score": 10.157352,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 3 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "houses",
-    "postcards",
-    "photographs",
     "montana",
     "victor",
-    "united states"
+    "united states",
+    "postcards",
+    "houses",
+    "photographs"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "A Bitter Root home, Victor, Montana",
@@ -1451,9 +1451,9 @@
     "english"
    ],
    "location": [
+    "montana",
     "victor",
-    "united states",
-    "montana"
+    "united states"
    ],
    "mime_type": [
     "image/gif",
@@ -1461,9 +1461,9 @@
     "image/tif"
    ],
    "number": [
-    "2024-02-21t08:57:13",
     "sheet",
     "http://www.loc.gov/item/23570955",
+    "2024-02-21t08:57:13",
     "2024689885"
    ],
    "online_format": [
@@ -1476,19 +1476,19 @@
     "prints and photographs division",
     "catalog"
    ],
-   "score": 10.158625,
+   "score": 10.157352,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 4 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "postcards",
-    "schools",
-    "photographs",
     "montana",
     "victor",
-    "united states"
+    "united states",
+    "postcards",
+    "schools",
+    "photographs"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "School house, Victor, Mont.",
@@ -1581,5 +1581,5 @@
    "url": "https://www.loc.gov/resource/jukebox-119158.1"
   }
  ],
- "timestamp": 1791372873044
+ "timestamp": 1791462994863
 }

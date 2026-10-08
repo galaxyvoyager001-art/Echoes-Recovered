@@ -1,7 +1,7 @@
 {
  "articles_and_essays": [
   {
-   "score": 6.5018044,
+   "score": 6.486622,
    "title": "Songs by George M. Cohan | Playlist of Recordings | About this Collection | National Jukebox | Digital Collections",
    "url": "https://www.loc.gov/collections/national-jukebox/about-this-collection/playlists/songs-by-george-m-cohan/"
   }
@@ -153,9 +153,9 @@
    }
   ],
   "location": [
-   "united states",
    "philadelphia",
-   "pennsylvania"
+   "pennsylvania",
+   "united states"
   ],
   "locations": [
    {
@@ -231,7 +231,7 @@
    "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
   ],
   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
-  "score": 15.331501,
+  "score": 15.335243,
   "shard": "01",
   "shelf_id": "Victor 4385",
   "site": [
@@ -239,8 +239,8 @@
   ],
   "source_modified": "2000-01-01T12:00:00Z",
   "subject": [
-   "vocal",
    "victor",
+   "vocal",
    "musical theater"
   ],
   "subject_category": [
@@ -299,12 +299,12 @@
    ],
    "campaigns": [],
    "contributor": [
-    "kernell, frank [i.e., samuel h. dudley]",
-    "jones, ada",
     "blossom, henry",
-    "dudley, s. h.",
     "herbert, victor",
-    "murray, billy"
+    "jones, ada",
+    "murray, billy",
+    "dudley, s. h.",
+    "kernell, frank [i.e., samuel h. dudley]"
    ],
    "date": "1906-12-13",
    "dates": [
@@ -332,9 +332,9 @@
     "english"
    ],
    "location": [
-    "united states",
     "philadelphia",
-    "pennsylvania"
+    "pennsylvania",
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -353,19 +353,19 @@
     "The red mill"
    ],
    "partof": [
-    "recorded sound section, library of congress",
     "national jukebox",
-    "recorded sound research center"
+    "recorded sound research center",
+    "recorded sound section, library of congress"
    ],
-   "score": 47.022964,
+   "score": 47.038,
    "shelf_id": "Victor 4970",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "vocal",
-    "whistling",
     "victor",
+    "whistling",
+    "vocal",
     "musical theater"
    ],
    "timestamp": "2026-10-05T14:08:35.041Z",
@@ -387,13 +387,13 @@
    ],
    "campaigns": [],
    "contributor": [
-    "stanley, frank c.",
-    "haydn quartet",
-    "macdonough, harry",
-    "dudley, s. h.",
-    "hooley, william f.",
     "morgan, corinne",
-    "cohan, george m."
+    "cohan, george m.",
+    "hooley, william f.",
+    "stanley, frank c.",
+    "dudley, s. h.",
+    "macdonough, harry",
+    "haydn quartet"
    ],
    "date": "1906-01-12",
    "dates": [
@@ -421,9 +421,9 @@
     "english"
    ],
    "location": [
-    "united states",
     "philadelphia",
-    "pennsylvania"
+    "pennsylvania",
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -442,18 +442,18 @@
     "Forty-five minutes from Broadway"
    ],
    "partof": [
-    "recorded sound section, library of congress",
     "national jukebox",
-    "recorded sound research center"
+    "recorded sound research center",
+    "recorded sound section, library of congress"
    ],
-   "score": 45.252,
+   "score": 45.267292,
    "shelf_id": "Victor 4590",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "vocal",
     "victor",
+    "vocal",
     "musical theater"
    ],
    "timestamp": "2026-10-05T14:08:17.442Z",
@@ -475,9 +475,9 @@
    ],
    "campaigns": [],
    "contributor": [
-    "edwards, gus",
     "dudley, s. h.",
     "kernell, frank [i.e., samuel h. dudley]",
+    "edwards, gus",
     "bryan, vincent"
    ],
    "date": "1905-02-28",
@@ -506,9 +506,9 @@
     "english"
    ],
    "location": [
-    "united states",
     "philadelphia",
-    "pennsylvania"
+    "pennsylvania",
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -527,20 +527,20 @@
     "Burlesque 'Indian' song"
    ],
    "partof": [
-    "recorded sound section, library of congress",
     "national jukebox",
-    "recorded sound research center"
+    "recorded sound research center",
+    "recorded sound section, library of congress"
    ],
-   "score": 40.804714,
+   "score": 40.818645,
    "shelf_id": "Victor 4297",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "vocal",
-    "humorous songs",
     "victor",
-    "ethnic characterizations"
+    "ethnic characterizations",
+    "humorous songs",
+    "vocal"
    ],
    "timestamp": "2026-10-05T13:35:50.838Z",
    "title": "Tammany",
@@ -589,9 +589,9 @@
     "english"
    ],
    "location": [
-    "united states",
     "philadelphia",
-    "pennsylvania"
+    "pennsylvania",
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -610,18 +610,18 @@
     "Little Johnny Jones"
    ],
    "partof": [
-    "recorded sound section, library of congress",
     "national jukebox",
-    "recorded sound research center"
+    "recorded sound research center",
+    "recorded sound section, library of congress"
    ],
-   "score": 39.170143,
+   "score": 39.182884,
    "shelf_id": "Victor 16799",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "vocal",
     "victor",
+    "vocal",
     "musical theater"
    ],
    "timestamp": "2026-10-05T14:07:58.680Z",
@@ -672,9 +672,9 @@
     "english"
    ],
    "location": [
-    "united states",
     "philadelphia",
-    "pennsylvania"
+    "pennsylvania",
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -694,18 +694,18 @@
     "George Washington, Jr"
    ],
    "partof": [
-    "recorded sound section, library of congress",
     "national jukebox",
-    "recorded sound research center"
+    "recorded sound research center",
+    "recorded sound section, library of congress"
    ],
-   "score": 39.170143,
+   "score": 39.182884,
    "shelf_id": "Victor 4634",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "vocal",
     "victor",
+    "vocal",
     "musical theater"
    ],
    "timestamp": "2026-10-05T13:36:53.838Z",
@@ -756,9 +756,9 @@
     "english"
    ],
    "location": [
-    "united states",
     "philadelphia",
-    "pennsylvania"
+    "pennsylvania",
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -777,18 +777,18 @@
     "George Washington, Jr"
    ],
    "partof": [
-    "recorded sound section, library of congress",
     "national jukebox",
-    "recorded sound research center"
+    "recorded sound research center",
+    "recorded sound section, library of congress"
    ],
-   "score": 39.170143,
+   "score": 39.182884,
    "shelf_id": "Victor 4634",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "vocal",
     "victor",
+    "vocal",
     "musical theater"
    ],
    "timestamp": "2026-10-05T13:36:53.838Z",
@@ -836,7 +836,7 @@
   "display_level": null,
   "distance": null,
   "downloadOption": null,
-  "duration": 17.636568069458008,
+  "duration": 2.464979410171509,
   "embed": [],
   "embed!": [],
   "error_response_status": null,
@@ -995,7 +995,7 @@
   "suggested": null,
   "target": null,
   "template": "layouts/item/layout",
-  "timestamp": 1791307893.5524924,
+  "timestamp": 1791463000.714574,
   "tz_aware": null,
   "unionFacets": "",
   "webcast_permalink": null
@@ -1038,13 +1038,13 @@
     "english"
    ],
    "location": [
-    "united states",
-    "york county",
-    "pennsylvanie",
-    "philadelphia",
-    "philadelphia county",
     "pennsylvania",
-    "york"
+    "philadelphia",
+    "york county",
+    "philadelphia county",
+    "york",
+    "united states",
+    "pennsylvanie"
    ],
    "mime_type": [
     "image/jp2",
@@ -1079,23 +1079,23 @@
     "chroniclingamerica"
    ],
    "subject": [
-    "période coloniale)",
-    "philadelphia (pa.)",
-    "publicaciones periódicas",
-    "newspapers",
-    "york county (pa.)",
-    "united states",
     "histoire",
-    "york",
-    "pennsylvanie",
-    "périodiques",
-    "york county",
-    "philadelphia",
-    "philadelphia county",
     "états-unis",
     "pennsylvania",
+    "philadelphia",
+    "philadelphia (pa.)",
+    "york county",
+    "philadelphia county",
+    "périodiques",
+    "newspapers",
+    "york",
+    "united states",
+    "york county (pa.)",
     "philadelphia county (pa.)",
-    "york (pa.)"
+    "période coloniale)",
+    "pennsylvanie",
+    "york (pa.)",
+    "publicaciones periódicas"
    ],
    "timestamp": "2026-06-05T10:10:58.852Z",
    "title": "The Pennsylvania gazette (Philadelphia, Pa.), July 10, 1776",
@@ -1141,10 +1141,10 @@
     "english"
    ],
    "location": [
-    "philadelphia",
+    "pennsylvania",
     "united states",
     "philadelphia county",
-    "pennsylvania"
+    "philadelphia"
    ],
    "mime_type": [
     "image/jp2",
@@ -1153,8 +1153,8 @@
     "image/jpeg"
    ],
    "number": [
-    "sn85047530",
-    "1"
+    "1",
+    "sn85047530"
    ],
    "numeric_shelf_id": 177607101,
    "online_format": [
@@ -1185,12 +1185,12 @@
     "chroniclingamerica"
    ],
    "subject": [
+    "pennsylvania",
+    "philadelphia",
     "philadelphia (pa.)",
+    "philadelphia county",
     "newspapers",
     "united states",
-    "philadelphia",
-    "philadelphia county",
-    "pennsylvania",
     "philadelphia county (pa.)"
    ],
    "timestamp": "2026-06-05T10:10:58.852Z",
@@ -1237,13 +1237,13 @@
     "english"
    ],
    "location": [
-    "united states",
-    "york county",
-    "pennsylvanie",
-    "philadelphia",
-    "philadelphia county",
     "pennsylvania",
-    "york"
+    "philadelphia",
+    "york county",
+    "philadelphia county",
+    "york",
+    "united states",
+    "pennsylvanie"
    ],
    "mime_type": [
     "image/jp2",
@@ -1278,23 +1278,23 @@
     "chroniclingamerica"
    ],
    "subject": [
-    "période coloniale)",
-    "philadelphia (pa.)",
-    "publicaciones periódicas",
-    "newspapers",
-    "york county (pa.)",
-    "united states",
     "histoire",
-    "york",
-    "pennsylvanie",
-    "périodiques",
-    "york county",
-    "philadelphia",
-    "philadelphia county",
     "états-unis",
     "pennsylvania",
+    "philadelphia",
+    "philadelphia (pa.)",
+    "york county",
+    "philadelphia county",
+    "périodiques",
+    "newspapers",
+    "york",
+    "united states",
+    "york county (pa.)",
     "philadelphia county (pa.)",
-    "york (pa.)"
+    "période coloniale)",
+    "pennsylvanie",
+    "york (pa.)",
+    "publicaciones periódicas"
    ],
    "timestamp": "2026-06-05T10:02:13.840Z",
    "title": "The Pennsylvania gazette (Philadelphia, Pa.), May 9, 1751",
@@ -1340,13 +1340,13 @@
     "english"
    ],
    "location": [
-    "united states",
-    "york county",
-    "pennsylvanie",
-    "philadelphia",
-    "philadelphia county",
     "pennsylvania",
-    "york"
+    "philadelphia",
+    "york county",
+    "philadelphia county",
+    "york",
+    "united states",
+    "pennsylvanie"
    ],
    "mime_type": [
     "image/jp2",
@@ -1381,23 +1381,23 @@
     "chroniclingamerica"
    ],
    "subject": [
-    "période coloniale)",
-    "philadelphia (pa.)",
-    "publicaciones periódicas",
-    "newspapers",
-    "york county (pa.)",
-    "united states",
     "histoire",
-    "york",
-    "pennsylvanie",
-    "périodiques",
-    "york county",
-    "philadelphia",
-    "philadelphia county",
     "états-unis",
     "pennsylvania",
+    "philadelphia",
+    "philadelphia (pa.)",
+    "york county",
+    "philadelphia county",
+    "périodiques",
+    "newspapers",
+    "york",
+    "united states",
+    "york county (pa.)",
     "philadelphia county (pa.)",
-    "york (pa.)"
+    "période coloniale)",
+    "pennsylvanie",
+    "york (pa.)",
+    "publicaciones periódicas"
    ],
    "timestamp": "2026-06-05T10:02:13.840Z",
    "title": "The Pennsylvania gazette (Philadelphia, Pa.), May 9, 1754",
@@ -1443,10 +1443,10 @@
     "english"
    ],
    "location": [
-    "philadelphia",
+    "pennsylvania",
     "united states",
     "philadelphia county",
-    "pennsylvania"
+    "philadelphia"
    ],
    "mime_type": [
     "image/jp2",
@@ -1455,8 +1455,8 @@
     "image/jpeg"
    ],
    "number": [
-    "sn85047530",
-    "1"
+    "1",
+    "sn85047530"
    ],
    "numeric_shelf_id": 177407271,
    "online_format": [
@@ -1487,12 +1487,12 @@
     "chroniclingamerica"
    ],
    "subject": [
+    "pennsylvania",
+    "philadelphia",
     "philadelphia (pa.)",
+    "philadelphia county",
     "newspapers",
     "united states",
-    "philadelphia",
-    "philadelphia county",
-    "pennsylvania",
     "philadelphia county (pa.)"
    ],
    "timestamp": "2026-06-05T10:02:13.840Z",
@@ -1539,10 +1539,10 @@
     "english"
    ],
    "location": [
-    "philadelphia",
+    "pennsylvania",
     "united states",
     "philadelphia county",
-    "pennsylvania"
+    "philadelphia"
    ],
    "mime_type": [
     "image/jp2",
@@ -1551,8 +1551,8 @@
     "image/jpeg"
    ],
    "number": [
-    "sn85047530",
-    "1"
+    "1",
+    "sn85047530"
    ],
    "numeric_shelf_id": 177512271,
    "online_format": [
@@ -1583,12 +1583,12 @@
     "chroniclingamerica"
    ],
    "subject": [
+    "pennsylvania",
+    "philadelphia",
     "philadelphia (pa.)",
+    "philadelphia county",
     "newspapers",
     "united states",
-    "philadelphia",
-    "philadelphia county",
-    "pennsylvania",
     "philadelphia county (pa.)"
    ],
    "timestamp": "2026-06-05T10:02:13.840Z",
@@ -1682,5 +1682,5 @@
    "url": "https://www.loc.gov/resource/jukebox-121880.1"
   }
  ],
- "timestamp": 1791307911189
+ "timestamp": 1791463003179
 }

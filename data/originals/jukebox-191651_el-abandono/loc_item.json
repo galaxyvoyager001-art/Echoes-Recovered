@@ -118,8 +118,8 @@
    }
   ],
   "location": [
-   "caracas",
-   "venezuela"
+   "venezuela",
+   "caracas"
   ],
   "locations": [
    {
@@ -192,7 +192,7 @@
    "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
   ],
   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
-  "score": 15.759031,
+  "score": 15.761015,
   "shard": "01",
   "shelf_id": "Victor 69636",
   "site": [
@@ -201,10 +201,10 @@
   "source_modified": "2000-01-01T12:00:00Z",
   "subject": [
    "spanish (venezuela)",
-   "ethnic music",
-   "vocal",
    "victor",
-   "popular music"
+   "popular music",
+   "vocal",
+   "ethnic music"
   ],
   "subject_category": [
    "vocal"
@@ -307,8 +307,8 @@
     "spanish"
    ],
    "location": [
-    "caracas",
-    "venezuela"
+    "venezuela",
+    "caracas"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -327,21 +327,21 @@
     "Cancion"
    ],
    "partof": [
+    "johnson victrola museum, delaware",
     "national jukebox",
-    "recorded sound research center",
-    "johnson victrola museum, delaware"
+    "recorded sound research center"
    ],
-   "score": 60.130016,
+   "score": 60.13979,
    "shelf_id": "Victor 72692",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
     "spanish (venezuela)",
-    "ethnic music",
-    "vocal",
     "victor",
-    "popular music"
+    "popular music",
+    "vocal",
+    "ethnic music"
    ],
    "timestamp": "2026-10-05T14:02:38.959Z",
    "title": "El adiós",
@@ -391,8 +391,8 @@
     "spanish"
    ],
    "location": [
-    "caracas",
-    "venezuela"
+    "venezuela",
+    "caracas"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -411,21 +411,21 @@
     "Joropo cantado"
    ],
    "partof": [
+    "johnson victrola museum, delaware",
     "national jukebox",
-    "recorded sound research center",
-    "johnson victrola museum, delaware"
+    "recorded sound research center"
    ],
-   "score": 51.53071,
+   "score": 51.537582,
    "shelf_id": "Victor 69636",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
     "spanish (venezuela)",
-    "ethnic music",
-    "vocal",
     "victor",
-    "popular music"
+    "popular music",
+    "vocal",
+    "ethnic music"
    ],
    "timestamp": "2026-10-05T14:00:28.666Z",
    "title": "Flor de María",
@@ -445,8 +445,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "sarno, pepino",
-    "gutiérrez, pedro elias"
+    "gutiérrez, pedro elias",
+    "sarno, pepino"
    ],
    "date": "1917-02-01",
    "dates": [
@@ -474,8 +474,8 @@
     "spanish"
    ],
    "location": [
-    "caracas",
-    "venezuela"
+    "venezuela",
+    "caracas"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -494,21 +494,21 @@
     "Canto sagrado"
    ],
    "partof": [
+    "johnson victrola museum, delaware",
     "national jukebox",
-    "recorded sound research center",
-    "johnson victrola museum, delaware"
+    "recorded sound research center"
    ],
-   "score": 51.53071,
+   "score": 51.537582,
    "shelf_id": "Victor 72692",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
     "spanish (venezuela)",
-    "ethnic music",
-    "vocal",
     "victor",
-    "popular music"
+    "popular music",
+    "vocal",
+    "ethnic music"
    ],
    "timestamp": "2026-10-05T14:02:38.959Z",
    "title": "Cristus factus esta",
@@ -556,8 +556,8 @@
     "spanish"
    ],
    "location": [
-    "caracas",
-    "venezuela"
+    "venezuela",
+    "caracas"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -575,19 +575,19 @@
     "Cancion"
    ],
    "partof": [
-    "department of special collections, davidson library, university of california, santa barbara",
     "national jukebox",
+    "department of special collections, davidson library, university of california, santa barbara",
     "recorded sound research center"
    ],
-   "score": 50.34797,
+   "score": 50.355946,
    "shelf_id": "Victor 72682",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "ethnic music",
     "vocal",
     "spanish (venezuela)",
+    "ethnic music",
     "victor"
    ],
    "timestamp": "2026-10-05T14:02:38.959Z",
@@ -608,8 +608,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "gutiérrez, pedro elias",
-    "orquesta caraqueña"
+    "orquesta caraqueña",
+    "gutiérrez, pedro elias"
    ],
    "date": "1917-01-31",
    "dates": [
@@ -634,8 +634,8 @@
    ],
    "index": 5,
    "location": [
-    "caracas",
-    "venezuela"
+    "venezuela",
+    "caracas"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -654,21 +654,21 @@
     "Aire guanareno"
    ],
    "partof": [
+    "johnson victrola museum, delaware",
     "national jukebox",
-    "recorded sound research center",
-    "johnson victrola museum, delaware"
+    "recorded sound research center"
    ],
-   "score": 47.12169,
+   "score": 47.127804,
    "shelf_id": "Victor 72687",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
     "spanish (venezuela)",
-    "ethnic music",
-    "instrumental",
     "victor",
-    "popular music"
+    "popular music",
+    "ethnic music",
+    "instrumental"
    ],
    "timestamp": "2026-10-05T14:03:44.203Z",
    "title": "Caricari",
@@ -688,8 +688,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "gutiérrez, pedro elias",
-    "orquesta caraqueña"
+    "orquesta caraqueña",
+    "gutiérrez, pedro elias"
    ],
    "date": "1917-01-31",
    "dates": [
@@ -714,8 +714,8 @@
    ],
    "index": 6,
    "location": [
-    "caracas",
-    "venezuela"
+    "venezuela",
+    "caracas"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -734,21 +734,21 @@
     "Vals"
    ],
    "partof": [
+    "johnson victrola museum, delaware",
     "national jukebox",
-    "recorded sound research center",
-    "johnson victrola museum, delaware"
+    "recorded sound research center"
    ],
-   "score": 47.12169,
+   "score": 47.127804,
    "shelf_id": "Victor 72687",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
     "spanish (venezuela)",
-    "ethnic music",
-    "instrumental",
     "victor",
-    "popular music"
+    "popular music",
+    "ethnic music",
+    "instrumental"
    ],
    "timestamp": "2026-10-05T14:04:02.655Z",
    "title": "Emilia",
@@ -814,7 +814,7 @@
   "display_level": null,
   "distance": null,
   "downloadOption": null,
-  "duration": 1.2973203659057617,
+  "duration": 0.7375802993774414,
   "embed": [],
   "embed!": [],
   "error_response_status": null,
@@ -973,7 +973,7 @@
   "suggested": null,
   "target": null,
   "template": "layouts/item/layout",
-  "timestamp": 1791375171.6475484,
+  "timestamp": 1791463521.315791,
   "tz_aware": null,
   "unionFacets": "",
   "webcast_permalink": null
@@ -990,10 +990,10 @@
    ],
    "campaigns": [],
    "contributor": [
-    "united states. congress. house",
-    "united states congress. house. committee on foreign affairs",
+    "united states. government publishing office",
     "everett, edward",
-    "united states. government publishing office"
+    "united states. congress. house",
+    "united states congress. house. committee on foreign affairs"
    ],
    "date": "1828",
    "dates": [
@@ -1018,10 +1018,10 @@
     "english"
    ],
    "location": [
+    "venezuela",
     "buenos aires",
-    "argentina",
     "caracas",
-    "venezuela"
+    "argentina"
    ],
    "mime_type": [
     "text/plain",
@@ -1030,9 +1030,9 @@
     "image/jp2"
    ],
    "number": [
-    "online resource",
     "2026-02-18t14:27:21.500000",
-    "2024791287"
+    "2024791287",
+    "online resource"
    ],
    "online_format": [
     "online text",
@@ -1046,31 +1046,31 @@
     "Cited as: H. Rept. 20-182"
    ],
    "partof": [
-    "law library of congress",
     "united states congressional serial set (bound house and senate documents and reports)",
-    "20th congress, 1st session",
     "united states congressional serial set: serial no. 178",
-    "catalog"
+    "catalog",
+    "20th congress, 1st session",
+    "law library of congress"
    ],
-   "score": 11.227575,
+   "score": 11.227815,
    "shelf_id": "KF12",
    "site": [
     "catalog"
    ],
    "subject": [
-    "expense accounts",
-    "financial statements",
-    "ambassadors",
+    "legislative materials",
     "wages",
-    "diplomats",
     "poinsett, joel roberts",
-    "legislative report - private bills",
-    "scott, alexander",
-    "buenos aires, argentina",
     "claims",
-    "caracas, venezuela",
+    "scott, alexander",
+    "diplomats",
     "government publication",
-    "legislative materials"
+    "financial statements",
+    "buenos aires, argentina",
+    "legislative report - private bills",
+    "ambassadors",
+    "caracas, venezuela",
+    "expense accounts"
    ],
    "timestamp": "2026-03-01T18:34:59.739Z",
    "title": "Alexander Scott. March 7, 1828. Read, and laid upon the table",
@@ -1090,10 +1090,10 @@
    ],
    "campaigns": [],
    "contributor": [
-    "chipman, j. l. (john logan)",
+    "united states. government publishing office",
     "united states. congress. house",
-    "united states congress. house. committee on foreign affairs",
-    "united states. government publishing office"
+    "chipman, j. l. (john logan)",
+    "united states congress. house. committee on foreign affairs"
    ],
    "date": "1893",
    "dates": [
@@ -1122,8 +1122,8 @@
     "english"
    ],
    "location": [
-    "caracas",
-    "venezuela"
+    "venezuela",
+    "caracas"
    ],
    "mime_type": [
     "application/pdf",
@@ -1132,9 +1132,9 @@
     "image/jp2"
    ],
    "number": [
-    "online resource",
     "2024770931",
-    "2026-07-16t23:18:12.800000"
+    "2026-07-16t23:18:12.800000",
+    "online resource"
    ],
    "online_format": [
     "pdf",
@@ -1148,28 +1148,28 @@
     "Cited as: H. Rept. 52-2341"
    ],
    "partof": [
-    "law library of congress",
-    "52th congress, 2nd session",
-    "united states congressional serial set (bound house and senate documents and reports)",
     "united states congressional serial set: serial no. 3141",
-    "catalog"
+    "united states congressional serial set (bound house and senate documents and reports)",
+    "catalog",
+    "law library of congress",
+    "52th congress, 2nd session"
    ],
-   "score": 11.227575,
+   "score": 11.227815,
    "shelf_id": "KF12",
    "site": [
     "catalog"
    ],
    "subject": [
     "legislative report - public bills",
-    "treaties",
-    "payment",
+    "venezuela",
+    "legislative materials",
     "mixed commission of the united states of america and the republic of venezuela",
     "claims",
-    "caracas, venezuela",
-    "venezuela",
-    "government publication",
     "government liability (international law)",
-    "legislative materials"
+    "government publication",
+    "payment",
+    "treaties",
+    "caracas, venezuela"
    ],
    "timestamp": "2026-07-20T18:36:44.525Z",
    "title": "Caracas awards of 1868. January 24, 1893. -- Committed to the Committee of the Whole House on the State of the Union and ordered to be printed",
@@ -1220,9 +1220,9 @@
     "english"
    ],
    "location": [
-    "colombia",
+    "venezuela",
     "caracas",
-    "venezuela"
+    "colombia"
    ],
    "mime_type": [
     "text/xml",
@@ -1233,8 +1233,8 @@
     "application/pdf"
    ],
    "number": [
-    "2019-01-23t10:10:01",
-    "01024061"
+    "01024061",
+    "2019-01-23t10:10:01"
    ],
    "online_format": [
     "online text",
@@ -1245,20 +1245,20 @@
     "book"
    ],
    "partof": [
-    "general collections",
     "selected digitized books",
+    "general collections",
     "catalog"
    ],
-   "score": 9.940828,
+   "score": 9.943941,
    "shelf_id": "https://repo.loc.gov/access/public/gdcmassbookdig/visittocolombiai01duan/.resource.json",
    "site": [
     "catalog"
    ],
    "subject": [
-    "colombia",
-    "description and travel",
     "caracas (venezuela)",
-    "venezuela"
+    "venezuela",
+    "description and travel",
+    "colombia"
    ],
    "timestamp": "2025-08-29T11:54:18.387Z",
    "title": "A visit to Colombia, in the years, 1822 & 1823,",
@@ -1312,9 +1312,9 @@
     "english"
    ],
    "location": [
-    "victor",
+    "iowa",
     "united states",
-    "iowa"
+    "victor"
    ],
    "mime_type": [
     "image/gif",
@@ -1322,9 +1322,9 @@
     "image/tif"
    ],
    "number": [
-    "2013645043",
     "2013-04-03t08:58:59",
-    "http://www.loc.gov/item/17665053"
+    "http://www.loc.gov/item/17665053",
+    "2013645043"
    ],
    "online_format": [
     "image"
@@ -1334,27 +1334,27 @@
    ],
    "partof": [
     "prints & photographs online catalog (library of congress)",
-    "prints and photographs division",
     "miscellaneous items in high demand",
+    "prints and photographs division",
     "lot 14058",
     "catalog"
    ],
-   "score": 9.757024,
+   "score": 9.75644,
    "shelf_id": "LOT 14058, no. 123 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "schools",
+    "victor",
+    "photographic postcards",
     "school children",
     "victor (iowa)",
-    "iowa",
-    "photographic postcards",
-    "victor",
-    "group portraits",
-    "panoramic postcards",
     "photographic prints",
+    "group portraits",
+    "schools",
+    "panoramic postcards",
+    "iowa",
     "united states"
    ],
    "timestamp": "2022-05-02T06:13:36.448Z",
@@ -1406,9 +1406,9 @@
     "english"
    ],
    "location": [
-    "victor",
+    "colorado",
     "united states",
-    "colorado"
+    "victor"
    ],
    "mime_type": [
     "image/gif",
@@ -1416,10 +1416,10 @@
     "image/tif"
    ],
    "number": [
+    "2016808865",
     "http://www.loc.gov/item/2016808865",
     "http://www.loc.gov/item/det1994014825/pp",
     "2017-10-30t13:04:57",
-    "2016808865",
     "http://www.loc.gov/item/20110612"
    ],
    "online_format": [
@@ -1429,13 +1429,13 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "american memory",
     "prints & photographs online catalog (library of congress)",
     "prints and photographs division",
     "detroit publishing company",
-    "catalog"
+    "catalog",
+    "american memory"
    ],
-   "score": 9.757024,
+   "score": 9.75644,
    "shelf_id": "LC-D4-13841 [P&P]",
    "site": [
     "pictures",
@@ -1443,11 +1443,11 @@
    ],
    "subject": [
     "colorado",
+    "dry plate negatives",
+    "gold mining",
     "victor",
     "cityscape photographs",
-    "united states",
-    "gold mining",
-    "dry plate negatives"
+    "united states"
    ],
    "timestamp": "2022-04-25T08:19:00.040Z",
    "title": "Victor, Colo., and the Gold Coin Mine",
@@ -1496,9 +1496,9 @@
     "english"
    ],
    "location": [
-    "victor",
     "united states",
-    "montana"
+    "montana",
+    "victor"
    ],
    "mime_type": [
     "image/gif",
@@ -1508,8 +1508,8 @@
    "number": [
     "http://www.loc.gov/item/23570952",
     "2024-02-21t08:57:11",
-    "sheet",
-    "2024689882"
+    "2024689882",
+    "sheet"
    ],
    "online_format": [
     "image"
@@ -1521,18 +1521,18 @@
     "prints and photographs division",
     "catalog"
    ],
-   "score": 9.757024,
+   "score": 9.75644,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 1 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "postcards",
-    "streets",
     "photographs",
-    "montana",
     "victor",
+    "streets",
+    "montana",
+    "postcards",
     "united states"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
@@ -1626,5 +1626,5 @@
    "url": "https://www.loc.gov/resource/jukebox-191651.1"
   }
  ],
- "timestamp": 1791375172945
+ "timestamp": 1791463522053
 }

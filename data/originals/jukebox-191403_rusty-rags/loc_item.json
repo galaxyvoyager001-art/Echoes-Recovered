@@ -117,9 +117,9 @@
    }
   ],
   "location": [
-   "new jersey",
    "camden",
-   "united states"
+   "united states",
+   "new jersey"
   ],
   "locations": [
    {
@@ -192,7 +192,7 @@
    "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
   ],
   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
-  "score": 15.332874,
+  "score": 15.335243,
   "shard": "01",
   "shelf_id": "Victor 3367",
   "site": [
@@ -200,9 +200,9 @@
   ],
   "source_modified": "2000-01-01T12:00:00Z",
   "subject": [
+   "victor",
    "ragtime, jazz, and more",
-   "instrumental",
-   "victor"
+   "instrumental"
   ],
   "subject_category": [
    "instrumental"
@@ -261,8 +261,8 @@
    "campaigns": [],
    "contributor": [
     "smith, edgar",
-    "ossman, vess l.",
-    "stromberg, john"
+    "stromberg, john",
+    "ossman, vess l."
    ],
    "date": "1901-05-16",
    "dates": [
@@ -290,9 +290,9 @@
     "english"
    ],
    "location": [
-    "new jersey",
     "camden",
-    "united states"
+    "united states",
+    "new jersey"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -312,19 +312,19 @@
     "Fiddle-dee-dee"
    ],
    "partof": [
-    "recorded sound research center",
     "giovannoni/lynch collection (private collection)",
-    "national jukebox"
+    "national jukebox",
+    "recorded sound research center"
    ],
-   "score": 35.69397,
+   "score": 35.70342,
    "shelf_id": "Victor 3365",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "popular music",
     "victor",
-    "instrumental"
+    "instrumental",
+    "popular music"
    ],
    "timestamp": "2026-10-05T14:02:19.568Z",
    "title": "Ma blushing Rosie",
@@ -374,9 +374,9 @@
     "english"
    ],
    "location": [
-    "new jersey",
     "camden",
-    "united states"
+    "united states",
+    "new jersey"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -395,19 +395,19 @@
     "An Arabian intermezzo"
    ],
    "partof": [
-    "recorded sound research center",
     "giovannoni/lynch collection (private collection)",
-    "national jukebox"
+    "national jukebox",
+    "recorded sound research center"
    ],
-   "score": 35.69397,
+   "score": 35.70342,
    "shelf_id": "Victor 3368",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "popular music",
     "victor",
-    "instrumental"
+    "instrumental",
+    "popular music"
    ],
    "timestamp": "2026-10-05T14:02:19.568Z",
    "title": "Zamona",
@@ -428,8 +428,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "ossman, vess l.",
-    "holzmann, abe"
+    "holzmann, abe",
+    "ossman, vess l."
    ],
    "date": "1901-05-16",
    "dates": [
@@ -457,9 +457,9 @@
     "english"
    ],
    "location": [
-    "new jersey",
     "camden",
-    "united states"
+    "united states",
+    "new jersey"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -475,19 +475,19 @@
     "sound recording"
    ],
    "partof": [
-    "recorded sound research center",
     "giovannoni/lynch collection (private collection)",
-    "national jukebox"
+    "national jukebox",
+    "recorded sound research center"
    ],
-   "score": 35.69397,
+   "score": 35.70342,
    "shelf_id": "Victor 3363",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "popular music",
     "victor",
-    "instrumental"
+    "instrumental",
+    "popular music"
    ],
    "timestamp": "2026-10-05T14:23:23.818Z",
    "title": "Hunky dory",
@@ -536,9 +536,9 @@
     "english"
    ],
    "location": [
-    "new jersey",
     "camden",
-    "united states"
+    "united states",
+    "new jersey"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -557,19 +557,19 @@
     "A song and dance"
    ],
    "partof": [
-    "recorded sound research center",
     "giovannoni/lynch collection (private collection)",
-    "national jukebox"
+    "national jukebox",
+    "recorded sound research center"
    ],
-   "score": 35.69397,
+   "score": 35.70342,
    "shelf_id": "Victor 3369",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "popular music",
     "victor",
-    "instrumental"
+    "instrumental",
+    "popular music"
    ],
    "timestamp": "2026-10-05T14:23:23.818Z",
    "title": "Song and dance, pretty queen",
@@ -590,8 +590,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "ossman, vess l.",
-    "lacalle, joseph m."
+    "lacalle, joseph m.",
+    "ossman, vess l."
    ],
    "date": "1901-05-16",
    "dates": [
@@ -619,9 +619,9 @@
     "english"
    ],
    "location": [
-    "new jersey",
     "camden",
-    "united states"
+    "united states",
+    "new jersey"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -637,19 +637,19 @@
     "sound recording"
    ],
    "partof": [
-    "recorded sound research center",
     "giovannoni/lynch collection (private collection)",
-    "national jukebox"
+    "national jukebox",
+    "recorded sound research center"
    ],
-   "score": 35.69397,
+   "score": 35.70342,
    "shelf_id": "Victor 3370",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "popular music",
     "victor",
-    "instrumental"
+    "instrumental",
+    "popular music"
    ],
    "timestamp": "2026-10-05T14:23:23.818Z",
    "title": "Peace forever march",
@@ -670,8 +670,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "ossman, vess l.",
-    "foster, stephen collins"
+    "foster, stephen collins",
+    "ossman, vess l."
    ],
    "date": "1901-05-16",
    "dates": [
@@ -699,9 +699,9 @@
     "english"
    ],
    "location": [
-    "new jersey",
     "camden",
-    "united states"
+    "united states",
+    "new jersey"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -717,11 +717,11 @@
     "sound recording"
    ],
    "partof": [
-    "recorded sound research center",
     "giovannoni/lynch collection (private collection)",
-    "national jukebox"
+    "national jukebox",
+    "recorded sound research center"
    ],
-   "score": 35.69397,
+   "score": 35.70342,
    "shelf_id": "Victor 3371",
    "site": [
     "nationaljukebox"
@@ -792,7 +792,7 @@
   "display_level": null,
   "distance": null,
   "downloadOption": null,
-  "duration": 0.8051834106445312,
+  "duration": 2.658156633377075,
   "embed": [],
   "embed!": [],
   "error_response_status": null,
@@ -951,7 +951,7 @@
   "suggested": null,
   "target": null,
   "template": "layouts/item/layout",
-  "timestamp": 1791372864.0626123,
+  "timestamp": 1791462986.1126223,
   "tz_aware": null,
   "unionFacets": "",
   "webcast_permalink": null
@@ -1002,8 +1002,8 @@
     "english"
    ],
    "location": [
-    "iowa",
     "victor",
+    "iowa",
     "united states"
    ],
    "mime_type": [
@@ -1012,9 +1012,9 @@
     "image/tif"
    ],
    "number": [
-    "2013-04-03t08:58:59",
+    "2013645043",
     "http://www.loc.gov/item/17665053",
-    "2013645043"
+    "2013-04-03t08:58:59"
    ],
    "online_format": [
     "image"
@@ -1023,29 +1023,29 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "prints and photographs division",
+    "lot 14058",
     "miscellaneous items in high demand",
-    "catalog",
+    "prints and photographs division",
     "prints & photographs online catalog (library of congress)",
-    "lot 14058"
+    "catalog"
    ],
-   "score": 10.158625,
+   "score": 10.157352,
    "shelf_id": "LOT 14058, no. 123 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "victor (iowa)",
-    "iowa",
+    "victor",
     "panoramic postcards",
-    "photographic prints",
-    "united states",
     "photographic postcards",
-    "schools",
-    "school children",
+    "victor (iowa)",
     "group portraits",
-    "victor"
+    "iowa",
+    "schools",
+    "united states",
+    "school children",
+    "photographic prints"
    ],
    "timestamp": "2022-05-02T06:13:36.448Z",
    "title": "[Victor High School, Victor, Iowa]",
@@ -1096,9 +1096,9 @@
     "english"
    ],
    "location": [
+    "colorado",
     "victor",
-    "united states",
-    "colorado"
+    "united states"
    ],
    "mime_type": [
     "image/gif",
@@ -1107,9 +1107,9 @@
    ],
    "number": [
     "http://www.loc.gov/item/20110612",
-    "http://www.loc.gov/item/2016808865",
     "http://www.loc.gov/item/det1994014825/pp",
     "2017-10-30t13:04:57",
+    "http://www.loc.gov/item/2016808865",
     "2016808865"
    ],
    "online_format": [
@@ -1120,12 +1120,12 @@
    ],
    "partof": [
     "prints and photographs division",
+    "prints & photographs online catalog (library of congress)",
     "american memory",
     "catalog",
-    "prints & photographs online catalog (library of congress)",
     "detroit publishing company"
    ],
-   "score": 10.158625,
+   "score": 10.157352,
    "shelf_id": "LC-D4-13841 [P&P]",
    "site": [
     "pictures",
@@ -1186,8 +1186,8 @@
     "english"
    ],
    "location": [
-    "montana",
     "victor",
+    "montana",
     "united states"
    ],
    "mime_type": [
@@ -1196,9 +1196,9 @@
     "image/tif"
    ],
    "number": [
+    "sheet",
     "2024689882",
     "http://www.loc.gov/item/23570952",
-    "sheet",
     "2024-02-21t08:57:11"
    ],
    "online_format": [
@@ -1211,19 +1211,19 @@
     "catalog",
     "prints and photographs division"
    ],
-   "score": 10.158625,
+   "score": 10.157352,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 1 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "streets",
-    "united states",
-    "montana",
+    "victor",
     "photographs",
-    "postcards",
-    "victor"
+    "streets",
+    "montana",
+    "united states",
+    "postcards"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "Main Street, Victor, Montana",
@@ -1275,8 +1275,8 @@
     "english"
    ],
    "location": [
-    "montana",
     "victor",
+    "montana",
     "united states"
    ],
    "mime_type": [
@@ -1285,10 +1285,10 @@
     "image/tif"
    ],
    "number": [
-    "2024-02-21t08:57:12",
-    "2024689883",
     "sheet",
-    "http://www.loc.gov/item/23570953"
+    "http://www.loc.gov/item/23570953",
+    "2024-02-21t08:57:12",
+    "2024689883"
    ],
    "online_format": [
     "image"
@@ -1300,18 +1300,18 @@
     "catalog",
     "prints and photographs division"
    ],
-   "score": 10.158625,
+   "score": 10.157352,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 2 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "united states",
-    "montana",
+    "victor",
     "photographs",
-    "postcards",
-    "victor"
+    "montana",
+    "united states",
+    "postcards"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "The snow-capped peak of St. Mory's, Victor, Montana",
@@ -1363,8 +1363,8 @@
     "english"
    ],
    "location": [
-    "montana",
     "victor",
+    "montana",
     "united states"
    ],
    "mime_type": [
@@ -1373,10 +1373,10 @@
     "image/tif"
    ],
    "number": [
+    "sheet",
     "2024689884",
     "2024-02-21t08:57:12",
-    "http://www.loc.gov/item/23570954",
-    "sheet"
+    "http://www.loc.gov/item/23570954"
    ],
    "online_format": [
     "image"
@@ -1388,19 +1388,19 @@
     "catalog",
     "prints and photographs division"
    ],
-   "score": 10.158625,
+   "score": 10.157352,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 3 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "united states",
+    "victor",
+    "photographs",
     "houses",
     "montana",
-    "photographs",
-    "postcards",
-    "victor"
+    "united states",
+    "postcards"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "A Bitter Root home, Victor, Montana",
@@ -1452,8 +1452,8 @@
     "english"
    ],
    "location": [
-    "montana",
     "victor",
+    "montana",
     "united states"
    ],
    "mime_type": [
@@ -1462,10 +1462,10 @@
     "image/tif"
    ],
    "number": [
-    "http://www.loc.gov/item/23570955",
     "sheet",
-    "2024-02-21t08:57:13",
-    "2024689885"
+    "2024689885",
+    "http://www.loc.gov/item/23570955",
+    "2024-02-21t08:57:13"
    ],
    "online_format": [
     "image"
@@ -1477,19 +1477,19 @@
     "catalog",
     "prints and photographs division"
    ],
-   "score": 10.158625,
+   "score": 10.157352,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 4 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "united states",
-    "montana",
-    "schools",
+    "victor",
     "photographs",
-    "postcards",
-    "victor"
+    "montana",
+    "united states",
+    "schools",
+    "postcards"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "School house, Victor, Mont.",
@@ -1582,5 +1582,5 @@
    "url": "https://www.loc.gov/resource/jukebox-191403.1"
   }
  ],
- "timestamp": 1791372864868
+ "timestamp": 1791462988771
 }

@@ -1,7 +1,7 @@
 {
  "articles_and_essays": [
   {
-   "score": 6.8721485,
+   "score": 6.876397,
    "title": "The Painful Birth of Blues and Jazz",
    "url": "https://blogs.loc.gov/folklife/2017/02/birth-of-blues-and-jazz/"
   }
@@ -149,8 +149,8 @@
    "summary": "Jazz/dance band"
   },
   "location": [
-   "united states",
-   "new york"
+   "new york",
+   "united states"
   ],
   "locations": [
    {
@@ -220,7 +220,7 @@
    "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
   ],
   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
-  "score": 15.332874,
+  "score": 15.335276,
   "shard": "01",
   "shelf_id": "Victor 18255",
   "site": [
@@ -228,10 +228,10 @@
   ],
   "source_modified": "2000-01-01T12:00:00Z",
   "subject": [
-   "instrumental",
    "victor",
    "ragtime, jazz, and more",
-   "blues"
+   "blues",
+   "instrumental"
   ],
   "subject_category": [
    "instrumental"
@@ -296,12 +296,12 @@
    ],
    "campaigns": [],
    "contributor": [
-    "original dixieland jazz band",
     "edwards, eddie",
     "shields, larry",
+    "original dixieland jazz band",
+    "larocca, nick",
     "ragas, henry",
-    "sbarbaro, tony",
-    "larocca, nick"
+    "sbarbaro, tony"
    ],
    "date": "1918-06-25",
    "dates": [
@@ -326,8 +326,8 @@
    ],
    "index": 1,
    "location": [
-    "united states",
-    "new york"
+    "new york",
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -347,19 +347,19 @@
    ],
    "partof": [
     "national jukebox",
-    "recorded sound section, library of congress",
-    "recorded sound research center"
+    "recorded sound research center",
+    "recorded sound section, library of congress"
    ],
-   "score": 81.90564,
+   "score": 81.929405,
    "shelf_id": "Victor 18483",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "instrumental",
     "victor",
     "ragtime, jazz, and more",
-    "blues"
+    "blues",
+    "instrumental"
    ],
    "timestamp": "2026-10-05T13:59:34.005Z",
    "title": "Bluin' the blues",
@@ -380,12 +380,12 @@
    ],
    "campaigns": [],
    "contributor": [
-    "original dixieland jazz band",
     "edwards, eddie",
     "shields, larry",
+    "original dixieland jazz band",
+    "larocca, nick",
     "ragas, henry",
-    "sbarbaro, tony",
-    "larocca, nick"
+    "sbarbaro, tony"
    ],
    "date": "1918-07-17",
    "dates": [
@@ -410,8 +410,8 @@
    ],
    "index": 2,
    "location": [
-    "united states",
-    "new york"
+    "new york",
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -431,19 +431,19 @@
    ],
    "partof": [
     "national jukebox",
-    "recorded sound section, library of congress",
-    "recorded sound research center"
+    "recorded sound research center",
+    "recorded sound section, library of congress"
    ],
-   "score": 81.90564,
+   "score": 81.929405,
    "shelf_id": "Victor 18513",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "instrumental",
     "victor",
     "ragtime, jazz, and more",
-    "blues"
+    "blues",
+    "instrumental"
    ],
    "timestamp": "2026-10-05T13:59:34.005Z",
    "title": "Mournin' blues",
@@ -464,12 +464,12 @@
    ],
    "campaigns": [],
    "contributor": [
-    "original dixieland jazz band",
     "edwards, eddie",
     "shields, larry",
+    "original dixieland jazz band",
+    "larocca, nick",
     "ragas, henry",
-    "sbarbaro, tony",
-    "larocca, nick"
+    "sbarbaro, tony"
    ],
    "date": "1918-07-17",
    "dates": [
@@ -494,8 +494,8 @@
    ],
    "index": 3,
    "location": [
-    "united states",
-    "new york"
+    "new york",
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -515,19 +515,19 @@
    ],
    "partof": [
     "national jukebox",
-    "recorded sound section, library of congress",
-    "recorded sound research center"
+    "recorded sound research center",
+    "recorded sound section, library of congress"
    ],
-   "score": 81.90564,
+   "score": 81.929405,
    "shelf_id": "Victor 18513",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "instrumental",
     "victor",
     "ragtime, jazz, and more",
-    "blues"
+    "blues",
+    "instrumental"
    ],
    "timestamp": "2026-10-05T14:11:49.826Z",
    "title": "Clarinet marmalade blues",
@@ -548,12 +548,12 @@
    ],
    "campaigns": [],
    "contributor": [
-    "original dixieland jazz band",
     "edwards, eddie",
     "shields, larry",
+    "original dixieland jazz band",
+    "larocca, nick",
     "ragas, henry",
-    "sbarbaro, tony",
-    "larocca, nick"
+    "sbarbaro, tony"
    ],
    "date": "1917-02-26",
    "dates": [
@@ -578,8 +578,8 @@
    ],
    "index": 4,
    "location": [
-    "united states",
-    "new york"
+    "new york",
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -599,18 +599,18 @@
    ],
    "partof": [
     "national jukebox",
-    "recorded sound section, library of congress",
-    "recorded sound research center"
+    "recorded sound research center",
+    "recorded sound section, library of congress"
    ],
-   "score": 74.3979,
+   "score": 74.42096,
    "shelf_id": "Victor 18255",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "instrumental",
     "victor",
-    "ragtime, jazz, and more"
+    "ragtime, jazz, and more",
+    "instrumental"
    ],
    "timestamp": "2026-10-05T14:00:03.665Z",
    "title": "Dixieland jass band one-step",
@@ -631,12 +631,12 @@
    ],
    "campaigns": [],
    "contributor": [
-    "original dixieland jazz band",
     "edwards, eddie",
     "shields, larry",
+    "original dixieland jazz band",
+    "larocca, nick",
     "ragas, henry",
-    "sbarbaro, tony",
-    "larocca, nick"
+    "sbarbaro, tony"
    ],
    "date": "1918-06-25",
    "dates": [
@@ -661,8 +661,8 @@
    ],
    "index": 5,
    "location": [
-    "united states",
-    "new york"
+    "new york",
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -683,18 +683,18 @@
    ],
    "partof": [
     "national jukebox",
-    "recorded sound section, library of congress",
-    "recorded sound research center"
+    "recorded sound research center",
+    "recorded sound section, library of congress"
    ],
-   "score": 74.3979,
+   "score": 74.42096,
    "shelf_id": "Victor 18564",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "instrumental",
     "victor",
-    "ragtime, jazz, and more"
+    "ragtime, jazz, and more",
+    "instrumental"
    ],
    "timestamp": "2026-10-05T13:59:34.005Z",
    "title": "Fidgety feet",
@@ -715,12 +715,12 @@
    ],
    "campaigns": [],
    "contributor": [
-    "original dixieland jazz band",
     "edwards, eddie",
     "shields, larry",
+    "original dixieland jazz band",
+    "larocca, nick",
     "ragas, henry",
-    "sbarbaro, tony",
-    "larocca, nick"
+    "sbarbaro, tony"
    ],
    "date": "1918-06-25",
    "dates": [
@@ -745,8 +745,8 @@
    ],
    "index": 6,
    "location": [
-    "united states",
-    "new york"
+    "new york",
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -766,18 +766,18 @@
    ],
    "partof": [
     "national jukebox",
-    "recorded sound section, library of congress",
-    "recorded sound research center"
+    "recorded sound research center",
+    "recorded sound section, library of congress"
    ],
-   "score": 74.3979,
+   "score": 74.42096,
    "shelf_id": "Victor 18483",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "instrumental",
     "victor",
-    "ragtime, jazz, and more"
+    "ragtime, jazz, and more",
+    "instrumental"
    ],
    "timestamp": "2026-10-05T13:59:34.005Z",
    "title": "Sensation rag",
@@ -840,7 +840,7 @@
   "display_level": null,
   "distance": null,
   "downloadOption": null,
-  "duration": 0.48616647720336914,
+  "duration": 0.6577422618865967,
   "embed": [],
   "embed!": [],
   "error_response_status": null,
@@ -999,7 +999,7 @@
   "suggested": null,
   "target": null,
   "template": "layouts/item/layout",
-  "timestamp": 1791373005.9305472,
+  "timestamp": 1791463259.1844597,
   "tz_aware": null,
   "unionFacets": "",
   "webcast_permalink": null
@@ -1050,9 +1050,9 @@
     "english"
    ],
    "location": [
-    "united states",
     "victor",
-    "iowa"
+    "iowa",
+    "united states"
    ],
    "mime_type": [
     "image/gif",
@@ -1060,9 +1060,9 @@
     "image/tif"
    ],
    "number": [
-    "2013-04-03t08:58:59",
+    "2013645043",
     "http://www.loc.gov/item/17665053",
-    "2013645043"
+    "2013-04-03t08:58:59"
    ],
    "online_format": [
     "image"
@@ -1071,29 +1071,29 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "prints and photographs division",
     "lot 14058",
-    "catalog",
+    "miscellaneous items in high demand",
+    "prints and photographs division",
     "prints & photographs online catalog (library of congress)",
-    "miscellaneous items in high demand"
+    "catalog"
    ],
-   "score": 10.158625,
+   "score": 10.157352,
    "shelf_id": "LOT 14058, no. 123 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "united states",
     "victor",
-    "school children",
-    "photographic prints",
-    "victor (iowa)",
-    "schools",
-    "iowa",
-    "group portraits",
     "panoramic postcards",
-    "photographic postcards"
+    "photographic postcards",
+    "victor (iowa)",
+    "group portraits",
+    "iowa",
+    "schools",
+    "united states",
+    "school children",
+    "photographic prints"
    ],
    "timestamp": "2022-05-02T06:13:36.448Z",
    "title": "[Victor High School, Victor, Iowa]",
@@ -1111,8 +1111,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "detroit publishing co.",
-    "jackson, william henry"
+    "jackson, william henry",
+    "detroit publishing co."
    ],
    "date": "1900-01-01",
    "dates": [
@@ -1144,9 +1144,9 @@
     "english"
    ],
    "location": [
-    "united states",
+    "colorado",
     "victor",
-    "colorado"
+    "united states"
    ],
    "mime_type": [
     "image/gif",
@@ -1154,11 +1154,11 @@
     "image/tif"
    ],
    "number": [
-    "2016808865",
-    "http://www.loc.gov/item/det1994014825/pp",
-    "http://www.loc.gov/item/2016808865",
     "http://www.loc.gov/item/20110612",
-    "2017-10-30t13:04:57"
+    "http://www.loc.gov/item/det1994014825/pp",
+    "2017-10-30t13:04:57",
+    "http://www.loc.gov/item/2016808865",
+    "2016808865"
    ],
    "online_format": [
     "image"
@@ -1168,24 +1168,24 @@
    ],
    "partof": [
     "prints and photographs division",
-    "catalog",
-    "detroit publishing company",
     "prints & photographs online catalog (library of congress)",
-    "american memory"
+    "american memory",
+    "catalog",
+    "detroit publishing company"
    ],
-   "score": 10.158625,
+   "score": 10.157352,
    "shelf_id": "LC-D4-13841 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "united states",
     "victor",
-    "cityscape photographs",
-    "colorado",
     "gold mining",
-    "dry plate negatives"
+    "united states",
+    "colorado",
+    "dry plate negatives",
+    "cityscape photographs"
    ],
    "timestamp": "2022-04-25T08:19:00.040Z",
    "title": "Victor, Colo., and the Gold Coin Mine",
@@ -1234,9 +1234,9 @@
     "english"
    ],
    "location": [
+    "victor",
     "montana",
-    "united states",
-    "victor"
+    "united states"
    ],
    "mime_type": [
     "image/gif",
@@ -1256,22 +1256,22 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "prints and photographs division",
-    "catalog"
+    "catalog",
+    "prints and photographs division"
    ],
-   "score": 10.158625,
+   "score": 10.157352,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 1 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
+    "victor",
+    "photographs",
+    "streets",
     "montana",
     "united states",
-    "victor",
-    "postcards",
-    "photographs",
-    "streets"
+    "postcards"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "Main Street, Victor, Montana",
@@ -1323,9 +1323,9 @@
     "english"
    ],
    "location": [
+    "victor",
     "montana",
-    "united states",
-    "victor"
+    "united states"
    ],
    "mime_type": [
     "image/gif",
@@ -1334,9 +1334,9 @@
    ],
    "number": [
     "sheet",
-    "2024689883",
     "http://www.loc.gov/item/23570953",
-    "2024-02-21t08:57:12"
+    "2024-02-21t08:57:12",
+    "2024689883"
    ],
    "online_format": [
     "image"
@@ -1345,21 +1345,21 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "prints and photographs division",
-    "catalog"
+    "catalog",
+    "prints and photographs division"
    ],
-   "score": 10.158625,
+   "score": 10.157352,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 2 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
+    "victor",
+    "photographs",
     "montana",
     "united states",
-    "victor",
-    "postcards",
-    "photographs"
+    "postcards"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "The snow-capped peak of St. Mory's, Victor, Montana",
@@ -1411,9 +1411,9 @@
     "english"
    ],
    "location": [
+    "victor",
     "montana",
-    "united states",
-    "victor"
+    "united states"
    ],
    "mime_type": [
     "image/gif",
@@ -1422,9 +1422,9 @@
    ],
    "number": [
     "sheet",
-    "http://www.loc.gov/item/23570954",
+    "2024689884",
     "2024-02-21t08:57:12",
-    "2024689884"
+    "http://www.loc.gov/item/23570954"
    ],
    "online_format": [
     "image"
@@ -1433,22 +1433,22 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "prints and photographs division",
-    "catalog"
+    "catalog",
+    "prints and photographs division"
    ],
-   "score": 10.158625,
+   "score": 10.157352,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 3 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
+    "victor",
+    "photographs",
+    "houses",
     "montana",
     "united states",
-    "victor",
-    "postcards",
-    "photographs",
-    "houses"
+    "postcards"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "A Bitter Root home, Victor, Montana",
@@ -1500,9 +1500,9 @@
     "english"
    ],
    "location": [
+    "victor",
     "montana",
-    "united states",
-    "victor"
+    "united states"
    ],
    "mime_type": [
     "image/gif",
@@ -1511,9 +1511,9 @@
    ],
    "number": [
     "sheet",
+    "2024689885",
     "http://www.loc.gov/item/23570955",
-    "2024-02-21t08:57:13",
-    "2024689885"
+    "2024-02-21t08:57:13"
    ],
    "online_format": [
     "image"
@@ -1522,22 +1522,22 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "prints and photographs division",
-    "catalog"
+    "catalog",
+    "prints and photographs division"
    ],
-   "score": 10.158625,
+   "score": 10.157352,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 4 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
+    "victor",
+    "photographs",
     "montana",
     "united states",
-    "victor",
-    "postcards",
-    "photographs",
-    "schools"
+    "schools",
+    "postcards"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "School house, Victor, Mont.",
@@ -1630,5 +1630,5 @@
    "url": "https://www.loc.gov/resource/jukebox-186254.1"
   }
  ],
- "timestamp": 1791373006417
+ "timestamp": 1791463259842
 }

@@ -203,7 +203,7 @@
    "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
   ],
   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
-  "score": 15.455263,
+  "score": 15.457544,
   "shard": "01",
   "shelf_id": "Victor 87004",
   "site": [
@@ -271,8 +271,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "puccini, giacomo",
-    "farrar, geraldine"
+    "farrar, geraldine",
+    "puccini, giacomo"
    ],
    "date": "1913-02-27",
    "dates": [
@@ -323,10 +323,10 @@
    ],
    "partof": [
     "recorded sound research center",
-    "recorded sound section, library of congress",
-    "national jukebox"
+    "national jukebox",
+    "recorded sound section, library of congress"
    ],
-   "score": 41.43035,
+   "score": 41.442566,
    "shelf_id": "Victor 88192",
    "site": [
     "nationaljukebox"
@@ -355,9 +355,9 @@
    ],
    "campaigns": [],
    "contributor": [
-    "puccini, giacomo",
     "homer, louise",
-    "farrar, geraldine"
+    "farrar, geraldine",
+    "puccini, giacomo"
    ],
    "date": "1907-02-27",
    "dates": [
@@ -407,10 +407,10 @@
    ],
    "partof": [
     "recorded sound research center",
-    "recorded sound section, library of congress",
-    "national jukebox"
+    "national jukebox",
+    "recorded sound section, library of congress"
    ],
-   "score": 41.43035,
+   "score": 41.442566,
    "shelf_id": "Victor 89008",
    "site": [
     "nationaljukebox"
@@ -439,9 +439,9 @@
    ],
    "campaigns": [],
    "contributor": [
-    "puccini, giacomo",
+    "scotti, antonio",
     "farrar, geraldine",
-    "scotti, antonio"
+    "puccini, giacomo"
    ],
    "date": "1908-02-03",
    "dates": [
@@ -491,10 +491,10 @@
    ],
    "partof": [
     "recorded sound research center",
-    "recorded sound section, library of congress",
-    "national jukebox"
+    "national jukebox",
+    "recorded sound section, library of congress"
    ],
-   "score": 41.43035,
+   "score": 41.442566,
    "shelf_id": "Victor 89014",
    "site": [
     "nationaljukebox"
@@ -521,12 +521,12 @@
    ],
    "campaigns": [],
    "contributor": [
+    "farrar, geraldine",
     "rogers, walter b.",
     "viafora, gina",
-    "puccini, giacomo",
-    "farrar, geraldine",
+    "scotti, antonio",
     "caruso, enrico",
-    "scotti, antonio"
+    "puccini, giacomo"
    ],
    "date": "1908-03-10",
    "dates": [
@@ -568,10 +568,10 @@
    ],
    "partof": [
     "recorded sound research center",
-    "recorded sound section, library of congress",
-    "national jukebox"
+    "national jukebox",
+    "recorded sound section, library of congress"
    ],
-   "score": 41.43035,
+   "score": 41.442566,
    "shelf_id": "Victor 96002",
    "site": [
     "nationaljukebox"
@@ -598,8 +598,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "rogers, walter b.",
     "farrar, geraldine",
+    "rogers, walter b.",
     "puccini, giacomo",
     "caruso, enrico"
    ],
@@ -643,10 +643,10 @@
    ],
    "partof": [
     "recorded sound research center",
-    "recorded sound section, library of congress",
-    "national jukebox"
+    "national jukebox",
+    "recorded sound section, library of congress"
    ],
-   "score": 41.43035,
+   "score": 41.442566,
    "shelf_id": "Victor 8011",
    "site": [
     "nationaljukebox"
@@ -675,10 +675,10 @@
    ],
    "campaigns": [],
    "contributor": [
-    "puccini, giacomo",
-    "regis-rossini, a.",
     "farrar, geraldine",
-    "victor orchestra"
+    "victor orchestra",
+    "regis-rossini, a.",
+    "puccini, giacomo"
    ],
    "date": "1912-12-20",
    "dates": [
@@ -728,10 +728,10 @@
    ],
    "partof": [
     "recorded sound research center",
-    "recorded sound section, library of congress",
-    "national jukebox"
+    "national jukebox",
+    "recorded sound section, library of congress"
    ],
-   "score": 41.43035,
+   "score": 41.442566,
    "shelf_id": "Victor 6106",
    "site": [
     "nationaljukebox"
@@ -802,7 +802,7 @@
   "display_level": null,
   "distance": null,
   "downloadOption": null,
-  "duration": 0.7245874404907227,
+  "duration": 0.5029182434082031,
   "embed": [],
   "embed!": [],
   "error_response_status": null,
@@ -961,7 +961,7 @@
   "suggested": null,
   "target": null,
   "template": "layouts/item/layout",
-  "timestamp": 1791372887.6734736,
+  "timestamp": 1791463061.3112543,
   "tz_aware": null,
   "unionFacets": "",
   "webcast_permalink": null
@@ -1012,9 +1012,9 @@
     "english"
    ],
    "location": [
-    "iowa",
     "victor",
-    "united states"
+    "united states",
+    "iowa"
    ],
    "mime_type": [
     "image/gif",
@@ -1022,8 +1022,8 @@
     "image/tif"
    ],
    "number": [
-    "2013-04-03t08:58:59",
     "http://www.loc.gov/item/17665053",
+    "2013-04-03t08:58:59",
     "2013645043"
    ],
    "online_format": [
@@ -1033,29 +1033,29 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "prints and photographs division",
-    "miscellaneous items in high demand",
-    "catalog",
     "prints & photographs online catalog (library of congress)",
-    "lot 14058"
+    "miscellaneous items in high demand",
+    "lot 14058",
+    "prints and photographs division",
+    "catalog"
    ],
-   "score": 10.158625,
+   "score": 10.157352,
    "shelf_id": "LOT 14058, no. 123 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "victor (iowa)",
-    "iowa",
-    "panoramic postcards",
+    "victor",
     "photographic prints",
-    "united states",
-    "photographic postcards",
-    "schools",
     "school children",
+    "united states",
+    "panoramic postcards",
+    "photographic postcards",
+    "victor (iowa)",
     "group portraits",
-    "victor"
+    "iowa",
+    "schools"
    ],
    "timestamp": "2022-05-02T06:13:36.448Z",
    "title": "[Victor High School, Victor, Iowa]",
@@ -1073,8 +1073,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "jackson, william henry",
-    "detroit publishing co."
+    "detroit publishing co.",
+    "jackson, william henry"
    ],
    "date": "1900-01-01",
    "dates": [
@@ -1107,8 +1107,8 @@
    ],
    "location": [
     "victor",
-    "united states",
-    "colorado"
+    "colorado",
+    "united states"
    ],
    "mime_type": [
     "image/gif",
@@ -1116,10 +1116,10 @@
     "image/tif"
    ],
    "number": [
-    "http://www.loc.gov/item/20110612",
-    "http://www.loc.gov/item/2016808865",
     "http://www.loc.gov/item/det1994014825/pp",
+    "http://www.loc.gov/item/2016808865",
     "2017-10-30t13:04:57",
+    "http://www.loc.gov/item/20110612",
     "2016808865"
    ],
    "online_format": [
@@ -1129,13 +1129,13 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "prints and photographs division",
-    "american memory",
-    "catalog",
     "prints & photographs online catalog (library of congress)",
-    "detroit publishing company"
+    "american memory",
+    "detroit publishing company",
+    "prints and photographs division",
+    "catalog"
    ],
-   "score": 10.158625,
+   "score": 10.157352,
    "shelf_id": "LC-D4-13841 [P&P]",
    "site": [
     "pictures",
@@ -1143,10 +1143,10 @@
    ],
    "subject": [
     "victor",
+    "dry plate negatives",
     "gold mining",
     "united states",
     "colorado",
-    "dry plate negatives",
     "cityscape photographs"
    ],
    "timestamp": "2022-04-25T08:19:00.040Z",
@@ -1196,8 +1196,8 @@
     "english"
    ],
    "location": [
-    "montana",
     "victor",
+    "montana",
     "united states"
    ],
    "mime_type": [
@@ -1206,10 +1206,10 @@
     "image/tif"
    ],
    "number": [
+    "2024-02-21t08:57:11",
     "2024689882",
-    "http://www.loc.gov/item/23570952",
     "sheet",
-    "2024-02-21t08:57:11"
+    "http://www.loc.gov/item/23570952"
    ],
    "online_format": [
     "image"
@@ -1218,22 +1218,22 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "catalog",
-    "prints and photographs division"
+    "prints and photographs division",
+    "catalog"
    ],
-   "score": 10.158625,
+   "score": 10.157352,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 1 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
+    "victor",
     "streets",
-    "united states",
-    "montana",
-    "photographs",
     "postcards",
-    "victor"
+    "united states",
+    "photographs",
+    "montana"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "Main Street, Victor, Montana",
@@ -1285,8 +1285,8 @@
     "english"
    ],
    "location": [
-    "montana",
     "victor",
+    "montana",
     "united states"
    ],
    "mime_type": [
@@ -1295,10 +1295,10 @@
     "image/tif"
    ],
    "number": [
+    "http://www.loc.gov/item/23570953",
     "2024-02-21t08:57:12",
-    "2024689883",
     "sheet",
-    "http://www.loc.gov/item/23570953"
+    "2024689883"
    ],
    "online_format": [
     "image"
@@ -1307,21 +1307,21 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "catalog",
-    "prints and photographs division"
+    "prints and photographs division",
+    "catalog"
    ],
-   "score": 10.158625,
+   "score": 10.157352,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 2 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "united states",
-    "montana",
-    "photographs",
+    "victor",
     "postcards",
-    "victor"
+    "united states",
+    "photographs",
+    "montana"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "The snow-capped peak of St. Mory's, Victor, Montana",
@@ -1373,8 +1373,8 @@
     "english"
    ],
    "location": [
-    "montana",
     "victor",
+    "montana",
     "united states"
    ],
    "mime_type": [
@@ -1384,8 +1384,8 @@
    ],
    "number": [
     "2024689884",
-    "2024-02-21t08:57:12",
     "http://www.loc.gov/item/23570954",
+    "2024-02-21t08:57:12",
     "sheet"
    ],
    "online_format": [
@@ -1395,22 +1395,22 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "catalog",
-    "prints and photographs division"
+    "prints and photographs division",
+    "catalog"
    ],
-   "score": 10.158625,
+   "score": 10.157352,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 3 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "united states",
-    "houses",
-    "montana",
-    "photographs",
+    "victor",
     "postcards",
-    "victor"
+    "united states",
+    "photographs",
+    "montana",
+    "houses"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "A Bitter Root home, Victor, Montana",
@@ -1462,8 +1462,8 @@
     "english"
    ],
    "location": [
-    "montana",
     "victor",
+    "montana",
     "united states"
    ],
    "mime_type": [
@@ -1472,10 +1472,10 @@
     "image/tif"
    ],
    "number": [
-    "http://www.loc.gov/item/23570955",
-    "sheet",
+    "2024689885",
     "2024-02-21t08:57:13",
-    "2024689885"
+    "sheet",
+    "http://www.loc.gov/item/23570955"
    ],
    "online_format": [
     "image"
@@ -1484,22 +1484,22 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "catalog",
-    "prints and photographs division"
+    "prints and photographs division",
+    "catalog"
    ],
-   "score": 10.158625,
+   "score": 10.157352,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 4 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "united states",
-    "montana",
-    "schools",
-    "photographs",
+    "victor",
     "postcards",
-    "victor"
+    "united states",
+    "photographs",
+    "montana",
+    "schools"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "School house, Victor, Mont.",
@@ -1592,5 +1592,5 @@
    "url": "https://www.loc.gov/resource/jukebox-124469.1"
   }
  ],
- "timestamp": 1791372888398
+ "timestamp": 1791463061814
 }

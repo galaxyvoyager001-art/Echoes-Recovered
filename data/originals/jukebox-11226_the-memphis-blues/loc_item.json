@@ -1,7 +1,7 @@
 {
  "articles_and_essays": [
   {
-   "score": 6.809562,
+   "score": 6.813793,
    "title": "The Painful Birth of Blues and Jazz",
    "url": "https://blogs.loc.gov/folklife/2017/02/birth-of-blues-and-jazz/"
   }
@@ -221,7 +221,7 @@
    "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
   ],
   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
-  "score": 15.332874,
+  "score": 15.335243,
   "shard": "01",
   "shelf_id": "Victor 17657",
   "site": [
@@ -229,10 +229,10 @@
   ],
   "source_modified": "2000-01-01T12:00:00Z",
   "subject": [
-   "victor",
-   "ragtime, jazz, and more",
    "vocal",
-   "blues"
+   "blues",
+   "ragtime, jazz, and more",
+   "victor"
   ],
   "subject_category": [
    "vocal"
@@ -350,16 +350,16 @@
     "national jukebox",
     "recorded sound research center"
    ],
-   "score": 44.14651,
+   "score": 44.1563,
    "shelf_id": "Victor 18174",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "victor",
+    "blues",
     "ragtime, jazz, and more",
     "instrumental",
-    "blues"
+    "victor"
    ],
    "timestamp": "2026-10-05T14:03:24.569Z",
    "title": "'Joe Turner blues' medley",
@@ -380,9 +380,9 @@
    ],
    "campaigns": [],
    "contributor": [
-    "cupero, e. v.",
     "victor military band",
     "king, edward t.",
+    "cupero, e. v.",
     "handy, w. c."
    ],
    "date": "1914-07-15",
@@ -433,16 +433,16 @@
     "national jukebox",
     "recorded sound research center"
    ],
-   "score": 44.14651,
+   "score": 44.1563,
    "shelf_id": "Victor 17619",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "victor",
-    "ragtime, jazz, and more",
     "instrumental",
-    "blues"
+    "blues",
+    "ragtime, jazz, and more",
+    "victor"
    ],
    "timestamp": "2026-10-05T14:10:38.189Z",
    "title": "The Memphis blues",
@@ -516,16 +516,16 @@
     "national jukebox",
     "recorded sound research center"
    ],
-   "score": 41.195934,
+   "score": 41.20379,
    "shelf_id": "Victor 18443",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "victor",
-    "ragtime, jazz, and more",
+    "blues",
     "vocal",
-    "blues"
+    "ragtime, jazz, and more",
+    "victor"
    ],
    "timestamp": "2026-10-05T14:10:38.189Z",
    "title": "Everybody's crazy 'bout the doggone blues, but I'm happy",
@@ -546,11 +546,11 @@
    ],
    "campaigns": [],
    "contributor": [
-    "sterling, andrew b.",
     "smalle, ed",
-    "von tilzer, harry",
     "murray, billy",
-    "pasternack, josef"
+    "von tilzer, harry",
+    "pasternack, josef",
+    "sterling, andrew b."
    ],
    "date": "1919-06-19",
    "dates": [
@@ -600,17 +600,17 @@
     "national jukebox",
     "recorded sound research center"
    ],
-   "score": 41.195934,
+   "score": 41.20379,
    "shelf_id": "Victor 18593",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
     "ragtime, jazz, and more",
-    "humorous songs",
+    "victor",
     "vocal",
     "blues",
-    "victor"
+    "humorous songs"
    ],
    "timestamp": "2026-10-05T14:13:57.371Z",
    "title": "I ain't 'en got 'en no time to have the blues",
@@ -632,9 +632,9 @@
    "campaigns": [],
    "contributor": [
     "mccarron, chas. r.",
-    "swanstrom, arthur",
     "walker, esther",
     "morgan, carey",
+    "swanstrom, arthur",
     "pasternack, josef"
    ],
    "date": "1919-09-26",
@@ -685,16 +685,16 @@
     "national jukebox",
     "recorded sound research center"
    ],
-   "score": 41.195934,
+   "score": 41.20379,
    "shelf_id": "Victor 18619",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "victor",
-    "ragtime, jazz, and more",
+    "blues",
     "vocal",
-    "blues"
+    "ragtime, jazz, and more",
+    "victor"
    ],
    "timestamp": "2026-10-05T14:14:40.271Z",
    "title": "Blues (My naughty sweetie gives to me)",
@@ -716,8 +716,8 @@
    "campaigns": [],
    "contributor": [
     "raderman, harry",
-    "joseph c. smith's orchestra",
     "smith, joseph c.",
+    "joseph c. smith's orchestra",
     "handy, w. c."
    ],
    "date": "1919-10-01",
@@ -743,8 +743,8 @@
    ],
    "index": 6,
    "location": [
-    "united states",
-    "new york"
+    "new york",
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -768,17 +768,17 @@
     "national jukebox",
     "recorded sound research center"
    ],
-   "score": 37.888374,
+   "score": 37.89688,
    "shelf_id": "Victor 18618",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
     "ragtime, jazz, and more",
-    "humorous songs",
+    "victor",
     "instrumental",
     "blues",
-    "victor"
+    "humorous songs"
    ],
    "timestamp": "2026-10-05T14:15:01.733Z",
    "title": "Yellow Dog blues",
@@ -841,7 +841,7 @@
   "display_level": null,
   "distance": null,
   "downloadOption": null,
-  "duration": 1.6193132400512695,
+  "duration": 0.5652902126312256,
   "embed": [],
   "embed!": [],
   "error_response_status": null,
@@ -1000,7 +1000,7 @@
   "suggested": null,
   "target": null,
   "template": "layouts/item/layout",
-  "timestamp": 1791372994.8835382,
+  "timestamp": 1791463200.2917879,
   "tz_aware": null,
   "unionFacets": "",
   "webcast_permalink": null
@@ -1051,9 +1051,9 @@
     "english"
    ],
    "location": [
-    "victor",
+    "iowa",
     "united states",
-    "iowa"
+    "victor"
    ],
    "mime_type": [
     "image/gif",
@@ -1061,9 +1061,9 @@
     "image/tif"
    ],
    "number": [
-    "2013645043",
     "2013-04-03t08:58:59",
-    "http://www.loc.gov/item/17665053"
+    "http://www.loc.gov/item/17665053",
+    "2013645043"
    ],
    "online_format": [
     "image"
@@ -1073,27 +1073,27 @@
    ],
    "partof": [
     "prints & photographs online catalog (library of congress)",
-    "prints and photographs division",
     "miscellaneous items in high demand",
+    "prints and photographs division",
     "lot 14058",
     "catalog"
    ],
-   "score": 10.158625,
+   "score": 10.157352,
    "shelf_id": "LOT 14058, no. 123 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "schools",
+    "victor",
+    "photographic postcards",
     "school children",
     "victor (iowa)",
-    "iowa",
-    "photographic postcards",
-    "victor",
-    "group portraits",
-    "panoramic postcards",
     "photographic prints",
+    "group portraits",
+    "schools",
+    "panoramic postcards",
+    "iowa",
     "united states"
    ],
    "timestamp": "2022-05-02T06:13:36.448Z",
@@ -1145,9 +1145,9 @@
     "english"
    ],
    "location": [
-    "victor",
+    "colorado",
     "united states",
-    "colorado"
+    "victor"
    ],
    "mime_type": [
     "image/gif",
@@ -1155,10 +1155,10 @@
     "image/tif"
    ],
    "number": [
+    "2016808865",
     "http://www.loc.gov/item/2016808865",
     "http://www.loc.gov/item/det1994014825/pp",
     "2017-10-30t13:04:57",
-    "2016808865",
     "http://www.loc.gov/item/20110612"
    ],
    "online_format": [
@@ -1168,13 +1168,13 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "american memory",
     "prints & photographs online catalog (library of congress)",
     "prints and photographs division",
     "detroit publishing company",
-    "catalog"
+    "catalog",
+    "american memory"
    ],
-   "score": 10.158625,
+   "score": 10.157352,
    "shelf_id": "LC-D4-13841 [P&P]",
    "site": [
     "pictures",
@@ -1182,11 +1182,11 @@
    ],
    "subject": [
     "colorado",
+    "dry plate negatives",
+    "gold mining",
     "victor",
     "cityscape photographs",
-    "united states",
-    "gold mining",
-    "dry plate negatives"
+    "united states"
    ],
    "timestamp": "2022-04-25T08:19:00.040Z",
    "title": "Victor, Colo., and the Gold Coin Mine",
@@ -1235,9 +1235,9 @@
     "english"
    ],
    "location": [
-    "victor",
     "united states",
-    "montana"
+    "montana",
+    "victor"
    ],
    "mime_type": [
     "image/gif",
@@ -1247,8 +1247,8 @@
    "number": [
     "http://www.loc.gov/item/23570952",
     "2024-02-21t08:57:11",
-    "sheet",
-    "2024689882"
+    "2024689882",
+    "sheet"
    ],
    "online_format": [
     "image"
@@ -1260,18 +1260,18 @@
     "prints and photographs division",
     "catalog"
    ],
-   "score": 10.158625,
+   "score": 10.157352,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 1 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "postcards",
-    "streets",
     "photographs",
-    "montana",
     "victor",
+    "streets",
+    "montana",
+    "postcards",
     "united states"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
@@ -1324,9 +1324,9 @@
     "english"
    ],
    "location": [
-    "victor",
     "united states",
-    "montana"
+    "montana",
+    "victor"
    ],
    "mime_type": [
     "image/gif",
@@ -1335,9 +1335,9 @@
    ],
    "number": [
     "2024-02-21t08:57:12",
-    "sheet",
     "http://www.loc.gov/item/23570953",
-    "2024689883"
+    "2024689883",
+    "sheet"
    ],
    "online_format": [
     "image"
@@ -1349,17 +1349,17 @@
     "prints and photographs division",
     "catalog"
    ],
-   "score": 10.158625,
+   "score": 10.157352,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 2 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "postcards",
     "photographs",
-    "montana",
     "victor",
+    "montana",
+    "postcards",
     "united states"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
@@ -1412,9 +1412,9 @@
     "english"
    ],
    "location": [
-    "victor",
     "united states",
-    "montana"
+    "montana",
+    "victor"
    ],
    "mime_type": [
     "image/gif",
@@ -1422,9 +1422,9 @@
     "image/tif"
    ],
    "number": [
-    "http://www.loc.gov/item/23570954",
-    "2024689884",
     "2024-02-21t08:57:12",
+    "2024689884",
+    "http://www.loc.gov/item/23570954",
     "sheet"
    ],
    "online_format": [
@@ -1437,18 +1437,18 @@
     "prints and photographs division",
     "catalog"
    ],
-   "score": 10.158625,
+   "score": 10.157352,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 3 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "houses",
-    "postcards",
     "photographs",
-    "montana",
     "victor",
+    "houses",
+    "montana",
+    "postcards",
     "united states"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
@@ -1501,9 +1501,9 @@
     "english"
    ],
    "location": [
-    "victor",
     "united states",
-    "montana"
+    "montana",
+    "victor"
    ],
    "mime_type": [
     "image/gif",
@@ -1512,8 +1512,8 @@
    ],
    "number": [
     "2024-02-21t08:57:13",
-    "sheet",
     "http://www.loc.gov/item/23570955",
+    "sheet",
     "2024689885"
    ],
    "online_format": [
@@ -1526,18 +1526,18 @@
     "prints and photographs division",
     "catalog"
    ],
-   "score": 10.158625,
+   "score": 10.157352,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 4 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "postcards",
-    "schools",
     "photographs",
-    "montana",
     "victor",
+    "schools",
+    "montana",
+    "postcards",
     "united states"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
@@ -1631,5 +1631,5 @@
    "url": "https://www.loc.gov/resource/jukebox-11226.1"
   }
  ],
- "timestamp": 1791372996503
+ "timestamp": 1791463200857
 }

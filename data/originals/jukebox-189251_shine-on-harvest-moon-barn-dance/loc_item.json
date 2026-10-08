@@ -129,8 +129,8 @@
   },
   "location": [
    "camden",
-   "united states",
-   "new jersey"
+   "new jersey",
+   "united states"
   ],
   "locations": [
    {
@@ -206,7 +206,7 @@
    "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
   ],
   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
-  "score": 15.332874,
+  "score": 15.335276,
   "shard": "01",
   "shelf_id": "Victor 16475",
   "site": [
@@ -274,8 +274,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "victor orchestra",
     "rogers, walter b.",
+    "victor orchestra",
     "bayes, nora"
    ],
    "date": "1910-05-05",
@@ -302,8 +302,8 @@
    "index": 1,
    "location": [
     "camden",
-    "united states",
-    "new jersey"
+    "new jersey",
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -322,11 +322,11 @@
     "Has anybody here seen Kelly? ; Sadie Brady ; Back to my old home town ; Daffydils"
    ],
    "partof": [
-    "national jukebox",
     "recorded sound section, library of congress",
+    "national jukebox",
     "recorded sound research center"
    ],
-   "score": 39.260075,
+   "score": 39.270332,
    "shelf_id": "Victor 16508",
    "site": [
     "nationaljukebox"
@@ -382,8 +382,8 @@
    "index": 2,
    "location": [
     "camden",
-    "united states",
-    "new jersey"
+    "new jersey",
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -399,11 +399,11 @@
     "sound recording"
    ],
    "partof": [
-    "national jukebox",
     "recorded sound section, library of congress",
+    "national jukebox",
     "recorded sound research center"
    ],
-   "score": 37.9522,
+   "score": 37.9623,
    "shelf_id": "Victor 17957",
    "site": [
     "nationaljukebox"
@@ -432,10 +432,10 @@
    ],
    "campaigns": [],
    "contributor": [
-    "morse, robert gorham",
-    "arthur pryor's band",
     "pryor, arthur",
-    "ramsdell, e. c."
+    "ramsdell, e. c.",
+    "arthur pryor's band",
+    "morse, robert gorham"
    ],
    "date": "1912-02-26",
    "dates": [
@@ -461,8 +461,8 @@
    "index": 3,
    "location": [
     "camden",
-    "united states",
-    "new jersey"
+    "new jersey",
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -478,11 +478,11 @@
     "sound recording"
    ],
    "partof": [
-    "national jukebox",
     "recorded sound section, library of congress",
+    "national jukebox",
     "recorded sound research center"
    ],
-   "score": 37.9522,
+   "score": 37.9623,
    "shelf_id": "Victor 17062",
    "site": [
     "nationaljukebox"
@@ -511,9 +511,9 @@
    ],
    "campaigns": [],
    "contributor": [
+    "slafer, william f.",
     "arthur pryor's band",
-    "pryor, arthur",
-    "slafer, william f."
+    "pryor, arthur"
    ],
    "date": "1912-02-26",
    "dates": [
@@ -539,8 +539,8 @@
    "index": 4,
    "location": [
     "camden",
-    "united states",
-    "new jersey"
+    "new jersey",
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -556,11 +556,11 @@
     "sound recording"
    ],
    "partof": [
-    "national jukebox",
     "recorded sound section, library of congress",
+    "national jukebox",
     "recorded sound research center"
    ],
-   "score": 37.9522,
+   "score": 37.9623,
    "shelf_id": "Victor 17058",
    "site": [
     "nationaljukebox"
@@ -589,10 +589,10 @@
    ],
    "campaigns": [],
    "contributor": [
-    "chopin, frédéric",
     "arthur pryor's band",
+    "winterbottom, frank",
     "pryor, arthur",
-    "winterbottom, frank"
+    "chopin, frédéric"
    ],
    "date": "1912-02-29",
    "dates": [
@@ -618,8 +618,8 @@
    "index": 5,
    "location": [
     "camden",
-    "united states",
-    "new jersey"
+    "new jersey",
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -638,11 +638,11 @@
     "Mazurka, op. 7, no. 1 ; Waltz, op. 64, no. 1 ; Polonaise, op. 40, no. 1"
    ],
    "partof": [
-    "national jukebox",
     "recorded sound section, library of congress",
+    "national jukebox",
     "recorded sound research center"
    ],
-   "score": 37.9522,
+   "score": 37.9623,
    "shelf_id": "Victor 17127",
    "site": [
     "nationaljukebox"
@@ -671,8 +671,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "grafulla, claudio",
-    "arthur pryor's band"
+    "arthur pryor's band",
+    "grafulla, claudio"
    ],
    "date": "1912-04-11",
    "dates": [
@@ -698,8 +698,8 @@
    "index": 6,
    "location": [
     "camden",
-    "united states",
-    "new jersey"
+    "new jersey",
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -715,11 +715,11 @@
     "sound recording"
    ],
    "partof": [
-    "national jukebox",
     "recorded sound section, library of congress",
+    "national jukebox",
     "recorded sound research center"
    ],
-   "score": 37.9522,
+   "score": 37.9623,
    "shelf_id": "Victor 17080",
    "site": [
     "nationaljukebox"
@@ -784,7 +784,7 @@
   "display_level": null,
   "distance": null,
   "downloadOption": null,
-  "duration": 0.44450902938842773,
+  "duration": 0.9605576992034912,
   "embed": [],
   "embed!": [],
   "error_response_status": null,
@@ -943,7 +943,7 @@
   "suggested": null,
   "target": null,
   "template": "layouts/item/layout",
-  "timestamp": 1791373052.1279695,
+  "timestamp": 1791463366.7721474,
   "tz_aware": null,
   "unionFacets": "",
   "webcast_permalink": null
@@ -960,8 +960,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "bayes, nora",
-    "norworth, jack"
+    "norworth, jack",
+    "bayes, nora"
    ],
    "date": "1909",
    "dates": [
@@ -1001,9 +1001,9 @@
     "image/jp2"
    ],
    "number": [
+    "2023-10-17t14:14:53",
     "2016571524",
     "http://www.loc.gov/resource/musbaseball.100102.0",
-    "2023-10-17t14:14:53",
     "http://www.loc.gov/item/musbaseball.100102",
     "http://www.loc.gov/item/2016571524"
    ],
@@ -1019,20 +1019,20 @@
     "baseball sheet music",
     "catalog"
    ],
-   "score": 17.676065,
+   "score": 17.69292,
    "shelf_id": "https://repo.loc.gov/access/public/music/musbaseball-100102/.resource.json",
    "site": [
     "catalog"
    ],
    "subject": [
-    "united states",
-    "songs and music",
     "songs with piano",
     "baseball umpires",
-    "scores",
     "songs",
     "popular music",
-    "baseball"
+    "songs and music",
+    "baseball",
+    "scores",
+    "united states"
    ],
    "timestamp": "2025-06-26T08:36:49.927Z",
    "title": "Let's get the umpire's goat",
@@ -1052,8 +1052,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "bayes, nora",
-    "norworth, jack"
+    "norworth, jack",
+    "bayes, nora"
    ],
    "date": "1910",
    "dates": [
@@ -1108,24 +1108,24 @@
     "notated music"
    ],
    "partof": [
-    "women's suffrage in sheet music",
     "music division",
+    "women's suffrage in sheet music",
     "catalog"
    ],
-   "score": 17.676065,
+   "score": 17.69292,
    "shelf_id": "M1665.W8 B",
    "site": [
     "catalog"
    ],
    "subject": [
-    "women",
-    "united states",
-    "songs and music",
-    "popular music",
-    "scores",
     "songs",
+    "popular music",
     "suffrage",
-    "music"
+    "music",
+    "songs and music",
+    "women",
+    "scores",
+    "united states"
    ],
    "timestamp": "2026-05-13T09:35:57.656Z",
    "title": "Everyone in favor say aye",
@@ -1144,8 +1144,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "bayes, nora",
-    "norworth, jack"
+    "norworth, jack",
+    "bayes, nora"
    ],
    "date": "1909",
    "dates": [
@@ -1180,10 +1180,10 @@
    ],
    "number": [
     "http://www.loc.gov/item/ihas.200004363",
+    "http://www.loc.gov/item/2023861590",
     "http://www.loc.gov/resource/ihas.200004363.0",
     "sheet",
     "2023861590",
-    "http://www.loc.gov/item/2023861590",
     "2024-04-16t14:29:15"
    ],
    "online_format": [
@@ -1194,12 +1194,12 @@
     "notated music"
    ],
    "partof": [
-    "the library of congress celebrates the songs of america",
-    "sheet music of the musical theater",
     "music division",
+    "sheet music of the musical theater",
+    "the library of congress celebrates the songs of america",
     "catalog"
    ],
-   "score": 13.6200905,
+   "score": 13.633465,
    "shelf_id": "https://repo.loc.gov/access/public/music/musihas-200004363/.resource.json",
    "site": [
     "catalog"
@@ -1224,8 +1224,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "bayes, nora",
-    "norworth, jack"
+    "norworth, jack",
+    "bayes, nora"
    ],
    "date": "1909",
    "dates": [
@@ -1259,11 +1259,11 @@
     "image/jp2"
    ],
    "number": [
+    "2023861594",
+    "http://www.loc.gov/resource/ihas.200004367.0",
     "2024-04-16t14:29:17",
     "http://www.loc.gov/item/2023861594",
-    "2023861594",
     "sheet",
-    "http://www.loc.gov/resource/ihas.200004367.0",
     "http://www.loc.gov/item/ihas.200004367"
    ],
    "online_format": [
@@ -1274,12 +1274,12 @@
     "notated music"
    ],
    "partof": [
-    "the library of congress celebrates the songs of america",
-    "sheet music of the musical theater",
     "music division",
+    "sheet music of the musical theater",
+    "the library of congress celebrates the songs of america",
     "catalog"
    ],
-   "score": 13.6200905,
+   "score": 13.633465,
    "shelf_id": "https://repo.loc.gov/access/public/music/musihas-200004367/.resource.json",
    "site": [
     "catalog"
@@ -1304,8 +1304,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "bayes, nora",
-    "norworth, jack"
+    "norworth, jack",
+    "bayes, nora"
    ],
    "date": "1909",
    "dates": [
@@ -1339,12 +1339,12 @@
     "image/jp2"
    ],
    "number": [
-    "http://www.loc.gov/resource/ihas.200004368.0",
-    "http://www.loc.gov/item/2023861595",
     "http://www.loc.gov/item/ihas.200004368",
+    "http://www.loc.gov/resource/ihas.200004368.0",
     "2024-04-16t14:29:17",
+    "2023861595",
     "sheet",
-    "2023861595"
+    "http://www.loc.gov/item/2023861595"
    ],
    "online_format": [
     "image",
@@ -1354,12 +1354,12 @@
     "notated music"
    ],
    "partof": [
-    "the library of congress celebrates the songs of america",
-    "sheet music of the musical theater",
     "music division",
+    "sheet music of the musical theater",
+    "the library of congress celebrates the songs of america",
     "catalog"
    ],
-   "score": 13.6200905,
+   "score": 13.633465,
    "shelf_id": "https://repo.loc.gov/access/public/music/musihas-200004368/.resource.json",
    "site": [
     "catalog"
@@ -1384,8 +1384,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "bayes, nora",
-    "norworth, jack"
+    "norworth, jack",
+    "bayes, nora"
    ],
    "date": "1909",
    "dates": [
@@ -1419,12 +1419,12 @@
     "image/jp2"
    ],
    "number": [
-    "http://www.loc.gov/item/ihas.200004369",
-    "2024-04-16t14:29:18",
+    "http://www.loc.gov/item/2023861596",
     "http://www.loc.gov/resource/ihas.200004369.0",
-    "sheet",
+    "http://www.loc.gov/item/ihas.200004369",
     "2023861596",
-    "http://www.loc.gov/item/2023861596"
+    "sheet",
+    "2024-04-16t14:29:18"
    ],
    "online_format": [
     "image",
@@ -1434,12 +1434,12 @@
     "notated music"
    ],
    "partof": [
-    "the library of congress celebrates the songs of america",
-    "sheet music of the musical theater",
     "music division",
+    "sheet music of the musical theater",
+    "the library of congress celebrates the songs of america",
     "catalog"
    ],
-   "score": 13.6200905,
+   "score": 13.633465,
    "shelf_id": "https://repo.loc.gov/access/public/music/musihas-200004369/.resource.json",
    "site": [
     "catalog"
@@ -1538,5 +1538,5 @@
    "url": "https://www.loc.gov/resource/jukebox-189251.1"
   }
  ],
- "timestamp": 1791373052573
+ "timestamp": 1791463367733
 }

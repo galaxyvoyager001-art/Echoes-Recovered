@@ -113,8 +113,8 @@
    }
   ],
   "location": [
-   "milan",
-   "italy"
+   "italy",
+   "milan"
   ],
   "locations": [
    {
@@ -187,7 +187,7 @@
    "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
   ],
   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
-  "score": 15.332891,
+  "score": 15.335276,
   "shard": "01",
   "shelf_id": "Columbia 10294",
   "site": [
@@ -270,8 +270,8 @@
     "italian"
    ],
    "location": [
-    "milan",
-    "italy"
+    "italy",
+    "milan"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -294,10 +294,10 @@
    ],
    "partof": [
     "department of special collections, davidson library, university of california, santa barbara",
-    "national jukebox",
-    "recorded sound research center"
+    "recorded sound research center",
+    "national jukebox"
    ],
-   "score": 37.297935,
+   "score": 37.306007,
    "shelf_id": "Columbia 10329",
    "site": [
     "nationaljukebox"
@@ -325,9 +325,9 @@
    "campaigns": [],
    "contributor": [
     "tiochet, carlo",
-    "daddi, francesco",
+    "pestalozza, a.",
     "de matienzo, teresa",
-    "pestalozza, a."
+    "daddi, francesco"
    ],
    "date": "1910-12-31",
    "dates": [
@@ -373,10 +373,10 @@
    ],
    "partof": [
     "department of special collections, davidson library, university of california, santa barbara",
-    "national jukebox",
-    "recorded sound research center"
+    "recorded sound research center",
+    "national jukebox"
    ],
-   "score": 28.608332,
+   "score": 28.61543,
    "shelf_id": "Columbia A946",
    "site": [
     "nationaljukebox"
@@ -432,8 +432,8 @@
     "italian"
    ],
    "location": [
-    "milan",
-    "italy"
+    "italy",
+    "milan"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -456,10 +456,10 @@
    ],
    "partof": [
     "department of special collections, davidson library, university of california, santa barbara",
-    "national jukebox",
-    "recorded sound research center"
+    "recorded sound research center",
+    "national jukebox"
    ],
-   "score": 28.597315,
+   "score": 28.60244,
    "shelf_id": "Columbia A1064",
    "site": [
     "nationaljukebox"
@@ -515,8 +515,8 @@
     "italian"
    ],
    "location": [
-    "milan",
-    "italy"
+    "italy",
+    "milan"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -538,10 +538,10 @@
    ],
    "partof": [
     "department of special collections, davidson library, university of california, santa barbara",
-    "national jukebox",
-    "recorded sound research center"
+    "recorded sound research center",
+    "national jukebox"
    ],
-   "score": 28.597315,
+   "score": 28.60244,
    "shelf_id": "Columbia A1064",
    "site": [
     "nationaljukebox"
@@ -597,8 +597,8 @@
     "italian"
    ],
    "location": [
-    "milan",
-    "italy"
+    "italy",
+    "milan"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -620,18 +620,18 @@
    ],
    "partof": [
     "department of special collections, davidson library, university of california, santa barbara",
-    "national jukebox",
-    "recorded sound research center"
+    "recorded sound research center",
+    "national jukebox"
    ],
-   "score": 28.597315,
+   "score": 28.60244,
    "shelf_id": "Columbia A1395",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "classical music",
     "opera",
     "vocal",
+    "classical music",
     "columbia"
    ],
    "timestamp": "2026-10-05T14:48:04.014Z",
@@ -652,8 +652,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "verdi, giuseppe",
-    "parvis, taurino"
+    "parvis, taurino",
+    "verdi, giuseppe"
    ],
    "date": "1914-12-31",
    "dates": [
@@ -681,8 +681,8 @@
     "italian"
    ],
    "location": [
-    "milan",
-    "italy"
+    "italy",
+    "milan"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -702,10 +702,10 @@
    ],
    "partof": [
     "department of special collections, davidson library, university of california, santa barbara",
-    "national jukebox",
-    "recorded sound research center"
+    "recorded sound research center",
+    "national jukebox"
    ],
-   "score": 28.597315,
+   "score": 28.60244,
    "shelf_id": "Columbia A1395",
    "site": [
     "nationaljukebox"
@@ -776,7 +776,7 @@
   "display_level": null,
   "distance": null,
   "downloadOption": null,
-  "duration": 0.5249776840209961,
+  "duration": 1.4057846069335938,
   "embed": [],
   "embed!": [],
   "error_response_status": null,
@@ -935,7 +935,7 @@
   "suggested": null,
   "target": null,
   "template": "layouts/item/layout",
-  "timestamp": 1791373179.4689796,
+  "timestamp": 1791463419.3037858,
   "tz_aware": null,
   "unionFacets": "",
   "webcast_permalink": null
@@ -951,8 +951,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "thaler, rudolf",
-    "pestalozza, a."
+    "pestalozza, a.",
+    "thaler, rudolf"
    ],
    "date": "1909",
    "dates": [
@@ -986,12 +986,12 @@
     "image/jp2"
    ],
    "number": [
-    "2023-11-30t11:56:12",
-    "2023794494",
     "http://www.loc.gov/item/ihas.100008409",
     "sheet",
+    "http://www.loc.gov/item/2023794494",
+    "2023-11-30t11:56:12",
     "http://www.loc.gov/resource/ihas.100008409.0",
-    "http://www.loc.gov/item/2023794494"
+    "2023794494"
    ],
    "online_format": [
     "image",
@@ -1002,11 +1002,11 @@
    ],
    "partof": [
     "the library of congress celebrates the songs of america",
+    "catalog",
     "music division",
-    "historic sheet music collection, 1800-1922",
-    "catalog"
+    "historic sheet music collection, 1800-1922"
    ],
-   "score": 8.487602,
+   "score": 8.49568,
    "shelf_id": "https://repo.loc.gov/access/public/music/musihas-100008409/.resource.json",
    "site": [
     "catalog"
@@ -1056,11 +1056,11 @@
     "english"
    ],
    "location": [
+    "richland",
     "richland county",
-    "columbia",
     "united states",
     "south carolina",
-    "richland"
+    "columbia"
    ],
    "mime_type": [
     "image/jp2",
@@ -1069,8 +1069,8 @@
     "image/jpeg"
    ],
    "number": [
-    "1",
     "sn83025803",
+    "1",
     "00220720366"
    ],
    "numeric_shelf_id": 192301271,
@@ -1083,9 +1083,9 @@
     "newspaper"
    ],
    "partof": [
-    "the southern indicator (columbia, s.c.) 1903-1925",
+    "chronicling america",
     "serial and government publications division",
-    "chronicling america"
+    "the southern indicator (columbia, s.c.) 1903-1925"
    ],
    "publication_frequency": [
     "weekly"
@@ -1096,16 +1096,16 @@
     "chroniclingamerica"
    ],
    "subject": [
-    "columbia (s.c.)",
-    "richland county",
-    "columbia",
     "african american",
     "richland",
-    "african americans",
     "richland county (s.c.)",
+    "richland county",
+    "columbia (s.c.)",
+    "united states",
     "newspapers",
+    "columbia",
     "south carolina",
-    "united states"
+    "african americans"
    ],
    "timestamp": "2023-08-08T08:28:37.775Z",
    "title": "The Southern indicator (Columbia, S.C.), January 27, 1923",
@@ -1151,11 +1151,11 @@
     "english"
    ],
    "location": [
+    "richland",
     "richland county",
-    "columbia",
     "united states",
     "south carolina",
-    "richland"
+    "columbia"
    ],
    "mime_type": [
     "image/jp2",
@@ -1164,8 +1164,8 @@
     "image/jpeg"
    ],
    "number": [
-    "1",
     "sn83025803",
+    "1",
     "00220720366"
    ],
    "numeric_shelf_id": 192302031,
@@ -1178,9 +1178,9 @@
     "newspaper"
    ],
    "partof": [
-    "the southern indicator (columbia, s.c.) 1903-1925",
+    "chronicling america",
     "serial and government publications division",
-    "chronicling america"
+    "the southern indicator (columbia, s.c.) 1903-1925"
    ],
    "publication_frequency": [
     "weekly"
@@ -1191,16 +1191,16 @@
     "chroniclingamerica"
    ],
    "subject": [
-    "columbia (s.c.)",
-    "richland county",
-    "columbia",
     "african american",
     "richland",
-    "african americans",
     "richland county (s.c.)",
+    "richland county",
+    "columbia (s.c.)",
+    "united states",
     "newspapers",
+    "columbia",
     "south carolina",
-    "united states"
+    "african americans"
    ],
    "timestamp": "2023-08-08T08:28:37.775Z",
    "title": "The Southern indicator (Columbia, S.C.), February 3, 1923",
@@ -1251,9 +1251,9 @@
     "latin"
    ],
    "location": [
-    "milan",
+    "italy",
     "lombardy",
-    "italy"
+    "milan"
    ],
    "mime_type": [
     "application/zip",
@@ -1262,8 +1262,8 @@
     "image/jp2"
    ],
    "number": [
-    "2021668085",
-    "2021-06-01t15:58:56"
+    "2021-06-01t15:58:56",
+    "2021668085"
    ],
    "online_format": [
     "compressed data",
@@ -1277,27 +1277,27 @@
     "Psalterium"
    ],
    "partof": [
-    "world digital library",
-    "catalog",
     "bavarian state library",
-    "world digital library - partner items"
+    "catalog",
+    "world digital library - partner items",
+    "world digital library"
    ],
-   "score": 7.891435,
+   "score": 7.892286,
    "shelf_id": "http://lccn.loc.gov/2021668085",
    "site": [
     "catalog"
    ],
    "subject": [
-    "psalms",
-    "illuminations",
-    "875 to 899",
-    "milan",
-    "lombardy",
-    "italy",
-    "prayers",
-    "psalters",
     "hymns",
-    "bible. old testament"
+    "psalters",
+    "lombardy",
+    "illuminations",
+    "italy",
+    "bible. old testament",
+    "milan",
+    "prayers",
+    "875 to 899",
+    "psalms"
    ],
    "timestamp": "2022-09-11T21:41:36.618Z",
    "title": "Bobbio Psalter.",
@@ -1347,8 +1347,8 @@
     "italian"
    ],
    "location": [
-    "milan",
-    "italy"
+    "italy",
+    "milan"
    ],
    "mime_type": [
     "image/gif",
@@ -1356,8 +1356,8 @@
    ],
    "number": [
     "2026-03-27t20:53:24.400000",
-    "2020718028",
-    "online resource"
+    "online resource",
+    "2020718028"
    ],
    "online_format": [
     "image",
@@ -1367,26 +1367,26 @@
     "book"
    ],
    "partof": [
+    "catalog",
     "general collections",
-    "open access books",
-    "catalog"
+    "open access books"
    ],
-   "score": 7.891435,
+   "score": 7.892286,
    "shelf_id": "DG657.73.F55",
    "site": [
     "catalog"
    ],
    "subject": [
-    "history",
-    "politics and government",
-    "italy",
-    "to 1535",
     "church history",
-    "congresses",
-    "conference papers and proceedings",
-    "duke of milan",
     "filippo maria visconti",
-    "milan (italy)"
+    "history",
+    "to 1535",
+    "italy",
+    "politics and government",
+    "milan (italy)",
+    "duke of milan",
+    "congresses",
+    "conference papers and proceedings"
    ],
    "timestamp": "2026-04-06T16:22:08.762Z",
    "title": "Il ducato di Filippo Maria Visconti, 1412-1447 : economia, politica, cultura",
@@ -1442,8 +1442,8 @@
    ],
    "location": [
     "fort jackson",
-    "south carolina",
-    "columbia"
+    "columbia",
+    "south carolina"
    ],
    "mime_type": [
     "image/gif",
@@ -1451,10 +1451,10 @@
     "image/tif"
    ],
    "number": [
-    "2015645179",
     "sheet",
-    "2023-02-07t07:37:07",
-    "http://www.loc.gov/item/18567475"
+    "http://www.loc.gov/item/18567475",
+    "2015645179",
+    "2023-02-07t07:37:07"
    ],
    "online_format": [
     "image"
@@ -1463,26 +1463,26 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "prints & photographs online catalog (library of congress)",
-    "miscellaneous items in high demand",
     "prints and photographs division",
+    "miscellaneous items in high demand",
+    "prints & photographs online catalog (library of congress)",
     "catalog"
    ],
-   "score": 7.499112,
+   "score": 7.49848,
    "shelf_id": "LC-U9-17428 -25A [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "columbia",
+    "film negatives",
     "vietnam war",
     "hairdressing",
-    "draft (military service)",
-    "film negatives",
-    "military personnel",
+    "fort jackson (s.c.)",
     "south carolina",
-    "fort jackson (s.c.)"
+    "military personnel",
+    "columbia",
+    "draft (military service)"
    ],
    "timestamp": "2023-03-14T15:47:58.134Z",
    "title": "[New U.S. Army draft recruit getting his hair cut by a barber]",
@@ -1575,5 +1575,5 @@
    "url": "https://www.loc.gov/resource/jukebox-1062882.1"
   }
  ],
- "timestamp": 1791373179994
+ "timestamp": 1791463420710
 }
