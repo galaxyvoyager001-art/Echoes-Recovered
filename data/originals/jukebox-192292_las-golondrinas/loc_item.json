@@ -118,8 +118,8 @@
    }
   ],
   "location": [
-   "ecuador",
-   "guayaquil"
+   "guayaquil",
+   "ecuador"
   ],
   "locations": [
    {
@@ -192,7 +192,7 @@
    "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
   ],
   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
-  "score": 15.595951,
+  "score": 15.597652,
   "shard": "01",
   "shelf_id": "Victor 72438",
   "site": [
@@ -201,10 +201,10 @@
   "source_modified": "2000-01-01T12:00:00Z",
   "subject": [
    "popular music",
-   "vocal",
    "ethnic music",
-   "spanish (ecuador)",
-   "victor"
+   "victor",
+   "vocal",
+   "spanish (ecuador)"
   ],
   "subject_category": [
    "vocal"
@@ -307,8 +307,8 @@
     "spanish"
    ],
    "location": [
-    "ecuador",
-    "guayaquil"
+    "guayaquil",
+    "ecuador"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -328,20 +328,20 @@
    ],
    "partof": [
     "johnson victrola museum, delaware",
-    "national jukebox",
-    "recorded sound research center"
+    "recorded sound research center",
+    "national jukebox"
    ],
-   "score": 58.058697,
+   "score": 58.067547,
    "shelf_id": "Victor 72438",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
     "popular music",
-    "vocal",
     "ethnic music",
-    "spanish (ecuador)",
-    "victor"
+    "victor",
+    "vocal",
+    "spanish (ecuador)"
    ],
    "timestamp": "2026-10-05T14:03:04.091Z",
    "title": "Felicidad",
@@ -389,8 +389,8 @@
     "spanish"
    ],
    "location": [
-    "ecuador",
-    "guayaquil"
+    "guayaquil",
+    "ecuador"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -410,20 +410,20 @@
    ],
    "partof": [
     "johnson victrola museum, delaware",
-    "national jukebox",
-    "recorded sound research center"
+    "recorded sound research center",
+    "national jukebox"
    ],
-   "score": 58.058697,
+   "score": 58.067547,
    "shelf_id": "Victor 72840",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
     "popular music",
-    "vocal",
     "ethnic music",
-    "spanish (ecuador)",
-    "victor"
+    "victor",
+    "vocal",
+    "spanish (ecuador)"
    ],
    "timestamp": "2026-10-05T14:03:04.091Z",
    "title": "Las quejas",
@@ -472,8 +472,8 @@
     "spanish"
    ],
    "location": [
-    "ecuador",
-    "guayaquil"
+    "guayaquil",
+    "ecuador"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -493,20 +493,20 @@
    ],
    "partof": [
     "johnson victrola museum, delaware",
-    "national jukebox",
-    "recorded sound research center"
+    "recorded sound research center",
+    "national jukebox"
    ],
-   "score": 49.42743,
+   "score": 49.433395,
    "shelf_id": "Victor 72842",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
     "popular music",
-    "vocal",
     "ethnic music",
-    "spanish (ecuador)",
-    "victor"
+    "victor",
+    "vocal",
+    "spanish (ecuador)"
    ],
    "timestamp": "2026-10-05T14:03:24.569Z",
    "title": "Enriqueta",
@@ -556,8 +556,8 @@
     "spanish"
    ],
    "location": [
-    "ecuador",
-    "guayaquil"
+    "guayaquil",
+    "ecuador"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -577,20 +577,20 @@
    ],
    "partof": [
     "johnson victrola museum, delaware",
-    "national jukebox",
-    "recorded sound research center"
+    "recorded sound research center",
+    "national jukebox"
    ],
-   "score": 49.42743,
+   "score": 49.433395,
    "shelf_id": "Victor 72844",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
     "popular music",
-    "vocal",
     "ethnic music",
-    "spanish (ecuador)",
-    "victor"
+    "victor",
+    "vocal",
+    "spanish (ecuador)"
    ],
    "timestamp": "2026-10-05T14:03:04.091Z",
    "title": "Amor con ilusión",
@@ -610,8 +610,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "murrieta, carlos",
-    "morla, judith"
+    "morla, judith",
+    "murrieta, carlos"
    ],
    "date": "1917-10-16",
    "dates": [
@@ -639,8 +639,8 @@
     "spanish"
    ],
    "location": [
-    "ecuador",
-    "guayaquil"
+    "guayaquil",
+    "ecuador"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -660,20 +660,20 @@
    ],
    "partof": [
     "johnson victrola museum, delaware",
-    "national jukebox",
-    "recorded sound research center"
+    "recorded sound research center",
+    "national jukebox"
    ],
-   "score": 49.42743,
+   "score": 49.433395,
    "shelf_id": "Victor 72840",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
     "popular music",
-    "vocal",
     "ethnic music",
-    "spanish (ecuador)",
-    "victor"
+    "victor",
+    "vocal",
+    "spanish (ecuador)"
    ],
    "timestamp": "2026-10-05T14:03:04.091Z",
    "title": "Ilusión mía",
@@ -693,8 +693,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "hurtado, ernesto",
     "antepara, carlos",
+    "hurtado, ernesto",
     "cortés, vidal moises",
     "martinetti, sergio"
    ],
@@ -724,8 +724,8 @@
     "spanish"
    ],
    "location": [
-    "ecuador",
-    "guayaquil"
+    "guayaquil",
+    "ecuador"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -745,20 +745,20 @@
    ],
    "partof": [
     "johnson victrola museum, delaware",
-    "national jukebox",
-    "recorded sound research center"
+    "recorded sound research center",
+    "national jukebox"
    ],
-   "score": 49.42743,
+   "score": 49.433395,
    "shelf_id": "Victor 72842",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
     "popular music",
-    "vocal",
     "ethnic music",
-    "spanish (ecuador)",
-    "victor"
+    "victor",
+    "vocal",
+    "spanish (ecuador)"
    ],
    "timestamp": "2026-10-05T14:02:38.959Z",
    "title": "Tus ojos",
@@ -821,7 +821,7 @@
   "display_level": null,
   "distance": null,
   "downloadOption": null,
-  "duration": 0.48880743980407715,
+  "duration": 0.5323429107666016,
   "embed": [],
   "embed!": [],
   "error_response_status": null,
@@ -980,7 +980,7 @@
   "suggested": null,
   "target": null,
   "template": "layouts/item/layout",
-  "timestamp": 1791377533.3246512,
+  "timestamp": 1791463657.2287312,
   "tz_aware": null,
   "unionFacets": "",
   "webcast_permalink": null
@@ -1041,9 +1041,9 @@
     "image/tif"
    ],
    "number": [
+    "2013-04-03t08:58:59",
     "http://www.loc.gov/item/17665053",
-    "2013645043",
-    "2013-04-03t08:58:59"
+    "2013645043"
    ],
    "online_format": [
     "image"
@@ -1052,29 +1052,29 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "prints and photographs division",
     "catalog",
+    "prints and photographs division",
     "miscellaneous items in high demand",
     "prints & photographs online catalog (library of congress)",
     "lot 14058"
    ],
-   "score": 9.757024,
+   "score": 9.75644,
    "shelf_id": "LOT 14058, no. 123 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "victor (iowa)",
-    "group portraits",
-    "photographic postcards",
-    "schools",
-    "united states",
-    "school children",
     "victor",
+    "united states",
     "photographic prints",
+    "photographic postcards",
+    "iowa",
+    "group portraits",
+    "schools",
     "panoramic postcards",
-    "iowa"
+    "school children",
+    "victor (iowa)"
    ],
    "timestamp": "2022-05-02T06:13:36.448Z",
    "title": "[Victor High School, Victor, Iowa]",
@@ -1125,9 +1125,9 @@
     "english"
    ],
    "location": [
+    "colorado",
     "victor",
-    "united states",
-    "colorado"
+    "united states"
    ],
    "mime_type": [
     "image/gif",
@@ -1135,11 +1135,11 @@
     "image/tif"
    ],
    "number": [
-    "2017-10-30t13:04:57",
     "http://www.loc.gov/item/2016808865",
     "http://www.loc.gov/item/20110612",
     "http://www.loc.gov/item/det1994014825/pp",
-    "2016808865"
+    "2016808865",
+    "2017-10-30t13:04:57"
    ],
    "online_format": [
     "image"
@@ -1148,24 +1148,24 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "prints and photographs division",
     "catalog",
+    "prints and photographs division",
+    "detroit publishing company",
     "american memory",
-    "prints & photographs online catalog (library of congress)",
-    "detroit publishing company"
+    "prints & photographs online catalog (library of congress)"
    ],
-   "score": 9.757024,
+   "score": 9.75644,
    "shelf_id": "LC-D4-13841 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
+    "victor",
+    "united states",
     "dry plate negatives",
     "cityscape photographs",
-    "united states",
     "colorado",
-    "victor",
     "gold mining"
    ],
    "timestamp": "2022-04-25T08:19:00.040Z",
@@ -1215,9 +1215,9 @@
     "english"
    ],
    "location": [
+    "montana",
     "victor",
-    "united states",
-    "montana"
+    "united states"
    ],
    "mime_type": [
     "image/gif",
@@ -1225,10 +1225,10 @@
     "image/tif"
    ],
    "number": [
-    "2024689882",
-    "http://www.loc.gov/item/23570952",
     "sheet",
-    "2024-02-21t08:57:11"
+    "2024-02-21t08:57:11",
+    "http://www.loc.gov/item/23570952",
+    "2024689882"
    ],
    "online_format": [
     "image"
@@ -1240,19 +1240,19 @@
     "prints and photographs division",
     "catalog"
    ],
-   "score": 9.757024,
+   "score": 9.75644,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 1 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "streets",
-    "united states",
+    "montana",
     "victor",
+    "united states",
+    "streets",
     "postcards",
-    "photographs",
-    "montana"
+    "photographs"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "Main Street, Victor, Montana",
@@ -1304,9 +1304,9 @@
     "english"
    ],
    "location": [
+    "montana",
     "victor",
-    "united states",
-    "montana"
+    "united states"
    ],
    "mime_type": [
     "image/gif",
@@ -1314,10 +1314,10 @@
     "image/tif"
    ],
    "number": [
-    "http://www.loc.gov/item/23570953",
-    "2024689883",
     "sheet",
-    "2024-02-21t08:57:12"
+    "2024-02-21t08:57:12",
+    "http://www.loc.gov/item/23570953",
+    "2024689883"
    ],
    "online_format": [
     "image"
@@ -1329,18 +1329,18 @@
     "prints and photographs division",
     "catalog"
    ],
-   "score": 9.757024,
+   "score": 9.75644,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 2 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "united states",
+    "montana",
     "victor",
+    "united states",
     "postcards",
-    "photographs",
-    "montana"
+    "photographs"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "The snow-capped peak of St. Mory's, Victor, Montana",
@@ -1392,9 +1392,9 @@
     "english"
    ],
    "location": [
+    "montana",
     "victor",
-    "united states",
-    "montana"
+    "united states"
    ],
    "mime_type": [
     "image/gif",
@@ -1402,10 +1402,10 @@
     "image/tif"
    ],
    "number": [
-    "http://www.loc.gov/item/23570954",
     "sheet",
     "2024-02-21t08:57:12",
-    "2024689884"
+    "2024689884",
+    "http://www.loc.gov/item/23570954"
    ],
    "online_format": [
     "image"
@@ -1417,19 +1417,19 @@
     "prints and photographs division",
     "catalog"
    ],
-   "score": 9.757024,
+   "score": 9.75644,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 3 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "united states",
+    "montana",
     "victor",
-    "houses",
+    "united states",
     "postcards",
-    "photographs",
-    "montana"
+    "houses",
+    "photographs"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "A Bitter Root home, Victor, Montana",
@@ -1481,9 +1481,9 @@
     "english"
    ],
    "location": [
+    "montana",
     "victor",
-    "united states",
-    "montana"
+    "united states"
    ],
    "mime_type": [
     "image/gif",
@@ -1491,10 +1491,10 @@
     "image/tif"
    ],
    "number": [
-    "2024689885",
-    "http://www.loc.gov/item/23570955",
     "sheet",
-    "2024-02-21t08:57:13"
+    "http://www.loc.gov/item/23570955",
+    "2024-02-21t08:57:13",
+    "2024689885"
    ],
    "online_format": [
     "image"
@@ -1506,19 +1506,19 @@
     "prints and photographs division",
     "catalog"
    ],
-   "score": 9.757024,
+   "score": 9.75644,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 4 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "schools",
-    "united states",
+    "montana",
     "victor",
+    "united states",
     "postcards",
-    "photographs",
-    "montana"
+    "schools",
+    "photographs"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "School house, Victor, Mont.",
@@ -1611,5 +1611,5 @@
    "url": "https://www.loc.gov/resource/jukebox-192292.1"
   }
  ],
- "timestamp": 1791377533813
+ "timestamp": 1791463657761
 }

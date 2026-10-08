@@ -123,8 +123,8 @@
    }
   ],
   "location": [
-   "santiago",
-   "chile"
+   "chile",
+   "santiago"
   ],
   "locations": [
    {
@@ -197,7 +197,7 @@
    "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
   ],
   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
-  "score": 15.595209,
+  "score": 15.59761,
   "shard": "01",
   "shelf_id": "Victor 72033",
   "site": [
@@ -205,11 +205,11 @@
   ],
   "source_modified": "2000-01-01T12:00:00Z",
   "subject": [
-   "spanish (chile)",
-   "ethnic music",
-   "vocal",
    "victor",
-   "popular music"
+   "popular music",
+   "vocal",
+   "ethnic music",
+   "spanish (chile)"
   ],
   "subject_category": [
    "vocal"
@@ -284,8 +284,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "cuecas chilenas",
-    "pan de huevo"
+    "pan de huevo",
+    "cuecas chilenas"
    ],
    "date": "1917-06-22",
    "dates": [
@@ -313,8 +313,8 @@
     "spanish"
    ],
    "location": [
-    "santiago",
-    "chile"
+    "chile",
+    "santiago"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -337,17 +337,17 @@
     "recorded sound research center",
     "johnson victrola museum, delaware"
    ],
-   "score": 66.78915,
+   "score": 66.80356,
    "shelf_id": "Victor 72860",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "spanish (chile)",
-    "ethnic music",
-    "vocal",
     "victor",
-    "popular music"
+    "popular music",
+    "vocal",
+    "ethnic music",
+    "spanish (chile)"
    ],
    "timestamp": "2026-10-05T14:02:38.959Z",
    "title": "¡Ay! Rosa!",
@@ -367,9 +367,9 @@
    ],
    "campaigns": [],
    "contributor": [
-    "cuecas chilenas",
     "pan de huevo",
-    "vera, elvira"
+    "vera, elvira",
+    "cuecas chilenas"
    ],
    "date": "1917-06-22",
    "dates": [
@@ -397,8 +397,8 @@
     "spanish"
    ],
    "location": [
-    "santiago",
-    "chile"
+    "chile",
+    "santiago"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -421,17 +421,17 @@
     "recorded sound research center",
     "johnson victrola museum, delaware"
    ],
-   "score": 66.78915,
+   "score": 66.80356,
    "shelf_id": "Victor 72860",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "spanish (chile)",
-    "ethnic music",
-    "vocal",
     "victor",
-    "popular music"
+    "popular music",
+    "vocal",
+    "ethnic music",
+    "spanish (chile)"
    ],
    "timestamp": "2026-10-05T14:02:38.959Z",
    "title": "¡Viva Chile!",
@@ -480,8 +480,8 @@
     "spanish"
    ],
    "location": [
-    "santiago",
-    "chile"
+    "chile",
+    "santiago"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -504,17 +504,17 @@
     "recorded sound research center",
     "johnson victrola museum, delaware"
    ],
-   "score": 58.157936,
+   "score": 58.16941,
    "shelf_id": "Victor 72033",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "spanish (chile)",
-    "ethnic music",
-    "vocal",
     "victor",
-    "popular music"
+    "popular music",
+    "vocal",
+    "ethnic music",
+    "spanish (chile)"
    ],
    "timestamp": "2026-10-05T14:02:38.959Z",
    "title": "Chicha de Curacaví",
@@ -562,8 +562,8 @@
     "spanish"
    ],
    "location": [
-    "santiago",
-    "chile"
+    "chile",
+    "santiago"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -586,17 +586,17 @@
     "recorded sound research center",
     "johnson victrola museum, delaware"
    ],
-   "score": 49.671856,
+   "score": 49.680416,
    "shelf_id": "Victor 69855",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "spanish (chile)",
-    "ethnic music",
-    "vocal",
     "victor",
-    "popular music"
+    "popular music",
+    "vocal",
+    "ethnic music",
+    "spanish (chile)"
    ],
    "timestamp": "2026-10-05T14:02:38.959Z",
    "title": "La constancia",
@@ -616,8 +616,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "cruz carrera, laura",
-    "cruz carrera, sara"
+    "cruz carrera, sara",
+    "cruz carrera, laura"
    ],
    "date": "1917-06-17",
    "dates": [
@@ -645,8 +645,8 @@
     "spanish"
    ],
    "location": [
-    "santiago",
-    "chile"
+    "chile",
+    "santiago"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -669,17 +669,17 @@
     "recorded sound research center",
     "johnson victrola museum, delaware"
    ],
-   "score": 49.671856,
+   "score": 49.680416,
    "shelf_id": "Victor 69853",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "spanish (chile)",
-    "ethnic music",
-    "vocal",
     "victor",
-    "popular music"
+    "popular music",
+    "vocal",
+    "ethnic music",
+    "spanish (chile)"
    ],
    "timestamp": "2026-10-05T14:02:38.959Z",
    "title": "El tucuquere",
@@ -700,8 +700,8 @@
    "campaigns": [],
    "contributor": [
     "aracena t., anibal",
-    "faure, j.",
     "hugo, victor",
+    "faure, j.",
     "rojas, mercedario, padre"
    ],
    "date": "1917-06-18",
@@ -730,8 +730,8 @@
     "french"
    ],
    "location": [
-    "santiago",
-    "chile"
+    "chile",
+    "santiago"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -754,18 +754,18 @@
     "recorded sound research center",
     "johnson victrola museum, delaware"
    ],
-   "score": 49.671856,
+   "score": 49.680416,
    "shelf_id": "Victor 72863",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "spanish (chile)",
-    "religious",
-    "ethnic music",
-    "vocal",
     "victor",
-    "popular music"
+    "popular music",
+    "vocal",
+    "ethnic music",
+    "spanish (chile)",
+    "religious"
    ],
    "timestamp": "2026-10-05T14:02:38.959Z",
    "title": "Crucifix",
@@ -811,7 +811,7 @@
   "display_level": null,
   "distance": null,
   "downloadOption": null,
-  "duration": 1.503171443939209,
+  "duration": 0.3695197105407715,
   "embed": [],
   "embed!": [],
   "error_response_status": null,
@@ -970,7 +970,7 @@
   "suggested": null,
   "target": null,
   "template": "layouts/item/layout",
-  "timestamp": 1791373388.2764752,
+  "timestamp": 1791463474.6199024,
   "tz_aware": null,
   "unionFacets": "",
   "webcast_permalink": null
@@ -985,10 +985,10 @@
    ],
    "campaigns": [],
    "contributor": [
-    "doyle, seamus",
-    "bianchi, lila",
-    "cuevas, luis",
     "aguirra, ignacia",
+    "cuevas, luis",
+    "bianchi, lila",
+    "doyle, seamus",
     "aguirre, nene"
    ],
    "date": "1941",
@@ -1012,8 +1012,8 @@
     "spanish"
    ],
    "location": [
-    "santiago",
-    "chile"
+    "chile",
+    "santiago"
    ],
    "mime_type": [
     "image/jpeg",
@@ -1029,11 +1029,11 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "traditional music and spoken word card catalog",
     "american folklife center",
-    "seamus doyle south american recordings"
+    "seamus doyle south american recordings",
+    "traditional music and spoken word card catalog"
    ],
-   "score": 9.926767,
+   "score": 9.928294,
    "shelf_id": "AFS Number: AFS 05726 A01",
    "subject": [
     "card catalogs"
@@ -1078,8 +1078,8 @@
     "spanish"
    ],
    "location": [
-    "santiago",
-    "chile"
+    "chile",
+    "santiago"
    ],
    "mime_type": [
     "image/jpeg",
@@ -1095,11 +1095,11 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "traditional music and spoken word card catalog",
     "american folklife center",
-    "seamus doyle south american recordings"
+    "seamus doyle south american recordings",
+    "traditional music and spoken word card catalog"
    ],
-   "score": 9.926767,
+   "score": 9.928294,
    "shelf_id": "AFS Number: AFS 05726 A02",
    "subject": [
     "card catalogs"
@@ -1144,8 +1144,8 @@
     "spanish"
    ],
    "location": [
-    "santiago",
-    "chile"
+    "chile",
+    "santiago"
    ],
    "mime_type": [
     "image/jpeg",
@@ -1161,11 +1161,11 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "traditional music and spoken word card catalog",
     "american folklife center",
-    "seamus doyle south american recordings"
+    "seamus doyle south american recordings",
+    "traditional music and spoken word card catalog"
    ],
-   "score": 9.926767,
+   "score": 9.928294,
    "shelf_id": "AFS Number: AFS 05726 B01",
    "subject": [
     "card catalogs"
@@ -1210,8 +1210,8 @@
     "spanish"
    ],
    "location": [
-    "santiago",
-    "chile"
+    "chile",
+    "santiago"
    ],
    "mime_type": [
     "image/jpeg",
@@ -1227,11 +1227,11 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "traditional music and spoken word card catalog",
     "american folklife center",
-    "seamus doyle south american recordings"
+    "seamus doyle south american recordings",
+    "traditional music and spoken word card catalog"
    ],
-   "score": 9.926767,
+   "score": 9.928294,
    "shelf_id": "AFS Number: AFS 05726 B02",
    "subject": [
     "card catalogs"
@@ -1275,8 +1275,8 @@
     "spanish"
    ],
    "location": [
-    "santiago",
-    "chile"
+    "chile",
+    "santiago"
    ],
    "mime_type": [
     "image/jpeg",
@@ -1292,11 +1292,11 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "traditional music and spoken word card catalog",
     "american folklife center",
-    "seamus doyle south american recordings"
+    "seamus doyle south american recordings",
+    "traditional music and spoken word card catalog"
    ],
-   "score": 9.926767,
+   "score": 9.928294,
    "shelf_id": "AFS Number: AFS 05727 A01",
    "subject": [
     "card catalogs"
@@ -1340,8 +1340,8 @@
     "spanish"
    ],
    "location": [
-    "santiago",
-    "chile"
+    "chile",
+    "santiago"
    ],
    "mime_type": [
     "image/jpeg",
@@ -1357,11 +1357,11 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "traditional music and spoken word card catalog",
     "american folklife center",
-    "seamus doyle south american recordings"
+    "seamus doyle south american recordings",
+    "traditional music and spoken word card catalog"
    ],
-   "score": 9.926767,
+   "score": 9.928294,
    "shelf_id": "AFS Number: AFS 05727 A02",
    "subject": [
     "card catalogs"
@@ -1457,5 +1457,5 @@
    "url": "https://www.loc.gov/resource/jukebox-202095.1"
   }
  ],
- "timestamp": 1791373389780
+ "timestamp": 1791463474989
 }

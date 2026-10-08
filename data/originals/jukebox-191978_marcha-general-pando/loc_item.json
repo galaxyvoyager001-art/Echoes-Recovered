@@ -129,8 +129,8 @@
    "summary": "Orchestra"
   },
   "location": [
-   "bolivia",
-   "la paz"
+   "la paz",
+   "bolivia"
   ],
   "locations": [
    {
@@ -202,7 +202,7 @@
    "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
   ],
   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
-  "score": 15.333624,
+  "score": 15.335318,
   "shard": "01",
   "shelf_id": "Victor 69846",
   "site": [
@@ -210,9 +210,9 @@
   ],
   "source_modified": "2000-01-01T12:00:00Z",
   "subject": [
-   "victor",
    "classical music",
    "spanish (bolivia)",
+   "victor",
    "ethnic music",
    "instrumental"
   ],
@@ -318,8 +318,8 @@
     "spanish"
    ],
    "location": [
-    "bolivia",
-    "la paz"
+    "la paz",
+    "bolivia"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -337,20 +337,20 @@
     "Pasacalle"
    ],
    "partof": [
-    "department of special collections, davidson library, university of california, santa barbara",
     "national jukebox",
+    "department of special collections, davidson library, university of california, santa barbara",
     "recorded sound research center"
    ],
-   "score": 43.119194,
+   "score": 43.1333,
    "shelf_id": "Victor 69846",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
     "vocal",
+    "ethnic music",
     "spanish (bolivia)",
-    "victor",
-    "ethnic music"
+    "victor"
    ],
    "timestamp": "2026-10-05T14:02:38.959Z",
    "title": "Se vá y se vá ... !",
@@ -371,8 +371,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "casas romero, luis",
-    "banda del regimiento de infanteria de la habana"
+    "banda del regimiento de infanteria de la habana",
+    "casas romero, luis"
    ],
    "date": "1916-10-25",
    "dates": [
@@ -414,18 +414,18 @@
     "Danzon"
    ],
    "partof": [
-    "department of special collections, davidson library, university of california, santa barbara",
     "national jukebox",
+    "department of special collections, davidson library, university of california, santa barbara",
     "recorded sound research center"
    ],
-   "score": 31.640083,
+   "score": 31.64559,
    "shelf_id": "Victor 69860",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "victor",
     "classical music",
+    "victor",
     "ethnic music",
     "spanish (cuba)",
     "instrumental"
@@ -449,8 +449,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "casas romero, luis",
-    "banda del regimiento de infanteria de la habana"
+    "banda del regimiento de infanteria de la habana",
+    "casas romero, luis"
    ],
    "date": "1916-10-25",
    "dates": [
@@ -492,18 +492,18 @@
     "Danzon"
    ],
    "partof": [
-    "department of special collections, davidson library, university of california, santa barbara",
     "national jukebox",
+    "department of special collections, davidson library, university of california, santa barbara",
     "recorded sound research center"
    ],
-   "score": 31.640083,
+   "score": 31.64559,
    "shelf_id": "Victor 69860",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "victor",
     "classical music",
+    "victor",
     "ethnic music",
     "spanish (cuba)",
     "instrumental"
@@ -527,13 +527,13 @@
    ],
    "campaigns": [],
    "contributor": [
-    "damiano, josé",
-    "dieguez, a.",
-    "arbeloa, p. nolasco",
-    "gaston, l.",
-    "patrian, a.",
     "lombardo, carlo",
-    "rondalla usandizaga"
+    "dieguez, a.",
+    "damiano, josé",
+    "patrian, a.",
+    "rondalla usandizaga",
+    "arbeloa, p. nolasco",
+    "gaston, l."
    ],
    "date": "1917-04-27",
    "dates": [
@@ -556,8 +556,8 @@
    ],
    "index": 4,
    "location": [
-    "argentina",
-    "buenos aires"
+    "buenos aires",
+    "argentina"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -575,18 +575,18 @@
     "Vals"
    ],
    "partof": [
-    "department of special collections, davidson library, university of california, santa barbara",
     "national jukebox",
+    "department of special collections, davidson library, university of california, santa barbara",
     "recorded sound research center"
    ],
-   "score": 31.640083,
+   "score": 31.64559,
    "shelf_id": "Victor 69725",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "victor",
     "classical music",
+    "victor",
     "spanish (argentina)",
     "ethnic music",
     "instrumental"
@@ -610,9 +610,9 @@
    ],
    "campaigns": [],
    "contributor": [
-    "bourdon, rosario",
+    "pacheco, alfredo",
     "victor band",
-    "pacheco, alfredo"
+    "bourdon, rosario"
    ],
    "date": "1917-09-07",
    "dates": [
@@ -636,8 +636,8 @@
    "index": 5,
    "location": [
     "camden",
-    "united states",
-    "new jersey"
+    "new jersey",
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -655,21 +655,21 @@
     "Part 1"
    ],
    "partof": [
-    "department of special collections, davidson library, university of california, santa barbara",
     "national jukebox",
+    "department of special collections, davidson library, university of california, santa barbara",
     "recorded sound research center"
    ],
-   "score": 31.640083,
+   "score": 31.64559,
    "shelf_id": "Victor 69797",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "victor",
-    "spanish (mexico)",
     "classical music",
+    "victor",
     "ethnic music",
-    "instrumental"
+    "instrumental",
+    "spanish (mexico)"
    ],
    "timestamp": "2026-10-05T14:08:54.108Z",
    "title": "Aires andaluces",
@@ -690,9 +690,9 @@
    ],
    "campaigns": [],
    "contributor": [
-    "bourdon, rosario",
+    "pacheco, alfredo",
     "victor band",
-    "pacheco, alfredo"
+    "bourdon, rosario"
    ],
    "date": "1917-09-07",
    "dates": [
@@ -716,8 +716,8 @@
    "index": 6,
    "location": [
     "camden",
-    "united states",
-    "new jersey"
+    "new jersey",
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -732,21 +732,21 @@
     "sound recording"
    ],
    "partof": [
-    "department of special collections, davidson library, university of california, santa barbara",
     "national jukebox",
+    "department of special collections, davidson library, university of california, santa barbara",
     "recorded sound research center"
    ],
-   "score": 31.640083,
+   "score": 31.64559,
    "shelf_id": "Victor 69797",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "victor",
-    "spanish (mexico)",
     "classical music",
+    "victor",
     "ethnic music",
-    "instrumental"
+    "instrumental",
+    "spanish (mexico)"
    ],
    "timestamp": "2026-10-05T14:08:54.108Z",
    "title": "Aires andaluces",
@@ -809,7 +809,7 @@
   "display_level": null,
   "distance": null,
   "downloadOption": null,
-  "duration": 0.5445272922515869,
+  "duration": 0.8065884113311768,
   "embed": [],
   "embed!": [],
   "error_response_status": null,
@@ -968,7 +968,7 @@
   "suggested": null,
   "target": null,
   "template": "layouts/item/layout",
-  "timestamp": 1791377574.3220115,
+  "timestamp": 1791463736.518913,
   "tz_aware": null,
   "unionFacets": "",
   "webcast_permalink": null
@@ -1015,9 +1015,9 @@
     "spanish"
    ],
    "location": [
-    "bolivia",
+    "la paz",
     "chuquisaca",
-    "la paz"
+    "bolivia"
    ],
    "mime_type": [
     "application/zip",
@@ -1042,24 +1042,24 @@
    ],
    "partof": [
     "national library of peru",
-    "world digital library - partner items",
     "world digital library",
+    "world digital library - partner items",
     "catalog"
    ],
-   "score": 11.725817,
+   "score": 11.735035,
    "shelf_id": "http://lccn.loc.gov/2021666910",
    "site": [
     "catalog"
    ],
    "subject": [
     "statutes and codes",
-    "catholic church",
-    "la paz",
-    "missions",
     "chuquisaca",
+    "la paz",
+    "bolivia",
     "memory of the world",
-    "franciscans",
-    "bolivia"
+    "catholic church",
+    "missions",
+    "franciscans"
    ],
    "timestamp": "2022-09-11T21:18:51.620Z",
    "title": "Constitutions of the Province of San Antonio de los Charcas Issued and Received in the Provincial Chapter Celebrated in the Convent of Saint Francis of the City of La Paz.",
@@ -1113,9 +1113,9 @@
     "english"
    ],
    "location": [
-    "victor",
     "iowa",
-    "united states"
+    "united states",
+    "victor"
    ],
    "mime_type": [
     "image/gif",
@@ -1134,29 +1134,29 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "lot 14058",
     "prints & photographs online catalog (library of congress)",
     "miscellaneous items in high demand",
-    "catalog",
-    "prints and photographs division"
+    "prints and photographs division",
+    "lot 14058",
+    "catalog"
    ],
-   "score": 9.757024,
+   "score": 9.75644,
    "shelf_id": "LOT 14058, no. 123 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "schools",
     "victor",
+    "photographic postcards",
     "school children",
+    "victor (iowa)",
     "photographic prints",
     "group portraits",
+    "schools",
     "panoramic postcards",
-    "victor (iowa)",
-    "united states",
     "iowa",
-    "photographic postcards"
+    "united states"
    ],
    "timestamp": "2022-05-02T06:13:36.448Z",
    "title": "[Victor High School, Victor, Iowa]",
@@ -1174,8 +1174,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "detroit publishing co.",
-    "jackson, william henry"
+    "jackson, william henry",
+    "detroit publishing co."
    ],
    "date": "1900-01-01",
    "dates": [
@@ -1207,9 +1207,9 @@
     "english"
    ],
    "location": [
-    "victor",
+    "colorado",
     "united states",
-    "colorado"
+    "victor"
    ],
    "mime_type": [
     "image/gif",
@@ -1220,8 +1220,8 @@
     "2016808865",
     "http://www.loc.gov/item/2016808865",
     "http://www.loc.gov/item/det1994014825/pp",
-    "http://www.loc.gov/item/20110612",
-    "2017-10-30t13:04:57"
+    "2017-10-30t13:04:57",
+    "http://www.loc.gov/item/20110612"
    ],
    "online_format": [
     "image"
@@ -1231,24 +1231,24 @@
    ],
    "partof": [
     "prints & photographs online catalog (library of congress)",
-    "american memory",
+    "prints and photographs division",
     "detroit publishing company",
     "catalog",
-    "prints and photographs division"
+    "american memory"
    ],
-   "score": 9.757024,
+   "score": 9.75644,
    "shelf_id": "LC-D4-13841 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
+    "colorado",
+    "dry plate negatives",
+    "gold mining",
     "victor",
     "cityscape photographs",
-    "colorado",
-    "gold mining",
-    "united states",
-    "dry plate negatives"
+    "united states"
    ],
    "timestamp": "2022-04-25T08:19:00.040Z",
    "title": "Victor, Colo., and the Gold Coin Mine",
@@ -1297,9 +1297,9 @@
     "english"
    ],
    "location": [
-    "victor",
     "united states",
-    "montana"
+    "montana",
+    "victor"
    ],
    "mime_type": [
     "image/gif",
@@ -1307,10 +1307,10 @@
     "image/tif"
    ],
    "number": [
-    "sheet",
-    "2024689882",
     "http://www.loc.gov/item/23570952",
-    "2024-02-21t08:57:11"
+    "2024-02-21t08:57:11",
+    "2024689882",
+    "sheet"
    ],
    "online_format": [
     "image"
@@ -1319,22 +1319,22 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "catalog",
-    "prints and photographs division"
+    "prints and photographs division",
+    "catalog"
    ],
-   "score": 9.757024,
+   "score": 9.75644,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 1 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
+    "photographs",
     "victor",
     "streets",
-    "photographs",
+    "montana",
     "postcards",
-    "united states",
-    "montana"
+    "united states"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "Main Street, Victor, Montana",
@@ -1386,9 +1386,9 @@
     "english"
    ],
    "location": [
-    "victor",
     "united states",
-    "montana"
+    "montana",
+    "victor"
    ],
    "mime_type": [
     "image/gif",
@@ -1396,10 +1396,10 @@
     "image/tif"
    ],
    "number": [
-    "sheet",
     "2024-02-21t08:57:12",
+    "http://www.loc.gov/item/23570953",
     "2024689883",
-    "http://www.loc.gov/item/23570953"
+    "sheet"
    ],
    "online_format": [
     "image"
@@ -1408,21 +1408,21 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "catalog",
-    "prints and photographs division"
+    "prints and photographs division",
+    "catalog"
    ],
-   "score": 9.757024,
+   "score": 9.75644,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 2 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "victor",
     "photographs",
+    "victor",
+    "montana",
     "postcards",
-    "united states",
-    "montana"
+    "united states"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "The snow-capped peak of St. Mory's, Victor, Montana",
@@ -1474,9 +1474,9 @@
     "english"
    ],
    "location": [
-    "victor",
     "united states",
-    "montana"
+    "montana",
+    "victor"
    ],
    "mime_type": [
     "image/gif",
@@ -1484,10 +1484,10 @@
     "image/tif"
    ],
    "number": [
-    "sheet",
     "2024-02-21t08:57:12",
     "2024689884",
-    "http://www.loc.gov/item/23570954"
+    "http://www.loc.gov/item/23570954",
+    "sheet"
    ],
    "online_format": [
     "image"
@@ -1496,22 +1496,22 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "catalog",
-    "prints and photographs division"
+    "prints and photographs division",
+    "catalog"
    ],
-   "score": 9.757024,
+   "score": 9.75644,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 3 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
+    "photographs",
     "victor",
     "houses",
-    "photographs",
+    "montana",
     "postcards",
-    "united states",
-    "montana"
+    "united states"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "A Bitter Root home, Victor, Montana",
@@ -1590,5 +1590,5 @@
    "url": "https://www.loc.gov/resource/jukebox-191978.1"
   }
  ],
- "timestamp": 1791377574867
+ "timestamp": 1791463737325
 }

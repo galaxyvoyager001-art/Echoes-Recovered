@@ -218,7 +218,7 @@
    "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
   ],
   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
-  "score": 15.75856,
+  "score": 15.760971,
   "shard": "01",
   "shelf_id": "",
   "site": [
@@ -273,13 +273,13 @@
    ],
    "campaigns": [],
    "contributor": [
+    "pettorossi, horacio",
     "loduca, vicente",
     "gardel, carlos",
     "orquesta tipica loduca-fresedo",
-    "fresedo, osvaldo",
-    "pettorossi, horacio",
+    "razzano, josé",
     "riverol, ignacio",
-    "razzano, josé"
+    "fresedo, osvaldo"
    ],
    "date": "1917-05-12",
    "dates": [
@@ -331,17 +331,17 @@
     "recorded sound research center",
     "johnson victrola museum, delaware"
    ],
-   "score": 57.373604,
+   "score": 57.387024,
    "shelf_id": "Victor 72245",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "spanish (argentina)",
-    "ethnic music",
-    "vocal",
     "victor",
-    "popular music"
+    "popular music",
+    "vocal",
+    "ethnic music",
+    "spanish (argentina)"
    ],
    "timestamp": "2026-10-05T14:02:38.959Z",
    "title": "Amargura",
@@ -415,17 +415,17 @@
     "recorded sound research center",
     "johnson victrola museum, delaware"
    ],
-   "score": 42.03389,
+   "score": 42.041733,
    "shelf_id": "Victor 69821",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "spanish (argentina)",
-    "ethnic music",
-    "vocal",
     "victor",
-    "popular music"
+    "popular music",
+    "vocal",
+    "ethnic music",
+    "spanish (argentina)"
    ],
    "timestamp": "2026-10-05T14:02:38.959Z",
    "title": "La tucumana",
@@ -500,17 +500,17 @@
     "recorded sound research center",
     "johnson victrola museum, delaware"
    ],
-   "score": 42.03389,
+   "score": 42.041733,
    "shelf_id": "Victor 72245",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "spanish (argentina)",
-    "ethnic music",
-    "vocal",
     "victor",
-    "popular music"
+    "popular music",
+    "vocal",
+    "ethnic music",
+    "spanish (argentina)"
    ],
    "timestamp": "2026-10-05T14:02:38.959Z",
    "title": "La mariposa",
@@ -530,12 +530,12 @@
    ],
    "campaigns": [],
    "contributor": [
-    "bianco, francisco n.",
-    "nocera netto, domingo",
-    "orquesta típica eduardo arolas",
-    "arolas, eduardo",
     "lombardo, c.",
+    "nocera netto, domingo",
     "ricardi, l.",
+    "bianco, francisco n.",
+    "arolas, eduardo",
+    "orquesta típica eduardo arolas",
     "tuegolo, r."
    ],
    "date": "1917-05-15",
@@ -588,17 +588,17 @@
     "recorded sound research center",
     "johnson victrola museum, delaware"
    ],
-   "score": 33.54781,
+   "score": 33.552734,
    "shelf_id": "Victor 72239",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "spanish (argentina)",
-    "ethnic music",
-    "vocal",
     "victor",
-    "popular music"
+    "popular music",
+    "vocal",
+    "ethnic music",
+    "spanish (argentina)"
    ],
    "timestamp": "2026-10-05T14:04:22.786Z",
    "title": "Dolorido",
@@ -671,7 +671,7 @@
     "recorded sound research center",
     "johnson victrola museum, delaware"
    ],
-   "score": 33.54781,
+   "score": 33.552734,
    "shelf_id": "Victor 69726",
    "site": [
     "nationaljukebox"
@@ -751,17 +751,17 @@
     "recorded sound research center",
     "johnson victrola museum, delaware"
    ],
-   "score": 33.54781,
+   "score": 33.552734,
    "shelf_id": "Victor 69726",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "spanish (argentina)",
-    "ethnic music",
-    "vocal",
     "victor",
-    "popular music"
+    "popular music",
+    "vocal",
+    "ethnic music",
+    "spanish (argentina)"
    ],
    "timestamp": "2026-10-05T14:02:38.959Z",
    "title": "Si no tenis corazón",
@@ -817,7 +817,7 @@
   "display_level": null,
   "distance": null,
   "downloadOption": null,
-  "duration": 1.3429374694824219,
+  "duration": 1.598973274230957,
   "embed": [],
   "embed!": [],
   "error_response_status": null,
@@ -976,7 +976,7 @@
   "suggested": null,
   "target": null,
   "template": "layouts/item/layout",
-  "timestamp": 1791373279.1400416,
+  "timestamp": 1791463441.6583982,
   "tz_aware": null,
   "unionFacets": "",
   "webcast_permalink": null
@@ -1022,9 +1022,9 @@
     "spanish"
    ],
    "location": [
-    "general sarmiento",
+    "buenos aires",
     "argentina",
-    "buenos aires"
+    "general sarmiento"
    ],
    "mime_type": [
     "image/gif",
@@ -1032,8 +1032,8 @@
    ],
    "number": [
     "2022-09-27t11:34:36",
-    "2020717681",
-    "online resource"
+    "online resource",
+    "2020717681"
    ],
    "online_format": [
     "image",
@@ -1043,24 +1043,24 @@
     "book"
    ],
    "partof": [
-    "general collections",
     "open access books",
-    "catalog"
+    "catalog",
+    "general collections"
    ],
-   "score": 9.241953,
+   "score": 9.242178,
    "shelf_id": "HV6433.A72",
    "site": [
     "catalog"
    ],
    "subject": [
-    "deleroni, antonio",
+    "peronism",
     "alianza anticomunista argentina",
-    "politics and government",
-    "general sarmiento (buenos aires, argentina)",
     "arana, nélida",
-    "victims of terrorism",
+    "general sarmiento (buenos aires, argentina)",
+    "politics and government",
     "argentina",
-    "peronism"
+    "deleroni, antonio",
+    "victims of terrorism"
    ],
    "timestamp": "2022-12-10T08:58:41.844Z",
    "title": "La \"depuración\" ideológica del peronismo en General Sarmiento (1973-1974) : una aproximación al proceso represivo durante los años setenta constitucionales a partir del caso de Antonio Tito Deleroni",
@@ -1119,8 +1119,8 @@
    ],
    "number": [
     "2020715213",
-    "2021-06-17t15:35:12",
-    "online resource"
+    "online resource",
+    "2021-06-17t15:35:12"
    ],
    "online_format": [
     "image",
@@ -1130,23 +1130,23 @@
     "book"
    ],
    "partof": [
-    "general collections",
     "open access books",
-    "catalog"
+    "catalog",
+    "general collections"
    ],
-   "score": 9.241953,
+   "score": 9.242178,
    "shelf_id": "PC4874.B8",
    "site": [
     "catalog"
    ],
    "subject": [
     "provincialisms",
-    "dialects",
-    "south america",
-    "grammaticalization",
-    "spanish language",
     "buenos aires",
-    "argentina"
+    "grammaticalization",
+    "argentina",
+    "dialects",
+    "spanish language",
+    "south america"
    ],
    "timestamp": "2022-12-10T08:57:37.226Z",
    "title": "Preterit expansion and perfect demise in Porteño Spanish and beyond : a critical perspective on cognitive grammaticalization theory",
@@ -1215,23 +1215,23 @@
     "book"
    ],
    "partof": [
-    "general collections",
     "open access books",
-    "catalog"
+    "catalog",
+    "general collections"
    ],
-   "score": 9.241953,
+   "score": 9.242178,
    "shelf_id": "HV8179.B8",
    "site": [
     "catalog"
    ],
    "subject": [
-    "history",
     "20th century",
-    "buenos aires (province)",
-    "police",
     "argentina",
+    "police",
     "communists",
-    "intelligence service"
+    "history",
+    "intelligence service",
+    "buenos aires (province)"
    ],
    "timestamp": "2023-02-04T16:46:57.200Z",
    "title": "Lo aparente como real : un análisis del sujeto \"comunista\" en la creación y consolidación del servicio de inteligencia de la policía de la Provincia de Buenos Aires (1930-1962)",
@@ -1249,8 +1249,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "doyle, seamus",
-    "almada, epifanio"
+    "almada, epifanio",
+    "doyle, seamus"
    ],
    "date": "1941",
    "dates": [
@@ -1290,11 +1290,11 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "traditional music and spoken word card catalog",
     "american folklife center",
-    "seamus doyle south american recordings"
+    "seamus doyle south american recordings",
+    "traditional music and spoken word card catalog"
    ],
-   "score": 9.241953,
+   "score": 9.242178,
    "shelf_id": "AFS Number: AFS 05704 A01",
    "subject": [
     "card catalogs"
@@ -1356,11 +1356,11 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "traditional music and spoken word card catalog",
     "american folklife center",
-    "seamus doyle south american recordings"
+    "seamus doyle south american recordings",
+    "traditional music and spoken word card catalog"
    ],
-   "score": 9.241953,
+   "score": 9.242178,
    "shelf_id": "AFS Number: AFS 05704 A02",
    "subject": [
     "card catalogs"
@@ -1422,11 +1422,11 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "traditional music and spoken word card catalog",
     "american folklife center",
-    "seamus doyle south american recordings"
+    "seamus doyle south american recordings",
+    "traditional music and spoken word card catalog"
    ],
-   "score": 9.241953,
+   "score": 9.242178,
    "shelf_id": "AFS Number: AFS 05704 B01",
    "subject": [
     "card catalogs"
@@ -1522,5 +1522,5 @@
    "url": "https://www.loc.gov/resource/jukebox-202073.1"
   }
  ],
- "timestamp": 1791373280483
+ "timestamp": 1791463443257
 }

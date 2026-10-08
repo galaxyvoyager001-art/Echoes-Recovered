@@ -202,7 +202,7 @@
    "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
   ],
   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
-  "score": 15.333624,
+  "score": 15.335318,
   "shard": "01",
   "shelf_id": "Victor 69846",
   "site": [
@@ -210,10 +210,10 @@
   ],
   "source_modified": "2000-01-01T12:00:00Z",
   "subject": [
-   "ethnic music",
-   "vocal",
    "victor",
-   "spanish (bolivia)"
+   "ethnic music",
+   "spanish (bolivia)",
+   "vocal"
   ],
   "subject_category": [
    "vocal"
@@ -282,8 +282,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "aranibar, s.",
     "orquesta salazar",
+    "aranibar, s.",
     "salazar, juan cristin"
    ],
    "date": "1917-07-25",
@@ -327,21 +327,21 @@
     "Marcha"
    ],
    "partof": [
-    "recorded sound research center",
     "national jukebox",
+    "recorded sound research center",
     "department of special collections, davidson library, university of california, santa barbara"
    ],
-   "score": 43.119194,
+   "score": 43.132866,
    "shelf_id": "Victor 69846",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
     "victor",
-    "ethnic music",
-    "instrumental",
     "classical music",
-    "spanish (bolivia)"
+    "spanish (bolivia)",
+    "ethnic music",
+    "instrumental"
    ],
    "timestamp": "2026-10-05T14:02:38.959Z",
    "title": "Marcha General Pando",
@@ -362,12 +362,12 @@
    ],
    "campaigns": [],
    "contributor": [
-    "king, edward t.",
     "rózycki, maryan s.",
     "grabowsky, jan [i.e., františek a. pangrác]",
+    "king, edward t.",
     "shilkret, nathaniel",
-    "rydel, lucjan",
-    "pangrác, františek a."
+    "pangrác, františek a.",
+    "rydel, lucjan"
    ],
    "date": "1919-06-11",
    "dates": [
@@ -413,20 +413,20 @@
     "Kolendy polskie (Christmas carol)"
    ],
    "partof": [
-    "recorded sound research center",
     "national jukebox",
+    "recorded sound research center",
     "department of special collections, davidson library, university of california, santa barbara"
    ],
-   "score": 25.400866,
+   "score": 25.405584,
    "shelf_id": "Victor 72413",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
     "victor",
-    "polish",
-    "ethnic music",
     "vocal",
+    "ethnic music",
+    "polish",
     "religious"
    ],
    "timestamp": "2026-10-05T14:01:15.280Z",
@@ -448,9 +448,9 @@
    ],
    "campaigns": [],
    "contributor": [
-    "zimmermann, fritz",
-    "bourdon, rosario",
     "lapitino, francis j.",
+    "bourdon, rosario",
+    "zimmermann, fritz",
     "huber, ferdinand fürchtegott"
    ],
    "date": "1920-07-12",
@@ -498,20 +498,20 @@
     "The Swiss hunter"
    ],
    "partof": [
-    "recorded sound research center",
     "national jukebox",
+    "recorded sound research center",
     "department of special collections, davidson library, university of california, santa barbara"
    ],
-   "score": 25.400866,
+   "score": 25.405584,
    "shelf_id": "Victor 73080",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "ethnic music",
-    "vocal",
     "victor",
-    "swiss"
+    "ethnic music",
+    "swiss",
+    "vocal"
    ],
    "timestamp": "2026-10-05T14:01:15.280Z",
    "title": "De Gaemsjaeger",
@@ -577,20 +577,20 @@
     "The rye field"
    ],
    "partof": [
-    "recorded sound research center",
     "national jukebox",
+    "recorded sound research center",
     "department of special collections, davidson library, university of california, santa barbara"
    ],
-   "score": 25.400866,
+   "score": 25.405584,
    "shelf_id": "Victor 73152",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
+    "victor",
     "ethnic music",
-    "vocal",
     "russian",
-    "victor"
+    "vocal"
    ],
    "timestamp": "2026-10-05T14:01:15.280Z",
    "title": "Polosinka",
@@ -659,20 +659,20 @@
     "While the train was speeding onward"
    ],
    "partof": [
-    "recorded sound research center",
     "national jukebox",
+    "recorded sound research center",
     "department of special collections, davidson library, university of california, santa barbara"
    ],
-   "score": 25.400866,
+   "score": 25.405584,
    "shelf_id": "Victor 68581",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "ethnic music",
-    "vocal",
     "victor",
-    "italian (neapolitan)"
+    "ethnic music",
+    "italian (neapolitan)",
+    "vocal"
    ],
    "timestamp": "2026-10-05T14:01:15.280Z",
    "title": "Filava filava",
@@ -737,21 +737,21 @@
     "sound recording"
    ],
    "partof": [
-    "recorded sound research center",
     "national jukebox",
+    "recorded sound research center",
     "department of special collections, davidson library, university of california, santa barbara"
    ],
-   "score": 25.400866,
+   "score": 25.405584,
    "shelf_id": "Victor 45197",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "humorous songs",
     "victor",
-    "ethnic music",
+    "ethnic spoken word",
+    "humorous songs",
     "vocal",
-    "ethnic spoken word"
+    "ethnic music"
    ],
    "timestamp": "2026-10-05T14:01:15.280Z",
    "title": "She is my Rosie",
@@ -814,7 +814,7 @@
   "display_level": null,
   "distance": null,
   "downloadOption": null,
-  "duration": 0.9343476295471191,
+  "duration": 0.4204423427581787,
   "embed": [],
   "embed!": [],
   "error_response_status": null,
@@ -973,7 +973,7 @@
   "suggested": null,
   "target": null,
   "template": "layouts/item/layout",
-  "timestamp": 1791377566.217116,
+  "timestamp": 1791463731.5269122,
   "tz_aware": null,
   "unionFacets": "",
   "webcast_permalink": null
@@ -1020,9 +1020,9 @@
     "spanish"
    ],
    "location": [
+    "bolivia",
     "la paz",
-    "chuquisaca",
-    "bolivia"
+    "chuquisaca"
    ],
    "mime_type": [
     "application/zip",
@@ -1031,8 +1031,8 @@
     "image/jp2"
    ],
    "number": [
-    "2021-05-27t08:39:34",
-    "2021666910"
+    "2021666910",
+    "2021-05-27t08:39:34"
    ],
    "online_format": [
     "compressed data",
@@ -1046,25 +1046,25 @@
     "Constitvciones de la provincia de Sant Antonio de los Charcas hechas y recebidas en el capitulo prouincial celebrado en el Conuento de San Francisco dela Ciudad dela Paz"
    ],
    "partof": [
-    "world digital library - partner items",
     "national library of peru",
     "world digital library",
-    "catalog"
+    "catalog",
+    "world digital library - partner items"
    ],
-   "score": 11.725817,
+   "score": 11.735035,
    "shelf_id": "http://lccn.loc.gov/2021666910",
    "site": [
     "catalog"
    ],
    "subject": [
-    "statutes and codes",
-    "missions",
-    "bolivia",
-    "memory of the world",
-    "la paz",
+    "franciscans",
     "catholic church",
     "chuquisaca",
-    "franciscans"
+    "la paz",
+    "memory of the world",
+    "statutes and codes",
+    "bolivia",
+    "missions"
    ],
    "timestamp": "2022-09-11T21:18:51.620Z",
    "title": "Constitutions of the Province of San Antonio de los Charcas Issued and Received in the Provincial Chapter Celebrated in the Convent of Saint Francis of the City of La Paz.",
@@ -1118,9 +1118,9 @@
     "english"
    ],
    "location": [
+    "victor",
     "iowa",
-    "united states",
-    "victor"
+    "united states"
    ],
    "mime_type": [
     "image/gif",
@@ -1128,9 +1128,9 @@
     "image/tif"
    ],
    "number": [
-    "2013-04-03t08:58:59",
+    "2013645043",
     "http://www.loc.gov/item/17665053",
-    "2013645043"
+    "2013-04-03t08:58:59"
    ],
    "online_format": [
     "image"
@@ -1139,29 +1139,29 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "prints & photographs online catalog (library of congress)",
+    "lot 14058",
     "miscellaneous items in high demand",
     "prints and photographs division",
-    "lot 14058",
+    "prints & photographs online catalog (library of congress)",
     "catalog"
    ],
-   "score": 9.757024,
+   "score": 9.75644,
    "shelf_id": "LOT 14058, no. 123 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "photographic postcards",
     "victor",
+    "panoramic postcards",
+    "photographic postcards",
+    "victor (iowa)",
     "group portraits",
     "iowa",
-    "victor (iowa)",
-    "school children",
-    "panoramic postcards",
-    "photographic prints",
+    "schools",
     "united states",
-    "schools"
+    "school children",
+    "photographic prints"
    ],
    "timestamp": "2022-05-02T06:13:36.448Z",
    "title": "[Victor High School, Victor, Iowa]",
@@ -1212,9 +1212,9 @@
     "english"
    ],
    "location": [
-    "united states",
+    "colorado",
     "victor",
-    "colorado"
+    "united states"
    ],
    "mime_type": [
     "image/gif",
@@ -1222,11 +1222,11 @@
     "image/tif"
    ],
    "number": [
-    "2016808865",
-    "http://www.loc.gov/item/det1994014825/pp",
     "http://www.loc.gov/item/20110612",
+    "http://www.loc.gov/item/det1994014825/pp",
     "2017-10-30t13:04:57",
-    "http://www.loc.gov/item/2016808865"
+    "http://www.loc.gov/item/2016808865",
+    "2016808865"
    ],
    "online_format": [
     "image"
@@ -1235,25 +1235,25 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "prints & photographs online catalog (library of congress)",
-    "detroit publishing company",
     "prints and photographs division",
+    "prints & photographs online catalog (library of congress)",
     "american memory",
-    "catalog"
+    "catalog",
+    "detroit publishing company"
    ],
-   "score": 9.757024,
+   "score": 9.75644,
    "shelf_id": "LC-D4-13841 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "cityscape photographs",
     "victor",
+    "gold mining",
     "united states",
-    "dry plate negatives",
     "colorado",
-    "gold mining"
+    "dry plate negatives",
+    "cityscape photographs"
    ],
    "timestamp": "2022-04-25T08:19:00.040Z",
    "title": "Victor, Colo., and the Gold Coin Mine",
@@ -1302,9 +1302,9 @@
     "english"
    ],
    "location": [
+    "victor",
     "montana",
-    "united states",
-    "victor"
+    "united states"
    ],
    "mime_type": [
     "image/gif",
@@ -1312,10 +1312,10 @@
     "image/tif"
    ],
    "number": [
-    "http://www.loc.gov/item/23570952",
-    "2024-02-21t08:57:11",
+    "sheet",
     "2024689882",
-    "sheet"
+    "http://www.loc.gov/item/23570952",
+    "2024-02-21t08:57:11"
    ],
    "online_format": [
     "image"
@@ -1324,22 +1324,22 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "prints and photographs division",
-    "catalog"
+    "catalog",
+    "prints and photographs division"
    ],
-   "score": 9.757024,
+   "score": 9.75644,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 1 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "montana",
     "victor",
     "photographs",
-    "postcards",
+    "streets",
+    "montana",
     "united states",
-    "streets"
+    "postcards"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "Main Street, Victor, Montana",
@@ -1391,9 +1391,9 @@
     "english"
    ],
    "location": [
+    "victor",
     "montana",
-    "united states",
-    "victor"
+    "united states"
    ],
    "mime_type": [
     "image/gif",
@@ -1401,9 +1401,9 @@
     "image/tif"
    ],
    "number": [
-    "2024-02-21t08:57:12",
-    "http://www.loc.gov/item/23570953",
     "sheet",
+    "http://www.loc.gov/item/23570953",
+    "2024-02-21t08:57:12",
     "2024689883"
    ],
    "online_format": [
@@ -1413,21 +1413,21 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "prints and photographs division",
-    "catalog"
+    "catalog",
+    "prints and photographs division"
    ],
-   "score": 9.757024,
+   "score": 9.75644,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 2 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "montana",
     "victor",
     "photographs",
-    "postcards",
-    "united states"
+    "montana",
+    "united states",
+    "postcards"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "The snow-capped peak of St. Mory's, Victor, Montana",
@@ -1479,9 +1479,9 @@
     "english"
    ],
    "location": [
+    "victor",
     "montana",
-    "united states",
-    "victor"
+    "united states"
    ],
    "mime_type": [
     "image/gif",
@@ -1489,9 +1489,9 @@
     "image/tif"
    ],
    "number": [
-    "2024-02-21t08:57:12",
     "sheet",
     "2024689884",
+    "2024-02-21t08:57:12",
     "http://www.loc.gov/item/23570954"
    ],
    "online_format": [
@@ -1501,22 +1501,22 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "prints and photographs division",
-    "catalog"
+    "catalog",
+    "prints and photographs division"
    ],
-   "score": 9.757024,
+   "score": 9.75644,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 3 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "montana",
     "victor",
-    "houses",
     "photographs",
-    "postcards",
-    "united states"
+    "houses",
+    "montana",
+    "united states",
+    "postcards"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "A Bitter Root home, Victor, Montana",
@@ -1595,5 +1595,5 @@
    "url": "https://www.loc.gov/resource/jukebox-191950.1"
   }
  ],
- "timestamp": 1791377567151
+ "timestamp": 1791463731947
 }

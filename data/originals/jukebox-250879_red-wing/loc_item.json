@@ -232,7 +232,7 @@
    "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
   ],
   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
-  "score": 15.455263,
+  "score": 15.45764,
   "shard": "01",
   "shelf_id": "Victor 17233",
   "site": [
@@ -240,10 +240,10 @@
   ],
   "source_modified": "2000-01-01T12:00:00Z",
   "subject": [
-   "victor",
    "popular music",
-   "ethnic characterizations",
-   "vocal"
+   "victor",
+   "vocal",
+   "ethnic characterizations"
   ],
   "subject_category": [
    "vocal"
@@ -308,14 +308,14 @@
    ],
    "campaigns": [],
    "contributor": [
-    "shannon quartet",
-    "baur, franklyn",
-    "james, lewis",
     "chattaway, thurland",
+    "james, lewis",
+    "baur, franklyn",
     "glenn, wilfred",
-    "mills, kerry",
     "prince, charles adams",
-    "shaw, elliott"
+    "shannon quartet",
+    "shaw, elliott",
+    "mills, kerry"
    ],
    "date": "1924-12-31",
    "dates": [
@@ -365,19 +365,19 @@
    ],
    "partof": [
     "recorded sound research center",
-    "recorded sound section, library of congress",
-    "national jukebox"
+    "national jukebox",
+    "recorded sound section, library of congress"
    ],
-   "score": 52.824356,
+   "score": 52.838066,
    "shelf_id": "Victor 17233",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "victor",
     "popular music",
-    "ethnic characterizations",
-    "vocal"
+    "victor",
+    "vocal",
+    "ethnic characterizations"
    ],
    "timestamp": "2026-10-05T14:45:34.182Z",
    "title": "Red Wing",
@@ -398,10 +398,10 @@
    ],
    "campaigns": [],
    "contributor": [
-    "hooley, william f.",
-    "georgia minstrels",
     "dudley, s. h.",
-    "macdonough, harry"
+    "macdonough, harry",
+    "georgia minstrels",
+    "hooley, william f."
    ],
    "date": "1901-01-19",
    "dates": [
@@ -453,19 +453,19 @@
    ],
    "partof": [
     "recorded sound research center",
-    "recorded sound section, library of congress",
-    "national jukebox"
+    "national jukebox",
+    "recorded sound section, library of congress"
    ],
-   "score": 49.618225,
+   "score": 49.631546,
    "shelf_id": "Victor 3040",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
     "popular music",
+    "victor",
     "vocal",
     "ethnic characterizations",
-    "victor",
     "comedies"
    ],
    "timestamp": "2026-10-05T14:22:47.836Z",
@@ -487,13 +487,13 @@
    ],
    "campaigns": [],
    "contributor": [
-    "haydn quartet",
+    "snyder, ted",
+    "bryan, alfred",
     "macdonough, harry",
     "hooley, william f.",
-    "bieling, john h.",
+    "haydn quartet",
     "dudley, s. h.",
-    "bryan, alfred",
-    "snyder, ted"
+    "bieling, john h."
    ],
    "date": "1907-01-14",
    "dates": [
@@ -540,19 +540,19 @@
    ],
    "partof": [
     "recorded sound research center",
-    "recorded sound section, library of congress",
-    "national jukebox"
+    "national jukebox",
+    "recorded sound section, library of congress"
    ],
-   "score": 49.210087,
+   "score": 49.2245,
    "shelf_id": "Victor 5026",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "victor",
     "popular music",
-    "ethnic characterizations",
-    "vocal"
+    "victor",
+    "vocal",
+    "ethnic characterizations"
    ],
    "timestamp": "2026-10-05T13:37:52.153Z",
    "title": "Bonnie Jean",
@@ -573,12 +573,12 @@
    ],
    "campaigns": [],
    "contributor": [
-    "haydn quartet",
     "white, c. a.",
     "macdonough, harry",
     "hooley, william f.",
-    "bieling, john h.",
-    "dudley, s. h."
+    "haydn quartet",
+    "dudley, s. h.",
+    "bieling, john h."
    ],
    "date": "1906-04-23",
    "dates": [
@@ -625,19 +625,19 @@
    ],
    "partof": [
     "recorded sound research center",
-    "recorded sound section, library of congress",
-    "national jukebox"
+    "national jukebox",
+    "recorded sound section, library of congress"
    ],
-   "score": 49.210087,
+   "score": 49.2245,
    "shelf_id": "Victor 4726",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "victor",
     "popular music",
-    "ethnic characterizations",
-    "vocal"
+    "victor",
+    "vocal",
+    "ethnic characterizations"
    ],
    "timestamp": "2026-10-05T13:37:13.240Z",
    "title": "I'se gwine back to Dixie",
@@ -658,14 +658,14 @@
    ],
    "campaigns": [],
    "contributor": [
-    "haydn quartet",
+    "murray, billy",
     "macdonough, harry",
     "hooley, william f.",
-    "bieling, john h.",
+    "haydn quartet",
+    "johnson, j. rosamond",
     "dudley, s. h.",
     "cole, bob",
-    "johnson, j. rosamond",
-    "murray, billy"
+    "bieling, john h."
    ],
    "date": "1908-12-30",
    "dates": [
@@ -712,17 +712,17 @@
    ],
    "partof": [
     "recorded sound research center",
-    "recorded sound section, library of congress",
-    "national jukebox"
+    "national jukebox",
+    "recorded sound section, library of congress"
    ],
-   "score": 49.207954,
+   "score": 49.22298,
    "shelf_id": "Victor 16153",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "victor",
     "popular music",
+    "victor",
     "vocal"
    ],
    "timestamp": "2026-10-05T13:36:09.666Z",
@@ -744,8 +744,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "macdonough, harry",
     "chattaway, thurland",
+    "macdonough, harry",
     "madeira, addison dashiell"
    ],
    "date": "1901-05-02",
@@ -793,19 +793,19 @@
    ],
    "partof": [
     "recorded sound research center",
-    "recorded sound section, library of congress",
-    "national jukebox"
+    "national jukebox",
+    "recorded sound section, library of congress"
    ],
-   "score": 46.204327,
+   "score": 46.217007,
    "shelf_id": "Victor 3308",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "religious",
     "victor",
-    "ethnic characterizations",
-    "vocal"
+    "religious",
+    "vocal",
+    "ethnic characterizations"
    ],
    "timestamp": "2026-10-05T14:23:04.216Z",
    "title": "Little black me",
@@ -869,7 +869,7 @@
   "display_level": null,
   "distance": null,
   "downloadOption": null,
-  "duration": 1.1080658435821533,
+  "duration": 1.6748101711273193,
   "embed": [],
   "embed!": [],
   "error_response_status": null,
@@ -1028,7 +1028,7 @@
   "suggested": null,
   "target": null,
   "template": "layouts/item/layout",
-  "timestamp": 1791372911.4029548,
+  "timestamp": 1791463103.3008182,
   "tz_aware": null,
   "unionFacets": "",
   "webcast_permalink": null
@@ -1045,8 +1045,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "gilson, lottie",
-    "chattaway, thurland"
+    "chattaway, thurland",
+    "gilson, lottie"
    ],
    "date": "1911",
    "dates": [
@@ -1083,11 +1083,11 @@
     "image/jp2"
    ],
    "number": [
-    "http://www.loc.gov/item/musbaseball.100183",
+    "2016571666",
     "http://www.loc.gov/resource/musbaseball.100183.0",
-    "http://www.loc.gov/item/2016571666",
     "2023-10-17t14:05:19",
-    "2016571666"
+    "http://www.loc.gov/item/musbaseball.100183",
+    "http://www.loc.gov/item/2016571666"
    ],
    "online_format": [
     "image",
@@ -1101,16 +1101,16 @@
     "baseball sheet music",
     "music division"
    ],
-   "score": 11.162872,
+   "score": 11.172756,
    "shelf_id": "https://repo.loc.gov/access/public/music/musbaseball-100183/.resource.json",
    "site": [
     "catalog"
    ],
    "subject": [
-    "scores",
     "popular music",
+    "songs with keyboard instrument",
     "vaudeville songs",
-    "songs with keyboard instrument"
+    "scores"
    ],
    "timestamp": "2025-06-26T08:38:25.588Z",
    "title": "Can't you take it back and change it for a boy",
@@ -1129,9 +1129,9 @@
    ],
    "campaigns": [],
    "contributor": [
-    "mills, kerry",
     "leff",
-    "lamb, arthur j."
+    "lamb, arthur j.",
+    "mills, kerry"
    ],
    "date": "1908",
    "dates": [
@@ -1171,18 +1171,18 @@
    "partof": [
     "catalog"
    ],
-   "score": 10.248469,
+   "score": 10.242778,
    "shelf_id": "M1630.2 .M",
    "site": [
     "catalog"
    ],
    "subject": [
-    "scores",
     "popular music",
+    "minstrel music",
     "united states",
     "choruses, secular (men's voices, 4 parts) with piano",
+    "scores",
     "songs",
-    "minstrel music",
     "songs (medium voice) with piano"
    ],
    "timestamp": "2025-11-14T23:28:00.485Z",
@@ -1237,9 +1237,9 @@
     "english"
    ],
    "location": [
-    "iowa",
     "victor",
-    "united states"
+    "united states",
+    "iowa"
    ],
    "mime_type": [
     "image/gif",
@@ -1258,29 +1258,29 @@
     "photo, print, drawing"
    ],
    "partof": [
+    "catalog",
     "prints and photographs division",
     "miscellaneous items in high demand",
-    "catalog",
     "prints & photographs online catalog (library of congress)",
     "lot 14058"
    ],
-   "score": 10.158625,
+   "score": 10.157352,
    "shelf_id": "LOT 14058, no. 123 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "victor (iowa)",
-    "iowa",
-    "panoramic postcards",
-    "photographic prints",
+    "victor",
     "united states",
+    "photographic prints",
     "photographic postcards",
-    "schools",
-    "school children",
+    "iowa",
     "group portraits",
-    "victor"
+    "schools",
+    "panoramic postcards",
+    "school children",
+    "victor (iowa)"
    ],
    "timestamp": "2022-05-02T06:13:36.448Z",
    "title": "[Victor High School, Victor, Iowa]",
@@ -1298,8 +1298,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "jackson, william henry",
-    "detroit publishing co."
+    "detroit publishing co.",
+    "jackson, william henry"
    ],
    "date": "1900-01-01",
    "dates": [
@@ -1331,9 +1331,9 @@
     "english"
    ],
    "location": [
+    "colorado",
     "victor",
-    "united states",
-    "colorado"
+    "united states"
    ],
    "mime_type": [
     "image/gif",
@@ -1341,11 +1341,11 @@
     "image/tif"
    ],
    "number": [
-    "http://www.loc.gov/item/20110612",
     "http://www.loc.gov/item/2016808865",
+    "http://www.loc.gov/item/20110612",
     "http://www.loc.gov/item/det1994014825/pp",
-    "2017-10-30t13:04:57",
-    "2016808865"
+    "2016808865",
+    "2017-10-30t13:04:57"
    ],
    "online_format": [
     "image"
@@ -1354,13 +1354,13 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "prints and photographs division",
-    "american memory",
     "catalog",
-    "prints & photographs online catalog (library of congress)",
-    "detroit publishing company"
+    "prints and photographs division",
+    "detroit publishing company",
+    "american memory",
+    "prints & photographs online catalog (library of congress)"
    ],
-   "score": 10.158625,
+   "score": 10.157352,
    "shelf_id": "LC-D4-13841 [P&P]",
    "site": [
     "pictures",
@@ -1368,11 +1368,11 @@
    ],
    "subject": [
     "victor",
-    "gold mining",
     "united states",
-    "colorado",
     "dry plate negatives",
-    "cityscape photographs"
+    "cityscape photographs",
+    "colorado",
+    "gold mining"
    ],
    "timestamp": "2022-04-25T08:19:00.040Z",
    "title": "Victor, Colo., and the Gold Coin Mine",
@@ -1431,10 +1431,10 @@
     "image/tif"
    ],
    "number": [
-    "2024689882",
-    "http://www.loc.gov/item/23570952",
     "sheet",
-    "2024-02-21t08:57:11"
+    "2024-02-21t08:57:11",
+    "http://www.loc.gov/item/23570952",
+    "2024689882"
    ],
    "online_format": [
     "image"
@@ -1443,22 +1443,22 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "catalog",
-    "prints and photographs division"
+    "prints and photographs division",
+    "catalog"
    ],
-   "score": 10.158625,
+   "score": 10.157352,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 1 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "streets",
-    "united states",
     "montana",
-    "photographs",
+    "victor",
+    "united states",
+    "streets",
     "postcards",
-    "victor"
+    "photographs"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "Main Street, Victor, Montana",
@@ -1520,10 +1520,10 @@
     "image/tif"
    ],
    "number": [
-    "2024-02-21t08:57:12",
-    "2024689883",
     "sheet",
-    "http://www.loc.gov/item/23570953"
+    "2024-02-21t08:57:12",
+    "http://www.loc.gov/item/23570953",
+    "2024689883"
    ],
    "online_format": [
     "image"
@@ -1532,21 +1532,21 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "catalog",
-    "prints and photographs division"
+    "prints and photographs division",
+    "catalog"
    ],
-   "score": 10.158625,
+   "score": 10.157352,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 2 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "united states",
     "montana",
-    "photographs",
+    "victor",
+    "united states",
     "postcards",
-    "victor"
+    "photographs"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "The snow-capped peak of St. Mory's, Victor, Montana",
@@ -1639,5 +1639,5 @@
    "url": "https://www.loc.gov/resource/jukebox-250879.1"
   }
  ],
- "timestamp": 1791372912511
+ "timestamp": 1791463104976
 }

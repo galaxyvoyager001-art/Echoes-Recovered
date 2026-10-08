@@ -133,8 +133,8 @@
    }
   ],
   "location": [
-   "arequipa",
-   "perú"
+   "perú",
+   "arequipa"
   ],
   "locations": [
    {
@@ -204,7 +204,7 @@
    "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
   ],
   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
-  "score": 15.595951,
+  "score": 15.597652,
   "shard": "01",
   "shelf_id": "Victor 72086",
   "site": [
@@ -212,10 +212,10 @@
   ],
   "source_modified": "2000-01-01T12:00:00Z",
   "subject": [
-   "vocal",
-   "ethnic music",
    "popular music",
+   "ethnic music",
    "victor",
+   "vocal",
    "spanish (peru)"
   ],
   "subject_category": [
@@ -291,8 +291,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "cortés, héctor",
-    "carrillo, carmela g."
+    "carrillo, carmela g.",
+    "cortés, héctor"
    ],
    "date": "1917-09-05",
    "dates": [
@@ -320,8 +320,8 @@
     "spanish"
    ],
    "location": [
-    "lima",
-    "perú"
+    "perú",
+    "lima"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -340,20 +340,20 @@
     "Barcarola"
    ],
    "partof": [
-    "national jukebox",
     "johnson victrola museum, delaware",
-    "recorded sound research center"
+    "recorded sound research center",
+    "national jukebox"
    ],
-   "score": 46.339607,
+   "score": 46.34547,
    "shelf_id": "Victor 72457",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "vocal",
-    "ethnic music",
     "popular music",
+    "ethnic music",
     "victor",
+    "vocal",
     "spanish (peru)"
    ],
    "timestamp": "2026-10-05T14:02:38.959Z",
@@ -376,8 +376,8 @@
    "contributor": [
     "hermanas gastelú",
     "gastelú, lucrecia",
-    "gastelú, sinecia",
-    "andrade, oscar"
+    "andrade, oscar",
+    "gastelú, sinecia"
    ],
    "date": "1913-09-05",
    "dates": [
@@ -405,8 +405,8 @@
     "spanish"
    ],
    "location": [
-    "lima",
-    "perú"
+    "perú",
+    "lima"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -424,20 +424,20 @@
     "Vals"
    ],
    "partof": [
-    "national jukebox",
     "johnson victrola museum, delaware",
-    "recorded sound research center"
+    "recorded sound research center",
+    "national jukebox"
    ],
-   "score": 46.339607,
+   "score": 46.34547,
    "shelf_id": "Victor 65631",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "vocal",
-    "ethnic music",
     "popular music",
+    "ethnic music",
     "victor",
+    "vocal",
     "spanish (peru)"
    ],
    "timestamp": "2026-10-05T14:56:02.535Z",
@@ -458,9 +458,9 @@
    ],
    "campaigns": [],
    "contributor": [
-    "espinell, eduardo",
     "suárez, guillermo",
-    "arredondo, justo"
+    "arredondo, justo",
+    "espinell, eduardo"
    ],
    "date": "1913-09-10",
    "dates": [
@@ -488,8 +488,8 @@
     "spanish"
    ],
    "location": [
-    "lima",
-    "perú"
+    "perú",
+    "lima"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -508,20 +508,20 @@
     "Vals cantado"
    ],
    "partof": [
-    "national jukebox",
     "johnson victrola museum, delaware",
-    "recorded sound research center"
+    "recorded sound research center",
+    "national jukebox"
    ],
-   "score": 46.339607,
+   "score": 46.34547,
    "shelf_id": "Victor 67010",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "vocal",
-    "ethnic music",
     "popular music",
+    "ethnic music",
     "victor",
+    "vocal",
     "spanish (peru)"
    ],
    "timestamp": "2026-10-05T14:56:02.535Z",
@@ -542,9 +542,9 @@
    ],
    "campaigns": [],
    "contributor": [
+    "arredondo, justo",
     "espinell, eduardo",
-    "suárez, guillermo",
-    "arredondo, justo"
+    "suárez, guillermo"
    ],
    "date": "1913-09-10",
    "dates": [
@@ -572,8 +572,8 @@
     "spanish"
    ],
    "location": [
-    "lima",
-    "perú"
+    "perú",
+    "lima"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -591,20 +591,20 @@
     "Vals"
    ],
    "partof": [
-    "national jukebox",
     "johnson victrola museum, delaware",
-    "recorded sound research center"
+    "recorded sound research center",
+    "national jukebox"
    ],
-   "score": 46.339607,
+   "score": 46.34547,
    "shelf_id": "Victor 65642",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "vocal",
-    "ethnic music",
     "popular music",
+    "ethnic music",
     "victor",
+    "vocal",
     "spanish (peru)"
    ],
    "timestamp": "2026-10-05T14:56:02.535Z",
@@ -625,9 +625,9 @@
    ],
    "campaigns": [],
    "contributor": [
+    "valenzuela, [?]",
     "espinell, eduardo",
-    "suárez, guillermo",
-    "valenzuela, [?]"
+    "suárez, guillermo"
    ],
    "date": "1913-09-10",
    "dates": [
@@ -655,8 +655,8 @@
     "spanish"
    ],
    "location": [
-    "lima",
-    "perú"
+    "perú",
+    "lima"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -674,20 +674,20 @@
     "Mazurka"
    ],
    "partof": [
-    "national jukebox",
     "johnson victrola museum, delaware",
-    "recorded sound research center"
+    "recorded sound research center",
+    "national jukebox"
    ],
-   "score": 46.339607,
+   "score": 46.34547,
    "shelf_id": "Victor 65815",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "vocal",
-    "ethnic music",
     "popular music",
+    "ethnic music",
     "victor",
+    "vocal",
     "spanish (peru)"
    ],
    "timestamp": "2026-10-05T14:56:02.535Z",
@@ -708,8 +708,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "ramírez y monteblanco",
-    "arredondo, justo"
+    "arredondo, justo",
+    "ramírez y monteblanco"
    ],
    "date": "1913-09-11",
    "dates": [
@@ -737,8 +737,8 @@
     "spanish"
    ],
    "location": [
-    "lima",
-    "perú"
+    "perú",
+    "lima"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -756,20 +756,20 @@
     "Vals"
    ],
    "partof": [
-    "national jukebox",
     "johnson victrola museum, delaware",
-    "recorded sound research center"
+    "recorded sound research center",
+    "national jukebox"
    ],
-   "score": 46.339607,
+   "score": 46.34547,
    "shelf_id": "Victor 65643",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "vocal",
-    "ethnic music",
     "popular music",
+    "ethnic music",
     "victor",
+    "vocal",
     "spanish (peru)"
    ],
    "timestamp": "2026-10-05T14:56:02.535Z",
@@ -833,7 +833,7 @@
   "display_level": null,
   "distance": null,
   "downloadOption": null,
-  "duration": 0.8816630840301514,
+  "duration": 1.1346349716186523,
   "embed": [],
   "embed!": [],
   "error_response_status": null,
@@ -992,7 +992,7 @@
   "suggested": null,
   "target": null,
   "template": "layouts/item/layout",
-  "timestamp": 1791377583.239614,
+  "timestamp": 1791463742.627768,
   "tz_aware": null,
   "unionFacets": "",
   "webcast_permalink": null
@@ -1044,8 +1044,8 @@
    ],
    "location": [
     "victor",
-    "iowa",
-    "united states"
+    "united states",
+    "iowa"
    ],
    "mime_type": [
     "image/gif",
@@ -1064,29 +1064,29 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "prints & photographs online catalog (library of congress)",
-    "lot 14058",
     "catalog",
+    "prints and photographs division",
     "miscellaneous items in high demand",
-    "prints and photographs division"
+    "prints & photographs online catalog (library of congress)",
+    "lot 14058"
    ],
-   "score": 9.757024,
+   "score": 9.75644,
    "shelf_id": "LOT 14058, no. 123 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "panoramic postcards",
-    "school children",
+    "victor",
+    "united states",
     "photographic prints",
+    "photographic postcards",
+    "iowa",
     "group portraits",
     "schools",
-    "iowa",
-    "photographic postcards",
-    "united states",
-    "victor (iowa)",
-    "victor"
+    "panoramic postcards",
+    "school children",
+    "victor (iowa)"
    ],
    "timestamp": "2022-05-02T06:13:36.448Z",
    "title": "[Victor High School, Victor, Iowa]",
@@ -1104,8 +1104,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "jackson, william henry",
-    "detroit publishing co."
+    "detroit publishing co.",
+    "jackson, william henry"
    ],
    "date": "1900-01-01",
    "dates": [
@@ -1137,9 +1137,9 @@
     "english"
    ],
    "location": [
+    "colorado",
     "victor",
-    "united states",
-    "colorado"
+    "united states"
    ],
    "mime_type": [
     "image/gif",
@@ -1147,10 +1147,10 @@
     "image/tif"
    ],
    "number": [
-    "http://www.loc.gov/item/20110612",
     "http://www.loc.gov/item/2016808865",
-    "2016808865",
+    "http://www.loc.gov/item/20110612",
     "http://www.loc.gov/item/det1994014825/pp",
+    "2016808865",
     "2017-10-30t13:04:57"
    ],
    "online_format": [
@@ -1160,25 +1160,25 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "prints & photographs online catalog (library of congress)",
-    "american memory",
     "catalog",
+    "prints and photographs division",
     "detroit publishing company",
-    "prints and photographs division"
+    "american memory",
+    "prints & photographs online catalog (library of congress)"
    ],
-   "score": 9.757024,
+   "score": 9.75644,
    "shelf_id": "LC-D4-13841 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
+    "victor",
+    "united states",
+    "dry plate negatives",
     "cityscape photographs",
     "colorado",
-    "dry plate negatives",
-    "gold mining",
-    "united states",
-    "victor"
+    "gold mining"
    ],
    "timestamp": "2022-04-25T08:19:00.040Z",
    "title": "Victor, Colo., and the Gold Coin Mine",
@@ -1227,9 +1227,9 @@
     "english"
    ],
    "location": [
+    "montana",
     "victor",
-    "united states",
-    "montana"
+    "united states"
    ],
    "mime_type": [
     "image/gif",
@@ -1238,9 +1238,9 @@
    ],
    "number": [
     "sheet",
-    "2024689882",
     "2024-02-21t08:57:11",
-    "http://www.loc.gov/item/23570952"
+    "http://www.loc.gov/item/23570952",
+    "2024689882"
    ],
    "online_format": [
     "image"
@@ -1249,22 +1249,22 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "catalog",
-    "prints and photographs division"
+    "prints and photographs division",
+    "catalog"
    ],
-   "score": 9.757024,
+   "score": 9.75644,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 1 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "photographs",
-    "streets",
-    "united states",
     "montana",
+    "victor",
+    "united states",
+    "streets",
     "postcards",
-    "victor"
+    "photographs"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "Main Street, Victor, Montana",
@@ -1316,9 +1316,9 @@
     "english"
    ],
    "location": [
+    "montana",
     "victor",
-    "united states",
-    "montana"
+    "united states"
    ],
    "mime_type": [
     "image/gif",
@@ -1327,9 +1327,9 @@
    ],
    "number": [
     "sheet",
-    "2024689883",
     "2024-02-21t08:57:12",
-    "http://www.loc.gov/item/23570953"
+    "http://www.loc.gov/item/23570953",
+    "2024689883"
    ],
    "online_format": [
     "image"
@@ -1338,21 +1338,21 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "catalog",
-    "prints and photographs division"
+    "prints and photographs division",
+    "catalog"
    ],
-   "score": 9.757024,
+   "score": 9.75644,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 2 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "photographs",
-    "united states",
     "montana",
+    "victor",
+    "united states",
     "postcards",
-    "victor"
+    "photographs"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "The snow-capped peak of St. Mory's, Victor, Montana",
@@ -1404,9 +1404,9 @@
     "english"
    ],
    "location": [
+    "montana",
     "victor",
-    "united states",
-    "montana"
+    "united states"
    ],
    "mime_type": [
     "image/gif",
@@ -1414,10 +1414,10 @@
     "image/tif"
    ],
    "number": [
-    "2024689884",
-    "http://www.loc.gov/item/23570954",
     "sheet",
-    "2024-02-21t08:57:12"
+    "2024-02-21t08:57:12",
+    "2024689884",
+    "http://www.loc.gov/item/23570954"
    ],
    "online_format": [
     "image"
@@ -1426,22 +1426,22 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "catalog",
-    "prints and photographs division"
+    "prints and photographs division",
+    "catalog"
    ],
-   "score": 9.757024,
+   "score": 9.75644,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 3 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "photographs",
-    "houses",
-    "united states",
     "montana",
+    "victor",
+    "united states",
     "postcards",
-    "victor"
+    "houses",
+    "photographs"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "A Bitter Root home, Victor, Montana",
@@ -1493,9 +1493,9 @@
     "english"
    ],
    "location": [
+    "montana",
     "victor",
-    "united states",
-    "montana"
+    "united states"
    ],
    "mime_type": [
     "image/gif",
@@ -1505,8 +1505,8 @@
    "number": [
     "sheet",
     "http://www.loc.gov/item/23570955",
-    "2024689885",
-    "2024-02-21t08:57:13"
+    "2024-02-21t08:57:13",
+    "2024689885"
    ],
    "online_format": [
     "image"
@@ -1515,22 +1515,22 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "catalog",
-    "prints and photographs division"
+    "prints and photographs division",
+    "catalog"
    ],
-   "score": 9.757024,
+   "score": 9.75644,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 4 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "photographs",
-    "schools",
-    "united states",
     "montana",
+    "victor",
+    "united states",
     "postcards",
-    "victor"
+    "schools",
+    "photographs"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "School house, Victor, Mont.",
@@ -1623,5 +1623,5 @@
    "url": "https://www.loc.gov/resource/jukebox-192010.1"
   }
  ],
- "timestamp": 1791377584121
+ "timestamp": 1791463743762
 }
