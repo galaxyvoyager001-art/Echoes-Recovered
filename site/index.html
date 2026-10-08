@@ -271,6 +271,7 @@ section.about p { margin: 0; font-size: 0.93rem; }
 <script>
 (() => {
   const D = window.STM, B = window.STM_BASE, S = D.songs, M = D.map;
+  const U = p => /^https?:/.test(p) ? p : B + p, EXT = p => /^https?:/.test(p) ? " (GitHub)" : "";
   const NS = "http://www.w3.org/2000/svg";
   const $ = id => document.getElementById(id);
   const el = (tag, attrs = {}, parent) => { const e = document.createElementNS(NS, tag); for (const k in attrs) e.setAttribute(k, attrs[k]); if (parent) parent.appendChild(e); return e; };
@@ -466,11 +467,12 @@ section.about p { margin: 0; font-size: 0.93rem; }
         <div class="metric"><b>${m.band[0]}–${m.band[1]} Hz</b><span>band with music</span></div>
       </div>
       <div class="links">
-        <a href="${B}${s.audio.ab}" target="_blank" rel="noopener">A/B passages</a>
-        <a href="${B}${s.audio.removed}" target="_blank" rel="noopener">What was removed</a>
-        <a href="${B}${s.log}" target="_blank" rel="noopener">Restoration log</a>
+        <a href="${U(s.audio.ab)}" target="_blank" rel="noopener">A/B passages${EXT(s.audio.ab)}</a>
+        <a href="${U(s.audio.removed)}" target="_blank" rel="noopener">What was removed${EXT(s.audio.removed)}</a>
+        <a href="${U(s.log)}" target="_blank" rel="noopener">Restoration log${EXT(s.log)}</a>
+        ${/^https?:/.test(s.img.spectrogram) ? `<a href="${s.img.spectrogram}" target="_blank" rel="noopener">Spectrogram (GitHub)</a>` : ""}
       </div>
-      <details class="spec"><summary>Spectrogram, original and restored</summary><img loading="lazy" src="${B}${s.img.spectrogram}" alt="Spectrogram of original and restored audio"></details>
+      ${/^https?:/.test(s.img.spectrogram) ? "" : `<details class="spec"><summary>Spectrogram, original and restored</summary><img loading="lazy" src="${B}${s.img.spectrogram}" alt="Spectrogram of original and restored audio"></details>`}
       ${window.STM_WEBCOPY ? `<div class="rights">This hosted copy plays ${window.STM_WEBCOPY} web copies of both versions, encoded with identical settings. The exact LoC files and full-quality restorations are in the project repository.</div>` : ""}
       <div class="rights">${esc(s.rights)}. ${!s.us ? "Recorded outside the US: only the US status was assessed. " : ""}${esc(s.credit)} ${m.replaced_pct}% of samples were interpolated across clicks; everything else is the original signal, filtered.</div>`;
     wirePlayers();
