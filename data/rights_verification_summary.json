@@ -757,5 +757,401 @@
    "Evidence of publication: transfer is from an issued Victor disc (catalog no. 72086 in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
    "access_restricted = false and LoC offers the WAV/MP3 files for download."
   ]
+ },
+ {
+  "id": "jukebox-673150",
+  "slug": "jukebox-673150_casey-jones",
+  "cleared": true,
+  "reasons": [
+   "Rights & Access text states that recordings published between 1923 and 1946 are protected for 100 years. Recorded 1924-03-07; first publication by 31 Dec 1925 at the latest means the term ended 31 Dec 2025, so it is public domain as of 2026-10-08.",
+   "Assumption: the disc was first issued no later than 1925 (LoC does not give issue dates; Victor and Columbia normally issued within months of recording). This is the main residual uncertainty for 1922-1925 items.",
+   "Evidence of publication: transfer is from an issued Columbia disc (catalog no. 113D in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ]
+ },
+ {
+  "id": "jukebox-673240",
+  "slug": "jukebox-673240_rock-all-our-babies-to-sleep",
+  "cleared": true,
+  "reasons": [
+   "Rights & Access text states that recordings published between 1923 and 1946 are protected for 100 years. Recorded 1924-03-08; first publication by 31 Dec 1925 at the latest means the term ended 31 Dec 2025, so it is public domain as of 2026-10-08.",
+   "Assumption: the disc was first issued no later than 1925 (LoC does not give issue dates; Victor and Columbia normally issued within months of recording). This is the main residual uncertainty for 1922-1925 items.",
+   "Evidence of publication: transfer is from an issued Columbia disc (catalog no. 107D in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ]
+ },
+ {
+  "id": "jukebox-673238",
+  "slug": "jukebox-673238_strawberries",
+  "cleared": true,
+  "reasons": [
+   "Rights & Access text states that recordings published between 1923 and 1946 are protected for 100 years. Recorded 1924-03-08; first publication by 31 Dec 1925 at the latest means the term ended 31 Dec 2025, so it is public domain as of 2026-10-08.",
+   "Assumption: the disc was first issued no later than 1925 (LoC does not give issue dates; Victor and Columbia normally issued within months of recording). This is the main residual uncertainty for 1922-1925 items.",
+   "Evidence of publication: transfer is from an issued Columbia disc (catalog no. 220D in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ]
+ },
+ {
+  "id": "jukebox-675275",
+  "slug": "jukebox-675275_when-my-sugar-walks-down-the-street",
+  "cleared": true,
+  "reasons": [
+   "Rights & Access text states that recordings published between 1923 and 1946 are protected for 100 years. Recorded 1925-01-28; first publication by 31 Dec 1925 at the latest means the term ended 31 Dec 2025, so it is public domain as of 2026-10-08.",
+   "Assumption: the disc was first issued no later than 1925 (LoC does not give issue dates; Victor and Columbia normally issued within months of recording). This is the main residual uncertainty for 1922-1925 items.",
+   "Evidence of publication: transfer is from an issued Columbia disc (catalog no. 305D in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ]
+ },
+ {
+  "id": "jukebox-334419",
+  "slug": "jukebox-334419_rip-saw-blues",
+  "cleared": true,
+  "reasons": [
+   "Rights & Access text states that recordings published between 1923 and 1946 are protected for 100 years. Recorded 1924-06-18; first publication by 31 Dec 1925 at the latest means the term ended 31 Dec 2025, so it is public domain as of 2026-10-08.",
+   "Assumption: the disc was first issued no later than 1925 (LoC does not give issue dates; Victor and Columbia normally issued within months of recording). This is the main residual uncertainty for 1922-1925 items.",
+   "Evidence of publication: transfer is from an issued Victor disc (catalog no. 19398 in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ]
+ },
+ {
+  "id": "jukebox-317560",
+  "slug": "jukebox-317560_frantic",
+  "cleared": true,
+  "reasons": [
+   "Rights & Access text states that recordings published between 1923 and 1946 are protected for 100 years. Recorded 1924-06-20; first publication by 31 Dec 1925 at the latest means the term ended 31 Dec 2025, so it is public domain as of 2026-10-08.",
+   "Assumption: the disc was first issued no later than 1925 (LoC does not give issue dates; Victor and Columbia normally issued within months of recording). This is the main residual uncertainty for 1922-1925 items.",
+   "Evidence of publication: transfer is from an issued Victor disc (catalog no. 19513 in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ]
+ },
+ {
+  "id": "jukebox-339794",
+  "slug": "jukebox-339794_bonnie-sweet-bessie",
+  "cleared": true,
+  "reasons": [
+   "Rights & Access text states that recordings published between 1923 and 1946 are protected for 100 years. Recorded 1925-01-29; first publication by 31 Dec 1925 at the latest means the term ended 31 Dec 2025, so it is public domain as of 2026-10-08.",
+   "Assumption: the disc was first issued no later than 1925 (LoC does not give issue dates; Victor and Columbia normally issued within months of recording). This is the main residual uncertainty for 1922-1925 items.",
+   "Evidence of publication: transfer is from an issued Victor disc (catalog no. 19592 in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ]
+ },
+ {
+  "id": "jukebox-334237",
+  "slug": "jukebox-334237_mandalay",
+  "cleared": true,
+  "reasons": [
+   "Rights & Access text states that recordings published between 1923 and 1946 are protected for 100 years. Recorded 1924-06-13; first publication by 31 Dec 1925 at the latest means the term ended 31 Dec 2025, so it is public domain as of 2026-10-08.",
+   "Assumption: the disc was first issued no later than 1925 (LoC does not give issue dates; Victor and Columbia normally issued within months of recording). This is the main residual uncertainty for 1922-1925 items.",
+   "Evidence of publication: transfer is from an issued Victor disc (catalog no. 19379 in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ]
+ },
+ {
+  "id": "jukebox-334221",
+  "slug": "jukebox-334221_string-beans",
+  "cleared": true,
+  "reasons": [
+   "Rights & Access text states that recordings published between 1923 and 1946 are protected for 100 years. Recorded 1924-06-09; first publication by 31 Dec 1925 at the latest means the term ended 31 Dec 2025, so it is public domain as of 2026-10-08.",
+   "Assumption: the disc was first issued no later than 1925 (LoC does not give issue dates; Victor and Columbia normally issued within months of recording). This is the main residual uncertainty for 1922-1925 items.",
+   "Evidence of publication: transfer is from an issued Victor disc (catalog no. 19379 in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ]
+ },
+ {
+  "id": "jukebox-334250",
+  "slug": "jukebox-334250_g-wan-with-it",
+  "cleared": true,
+  "reasons": [
+   "Rights & Access text states that recordings published between 1923 and 1946 are protected for 100 years. Recorded 1924-06-10; first publication by 31 Dec 1925 at the latest means the term ended 31 Dec 2025, so it is public domain as of 2026-10-08.",
+   "Assumption: the disc was first issued no later than 1925 (LoC does not give issue dates; Victor and Columbia normally issued within months of recording). This is the main residual uncertainty for 1922-1925 items.",
+   "Evidence of publication: transfer is from an issued Victor disc (catalog no. 19399 in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ]
+ },
+ {
+  "id": "jukebox-68432",
+  "slug": "jukebox-68432_blue-grass-blues",
+  "cleared": true,
+  "reasons": [
+   "Rights & Access text states that recordings published between 1923 and 1946 are protected for 100 years. Recorded 1923-11-01; first publication by 31 Dec 1925 at the latest means the term ended 31 Dec 2025, so it is public domain as of 2026-10-08.",
+   "Assumption: the disc was first issued no later than 1925 (LoC does not give issue dates; Victor and Columbia normally issued within months of recording). This is the main residual uncertainty for 1922-1925 items.",
+   "Evidence of publication: transfer is from an issued Victor disc (catalog no. 19237 in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ]
+ },
+ {
+  "id": "jukebox-68428",
+  "slug": "jukebox-68428_rustle-of-spring",
+  "cleared": true,
+  "reasons": [
+   "Rights & Access text states that recordings published between 1923 and 1946 are protected for 100 years. Recorded 1923-10-31; first publication by 31 Dec 1925 at the latest means the term ended 31 Dec 2025, so it is public domain as of 2026-10-08.",
+   "Assumption: the disc was first issued no later than 1925 (LoC does not give issue dates; Victor and Columbia normally issued within months of recording). This is the main residual uncertainty for 1922-1925 items.",
+   "Evidence of publication: transfer is from an issued Victor disc (catalog no. 45389 in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ]
+ },
+ {
+  "id": "jukebox-68425",
+  "slug": "jukebox-68425_festival-overture",
+  "cleared": true,
+  "reasons": [
+   "Rights & Access text states that recordings published between 1923 and 1946 are protected for 100 years. Recorded 1923-10-30; first publication by 31 Dec 1925 at the latest means the term ended 31 Dec 2025, so it is public domain as of 2026-10-08.",
+   "Assumption: the disc was first issued no later than 1925 (LoC does not give issue dates; Victor and Columbia normally issued within months of recording). This is the main residual uncertainty for 1922-1925 items.",
+   "Evidence of publication: transfer is from an issued Victor disc (catalog no. 55202 in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ]
+ },
+ {
+  "id": "jukebox-69781",
+  "slug": "jukebox-69781_in-the-evening",
+  "cleared": true,
+  "reasons": [
+   "Rights & Access text states that recordings published between 1923 and 1946 are protected for 100 years. Recorded 1924-03-27; first publication by 31 Dec 1925 at the latest means the term ended 31 Dec 2025, so it is public domain as of 2026-10-08.",
+   "Assumption: the disc was first issued no later than 1925 (LoC does not give issue dates; Victor and Columbia normally issued within months of recording). This is the main residual uncertainty for 1922-1925 items.",
+   "Evidence of publication: transfer is from an issued Victor disc (catalog no. 19308 in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ]
+ },
+ {
+  "id": "jukebox-69787",
+  "slug": "jukebox-69787_it-s-the-blues",
+  "cleared": true,
+  "reasons": [
+   "Rights & Access text states that recordings published between 1923 and 1946 are protected for 100 years. Recorded 1924-03-27; first publication by 31 Dec 1925 at the latest means the term ended 31 Dec 2025, so it is public domain as of 2026-10-08.",
+   "Assumption: the disc was first issued no later than 1925 (LoC does not give issue dates; Victor and Columbia normally issued within months of recording). This is the main residual uncertainty for 1922-1925 items.",
+   "Evidence of publication: transfer is from an issued Victor disc (catalog no. 19600 in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ]
+ },
+ {
+  "id": "jukebox-69817",
+  "slug": "jukebox-69817_night-hawk-blues",
+  "cleared": true,
+  "reasons": [
+   "Rights & Access text states that recordings published between 1923 and 1946 are protected for 100 years. Recorded 1924-04-05; first publication by 31 Dec 1925 at the latest means the term ended 31 Dec 2025, so it is public domain as of 2026-10-08.",
+   "Assumption: the disc was first issued no later than 1925 (LoC does not give issue dates; Victor and Columbia normally issued within months of recording). This is the main residual uncertainty for 1922-1925 items.",
+   "Evidence of publication: transfer is from an issued Victor disc (catalog no. 19316 in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ]
+ },
+ {
+  "id": "jukebox-69818",
+  "slug": "jukebox-69818_red-hot-mamma",
+  "cleared": true,
+  "reasons": [
+   "Rights & Access text states that recordings published between 1923 and 1946 are protected for 100 years. Recorded 1924-04-06; first publication by 31 Dec 1925 at the latest means the term ended 31 Dec 2025, so it is public domain as of 2026-10-08.",
+   "Assumption: the disc was first issued no later than 1925 (LoC does not give issue dates; Victor and Columbia normally issued within months of recording). This is the main residual uncertainty for 1922-1925 items.",
+   "Evidence of publication: transfer is from an issued Victor disc (catalog no. 19316 in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ]
+ },
+ {
+  "id": "jukebox-70342",
+  "slug": "jukebox-70342_rhapsody-in-blue-part-1",
+  "cleared": true,
+  "reasons": [
+   "Rights & Access text states that recordings published between 1923 and 1946 are protected for 100 years. Recorded 1924-06-10; first publication by 31 Dec 1925 at the latest means the term ended 31 Dec 2025, so it is public domain as of 2026-10-08.",
+   "Assumption: the disc was first issued no later than 1925 (LoC does not give issue dates; Victor and Columbia normally issued within months of recording). This is the main residual uncertainty for 1922-1925 items.",
+   "Evidence of publication: transfer is from an issued Victor disc (catalog no. 55225 in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ]
+ },
+ {
+  "id": "jukebox-670189",
+  "slug": "jukebox-670189_down-hearted-blues",
+  "cleared": true,
+  "reasons": [
+   "Rights & Access text states that recordings published between 1923 and 1946 are protected for 100 years. Recorded 1923-02-15; first publication by 31 Dec 1925 at the latest means the term ended 31 Dec 2025, so it is public domain as of 2026-10-08.",
+   "Assumption: the disc was first issued no later than 1925 (LoC does not give issue dates; Victor and Columbia normally issued within months of recording). This is the main residual uncertainty for 1922-1925 items.",
+   "Evidence of publication: transfer is from an issued Columbia disc (catalog no. A3844 in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ]
+ },
+ {
+  "id": "jukebox-70956",
+  "slug": "jukebox-70956_wreck-of-the-old-97",
+  "cleared": true,
+  "reasons": [
+   "Rights & Access text states that recordings published between 1923 and 1946 are protected for 100 years. Recorded 1924-08-13; first publication by 31 Dec 1925 at the latest means the term ended 31 Dec 2025, so it is public domain as of 2026-10-08.",
+   "Assumption: the disc was first issued no later than 1925 (LoC does not give issue dates; Victor and Columbia normally issued within months of recording). This is the main residual uncertainty for 1922-1925 items.",
+   "Evidence of publication: transfer is from an issued Victor disc (catalog no. 19427 in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ]
+ },
+ {
+  "id": "jukebox-68262",
+  "slug": "jukebox-68262_it-ain-t-gonna-rain-no-mo",
+  "cleared": true,
+  "reasons": [
+   "Rights & Access text states that recordings published between 1923 and 1946 are protected for 100 years. Recorded 1923-10-12; first publication by 31 Dec 1925 at the latest means the term ended 31 Dec 2025, so it is public domain as of 2026-10-08.",
+   "Assumption: the disc was first issued no later than 1925 (LoC does not give issue dates; Victor and Columbia normally issued within months of recording). This is the main residual uncertainty for 1922-1925 items.",
+   "Evidence of publication: transfer is from an issued Victor disc (catalog no. 19171 in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ]
+ },
+ {
+  "id": "jukebox-670477",
+  "slug": "jukebox-670477_yes-we-have-no-bananas",
+  "cleared": true,
+  "reasons": [
+   "Rights & Access text states that recordings published between 1923 and 1946 are protected for 100 years. Recorded 1923-03-31; first publication by 31 Dec 1925 at the latest means the term ended 31 Dec 2025, so it is public domain as of 2026-10-08.",
+   "Assumption: the disc was first issued no later than 1925 (LoC does not give issue dates; Victor and Columbia normally issued within months of recording). This is the main residual uncertainty for 1922-1925 items.",
+   "Evidence of publication: transfer is from an issued Columbia disc (catalog no. A3873 in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ]
+ },
+ {
+  "id": "jukebox-671600",
+  "slug": "jukebox-671600_dicty-blues",
+  "cleared": true,
+  "reasons": [
+   "Rights & Access text states that recordings published between 1923 and 1946 are protected for 100 years. Recorded 1923-09-13; first publication by 31 Dec 1925 at the latest means the term ended 31 Dec 2025, so it is public domain as of 2026-10-08.",
+   "Assumption: the disc was first issued no later than 1925 (LoC does not give issue dates; Victor and Columbia normally issued within months of recording). This is the main residual uncertainty for 1922-1925 items.",
+   "Evidence of publication: transfer is from an issued Columbia disc (catalog no. A3995 in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ]
+ },
+ {
+  "id": "jukebox-674672",
+  "slug": "jukebox-674672_manda",
+  "cleared": true,
+  "reasons": [
+   "Rights & Access text states that recordings published between 1923 and 1946 are protected for 100 years. Recorded 1924-10-07; first publication by 31 Dec 1925 at the latest means the term ended 31 Dec 2025, so it is public domain as of 2026-10-08.",
+   "Assumption: the disc was first issued no later than 1925 (LoC does not give issue dates; Victor and Columbia normally issued within months of recording). This is the main residual uncertainty for 1922-1925 items.",
+   "Evidence of publication: transfer is from an issued Columbia disc (catalog no. 228D in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ]
+ },
+ {
+  "id": "jukebox-675019",
+  "slug": "jukebox-675019_if-i-lose-let-me-lose",
+  "cleared": true,
+  "reasons": [
+   "Rights & Access text states that recordings published between 1923 and 1946 are protected for 100 years. Recorded 1924-12-17; first publication by 31 Dec 1925 at the latest means the term ended 31 Dec 2025, so it is public domain as of 2026-10-08.",
+   "Assumption: the disc was first issued no later than 1925 (LoC does not give issue dates; Victor and Columbia normally issued within months of recording). This is the main residual uncertainty for 1922-1925 items.",
+   "Evidence of publication: transfer is from an issued Columbia disc (catalog no. 14059D in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ]
+ },
+ {
+  "id": "jukebox-671987",
+  "slug": "jukebox-671987_stack-o-lee-blues",
+  "cleared": true,
+  "reasons": [
+   "Rights & Access text states that recordings published between 1923 and 1946 are protected for 100 years. Recorded 1923-10-18; first publication by 31 Dec 1925 at the latest means the term ended 31 Dec 2025, so it is public domain as of 2026-10-08.",
+   "Assumption: the disc was first issued no later than 1925 (LoC does not give issue dates; Victor and Columbia normally issued within months of recording). This is the main residual uncertainty for 1922-1925 items.",
+   "Evidence of publication: transfer is from an issued Columbia disc (catalog no. 32D in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ]
+ },
+ {
+  "id": "jukebox-671959",
+  "slug": "jukebox-671959_sobbin-blues",
+  "cleared": true,
+  "reasons": [
+   "Rights & Access text states that recordings published between 1923 and 1946 are protected for 100 years. Recorded 1923-10-16; first publication by 31 Dec 1925 at the latest means the term ended 31 Dec 2025, so it is public domain as of 2026-10-08.",
+   "Assumption: the disc was first issued no later than 1925 (LoC does not give issue dates; Victor and Columbia normally issued within months of recording). This is the main residual uncertainty for 1922-1925 items.",
+   "Evidence of publication: transfer is from an issued Columbia disc (catalog no. 16D in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ]
+ },
+ {
+  "id": "jukebox-672272",
+  "slug": "jukebox-672272_steppin-out",
+  "cleared": true,
+  "reasons": [
+   "Rights & Access text states that recordings published between 1923 and 1946 are protected for 100 years. Recorded 1923-12-04; first publication by 31 Dec 1925 at the latest means the term ended 31 Dec 2025, so it is public domain as of 2026-10-08.",
+   "Assumption: the disc was first issued no later than 1925 (LoC does not give issue dates; Victor and Columbia normally issued within months of recording). This is the main residual uncertainty for 1922-1925 items.",
+   "Evidence of publication: transfer is from an issued Columbia disc (catalog no. 48D in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ]
+ },
+ {
+  "id": "jukebox-7072",
+  "slug": "jukebox-7072_snobismo",
+  "cleared": true,
+  "reasons": [
+   "Rights & Access text states that recordings published between 1923 and 1946 are protected for 100 years. Recorded 1922-05-20; first publication by 31 Dec 1925 at the latest means the term ended 31 Dec 2025, so it is public domain as of 2026-10-08.",
+   "Assumption: the disc was first issued no later than 1925 (LoC does not give issue dates; Victor and Columbia normally issued within months of recording). This is the main residual uncertainty for 1922-1925 items.",
+   "Evidence of publication: transfer is from an issued Victor disc (catalog no. 73367 in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ]
+ },
+ {
+  "id": "jukebox-7062",
+  "slug": "jukebox-7062_cuando-pas-s-cerca-m-o",
+  "cleared": true,
+  "reasons": [
+   "Rights & Access text states that recordings published between 1923 and 1946 are protected for 100 years. Recorded 1922-03-27; first publication by 31 Dec 1925 at the latest means the term ended 31 Dec 2025, so it is public domain as of 2026-10-08.",
+   "Assumption: the disc was first issued no later than 1925 (LoC does not give issue dates; Victor and Columbia normally issued within months of recording). This is the main residual uncertainty for 1922-1925 items.",
+   "Evidence of publication: transfer is from an issued Victor disc (catalog no. 73324 in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ]
+ },
+ {
+  "id": "jukebox-421918",
+  "slug": "jukebox-421918_el-gaucho-vencido",
+  "cleared": true,
+  "reasons": [
+   "Rights & Access text states that recordings published between 1923 and 1946 are protected for 100 years. Recorded 1922-06-16; first publication by 31 Dec 1925 at the latest means the term ended 31 Dec 2025, so it is public domain as of 2026-10-08.",
+   "Assumption: the disc was first issued no later than 1925 (LoC does not give issue dates; Victor and Columbia normally issued within months of recording). This is the main residual uncertainty for 1922-1925 items.",
+   "Evidence of publication: transfer is from an issued Victor disc (catalog no. 73485 in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ]
+ },
+ {
+  "id": "jukebox-8025",
+  "slug": "jukebox-8025_son-oriental",
+  "cleared": true,
+  "reasons": [
+   "Rights & Access text states that recordings published between 1923 and 1946 are protected for 100 years. Recorded 1923-03-09; first publication by 31 Dec 1925 at the latest means the term ended 31 Dec 2025, so it is public domain as of 2026-10-08.",
+   "Assumption: the disc was first issued no later than 1925 (LoC does not give issue dates; Victor and Columbia normally issued within months of recording). This is the main residual uncertainty for 1922-1925 items.",
+   "Evidence of publication: transfer is from an issued Victor disc (catalog no. 77089 in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ]
+ },
+ {
+  "id": "jukebox-8027",
+  "slug": "jukebox-8027_novia-manzanillera",
+  "cleared": true,
+  "reasons": [
+   "Rights & Access text states that recordings published between 1923 and 1946 are protected for 100 years. Recorded 1923-03-09; first publication by 31 Dec 1925 at the latest means the term ended 31 Dec 2025, so it is public domain as of 2026-10-08.",
+   "Assumption: the disc was first issued no later than 1925 (LoC does not give issue dates; Victor and Columbia normally issued within months of recording). This is the main residual uncertainty for 1922-1925 items.",
+   "Evidence of publication: transfer is from an issued Victor disc (catalog no. 77088 in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ]
+ },
+ {
+  "id": "jukebox-8045",
+  "slug": "jukebox-8045_amar-eso-es-todo",
+  "cleared": true,
+  "reasons": [
+   "Rights & Access text states that recordings published between 1923 and 1946 are protected for 100 years. Recorded 1923-03-15; first publication by 31 Dec 1925 at the latest means the term ended 31 Dec 2025, so it is public domain as of 2026-10-08.",
+   "Assumption: the disc was first issued no later than 1925 (LoC does not give issue dates; Victor and Columbia normally issued within months of recording). This is the main residual uncertainty for 1922-1925 items.",
+   "Evidence of publication: transfer is from an issued Victor disc (catalog no. 73879 in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ]
+ },
+ {
+  "id": "jukebox-8066",
+  "slug": "jukebox-8066_el-limoncito",
+  "cleared": true,
+  "reasons": [
+   "Rights & Access text states that recordings published between 1923 and 1946 are protected for 100 years. Recorded 1923-03-23; first publication by 31 Dec 1925 at the latest means the term ended 31 Dec 2025, so it is public domain as of 2026-10-08.",
+   "Assumption: the disc was first issued no later than 1925 (LoC does not give issue dates; Victor and Columbia normally issued within months of recording). This is the main residual uncertainty for 1922-1925 items.",
+   "Evidence of publication: transfer is from an issued Victor disc (catalog no. 73888 in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ]
+ },
+ {
+  "id": "jukebox-67472",
+  "slug": "jukebox-67472_yes-we-have-no-bananas",
+  "cleared": true,
+  "reasons": [
+   "Rights & Access text states that recordings published between 1923 and 1946 are protected for 100 years. Recorded 1923-07-17; first publication by 31 Dec 1925 at the latest means the term ended 31 Dec 2025, so it is public domain as of 2026-10-08.",
+   "Assumption: the disc was first issued no later than 1925 (LoC does not give issue dates; Victor and Columbia normally issued within months of recording). This is the main residual uncertainty for 1922-1925 items.",
+   "Evidence of publication: transfer is from an issued Victor disc (catalog no. 73980 in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ]
  }
 ]

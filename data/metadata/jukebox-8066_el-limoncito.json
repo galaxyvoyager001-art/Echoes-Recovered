@@ -1,0 +1,114 @@
+{
+ "id": "jukebox-8066",
+ "slug": "jukebox-8066_el-limoncito",
+ "title": "El limoncito",
+ "other_titles": [
+  "Son abajerio",
+  "Son abajeno"
+ ],
+ "performers": [
+  "muñoz, j.",
+  "quiroz y muñoz",
+  "quiroz, salvador"
+ ],
+ "primary_performer": "quiroz y muñoz",
+ "contributors_with_roles": [
+  "Quiroz y Muñoz -- Vocal Group -- Vocal Group",
+  "Muñoz, J. -- Instrumentalist -- Guitar",
+  "Quiroz, Salvador -- Vocalist -- Tenor Vocal",
+  "Muñoz, J. -- Vocalist -- Vocalist"
+ ],
+ "recording_date": "1923-03-23",
+ "year": 1923,
+ "recording_location_loc": [
+  "mexico city",
+  "mexico"
+ ],
+ "recording_city": "Mexico City",
+ "recording_country": "Mexico",
+ "genre_loc": [
+  "Spanish (Mexico)",
+  "Spanish (Cuba)",
+  "Popular music",
+  "Ethnic music"
+ ],
+ "category": "Mexican song",
+ "summary": "Male vocal duet, with guitar",
+ "description": [
+  "Victor 73888. Matrix/Take: G-2977/2."
+ ],
+ "language": [
+  "spanish"
+ ],
+ "matrix": "G-2977 (Matrix ID)",
+ "take": "2",
+ "file_id": "jvm_victor_73888_01_g2977_02",
+ "disc": {
+  "label": "Victor",
+  "catalog_number": "73888",
+  "source_copy_prefix": "jvm"
+ },
+ "source_copy": "Source of original recording: Johnson Victrola Museum, Delaware.",
+ "duration_s": 184.0,
+ "loc_item_url": "https://www.loc.gov/item/jukebox-8066/",
+ "loc_api_url": "https://www.loc.gov/item/jukebox-8066/?fo=json",
+ "loc_files": {
+  "mp3": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/jvm_victor_73888_01_g2977_02/jvm_victor_73888_01_g2977_02.mp3",
+  "wav": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/jvm_victor_73888_01_g2977_02/jvm_victor_73888_01_g2977_02.wav",
+  "label": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73888_01_g2977_02:jvm_victor_73888_01_g2977_02/full/pct:100/0/default.jpg"
+ },
+ "curator_note": "A son abajeño sung by the duo Quiroz y Muñoz with guitar, recorded in Mexico City in March 1923.",
+ "rights": {
+  "checked_utc": "2026-10-08T12:56:24+00:00",
+  "loc_rights_and_access_text": "The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years. In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use. You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law. You may also need permission from holders of other rights, such as publicity and/or privacy rights. Credit Line: Library of Congress, National Jukebox. More about Copyright and other Restrictions . For guidance about compiling full citations consult Citing Primary Sources .",
+  "loc_rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+  "access_restricted": false,
+  "media_player_flags": {
+   "canDownload": true,
+   "rights_restricted": true
+  },
+  "cleared_for_reuse": true,
+  "status": "Public domain in the United States (published 1922-1925; 100-year term ended by 31 Dec 2025; 17 U.S.C. 1401(a)(2)(B)(ii))",
+  "rights_tier": 2,
+  "reasons": [
+   "Rights & Access text states that recordings published between 1923 and 1946 are protected for 100 years. Recorded 1923-03-23; first publication by 31 Dec 1925 at the latest means the term ended 31 Dec 2025, so it is public domain as of 2026-10-08.",
+   "Assumption: the disc was first issued no later than 1925 (LoC does not give issue dates; Victor and Columbia normally issued within months of recording). This is the main residual uncertainty for 1922-1925 items.",
+   "Evidence of publication: transfer is from an issued Victor disc (catalog no. 73888 in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ],
+  "caveats": [
+   "LoC: 'You are responsible for deciding whether your use of the items in this collection is legal.'",
+   "LoC: 'Some materials may be protected under international law.' Public-domain status here is asserted for the United States only.",
+   "Required credit line: 'Library of Congress, National Jukebox.'",
+   "Recorded in Mexico City, Mexico, outside US jurisdiction, and issued on a US label (Victor 73888). The US public-domain status above is the only status assessed here; rights in the country of recording were not separately assessed."
+  ],
+  "credit_line": "Library of Congress, National Jukebox."
+ },
+ "downloads": {
+  "wav": {
+   "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/jvm_victor_73888_01_g2977_02/jvm_victor_73888_01_g2977_02.wav",
+   "file": "data/originals/jukebox-8066_el-limoncito/loc_original.wav",
+   "bytes": 32598860,
+   "sha256": "d15a20af17aff4c74f9cc1496efe700013744d92fc8deb9c9df5b2479d862013"
+  },
+  "mp3": {
+   "url": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/jvm_victor_73888_01_g2977_02/jvm_victor_73888_01_g2977_02.mp3",
+   "file": "data/originals/jukebox-8066_el-limoncito/loc_original.mp3",
+   "bytes": 5915838,
+   "sha256": "a1bb59232d43a67ccecd78a2f0897d74b50c2b53d550a5c0344238976fb3e7ce"
+  },
+  "label": {
+   "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73888_01_g2977_02:jvm_victor_73888_01_g2977_02/full/pct:100/0/default.jpg",
+   "file": "data/originals/jukebox-8066_el-limoncito/loc_label.jpg",
+   "bytes": 683244,
+   "sha256": "c18bddcd3cb44c932734ecf9c68b5ac6b84f59d79c4acea836094dab4d59da85"
+  }
+ },
+ "lossless_copy": {
+  "file": "data/originals/jukebox-8066_el-limoncito/loc_original.flac",
+  "bytes": 14045272,
+  "pcm_md5_wav": "e9d7df1abe15ea709e2f8fc89839d0ef",
+  "pcm_md5_flac": "e9d7df1abe15ea709e2f8fc89839d0ef",
+  "bit_exact": true
+ }
+}

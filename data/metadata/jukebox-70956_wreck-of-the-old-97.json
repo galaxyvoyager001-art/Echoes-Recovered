@@ -1,0 +1,106 @@
+{
+ "id": "jukebox-70956",
+ "slug": "jukebox-70956_wreck-of-the-old-97",
+ "title": "Wreck of the Old 97",
+ "other_titles": [
+  "Mountaineer's song"
+ ],
+ "performers": [
+  "dalhart, vernon",
+  "robison, carson"
+ ],
+ "primary_performer": "dalhart, vernon",
+ "contributors_with_roles": [
+  "Robison, Carson -- Instrumentalist -- Guitar",
+  "Dalhart, Vernon -- Vocalist -- Tenor Vocal"
+ ],
+ "recording_date": "1924-08-13",
+ "year": 1924,
+ "recording_location_loc": [
+  "united states",
+  "new york"
+ ],
+ "recording_city": "New York",
+ "recording_country": "United States",
+ "genre_loc": [
+  "Traditional/Country"
+ ],
+ "category": "Early country music",
+ "summary": "Male vocal solo, with guitar and harmonica",
+ "description": [
+  "Victor 19427. Matrix/Take: B-30632/1."
+ ],
+ "language": [
+  "english"
+ ],
+ "matrix": "B-30632 (Matrix ID)",
+ "take": "1",
+ "file_id": "ucsb_victor_19427_01_b30632_01",
+ "disc": {
+  "label": "Victor",
+  "catalog_number": "19427",
+  "source_copy_prefix": "ucsb"
+ },
+ "source_copy": "Source of original recording: Department of Special Collections, Davidson Library, University of California, Santa Barbara.",
+ "duration_s": 187.0,
+ "loc_item_url": "https://www.loc.gov/item/jukebox-70956/",
+ "loc_api_url": "https://www.loc.gov/item/jukebox-70956/?fo=json",
+ "loc_files": {
+  "mp3": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/ucsb_victor_19427_01_b30632_01/ucsb_victor_19427_01_b30632_01.mp3",
+  "wav": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/ucsb_victor_19427_01_b30632_01/ucsb_victor_19427_01_b30632_01.wav",
+  "label": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19427_01_b30632_01:ucsb_victor_19427_01_b30632_01/full/pct:100/0/default.jpg"
+ },
+ "curator_note": "Vernon Dalhart's 'Wreck of the Old 97' (Victor, 1924), with Carson Robison on guitar, was one of the first country recordings to become a national hit.",
+ "rights": {
+  "checked_utc": "2026-10-08T12:52:53+00:00",
+  "loc_rights_and_access_text": "The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years. In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use. You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law. You may also need permission from holders of other rights, such as publicity and/or privacy rights. Credit Line: Library of Congress, National Jukebox. More about Copyright and other Restrictions . For guidance about compiling full citations consult Citing Primary Sources .",
+  "loc_rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+  "access_restricted": false,
+  "media_player_flags": {
+   "canDownload": true,
+   "rights_restricted": true
+  },
+  "cleared_for_reuse": true,
+  "status": "Public domain in the United States (published 1922-1925; 100-year term ended by 31 Dec 2025; 17 U.S.C. 1401(a)(2)(B)(ii))",
+  "rights_tier": 2,
+  "reasons": [
+   "Rights & Access text states that recordings published between 1923 and 1946 are protected for 100 years. Recorded 1924-08-13; first publication by 31 Dec 1925 at the latest means the term ended 31 Dec 2025, so it is public domain as of 2026-10-08.",
+   "Assumption: the disc was first issued no later than 1925 (LoC does not give issue dates; Victor and Columbia normally issued within months of recording). This is the main residual uncertainty for 1922-1925 items.",
+   "Evidence of publication: transfer is from an issued Victor disc (catalog no. 19427 in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ],
+  "caveats": [
+   "LoC: 'You are responsible for deciding whether your use of the items in this collection is legal.'",
+   "LoC: 'Some materials may be protected under international law.' Public-domain status here is asserted for the United States only.",
+   "Required credit line: 'Library of Congress, National Jukebox.'"
+  ],
+  "credit_line": "Library of Congress, National Jukebox."
+ },
+ "downloads": {
+  "wav": {
+   "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/ucsb_victor_19427_01_b30632_01/ucsb_victor_19427_01_b30632_01.wav",
+   "file": "data/originals/jukebox-70956_wreck-of-the-old-97/loc_original.wav",
+   "bytes": 33020124,
+   "sha256": "d994b48ce11b6fe646cd220be0f86cab1ad8b969ee6c9753b9ccfc46ef0cb7cd"
+  },
+  "mp3": {
+   "url": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/ucsb_victor_19427_01_b30632_01/ucsb_victor_19427_01_b30632_01.mp3",
+   "file": "data/originals/jukebox-70956_wreck-of-the-old-97/loc_original.mp3",
+   "bytes": 2995765,
+   "sha256": "24118b5f9d8b73ffb38582979b56334434b9db24164c428c35bd1994eb9c54b4"
+  },
+  "label": {
+   "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19427_01_b30632_01:ucsb_victor_19427_01_b30632_01/full/pct:100/0/default.jpg",
+   "file": "data/originals/jukebox-70956_wreck-of-the-old-97/loc_label.jpg",
+   "bytes": 50257,
+   "sha256": "0b2d7b0670ef98e6776537256a80b4740031b7910bd562e78a1b49c7f2306071"
+  }
+ },
+ "lossless_copy": {
+  "file": "data/originals/jukebox-70956_wreck-of-the-old-97/loc_original.flac",
+  "bytes": 8686701,
+  "pcm_md5_wav": "8f4678cdcf348fb9ce70f9dbe373890c",
+  "pcm_md5_flac": "8f4678cdcf348fb9ce70f9dbe373890c",
+  "bit_exact": true
+ }
+}

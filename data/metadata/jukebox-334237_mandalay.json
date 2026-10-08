@@ -1,0 +1,112 @@
+{
+ "id": "jukebox-334237",
+ "slug": "jukebox-334237_mandalay",
+ "title": "Mandalay",
+ "other_titles": [
+  "Fox trot"
+ ],
+ "performers": [
+  "arnheim, gus",
+  "art hickman's orchestra",
+  "burtnett, earl",
+  "hickman, art",
+  "lyman, abe"
+ ],
+ "primary_performer": "art hickman's orchestra",
+ "contributors_with_roles": [
+  "Hickman, Art -- Leader -- Leader",
+  "Art Hickman's Orchestra -- Musical Group -- Musical Group",
+  "Burtnett, Earl -- Composer -- Composer",
+  "Burtnett, Earl -- Leader -- Leader",
+  "Lyman, Abe -- Composer -- Composer",
+  "Arnheim, Gus -- Composer -- Composer"
+ ],
+ "recording_date": "1924-06-13",
+ "year": 1924,
+ "recording_location_loc": [
+  "los angeles",
+  "united states",
+  "california"
+ ],
+ "recording_city": "Los Angeles",
+ "recording_country": "United States",
+ "genre_loc": [
+  "Ragtime, jazz, and more"
+ ],
+ "category": "Dance orchestra",
+ "summary": "Jazz/dance band",
+ "description": [
+  "Victor 19379. Matrix/Take: PB-20/4."
+ ],
+ "language": null,
+ "matrix": "PB-20 (Matrix ID)",
+ "take": "4",
+ "file_id": "ucsb_victor_19379_01_pb20_04",
+ "disc": {
+  "label": "Victor",
+  "catalog_number": "19379",
+  "source_copy_prefix": "ucsb"
+ },
+ "source_copy": "Source of original recording: Department of Special Collections, Davidson Library, University of California, Santa Barbara.",
+ "duration_s": 193.0,
+ "loc_item_url": "https://www.loc.gov/item/jukebox-334237/",
+ "loc_api_url": "https://www.loc.gov/item/jukebox-334237/?fo=json",
+ "loc_files": {
+  "mp3": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/ucsb_victor_19379_01_pb20_04/ucsb_victor_19379_01_pb20_04.mp3",
+  "wav": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/ucsb_victor_19379_01_pb20_04/ucsb_victor_19379_01_pb20_04.wav",
+  "label": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19379_01_pb20_04:ucsb_victor_19379_01_pb20_04/full/pct:100/0/default.jpg"
+ },
+ "curator_note": "Art Hickman's Orchestra, a pioneering San Francisco dance band, here led by Earl Burtnett; recorded 'Mandalay' in Los Angeles in June 1924.",
+ "rights": {
+  "checked_utc": "2026-10-08T12:50:32+00:00",
+  "loc_rights_and_access_text": "The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years. In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use. You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law. You may also need permission from holders of other rights, such as publicity and/or privacy rights. Credit Line: Library of Congress, National Jukebox. More about Copyright and other Restrictions . For guidance about compiling full citations consult Citing Primary Sources .",
+  "loc_rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+  "access_restricted": false,
+  "media_player_flags": {
+   "canDownload": true,
+   "rights_restricted": true
+  },
+  "cleared_for_reuse": true,
+  "status": "Public domain in the United States (published 1922-1925; 100-year term ended by 31 Dec 2025; 17 U.S.C. 1401(a)(2)(B)(ii))",
+  "rights_tier": 2,
+  "reasons": [
+   "Rights & Access text states that recordings published between 1923 and 1946 are protected for 100 years. Recorded 1924-06-13; first publication by 31 Dec 1925 at the latest means the term ended 31 Dec 2025, so it is public domain as of 2026-10-08.",
+   "Assumption: the disc was first issued no later than 1925 (LoC does not give issue dates; Victor and Columbia normally issued within months of recording). This is the main residual uncertainty for 1922-1925 items.",
+   "Evidence of publication: transfer is from an issued Victor disc (catalog no. 19379 in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ],
+  "caveats": [
+   "LoC: 'You are responsible for deciding whether your use of the items in this collection is legal.'",
+   "LoC: 'Some materials may be protected under international law.' Public-domain status here is asserted for the United States only.",
+   "Required credit line: 'Library of Congress, National Jukebox.'"
+  ],
+  "credit_line": "Library of Congress, National Jukebox."
+ },
+ "downloads": {
+  "wav": {
+   "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/ucsb_victor_19379_01_pb20_04/ucsb_victor_19379_01_pb20_04.wav",
+   "file": "data/originals/jukebox-334237_mandalay/loc_original.wav",
+   "bytes": 34121916,
+   "sha256": "47d3bbe948ae43b1b47284a7b0e381af510423370f021c86a252b12841d3e89b"
+  },
+  "mp3": {
+   "url": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/ucsb_victor_19379_01_pb20_04/ucsb_victor_19379_01_pb20_04.mp3",
+   "file": "data/originals/jukebox-334237_mandalay/loc_original.mp3",
+   "bytes": 3095657,
+   "sha256": "26d6c172df2eb213607b04e19742b78655e95dfbbbc6efce2792b0d26e6e9efe"
+  },
+  "label": {
+   "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19379_01_pb20_04:ucsb_victor_19379_01_pb20_04/full/pct:100/0/default.jpg",
+   "file": "data/originals/jukebox-334237_mandalay/loc_label.jpg",
+   "bytes": 47130,
+   "sha256": "f3fab6431dc171227781c1ffeec6c1c5977a5d9efcb45aa6ae3fc4c1b62fe01a"
+  }
+ },
+ "lossless_copy": {
+  "file": "data/originals/jukebox-334237_mandalay/loc_original.flac",
+  "bytes": 10602246,
+  "pcm_md5_wav": "3aeff72fe587b3539e60374fcad915f7",
+  "pcm_md5_flac": "3aeff72fe587b3539e60374fcad915f7",
+  "bit_exact": true
+ }
+}

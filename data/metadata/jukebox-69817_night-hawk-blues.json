@@ -1,0 +1,114 @@
+{
+ "id": "jukebox-69817",
+ "slug": "jukebox-69817_night-hawk-blues",
+ "title": "Night hawk blues",
+ "other_titles": [
+  "Fox trot",
+  "Blues de los parranderos"
+ ],
+ "performers": [
+  "coon, carleton a.",
+  "coon-sanders original nighthawk orchestra",
+  "sanders, joe"
+ ],
+ "primary_performer": "coon-sanders original nighthawk orchestra",
+ "contributors_with_roles": [
+  "Coon, Carleton A. -- Vocalist -- Tenor Vocal",
+  "Coon, Carleton A. -- Instrumentalist -- Drums",
+  "Sanders, Joe -- Vocalist -- Tenor Vocal",
+  "Coon-Sanders Original Nighthawk Orchestra -- Musical Group -- Musical Group",
+  "Sanders, Joe -- Instrumentalist -- Piano",
+  "Sanders, Joe -- Composer -- Composer"
+ ],
+ "recording_date": "1924-04-05",
+ "year": 1924,
+ "recording_location_loc": [
+  "missouri",
+  "kansas city",
+  "united states"
+ ],
+ "recording_city": "Kansas City",
+ "recording_country": "United States",
+ "genre_loc": [
+  "Ragtime, jazz, and more",
+  "Blues"
+ ],
+ "category": "Jazz & blues dance band",
+ "summary": "Jazz/dance band, with male vocal duet",
+ "description": [
+  "Victor 19316. Matrix/Take: B-29837/3."
+ ],
+ "language": [
+  "english"
+ ],
+ "matrix": "B-29837 (Matrix ID)",
+ "take": "3",
+ "file_id": "ucsb_victor_19316_01_b29837_03",
+ "disc": {
+  "label": "Victor",
+  "catalog_number": "19316",
+  "source_copy_prefix": "ucsb"
+ },
+ "source_copy": "Source of original recording: Department of Special Collections, Davidson Library, University of California, Santa Barbara.",
+ "duration_s": 172.0,
+ "loc_item_url": "https://www.loc.gov/item/jukebox-69817/",
+ "loc_api_url": "https://www.loc.gov/item/jukebox-69817/?fo=json",
+ "loc_files": {
+  "mp3": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/ucsb_victor_19316_01_b29837_03/ucsb_victor_19316_01_b29837_03.mp3",
+  "wav": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/ucsb_victor_19316_01_b29837_03/ucsb_victor_19316_01_b29837_03.wav",
+  "label": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19316_01_b29837_03:ucsb_victor_19316_01_b29837_03/full/pct:100/0/default.jpg"
+ },
+ "curator_note": "The Coon-Sanders Original Nighthawk Orchestra, famous from late-night radio broadcasts in Kansas City, with vocals by Carleton Coon and Joe Sanders; recorded in Kansas City in April 1924.",
+ "rights": {
+  "checked_utc": "2026-10-08T12:52:06+00:00",
+  "loc_rights_and_access_text": "The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years. In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use. You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law. You may also need permission from holders of other rights, such as publicity and/or privacy rights. Credit Line: Library of Congress, National Jukebox. More about Copyright and other Restrictions . For guidance about compiling full citations consult Citing Primary Sources .",
+  "loc_rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+  "access_restricted": false,
+  "media_player_flags": {
+   "canDownload": true,
+   "rights_restricted": true
+  },
+  "cleared_for_reuse": true,
+  "status": "Public domain in the United States (published 1922-1925; 100-year term ended by 31 Dec 2025; 17 U.S.C. 1401(a)(2)(B)(ii))",
+  "rights_tier": 2,
+  "reasons": [
+   "Rights & Access text states that recordings published between 1923 and 1946 are protected for 100 years. Recorded 1924-04-05; first publication by 31 Dec 1925 at the latest means the term ended 31 Dec 2025, so it is public domain as of 2026-10-08.",
+   "Assumption: the disc was first issued no later than 1925 (LoC does not give issue dates; Victor and Columbia normally issued within months of recording). This is the main residual uncertainty for 1922-1925 items.",
+   "Evidence of publication: transfer is from an issued Victor disc (catalog no. 19316 in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ],
+  "caveats": [
+   "LoC: 'You are responsible for deciding whether your use of the items in this collection is legal.'",
+   "LoC: 'Some materials may be protected under international law.' Public-domain status here is asserted for the United States only.",
+   "Required credit line: 'Library of Congress, National Jukebox.'"
+  ],
+  "credit_line": "Library of Congress, National Jukebox."
+ },
+ "downloads": {
+  "wav": {
+   "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/ucsb_victor_19316_01_b29837_03/ucsb_victor_19316_01_b29837_03.wav",
+   "file": "data/originals/jukebox-69817_night-hawk-blues/loc_original.wav",
+   "bytes": 30383732,
+   "sha256": "124b08e5886fda66131cfdd319f6545920e21f575323ae1b788e4c7742667790"
+  },
+  "mp3": {
+   "url": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/ucsb_victor_19316_01_b29837_03/ucsb_victor_19316_01_b29837_03.mp3",
+   "file": "data/originals/jukebox-69817_night-hawk-blues/loc_original.mp3",
+   "bytes": 2756692,
+   "sha256": "0319794afffe86dc68e8784148ac190871e45e11a4dd11f851414e9291a5bb79"
+  },
+  "label": {
+   "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19316_01_b29837_03:ucsb_victor_19316_01_b29837_03/full/pct:100/0/default.jpg",
+   "file": "data/originals/jukebox-69817_night-hawk-blues/loc_label.jpg",
+   "bytes": 50978,
+   "sha256": "418a5067bf43d2df5a0ebb2b9779b43c058f46771c29e55ff917c3b590cda1f6"
+  }
+ },
+ "lossless_copy": {
+  "file": "data/originals/jukebox-69817_night-hawk-blues/loc_original.flac",
+  "bytes": 9422543,
+  "pcm_md5_wav": "1b6b0928cdf1f408aa591e8ddc242bf4",
+  "pcm_md5_flac": "1b6b0928cdf1f408aa591e8ddc242bf4",
+  "bit_exact": true
+ }
+}

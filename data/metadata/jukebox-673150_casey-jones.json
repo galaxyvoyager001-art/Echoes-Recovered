@@ -1,0 +1,106 @@
+{
+ "id": "jukebox-673150",
+ "slug": "jukebox-673150_casey-jones",
+ "title": "Casey Jones",
+ "other_titles": [],
+ "performers": [
+  "newton, eddie",
+  "puckett, riley",
+  "seibert, t. lawrence"
+ ],
+ "primary_performer": "puckett, riley",
+ "contributors_with_roles": [
+  "Puckett, Riley -- Instrumentalist -- Guitar",
+  "Newton, Eddie -- Composer -- Composer",
+  "Puckett, Riley -- Vocalist -- Vocalist",
+  "Seibert, T. Lawrence -- Lyricist -- Lyricist"
+ ],
+ "recording_date": "1924-03-07",
+ "year": 1924,
+ "recording_location_loc": [
+  "united states",
+  "georgia",
+  "atlanta"
+ ],
+ "recording_city": "Atlanta",
+ "recording_country": "United States",
+ "genre_loc": [],
+ "category": "Early country music",
+ "summary": "Male vocal solo, with guitar",
+ "description": [
+  "Columbia 113-D. Matrix/Take: 81605/1."
+ ],
+ "language": [
+  "english"
+ ],
+ "matrix": "81605 (Matrix ID)",
+ "take": "1",
+ "file_id": "ucsb_col_113d_01_81605_01",
+ "disc": {
+  "label": "Columbia",
+  "catalog_number": "113D",
+  "source_copy_prefix": "ucsb"
+ },
+ "source_copy": "Source of original recording: Department of Special Collections, Davidson Library, University of California, Santa Barbara.",
+ "duration_s": 199.0,
+ "loc_item_url": "https://www.loc.gov/item/jukebox-673150/",
+ "loc_api_url": "https://www.loc.gov/item/jukebox-673150/?fo=json",
+ "loc_files": {
+  "mp3": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/ucsb_col_113d_01_81605_01/ucsb_col_113d_01_81605_01.mp3",
+  "wav": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/ucsb_col_113d_01_81605_01/ucsb_col_113d_01_81605_01.wav",
+  "label": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_113d_01_81605_01:ucsb_col_113d_01_81605_01/full/pct:100/0/default.jpg"
+ },
+ "curator_note": "Riley Puckett, a blind singer and guitarist from Georgia, recorded 'Casey Jones' for Columbia in Atlanta in March 1924, during the early years of commercial country (then 'old-time') recording.",
+ "rights": {
+  "checked_utc": "2026-10-08T12:59:07+00:00",
+  "loc_rights_and_access_text": "The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years. In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use. You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law. You may also need permission from holders of other rights, such as publicity and/or privacy rights. Credit Line: Library of Congress, National Jukebox. More about Copyright and other Restrictions . For guidance about compiling full citations consult Citing Primary Sources .",
+  "loc_rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+  "access_restricted": false,
+  "media_player_flags": {
+   "canDownload": true,
+   "rights_restricted": true
+  },
+  "cleared_for_reuse": true,
+  "status": "Public domain in the United States (published 1922-1925; 100-year term ended by 31 Dec 2025; 17 U.S.C. 1401(a)(2)(B)(ii))",
+  "rights_tier": 2,
+  "reasons": [
+   "Rights & Access text states that recordings published between 1923 and 1946 are protected for 100 years. Recorded 1924-03-07; first publication by 31 Dec 1925 at the latest means the term ended 31 Dec 2025, so it is public domain as of 2026-10-08.",
+   "Assumption: the disc was first issued no later than 1925 (LoC does not give issue dates; Victor and Columbia normally issued within months of recording). This is the main residual uncertainty for 1922-1925 items.",
+   "Evidence of publication: transfer is from an issued Columbia disc (catalog no. 113D in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ],
+  "caveats": [
+   "LoC: 'You are responsible for deciding whether your use of the items in this collection is legal.'",
+   "LoC: 'Some materials may be protected under international law.' Public-domain status here is asserted for the United States only.",
+   "Required credit line: 'Library of Congress, National Jukebox.'"
+  ],
+  "credit_line": "Library of Congress, National Jukebox."
+ },
+ "downloads": {
+  "wav": {
+   "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/ucsb_col_113d_01_81605_01/ucsb_col_113d_01_81605_01.wav",
+   "file": "data/originals/jukebox-673150_casey-jones/loc_original.wav",
+   "bytes": 17621300,
+   "sha256": "b6ae71529aa0665c91d24eb28f5840cc63daddff2d4993681d404686b3dc4203"
+  },
+  "mp3": {
+   "url": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/ucsb_col_113d_01_81605_01/ucsb_col_113d_01_81605_01.mp3",
+   "file": "data/originals/jukebox-673150_casey-jones/loc_original.mp3",
+   "bytes": 6395655,
+   "sha256": "90da80c1752c963eb2d8d5bef705a8d9fca7a71ad853510773443c85395c9df1"
+  },
+  "label": {
+   "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_113d_01_81605_01:ucsb_col_113d_01_81605_01/full/pct:100/0/default.jpg",
+   "file": "data/originals/jukebox-673150_casey-jones/loc_label.jpg",
+   "bytes": 1575002,
+   "sha256": "5bec5c910858a9276596d6ef3bf5806bcc6cecd5eafd17b0e123378f7c876a6a"
+  }
+ },
+ "lossless_copy": {
+  "file": "data/originals/jukebox-673150_casey-jones/loc_original.flac",
+  "bytes": 10946934,
+  "pcm_md5_wav": "cbc804d3cc54d25fa11e4411cd70a8bb",
+  "pcm_md5_flac": "cbc804d3cc54d25fa11e4411cd70a8bb",
+  "bit_exact": true
+ }
+}

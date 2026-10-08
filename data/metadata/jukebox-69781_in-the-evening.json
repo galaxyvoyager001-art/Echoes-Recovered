@@ -1,0 +1,108 @@
+{
+ "id": "jukebox-69781",
+ "slug": "jukebox-69781_in-the-evening",
+ "title": "In the evening",
+ "other_titles": [
+  "Por la noche",
+  "Fox trot"
+ ],
+ "performers": [
+  "donaldson, walter",
+  "goldkette, jean",
+  "jean goldkette orchestra"
+ ],
+ "primary_performer": "jean goldkette orchestra",
+ "contributors_with_roles": [
+  "Goldkette, Jean -- Leader -- Leader",
+  "Donaldson, Walter -- Composer -- Composer",
+  "Jean Goldkette Orchestra -- Musical Group -- Musical Group"
+ ],
+ "recording_date": "1924-03-27",
+ "year": 1924,
+ "recording_location_loc": [
+  "michigan",
+  "detroit",
+  "united states"
+ ],
+ "recording_city": "Detroit",
+ "recording_country": "United States",
+ "genre_loc": [
+  "Ragtime, jazz, and more"
+ ],
+ "category": "Dance orchestra",
+ "summary": "Jazz/dance band",
+ "description": [
+  "Victor 19308. Matrix/Take: B-29807/3."
+ ],
+ "language": null,
+ "matrix": "B-29807 (Matrix ID)",
+ "take": "3",
+ "file_id": "ucsb_victor_19308_01_b29807_03",
+ "disc": {
+  "label": "Victor",
+  "catalog_number": "19308",
+  "source_copy_prefix": "ucsb"
+ },
+ "source_copy": "Source of original recording: Department of Special Collections, Davidson Library, University of California, Santa Barbara.",
+ "duration_s": 187.0,
+ "loc_item_url": "https://www.loc.gov/item/jukebox-69781/",
+ "loc_api_url": "https://www.loc.gov/item/jukebox-69781/?fo=json",
+ "loc_files": {
+  "mp3": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/ucsb_victor_19308_01_b29807_03/ucsb_victor_19308_01_b29807_03.mp3",
+  "wav": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/ucsb_victor_19308_01_b29807_03/ucsb_victor_19308_01_b29807_03.wav",
+  "label": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19308_01_b29807_03:ucsb_victor_19308_01_b29807_03/full/pct:100/0/default.jpg"
+ },
+ "curator_note": "Jean Goldkette's orchestra, the leading Detroit dance band of the 1920s, recorded in Detroit in March 1924.",
+ "rights": {
+  "checked_utc": "2026-10-08T12:51:44+00:00",
+  "loc_rights_and_access_text": "The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years. In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use. You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law. You may also need permission from holders of other rights, such as publicity and/or privacy rights. Credit Line: Library of Congress, National Jukebox. More about Copyright and other Restrictions . For guidance about compiling full citations consult Citing Primary Sources .",
+  "loc_rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+  "access_restricted": false,
+  "media_player_flags": {
+   "canDownload": true,
+   "rights_restricted": true
+  },
+  "cleared_for_reuse": true,
+  "status": "Public domain in the United States (published 1922-1925; 100-year term ended by 31 Dec 2025; 17 U.S.C. 1401(a)(2)(B)(ii))",
+  "rights_tier": 2,
+  "reasons": [
+   "Rights & Access text states that recordings published between 1923 and 1946 are protected for 100 years. Recorded 1924-03-27; first publication by 31 Dec 1925 at the latest means the term ended 31 Dec 2025, so it is public domain as of 2026-10-08.",
+   "Assumption: the disc was first issued no later than 1925 (LoC does not give issue dates; Victor and Columbia normally issued within months of recording). This is the main residual uncertainty for 1922-1925 items.",
+   "Evidence of publication: transfer is from an issued Victor disc (catalog no. 19308 in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ],
+  "caveats": [
+   "LoC: 'You are responsible for deciding whether your use of the items in this collection is legal.'",
+   "LoC: 'Some materials may be protected under international law.' Public-domain status here is asserted for the United States only.",
+   "Required credit line: 'Library of Congress, National Jukebox.'"
+  ],
+  "credit_line": "Library of Congress, National Jukebox."
+ },
+ "downloads": {
+  "wav": {
+   "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/ucsb_victor_19308_01_b29807_03/ucsb_victor_19308_01_b29807_03.wav",
+   "file": "data/originals/jukebox-69781_in-the-evening/loc_original.wav",
+   "bytes": 33149564,
+   "sha256": "bd83e86b64b2f6912b6089af846623008f191d9ba2a396ff2e4815b0543f443d"
+  },
+  "mp3": {
+   "url": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/ucsb_victor_19308_01_b29807_03/ucsb_victor_19308_01_b29807_03.mp3",
+   "file": "data/originals/jukebox-69781_in-the-evening/loc_original.mp3",
+   "bytes": 3007468,
+   "sha256": "ec964b09b9dca0359156423b69368e2fc7c124d032819840e5ce9995c3d031d8"
+  },
+  "label": {
+   "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19308_01_b29807_03:ucsb_victor_19308_01_b29807_03/full/pct:100/0/default.jpg",
+   "file": "data/originals/jukebox-69781_in-the-evening/loc_label.jpg",
+   "bytes": 52811,
+   "sha256": "baec6532dd75bedb711dae4595424519857ed1cb2bf71951db5847bbffd30679"
+  }
+ },
+ "lossless_copy": {
+  "file": "data/originals/jukebox-69781_in-the-evening/loc_original.flac",
+  "bytes": 10202614,
+  "pcm_md5_wav": "ac2597382de7391925967e001aafab6e",
+  "pcm_md5_flac": "ac2597382de7391925967e001aafab6e",
+  "bit_exact": true
+ }
+}

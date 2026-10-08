@@ -1,0 +1,113 @@
+{
+ "id": "jukebox-67472",
+ "slug": "jukebox-67472_yes-we-have-no-bananas",
+ "title": "Yes! We have no bananas",
+ "other_titles": [
+  "Si, noi non abbiamo banane"
+ ],
+ "performers": [
+  "cohn, irving",
+  "levy, ted",
+  "migliaccio, eduardo",
+  "migliaccio, eduardo (\"farfariello\")",
+  "silver, frank"
+ ],
+ "primary_performer": "migliaccio, eduardo (\"farfariello\")",
+ "contributors_with_roles": [
+  "Migliaccio, Eduardo (\"Farfariello\") -- Vocalist -- Baritone Vocal",
+  "Cohn, Irving -- Songwriter -- Songwriter",
+  "Silver, Frank -- Songwriter -- Songwriter",
+  "Levy, Ted -- Conductor -- Conductor",
+  "Migliaccio, Eduardo -- Translator -- Translator"
+ ],
+ "recording_date": "1923-07-17",
+ "year": 1923,
+ "recording_location_loc": [
+  "new jersey",
+  "camden",
+  "united states"
+ ],
+ "recording_city": "Camden",
+ "recording_country": "United States",
+ "genre_loc": [
+  "Italian (Neapolitan)"
+ ],
+ "category": "Italian-American song",
+ "summary": "Male vocal solo, with orchestra",
+ "description": [
+  "Victor 73980. Matrix/Take: B-28195/2."
+ ],
+ "language": [
+  "italian (neapolitan)"
+ ],
+ "matrix": "B-28195 (Matrix ID)",
+ "take": "2",
+ "file_id": "jvm_victor_73980_01_b28195_02",
+ "disc": {
+  "label": "Victor",
+  "catalog_number": "73980",
+  "source_copy_prefix": "jvm"
+ },
+ "source_copy": "Source of original recording: Johnson Victrola Museum, Delaware.",
+ "duration_s": 183.0,
+ "loc_item_url": "https://www.loc.gov/item/jukebox-67472/",
+ "loc_api_url": "https://www.loc.gov/item/jukebox-67472/?fo=json",
+ "loc_files": {
+  "mp3": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/jvm_victor_73980_01_b28195_02/jvm_victor_73980_01_b28195_02.mp3",
+  "wav": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/jvm_victor_73980_01_b28195_02/jvm_victor_73980_01_b28195_02.wav",
+  "label": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73980_01_b28195_02:jvm_victor_73980_01_b28195_02/full/pct:100/0/default.jpg"
+ },
+ "curator_note": "Eduardo Migliaccio ('Farfariello'), the star of Italian-American vaudeville in New York, sings 'Yes! We Have No Bananas' in his own version, recorded in Camden in July 1923.",
+ "rights": {
+  "checked_utc": "2026-10-08T12:56:41+00:00",
+  "loc_rights_and_access_text": "The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years. In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use. You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law. You may also need permission from holders of other rights, such as publicity and/or privacy rights. Credit Line: Library of Congress, National Jukebox. More about Copyright and other Restrictions . For guidance about compiling full citations consult Citing Primary Sources .",
+  "loc_rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+  "access_restricted": false,
+  "media_player_flags": {
+   "canDownload": true,
+   "rights_restricted": true
+  },
+  "cleared_for_reuse": true,
+  "status": "Public domain in the United States (published 1922-1925; 100-year term ended by 31 Dec 2025; 17 U.S.C. 1401(a)(2)(B)(ii))",
+  "rights_tier": 2,
+  "reasons": [
+   "Rights & Access text states that recordings published between 1923 and 1946 are protected for 100 years. Recorded 1923-07-17; first publication by 31 Dec 1925 at the latest means the term ended 31 Dec 2025, so it is public domain as of 2026-10-08.",
+   "Assumption: the disc was first issued no later than 1925 (LoC does not give issue dates; Victor and Columbia normally issued within months of recording). This is the main residual uncertainty for 1922-1925 items.",
+   "Evidence of publication: transfer is from an issued Victor disc (catalog no. 73980 in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ],
+  "caveats": [
+   "LoC: 'You are responsible for deciding whether your use of the items in this collection is legal.'",
+   "LoC: 'Some materials may be protected under international law.' Public-domain status here is asserted for the United States only.",
+   "Required credit line: 'Library of Congress, National Jukebox.'"
+  ],
+  "credit_line": "Library of Congress, National Jukebox."
+ },
+ "downloads": {
+  "wav": {
+   "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/jvm_victor_73980_01_b28195_02/jvm_victor_73980_01_b28195_02.wav",
+   "file": "data/originals/jukebox-67472_yes-we-have-no-bananas/loc_original.wav",
+   "bytes": 32375628,
+   "sha256": "67a60612bf0a994f23a519f283f820b6aea5209d295f59fd599790e85eaa0d8b"
+  },
+  "mp3": {
+   "url": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/jvm_victor_73980_01_b28195_02/jvm_victor_73980_01_b28195_02.mp3",
+   "file": "data/originals/jukebox-67472_yes-we-have-no-bananas/loc_original.mp3",
+   "bytes": 5874878,
+   "sha256": "558f7cf6a4f87aabc66fbde032f41716b8af0caa6c359efeeaebf4bc922da7bf"
+  },
+  "label": {
+   "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73980_01_b28195_02:jvm_victor_73980_01_b28195_02/full/pct:100/0/default.jpg",
+   "file": "data/originals/jukebox-67472_yes-we-have-no-bananas/loc_label.jpg",
+   "bytes": 716122,
+   "sha256": "86866e74414f3db1180701260a04517a2383bff4b0e4d16b71a664c5db160123"
+  }
+ },
+ "lossless_copy": {
+  "file": "data/originals/jukebox-67472_yes-we-have-no-bananas/loc_original.flac",
+  "bytes": 13694511,
+  "pcm_md5_wav": "9cc27336ac6405f392721724917b18c7",
+  "pcm_md5_flac": "9cc27336ac6405f392721724917b18c7",
+  "bit_exact": true
+ }
+}

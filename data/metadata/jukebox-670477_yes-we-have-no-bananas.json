@@ -1,0 +1,108 @@
+{
+ "id": "jukebox-670477",
+ "slug": "jukebox-670477_yes-we-have-no-bananas",
+ "title": "Yes! We have no bananas",
+ "other_titles": [],
+ "performers": [
+  "cohn, irving",
+  "furman and nash",
+  "furman, eddie",
+  "nash, william",
+  "silver, frank"
+ ],
+ "primary_performer": "furman and nash",
+ "contributors_with_roles": [
+  "Furman and Nash -- Vocal Group -- Vocal Group",
+  "Cohn, Irving -- Songwriter -- Songwriter",
+  "Nash, William -- Vocalist -- Tenor Vocal",
+  "Furman, Eddie -- Vocalist -- Tenor Vocal",
+  "Silver, Frank -- Songwriter -- Songwriter"
+ ],
+ "recording_date": "1923-03-31",
+ "year": 1923,
+ "recording_location_loc": [
+  "new york",
+  "united states"
+ ],
+ "recording_city": "New York",
+ "recording_country": "United States",
+ "genre_loc": [],
+ "category": "Popular song",
+ "summary": "Male vocal duet, with orchestra",
+ "description": [
+  "Columbia A3873. Matrix/Take: 80932/1."
+ ],
+ "language": [
+  "english"
+ ],
+ "matrix": "80932 (Matrix ID)",
+ "take": "1",
+ "file_id": "ucsb_col_a3873_01_80932_01",
+ "disc": {
+  "label": "Columbia",
+  "catalog_number": "A3873",
+  "source_copy_prefix": "ucsb"
+ },
+ "source_copy": "Source of original recording: Department of Special Collections, Davidson Library, University of California, Santa Barbara.",
+ "duration_s": 170.0,
+ "loc_item_url": "https://www.loc.gov/item/jukebox-670477/",
+ "loc_api_url": "https://www.loc.gov/item/jukebox-670477/?fo=json",
+ "loc_files": {
+  "mp3": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/ucsb_col_a3873_01_80932_01/ucsb_col_a3873_01_80932_01.mp3",
+  "wav": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/ucsb_col_a3873_01_80932_01/ucsb_col_a3873_01_80932_01.wav",
+  "label": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a3873_01_80932_01:ucsb_col_a3873_01_80932_01/full/pct:100/0/default.jpg"
+ },
+ "curator_note": "'Yes! We Have No Bananas' (Silver/Cohn, 1923), the novelty hit of 1923, sung by Furman and Nash.",
+ "rights": {
+  "checked_utc": "2026-10-08T12:53:15+00:00",
+  "loc_rights_and_access_text": "The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years. In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use. You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law. You may also need permission from holders of other rights, such as publicity and/or privacy rights. Credit Line: Library of Congress, National Jukebox. More about Copyright and other Restrictions . For guidance about compiling full citations consult Citing Primary Sources .",
+  "loc_rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+  "access_restricted": false,
+  "media_player_flags": {
+   "canDownload": true,
+   "rights_restricted": true
+  },
+  "cleared_for_reuse": true,
+  "status": "Public domain in the United States (published 1922-1925; 100-year term ended by 31 Dec 2025; 17 U.S.C. 1401(a)(2)(B)(ii))",
+  "rights_tier": 2,
+  "reasons": [
+   "Rights & Access text states that recordings published between 1923 and 1946 are protected for 100 years. Recorded 1923-03-31; first publication by 31 Dec 1925 at the latest means the term ended 31 Dec 2025, so it is public domain as of 2026-10-08.",
+   "Assumption: the disc was first issued no later than 1925 (LoC does not give issue dates; Victor and Columbia normally issued within months of recording). This is the main residual uncertainty for 1922-1925 items.",
+   "Evidence of publication: transfer is from an issued Columbia disc (catalog no. A3873 in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ],
+  "caveats": [
+   "LoC: 'You are responsible for deciding whether your use of the items in this collection is legal.'",
+   "LoC: 'Some materials may be protected under international law.' Public-domain status here is asserted for the United States only.",
+   "Required credit line: 'Library of Congress, National Jukebox.'"
+  ],
+  "credit_line": "Library of Congress, National Jukebox."
+ },
+ "downloads": {
+  "wav": {
+   "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/ucsb_col_a3873_01_80932_01/ucsb_col_a3873_01_80932_01.wav",
+   "file": "data/originals/jukebox-670477_yes-we-have-no-bananas/loc_original.wav",
+   "bytes": 15055110,
+   "sha256": "04a4451c472e72b1176f3f92b4ce61f72577737ce023e9b40e60d88abe58ffe9"
+  },
+  "mp3": {
+   "url": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/ucsb_col_a3873_01_80932_01/ucsb_col_a3873_01_80932_01.mp3",
+   "file": "data/originals/jukebox-670477_yes-we-have-no-bananas/loc_original.mp3",
+   "bytes": 5464442,
+   "sha256": "801bfcbbce9ceea8e0cc2a52312d86c1ba2f21ad3e641577f2182bdde28c457e"
+  },
+  "label": {
+   "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a3873_01_80932_01:ucsb_col_a3873_01_80932_01/full/pct:100/0/default.jpg",
+   "file": "data/originals/jukebox-670477_yes-we-have-no-bananas/loc_label.jpg",
+   "bytes": 1296352,
+   "sha256": "16d0cf71e63d9e3afc9ed86f0ac750ce7c76e6f8c2883deb4f0fd13f372e0dce"
+  }
+ },
+ "lossless_copy": {
+  "file": "data/originals/jukebox-670477_yes-we-have-no-bananas/loc_original.flac",
+  "bytes": 10652571,
+  "pcm_md5_wav": "39c473aac85f80dc729a0704130752dd",
+  "pcm_md5_flac": "39c473aac85f80dc729a0704130752dd",
+  "bit_exact": true
+ }
+}

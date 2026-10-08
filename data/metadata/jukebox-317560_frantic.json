@@ -1,0 +1,129 @@
+{
+ "id": "jukebox-317560",
+ "slug": "jukebox-317560_frantic",
+ "title": "Frantic",
+ "other_titles": [
+  "Fox trot"
+ ],
+ "performers": [
+  "chanslor, hal",
+  "dugat, ross",
+  "flanders, leo",
+  "halstead, henry",
+  "harris, phil",
+  "henry halstead orchestra",
+  "mann, zebe",
+  "maule, abe",
+  "moll, chuck",
+  "reed, ernie",
+  "schilling, ted"
+ ],
+ "primary_performer": "halstead, henry",
+ "contributors_with_roles": [
+  "Reed, Ernie -- Instrumentalist -- Clarinet",
+  "Schilling, Ted -- Instrumentalist -- Trumpet",
+  "Flanders, Leo -- Composer -- Composer",
+  "Chanslor, Hal -- Instrumentalist -- Piano",
+  "Dugat, Ross -- Instrumentalist -- Trombone",
+  "Halstead, Henry -- Instrumentalist -- Violin",
+  "Halstead, Henry -- Leader -- Leader",
+  "Harris, Phil -- Instrumentalist -- Drums",
+  "Henry Halstead Orchestra -- Musical Group -- Musical Group",
+  "Mann, Zebe -- Instrumentalist -- Banjo",
+  "Maule, Abe -- Instrumentalist -- Clarinet",
+  "Maule, Abe -- Instrumentalist -- Violin",
+  "Maule, Abe -- Instrumentalist -- Tenor Saxophone",
+  "Moll, Chuck -- Instrumentalist -- Alto Saxophone",
+  "Moll, Chuck -- Instrumentalist -- Bass Saxophone",
+  "Moll, Chuck -- Instrumentalist -- Clarinet",
+  "Reed, Ernie -- Instrumentalist -- Alto Saxophone"
+ ],
+ "recording_date": "1924-06-20",
+ "year": 1924,
+ "recording_location_loc": [
+  "california",
+  "oakland",
+  "united states"
+ ],
+ "recording_city": "Oakland",
+ "recording_country": "United States",
+ "genre_loc": [
+  "Ragtime, jazz, and more"
+ ],
+ "category": "Dance orchestra",
+ "summary": "Jazz/dance band",
+ "description": [
+  "Victor 19513. Matrix/Take: PB-43/2."
+ ],
+ "language": null,
+ "matrix": "PB-43 (Matrix ID)",
+ "take": "2",
+ "file_id": "ucsb_victor_19513_01_pb43_02",
+ "disc": {
+  "label": "Victor",
+  "catalog_number": "19513",
+  "source_copy_prefix": "ucsb"
+ },
+ "source_copy": "Source of original recording: Department of Special Collections, Davidson Library, University of California, Santa Barbara.",
+ "duration_s": 159.0,
+ "loc_item_url": "https://www.loc.gov/item/jukebox-317560/",
+ "loc_api_url": "https://www.loc.gov/item/jukebox-317560/?fo=json",
+ "loc_files": {
+  "mp3": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/ucsb_victor_19513_01_pb43_02/ucsb_victor_19513_01_pb43_02.mp3",
+  "wav": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/ucsb_victor_19513_01_pb43_02/ucsb_victor_19513_01_pb43_02.wav",
+  "label": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19513_01_pb43_02:ucsb_victor_19513_01_pb43_02/full/pct:100/0/default.jpg"
+ },
+ "curator_note": "Henry Halstead's orchestra, recorded in Oakland in June 1924.",
+ "rights": {
+  "checked_utc": "2026-10-08T12:49:47+00:00",
+  "loc_rights_and_access_text": "The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years. In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use. You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law. You may also need permission from holders of other rights, such as publicity and/or privacy rights. Credit Line: Library of Congress, National Jukebox. More about Copyright and other Restrictions . For guidance about compiling full citations consult Citing Primary Sources .",
+  "loc_rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+  "access_restricted": false,
+  "media_player_flags": {
+   "canDownload": true,
+   "rights_restricted": true
+  },
+  "cleared_for_reuse": true,
+  "status": "Public domain in the United States (published 1922-1925; 100-year term ended by 31 Dec 2025; 17 U.S.C. 1401(a)(2)(B)(ii))",
+  "rights_tier": 2,
+  "reasons": [
+   "Rights & Access text states that recordings published between 1923 and 1946 are protected for 100 years. Recorded 1924-06-20; first publication by 31 Dec 1925 at the latest means the term ended 31 Dec 2025, so it is public domain as of 2026-10-08.",
+   "Assumption: the disc was first issued no later than 1925 (LoC does not give issue dates; Victor and Columbia normally issued within months of recording). This is the main residual uncertainty for 1922-1925 items.",
+   "Evidence of publication: transfer is from an issued Victor disc (catalog no. 19513 in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.",
+   "access_restricted = false and LoC offers the WAV/MP3 files for download."
+  ],
+  "caveats": [
+   "LoC: 'You are responsible for deciding whether your use of the items in this collection is legal.'",
+   "LoC: 'Some materials may be protected under international law.' Public-domain status here is asserted for the United States only.",
+   "Required credit line: 'Library of Congress, National Jukebox.'"
+  ],
+  "credit_line": "Library of Congress, National Jukebox."
+ },
+ "downloads": {
+  "wav": {
+   "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/ucsb_victor_19513_01_pb43_02/ucsb_victor_19513_01_pb43_02.wav",
+   "file": "data/originals/jukebox-317560_frantic/loc_original.wav",
+   "bytes": 28198932,
+   "sha256": "aeb74b8eba5663ab23b86e32b44f2ae3f340e788c62f895c3132c98f989856b8"
+  },
+  "mp3": {
+   "url": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/ucsb_victor_19513_01_pb43_02/ucsb_victor_19513_01_pb43_02.mp3",
+   "file": "data/originals/jukebox-317560_frantic/loc_original.mp3",
+   "bytes": 2558580,
+   "sha256": "add58a1d33ccc48ee181ad68a1d0c598ad1706e619da13eda0c59540f721d64c"
+  },
+  "label": {
+   "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19513_01_pb43_02:ucsb_victor_19513_01_pb43_02/full/pct:100/0/default.jpg",
+   "file": "data/originals/jukebox-317560_frantic/loc_label.jpg",
+   "bytes": 44966,
+   "sha256": "622eed03e77c384ef2dd17fe4dccf3cb8033c4a2a4c96b4a1b8934c85c497d34"
+  }
+ },
+ "lossless_copy": {
+  "file": "data/originals/jukebox-317560_frantic/loc_original.flac",
+  "bytes": 9207740,
+  "pcm_md5_wav": "75b913d521fe837a1f44e0f54fbb11dd",
+  "pcm_md5_flac": "75b913d521fe837a1f44e0f54fbb11dd",
+  "bit_exact": true
+ }
+}
