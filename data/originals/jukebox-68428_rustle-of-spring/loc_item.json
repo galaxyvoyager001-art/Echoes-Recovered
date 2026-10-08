@@ -1,0 +1,1415 @@
+{
+ "articles_and_essays": null,
+ "cite_this": {
+  "apa": "St. Louis Symphony Orchestra, Sinding, C. &amp; Ganz, R. (1923) <cite>Rustle of Spring</cite>. [Audio] Retrieved from the Library of Congress, https://www.loc.gov/item/jukebox-68428/.",
+  "chicago": "St. Louis Symphony Orchestra, Christian Sinding, and Rudolph Ganz. <cite>Rustle of Spring</cite>. 1923. Audio. https://www.loc.gov/item/jukebox-68428/.",
+  "mla": "St. Louis Symphony Orchestra, Christian Sinding, and Rudolph Ganz. <cite>Rustle of Spring</cite>. 1923. Audio. Retrieved from the Library of Congress, &lt;www.loc.gov/item/jukebox-68428/&gt;."
+ },
+ "item": {
+  "_version_": 1878221202523160576,
+  "access_restricted": false,
+  "aka": [
+   "http://www.loc.gov/jukebox/recordings/detail/id/9576",
+   "http://www.loc.gov/item/jukebox-68428/",
+   "http://www.loc.gov/resource/jukebox-68428.0/",
+   "http://www.loc.gov/resource/jukebox-68428.1/",
+   "http://www.loc.gov/resource/jukebox-68428.0",
+   "http://www.loc.gov/resource/jukebox-68428.1"
+  ],
+  "audio_type": "Instrumental",
+  "campaigns": [],
+  "contributor_composer": [
+   "sinding, christian"
+  ],
+  "contributor_musical_group": [
+   "st. louis symphony orchestra"
+  ],
+  "contributor_names": [
+   "St. Louis Symphony Orchestra -- Musical Group -- Musical Group",
+   "Sinding, Christian -- Composer -- Composer",
+   "Ganz, Rudolph -- Director -- Director"
+  ],
+  "contributor_primary": [
+   "st. louis symphony orchestra"
+  ],
+  "contributors": [
+   {
+    "ganz, rudolph": "https://www.loc.gov/search/?fa=contributor:ganz,+rudolph&fo=json"
+   },
+   {
+    "sinding, christian": "https://www.loc.gov/search/?fa=contributor:sinding,+christian&fo=json"
+   },
+   {
+    "st. louis symphony orchestra": "https://www.loc.gov/search/?fa=contributor:st.+louis+symphony+orchestra&fo=json"
+   }
+  ],
+  "contributors_composer": [
+   {
+    "sinding, christian": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_composer:sinding,+christian&fo=json"
+   }
+  ],
+  "contributors_musical_group": [
+   {
+    "st. louis symphony orchestra": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_musical_group:st.+louis+symphony+orchestra&fo=json"
+   }
+  ],
+  "contributors_primary": [
+   {
+    "st. louis symphony orchestra": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_primary:st.+louis+symphony+orchestra&fo=json"
+   }
+  ],
+  "date": "1923-10-31",
+  "dates": [
+   {
+    "1923-10-31": "https://www.loc.gov/search/?dates=1923-10-31/1923-10-31&fo=json"
+   }
+  ],
+  "description": [
+   "Victor 45389. Matrix/Take: B-28859/5."
+  ],
+  "digitized": true,
+  "display_offsite": true,
+  "extract_timestamp": "2026-10-04T21:28:30.830Z",
+  "extract_urls": [
+   "http://www.loc.gov/item/jukebox-68428#nationaljukebox"
+  ],
+  "file_id": [
+   "ucsb_victor_45389_01_b28859_05"
+  ],
+  "format": [
+   {
+    "sound recording": "https://www.loc.gov/search/?fa=original_format:sound+recording&fo=json"
+   }
+  ],
+  "genre": [
+   "Classical music"
+  ],
+  "group": [
+   "nationaljukebox",
+   "national-jukebox"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/item/jukebox-68428/",
+  "iiif_manifest_url": "https://www.loc.gov/item/jukebox-68428/manifest.json",
+  "image_url": [
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_45389_01_b28859_05:ucsb_victor_45389_01_b28859_05/full/pct:50/0/default.jpg#h=394&w=396",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_45389_01_b28859_05:ucsb_victor_45389_01_b28859_05/full/pct:100/0/default.jpg#h=788&w=793"
+  ],
+  "index": 1,
+  "item": {
+   "audio_type": "Instrumental",
+   "contributors": [
+    "St. Louis Symphony Orchestra -- Musical Group -- Musical Group",
+    "Sinding, Christian -- Composer -- Composer",
+    "Ganz, Rudolph -- Director -- Director"
+   ],
+   "file_id": [
+    "ucsb_victor_45389_01_b28859_05"
+   ],
+   "genre": [
+    "Classical music"
+   ],
+   "media_size": "10-in.",
+   "profile": "jukebox",
+   "recording_catalog_number": "45389",
+   "recording_date": "1923-10-31",
+   "recording_label": "Victor",
+   "recording_matrix_number": "B-28859 (Matrix ID)",
+   "recording_repository": "Source of original recording: Department of Special Collections, Davidson Library, University of California, Santa Barbara.",
+   "recording_take_id": 68428,
+   "recording_take_number": "5",
+   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+   "summary": "Orchestra"
+  },
+  "location": [
+   "missouri",
+   "st. louis",
+   "united states"
+  ],
+  "locations": [
+   {
+    "missouri": "https://www.loc.gov/search/?fa=location:missouri&fo=json"
+   },
+   {
+    "st. louis": "https://www.loc.gov/search/?fa=location:st.+louis&fo=json"
+   },
+   {
+    "united states": "https://www.loc.gov/search/?fa=location:united+states&fo=json"
+   }
+  ],
+  "media_size": "10-in.",
+  "mime_type": [
+   "audio/mpeg",
+   "audio/wav",
+   "image/jpeg"
+  ],
+  "online_format": [
+   "audio",
+   "image"
+  ],
+  "original_format": [
+   "sound recording"
+  ],
+  "other_formats": [],
+  "other_title": [
+   "Fruhlingsrauschen",
+   "Stucke, piano, op. 32. Fruhlingsrauschen"
+  ],
+  "partof": [
+   {
+    "count": 10024,
+    "title": "department of special collections, davidson library, university of california, santa barbara",
+    "url": "https://www.loc.gov/search/?fa=partof:department+of+special+collections,+davidson+library,+university+of+california,+santa+barbara&fo=json"
+   },
+   {
+    "count": 20273,
+    "title": "national jukebox",
+    "url": "https://www.loc.gov/collections/national-jukebox/?fo=json"
+   },
+   {
+    "count": 20496,
+    "title": "recorded sound research center",
+    "url": "https://www.loc.gov/search/?fa=partof:recorded+sound+research+center&fo=json"
+   }
+  ],
+  "partof_repository": [
+   "department of special collections, davidson library, university of california, santa barbara"
+  ],
+  "profile": "jukebox",
+  "recording_catalog_number": "45389",
+  "recording_date": "1923-10-31",
+  "recording_label": "Victor",
+  "recording_matrix_number": "B-28859 (Matrix ID)",
+  "recording_repository": "Source of original recording: Department of Special Collections, Davidson Library, University of California, Santa Barbara.",
+  "recording_take_id": 68428,
+  "recording_take_number": "5",
+  "resources": [
+   {
+    "files": 1,
+    "media": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_45389_01_b28859_05:ucsb_victor_45389_01_b28859_05/full/full/0/full/default.mp3",
+    "url": "https://www.loc.gov/resource/jukebox-68428.0"
+   },
+   {
+    "files": 1,
+    "image": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_45389_01_b28859_05:ucsb_victor_45389_01_b28859_05/full/pct:100/0/default.jpg",
+    "mimetype": "image/jpeg",
+    "url": "https://www.loc.gov/resource/jukebox-68428.1"
+   }
+  ],
+  "rights": [
+   "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
+  ],
+  "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+  "score": 15.335333,
+  "shard": "01",
+  "shelf_id": "Victor 45389",
+  "site": [
+   "nationaljukebox"
+  ],
+  "source_modified": "2000-01-01T12:00:00Z",
+  "subject": [
+   "instrumental",
+   "classical music",
+   "victor"
+  ],
+  "subject_category": [
+   "instrumental"
+  ],
+  "subject_genre": [
+   "classical music"
+  ],
+  "subject_label": [
+   "victor"
+  ],
+  "subjects": [
+   {
+    "classical music": "https://www.loc.gov/search/?fa=subject:classical+music&fo=json"
+   },
+   {
+    "instrumental": "https://www.loc.gov/search/?fa=subject:instrumental&fo=json"
+   },
+   {
+    "victor": "https://www.loc.gov/search/?fa=subject:victor&fo=json"
+   }
+  ],
+  "subjects_category": [
+   {
+    "instrumental": "https://www.loc.gov/collections/national-jukebox/?fa=subject_category:instrumental&fo=json"
+   }
+  ],
+  "subjects_genre": [
+   {
+    "classical music": "https://www.loc.gov/collections/national-jukebox/?fa=subject_genre:classical+music&fo=json"
+   }
+  ],
+  "subjects_label": [
+   {
+    "victor": "https://www.loc.gov/collections/national-jukebox/?fa=subject_label:victor&fo=json"
+   }
+  ],
+  "summary": "Orchestra",
+  "timestamp": "2026-10-05T14:42:01.295Z",
+  "title": "Rustle of spring",
+  "type": [
+   "sound recording-musical"
+  ],
+  "url": "https://www.loc.gov/item/jukebox-68428/"
+ },
+ "more_like_this": [
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/9574",
+    "http://www.loc.gov/item/jukebox-68425/",
+    "http://www.loc.gov/resource/jukebox-68425.0/",
+    "http://www.loc.gov/resource/jukebox-68425.1/",
+    "http://www.loc.gov/resource/jukebox-68425.0",
+    "http://www.loc.gov/resource/jukebox-68425.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "lassen, eduard",
+    "ganz, rudolph",
+    "st. louis symphony orchestra"
+   ],
+   "date": "1923-10-30",
+   "dates": [
+    "1923-10-30"
+   ],
+   "description": [
+    "Victor 55202. Matrix/Take: C-28857/4."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-04T21:28:30.830Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-68425/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_55202_01_c28857_04:ucsb_victor_55202_01_c28857_04/full/pct:25/0/default.jpg#h=300&w=300",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_55202_01_c28857_04:ucsb_victor_55202_01_c28857_04/full/pct:50/0/default.jpg#h=600&w=600",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_55202_01_c28857_04:ucsb_victor_55202_01_c28857_04/full/pct:100/0/default.jpg#h=1200&w=1200"
+   ],
+   "index": 1,
+   "location": [
+    "missouri",
+    "st. louis",
+    "united states"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Part 1"
+   ],
+   "partof": [
+    "national jukebox",
+    "department of special collections, davidson library, university of california, santa barbara",
+    "recorded sound research center"
+   ],
+   "score": 53.18965,
+   "shelf_id": "Victor 55202",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "instrumental",
+    "classical music",
+    "victor"
+   ],
+   "timestamp": "2026-10-05T14:42:01.295Z",
+   "title": "Festival overture",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-68425/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/9575",
+    "http://www.loc.gov/item/jukebox-68427/",
+    "http://www.loc.gov/resource/jukebox-68427.0/",
+    "http://www.loc.gov/resource/jukebox-68427.1/",
+    "http://www.loc.gov/resource/jukebox-68427.0",
+    "http://www.loc.gov/resource/jukebox-68427.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "lassen, eduard",
+    "ganz, rudolph",
+    "st. louis symphony orchestra"
+   ],
+   "date": "1923-10-31",
+   "dates": [
+    "1923-10-31"
+   ],
+   "description": [
+    "Victor 55202. Matrix/Take: C-28858/6."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-04T21:28:30.830Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-68427/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_55202_01_c28858_06:ucsb_victor_55202_01_c28858_06/full/pct:25/0/default.jpg#h=300&w=300",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_55202_01_c28858_06:ucsb_victor_55202_01_c28858_06/full/pct:50/0/default.jpg#h=600&w=600",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_55202_01_c28858_06:ucsb_victor_55202_01_c28858_06/full/pct:100/0/default.jpg#h=1200&w=1200"
+   ],
+   "index": 2,
+   "location": [
+    "missouri",
+    "st. louis",
+    "united states"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Part 2"
+   ],
+   "partof": [
+    "national jukebox",
+    "department of special collections, davidson library, university of california, santa barbara",
+    "recorded sound research center"
+   ],
+   "score": 53.18965,
+   "shelf_id": "Victor 55202",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "instrumental",
+    "classical music",
+    "victor"
+   ],
+   "timestamp": "2026-10-05T14:42:01.295Z",
+   "title": "Festival overture",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-68427/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/9577",
+    "http://www.loc.gov/item/jukebox-68429/",
+    "http://www.loc.gov/resource/jukebox-68429.0/",
+    "http://www.loc.gov/resource/jukebox-68429.1/",
+    "http://www.loc.gov/resource/jukebox-68429.0",
+    "http://www.loc.gov/resource/jukebox-68429.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "albert, eugen d",
+    "ganz, rudolph",
+    "st. louis symphony orchestra"
+   ],
+   "date": "1923-10-31",
+   "dates": [
+    "1923-10-31"
+   ],
+   "description": [
+    "Victor 45389. Matrix/Take: B-28860/1."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-04T21:28:30.830Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-68429/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_45389_01_b28860_01:ucsb_victor_45389_01_b28860_01/full/pct:50/0/default.jpg#h=394&w=396",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_45389_01_b28860_01:ucsb_victor_45389_01_b28860_01/full/pct:100/0/default.jpg#h=789&w=793"
+   ],
+   "index": 3,
+   "location": [
+    "missouri",
+    "st. louis",
+    "united states"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Improvisator. Ouverture"
+   ],
+   "partof": [
+    "national jukebox",
+    "department of special collections, davidson library, university of california, santa barbara",
+    "recorded sound research center"
+   ],
+   "score": 53.18965,
+   "shelf_id": "Victor 45389",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "instrumental",
+    "classical music",
+    "victor"
+   ],
+   "timestamp": "2026-10-05T14:42:01.295Z",
+   "title": "The improvisator : Overture",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-68429/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/1396",
+    "http://www.loc.gov/item/jukebox-12609/",
+    "http://www.loc.gov/resource/jukebox-12609.0/",
+    "http://www.loc.gov/resource/jukebox-12609.1/",
+    "http://www.loc.gov/resource/jukebox-12609.0",
+    "http://www.loc.gov/resource/jukebox-12609.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "schendel, julius l.",
+    "sinding, christian",
+    "grieg, edvard"
+   ],
+   "date": "1915-03-12",
+   "dates": [
+    "1915-03-12"
+   ],
+   "description": [
+    "Victor 35448. Matrix/Take: C-15784/2."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-04T18:02:25.369Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-12609/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_35448_01_c15784_02:dlc_victor_35448_01_c15784_02/full/pct:12.5/0/default.jpg#h=237&w=234",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_35448_01_c15784_02:dlc_victor_35448_01_c15784_02/full/pct:25/0/default.jpg#h=474&w=468",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_35448_01_c15784_02:dlc_victor_35448_01_c15784_02/full/pct:50/0/default.jpg#h=949&w=937",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:dlc_victor_35448_01_c15784_02:dlc_victor_35448_01_c15784_02/full/pct:100/0/default.jpg#h=1898&w=1874"
+   ],
+   "index": 4,
+   "location": [
+    "camden",
+    "new jersey",
+    "united states"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Lyriske stykker, op. 43. Sommerfugl",
+    "Stucke, piano, op. 32. Fruhlingsrauschen",
+    "Papillon [Sommerfugl]"
+   ],
+   "partof": [
+    "recorded sound section, library of congress",
+    "national jukebox",
+    "recorded sound research center"
+   ],
+   "score": 30.878313,
+   "shelf_id": "Victor 35448",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "instrumental",
+    "classical music",
+    "victor"
+   ],
+   "timestamp": "2026-10-05T13:39:04.504Z",
+   "title": "Rustle of spring [Frühlingsrauschen]",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-12609/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/9573",
+    "http://www.loc.gov/item/jukebox-68415/",
+    "http://www.loc.gov/resource/jukebox-68415.0/",
+    "http://www.loc.gov/resource/jukebox-68415.1/",
+    "http://www.loc.gov/resource/jukebox-68415.0",
+    "http://www.loc.gov/resource/jukebox-68415.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "silverman, dave",
+    "david h. silverman orchestra",
+    "friedland, anatol"
+   ],
+   "date": "1923-10-28",
+   "dates": [
+    "1923-10-28"
+   ],
+   "description": [
+    "Victor 19200. Matrix/Take: B-28851/3."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-04T21:28:30.830Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-68415/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19200_01_b28851_03:ucsb_victor_19200_01_b28851_03/full/pct:50/0/default.jpg#h=394&w=397",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19200_01_b28851_03:ucsb_victor_19200_01_b28851_03/full/pct:100/0/default.jpg#h=789&w=795"
+   ],
+   "index": 5,
+   "location": [
+    "missouri",
+    "st. louis",
+    "united states"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "partof": [
+    "national jukebox",
+    "department of special collections, davidson library, university of california, santa barbara",
+    "recorded sound research center"
+   ],
+   "score": 30.778929,
+   "shelf_id": "Victor 19200",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "instrumental",
+    "popular music",
+    "victor"
+   ],
+   "timestamp": "2026-10-05T14:42:01.295Z",
+   "title": "One hour of love",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-68415/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/9578",
+    "http://www.loc.gov/item/jukebox-68431/",
+    "http://www.loc.gov/resource/jukebox-68431.0/",
+    "http://www.loc.gov/resource/jukebox-68431.1/",
+    "http://www.loc.gov/resource/jukebox-68431.0",
+    "http://www.loc.gov/resource/jukebox-68431.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "bozi, harold de",
+    "silverman, dave",
+    "david h. silverman orchestra"
+   ],
+   "date": "1923-11-01",
+   "dates": [
+    "1923-11-01"
+   ],
+   "description": [
+    "Victor 19200. Matrix/Take: B-28862/1."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-04T21:28:30.830Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-68431/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19200_01_b28862_01:ucsb_victor_19200_01_b28862_01/full/pct:50/0/default.jpg#h=395&w=398",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19200_01_b28862_01:ucsb_victor_19200_01_b28862_01/full/pct:100/0/default.jpg#h=790&w=796"
+   ],
+   "index": 6,
+   "location": [
+    "missouri",
+    "st. louis",
+    "united states"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Fox trot"
+   ],
+   "partof": [
+    "national jukebox",
+    "department of special collections, davidson library, university of california, santa barbara",
+    "recorded sound research center"
+   ],
+   "score": 30.778929,
+   "shelf_id": "Victor 19200",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "instrumental",
+    "popular music",
+    "victor"
+   ],
+   "timestamp": "2026-10-05T14:42:01.295Z",
+   "title": "Nights in the woods",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-68431/"
+  }
+ ],
+ "notice": {
+  "info": "<strong>COLUMBUS DAY HOLIDAY:</strong> On Monday, October 12, 2026, The Jefferson Building Great Hall and exhibitions will be open from 10 a.m. - 5 p.m. to guests with timed-entry passes. The Main Reading Room will be open to visitors, no research or collections services available. All other reading rooms, the Madison and Adams Buildings will be CLOSED to the public. Regularly scheduled access resumes on Tuesday, October 13. \n",
+  "status": "production"
+ },
+ "options": {
+  "access_group": [
+   ""
+  ],
+  "access_group_raw": "",
+  "all": null,
+  "api_version": "1",
+  "app_context": null,
+  "application_shim": null,
+  "application_version": "$Revision$",
+  "attribute": null,
+  "attribute!": null,
+  "attribute_map": null,
+  "cache_tags": [
+   "nationaljukebox",
+   "national-jukebox",
+   "paprika-afc"
+  ],
+  "callback": null,
+  "clip": null,
+  "clip_image_width": null,
+  "clip_rotation": null,
+  "content_filter": null,
+  "content_replacement": "",
+  "count": null,
+  "dates": null,
+  "default_count": 25,
+  "delimiter": null,
+  "digital_id": null,
+  "display_level": null,
+  "distance": null,
+  "downloadOption": null,
+  "duration": 0.9108157157897949,
+  "embed": [],
+  "embed!": [],
+  "error_response_status": null,
+  "excludeTerms": null,
+  "facetLimits": "",
+  "facetPrefix": null,
+  "facet_count": null,
+  "facet_style": null,
+  "field": null,
+  "form_facets": [
+   {
+    "field": "subject_label",
+    "select": "multiple"
+   },
+   {
+    "field": "subject_category",
+    "select": "multiple"
+   },
+   {
+    "field": "language",
+    "select": "multiple"
+   }
+  ],
+  "format": "json",
+  "host": "www.loc.gov",
+  "ical": false,
+  "id": "jukebox-68428/",
+  "iiif": false,
+  "include_facets": [
+   {
+    "field": "original-format"
+   },
+   {
+    "field": "partof_repository",
+    "label": "Repository"
+   },
+   {
+    "field": "subject_label",
+    "label": "Label"
+   },
+   {
+    "field": "dates"
+   },
+   {
+    "field": "subject_genre",
+    "label": "Genre"
+   },
+   {
+    "closed": true,
+    "field": "subject_target_audience",
+    "label": "Target Audience"
+   },
+   {
+    "closed": true,
+    "field": "subject_category",
+    "label": "Category"
+   },
+   {
+    "closed": true,
+    "field": "location"
+   },
+   {
+    "closed": true,
+    "field": "contributor"
+   },
+   {
+    "closed": true,
+    "field": "contributor_vocalist",
+    "label": "Vocalist"
+   },
+   {
+    "closed": true,
+    "field": "contributor_composer",
+    "label": "Composer"
+   },
+   {
+    "closed": true,
+    "field": "contributor_lyricist",
+    "label": "Lyricist"
+   },
+   {
+    "closed": true,
+    "field": "contributor_author",
+    "label": "Author"
+   },
+   {
+    "closed": true,
+    "field": "contributor_performer",
+    "label": "Performer"
+   },
+   {
+    "closed": true,
+    "field": "contributor_musical_group",
+    "label": "Musical Group"
+   },
+   {
+    "closed": true,
+    "field": "subject"
+   },
+   {
+    "closed": true,
+    "field": "language"
+   },
+   {
+    "field": "access-restricted"
+   }
+  ],
+  "index": null,
+  "inputEncoding": "UTF-8",
+  "item": null,
+  "items": null,
+  "keys": null,
+  "language": null,
+  "latlong": null,
+  "method": "GET",
+  "newSearch": null,
+  "new_clip_url": false,
+  "onsite": false,
+  "operator": null,
+  "outputEncoding": "UTF-8",
+  "page_campaigns": [],
+  "path_info": "/item/jukebox-68428/",
+  "port": "443",
+  "proxypath": null,
+  "query_string": "fo=json",
+  "redirect_proxy": false,
+  "redirect_to_item": null,
+  "referer": "",
+  "region": "",
+  "release_id": 123456789,
+  "request_host": "www.loc.gov",
+  "request_params": {
+   "fo": [
+    "json"
+   ]
+  },
+  "request_url": "https://www.loc.gov/item/jukebox-68428/?fo=json",
+  "resource": "",
+  "resource_sequence": null,
+  "scheme": "https",
+  "searchIn": null,
+  "searchTerms": "",
+  "segments": null,
+  "shards": [
+   "01"
+  ],
+  "site_date_range": "1900-01-01/1925-12-31",
+  "site_defaults": [],
+  "site_id": null,
+  "site_type": null,
+  "solrQuery": "",
+  "sortBy": null,
+  "sortOrder": null,
+  "startPage": null,
+  "style": null,
+  "suggested": null,
+  "target": null,
+  "template": "layouts/item/layout",
+  "timestamp": 1791463864.8210475,
+  "tz_aware": null,
+  "unionFacets": "",
+  "webcast_permalink": null
+ },
+ "related_items": [
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/resource/afc.afc9999005-6691/",
+    "http://www.loc.gov/item/afc9999005.6691/",
+    "https://hdl.loc.gov/loc.afc/afc9999005.6691"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "crouch, gladys",
+    "crouch, mattie",
+    "cowell, sidney robertson",
+    "crouch, juanita"
+   ],
+   "date": "1936-12-10",
+   "dates": [
+    "1936-12-10"
+   ],
+   "digitized": true,
+   "extract_timestamp": "2024-07-10T09:43:43.601Z",
+   "group": [
+    "paprika-afc"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/afc9999005.6691/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:afc:afc9999005-6691:0773/full/pct:50.0/0/default.jpg",
+    "https://tile.loc.gov/image-services/iiif/public:afc:afc9999005-6691:0773/full/pct:50.0/0/default.jpg#h=449&w=742",
+    "https://tile.loc.gov/image-services/iiif/public:afc:afc9999005-6691:0773/full/pct:100.0/0/default.jpg#h=898&w=1485"
+   ],
+   "index": 1,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "missouri",
+    "st. louis",
+    "united states"
+   ],
+   "mime_type": [
+    "image/jpeg",
+    "image/jp2"
+   ],
+   "number": [
+    "http://www.loc.gov/resource/afc9999005.6691.0"
+   ],
+   "online_format": [
+    "image"
+   ],
+   "original_format": [
+    "photo, print, drawing"
+   ],
+   "partof": [
+    "resettlement administration recordings collection",
+    "american folklife center",
+    "traditional music and spoken word card catalog"
+   ],
+   "score": 10.255102,
+   "shelf_id": "AFS Number: AFS 03198 A02 AFS Number: AFS 03198 A03",
+   "subject": [
+    "card catalogs"
+   ],
+   "timestamp": "2024-07-10T11:43:12.948Z",
+   "title": "Swing low, sweet I. L. D.",
+   "type": [
+    "still image"
+   ],
+   "url": "https://www.loc.gov/item/afc9999005.6691/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/afc9999005.6692/",
+    "http://www.loc.gov/resource/afc.afc9999005-6692/",
+    "https://hdl.loc.gov/loc.afc/afc9999005.6692"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "crouch, gladys",
+    "crouch, mattie",
+    "cowell, sidney robertson",
+    "crouch, juanita"
+   ],
+   "date": "1936-12-10",
+   "dates": [
+    "1936-12-10"
+   ],
+   "digitized": true,
+   "extract_timestamp": "2024-07-10T09:43:43.601Z",
+   "group": [
+    "paprika-afc"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/afc9999005.6692/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:afc:afc9999005-6692:0772/full/pct:50.0/0/default.jpg",
+    "https://tile.loc.gov/image-services/iiif/public:afc:afc9999005-6692:0772/full/pct:50.0/0/default.jpg#h=449&w=742",
+    "https://tile.loc.gov/image-services/iiif/public:afc:afc9999005-6692:0772/full/pct:100.0/0/default.jpg#h=898&w=1485"
+   ],
+   "index": 2,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "missouri",
+    "st. louis",
+    "united states"
+   ],
+   "mime_type": [
+    "image/jpeg",
+    "image/jp2"
+   ],
+   "number": [
+    "http://www.loc.gov/resource/afc9999005.6692.0"
+   ],
+   "online_format": [
+    "image"
+   ],
+   "original_format": [
+    "photo, print, drawing"
+   ],
+   "partof": [
+    "resettlement administration recordings collection",
+    "american folklife center",
+    "traditional music and spoken word card catalog"
+   ],
+   "score": 10.255102,
+   "shelf_id": "AFS Number: AFS 03198 A01",
+   "subject": [
+    "card catalogs"
+   ],
+   "timestamp": "2024-07-10T11:43:12.948Z",
+   "title": "The YCL",
+   "type": [
+    "still image"
+   ],
+   "url": "https://www.loc.gov/item/afc9999005.6692/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/resource/afc.afc9999005-6693/",
+    "http://www.loc.gov/item/afc9999005.6693/",
+    "https://hdl.loc.gov/loc.afc/afc9999005.6693"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "crouch, gladys",
+    "crouch, mattie",
+    "cowell, sidney robertson",
+    "crouch, juanita"
+   ],
+   "date": "1936-12-09",
+   "dates": [
+    "1936-12-09"
+   ],
+   "digitized": true,
+   "extract_timestamp": "2024-07-10T09:43:43.601Z",
+   "group": [
+    "paprika-afc"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/afc9999005.6693/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:afc:afc9999005-6693:0771/full/pct:50.0/0/default.jpg",
+    "https://tile.loc.gov/image-services/iiif/public:afc:afc9999005-6693:0771/full/pct:50.0/0/default.jpg#h=449&w=742",
+    "https://tile.loc.gov/image-services/iiif/public:afc:afc9999005-6693:0771/full/pct:100.0/0/default.jpg#h=898&w=1485"
+   ],
+   "index": 3,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "missouri",
+    "st. louis",
+    "united states"
+   ],
+   "mime_type": [
+    "image/jpeg",
+    "image/jp2"
+   ],
+   "number": [
+    "http://www.loc.gov/resource/afc9999005.6693.0"
+   ],
+   "online_format": [
+    "image"
+   ],
+   "original_format": [
+    "photo, print, drawing"
+   ],
+   "partof": [
+    "resettlement administration recordings collection",
+    "american folklife center",
+    "traditional music and spoken word card catalog"
+   ],
+   "score": 10.255102,
+   "shelf_id": "AFS Number: AFS 03197 B02",
+   "subject": [
+    "card catalogs"
+   ],
+   "timestamp": "2024-07-10T11:43:12.948Z",
+   "title": "In the land of peace and plenty",
+   "type": [
+    "still image"
+   ],
+   "url": "https://www.loc.gov/item/afc9999005.6693/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "https://hdl.loc.gov/loc.afc/afc9999005.6694",
+    "http://www.loc.gov/item/afc9999005.6694/",
+    "http://www.loc.gov/resource/afc.afc9999005-6694/"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "crouch, gladys",
+    "crouch, mattie",
+    "cowell, sidney robertson",
+    "crouch, juanita"
+   ],
+   "date": "1936-12-09",
+   "dates": [
+    "1936-12-09"
+   ],
+   "digitized": true,
+   "extract_timestamp": "2024-07-10T09:43:43.601Z",
+   "group": [
+    "paprika-afc"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/afc9999005.6694/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:afc:afc9999005-6694:0770/full/pct:50.0/0/default.jpg",
+    "https://tile.loc.gov/image-services/iiif/public:afc:afc9999005-6694:0770/full/pct:50.0/0/default.jpg#h=449&w=742",
+    "https://tile.loc.gov/image-services/iiif/public:afc:afc9999005-6694:0770/full/pct:100.0/0/default.jpg#h=898&w=1485"
+   ],
+   "index": 4,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "missouri",
+    "st. louis",
+    "united states"
+   ],
+   "mime_type": [
+    "image/jpeg",
+    "image/jp2"
+   ],
+   "number": [
+    "http://www.loc.gov/resource/afc9999005.6694.0"
+   ],
+   "online_format": [
+    "image"
+   ],
+   "original_format": [
+    "photo, print, drawing"
+   ],
+   "partof": [
+    "resettlement administration recordings collection",
+    "american folklife center",
+    "traditional music and spoken word card catalog"
+   ],
+   "score": 10.255102,
+   "shelf_id": "AFS Number: AFS 03197 B01",
+   "subject": [
+    "card catalogs"
+   ],
+   "timestamp": "2024-07-10T11:43:12.948Z",
+   "title": "Bean song",
+   "type": [
+    "still image"
+   ],
+   "url": "https://www.loc.gov/item/afc9999005.6694/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/afc9999005.6695/",
+    "https://hdl.loc.gov/loc.afc/afc9999005.6695",
+    "http://www.loc.gov/resource/afc.afc9999005-6695/"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "crouch, gladys",
+    "crouch, mattie",
+    "cowell, sidney robertson",
+    "crouch, juanita"
+   ],
+   "date": "1936-12-09",
+   "dates": [
+    "1936-12-09"
+   ],
+   "digitized": true,
+   "extract_timestamp": "2024-07-10T09:43:43.601Z",
+   "group": [
+    "paprika-afc"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/afc9999005.6695/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:afc:afc9999005-6695:0769/full/pct:50.0/0/default.jpg",
+    "https://tile.loc.gov/image-services/iiif/public:afc:afc9999005-6695:0769/full/pct:50.0/0/default.jpg#h=449&w=742",
+    "https://tile.loc.gov/image-services/iiif/public:afc:afc9999005-6695:0769/full/pct:100.0/0/default.jpg#h=898&w=1485"
+   ],
+   "index": 5,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "missouri",
+    "st. louis",
+    "united states"
+   ],
+   "mime_type": [
+    "image/jpeg",
+    "image/jp2"
+   ],
+   "number": [
+    "http://www.loc.gov/resource/afc9999005.6695.0"
+   ],
+   "online_format": [
+    "image"
+   ],
+   "original_format": [
+    "photo, print, drawing"
+   ],
+   "other_title": [
+    "alternative: Old man Funsten"
+   ],
+   "partof": [
+    "resettlement administration recordings collection",
+    "american folklife center",
+    "traditional music and spoken word card catalog"
+   ],
+   "score": 10.255102,
+   "shelf_id": "AFS Number: AFS 03197 A04",
+   "subject": [
+    "card catalogs"
+   ],
+   "timestamp": "2024-07-10T11:43:12.948Z",
+   "title": "Nutpicker's song (Old man Funsten)",
+   "type": [
+    "still image"
+   ],
+   "url": "https://www.loc.gov/item/afc9999005.6695/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/resource/afc.afc9999005-6696/",
+    "https://hdl.loc.gov/loc.afc/afc9999005.6696",
+    "http://www.loc.gov/item/afc9999005.6696/"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "crouch, gladys",
+    "crouch, mattie",
+    "cowell, sidney robertson",
+    "crouch, juanita"
+   ],
+   "date": "1936-12-09",
+   "dates": [
+    "1936-12-09"
+   ],
+   "digitized": true,
+   "extract_timestamp": "2024-07-10T09:43:43.601Z",
+   "group": [
+    "paprika-afc"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/afc9999005.6696/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:afc:afc9999005-6696:0768/full/pct:50.0/0/default.jpg",
+    "https://tile.loc.gov/image-services/iiif/public:afc:afc9999005-6696:0768/full/pct:50.0/0/default.jpg#h=449&w=742",
+    "https://tile.loc.gov/image-services/iiif/public:afc:afc9999005-6696:0768/full/pct:100.0/0/default.jpg#h=898&w=1485"
+   ],
+   "index": 6,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "missouri",
+    "st. louis",
+    "united states"
+   ],
+   "mime_type": [
+    "image/jpeg",
+    "image/jp2"
+   ],
+   "number": [
+    "http://www.loc.gov/resource/afc9999005.6696.0"
+   ],
+   "online_format": [
+    "image"
+   ],
+   "original_format": [
+    "photo, print, drawing"
+   ],
+   "partof": [
+    "resettlement administration recordings collection",
+    "american folklife center",
+    "traditional music and spoken word card catalog"
+   ],
+   "score": 10.255102,
+   "shelf_id": "AFS Number: AFS 03197 A03 AFS Number: AFS 03197 A05",
+   "subject": [
+    "card catalogs"
+   ],
+   "timestamp": "2024-07-10T11:43:12.948Z",
+   "title": "You'll get pie in the sky bye and bye",
+   "type": [
+    "still image"
+   ],
+   "url": "https://www.loc.gov/item/afc9999005.6696/"
+  }
+ ],
+ "resources": [
+  {
+   "audio": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_45389_01_b28859_05:ucsb_victor_45389_01_b28859_05/full/full/0/full/default.mp3",
+   "files": [
+    [
+     {
+      "aspectRation": "4:3",
+      "autoPlay": false,
+      "canDownload": true,
+      "derivatives": [
+       {
+        "derivativeUrl": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/ucsb_victor_45389_01_b28859_05/ucsb_victor_45389_01_b28859_05.mp3"
+       }
+      ],
+      "detailUrl": "https://www.loc.gov/item/jukebox-68428",
+      "download": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_45389_01_b28859_05:ucsb_victor_45389_01_b28859_05/full/full/0/full/default.mp3",
+      "duration": 163.0,
+      "filename": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/ucsb_victor_45389_01_b28859_05/ucsb_victor_45389_01_b28859_05.mp3",
+      "mediaType": "A",
+      "metadata": [
+       "Rustle of spring",
+       "Orchestra"
+      ],
+      "mimetype": "audio/mpeg",
+      "poster": null,
+      "rights_restricted": true,
+      "shortName": "Rustle of spring",
+      "thumbnail_url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_45389_01_b28859_05:ucsb_victor_45389_01_b28859_05/full/pct:50/0/default.jpg"
+     },
+     {
+      "height": null,
+      "levels": 1,
+      "mimetype": "audio/wav",
+      "size": 28754276,
+      "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/ucsb_victor_45389_01_b28859_05/ucsb_victor_45389_01_b28859_05.wav",
+      "width": null
+     }
+    ]
+   ],
+   "url": "https://www.loc.gov/resource/jukebox-68428.0"
+  },
+  {
+   "files": [
+    [
+     {
+      "height": 394,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_45389_01_b28859_05:ucsb_victor_45389_01_b28859_05/full/pct:50/0/default.jpg",
+      "width": 396
+     },
+     {
+      "height": 788,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_45389_01_b28859_05:ucsb_victor_45389_01_b28859_05/full/pct:100/0/default.jpg",
+      "width": 793
+     }
+    ]
+   ],
+   "image": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_45389_01_b28859_05:ucsb_victor_45389_01_b28859_05/full/pct:100/0/default.jpg",
+   "mimetype": "image/jpeg",
+   "url": "https://www.loc.gov/resource/jukebox-68428.1"
+  }
+ ],
+ "timestamp": 1791463865732
+}

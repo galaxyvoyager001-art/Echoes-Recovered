@@ -1,0 +1,1577 @@
+{
+ "articles_and_essays": null,
+ "cite_this": {
+  "apa": "Conrad, C., Lewis, T., Ted Lewis Jazz Band &amp; Howard, J. S. (1923) <cite>Steppin' Out</cite>. [Audio] Retrieved from the Library of Congress, https://www.loc.gov/item/jukebox-672272/.",
+  "chicago": "Conrad, Con, Ted Lewis,  Ted Lewis Jazz Band, and John S Howard. <cite>Steppin' Out</cite>. 1923. Audio. https://www.loc.gov/item/jukebox-672272/.",
+  "mla": "Conrad, Con, et al. <cite>Steppin' Out</cite>. 1923. Audio. Retrieved from the Library of Congress, &lt;www.loc.gov/item/jukebox-672272/&gt;."
+ },
+ "item": {
+  "_version_": 1878221015367024640,
+  "access_restricted": false,
+  "aka": [
+   "http://www.loc.gov/item/jukebox-672272/",
+   "http://www.loc.gov/resource/jukebox-672272.0/",
+   "http://www.loc.gov/resource/jukebox-672272.1/",
+   "http://www.loc.gov/resource/jukebox-672272.0",
+   "http://www.loc.gov/resource/jukebox-672272.1"
+  ],
+  "audio_type": "Instrumental",
+  "campaigns": [],
+  "contributor_musical_group": [
+   "ted lewis jazz band"
+  ],
+  "contributor_names": [
+   "Conrad, Con -- Songwriter -- Songwriter",
+   "Lewis, Ted -- Leader -- Leader",
+   "Ted Lewis Jazz Band -- Musical Group -- Musical Group",
+   "Howard, John S. -- Songwriter -- Songwriter"
+  ],
+  "contributor_primary": [
+   "ted lewis jazz band"
+  ],
+  "contributors": [
+   {
+    "conrad, con": "https://www.loc.gov/search/?fa=contributor:conrad,+con&fo=json"
+   },
+   {
+    "howard, john s.": "https://www.loc.gov/search/?fa=contributor:howard,+john+s.&fo=json"
+   },
+   {
+    "lewis, ted": "https://www.loc.gov/search/?fa=contributor:lewis,+ted&fo=json"
+   },
+   {
+    "ted lewis jazz band": "https://www.loc.gov/search/?fa=contributor:ted+lewis+jazz+band&fo=json"
+   }
+  ],
+  "contributors_musical_group": [
+   {
+    "ted lewis jazz band": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_musical_group:ted+lewis+jazz+band&fo=json"
+   }
+  ],
+  "contributors_primary": [
+   {
+    "ted lewis jazz band": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_primary:ted+lewis+jazz+band&fo=json"
+   }
+  ],
+  "date": "1923-12-04",
+  "dates": [
+   {
+    "1923-12-04": "https://www.loc.gov/search/?dates=1923-12-04/1923-12-04&fo=json"
+   }
+  ],
+  "description": [
+   "Columbia 48-D. Matrix/Take: 81382/3."
+  ],
+  "digitized": true,
+  "display_offsite": true,
+  "extract_timestamp": "2026-10-05T05:19:43.591Z",
+  "extract_urls": [
+   "http://www.loc.gov/item/jukebox-672272#nationaljukebox"
+  ],
+  "file_id": [
+   "ucsb_col_48d_01_81382_03"
+  ],
+  "format": [
+   {
+    "sound recording": "https://www.loc.gov/search/?fa=original_format:sound+recording&fo=json"
+   }
+  ],
+  "group": [
+   "nationaljukebox",
+   "national-jukebox"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/item/jukebox-672272/",
+  "iiif_manifest_url": "https://www.loc.gov/item/jukebox-672272/manifest.json",
+  "image_url": [
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_48d_01_81382_03:ucsb_col_48d_01_81382_03/full/pct:12.5/0/default.jpg#h=456&w=456",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_48d_01_81382_03:ucsb_col_48d_01_81382_03/full/pct:25/0/default.jpg#h=912&w=912",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_48d_01_81382_03:ucsb_col_48d_01_81382_03/full/pct:50/0/default.jpg#h=1824&w=1824",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_48d_01_81382_03:ucsb_col_48d_01_81382_03/full/pct:100/0/default.jpg#h=3648&w=3648"
+  ],
+  "index": 1,
+  "item": {
+   "audio_type": "Instrumental",
+   "contributors": [
+    "Conrad, Con -- Songwriter -- Songwriter",
+    "Lewis, Ted -- Leader -- Leader",
+    "Ted Lewis Jazz Band -- Musical Group -- Musical Group",
+    "Howard, John S. -- Songwriter -- Songwriter"
+   ],
+   "file_id": [
+    "ucsb_col_48d_01_81382_03"
+   ],
+   "media_size": "10-in.",
+   "profile": "jukebox",
+   "recording_catalog_number": "48-D",
+   "recording_date": "1923-12-04",
+   "recording_label": "Columbia",
+   "recording_matrix_number": "81382 (Matrix ID)",
+   "recording_repository": "Source of original recording: Department of Special Collections, Davidson Library, University of California, Santa Barbara.",
+   "recording_take_id": 672272,
+   "recording_take_number": "3",
+   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+   "summary": "Jazz/dance band"
+  },
+  "location": [
+   "illinois",
+   "chicago",
+   "united states"
+  ],
+  "locations": [
+   {
+    "chicago": "https://www.loc.gov/search/?fa=location:chicago&fo=json"
+   },
+   {
+    "illinois": "https://www.loc.gov/search/?fa=location:illinois&fo=json"
+   },
+   {
+    "united states": "https://www.loc.gov/search/?fa=location:united+states&fo=json"
+   }
+  ],
+  "media_size": "10-in.",
+  "mime_type": [
+   "audio/mpeg",
+   "audio/wav",
+   "image/tif",
+   "image/jpeg"
+  ],
+  "online_format": [
+   "audio",
+   "image"
+  ],
+  "original_format": [
+   "sound recording"
+  ],
+  "other_formats": [],
+  "other_title": [
+   "Fox trot"
+  ],
+  "partof": [
+   {
+    "count": 10024,
+    "title": "department of special collections, davidson library, university of california, santa barbara",
+    "url": "https://www.loc.gov/search/?fa=partof:department+of+special+collections,+davidson+library,+university+of+california,+santa+barbara&fo=json"
+   },
+   {
+    "count": 20273,
+    "title": "national jukebox",
+    "url": "https://www.loc.gov/collections/national-jukebox/?fo=json"
+   },
+   {
+    "count": 20496,
+    "title": "recorded sound research center",
+    "url": "https://www.loc.gov/search/?fa=partof:recorded+sound+research+center&fo=json"
+   }
+  ],
+  "partof_repository": [
+   "department of special collections, davidson library, university of california, santa barbara"
+  ],
+  "profile": "jukebox",
+  "recording_catalog_number": "48-D",
+  "recording_date": "1923-12-04",
+  "recording_label": "Columbia",
+  "recording_matrix_number": "81382 (Matrix ID)",
+  "recording_repository": "Source of original recording: Department of Special Collections, Davidson Library, University of California, Santa Barbara.",
+  "recording_take_id": 672272,
+  "recording_take_number": "3",
+  "resources": [
+   {
+    "files": 1,
+    "media": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_48d_01_81382_03:ucsb_col_48d_01_81382_03/full/full/0/full/default.mp3",
+    "url": "https://www.loc.gov/resource/jukebox-672272.0"
+   },
+   {
+    "files": 1,
+    "image": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_48d_01_81382_03:ucsb_col_48d_01_81382_03/full/pct:100/0/default.jpg",
+    "mimetype": "image/jpeg",
+    "url": "https://www.loc.gov/resource/jukebox-672272.1"
+   }
+  ],
+  "rights": [
+   "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
+  ],
+  "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+  "score": 15.335333,
+  "shard": "01",
+  "shelf_id": "Columbia 48-D",
+  "site": [
+   "nationaljukebox"
+  ],
+  "source_modified": "2000-01-01T12:00:00Z",
+  "subject": [
+   "columbia",
+   "instrumental"
+  ],
+  "subject_category": [
+   "instrumental"
+  ],
+  "subject_label": [
+   "columbia"
+  ],
+  "subjects": [
+   {
+    "columbia": "https://www.loc.gov/search/?fa=subject:columbia&fo=json"
+   },
+   {
+    "instrumental": "https://www.loc.gov/search/?fa=subject:instrumental&fo=json"
+   }
+  ],
+  "subjects_category": [
+   {
+    "instrumental": "https://www.loc.gov/collections/national-jukebox/?fa=subject_category:instrumental&fo=json"
+   }
+  ],
+  "subjects_label": [
+   {
+    "columbia": "https://www.loc.gov/collections/national-jukebox/?fa=subject_label:columbia&fo=json"
+   }
+  ],
+  "summary": "Jazz/dance band",
+  "timestamp": "2026-10-05T14:39:02.689Z",
+  "title": "Steppin' out",
+  "type": [
+   "sound recording-musical"
+  ],
+  "url": "https://www.loc.gov/item/jukebox-672272/"
+ },
+ "more_like_this": [
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-669808/",
+    "http://www.loc.gov/resource/jukebox-669808.0/",
+    "http://www.loc.gov/resource/jukebox-669808.1/",
+    "http://www.loc.gov/resource/jukebox-669808.0",
+    "http://www.loc.gov/resource/jukebox-669808.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "ted lewis jazz band",
+    "lewis, ted",
+    "friend, cliff",
+    "conrad, con"
+   ],
+   "date": "1923-01-05",
+   "dates": [
+    "1923-01-05"
+   ],
+   "description": [
+    "Columbia A3814. Matrix/Take: 80764/3."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T05:12:32.936Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-669808/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a3814_01_80764_03:ucsb_col_a3814_01_80764_03/full/pct:12.5/0/default.jpg#h=352&w=352",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a3814_01_80764_03:ucsb_col_a3814_01_80764_03/full/pct:25/0/default.jpg#h=705&w=705",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a3814_01_80764_03:ucsb_col_a3814_01_80764_03/full/pct:50/0/default.jpg#h=1410&w=1410",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a3814_01_80764_03:ucsb_col_a3814_01_80764_03/full/pct:100/0/default.jpg#h=2820&w=2820"
+   ],
+   "index": 1,
+   "location": [
+    "illinois",
+    "chicago",
+    "united states"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Dance music : Fox trot"
+   ],
+   "partof": [
+    "national jukebox",
+    "recorded sound research center",
+    "department of special collections, davidson library, university of california, santa barbara"
+   ],
+   "score": 47.621284,
+   "shelf_id": "Columbia A3814",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "columbia",
+    "instrumental"
+   ],
+   "timestamp": "2026-10-05T14:38:01.287Z",
+   "title": "Jenny",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-669808/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-664327/",
+    "http://www.loc.gov/resource/jukebox-664327.0/",
+    "http://www.loc.gov/resource/jukebox-664327.1/",
+    "http://www.loc.gov/resource/jukebox-664327.0",
+    "http://www.loc.gov/resource/jukebox-664327.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "ted lewis jazz band",
+    "lewis, ted"
+   ],
+   "date": "1920-08-25",
+   "dates": [
+    "1920-08-25"
+   ],
+   "description": [
+    "Columbia A2998. Matrix/Take: 79361/1."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T04:59:21.589Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-664327/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a2998_01_79361_01:ucsb_col_a2998_01_79361_01/full/pct:12.5/0/default.jpg#h=402&w=402",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a2998_01_79361_01:ucsb_col_a2998_01_79361_01/full/pct:25/0/default.jpg#h=805&w=805",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a2998_01_79361_01:ucsb_col_a2998_01_79361_01/full/pct:50/0/default.jpg#h=1611&w=1611",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a2998_01_79361_01:ucsb_col_a2998_01_79361_01/full/pct:100/0/default.jpg#h=3223&w=3223"
+   ],
+   "index": 2,
+   "location": [
+    "illinois",
+    "chicago",
+    "united states"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Dance music : Fox trot"
+   ],
+   "partof": [
+    "national jukebox",
+    "recorded sound research center",
+    "department of special collections, davidson library, university of california, santa barbara"
+   ],
+   "score": 40.86338,
+   "shelf_id": "Columbia A2998",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "columbia",
+    "instrumental"
+   ],
+   "timestamp": "2026-10-05T14:36:19.887Z",
+   "title": "Fair one",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-664327/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-664349/",
+    "http://www.loc.gov/resource/jukebox-664349.0/",
+    "http://www.loc.gov/resource/jukebox-664349.1/",
+    "http://www.loc.gov/resource/jukebox-664349.0",
+    "http://www.loc.gov/resource/jukebox-664349.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "ted lewis jazz band",
+    "lewis, ted",
+    "moebus, ed"
+   ],
+   "date": "1920-08-25",
+   "dates": [
+    "1920-08-25"
+   ],
+   "description": [
+    "Columbia A2998. Matrix/Take: 79367/2."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T04:59:21.589Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-664349/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a2998_01_79367_02:ucsb_col_a2998_01_79367_02/full/pct:12.5/0/default.jpg#h=374&w=374",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a2998_01_79367_02:ucsb_col_a2998_01_79367_02/full/pct:25/0/default.jpg#h=749&w=749",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a2998_01_79367_02:ucsb_col_a2998_01_79367_02/full/pct:50/0/default.jpg#h=1499&w=1499",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a2998_01_79367_02:ucsb_col_a2998_01_79367_02/full/pct:100/0/default.jpg#h=2998&w=2998"
+   ],
+   "index": 3,
+   "location": [
+    "illinois",
+    "chicago",
+    "united states"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Dance music : Fox trot"
+   ],
+   "partof": [
+    "national jukebox",
+    "recorded sound research center",
+    "department of special collections, davidson library, university of california, santa barbara"
+   ],
+   "score": 40.86338,
+   "shelf_id": "Columbia A2998",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "columbia",
+    "instrumental"
+   ],
+   "timestamp": "2026-10-05T14:36:19.887Z",
+   "title": "Gypsy moon",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-664349/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-669563/",
+    "http://www.loc.gov/resource/jukebox-669563.0/",
+    "http://www.loc.gov/resource/jukebox-669563.1/",
+    "http://www.loc.gov/resource/jukebox-669563.0",
+    "http://www.loc.gov/resource/jukebox-669563.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "gibbs, a. harrington",
+    "grey, joe",
+    "ted lewis jazz band",
+    "wood, leo",
+    "lewis, ted"
+   ],
+   "date": "1922-12-05",
+   "dates": [
+    "1922-12-05"
+   ],
+   "description": [
+    "Columbia A3790. Matrix/Take: 80703/3."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T05:11:00.361Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-669563/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a3790_01_80703_03:ucsb_col_a3790_01_80703_03/full/pct:12.5/0/default.jpg#h=369&w=369",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a3790_01_80703_03:ucsb_col_a3790_01_80703_03/full/pct:25/0/default.jpg#h=738&w=738",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a3790_01_80703_03:ucsb_col_a3790_01_80703_03/full/pct:50/0/default.jpg#h=1476&w=1476",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a3790_01_80703_03:ucsb_col_a3790_01_80703_03/full/pct:100/0/default.jpg#h=2953&w=2953"
+   ],
+   "index": 4,
+   "location": [
+    "illinois",
+    "chicago",
+    "united states"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Fox trot"
+   ],
+   "partof": [
+    "national jukebox",
+    "recorded sound research center",
+    "department of special collections, davidson library, university of california, santa barbara"
+   ],
+   "score": 40.86338,
+   "shelf_id": "Columbia A3790",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "columbia",
+    "instrumental"
+   ],
+   "timestamp": "2026-10-05T14:38:01.287Z",
+   "title": "Runnin' wild!",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-669563/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-669595/",
+    "http://www.loc.gov/resource/jukebox-669595.0/",
+    "http://www.loc.gov/resource/jukebox-669595.1/",
+    "http://www.loc.gov/resource/jukebox-669595.0",
+    "http://www.loc.gov/resource/jukebox-669595.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "handy, w. c.",
+    "lewis, ted",
+    "ted lewis jazz band"
+   ],
+   "date": "1922-12-07",
+   "dates": [
+    "1922-12-07"
+   ],
+   "description": [
+    "Columbia A3790. Matrix/Take: 80711/2."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T05:11:00.361Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-669595/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a3790_01_80711_02:ucsb_col_a3790_01_80711_02/full/pct:12.5/0/default.jpg#h=345&w=345",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a3790_01_80711_02:ucsb_col_a3790_01_80711_02/full/pct:25/0/default.jpg#h=691&w=691",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a3790_01_80711_02:ucsb_col_a3790_01_80711_02/full/pct:50/0/default.jpg#h=1383&w=1383",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a3790_01_80711_02:ucsb_col_a3790_01_80711_02/full/pct:100/0/default.jpg#h=2767&w=2767"
+   ],
+   "index": 5,
+   "location": [
+    "illinois",
+    "chicago",
+    "united states"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Fox trot"
+   ],
+   "partof": [
+    "national jukebox",
+    "recorded sound research center",
+    "department of special collections, davidson library, university of california, santa barbara"
+   ],
+   "score": 40.86338,
+   "shelf_id": "Columbia A3790",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "columbia",
+    "instrumental"
+   ],
+   "timestamp": "2026-10-05T14:38:01.287Z",
+   "title": "St. Louis blues",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-669595/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-669804/",
+    "http://www.loc.gov/resource/jukebox-669804.0/",
+    "http://www.loc.gov/resource/jukebox-669804.1/",
+    "http://www.loc.gov/resource/jukebox-669804.0",
+    "http://www.loc.gov/resource/jukebox-669804.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "ted lewis jazz band",
+    "handy, w. c.",
+    "lewis, ted"
+   ],
+   "date": "1923-01-04",
+   "dates": [
+    "1923-01-04"
+   ],
+   "description": [
+    "Columbia A3813. Matrix/Take: 80763/3."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T05:12:32.936Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-669804/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a3813_01_80763_03:ucsb_col_a3813_01_80763_03/full/pct:12.5/0/default.jpg#h=367&w=367",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a3813_01_80763_03:ucsb_col_a3813_01_80763_03/full/pct:25/0/default.jpg#h=735&w=735",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a3813_01_80763_03:ucsb_col_a3813_01_80763_03/full/pct:50/0/default.jpg#h=1470&w=1470",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a3813_01_80763_03:ucsb_col_a3813_01_80763_03/full/pct:100/0/default.jpg#h=2940&w=2940"
+   ],
+   "index": 6,
+   "location": [
+    "illinois",
+    "chicago",
+    "united states"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Dance music : Fox trot"
+   ],
+   "partof": [
+    "national jukebox",
+    "recorded sound research center",
+    "department of special collections, davidson library, university of california, santa barbara"
+   ],
+   "score": 40.86338,
+   "shelf_id": "Columbia A3813",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "columbia",
+    "instrumental"
+   ],
+   "timestamp": "2026-10-05T14:38:01.287Z",
+   "title": "The Memphis blues",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-669804/"
+  }
+ ],
+ "notice": {
+  "info": "<strong>COLUMBUS DAY HOLIDAY:</strong> On Monday, October 12, 2026, The Jefferson Building Great Hall and exhibitions will be open from 10 a.m. - 5 p.m. to guests with timed-entry passes. The Main Reading Room will be open to visitors, no research or collections services available. All other reading rooms, the Madison and Adams Buildings will be CLOSED to the public. Regularly scheduled access resumes on Tuesday, October 13. \n",
+  "status": "production"
+ },
+ "options": {
+  "access_group": [
+   ""
+  ],
+  "access_group_raw": "",
+  "all": null,
+  "api_version": "1",
+  "app_context": null,
+  "application_shim": null,
+  "application_version": "$Revision$",
+  "attribute": null,
+  "attribute!": null,
+  "attribute_map": null,
+  "cache_tags": [
+   "nationaljukebox",
+   "national-jukebox",
+   "ndnp/dlc-2020_now",
+   "library-of-congress-washington-dc-awardee-8",
+   "sgpjicp/dlc",
+   "japanese-internment-camp-project"
+  ],
+  "callback": null,
+  "clip": null,
+  "clip_image_width": null,
+  "clip_rotation": null,
+  "content_filter": null,
+  "content_replacement": "",
+  "count": null,
+  "dates": null,
+  "default_count": 25,
+  "delimiter": null,
+  "digital_id": null,
+  "display_level": null,
+  "distance": null,
+  "downloadOption": null,
+  "duration": 1.3150582313537598,
+  "embed": [],
+  "embed!": [],
+  "error_response_status": null,
+  "excludeTerms": null,
+  "facetLimits": "",
+  "facetPrefix": null,
+  "facet_count": null,
+  "facet_style": null,
+  "field": null,
+  "form_facets": [
+   {
+    "field": "subject_label",
+    "select": "multiple"
+   },
+   {
+    "field": "subject_category",
+    "select": "multiple"
+   },
+   {
+    "field": "language",
+    "select": "multiple"
+   }
+  ],
+  "format": "json",
+  "host": "www.loc.gov",
+  "ical": false,
+  "id": "jukebox-672272/",
+  "iiif": false,
+  "include_facets": [
+   {
+    "field": "original-format"
+   },
+   {
+    "field": "partof_repository",
+    "label": "Repository"
+   },
+   {
+    "field": "subject_label",
+    "label": "Label"
+   },
+   {
+    "field": "dates"
+   },
+   {
+    "field": "subject_genre",
+    "label": "Genre"
+   },
+   {
+    "closed": true,
+    "field": "subject_target_audience",
+    "label": "Target Audience"
+   },
+   {
+    "closed": true,
+    "field": "subject_category",
+    "label": "Category"
+   },
+   {
+    "closed": true,
+    "field": "location"
+   },
+   {
+    "closed": true,
+    "field": "contributor"
+   },
+   {
+    "closed": true,
+    "field": "contributor_vocalist",
+    "label": "Vocalist"
+   },
+   {
+    "closed": true,
+    "field": "contributor_composer",
+    "label": "Composer"
+   },
+   {
+    "closed": true,
+    "field": "contributor_lyricist",
+    "label": "Lyricist"
+   },
+   {
+    "closed": true,
+    "field": "contributor_author",
+    "label": "Author"
+   },
+   {
+    "closed": true,
+    "field": "contributor_performer",
+    "label": "Performer"
+   },
+   {
+    "closed": true,
+    "field": "contributor_musical_group",
+    "label": "Musical Group"
+   },
+   {
+    "closed": true,
+    "field": "subject"
+   },
+   {
+    "closed": true,
+    "field": "language"
+   },
+   {
+    "field": "access-restricted"
+   }
+  ],
+  "index": null,
+  "inputEncoding": "UTF-8",
+  "item": null,
+  "items": null,
+  "keys": null,
+  "language": null,
+  "latlong": null,
+  "method": "GET",
+  "newSearch": null,
+  "new_clip_url": false,
+  "onsite": false,
+  "operator": null,
+  "outputEncoding": "UTF-8",
+  "page_campaigns": [],
+  "path_info": "/item/jukebox-672272/",
+  "port": "443",
+  "proxypath": null,
+  "query_string": "fo=json",
+  "redirect_proxy": false,
+  "redirect_to_item": null,
+  "referer": "",
+  "region": "",
+  "release_id": 123456789,
+  "request_host": "www.loc.gov",
+  "request_params": {
+   "fo": [
+    "json"
+   ]
+  },
+  "request_url": "https://www.loc.gov/item/jukebox-672272/?fo=json",
+  "resource": "",
+  "resource_sequence": null,
+  "scheme": "https",
+  "searchIn": null,
+  "searchTerms": "",
+  "segments": null,
+  "shards": [
+   "01"
+  ],
+  "site_date_range": "1900-01-01/1925-12-31",
+  "site_defaults": [],
+  "site_id": null,
+  "site_type": null,
+  "solrQuery": "",
+  "sortBy": null,
+  "sortOrder": null,
+  "startPage": null,
+  "style": null,
+  "suggested": null,
+  "target": null,
+  "template": "layouts/item/layout",
+  "timestamp": 1791464026.893179,
+  "tz_aware": null,
+  "unionFacets": "",
+  "webcast_permalink": null
+ },
+ "related_items": [
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/sn84025819/1900-01-27/ed-1/",
+    "http://www.loc.gov/resource/sn84025819/1900-01-27/ed-1/"
+   ],
+   "batch": [
+    "dlc_bigstone_ver02"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "library of congress, washington, dc"
+   ],
+   "date": "1900-01-27",
+   "dates": [
+    "1900-01-27"
+   ],
+   "description": [
+    "Chicago, Ill."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-06-21T17:45:41.532Z",
+   "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/sn84025819/1900-01-27/ed-1/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_bigstone_ver02:data:sn84025819:00220720457:1900012701:0001/full/pct:3.125/0/default.jpg#h=289&w=188",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_bigstone_ver02:data:sn84025819:00220720457:1900012701:0001/full/pct:6.25/0/default.jpg#h=579&w=376",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_bigstone_ver02:data:sn84025819:00220720457:1900012701:0001/full/pct:12.5/0/default.jpg#h=1159&w=752"
+   ],
+   "index": 1,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "illinois",
+    "chicago",
+    "cook county",
+    "cook",
+    "united states"
+   ],
+   "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg"
+   ],
+   "number": [
+    "sn84025819",
+    "1",
+    "00220720457"
+   ],
+   "numeric_shelf_id": 190001271,
+   "online_format": [
+    "image",
+    "pdf",
+    "online text"
+   ],
+   "original_format": [
+    "newspaper"
+   ],
+   "partof": [
+    "the chicago world (chicago, ill.) 1900-19??",
+    "serial and government publications division",
+    "chronicling america"
+   ],
+   "publication_frequency": [
+    "weekly"
+   ],
+   "score": 13.309539,
+   "shelf_id": "sn84025819, 1900-01-27, Edition 1",
+   "site": [
+    "chroniclingamerica"
+   ],
+   "subject": [
+    "illinois",
+    "chicago",
+    "cook county",
+    "cook county (ill.)",
+    "african american newspapers",
+    "newspapers",
+    "african american",
+    "chicago (ill.)",
+    "cook",
+    "united states",
+    "african americans"
+   ],
+   "timestamp": "2026-06-21T17:46:37.232Z",
+   "title": "The Chicago world (Chicago, Ill.), January 27, 1900",
+   "type": [
+    "issue"
+   ],
+   "url": "https://www.loc.gov/item/sn84025819/1900-01-27/ed-1/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/sn84024048/1882-11-18/ed-1/",
+    "http://www.loc.gov/resource/sn84024048/1882-11-18/ed-1/"
+   ],
+   "batch": [
+    "dlc_crater_ver01"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "library of congress, washington, dc"
+   ],
+   "date": "1882-11-18",
+   "dates": [
+    "1882-11-18"
+   ],
+   "description": [
+    "Chicago, Ill."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2023-08-07T20:30:34.324Z",
+   "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/sn84024048/1882-11-18/ed-1/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crater_ver01:data:sn84024048:00220720391:1882111801:0001/full/pct:3.125/0/default.jpg#h=275&w=203",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crater_ver01:data:sn84024048:00220720391:1882111801:0001/full/pct:6.25/0/default.jpg#h=550&w=407",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crater_ver01:data:sn84024048:00220720391:1882111801:0001/full/pct:12.5/0/default.jpg#h=1101&w=815"
+   ],
+   "index": 2,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "illinois",
+    "chicago",
+    "united states",
+    "cook county"
+   ],
+   "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg"
+   ],
+   "number": [
+    "00220720391",
+    "sn84024048",
+    "1"
+   ],
+   "numeric_shelf_id": 188211181,
+   "online_format": [
+    "image",
+    "pdf",
+    "online text"
+   ],
+   "original_format": [
+    "newspaper"
+   ],
+   "partof": [
+    "the conservator (chicago, ill.) 18??-1???",
+    "chronicling america",
+    "serial and government publications division"
+   ],
+   "publication_frequency": [
+    "weekly"
+   ],
+   "score": 13.309539,
+   "shelf_id": "sn84024048, 1882-11-18, Edition 1",
+   "site": [
+    "chroniclingamerica"
+   ],
+   "subject": [
+    "illinois",
+    "chicago",
+    "cook county",
+    "newspapers",
+    "african american",
+    "chicago (ill.)",
+    "united states",
+    "african americans"
+   ],
+   "timestamp": "2023-08-08T02:12:11.475Z",
+   "title": "The conservator (Chicago, Ill.), November 18, 1882",
+   "type": [
+    "issue"
+   ],
+   "url": "https://www.loc.gov/item/sn84024048/1882-11-18/ed-1/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/sn84024048/1882-12-23/ed-1/",
+    "http://www.loc.gov/resource/sn84024048/1882-12-23/ed-1/"
+   ],
+   "batch": [
+    "dlc_crater_ver01"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "library of congress, washington, dc"
+   ],
+   "date": "1882-12-23",
+   "dates": [
+    "1882-12-23"
+   ],
+   "description": [
+    "Chicago, Ill."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2023-08-07T20:30:34.324Z",
+   "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/sn84024048/1882-12-23/ed-1/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crater_ver01:data:sn84024048:00220720391:1882122301:0001/full/pct:3.125/0/default.jpg#h=273&w=203",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crater_ver01:data:sn84024048:00220720391:1882122301:0001/full/pct:6.25/0/default.jpg#h=546&w=406",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crater_ver01:data:sn84024048:00220720391:1882122301:0001/full/pct:12.5/0/default.jpg#h=1092&w=812"
+   ],
+   "index": 3,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "illinois",
+    "chicago",
+    "united states",
+    "cook county"
+   ],
+   "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg"
+   ],
+   "number": [
+    "00220720391",
+    "sn84024048",
+    "1"
+   ],
+   "numeric_shelf_id": 188212231,
+   "online_format": [
+    "image",
+    "pdf",
+    "online text"
+   ],
+   "original_format": [
+    "newspaper"
+   ],
+   "partof": [
+    "the conservator (chicago, ill.) 18??-1???",
+    "chronicling america",
+    "serial and government publications division"
+   ],
+   "publication_frequency": [
+    "weekly"
+   ],
+   "score": 13.309539,
+   "shelf_id": "sn84024048, 1882-12-23, Edition 1",
+   "site": [
+    "chroniclingamerica"
+   ],
+   "subject": [
+    "illinois",
+    "chicago",
+    "cook county",
+    "newspapers",
+    "african american",
+    "chicago (ill.)",
+    "united states",
+    "african americans"
+   ],
+   "timestamp": "2023-08-08T02:12:11.475Z",
+   "title": "The conservator (Chicago, Ill.), December 23, 1882",
+   "type": [
+    "issue"
+   ],
+   "url": "https://www.loc.gov/item/sn84024048/1882-12-23/ed-1/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/sn84024048/1883-09-08/ed-1/",
+    "http://www.loc.gov/resource/sn84024048/1883-09-08/ed-1/"
+   ],
+   "batch": [
+    "dlc_crater_ver01"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "library of congress, washington, dc"
+   ],
+   "date": "1883-09-08",
+   "dates": [
+    "1883-09-08"
+   ],
+   "description": [
+    "Chicago, Ill."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2023-08-07T20:30:34.324Z",
+   "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/sn84024048/1883-09-08/ed-1/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crater_ver01:data:sn84024048:00220720391:1883090801:0001/full/pct:3.125/0/default.jpg#h=273&w=203",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crater_ver01:data:sn84024048:00220720391:1883090801:0001/full/pct:6.25/0/default.jpg#h=547&w=406",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crater_ver01:data:sn84024048:00220720391:1883090801:0001/full/pct:12.5/0/default.jpg#h=1095&w=812"
+   ],
+   "index": 4,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "illinois",
+    "chicago",
+    "united states",
+    "cook county"
+   ],
+   "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg"
+   ],
+   "number": [
+    "00220720391",
+    "sn84024048",
+    "1"
+   ],
+   "numeric_shelf_id": 188309081,
+   "online_format": [
+    "image",
+    "pdf",
+    "online text"
+   ],
+   "original_format": [
+    "newspaper"
+   ],
+   "partof": [
+    "the conservator (chicago, ill.) 18??-1???",
+    "chronicling america",
+    "serial and government publications division"
+   ],
+   "publication_frequency": [
+    "weekly"
+   ],
+   "score": 13.309539,
+   "shelf_id": "sn84024048, 1883-09-08, Edition 1",
+   "site": [
+    "chroniclingamerica"
+   ],
+   "subject": [
+    "illinois",
+    "chicago",
+    "cook county",
+    "newspapers",
+    "african american",
+    "chicago (ill.)",
+    "united states",
+    "african americans"
+   ],
+   "timestamp": "2023-08-08T02:12:11.475Z",
+   "title": "The conservator (Chicago, Ill.), September 8, 1883",
+   "type": [
+    "issue"
+   ],
+   "url": "https://www.loc.gov/item/sn84024048/1883-09-08/ed-1/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/sn84024048/1886-12-18/ed-1/",
+    "http://www.loc.gov/resource/sn84024048/1886-12-18/ed-1/"
+   ],
+   "batch": [
+    "dlc_crater_ver01"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "library of congress, washington, dc"
+   ],
+   "date": "1886-12-18",
+   "dates": [
+    "1886-12-18"
+   ],
+   "description": [
+    "Chicago, Ill."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2023-08-07T20:30:34.324Z",
+   "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/sn84024048/1886-12-18/ed-1/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crater_ver01:data:sn84024048:00220720391:1886121801:0001/full/pct:3.125/0/default.jpg#h=281&w=219",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crater_ver01:data:sn84024048:00220720391:1886121801:0001/full/pct:6.25/0/default.jpg#h=563&w=438",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crater_ver01:data:sn84024048:00220720391:1886121801:0001/full/pct:12.5/0/default.jpg#h=1127&w=876"
+   ],
+   "index": 5,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "illinois",
+    "chicago",
+    "united states",
+    "cook county"
+   ],
+   "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg"
+   ],
+   "number": [
+    "00220720391",
+    "sn84024048",
+    "1"
+   ],
+   "numeric_shelf_id": 188612181,
+   "online_format": [
+    "image",
+    "pdf",
+    "online text"
+   ],
+   "original_format": [
+    "newspaper"
+   ],
+   "partof": [
+    "the conservator (chicago, ill.) 18??-1???",
+    "chronicling america",
+    "serial and government publications division"
+   ],
+   "publication_frequency": [
+    "weekly"
+   ],
+   "score": 13.309539,
+   "shelf_id": "sn84024048, 1886-12-18, Edition 1",
+   "site": [
+    "chroniclingamerica"
+   ],
+   "subject": [
+    "illinois",
+    "chicago",
+    "cook county",
+    "newspapers",
+    "african american",
+    "chicago (ill.)",
+    "united states",
+    "african americans"
+   ],
+   "timestamp": "2023-08-08T02:12:11.475Z",
+   "title": "The conservator (Chicago, Ill.), December 18, 1886",
+   "type": [
+    "issue"
+   ],
+   "url": "https://www.loc.gov/item/sn84024048/1886-12-18/ed-1/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/sn83025518/1945-08-18/ed-1/",
+    "http://www.loc.gov/resource/sn83025518/1945-08-18/ed-1/"
+   ],
+   "batch": [
+    "dlc_dupontcircle_ver01"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "library of congress, washington, dc"
+   ],
+   "date": "1945-08-18",
+   "dates": [
+    "1945-08-18"
+   ],
+   "description": [
+    "Denver, Colo."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-06-25T18:11:03.611Z",
+   "group": [
+    "sgpjicp/dlc",
+    "japanese-internment-camp-project"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/sn83025518/1945-08-18/ed-1/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_dupontcircle_ver01:data:sn83025518:00237288701:1945081801:0542/full/pct:6.25/0/default.jpg#h=456&w=329",
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_dupontcircle_ver01:data:sn83025518:00237288701:1945081801:0542/full/pct:12.5/0/default.jpg#h=912&w=659"
+   ],
+   "index": 6,
+   "language": [
+    "japanese",
+    "english"
+   ],
+   "location": [
+    "illinois",
+    "chicago",
+    "united states",
+    "denver",
+    "colorado",
+    "california"
+   ],
+   "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg"
+   ],
+   "number": [
+    "sn83025518",
+    "1",
+    "00237288701"
+   ],
+   "numeric_shelf_id": 194508181,
+   "online_format": [
+    "image",
+    "pdf",
+    "online text"
+   ],
+   "original_format": [
+    "newspaper"
+   ],
+   "other_title": [
+    "格州時事 = Colorado times",
+    "Colorado times"
+   ],
+   "partof": [
+    "kakushu jiji = colorado times (denver, colo.) 1918-1969",
+    "chronicling america",
+    "serial and government publications division",
+    "japanese-american internment camp newspapers, 1942-1946"
+   ],
+   "publication_frequency": [
+    "triweekly"
+   ],
+   "score": 10.796808,
+   "shelf_id": "sn83025518, 1945-08-18, Edition 1",
+   "site": [
+    "chroniclingamerica"
+   ],
+   "subject": [
+    "illinois",
+    "denver (colo.)",
+    "chicago",
+    "japanese americans",
+    "newspapers",
+    "japanese",
+    "united states",
+    "denver",
+    "colorado",
+    "forced removal and internment",
+    "california"
+   ],
+   "timestamp": "2026-06-25T18:59:22.691Z",
+   "title": "Kakushu jiji = Colorado times (Denver, Colo.), August 18, 1945",
+   "type": [
+    "issue"
+   ],
+   "url": "https://www.loc.gov/item/sn83025518/1945-08-18/ed-1/"
+  }
+ ],
+ "resources": [
+  {
+   "audio": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_48d_01_81382_03:ucsb_col_48d_01_81382_03/full/full/0/full/default.mp3",
+   "files": [
+    [
+     {
+      "aspectRation": "4:3",
+      "autoPlay": false,
+      "canDownload": true,
+      "derivatives": [
+       {
+        "derivativeUrl": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/ucsb_col_48d_01_81382_03/ucsb_col_48d_01_81382_03.mp3"
+       }
+      ],
+      "detailUrl": "https://www.loc.gov/item/jukebox-672272",
+      "download": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_48d_01_81382_03:ucsb_col_48d_01_81382_03/full/full/0/full/default.mp3",
+      "duration": 187.0,
+      "filename": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/ucsb_col_48d_01_81382_03/ucsb_col_48d_01_81382_03.mp3",
+      "mediaType": "A",
+      "metadata": [
+       "Steppin' out",
+       "Jazz/dance band"
+      ],
+      "mimetype": "audio/mpeg",
+      "poster": null,
+      "rights_restricted": true,
+      "shortName": "Steppin' out",
+      "thumbnail_url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_48d_01_81382_03:ucsb_col_48d_01_81382_03/full/pct:12.5/0/default.jpg"
+     },
+     {
+      "height": null,
+      "levels": 1,
+      "mimetype": "audio/wav",
+      "size": 16559742,
+      "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/ucsb_col_48d_01_81382_03/ucsb_col_48d_01_81382_03.wav",
+      "width": null
+     }
+    ]
+   ],
+   "url": "https://www.loc.gov/resource/jukebox-672272.0"
+  },
+  {
+   "files": [
+    [
+     {
+      "height": 456,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_48d_01_81382_03:ucsb_col_48d_01_81382_03/full/pct:12.5/0/default.jpg",
+      "width": 456
+     },
+     {
+      "height": 912,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_48d_01_81382_03:ucsb_col_48d_01_81382_03/full/pct:25/0/default.jpg",
+      "width": 912
+     },
+     {
+      "height": 1824,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_48d_01_81382_03:ucsb_col_48d_01_81382_03/full/pct:50/0/default.jpg",
+      "width": 1824
+     },
+     {
+      "height": 3648,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_48d_01_81382_03:ucsb_col_48d_01_81382_03/full/pct:100/0/default.jpg",
+      "width": 3648
+     },
+     {
+      "height": null,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 39953308,
+      "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/ucsb_col_48d_01_81382_03/ucsb_col_48d_01_81382_03.tif",
+      "width": null
+     }
+    ]
+   ],
+   "image": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_48d_01_81382_03:ucsb_col_48d_01_81382_03/full/pct:100/0/default.jpg",
+   "mimetype": "image/jpeg",
+   "url": "https://www.loc.gov/resource/jukebox-672272.1"
+  }
+ ],
+ "timestamp": 1791464028208
+}

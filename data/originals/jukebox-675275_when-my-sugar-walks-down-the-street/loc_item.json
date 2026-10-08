@@ -1,0 +1,1609 @@
+{
+ "articles_and_essays": null,
+ "cite_this": {
+  "apa": "Mills, I., Warner, B. H., McHugh, J., Corona Dance Orchestra Warner'S Seven Aces &amp; Warner'S Seven Aces. (1925) <cite>When My Sugar Walks Down the Street</cite>. [Audio] Retrieved from the Library of Congress, https://www.loc.gov/item/jukebox-675275/.",
+  "chicago": "Mills, Irving, Byron H Warner, Jimmy McHugh,  Corona Dance Orchestra Warner'S Seven Aces, and  Warner'S Seven Aces. <cite>When My Sugar Walks Down the Street</cite>. 1925. Audio. https://www.loc.gov/item/jukebox-675275/.",
+  "mla": "Mills, Irving, et al. <cite>When My Sugar Walks Down the Street</cite>. 1925. Audio. Retrieved from the Library of Congress, &lt;www.loc.gov/item/jukebox-675275/&gt;."
+ },
+ "item": {
+  "_version_": 1878221104396369920,
+  "access_restricted": false,
+  "aka": [
+   "http://www.loc.gov/item/jukebox-675275/",
+   "http://www.loc.gov/resource/jukebox-675275.0/",
+   "http://www.loc.gov/resource/jukebox-675275.1/",
+   "http://www.loc.gov/resource/jukebox-675275.0",
+   "http://www.loc.gov/resource/jukebox-675275.1"
+  ],
+  "audio_type": "Instrumental",
+  "campaigns": [],
+  "contributor_composer": [
+   "mills, irving",
+   "mchugh, jimmy"
+  ],
+  "contributor_musical_group": [
+   "corona dance orchestra [warner's seven aces]",
+   "warner's seven aces"
+  ],
+  "contributor_names": [
+   "Mills, Irving -- Composer -- Composer",
+   "Warner, Byron H. -- Leader -- Leader",
+   "McHugh, Jimmy -- Composer -- Composer",
+   "Corona Dance Orchestra [Warner's Seven Aces] -- Musical Group -- Musical Group",
+   "Warner's Seven Aces -- Musical Group -- Musical Group"
+  ],
+  "contributor_primary": [
+   "warner's seven aces"
+  ],
+  "contributors": [
+   {
+    "corona dance orchestra [warner's seven aces]": "https://www.loc.gov/search/?fa=contributor:corona+dance+orchestra+%5Bwarner%27s+seven+aces%5D&fo=json"
+   },
+   {
+    "mchugh, jimmy": "https://www.loc.gov/search/?fa=contributor:mchugh,+jimmy&fo=json"
+   },
+   {
+    "mills, irving": "https://www.loc.gov/search/?fa=contributor:mills,+irving&fo=json"
+   },
+   {
+    "warner's seven aces": "https://www.loc.gov/search/?fa=contributor:warner%27s+seven+aces&fo=json"
+   },
+   {
+    "warner, byron h.": "https://www.loc.gov/search/?fa=contributor:warner,+byron+h.&fo=json"
+   }
+  ],
+  "contributors_composer": [
+   {
+    "mchugh, jimmy": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_composer:mchugh,+jimmy&fo=json"
+   },
+   {
+    "mills, irving": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_composer:mills,+irving&fo=json"
+   }
+  ],
+  "contributors_musical_group": [
+   {
+    "corona dance orchestra [warner's seven aces]": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_musical_group:corona+dance+orchestra+%5Bwarner%27s+seven+aces%5D&fo=json"
+   },
+   {
+    "warner's seven aces": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_musical_group:warner%27s+seven+aces&fo=json"
+   }
+  ],
+  "contributors_primary": [
+   {
+    "warner's seven aces": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_primary:warner%27s+seven+aces&fo=json"
+   }
+  ],
+  "date": "1925-01-28",
+  "dates": [
+   {
+    "1925-01-28": "https://www.loc.gov/search/?dates=1925-01-28/1925-01-28&fo=json"
+   }
+  ],
+  "description": [
+   "Columbia 305-D. Matrix/Take: 140286/2."
+  ],
+  "digitized": true,
+  "display_offsite": true,
+  "extract_timestamp": "2026-10-05T05:36:20.059Z",
+  "extract_urls": [
+   "http://www.loc.gov/item/jukebox-675275#nationaljukebox"
+  ],
+  "file_id": [
+   "ucsb_col_305d_01_140286_02"
+  ],
+  "format": [
+   {
+    "sound recording": "https://www.loc.gov/search/?fa=original_format:sound+recording&fo=json"
+   }
+  ],
+  "group": [
+   "nationaljukebox",
+   "national-jukebox"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/item/jukebox-675275/",
+  "iiif_manifest_url": "https://www.loc.gov/item/jukebox-675275/manifest.json",
+  "image_url": [
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_305d_01_140286_02:ucsb_col_305d_01_140286_02/full/pct:12.5/0/default.jpg#h=456&w=456",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_305d_01_140286_02:ucsb_col_305d_01_140286_02/full/pct:25/0/default.jpg#h=912&w=912",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_305d_01_140286_02:ucsb_col_305d_01_140286_02/full/pct:50/0/default.jpg#h=1824&w=1824",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_305d_01_140286_02:ucsb_col_305d_01_140286_02/full/pct:100/0/default.jpg#h=3648&w=3648"
+  ],
+  "index": 1,
+  "item": {
+   "audio_type": "Instrumental",
+   "contributors": [
+    "Mills, Irving -- Composer -- Composer",
+    "Warner, Byron H. -- Leader -- Leader",
+    "McHugh, Jimmy -- Composer -- Composer",
+    "Corona Dance Orchestra [Warner's Seven Aces] -- Musical Group -- Musical Group",
+    "Warner's Seven Aces -- Musical Group -- Musical Group"
+   ],
+   "file_id": [
+    "ucsb_col_305d_01_140286_02"
+   ],
+   "media_size": "10-in.",
+   "profile": "jukebox",
+   "recording_catalog_number": "305-D",
+   "recording_date": "1925-01-28",
+   "recording_label": "Columbia",
+   "recording_matrix_number": "140286 (Matrix ID)",
+   "recording_repository": "Source of original recording: Department of Special Collections, Davidson Library, University of California, Santa Barbara.",
+   "recording_take_id": 675275,
+   "recording_take_number": "2",
+   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+   "summary": "Jazz/dance band"
+  },
+  "location": [
+   "atlanta",
+   "georgia",
+   "united states"
+  ],
+  "locations": [
+   {
+    "atlanta": "https://www.loc.gov/search/?fa=location:atlanta&fo=json"
+   },
+   {
+    "georgia": "https://www.loc.gov/search/?fa=location:georgia&fo=json"
+   },
+   {
+    "united states": "https://www.loc.gov/search/?fa=location:united+states&fo=json"
+   }
+  ],
+  "media_size": "10-in.",
+  "mime_type": [
+   "audio/mpeg",
+   "audio/wav",
+   "image/tif",
+   "image/jpeg"
+  ],
+  "online_format": [
+   "audio",
+   "image"
+  ],
+  "original_format": [
+   "sound recording"
+  ],
+  "other_formats": [],
+  "other_title": [
+   "Fox trot"
+  ],
+  "partof": [
+   {
+    "count": 10024,
+    "title": "department of special collections, davidson library, university of california, santa barbara",
+    "url": "https://www.loc.gov/search/?fa=partof:department+of+special+collections,+davidson+library,+university+of+california,+santa+barbara&fo=json"
+   },
+   {
+    "count": 20273,
+    "title": "national jukebox",
+    "url": "https://www.loc.gov/collections/national-jukebox/?fo=json"
+   },
+   {
+    "count": 20496,
+    "title": "recorded sound research center",
+    "url": "https://www.loc.gov/search/?fa=partof:recorded+sound+research+center&fo=json"
+   }
+  ],
+  "partof_repository": [
+   "department of special collections, davidson library, university of california, santa barbara"
+  ],
+  "profile": "jukebox",
+  "recording_catalog_number": "305-D",
+  "recording_date": "1925-01-28",
+  "recording_label": "Columbia",
+  "recording_matrix_number": "140286 (Matrix ID)",
+  "recording_repository": "Source of original recording: Department of Special Collections, Davidson Library, University of California, Santa Barbara.",
+  "recording_take_id": 675275,
+  "recording_take_number": "2",
+  "resources": [
+   {
+    "files": 1,
+    "media": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_305d_01_140286_02:ucsb_col_305d_01_140286_02/full/full/0/full/default.mp3",
+    "url": "https://www.loc.gov/resource/jukebox-675275.0"
+   },
+   {
+    "files": 1,
+    "image": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_305d_01_140286_02:ucsb_col_305d_01_140286_02/full/pct:100/0/default.jpg",
+    "mimetype": "image/jpeg",
+    "url": "https://www.loc.gov/resource/jukebox-675275.1"
+   }
+  ],
+  "rights": [
+   "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
+  ],
+  "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+  "score": 15.335318,
+  "shard": "01",
+  "shelf_id": "Columbia 305-D",
+  "site": [
+   "nationaljukebox"
+  ],
+  "source_modified": "2000-01-01T12:00:00Z",
+  "subject": [
+   "instrumental",
+   "columbia"
+  ],
+  "subject_category": [
+   "instrumental"
+  ],
+  "subject_label": [
+   "columbia"
+  ],
+  "subjects": [
+   {
+    "columbia": "https://www.loc.gov/search/?fa=subject:columbia&fo=json"
+   },
+   {
+    "instrumental": "https://www.loc.gov/search/?fa=subject:instrumental&fo=json"
+   }
+  ],
+  "subjects_category": [
+   {
+    "instrumental": "https://www.loc.gov/collections/national-jukebox/?fa=subject_category:instrumental&fo=json"
+   }
+  ],
+  "subjects_label": [
+   {
+    "columbia": "https://www.loc.gov/collections/national-jukebox/?fa=subject_label:columbia&fo=json"
+   }
+  ],
+  "summary": "Jazz/dance band",
+  "timestamp": "2026-10-05T14:40:27.354Z",
+  "title": "When my sugar walks down the street",
+  "type": [
+   "sound recording-musical"
+  ],
+  "url": "https://www.loc.gov/item/jukebox-675275/"
+ },
+ "more_like_this": [
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-675276/",
+    "http://www.loc.gov/resource/jukebox-675276.0/",
+    "http://www.loc.gov/resource/jukebox-675276.1/",
+    "http://www.loc.gov/resource/jukebox-675276.0",
+    "http://www.loc.gov/resource/jukebox-675276.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "silver, abner",
+    "warner's seven aces",
+    "warner, byron h."
+   ],
+   "date": "1925-01-28",
+   "dates": [
+    "1925-01-28"
+   ],
+   "description": [
+    "Columbia 336-D. Matrix/Take: 140287/1."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T05:36:20.059Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-675276/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_336d_01_140287_01:ucsb_col_336d_01_140287_01/full/pct:12.5/0/default.jpg#h=456&w=456",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_336d_01_140287_01:ucsb_col_336d_01_140287_01/full/pct:25/0/default.jpg#h=912&w=912",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_336d_01_140287_01:ucsb_col_336d_01_140287_01/full/pct:50/0/default.jpg#h=1824&w=1824",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_336d_01_140287_01:ucsb_col_336d_01_140287_01/full/pct:100/0/default.jpg#h=3648&w=3648"
+   ],
+   "index": 1,
+   "location": [
+    "atlanta",
+    "georgia",
+    "united states"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Fox trot"
+   ],
+   "partof": [
+    "national jukebox",
+    "department of special collections, davidson library, university of california, santa barbara",
+    "recorded sound research center"
+   ],
+   "score": 45.415524,
+   "shelf_id": "Columbia 336-D",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "instrumental",
+    "columbia"
+   ],
+   "timestamp": "2026-10-05T14:40:27.354Z",
+   "title": "The blues have got me",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-675276/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-675307/",
+    "http://www.loc.gov/resource/jukebox-675307.0/",
+    "http://www.loc.gov/resource/jukebox-675307.1/",
+    "http://www.loc.gov/resource/jukebox-675307.0",
+    "http://www.loc.gov/resource/jukebox-675307.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "pollack, lew",
+    "warner, byron h.",
+    "warner's seven aces"
+   ],
+   "date": "1925-01-30",
+   "dates": [
+    "1925-01-30"
+   ],
+   "description": [
+    "Columbia 305-D. Matrix/Take: 140302/2."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T05:36:20.059Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-675307/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_305d_01_140302_02:ucsb_col_305d_01_140302_02/full/pct:12.5/0/default.jpg#h=456&w=456",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_305d_01_140302_02:ucsb_col_305d_01_140302_02/full/pct:25/0/default.jpg#h=912&w=912",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_305d_01_140302_02:ucsb_col_305d_01_140302_02/full/pct:50/0/default.jpg#h=1824&w=1824",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_305d_01_140302_02:ucsb_col_305d_01_140302_02/full/pct:100/0/default.jpg#h=3648&w=3648"
+   ],
+   "index": 2,
+   "location": [
+    "atlanta",
+    "georgia",
+    "united states"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Fox trot"
+   ],
+   "partof": [
+    "national jukebox",
+    "department of special collections, davidson library, university of california, santa barbara",
+    "recorded sound research center"
+   ],
+   "score": 45.415524,
+   "shelf_id": "Columbia 305-D",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "instrumental",
+    "columbia"
+   ],
+   "timestamp": "2026-10-05T14:40:27.354Z",
+   "title": "Cheatin' on me",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-675307/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-669574/",
+    "http://www.loc.gov/resource/jukebox-669574.0/",
+    "http://www.loc.gov/resource/jukebox-669574.1/",
+    "http://www.loc.gov/resource/jukebox-669574.0",
+    "http://www.loc.gov/resource/jukebox-669574.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "mchugh, jimmy",
+    "mills, irving",
+    "grofé, ferde",
+    "westphal, frank",
+    "frank westphal orchestra"
+   ],
+   "date": "1922-12-06",
+   "dates": [
+    "1922-12-06"
+   ],
+   "description": [
+    "Columbia A3786. Matrix/Take: 80706/3."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T05:11:00.361Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-669574/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a3786_01_80706_03:ucsb_col_a3786_01_80706_03/full/pct:12.5/0/default.jpg#h=368&w=368",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a3786_01_80706_03:ucsb_col_a3786_01_80706_03/full/pct:25/0/default.jpg#h=736&w=736",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a3786_01_80706_03:ucsb_col_a3786_01_80706_03/full/pct:50/0/default.jpg#h=1473&w=1473",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a3786_01_80706_03:ucsb_col_a3786_01_80706_03/full/pct:100/0/default.jpg#h=2947&w=2947"
+   ],
+   "index": 3,
+   "location": [
+    "chicago",
+    "illinois",
+    "united states"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Fox trot",
+    "Stop your kiddin'"
+   ],
+   "partof": [
+    "national jukebox",
+    "department of special collections, davidson library, university of california, santa barbara",
+    "recorded sound research center"
+   ],
+   "score": 36.567318,
+   "shelf_id": "Columbia A3786",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "instrumental",
+    "popular music",
+    "columbia"
+   ],
+   "timestamp": "2026-10-05T14:38:01.287Z",
+   "title": "Stop your kidding",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-669574/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-673602/",
+    "http://www.loc.gov/resource/jukebox-673602.0/",
+    "http://www.loc.gov/resource/jukebox-673602.1/",
+    "http://www.loc.gov/resource/jukebox-673602.0",
+    "http://www.loc.gov/resource/jukebox-673602.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "hare, ernest",
+    "mchugh, jimmy",
+    "jones, billy",
+    "mills, irving",
+    "dubin, al",
+    "dash, irwin"
+   ],
+   "date": "1924-05-02",
+   "dates": [
+    "1924-05-02"
+   ],
+   "description": [
+    "Columbia 132-D. Matrix/Take: 81754/2."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T05:26:44.352Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-673602/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_132d_01_81754_02:ucsb_col_132d_01_81754_02/full/pct:12.5/0/default.jpg#h=456&w=456",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_132d_01_81754_02:ucsb_col_132d_01_81754_02/full/pct:25/0/default.jpg#h=912&w=912",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_132d_01_81754_02:ucsb_col_132d_01_81754_02/full/pct:50/0/default.jpg#h=1824&w=1824",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_132d_01_81754_02:ucsb_col_132d_01_81754_02/full/pct:100/0/default.jpg#h=3648&w=3648"
+   ],
+   "index": 4,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "new york",
+    "united states"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "What has become of hinky dinky parlay voo"
+   ],
+   "partof": [
+    "national jukebox",
+    "department of special collections, davidson library, university of california, santa barbara",
+    "recorded sound research center"
+   ],
+   "score": 31.743896,
+   "shelf_id": "Columbia 132-D",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "vocal",
+    "columbia"
+   ],
+   "timestamp": "2026-10-05T14:39:43.188Z",
+   "title": "Hinky dinky parlay voo",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-673602/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-674016/",
+    "http://www.loc.gov/resource/jukebox-674016.0/",
+    "http://www.loc.gov/resource/jukebox-674016.1/",
+    "http://www.loc.gov/resource/jukebox-674016.0",
+    "http://www.loc.gov/resource/jukebox-674016.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "hare, ernest",
+    "mchugh, jimmy",
+    "jones, billy",
+    "dubin, al",
+    "mills, irving"
+   ],
+   "date": "1924-07-18",
+   "dates": [
+    "1924-07-18"
+   ],
+   "description": [
+    "Columbia 182-D. Matrix/Take: 81876/1."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T05:29:20.116Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-674016/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_182d_01_81876_01:ucsb_col_182d_01_81876_01/full/pct:12.5/0/default.jpg#h=456&w=456",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_182d_01_81876_01:ucsb_col_182d_01_81876_01/full/pct:25/0/default.jpg#h=912&w=912",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_182d_01_81876_01:ucsb_col_182d_01_81876_01/full/pct:50/0/default.jpg#h=1824&w=1824",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_182d_01_81876_01:ucsb_col_182d_01_81876_01/full/pct:100/0/default.jpg#h=3648&w=3648"
+   ],
+   "index": 5,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "new york",
+    "united states"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Skin-a-ma-rink-a-rink-a-ree"
+   ],
+   "partof": [
+    "national jukebox",
+    "department of special collections, davidson library, university of california, santa barbara",
+    "recorded sound research center"
+   ],
+   "score": 31.743896,
+   "shelf_id": "Columbia 182-D",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "vocal",
+    "columbia"
+   ],
+   "timestamp": "2026-10-05T14:39:43.188Z",
+   "title": "Skin-a-ma-rink-arink-a-rae",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-674016/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/9995",
+    "http://www.loc.gov/item/jukebox-70746/",
+    "http://www.loc.gov/resource/jukebox-70746.0/",
+    "http://www.loc.gov/resource/jukebox-70746.1/",
+    "http://www.loc.gov/resource/jukebox-70746.0",
+    "http://www.loc.gov/resource/jukebox-70746.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "mchugh, jimmy",
+    "garber, jan",
+    "mills, irving",
+    "dash, irwin",
+    "jan garber orchestra"
+   ],
+   "date": "1924-07-02",
+   "dates": [
+    "1924-07-02"
+   ],
+   "description": [
+    "Victor 19405. Matrix/Take: B-30457/4."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-04T21:47:47.691Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-70746/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19405_01_b30457_04:ucsb_victor_19405_01_b30457_04/full/pct:50/0/default.jpg#h=395&w=398",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19405_01_b30457_04:ucsb_victor_19405_01_b30457_04/full/pct:100/0/default.jpg#h=790&w=796"
+   ],
+   "index": 6,
+   "location": [
+    "camden",
+    "new jersey",
+    "united states"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Fox trot"
+   ],
+   "partof": [
+    "national jukebox",
+    "department of special collections, davidson library, university of california, santa barbara",
+    "recorded sound research center"
+   ],
+   "score": 31.660551,
+   "shelf_id": "Victor 19405",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "instrumental",
+    "ragtime, jazz, and more",
+    "victor"
+   ],
+   "timestamp": "2026-10-05T14:44:07.410Z",
+   "title": "Hinky dinky parlay voo",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-70746/"
+  }
+ ],
+ "notice": {
+  "info": "<strong>COLUMBUS DAY HOLIDAY:</strong> On Monday, October 12, 2026, The Jefferson Building Great Hall and exhibitions will be open from 10 a.m. - 5 p.m. to guests with timed-entry passes. The Main Reading Room will be open to visitors, no research or collections services available. All other reading rooms, the Madison and Adams Buildings will be CLOSED to the public. Regularly scheduled access resumes on Tuesday, October 13. \n",
+  "status": "production"
+ },
+ "options": {
+  "access_group": [
+   ""
+  ],
+  "access_group_raw": "",
+  "all": null,
+  "api_version": "1",
+  "app_context": null,
+  "application_shim": null,
+  "application_version": "$Revision$",
+  "attribute": null,
+  "attribute!": null,
+  "attribute_map": null,
+  "cache_tags": [
+   "nationaljukebox",
+   "national-jukebox",
+   "ndnp/dlc-2020_now",
+   "library-of-congress-washington-dc-awardee-8",
+   "paprika-music",
+   "catalog-split-10",
+   "catalog",
+   "main-catalog-split-10"
+  ],
+  "callback": null,
+  "clip": null,
+  "clip_image_width": null,
+  "clip_rotation": null,
+  "content_filter": null,
+  "content_replacement": "",
+  "count": null,
+  "dates": null,
+  "default_count": 25,
+  "delimiter": null,
+  "digital_id": null,
+  "display_level": null,
+  "distance": null,
+  "downloadOption": null,
+  "duration": 3.1459579467773438,
+  "embed": [],
+  "embed!": [],
+  "error_response_status": null,
+  "excludeTerms": null,
+  "facetLimits": "",
+  "facetPrefix": null,
+  "facet_count": null,
+  "facet_style": null,
+  "field": null,
+  "form_facets": [
+   {
+    "field": "subject_label",
+    "select": "multiple"
+   },
+   {
+    "field": "subject_category",
+    "select": "multiple"
+   },
+   {
+    "field": "language",
+    "select": "multiple"
+   }
+  ],
+  "format": "json",
+  "host": "www.loc.gov",
+  "ical": false,
+  "id": "jukebox-675275/",
+  "iiif": false,
+  "include_facets": [
+   {
+    "field": "original-format"
+   },
+   {
+    "field": "partof_repository",
+    "label": "Repository"
+   },
+   {
+    "field": "subject_label",
+    "label": "Label"
+   },
+   {
+    "field": "dates"
+   },
+   {
+    "field": "subject_genre",
+    "label": "Genre"
+   },
+   {
+    "closed": true,
+    "field": "subject_target_audience",
+    "label": "Target Audience"
+   },
+   {
+    "closed": true,
+    "field": "subject_category",
+    "label": "Category"
+   },
+   {
+    "closed": true,
+    "field": "location"
+   },
+   {
+    "closed": true,
+    "field": "contributor"
+   },
+   {
+    "closed": true,
+    "field": "contributor_vocalist",
+    "label": "Vocalist"
+   },
+   {
+    "closed": true,
+    "field": "contributor_composer",
+    "label": "Composer"
+   },
+   {
+    "closed": true,
+    "field": "contributor_lyricist",
+    "label": "Lyricist"
+   },
+   {
+    "closed": true,
+    "field": "contributor_author",
+    "label": "Author"
+   },
+   {
+    "closed": true,
+    "field": "contributor_performer",
+    "label": "Performer"
+   },
+   {
+    "closed": true,
+    "field": "contributor_musical_group",
+    "label": "Musical Group"
+   },
+   {
+    "closed": true,
+    "field": "subject"
+   },
+   {
+    "closed": true,
+    "field": "language"
+   },
+   {
+    "field": "access-restricted"
+   }
+  ],
+  "index": null,
+  "inputEncoding": "UTF-8",
+  "item": null,
+  "items": null,
+  "keys": null,
+  "language": null,
+  "latlong": null,
+  "method": "GET",
+  "newSearch": null,
+  "new_clip_url": false,
+  "onsite": false,
+  "operator": null,
+  "outputEncoding": "UTF-8",
+  "page_campaigns": [],
+  "path_info": "/item/jukebox-675275/",
+  "port": "443",
+  "proxypath": null,
+  "query_string": "fo=json",
+  "redirect_proxy": false,
+  "redirect_to_item": null,
+  "referer": "",
+  "region": "",
+  "release_id": 123456789,
+  "request_host": "www.loc.gov",
+  "request_params": {
+   "fo": [
+    "json"
+   ]
+  },
+  "request_url": "https://www.loc.gov/item/jukebox-675275/?fo=json",
+  "resource": "",
+  "resource_sequence": null,
+  "scheme": "https",
+  "searchIn": null,
+  "searchTerms": "",
+  "segments": null,
+  "shards": [
+   "01"
+  ],
+  "site_date_range": "1900-01-01/1925-12-31",
+  "site_defaults": [],
+  "site_id": null,
+  "site_type": null,
+  "solrQuery": "",
+  "sortBy": null,
+  "sortOrder": null,
+  "startPage": null,
+  "style": null,
+  "suggested": null,
+  "target": null,
+  "template": "layouts/item/layout",
+  "timestamp": 1791463757.5773332,
+  "tz_aware": null,
+  "unionFacets": "",
+  "webcast_permalink": null
+ },
+ "related_items": [
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/sn83016184/1882-10-24/ed-1/",
+    "http://www.loc.gov/resource/sn83016184/1882-10-24/ed-1/"
+   ],
+   "batch": [
+    "dlc_fairview_ver01"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "library of congress, washington, dc"
+   ],
+   "date": "1882-10-24",
+   "dates": [
+    "1882-10-24"
+   ],
+   "description": [
+    "Atlanta, Ga."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2023-08-07T20:31:23.113Z",
+   "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/sn83016184/1882-10-24/ed-1/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairview_ver01:data:sn83016184:00220720408:1882102401:0001/full/pct:3.125/0/default.jpg#h=335&w=241",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairview_ver01:data:sn83016184:00220720408:1882102401:0001/full/pct:6.25/0/default.jpg#h=670&w=483"
+   ],
+   "index": 1,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "fulton county",
+    "georgia",
+    "fulton",
+    "atlanta",
+    "united states"
+   ],
+   "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg"
+   ],
+   "number": [
+    "00220720408",
+    "1",
+    "sn83016184"
+   ],
+   "numeric_shelf_id": 188210241,
+   "online_format": [
+    "image",
+    "pdf",
+    "online text"
+   ],
+   "original_format": [
+    "newspaper"
+   ],
+   "partof": [
+    "chronicling america",
+    "the weekly defiance (atlanta, ga.) 1881-1889",
+    "serial and government publications division"
+   ],
+   "publication_frequency": [
+    "weekly"
+   ],
+   "score": 14.332969,
+   "shelf_id": "sn83016184, 1882-10-24, Edition 1",
+   "site": [
+    "chroniclingamerica"
+   ],
+   "subject": [
+    "fulton county (ga.)",
+    "fulton county",
+    "atlanta (ga.)",
+    "african american newspapers",
+    "newspapers",
+    "georgia",
+    "fulton",
+    "atlanta",
+    "african americans",
+    "african american",
+    "united states"
+   ],
+   "timestamp": "2023-08-08T05:57:57.864Z",
+   "title": "The weekly defiance (Atlanta, Ga.), October 24, 1882",
+   "type": [
+    "issue"
+   ],
+   "url": "https://www.loc.gov/item/sn83016184/1882-10-24/ed-1/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/sn83016184/1883-02-24/ed-1/",
+    "http://www.loc.gov/resource/sn83016184/1883-02-24/ed-1/"
+   ],
+   "batch": [
+    "dlc_fairview_ver01"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "library of congress, washington, dc"
+   ],
+   "date": "1883-02-24",
+   "dates": [
+    "1883-02-24"
+   ],
+   "description": [
+    "Atlanta, Ga."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2023-08-07T20:31:23.113Z",
+   "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/sn83016184/1883-02-24/ed-1/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairview_ver01:data:sn83016184:00220720408:1883022401:0001/full/pct:3.125/0/default.jpg#h=331&w=241",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairview_ver01:data:sn83016184:00220720408:1883022401:0001/full/pct:6.25/0/default.jpg#h=663&w=482"
+   ],
+   "index": 2,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "fulton county",
+    "georgia",
+    "fulton",
+    "atlanta",
+    "united states"
+   ],
+   "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg"
+   ],
+   "number": [
+    "00220720408",
+    "1",
+    "sn83016184"
+   ],
+   "numeric_shelf_id": 188302241,
+   "online_format": [
+    "image",
+    "pdf",
+    "online text"
+   ],
+   "original_format": [
+    "newspaper"
+   ],
+   "partof": [
+    "chronicling america",
+    "the weekly defiance (atlanta, ga.) 1881-1889",
+    "serial and government publications division"
+   ],
+   "publication_frequency": [
+    "weekly"
+   ],
+   "score": 14.332969,
+   "shelf_id": "sn83016184, 1883-02-24, Edition 1",
+   "site": [
+    "chroniclingamerica"
+   ],
+   "subject": [
+    "fulton county (ga.)",
+    "fulton county",
+    "atlanta (ga.)",
+    "african american newspapers",
+    "newspapers",
+    "georgia",
+    "fulton",
+    "atlanta",
+    "african americans",
+    "african american",
+    "united states"
+   ],
+   "timestamp": "2023-08-08T05:57:57.864Z",
+   "title": "The weekly defiance (Atlanta, Ga.), February 24, 1883",
+   "type": [
+    "issue"
+   ],
+   "url": "https://www.loc.gov/item/sn83016184/1883-02-24/ed-1/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/sn82014241/1900-01-13/ed-1/",
+    "http://www.loc.gov/resource/sn82014241/1900-01-13/ed-1/"
+   ],
+   "batch": [
+    "dlc_jean_ver01"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "library of congress, washington, dc"
+   ],
+   "date": "1900-01-13",
+   "dates": [
+    "1900-01-13"
+   ],
+   "description": [
+    "Atlanta, Ga."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2023-08-07T20:32:31.197Z",
+   "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/sn82014241/1900-01-13/ed-1/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jean_ver01:data:sn82014241:00220720457:1900011301:0005/full/pct:3.125/0/default.jpg#h=305&w=210",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jean_ver01:data:sn82014241:00220720457:1900011301:0005/full/pct:6.25/0/default.jpg#h=611&w=421"
+   ],
+   "index": 3,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "fulton county",
+    "georgia",
+    "fulton",
+    "atlanta",
+    "united states"
+   ],
+   "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg"
+   ],
+   "number": [
+    "sn82014241",
+    "1",
+    "00220720457"
+   ],
+   "numeric_shelf_id": 190001131,
+   "online_format": [
+    "image",
+    "pdf",
+    "online text"
+   ],
+   "original_format": [
+    "newspaper"
+   ],
+   "partof": [
+    "atlanta age (atlanta, ga.) 1898-19??",
+    "chronicling america",
+    "serial and government publications division"
+   ],
+   "publication_frequency": [
+    "weekly"
+   ],
+   "score": 14.332969,
+   "shelf_id": "sn82014241, 1900-01-13, Edition 1",
+   "site": [
+    "chroniclingamerica"
+   ],
+   "subject": [
+    "fulton county (ga.)",
+    "fulton county",
+    "atlanta (ga.)",
+    "african american newspapers",
+    "newspapers",
+    "georgia",
+    "fulton",
+    "atlanta",
+    "african americans",
+    "african american",
+    "united states"
+   ],
+   "timestamp": "2023-08-08T11:12:37.199Z",
+   "title": "Atlanta age (Atlanta, Ga.), January 13, 1900",
+   "type": [
+    "issue"
+   ],
+   "url": "https://www.loc.gov/item/sn82014241/1900-01-13/ed-1/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/sn83016234/1900-02-01/ed-1/",
+    "http://www.loc.gov/resource/sn83016234/1900-02-01/ed-1/"
+   ],
+   "batch": [
+    "dlc_jean_ver01"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "library of congress, washington, dc"
+   ],
+   "date": "1900-02-01",
+   "dates": [
+    "1900-02-01"
+   ],
+   "description": [
+    "Atlanta, Ga."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2023-08-07T20:32:31.197Z",
+   "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/sn83016234/1900-02-01/ed-1/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jean_ver01:data:sn83016234:00220720457:1900020101:0001/full/pct:3.125/0/default.jpg#h=313&w=220",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jean_ver01:data:sn83016234:00220720457:1900020101:0001/full/pct:6.25/0/default.jpg#h=627&w=440"
+   ],
+   "index": 4,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "fulton county",
+    "georgia",
+    "fulton",
+    "atlanta",
+    "united states"
+   ],
+   "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg"
+   ],
+   "number": [
+    "1",
+    "00220720457",
+    "sn83016234"
+   ],
+   "numeric_shelf_id": 190002011,
+   "online_format": [
+    "image",
+    "pdf",
+    "online text"
+   ],
+   "original_format": [
+    "newspaper"
+   ],
+   "partof": [
+    "chronicling america",
+    "voice of missions (atlanta, ga.) 1893-1900",
+    "serial and government publications division"
+   ],
+   "publication_frequency": [
+    "monthly"
+   ],
+   "score": 14.332969,
+   "shelf_id": "sn83016234, 1900-02-01, Edition 1",
+   "site": [
+    "chroniclingamerica"
+   ],
+   "subject": [
+    "fulton county (ga.)",
+    "fulton county",
+    "atlanta (ga.)",
+    "african american newspapers",
+    "newspapers",
+    "georgia",
+    "fulton",
+    "african methodist episcopal church",
+    "african americans",
+    "atlanta",
+    "african american",
+    "united states"
+   ],
+   "timestamp": "2023-08-08T11:12:37.199Z",
+   "title": "Voice of missions (Atlanta, Ga.), February 1, 1900",
+   "type": [
+    "issue"
+   ],
+   "url": "https://www.loc.gov/item/sn83016234/1900-02-01/ed-1/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://lccn.loc.gov/2016571659",
+    "http://www.loc.gov/item/2016571659/",
+    "http://www.loc.gov/resource/music.musbaseball-100198/",
+    "https://hdl.loc.gov/loc.music/2016571659",
+    "http://www.loc.gov/resource/2016571659/"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "schoebel, elmer",
+    "mills, irving",
+    "meyers, billy"
+   ],
+   "date": "1923",
+   "dates": [
+    "1923"
+   ],
+   "description": [
+    "E570807 U.S. Copyright Office 19230904 For voice and piano. Caption title. First line of text: A little story that I want to tell. First line of chorus: Gee! but aint it grand to hear that band. English words."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2025-06-26T08:26:46.194Z",
+   "group": [
+    "paprika-music",
+    "catalog-split-10",
+    "catalog",
+    "main-catalog-split-10"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/2016571659/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:music:musbaseball-100198:musbaseball-100198.0001/full/pct:6.25/0/default.jpg",
+    "https://tile.loc.gov/image-services/iiif/public:music:musbaseball-100198:musbaseball-100198.0001/full/pct:6.25/0/default.jpg#h=323&w=250",
+    "https://tile.loc.gov/image-services/iiif/public:music:musbaseball-100198:musbaseball-100198.0001/full/pct:12.5/0/default.jpg#h=646&w=500",
+    "https://tile.loc.gov/image-services/iiif/public:music:musbaseball-100198:musbaseball-100198.0001/full/pct:25.0/0/default.jpg#h=1293&w=1000",
+    "https://tile.loc.gov/image-services/iiif/public:music:musbaseball-100198:musbaseball-100198.0001/full/pct:50.0/0/default.jpg#h=2587&w=2000",
+    "https://tile.loc.gov/image-services/iiif/public:music:musbaseball-100198:musbaseball-100198.0001/full/pct:100.0/0/default.jpg#h=5174&w=4001"
+   ],
+   "index": 5,
+   "language": [
+    "english"
+   ],
+   "mime_type": [
+    "image/jpeg",
+    "application/pdf",
+    "image/jp2"
+   ],
+   "number": [
+    "http://www.loc.gov/resource/musbaseball.100198.0",
+    "http://www.loc.gov/item/musbaseball.100198",
+    "2023-10-17t14:04:37",
+    "2016571659",
+    "http://www.loc.gov/item/2016571659"
+   ],
+   "online_format": [
+    "image",
+    "pdf"
+   ],
+   "original_format": [
+    "notated music"
+   ],
+   "partof": [
+    "music division",
+    "baseball sheet music",
+    "catalog"
+   ],
+   "score": 8.49568,
+   "shelf_id": "https://repo.loc.gov/access/public/music/musbaseball-100198/.resource.json",
+   "site": [
+    "catalog"
+   ],
+   "subject": [
+    "songs",
+    "popular music",
+    "songs and music",
+    "blues (music)",
+    "scores",
+    "house of david (religious society)"
+   ],
+   "timestamp": "2025-06-26T08:38:25.588Z",
+   "title": "The House of David blues",
+   "type": [
+    "notated music"
+   ],
+   "url": "https://www.loc.gov/item/2016571659/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/sn83025803/1923-01-27/ed-1/",
+    "http://www.loc.gov/resource/sn83025803/1923-01-27/ed-1/"
+   ],
+   "batch": [
+    "dlc_greatsalt_ver02"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "library of congress, washington, dc"
+   ],
+   "date": "1923-01-27",
+   "dates": [
+    "1923-01-27"
+   ],
+   "description": [
+    "Columbia, S.C."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2023-08-07T20:31:54.774Z",
+   "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/sn83025803/1923-01-27/ed-1/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_greatsalt_ver02:data:sn83025803:00220720366:1923012701:0001/full/pct:3.125/0/default.jpg#h=297&w=209",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_greatsalt_ver02:data:sn83025803:00220720366:1923012701:0001/full/pct:6.25/0/default.jpg#h=595&w=418",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_greatsalt_ver02:data:sn83025803:00220720366:1923012701:0001/full/pct:12.5/0/default.jpg#h=1191&w=836"
+   ],
+   "index": 6,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "columbia",
+    "richland",
+    "richland county",
+    "south carolina",
+    "united states"
+   ],
+   "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg"
+   ],
+   "number": [
+    "00220720366",
+    "sn83025803",
+    "1"
+   ],
+   "numeric_shelf_id": 192301271,
+   "online_format": [
+    "image",
+    "pdf",
+    "online text"
+   ],
+   "original_format": [
+    "newspaper"
+   ],
+   "partof": [
+    "chronicling america",
+    "the southern indicator (columbia, s.c.) 1903-1925",
+    "serial and government publications division"
+   ],
+   "publication_frequency": [
+    "weekly"
+   ],
+   "score": 8.395876,
+   "shelf_id": "sn83025803, 1923-01-27, Edition 1",
+   "site": [
+    "chroniclingamerica"
+   ],
+   "subject": [
+    "columbia (s.c.)",
+    "columbia",
+    "richland",
+    "richland county",
+    "newspapers",
+    "richland county (s.c.)",
+    "african americans",
+    "african american",
+    "south carolina",
+    "united states"
+   ],
+   "timestamp": "2023-08-08T08:28:37.775Z",
+   "title": "The Southern indicator (Columbia, S.C.), January 27, 1923",
+   "type": [
+    "issue"
+   ],
+   "url": "https://www.loc.gov/item/sn83025803/1923-01-27/ed-1/"
+  }
+ ],
+ "resources": [
+  {
+   "audio": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_305d_01_140286_02:ucsb_col_305d_01_140286_02/full/full/0/full/default.mp3",
+   "files": [
+    [
+     {
+      "aspectRation": "4:3",
+      "autoPlay": false,
+      "canDownload": true,
+      "derivatives": [
+       {
+        "derivativeUrl": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/ucsb_col_305d_01_140286_02/ucsb_col_305d_01_140286_02.mp3"
+       }
+      ],
+      "detailUrl": "https://www.loc.gov/item/jukebox-675275",
+      "download": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_305d_01_140286_02:ucsb_col_305d_01_140286_02/full/full/0/full/default.mp3",
+      "duration": 180.0,
+      "filename": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/ucsb_col_305d_01_140286_02/ucsb_col_305d_01_140286_02.mp3",
+      "mediaType": "A",
+      "metadata": [
+       "When my sugar walks down the street",
+       "Jazz/dance band"
+      ],
+      "mimetype": "audio/mpeg",
+      "poster": null,
+      "rights_restricted": true,
+      "shortName": "When my sugar walks down the street",
+      "thumbnail_url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_305d_01_140286_02:ucsb_col_305d_01_140286_02/full/pct:12.5/0/default.jpg"
+     },
+     {
+      "height": null,
+      "levels": 1,
+      "mimetype": "audio/wav",
+      "size": 15921704,
+      "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/ucsb_col_305d_01_140286_02/ucsb_col_305d_01_140286_02.wav",
+      "width": null
+     }
+    ]
+   ],
+   "url": "https://www.loc.gov/resource/jukebox-675275.0"
+  },
+  {
+   "files": [
+    [
+     {
+      "height": 456,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_305d_01_140286_02:ucsb_col_305d_01_140286_02/full/pct:12.5/0/default.jpg",
+      "width": 456
+     },
+     {
+      "height": 912,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_305d_01_140286_02:ucsb_col_305d_01_140286_02/full/pct:25/0/default.jpg",
+      "width": 912
+     },
+     {
+      "height": 1824,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_305d_01_140286_02:ucsb_col_305d_01_140286_02/full/pct:50/0/default.jpg",
+      "width": 1824
+     },
+     {
+      "height": 3648,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_305d_01_140286_02:ucsb_col_305d_01_140286_02/full/pct:100/0/default.jpg",
+      "width": 3648
+     },
+     {
+      "height": null,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 39953310,
+      "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/ucsb_col_305d_01_140286_02/ucsb_col_305d_01_140286_02.tif",
+      "width": null
+     }
+    ]
+   ],
+   "image": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_305d_01_140286_02:ucsb_col_305d_01_140286_02/full/pct:100/0/default.jpg",
+   "mimetype": "image/jpeg",
+   "url": "https://www.loc.gov/resource/jukebox-675275.1"
+  }
+ ],
+ "timestamp": 1791463760723
+}

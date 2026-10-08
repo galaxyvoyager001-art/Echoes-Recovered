@@ -1,0 +1,1455 @@
+{
+ "articles_and_essays": null,
+ "cite_this": {
+  "apa": "Schoebel, E., Meyers, B., Silverman, D. &amp; David H. Silverman Orchestra. (1923) <cite>Blue Grass Blues</cite>. [Audio] Retrieved from the Library of Congress, https://www.loc.gov/item/jukebox-68432/.",
+  "chicago": "Schoebel, Elmer, Billy Meyers, Dave Silverman, and  David H. Silverman Orchestra. <cite>Blue Grass Blues</cite>. 1923. Audio. https://www.loc.gov/item/jukebox-68432/.",
+  "mla": "Schoebel, Elmer, et al. <cite>Blue Grass Blues</cite>. 1923. Audio. Retrieved from the Library of Congress, &lt;www.loc.gov/item/jukebox-68432/&gt;."
+ },
+ "item": {
+  "_version_": 1878221202529452032,
+  "access_restricted": false,
+  "aka": [
+   "http://www.loc.gov/jukebox/recordings/detail/id/9579",
+   "http://www.loc.gov/item/jukebox-68432/",
+   "http://www.loc.gov/resource/jukebox-68432.0/",
+   "http://www.loc.gov/resource/jukebox-68432.1/",
+   "http://www.loc.gov/resource/jukebox-68432.0",
+   "http://www.loc.gov/resource/jukebox-68432.1"
+  ],
+  "audio_type": "Instrumental",
+  "campaigns": [],
+  "contributor_composer": [
+   "schoebel, elmer",
+   "meyers, billy"
+  ],
+  "contributor_musical_group": [
+   "david h. silverman orchestra"
+  ],
+  "contributor_names": [
+   "Schoebel, Elmer -- Composer -- Composer",
+   "Meyers, Billy -- Composer -- Composer",
+   "Silverman, Dave -- Leader -- Leader",
+   "David H. Silverman Orchestra -- Musical Group -- Musical Group"
+  ],
+  "contributor_primary": [
+   "silverman, dave"
+  ],
+  "contributors": [
+   {
+    "david h. silverman orchestra": "https://www.loc.gov/search/?fa=contributor:david+h.+silverman+orchestra&fo=json"
+   },
+   {
+    "meyers, billy": "https://www.loc.gov/search/?fa=contributor:meyers,+billy&fo=json"
+   },
+   {
+    "schoebel, elmer": "https://www.loc.gov/search/?fa=contributor:schoebel,+elmer&fo=json"
+   },
+   {
+    "silverman, dave": "https://www.loc.gov/search/?fa=contributor:silverman,+dave&fo=json"
+   }
+  ],
+  "contributors_composer": [
+   {
+    "meyers, billy": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_composer:meyers,+billy&fo=json"
+   },
+   {
+    "schoebel, elmer": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_composer:schoebel,+elmer&fo=json"
+   }
+  ],
+  "contributors_musical_group": [
+   {
+    "david h. silverman orchestra": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_musical_group:david+h.+silverman+orchestra&fo=json"
+   }
+  ],
+  "contributors_primary": [
+   {
+    "silverman, dave": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_primary:silverman,+dave&fo=json"
+   }
+  ],
+  "date": "1923-11-01",
+  "dates": [
+   {
+    "1923-11-01": "https://www.loc.gov/search/?dates=1923-11-01/1923-11-01&fo=json"
+   }
+  ],
+  "description": [
+   "Victor 19237. Matrix/Take: B-28863/1."
+  ],
+  "digitized": true,
+  "display_offsite": true,
+  "extract_timestamp": "2026-10-04T21:28:30.830Z",
+  "extract_urls": [
+   "http://www.loc.gov/item/jukebox-68432#nationaljukebox"
+  ],
+  "file_id": [
+   "ucsb_victor_19237_01_b28863_01"
+  ],
+  "format": [
+   {
+    "sound recording": "https://www.loc.gov/search/?fa=original_format:sound+recording&fo=json"
+   }
+  ],
+  "genre": [
+   "Ragtime, jazz, and more",
+   "Blues"
+  ],
+  "group": [
+   "nationaljukebox",
+   "national-jukebox"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/item/jukebox-68432/",
+  "iiif_manifest_url": "https://www.loc.gov/item/jukebox-68432/manifest.json",
+  "image_url": [
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19237_01_b28863_01:ucsb_victor_19237_01_b28863_01/full/pct:50/0/default.jpg#h=394&w=396",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19237_01_b28863_01:ucsb_victor_19237_01_b28863_01/full/pct:100/0/default.jpg#h=789&w=793"
+  ],
+  "index": 1,
+  "item": {
+   "audio_type": "Instrumental",
+   "contributors": [
+    "Schoebel, Elmer -- Composer -- Composer",
+    "Meyers, Billy -- Composer -- Composer",
+    "Silverman, Dave -- Leader -- Leader",
+    "David H. Silverman Orchestra -- Musical Group -- Musical Group"
+   ],
+   "file_id": [
+    "ucsb_victor_19237_01_b28863_01"
+   ],
+   "genre": [
+    "Ragtime, jazz, and more",
+    "Blues"
+   ],
+   "media_size": "10-in.",
+   "profile": "jukebox",
+   "recording_catalog_number": "19237",
+   "recording_date": "1923-11-01",
+   "recording_label": "Victor",
+   "recording_matrix_number": "B-28863 (Matrix ID)",
+   "recording_repository": "Source of original recording: Department of Special Collections, Davidson Library, University of California, Santa Barbara.",
+   "recording_take_id": 68432,
+   "recording_take_number": "1",
+   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+   "summary": "Jazz/dance band"
+  },
+  "location": [
+   "missouri",
+   "st. louis",
+   "united states"
+  ],
+  "locations": [
+   {
+    "missouri": "https://www.loc.gov/search/?fa=location:missouri&fo=json"
+   },
+   {
+    "st. louis": "https://www.loc.gov/search/?fa=location:st.+louis&fo=json"
+   },
+   {
+    "united states": "https://www.loc.gov/search/?fa=location:united+states&fo=json"
+   }
+  ],
+  "media_size": "10-in.",
+  "mime_type": [
+   "audio/mpeg",
+   "audio/wav",
+   "image/jpeg"
+  ],
+  "online_format": [
+   "audio",
+   "image"
+  ],
+  "original_format": [
+   "sound recording"
+  ],
+  "other_formats": [],
+  "other_title": [
+   "Fox trot"
+  ],
+  "partof": [
+   {
+    "count": 10024,
+    "title": "department of special collections, davidson library, university of california, santa barbara",
+    "url": "https://www.loc.gov/search/?fa=partof:department+of+special+collections,+davidson+library,+university+of+california,+santa+barbara&fo=json"
+   },
+   {
+    "count": 20273,
+    "title": "national jukebox",
+    "url": "https://www.loc.gov/collections/national-jukebox/?fo=json"
+   },
+   {
+    "count": 20496,
+    "title": "recorded sound research center",
+    "url": "https://www.loc.gov/search/?fa=partof:recorded+sound+research+center&fo=json"
+   }
+  ],
+  "partof_repository": [
+   "department of special collections, davidson library, university of california, santa barbara"
+  ],
+  "profile": "jukebox",
+  "recording_catalog_number": "19237",
+  "recording_date": "1923-11-01",
+  "recording_label": "Victor",
+  "recording_matrix_number": "B-28863 (Matrix ID)",
+  "recording_repository": "Source of original recording: Department of Special Collections, Davidson Library, University of California, Santa Barbara.",
+  "recording_take_id": 68432,
+  "recording_take_number": "1",
+  "resources": [
+   {
+    "files": 1,
+    "media": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19237_01_b28863_01:ucsb_victor_19237_01_b28863_01/full/full/0/full/default.mp3",
+    "url": "https://www.loc.gov/resource/jukebox-68432.0"
+   },
+   {
+    "files": 1,
+    "image": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19237_01_b28863_01:ucsb_victor_19237_01_b28863_01/full/pct:100/0/default.jpg",
+    "mimetype": "image/jpeg",
+    "url": "https://www.loc.gov/resource/jukebox-68432.1"
+   }
+  ],
+  "rights": [
+   "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
+  ],
+  "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+  "score": 15.335318,
+  "shard": "01",
+  "shelf_id": "Victor 19237",
+  "site": [
+   "nationaljukebox"
+  ],
+  "source_modified": "2000-01-01T12:00:00Z",
+  "subject": [
+   "blues",
+   "ragtime, jazz, and more",
+   "instrumental",
+   "victor"
+  ],
+  "subject_category": [
+   "instrumental"
+  ],
+  "subject_genre": [
+   "ragtime, jazz, and more",
+   "blues"
+  ],
+  "subject_label": [
+   "victor"
+  ],
+  "subjects": [
+   {
+    "blues": "https://www.loc.gov/search/?fa=subject:blues&fo=json"
+   },
+   {
+    "instrumental": "https://www.loc.gov/search/?fa=subject:instrumental&fo=json"
+   },
+   {
+    "ragtime, jazz, and more": "https://www.loc.gov/search/?fa=subject:ragtime,+jazz,+and+more&fo=json"
+   },
+   {
+    "victor": "https://www.loc.gov/search/?fa=subject:victor&fo=json"
+   }
+  ],
+  "subjects_category": [
+   {
+    "instrumental": "https://www.loc.gov/collections/national-jukebox/?fa=subject_category:instrumental&fo=json"
+   }
+  ],
+  "subjects_genre": [
+   {
+    "blues": "https://www.loc.gov/collections/national-jukebox/?fa=subject_genre:blues&fo=json"
+   },
+   {
+    "ragtime, jazz, and more": "https://www.loc.gov/collections/national-jukebox/?fa=subject_genre:ragtime,+jazz,+and+more&fo=json"
+   }
+  ],
+  "subjects_label": [
+   {
+    "victor": "https://www.loc.gov/collections/national-jukebox/?fa=subject_label:victor&fo=json"
+   }
+  ],
+  "summary": "Jazz/dance band",
+  "timestamp": "2026-10-05T14:42:01.295Z",
+  "title": "Blue grass blues",
+  "type": [
+   "sound recording-musical"
+  ],
+  "url": "https://www.loc.gov/item/jukebox-68432/"
+ },
+ "more_like_this": [
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/9573",
+    "http://www.loc.gov/item/jukebox-68415/",
+    "http://www.loc.gov/resource/jukebox-68415.0/",
+    "http://www.loc.gov/resource/jukebox-68415.1/",
+    "http://www.loc.gov/resource/jukebox-68415.0",
+    "http://www.loc.gov/resource/jukebox-68415.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "silverman, dave",
+    "david h. silverman orchestra",
+    "friedland, anatol"
+   ],
+   "date": "1923-10-28",
+   "dates": [
+    "1923-10-28"
+   ],
+   "description": [
+    "Victor 19200. Matrix/Take: B-28851/3."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-04T21:28:30.830Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-68415/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19200_01_b28851_03:ucsb_victor_19200_01_b28851_03/full/pct:50/0/default.jpg#h=394&w=397",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19200_01_b28851_03:ucsb_victor_19200_01_b28851_03/full/pct:100/0/default.jpg#h=789&w=795"
+   ],
+   "index": 1,
+   "location": [
+    "missouri",
+    "st. louis",
+    "united states"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "partof": [
+    "national jukebox",
+    "department of special collections, davidson library, university of california, santa barbara",
+    "recorded sound research center"
+   ],
+   "score": 47.5349,
+   "shelf_id": "Victor 19200",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "instrumental",
+    "popular music",
+    "victor"
+   ],
+   "timestamp": "2026-10-05T14:42:01.295Z",
+   "title": "One hour of love",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-68415/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/9578",
+    "http://www.loc.gov/item/jukebox-68431/",
+    "http://www.loc.gov/resource/jukebox-68431.0/",
+    "http://www.loc.gov/resource/jukebox-68431.1/",
+    "http://www.loc.gov/resource/jukebox-68431.0",
+    "http://www.loc.gov/resource/jukebox-68431.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "bozi, harold de",
+    "silverman, dave",
+    "david h. silverman orchestra"
+   ],
+   "date": "1923-11-01",
+   "dates": [
+    "1923-11-01"
+   ],
+   "description": [
+    "Victor 19200. Matrix/Take: B-28862/1."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-04T21:28:30.830Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-68431/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19200_01_b28862_01:ucsb_victor_19200_01_b28862_01/full/pct:50/0/default.jpg#h=395&w=398",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19200_01_b28862_01:ucsb_victor_19200_01_b28862_01/full/pct:100/0/default.jpg#h=790&w=796"
+   ],
+   "index": 2,
+   "location": [
+    "missouri",
+    "st. louis",
+    "united states"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Fox trot"
+   ],
+   "partof": [
+    "national jukebox",
+    "department of special collections, davidson library, university of california, santa barbara",
+    "recorded sound research center"
+   ],
+   "score": 47.5349,
+   "shelf_id": "Victor 19200",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "instrumental",
+    "popular music",
+    "victor"
+   ],
+   "timestamp": "2026-10-05T14:42:01.295Z",
+   "title": "Nights in the woods",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-68431/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/9453",
+    "http://www.loc.gov/item/jukebox-67954/",
+    "http://www.loc.gov/resource/jukebox-67954.0/",
+    "http://www.loc.gov/resource/jukebox-67954.1/",
+    "http://www.loc.gov/resource/jukebox-67954.0",
+    "http://www.loc.gov/resource/jukebox-67954.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "gorman, ross",
+    "mills, irving",
+    "virginians",
+    "meyers, billy",
+    "schoebel, elmer"
+   ],
+   "date": "1923-09-06",
+   "dates": [
+    "1923-09-06"
+   ],
+   "description": [
+    "Victor 19140. Matrix/Take: B-28535/4."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-04T21:18:41.475Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-67954/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19140_01_b28535_04:ucsb_victor_19140_01_b28535_04/full/pct:50/0/default.jpg#h=394&w=396",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19140_01_b28535_04:ucsb_victor_19140_01_b28535_04/full/pct:100/0/default.jpg#h=789&w=793"
+   ],
+   "index": 3,
+   "location": [
+    "new york",
+    "united states"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Fox trot",
+    "La casa de David"
+   ],
+   "partof": [
+    "national jukebox",
+    "department of special collections, davidson library, university of california, santa barbara",
+    "recorded sound research center"
+   ],
+   "score": 44.79112,
+   "shelf_id": "Victor 19140",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "instrumental",
+    "blues",
+    "victor"
+   ],
+   "timestamp": "2026-10-05T14:40:56.360Z",
+   "title": "The house of David blues",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-67954/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/9232",
+    "http://www.loc.gov/item/jukebox-66438/",
+    "http://www.loc.gov/resource/jukebox-66438.0/",
+    "http://www.loc.gov/resource/jukebox-66438.1/",
+    "http://www.loc.gov/resource/jukebox-66438.0",
+    "http://www.loc.gov/resource/jukebox-66438.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "mares, paul",
+    "roppolo, leon",
+    "gorman, ross",
+    "virginians",
+    "schoebel, elmer"
+   ],
+   "date": "1923-02-20",
+   "dates": [
+    "1923-02-20"
+   ],
+   "description": [
+    "Victor 19032. Matrix/Take: B-27609/2."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-04T21:08:16.672Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-66438/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19032_01_b27609_02:ucsb_victor_19032_01_b27609_02/full/pct:50/0/default.jpg#h=394&w=398",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19032_01_b27609_02:ucsb_victor_19032_01_b27609_02/full/pct:100/0/default.jpg#h=788&w=796"
+   ],
+   "index": 4,
+   "location": [
+    "new york",
+    "united states"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Fox trot"
+   ],
+   "partof": [
+    "national jukebox",
+    "department of special collections, davidson library, university of california, santa barbara",
+    "recorded sound research center"
+   ],
+   "score": 42.8878,
+   "shelf_id": "Victor 19032",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "blues",
+    "ragtime, jazz, and more",
+    "instrumental",
+    "victor"
+   ],
+   "timestamp": "2026-10-05T14:36:19.887Z",
+   "title": "Farewell blues",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-66438/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/10309",
+    "http://www.loc.gov/item/jukebox-9278/",
+    "http://www.loc.gov/resource/jukebox-9278.0/",
+    "http://www.loc.gov/resource/jukebox-9278.1/",
+    "http://www.loc.gov/resource/jukebox-9278.0",
+    "http://www.loc.gov/resource/jukebox-9278.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "troubadours, the",
+    "kippel, mickey",
+    "silverman, dave",
+    "king, edward t."
+   ],
+   "date": "1924-04-28",
+   "dates": [
+    "1924-04-28"
+   ],
+   "description": [
+    "Victor 19366. Matrix/Take: B-29579/6."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-04T17:54:35.109Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-9278/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19366_01_b29579_06:ucsb_victor_19366_01_b29579_06/full/pct:50/0/default.jpg#h=394&w=397",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19366_01_b29579_06:ucsb_victor_19366_01_b29579_06/full/pct:100/0/default.jpg#h=789&w=794"
+   ],
+   "index": 5,
+   "location": [
+    "new york",
+    "united states"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Fox trot"
+   ],
+   "partof": [
+    "national jukebox",
+    "department of special collections, davidson library, university of california, santa barbara",
+    "recorded sound research center"
+   ],
+   "score": 35.8405,
+   "shelf_id": "Victor 19366",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "instrumental",
+    "ragtime, jazz, and more",
+    "victor"
+   ],
+   "timestamp": "2026-10-05T14:57:12.159Z",
+   "title": "I love Mizzoura",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-9278/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/7232",
+    "http://www.loc.gov/item/jukebox-334419/",
+    "http://www.loc.gov/resource/jukebox-334419.0/",
+    "http://www.loc.gov/resource/jukebox-334419.1/",
+    "http://www.loc.gov/resource/jukebox-334419.0",
+    "http://www.loc.gov/resource/jukebox-334419.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "landry, art",
+    "keys, zip",
+    "art landry orchestra",
+    "megson, fred"
+   ],
+   "date": "1924-06-18",
+   "dates": [
+    "1924-06-18"
+   ],
+   "description": [
+    "Victor 19398. Matrix/Take: PB-33/5."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T03:30:42.670Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-334419/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19398_01_pb33_:ucsb_victor_19398_01_pb33_/full/pct:50/0/default.jpg#h=394&w=396",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19398_01_pb33_:ucsb_victor_19398_01_pb33_/full/pct:100/0/default.jpg#h=789&w=793"
+   ],
+   "index": 6,
+   "location": [
+    "california",
+    "oakland",
+    "united states"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Fox trot"
+   ],
+   "partof": [
+    "national jukebox",
+    "department of special collections, davidson library, university of california, santa barbara",
+    "recorded sound research center"
+   ],
+   "score": 35.05672,
+   "shelf_id": "Victor 19398",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "blues",
+    "ragtime, jazz, and more",
+    "instrumental",
+    "victor"
+   ],
+   "timestamp": "2026-10-05T14:14:19.247Z",
+   "title": "Rip saw blues",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-334419/"
+  }
+ ],
+ "notice": {
+  "info": "<strong>COLUMBUS DAY HOLIDAY:</strong> On Monday, October 12, 2026, The Jefferson Building Great Hall and exhibitions will be open from 10 a.m. - 5 p.m. to guests with timed-entry passes. The Main Reading Room will be open to visitors, no research or collections services available. All other reading rooms, the Madison and Adams Buildings will be CLOSED to the public. Regularly scheduled access resumes on Tuesday, October 13. \n",
+  "status": "production"
+ },
+ "options": {
+  "access_group": [
+   ""
+  ],
+  "access_group_raw": "",
+  "all": null,
+  "api_version": "1",
+  "app_context": null,
+  "application_shim": null,
+  "application_version": "$Revision$",
+  "attribute": null,
+  "attribute!": null,
+  "attribute_map": null,
+  "cache_tags": [
+   "nationaljukebox",
+   "national-jukebox",
+   "paprika-music",
+   "catalog-split-10",
+   "catalog",
+   "main-catalog-split-10",
+   "paprika-afc"
+  ],
+  "callback": null,
+  "clip": null,
+  "clip_image_width": null,
+  "clip_rotation": null,
+  "content_filter": null,
+  "content_replacement": "",
+  "count": null,
+  "dates": null,
+  "default_count": 25,
+  "delimiter": null,
+  "digital_id": null,
+  "display_level": null,
+  "distance": null,
+  "downloadOption": null,
+  "duration": 0.693997859954834,
+  "embed": [],
+  "embed!": [],
+  "error_response_status": null,
+  "excludeTerms": null,
+  "facetLimits": "",
+  "facetPrefix": null,
+  "facet_count": null,
+  "facet_style": null,
+  "field": null,
+  "form_facets": [
+   {
+    "field": "subject_label",
+    "select": "multiple"
+   },
+   {
+    "field": "subject_category",
+    "select": "multiple"
+   },
+   {
+    "field": "language",
+    "select": "multiple"
+   }
+  ],
+  "format": "json",
+  "host": "www.loc.gov",
+  "ical": false,
+  "id": "jukebox-68432/",
+  "iiif": false,
+  "include_facets": [
+   {
+    "field": "original-format"
+   },
+   {
+    "field": "partof_repository",
+    "label": "Repository"
+   },
+   {
+    "field": "subject_label",
+    "label": "Label"
+   },
+   {
+    "field": "dates"
+   },
+   {
+    "field": "subject_genre",
+    "label": "Genre"
+   },
+   {
+    "closed": true,
+    "field": "subject_target_audience",
+    "label": "Target Audience"
+   },
+   {
+    "closed": true,
+    "field": "subject_category",
+    "label": "Category"
+   },
+   {
+    "closed": true,
+    "field": "location"
+   },
+   {
+    "closed": true,
+    "field": "contributor"
+   },
+   {
+    "closed": true,
+    "field": "contributor_vocalist",
+    "label": "Vocalist"
+   },
+   {
+    "closed": true,
+    "field": "contributor_composer",
+    "label": "Composer"
+   },
+   {
+    "closed": true,
+    "field": "contributor_lyricist",
+    "label": "Lyricist"
+   },
+   {
+    "closed": true,
+    "field": "contributor_author",
+    "label": "Author"
+   },
+   {
+    "closed": true,
+    "field": "contributor_performer",
+    "label": "Performer"
+   },
+   {
+    "closed": true,
+    "field": "contributor_musical_group",
+    "label": "Musical Group"
+   },
+   {
+    "closed": true,
+    "field": "subject"
+   },
+   {
+    "closed": true,
+    "field": "language"
+   },
+   {
+    "field": "access-restricted"
+   }
+  ],
+  "index": null,
+  "inputEncoding": "UTF-8",
+  "item": null,
+  "items": null,
+  "keys": null,
+  "language": null,
+  "latlong": null,
+  "method": "GET",
+  "newSearch": null,
+  "new_clip_url": false,
+  "onsite": false,
+  "operator": null,
+  "outputEncoding": "UTF-8",
+  "page_campaigns": [],
+  "path_info": "/item/jukebox-68432/",
+  "port": "443",
+  "proxypath": null,
+  "query_string": "fo=json",
+  "redirect_proxy": false,
+  "redirect_to_item": null,
+  "referer": "",
+  "region": "",
+  "release_id": 123456789,
+  "request_host": "www.loc.gov",
+  "request_params": {
+   "fo": [
+    "json"
+   ]
+  },
+  "request_url": "https://www.loc.gov/item/jukebox-68432/?fo=json",
+  "resource": "",
+  "resource_sequence": null,
+  "scheme": "https",
+  "searchIn": null,
+  "searchTerms": "",
+  "segments": null,
+  "shards": [
+   "01"
+  ],
+  "site_date_range": "1900-01-01/1925-12-31",
+  "site_defaults": [],
+  "site_id": null,
+  "site_type": null,
+  "solrQuery": "",
+  "sortBy": null,
+  "sortOrder": null,
+  "startPage": null,
+  "style": null,
+  "suggested": null,
+  "target": null,
+  "template": "layouts/item/layout",
+  "timestamp": 1791463855.1484296,
+  "tz_aware": null,
+  "unionFacets": "",
+  "webcast_permalink": null
+ },
+ "related_items": [
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://lccn.loc.gov/2016571659",
+    "http://www.loc.gov/item/2016571659/",
+    "http://www.loc.gov/resource/music.musbaseball-100198/",
+    "https://hdl.loc.gov/loc.music/2016571659",
+    "http://www.loc.gov/resource/2016571659/"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "schoebel, elmer",
+    "mills, irving",
+    "meyers, billy"
+   ],
+   "date": "1923",
+   "dates": [
+    "1923"
+   ],
+   "description": [
+    "E570807 U.S. Copyright Office 19230904 For voice and piano. Caption title. First line of text: A little story that I want to tell. First line of chorus: Gee! but aint it grand to hear that band. English words."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2025-06-26T08:26:46.194Z",
+   "group": [
+    "paprika-music",
+    "catalog-split-10",
+    "catalog",
+    "main-catalog-split-10"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/2016571659/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:music:musbaseball-100198:musbaseball-100198.0001/full/pct:6.25/0/default.jpg",
+    "https://tile.loc.gov/image-services/iiif/public:music:musbaseball-100198:musbaseball-100198.0001/full/pct:6.25/0/default.jpg#h=323&w=250",
+    "https://tile.loc.gov/image-services/iiif/public:music:musbaseball-100198:musbaseball-100198.0001/full/pct:12.5/0/default.jpg#h=646&w=500",
+    "https://tile.loc.gov/image-services/iiif/public:music:musbaseball-100198:musbaseball-100198.0001/full/pct:25.0/0/default.jpg#h=1293&w=1000",
+    "https://tile.loc.gov/image-services/iiif/public:music:musbaseball-100198:musbaseball-100198.0001/full/pct:50.0/0/default.jpg#h=2587&w=2000",
+    "https://tile.loc.gov/image-services/iiif/public:music:musbaseball-100198:musbaseball-100198.0001/full/pct:100.0/0/default.jpg#h=5174&w=4001"
+   ],
+   "index": 1,
+   "language": [
+    "english"
+   ],
+   "mime_type": [
+    "image/jpeg",
+    "application/pdf",
+    "image/jp2"
+   ],
+   "number": [
+    "http://www.loc.gov/resource/musbaseball.100198.0",
+    "http://www.loc.gov/item/musbaseball.100198",
+    "2023-10-17t14:04:37",
+    "2016571659",
+    "http://www.loc.gov/item/2016571659"
+   ],
+   "online_format": [
+    "image",
+    "pdf"
+   ],
+   "original_format": [
+    "notated music"
+   ],
+   "partof": [
+    "music division",
+    "baseball sheet music",
+    "catalog"
+   ],
+   "score": 16.99136,
+   "shelf_id": "https://repo.loc.gov/access/public/music/musbaseball-100198/.resource.json",
+   "site": [
+    "catalog"
+   ],
+   "subject": [
+    "songs",
+    "popular music",
+    "songs and music",
+    "blues (music)",
+    "scores",
+    "house of david (religious society)"
+   ],
+   "timestamp": "2025-06-26T08:38:25.588Z",
+   "title": "The House of David blues",
+   "type": [
+    "notated music"
+   ],
+   "url": "https://www.loc.gov/item/2016571659/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/resource/afc.afc9999005-6691/",
+    "http://www.loc.gov/item/afc9999005.6691/",
+    "https://hdl.loc.gov/loc.afc/afc9999005.6691"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "crouch, gladys",
+    "crouch, mattie",
+    "cowell, sidney robertson",
+    "crouch, juanita"
+   ],
+   "date": "1936-12-10",
+   "dates": [
+    "1936-12-10"
+   ],
+   "digitized": true,
+   "extract_timestamp": "2024-07-10T09:43:43.601Z",
+   "group": [
+    "paprika-afc"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/afc9999005.6691/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:afc:afc9999005-6691:0773/full/pct:50.0/0/default.jpg",
+    "https://tile.loc.gov/image-services/iiif/public:afc:afc9999005-6691:0773/full/pct:50.0/0/default.jpg#h=449&w=742",
+    "https://tile.loc.gov/image-services/iiif/public:afc:afc9999005-6691:0773/full/pct:100.0/0/default.jpg#h=898&w=1485"
+   ],
+   "index": 2,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "missouri",
+    "st. louis",
+    "united states"
+   ],
+   "mime_type": [
+    "image/jpeg",
+    "image/jp2"
+   ],
+   "number": [
+    "http://www.loc.gov/resource/afc9999005.6691.0"
+   ],
+   "online_format": [
+    "image"
+   ],
+   "original_format": [
+    "photo, print, drawing"
+   ],
+   "partof": [
+    "resettlement administration recordings collection",
+    "american folklife center",
+    "traditional music and spoken word card catalog"
+   ],
+   "score": 10.255102,
+   "shelf_id": "AFS Number: AFS 03198 A02 AFS Number: AFS 03198 A03",
+   "subject": [
+    "card catalogs"
+   ],
+   "timestamp": "2024-07-10T11:43:12.948Z",
+   "title": "Swing low, sweet I. L. D.",
+   "type": [
+    "still image"
+   ],
+   "url": "https://www.loc.gov/item/afc9999005.6691/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/afc9999005.6692/",
+    "http://www.loc.gov/resource/afc.afc9999005-6692/",
+    "https://hdl.loc.gov/loc.afc/afc9999005.6692"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "crouch, gladys",
+    "crouch, mattie",
+    "cowell, sidney robertson",
+    "crouch, juanita"
+   ],
+   "date": "1936-12-10",
+   "dates": [
+    "1936-12-10"
+   ],
+   "digitized": true,
+   "extract_timestamp": "2024-07-10T09:43:43.601Z",
+   "group": [
+    "paprika-afc"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/afc9999005.6692/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:afc:afc9999005-6692:0772/full/pct:50.0/0/default.jpg",
+    "https://tile.loc.gov/image-services/iiif/public:afc:afc9999005-6692:0772/full/pct:50.0/0/default.jpg#h=449&w=742",
+    "https://tile.loc.gov/image-services/iiif/public:afc:afc9999005-6692:0772/full/pct:100.0/0/default.jpg#h=898&w=1485"
+   ],
+   "index": 3,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "missouri",
+    "st. louis",
+    "united states"
+   ],
+   "mime_type": [
+    "image/jpeg",
+    "image/jp2"
+   ],
+   "number": [
+    "http://www.loc.gov/resource/afc9999005.6692.0"
+   ],
+   "online_format": [
+    "image"
+   ],
+   "original_format": [
+    "photo, print, drawing"
+   ],
+   "partof": [
+    "resettlement administration recordings collection",
+    "american folklife center",
+    "traditional music and spoken word card catalog"
+   ],
+   "score": 10.255102,
+   "shelf_id": "AFS Number: AFS 03198 A01",
+   "subject": [
+    "card catalogs"
+   ],
+   "timestamp": "2024-07-10T11:43:12.948Z",
+   "title": "The YCL",
+   "type": [
+    "still image"
+   ],
+   "url": "https://www.loc.gov/item/afc9999005.6692/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/resource/afc.afc9999005-6693/",
+    "http://www.loc.gov/item/afc9999005.6693/",
+    "https://hdl.loc.gov/loc.afc/afc9999005.6693"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "crouch, gladys",
+    "crouch, mattie",
+    "cowell, sidney robertson",
+    "crouch, juanita"
+   ],
+   "date": "1936-12-09",
+   "dates": [
+    "1936-12-09"
+   ],
+   "digitized": true,
+   "extract_timestamp": "2024-07-10T09:43:43.601Z",
+   "group": [
+    "paprika-afc"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/afc9999005.6693/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:afc:afc9999005-6693:0771/full/pct:50.0/0/default.jpg",
+    "https://tile.loc.gov/image-services/iiif/public:afc:afc9999005-6693:0771/full/pct:50.0/0/default.jpg#h=449&w=742",
+    "https://tile.loc.gov/image-services/iiif/public:afc:afc9999005-6693:0771/full/pct:100.0/0/default.jpg#h=898&w=1485"
+   ],
+   "index": 4,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "missouri",
+    "st. louis",
+    "united states"
+   ],
+   "mime_type": [
+    "image/jpeg",
+    "image/jp2"
+   ],
+   "number": [
+    "http://www.loc.gov/resource/afc9999005.6693.0"
+   ],
+   "online_format": [
+    "image"
+   ],
+   "original_format": [
+    "photo, print, drawing"
+   ],
+   "partof": [
+    "resettlement administration recordings collection",
+    "american folklife center",
+    "traditional music and spoken word card catalog"
+   ],
+   "score": 10.255102,
+   "shelf_id": "AFS Number: AFS 03197 B02",
+   "subject": [
+    "card catalogs"
+   ],
+   "timestamp": "2024-07-10T11:43:12.948Z",
+   "title": "In the land of peace and plenty",
+   "type": [
+    "still image"
+   ],
+   "url": "https://www.loc.gov/item/afc9999005.6693/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "https://hdl.loc.gov/loc.afc/afc9999005.6694",
+    "http://www.loc.gov/item/afc9999005.6694/",
+    "http://www.loc.gov/resource/afc.afc9999005-6694/"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "crouch, gladys",
+    "crouch, mattie",
+    "cowell, sidney robertson",
+    "crouch, juanita"
+   ],
+   "date": "1936-12-09",
+   "dates": [
+    "1936-12-09"
+   ],
+   "digitized": true,
+   "extract_timestamp": "2024-07-10T09:43:43.601Z",
+   "group": [
+    "paprika-afc"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/afc9999005.6694/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:afc:afc9999005-6694:0770/full/pct:50.0/0/default.jpg",
+    "https://tile.loc.gov/image-services/iiif/public:afc:afc9999005-6694:0770/full/pct:50.0/0/default.jpg#h=449&w=742",
+    "https://tile.loc.gov/image-services/iiif/public:afc:afc9999005-6694:0770/full/pct:100.0/0/default.jpg#h=898&w=1485"
+   ],
+   "index": 5,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "missouri",
+    "st. louis",
+    "united states"
+   ],
+   "mime_type": [
+    "image/jpeg",
+    "image/jp2"
+   ],
+   "number": [
+    "http://www.loc.gov/resource/afc9999005.6694.0"
+   ],
+   "online_format": [
+    "image"
+   ],
+   "original_format": [
+    "photo, print, drawing"
+   ],
+   "partof": [
+    "resettlement administration recordings collection",
+    "american folklife center",
+    "traditional music and spoken word card catalog"
+   ],
+   "score": 10.255102,
+   "shelf_id": "AFS Number: AFS 03197 B01",
+   "subject": [
+    "card catalogs"
+   ],
+   "timestamp": "2024-07-10T11:43:12.948Z",
+   "title": "Bean song",
+   "type": [
+    "still image"
+   ],
+   "url": "https://www.loc.gov/item/afc9999005.6694/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/afc9999005.6695/",
+    "https://hdl.loc.gov/loc.afc/afc9999005.6695",
+    "http://www.loc.gov/resource/afc.afc9999005-6695/"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "crouch, gladys",
+    "crouch, mattie",
+    "cowell, sidney robertson",
+    "crouch, juanita"
+   ],
+   "date": "1936-12-09",
+   "dates": [
+    "1936-12-09"
+   ],
+   "digitized": true,
+   "extract_timestamp": "2024-07-10T09:43:43.601Z",
+   "group": [
+    "paprika-afc"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/afc9999005.6695/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:afc:afc9999005-6695:0769/full/pct:50.0/0/default.jpg",
+    "https://tile.loc.gov/image-services/iiif/public:afc:afc9999005-6695:0769/full/pct:50.0/0/default.jpg#h=449&w=742",
+    "https://tile.loc.gov/image-services/iiif/public:afc:afc9999005-6695:0769/full/pct:100.0/0/default.jpg#h=898&w=1485"
+   ],
+   "index": 6,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "missouri",
+    "st. louis",
+    "united states"
+   ],
+   "mime_type": [
+    "image/jpeg",
+    "image/jp2"
+   ],
+   "number": [
+    "http://www.loc.gov/resource/afc9999005.6695.0"
+   ],
+   "online_format": [
+    "image"
+   ],
+   "original_format": [
+    "photo, print, drawing"
+   ],
+   "other_title": [
+    "alternative: Old man Funsten"
+   ],
+   "partof": [
+    "resettlement administration recordings collection",
+    "american folklife center",
+    "traditional music and spoken word card catalog"
+   ],
+   "score": 10.255102,
+   "shelf_id": "AFS Number: AFS 03197 A04",
+   "subject": [
+    "card catalogs"
+   ],
+   "timestamp": "2024-07-10T11:43:12.948Z",
+   "title": "Nutpicker's song (Old man Funsten)",
+   "type": [
+    "still image"
+   ],
+   "url": "https://www.loc.gov/item/afc9999005.6695/"
+  }
+ ],
+ "resources": [
+  {
+   "audio": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19237_01_b28863_01:ucsb_victor_19237_01_b28863_01/full/full/0/full/default.mp3",
+   "files": [
+    [
+     {
+      "aspectRation": "4:3",
+      "autoPlay": false,
+      "canDownload": true,
+      "derivatives": [
+       {
+        "derivativeUrl": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/ucsb_victor_19237_01_b28863_01/ucsb_victor_19237_01_b28863_01.mp3"
+       }
+      ],
+      "detailUrl": "https://www.loc.gov/item/jukebox-68432",
+      "download": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19237_01_b28863_01:ucsb_victor_19237_01_b28863_01/full/full/0/full/default.mp3",
+      "duration": 187.0,
+      "filename": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/ucsb_victor_19237_01_b28863_01/ucsb_victor_19237_01_b28863_01.mp3",
+      "mediaType": "A",
+      "metadata": [
+       "Blue grass blues",
+       "Jazz/dance band"
+      ],
+      "mimetype": "audio/mpeg",
+      "poster": null,
+      "rights_restricted": true,
+      "shortName": "Blue grass blues",
+      "thumbnail_url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19237_01_b28863_01:ucsb_victor_19237_01_b28863_01/full/pct:50/0/default.jpg"
+     },
+     {
+      "height": null,
+      "levels": 1,
+      "mimetype": "audio/wav",
+      "size": 33081396,
+      "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/ucsb_victor_19237_01_b28863_01/ucsb_victor_19237_01_b28863_01.wav",
+      "width": null
+     }
+    ]
+   ],
+   "url": "https://www.loc.gov/resource/jukebox-68432.0"
+  },
+  {
+   "files": [
+    [
+     {
+      "height": 394,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19237_01_b28863_01:ucsb_victor_19237_01_b28863_01/full/pct:50/0/default.jpg",
+      "width": 396
+     },
+     {
+      "height": 789,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19237_01_b28863_01:ucsb_victor_19237_01_b28863_01/full/pct:100/0/default.jpg",
+      "width": 793
+     }
+    ]
+   ],
+   "image": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19237_01_b28863_01:ucsb_victor_19237_01_b28863_01/full/pct:100/0/default.jpg",
+   "mimetype": "image/jpeg",
+   "url": "https://www.loc.gov/resource/jukebox-68432.1"
+  }
+ ],
+ "timestamp": 1791463855842
+}

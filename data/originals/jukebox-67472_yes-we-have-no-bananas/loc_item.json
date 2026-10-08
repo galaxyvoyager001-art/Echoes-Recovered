@@ -1,0 +1,1616 @@
+{
+ "articles_and_essays": null,
+ "cite_this": {
+  "apa": "Migliaccio, E., Cohn, I., Silver, F., Levy, T. &amp; Migliaccio, E. (1923) <cite>Yes! We have no bananas</cite>. [Audio] Retrieved from the Library of Congress, https://www.loc.gov/item/jukebox-67472/.",
+  "chicago": "Migliaccio, Eduardo, Irving Cohn, Frank Silver, Ted Levy, and Eduardo Migliaccio. <cite>Yes! We have no bananas</cite>. 1923. Audio. https://www.loc.gov/item/jukebox-67472/.",
+  "mla": "Migliaccio, Eduardo, et al. <cite>Yes! We have no bananas</cite>. 1923. Audio. Retrieved from the Library of Congress, &lt;www.loc.gov/item/jukebox-67472/&gt;."
+ },
+ "item": {
+  "_version_": 1878221084965208064,
+  "access_restricted": false,
+  "aka": [
+   "http://www.loc.gov/item/jukebox-67472/",
+   "http://www.loc.gov/resource/jukebox-67472.0/",
+   "http://www.loc.gov/resource/jukebox-67472.1/",
+   "http://www.loc.gov/resource/jukebox-67472.0",
+   "http://www.loc.gov/resource/jukebox-67472.1"
+  ],
+  "audio_type": "Vocal",
+  "campaigns": [],
+  "contributor_names": [
+   "Migliaccio, Eduardo (\"Farfariello\") -- Vocalist -- Baritone Vocal",
+   "Cohn, Irving -- Songwriter -- Songwriter",
+   "Silver, Frank -- Songwriter -- Songwriter",
+   "Levy, Ted -- Conductor -- Conductor",
+   "Migliaccio, Eduardo -- Translator -- Translator"
+  ],
+  "contributor_primary": [
+   "migliaccio, eduardo (\"farfariello\")"
+  ],
+  "contributor_vocalist": [
+   "migliaccio, eduardo (\"farfariello\")"
+  ],
+  "contributors": [
+   {
+    "cohn, irving": "https://www.loc.gov/search/?fa=contributor:cohn,+irving&fo=json"
+   },
+   {
+    "levy, ted": "https://www.loc.gov/search/?fa=contributor:levy,+ted&fo=json"
+   },
+   {
+    "migliaccio, eduardo": "https://www.loc.gov/search/?fa=contributor:migliaccio,+eduardo&fo=json"
+   },
+   {
+    "migliaccio, eduardo (\"farfariello\")": "https://www.loc.gov/search/?fa=contributor:migliaccio,+eduardo+%28%22farfariello%22%29&fo=json"
+   },
+   {
+    "silver, frank": "https://www.loc.gov/search/?fa=contributor:silver,+frank&fo=json"
+   }
+  ],
+  "contributors_primary": [
+   {
+    "migliaccio, eduardo (\"farfariello\")": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_primary:migliaccio,+eduardo+%28%22farfariello%22%29&fo=json"
+   }
+  ],
+  "contributors_vocalist": [
+   {
+    "migliaccio, eduardo (\"farfariello\")": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_vocalist:migliaccio,+eduardo+%28%22farfariello%22%29&fo=json"
+   }
+  ],
+  "date": "1923-07-17",
+  "dates": [
+   {
+    "1923-07-17": "https://www.loc.gov/search/?dates=1923-07-17/1923-07-17&fo=json"
+   }
+  ],
+  "description": [
+   "Victor 73980. Matrix/Take: B-28195/2."
+  ],
+  "digitized": true,
+  "display_offsite": true,
+  "extract_timestamp": "2026-10-04T21:12:15.782Z",
+  "extract_urls": [
+   "http://www.loc.gov/item/jukebox-67472#nationaljukebox"
+  ],
+  "file_id": [
+   "jvm_victor_73980_01_b28195_02"
+  ],
+  "format": [
+   {
+    "sound recording": "https://www.loc.gov/search/?fa=original_format:sound+recording&fo=json"
+   }
+  ],
+  "genre": [
+   "Italian (Neapolitan)"
+  ],
+  "group": [
+   "nationaljukebox",
+   "national-jukebox"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/item/jukebox-67472/",
+  "iiif_manifest_url": "https://www.loc.gov/item/jukebox-67472/manifest.json",
+  "image_url": [
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73980_01_b28195_02:jvm_victor_73980_01_b28195_02/full/pct:12.5/0/default.jpg#h=281&w=278",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73980_01_b28195_02:jvm_victor_73980_01_b28195_02/full/pct:25/0/default.jpg#h=562&w=557",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73980_01_b28195_02:jvm_victor_73980_01_b28195_02/full/pct:50/0/default.jpg#h=1124&w=1114",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73980_01_b28195_02:jvm_victor_73980_01_b28195_02/full/pct:100/0/default.jpg#h=2248&w=2228"
+  ],
+  "index": 1,
+  "item": {
+   "audio_type": "Vocal",
+   "contributors": [
+    "Migliaccio, Eduardo (\"Farfariello\") -- Vocalist -- Baritone Vocal",
+    "Cohn, Irving -- Songwriter -- Songwriter",
+    "Silver, Frank -- Songwriter -- Songwriter",
+    "Levy, Ted -- Conductor -- Conductor",
+    "Migliaccio, Eduardo -- Translator -- Translator"
+   ],
+   "file_id": [
+    "jvm_victor_73980_01_b28195_02"
+   ],
+   "genre": [
+    "Italian (Neapolitan)"
+   ],
+   "language": "Italian (Neapolitan)",
+   "media_size": "10-in.",
+   "profile": "jukebox",
+   "recording_catalog_number": "73980",
+   "recording_date": "1923-07-17",
+   "recording_label": "Victor",
+   "recording_matrix_number": "B-28195 (Matrix ID)",
+   "recording_repository": "Source of original recording: Johnson Victrola Museum, Delaware.",
+   "recording_take_id": 67472,
+   "recording_take_number": "2",
+   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+   "summary": "Male vocal solo, with orchestra"
+  },
+  "language": [
+   "italian (neapolitan)"
+  ],
+  "languages": [
+   {
+    "italian (neapolitan)": "https://www.loc.gov/search/?fa=language:italian+%28neapolitan%29&fo=json"
+   }
+  ],
+  "location": [
+   "new jersey",
+   "camden",
+   "united states"
+  ],
+  "locations": [
+   {
+    "camden": "https://www.loc.gov/search/?fa=location:camden&fo=json"
+   },
+   {
+    "new jersey": "https://www.loc.gov/search/?fa=location:new+jersey&fo=json"
+   },
+   {
+    "united states": "https://www.loc.gov/search/?fa=location:united+states&fo=json"
+   }
+  ],
+  "media_size": "10-in.",
+  "mime_type": [
+   "audio/mpeg",
+   "audio/wav",
+   "image/tif",
+   "image/jpeg"
+  ],
+  "online_format": [
+   "audio",
+   "image"
+  ],
+  "original_format": [
+   "sound recording"
+  ],
+  "other_formats": [],
+  "other_title": [
+   "Si, noi non abbiamo banane"
+  ],
+  "partof": [
+   {
+    "count": 3495,
+    "title": "johnson victrola museum, delaware",
+    "url": "https://www.loc.gov/search/?fa=partof:johnson+victrola+museum,+delaware&fo=json"
+   },
+   {
+    "count": 20273,
+    "title": "national jukebox",
+    "url": "https://www.loc.gov/collections/national-jukebox/?fo=json"
+   },
+   {
+    "count": 20496,
+    "title": "recorded sound research center",
+    "url": "https://www.loc.gov/search/?fa=partof:recorded+sound+research+center&fo=json"
+   }
+  ],
+  "partof_repository": [
+   "johnson victrola museum, delaware"
+  ],
+  "profile": "jukebox",
+  "recording_catalog_number": "73980",
+  "recording_date": "1923-07-17",
+  "recording_label": "Victor",
+  "recording_matrix_number": "B-28195 (Matrix ID)",
+  "recording_repository": "Source of original recording: Johnson Victrola Museum, Delaware.",
+  "recording_take_id": 67472,
+  "recording_take_number": "2",
+  "resources": [
+   {
+    "files": 1,
+    "media": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73980_01_b28195_02:jvm_victor_73980_01_b28195_02/full/full/0/full/default.mp3",
+    "url": "https://www.loc.gov/resource/jukebox-67472.0"
+   },
+   {
+    "files": 1,
+    "image": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73980_01_b28195_02:jvm_victor_73980_01_b28195_02/full/pct:100/0/default.jpg",
+    "mimetype": "image/jpeg",
+    "url": "https://www.loc.gov/resource/jukebox-67472.1"
+   }
+  ],
+  "rights": [
+   "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
+  ],
+  "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+  "score": 16.532093,
+  "shard": "01",
+  "shelf_id": "Victor 73980",
+  "site": [
+   "nationaljukebox"
+  ],
+  "source_modified": "2000-01-01T12:00:00Z",
+  "subject": [
+   "victor",
+   "italian (neapolitan)",
+   "vocal"
+  ],
+  "subject_category": [
+   "vocal"
+  ],
+  "subject_label": [
+   "victor"
+  ],
+  "subject_target_audience": [
+   "italian (neapolitan)"
+  ],
+  "subjects": [
+   {
+    "italian (neapolitan)": "https://www.loc.gov/search/?fa=subject:italian+%28neapolitan%29&fo=json"
+   },
+   {
+    "victor": "https://www.loc.gov/search/?fa=subject:victor&fo=json"
+   },
+   {
+    "vocal": "https://www.loc.gov/search/?fa=subject:vocal&fo=json"
+   }
+  ],
+  "subjects_category": [
+   {
+    "vocal": "https://www.loc.gov/collections/national-jukebox/?fa=subject_category:vocal&fo=json"
+   }
+  ],
+  "subjects_label": [
+   {
+    "victor": "https://www.loc.gov/collections/national-jukebox/?fa=subject_label:victor&fo=json"
+   }
+  ],
+  "subjects_target_audience": [
+   {
+    "italian (neapolitan)": "https://www.loc.gov/collections/national-jukebox/?fa=subject_target_audience:italian+%28neapolitan%29&fo=json"
+   }
+  ],
+  "summary": "Male vocal solo, with orchestra",
+  "timestamp": "2026-10-05T14:40:08.822Z",
+  "title": "Yes! We have no bananas",
+  "type": [
+   "sound recording-musical"
+  ],
+  "url": "https://www.loc.gov/item/jukebox-67472/"
+ },
+ "more_like_this": [
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-67471/",
+    "http://www.loc.gov/resource/jukebox-67471.0/",
+    "http://www.loc.gov/resource/jukebox-67471.1/",
+    "http://www.loc.gov/resource/jukebox-67471.0",
+    "http://www.loc.gov/resource/jukebox-67471.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "levy, ted",
+    "migliaccio, eduardo (\"farfariello\")",
+    "migliaccio, eduardo",
+    "prisco, r."
+   ],
+   "date": "1923-07-17",
+   "dates": [
+    "1923-07-17"
+   ],
+   "description": [
+    "Victor 73980. Matrix/Take: B-28194/2."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-04T21:12:15.782Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-67471/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73980_01_b28194_02:jvm_victor_73980_01_b28194_02/full/pct:12.5/0/default.jpg#h=288&w=286",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73980_01_b28194_02:jvm_victor_73980_01_b28194_02/full/pct:25/0/default.jpg#h=577&w=573",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73980_01_b28194_02:jvm_victor_73980_01_b28194_02/full/pct:50/0/default.jpg#h=1155&w=1146",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73980_01_b28194_02:jvm_victor_73980_01_b28194_02/full/pct:100/0/default.jpg#h=2311&w=2292"
+   ],
+   "index": 1,
+   "language": [
+    "italian (neapolitan)"
+   ],
+   "location": [
+    "new jersey",
+    "camden",
+    "united states"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "partof": [
+    "johnson victrola museum, delaware",
+    "recorded sound research center",
+    "national jukebox"
+   ],
+   "score": 48.610744,
+   "shelf_id": "Victor 73980",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "victor",
+    "italian (neapolitan)",
+    "vocal"
+   ],
+   "timestamp": "2026-10-05T14:40:08.822Z",
+   "title": "'O ritorno a 'o paese",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-67471/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-35749/",
+    "http://www.loc.gov/resource/jukebox-35749.0/",
+    "http://www.loc.gov/resource/jukebox-35749.1/",
+    "http://www.loc.gov/resource/jukebox-35749.0",
+    "http://www.loc.gov/resource/jukebox-35749.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "farfariello [i.e., eduardo migliaccio]",
+    "quaranta, gennaro",
+    "migliaccio, eduardo (\"farfariello\")",
+    "migliaccio, eduardo",
+    "bourdon, rosario"
+   ],
+   "date": "1920-03-08",
+   "dates": [
+    "1920-03-08"
+   ],
+   "description": [
+    "Victor 72656. Matrix/Take: B-23763/1."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-04T19:51:05.409Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-35749/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_72656_01_b23763_01:jvm_victor_72656_01_b23763_01/full/pct:12.5/0/default.jpg#h=277&w=274",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_72656_01_b23763_01:jvm_victor_72656_01_b23763_01/full/pct:25/0/default.jpg#h=555&w=548",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_72656_01_b23763_01:jvm_victor_72656_01_b23763_01/full/pct:50/0/default.jpg#h=1111&w=1097",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_72656_01_b23763_01:jvm_victor_72656_01_b23763_01/full/pct:100/0/default.jpg#h=2222&w=2194"
+   ],
+   "index": 2,
+   "language": [
+    "italian (neapolitan)"
+   ],
+   "location": [
+    "new jersey",
+    "camden",
+    "united states"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Part 1"
+   ],
+   "partof": [
+    "johnson victrola museum, delaware",
+    "recorded sound research center",
+    "national jukebox"
+   ],
+   "score": 42.689304,
+   "shelf_id": "Victor 72656",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "ethnic music",
+    "victor",
+    "vocal",
+    "italian (neapolitan)",
+    "humorous songs"
+   ],
+   "timestamp": "2026-10-05T14:15:46.040Z",
+   "title": "Il riservista",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-35749/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-35752/",
+    "http://www.loc.gov/resource/jukebox-35752.0/",
+    "http://www.loc.gov/resource/jukebox-35752.1/",
+    "http://www.loc.gov/resource/jukebox-35752.0",
+    "http://www.loc.gov/resource/jukebox-35752.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "farfariello [i.e., eduardo migliaccio]",
+    "quaranta, gennaro",
+    "migliaccio, eduardo (\"farfariello\")",
+    "migliaccio, eduardo",
+    "bourdon, rosario"
+   ],
+   "date": "1920-03-08",
+   "dates": [
+    "1920-03-08"
+   ],
+   "description": [
+    "Victor 72656. Matrix/Take: B-23764/2."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-04T19:51:05.409Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-35752/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_72656_01_b23764_02:jvm_victor_72656_01_b23764_02/full/pct:12.5/0/default.jpg#h=291&w=288",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_72656_01_b23764_02:jvm_victor_72656_01_b23764_02/full/pct:25/0/default.jpg#h=582&w=576",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_72656_01_b23764_02:jvm_victor_72656_01_b23764_02/full/pct:50/0/default.jpg#h=1165&w=1153",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_72656_01_b23764_02:jvm_victor_72656_01_b23764_02/full/pct:100/0/default.jpg#h=2330&w=2307"
+   ],
+   "index": 3,
+   "language": [
+    "italian (neapolitan)"
+   ],
+   "location": [
+    "new jersey",
+    "camden",
+    "united states"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Part 2"
+   ],
+   "partof": [
+    "johnson victrola museum, delaware",
+    "recorded sound research center",
+    "national jukebox"
+   ],
+   "score": 42.689304,
+   "shelf_id": "Victor 72656",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "ethnic music",
+    "victor",
+    "vocal",
+    "italian (neapolitan)",
+    "humorous songs"
+   ],
+   "timestamp": "2026-10-05T14:15:46.040Z",
+   "title": "Il riservista",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-35752/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-64633/",
+    "http://www.loc.gov/resource/jukebox-64633.0/",
+    "http://www.loc.gov/resource/jukebox-64633.1/",
+    "http://www.loc.gov/resource/jukebox-64633.0",
+    "http://www.loc.gov/resource/jukebox-64633.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "levy, ted",
+    "bovio, libero",
+    "valente, nicola",
+    "fucito, raffaele"
+   ],
+   "date": "1922-11-17",
+   "dates": [
+    "1922-11-17"
+   ],
+   "description": [
+    "Victor 73666. Matrix/Take: B-27082/3."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-04T21:03:01.665Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-64633/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73666_01_b27082_03:jvm_victor_73666_01_b27082_03/full/pct:12.5/0/default.jpg#h=277&w=278",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73666_01_b27082_03:jvm_victor_73666_01_b27082_03/full/pct:25/0/default.jpg#h=555&w=557",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73666_01_b27082_03:jvm_victor_73666_01_b27082_03/full/pct:50/0/default.jpg#h=1110&w=1114",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73666_01_b27082_03:jvm_victor_73666_01_b27082_03/full/pct:100/0/default.jpg#h=2221&w=2229"
+   ],
+   "index": 4,
+   "language": [
+    "italian (neapolitan)"
+   ],
+   "location": [
+    "new jersey",
+    "camden",
+    "united states"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "She is young"
+   ],
+   "partof": [
+    "johnson victrola museum, delaware",
+    "recorded sound research center",
+    "national jukebox"
+   ],
+   "score": 40.84577,
+   "shelf_id": "Victor 73666",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "popular music",
+    "ethnic music",
+    "victor",
+    "vocal",
+    "italian (neapolitan)"
+   ],
+   "timestamp": "2026-10-05T14:26:30.107Z",
+   "title": "'E piccerella!",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-64633/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-67421/",
+    "http://www.loc.gov/resource/jukebox-67421.0/",
+    "http://www.loc.gov/resource/jukebox-67421.1/",
+    "http://www.loc.gov/resource/jukebox-67421.0",
+    "http://www.loc.gov/resource/jukebox-67421.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "levy, ted",
+    "bruno, stella",
+    "mario, e. a."
+   ],
+   "date": "1923-07-02",
+   "dates": [
+    "1923-07-02"
+   ],
+   "description": [
+    "Victor 73959. Matrix/Take: B-28159/2."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-04T21:12:15.782Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-67421/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73959_01_b28159_02:jvm_victor_73959_01_b28159_02/full/pct:12.5/0/default.jpg#h=261&w=261",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73959_01_b28159_02:jvm_victor_73959_01_b28159_02/full/pct:25/0/default.jpg#h=522&w=523",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73959_01_b28159_02:jvm_victor_73959_01_b28159_02/full/pct:50/0/default.jpg#h=1044&w=1047",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73959_01_b28159_02:jvm_victor_73959_01_b28159_02/full/pct:100/0/default.jpg#h=2088&w=2094"
+   ],
+   "index": 5,
+   "language": [
+    "italian (neapolitan)"
+   ],
+   "location": [
+    "new jersey",
+    "camden",
+    "united states"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "partof": [
+    "johnson victrola museum, delaware",
+    "recorded sound research center",
+    "national jukebox"
+   ],
+   "score": 40.84577,
+   "shelf_id": "Victor 73959",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "victor",
+    "italian (neapolitan)",
+    "vocal"
+   ],
+   "timestamp": "2026-10-05T14:40:08.822Z",
+   "title": "Tarantellona",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-67421/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-67422/",
+    "http://www.loc.gov/resource/jukebox-67422.0/",
+    "http://www.loc.gov/resource/jukebox-67422.1/",
+    "http://www.loc.gov/resource/jukebox-67422.0",
+    "http://www.loc.gov/resource/jukebox-67422.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "levy, ted",
+    "vento, pacifico",
+    "bruno, stella",
+    "albano, ferdinando"
+   ],
+   "date": "1923-07-02",
+   "dates": [
+    "1923-07-02"
+   ],
+   "description": [
+    "Victor 73959. Matrix/Take: B-28160/2."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-04T21:12:15.782Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-67422/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73959_01_b28160_02:jvm_victor_73959_01_b28160_02/full/pct:12.5/0/default.jpg#h=258&w=254",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73959_01_b28160_02:jvm_victor_73959_01_b28160_02/full/pct:25/0/default.jpg#h=516&w=508",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73959_01_b28160_02:jvm_victor_73959_01_b28160_02/full/pct:50/0/default.jpg#h=1032&w=1016",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73959_01_b28160_02:jvm_victor_73959_01_b28160_02/full/pct:100/0/default.jpg#h=2065&w=2033"
+   ],
+   "index": 6,
+   "language": [
+    "italian (neapolitan)"
+   ],
+   "location": [
+    "new jersey",
+    "camden",
+    "united states"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "partof": [
+    "johnson victrola museum, delaware",
+    "recorded sound research center",
+    "national jukebox"
+   ],
+   "score": 40.84577,
+   "shelf_id": "Victor 73959",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "victor",
+    "italian (neapolitan)",
+    "vocal"
+   ],
+   "timestamp": "2026-10-05T14:40:08.822Z",
+   "title": "Surdato Napulitano",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-67422/"
+  }
+ ],
+ "notice": {
+  "info": "<strong>COLUMBUS DAY HOLIDAY:</strong> On Monday, October 12, 2026, The Jefferson Building Great Hall and exhibitions will be open from 10 a.m. - 5 p.m. to guests with timed-entry passes. The Main Reading Room will be open to visitors, no research or collections services available. All other reading rooms, the Madison and Adams Buildings will be CLOSED to the public. Regularly scheduled access resumes on Tuesday, October 13. \n",
+  "status": "production"
+ },
+ "options": {
+  "access_group": [
+   ""
+  ],
+  "access_group_raw": "",
+  "all": null,
+  "api_version": "1",
+  "app_context": null,
+  "application_shim": null,
+  "application_version": "$Revision$",
+  "attribute": null,
+  "attribute!": null,
+  "attribute_map": null,
+  "cache_tags": [
+   "nationaljukebox",
+   "national-jukebox",
+   "fbj",
+   "catalog-split-12",
+   "catalog",
+   "frances-benjamin-johnston",
+   "main-catalog-split-12",
+   "main-catalog",
+   "catalog-split-08",
+   "main-catalog-split-08",
+   "acd",
+   "catalog-split-03",
+   "cartoon-drawings",
+   "main-catalog-split-03",
+   "catalog-split-02",
+   "main-catalog-split-02",
+   "catalog-split-04",
+   "main-catalog-split-04"
+  ],
+  "callback": null,
+  "clip": null,
+  "clip_image_width": null,
+  "clip_rotation": null,
+  "content_filter": null,
+  "content_replacement": "",
+  "count": null,
+  "dates": null,
+  "default_count": 25,
+  "delimiter": null,
+  "digital_id": null,
+  "display_level": null,
+  "distance": null,
+  "downloadOption": null,
+  "duration": 4.212179660797119,
+  "embed": [],
+  "embed!": [],
+  "error_response_status": null,
+  "excludeTerms": null,
+  "facetLimits": "",
+  "facetPrefix": null,
+  "facet_count": null,
+  "facet_style": null,
+  "field": null,
+  "form_facets": [
+   {
+    "field": "subject_label",
+    "select": "multiple"
+   },
+   {
+    "field": "subject_category",
+    "select": "multiple"
+   },
+   {
+    "field": "language",
+    "select": "multiple"
+   }
+  ],
+  "format": "json",
+  "host": "www.loc.gov",
+  "ical": false,
+  "id": "jukebox-67472/",
+  "iiif": false,
+  "include_facets": [
+   {
+    "field": "original-format"
+   },
+   {
+    "field": "partof_repository",
+    "label": "Repository"
+   },
+   {
+    "field": "subject_label",
+    "label": "Label"
+   },
+   {
+    "field": "dates"
+   },
+   {
+    "field": "subject_genre",
+    "label": "Genre"
+   },
+   {
+    "closed": true,
+    "field": "subject_target_audience",
+    "label": "Target Audience"
+   },
+   {
+    "closed": true,
+    "field": "subject_category",
+    "label": "Category"
+   },
+   {
+    "closed": true,
+    "field": "location"
+   },
+   {
+    "closed": true,
+    "field": "contributor"
+   },
+   {
+    "closed": true,
+    "field": "contributor_vocalist",
+    "label": "Vocalist"
+   },
+   {
+    "closed": true,
+    "field": "contributor_composer",
+    "label": "Composer"
+   },
+   {
+    "closed": true,
+    "field": "contributor_lyricist",
+    "label": "Lyricist"
+   },
+   {
+    "closed": true,
+    "field": "contributor_author",
+    "label": "Author"
+   },
+   {
+    "closed": true,
+    "field": "contributor_performer",
+    "label": "Performer"
+   },
+   {
+    "closed": true,
+    "field": "contributor_musical_group",
+    "label": "Musical Group"
+   },
+   {
+    "closed": true,
+    "field": "subject"
+   },
+   {
+    "closed": true,
+    "field": "language"
+   },
+   {
+    "field": "access-restricted"
+   }
+  ],
+  "index": null,
+  "inputEncoding": "UTF-8",
+  "item": null,
+  "items": null,
+  "keys": null,
+  "language": null,
+  "latlong": null,
+  "method": "GET",
+  "newSearch": null,
+  "new_clip_url": false,
+  "onsite": false,
+  "operator": null,
+  "outputEncoding": "UTF-8",
+  "page_campaigns": [],
+  "path_info": "/item/jukebox-67472/",
+  "port": "443",
+  "proxypath": null,
+  "query_string": "fo=json",
+  "redirect_proxy": false,
+  "redirect_to_item": null,
+  "referer": "",
+  "region": "",
+  "release_id": 123456789,
+  "request_host": "www.loc.gov",
+  "request_params": {
+   "fo": [
+    "json"
+   ]
+  },
+  "request_url": "https://www.loc.gov/item/jukebox-67472/?fo=json",
+  "resource": "",
+  "resource_sequence": null,
+  "scheme": "https",
+  "searchIn": null,
+  "searchTerms": "",
+  "segments": null,
+  "shards": [
+   "01"
+  ],
+  "site_date_range": "1900-01-01/1925-12-31",
+  "site_defaults": [],
+  "site_id": null,
+  "site_type": null,
+  "solrQuery": "",
+  "sortBy": null,
+  "sortOrder": null,
+  "startPage": null,
+  "style": null,
+  "suggested": null,
+  "target": null,
+  "template": "layouts/item/layout",
+  "timestamp": 1791464189.382795,
+  "tz_aware": null,
+  "unionFacets": "",
+  "webcast_permalink": null
+ },
+ "related_items": [
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/pictures/collection/fbj/item/98511956/",
+    "http://www.loc.gov/item/98511956/",
+    "http://www.loc.gov/pictures/item/98511956/",
+    "https://hdl.loc.gov/loc.pnp/cph.3c21291",
+    "http://www.loc.gov/resource/cph.3c21291/",
+    "http://lccn.loc.gov/98511956"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "johnston, frances benjamin"
+   ],
+   "date": "1906-01-01",
+   "dates": [
+    "1906"
+   ],
+   "description": [
+    "1 photographic print : cyanotype."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2021-09-01T23:28:24.098Z",
+   "group": [
+    "fbj",
+    "catalog-split-12",
+    "catalog",
+    "frances-benjamin-johnston",
+    "main-catalog-split-12",
+    "main-catalog"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/98511956/",
+   "image_url": [
+    "https://tile.loc.gov/storage-services/service/pnp/cph/3c20000/3c21000/3c21200/3c21291_150px.jpg#h=120&w=150",
+    "https://tile.loc.gov/storage-services/service/pnp/cph/3c20000/3c21000/3c21200/3c21291t.gif#h=120&w=150",
+    "https://tile.loc.gov/storage-services/service/pnp/cph/3c20000/3c21000/3c21200/3c21291r.jpg#h=512&w=640",
+    "https://tile.loc.gov/storage-services/service/pnp/cph/3c20000/3c21000/3c21200/3c21291v.jpg#h=819&w=1024"
+   ],
+   "index": 1,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "united states"
+   ],
+   "mime_type": [
+    "image/gif",
+    "image/jpg",
+    "image/tif"
+   ],
+   "number": [
+    "http://www.loc.gov/item/98511956",
+    "98511956",
+    "2009-09-24t17:01:03",
+    "http://www.loc.gov/item/11718779"
+   ],
+   "online_format": [
+    "image"
+   ],
+   "original_format": [
+    "photo, print, drawing"
+   ],
+   "partof": [
+    "catalog",
+    "prints and photographs division",
+    "lot 10810",
+    "johnston (frances benjamin) collection",
+    "prints & photographs online catalog (library of congress)"
+   ],
+   "score": 222.92651,
+   "shelf_id": "LOT 10810 <item> [P&P]",
+   "site": [
+    "pictures",
+    "catalog"
+   ],
+   "subject": [
+    "legislative bodies",
+    "people",
+    "united states",
+    ")",
+    "cyanotypes",
+    "(59th",
+    "cannon, joseph gurney",
+    "congress"
+   ],
+   "timestamp": "2022-04-27T04:21:55.353Z",
+   "title": "[Opening ceremonies of the U.S. 59th Congress, 2nd session, 1906, with Speaker Joseph Cannon presiding]",
+   "url": "https://www.loc.gov/item/98511956/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/pictures/collection/fbj/item/98511961/",
+    "http://www.loc.gov/item/98511961/",
+    "http://www.loc.gov/pictures/item/98511961/",
+    "https://hdl.loc.gov/loc.pnp/cph.3c21290",
+    "http://www.loc.gov/resource/cph.3c21290/",
+    "http://lccn.loc.gov/98511961"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "johnston, frances benjamin"
+   ],
+   "date": "1906-01-01",
+   "dates": [
+    "1906"
+   ],
+   "description": [
+    "1 photographic print. | Opening ceremonies of the U.S. 59th Congress, 2nd session, 1906, with Speaker Joseph Cannon presiding."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2021-09-01T23:28:24.098Z",
+   "group": [
+    "fbj",
+    "catalog-split-08",
+    "catalog",
+    "frances-benjamin-johnston",
+    "main-catalog-split-08",
+    "main-catalog"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/98511961/",
+   "image_url": [
+    "https://tile.loc.gov/storage-services/service/pnp/cph/3c20000/3c21000/3c21200/3c21290_150px.jpg#h=120&w=150",
+    "https://tile.loc.gov/storage-services/service/pnp/cph/3c20000/3c21000/3c21200/3c21290t.gif#h=120&w=150",
+    "https://tile.loc.gov/storage-services/service/pnp/cph/3c20000/3c21000/3c21200/3c21290r.jpg#h=512&w=640",
+    "https://tile.loc.gov/storage-services/service/pnp/cph/3c20000/3c21000/3c21200/3c21290v.jpg#h=820&w=1024"
+   ],
+   "index": 2,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "united states"
+   ],
+   "mime_type": [
+    "image/gif",
+    "image/jpg",
+    "image/tif"
+   ],
+   "number": [
+    "2009-09-17t17:46:53",
+    "http://www.loc.gov/item/98511961",
+    "98511961",
+    "http://www.loc.gov/item/11718783"
+   ],
+   "online_format": [
+    "image"
+   ],
+   "original_format": [
+    "photo, print, drawing"
+   ],
+   "partof": [
+    "catalog",
+    "prints and photographs division",
+    "lot 10810",
+    "johnston (frances benjamin) collection",
+    "prints & photographs online catalog (library of congress)"
+   ],
+   "score": 222.92651,
+   "shelf_id": "LOT 10810 <item> [P&P]",
+   "site": [
+    "pictures",
+    "catalog"
+   ],
+   "subject": [
+    "legislative bodies",
+    "people",
+    "united states",
+    "photographic prints",
+    ")",
+    "(59th",
+    "cannon, joseph gurney",
+    "congress"
+   ],
+   "timestamp": "2022-04-27T04:21:55.353Z",
+   "title": "The House called to order--Opening of 59th Congress",
+   "url": "https://www.loc.gov/item/98511961/"
+  },
+  {
+   "access_restricted": true,
+   "aka": [
+    "http://www.loc.gov/pictures/collection/acd/item/2016683162/",
+    "http://www.loc.gov/item/2016683162/",
+    "http://www.loc.gov/pictures/item/2016683162/",
+    "https://hdl.loc.gov/loc.pnp/acd.2a10034",
+    "http://www.loc.gov/resource/acd.2a10034/",
+    "http://lccn.loc.gov/2016683162"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "lewis, ross a. (ross aubrey)"
+   ],
+   "date": "1935-01-01",
+   "dates": [
+    "1935"
+   ],
+   "description": [
+    "1 drawing. | Cartoon shows a bored looking Senator holding a document labeled \"Work Relief Bill\" riding on the back of a giant turtle labeled \"Delay.\"  May refer to the Senate delay in passing President Franklin D. Roosevelt's massive work relief bill in 1935.  The caption is an ironic reference to the phrase sometimes used to describe the U.S. Senate."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2021-09-01T22:24:01.623Z",
+   "group": [
+    "acd",
+    "catalog-split-03",
+    "catalog",
+    "cartoon-drawings",
+    "main-catalog-split-03",
+    "main-catalog"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/2016683162/",
+   "image_url": [
+    "https://tile.loc.gov/storage-services/service/pnp/acd/2a10000/2a10000/2a10034_150px.jpg#h=150&w=146"
+   ],
+   "index": 3,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "united states"
+   ],
+   "mime_type": [
+    "image/gif",
+    "image/jpg",
+    "image/tif"
+   ],
+   "number": [
+    "http://www.loc.gov/item/19211353",
+    "2017-12-20t11:00:52",
+    "2016683162",
+    "http://www.loc.gov/item/2016683162",
+    "sheet",
+    "http://www.loc.gov/item/acd1996005189/pp"
+   ],
+   "online_format": [
+    "image"
+   ],
+   "original_format": [
+    "photo, print, drawing"
+   ],
+   "partof": [
+    "prints and photographs division",
+    "cartoon drawings",
+    "prints & photographs online catalog (library of congress)",
+    "catalog"
+   ],
+   "score": 222.92651,
+   "shelf_id": "CD 1 - Lewis (R.A.), no. 1 (A size)",
+   "site": [
+    "pictures",
+    "catalog"
+   ],
+   "subject": [
+    "united states",
+    "american",
+    ")",
+    "(74th",
+    "public service employment",
+    "turtles",
+    "new deal",
+    "editorial cartoons",
+    "senate",
+    "drawings",
+    "congress"
+   ],
+   "timestamp": "2022-04-23T11:45:24.220Z",
+   "title": "The greatest deliberative body in the world",
+   "url": "https://www.loc.gov/item/2016683162/"
+  },
+  {
+   "access_restricted": true,
+   "aka": [
+    "http://www.loc.gov/pictures/collection/acd/item/2016683648/",
+    "http://www.loc.gov/item/2016683648/",
+    "http://www.loc.gov/pictures/item/2016683648/",
+    "https://hdl.loc.gov/loc.pnp/acd.2a10480",
+    "http://www.loc.gov/resource/acd.2a10480/",
+    "http://lccn.loc.gov/2016683648"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "marcus, edwin"
+   ],
+   "date": "1939-01-01",
+   "dates": [
+    "1939"
+   ],
+   "description": [
+    "1 drawing. | Cartoon shows two cowboys (labeled \"Senate\" and \"House\") holding rifles (labeled \"Politics\") reading a notice, \"Check Your Guns Here Before Entering,\" outside a door labeled \"Extra Session.\"  Probably refers to the special Congressional Session called by President Roosevelt after World War II began in September 1939.  As Roosevelt hoped, Congress repealed the neutrality legislation that had imposed an arms embargo. The cartoonist suggests that politics should not be allowed to play a part in this decision."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2021-09-01T22:24:04.246Z",
+   "group": [
+    "acd",
+    "catalog-split-12",
+    "catalog",
+    "cartoon-drawings",
+    "main-catalog-split-12",
+    "main-catalog"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/2016683648/",
+   "image_url": [
+    "https://tile.loc.gov/storage-services/service/pnp/acd/2a10000/2a10400/2a10480_150px.jpg#h=150&w=145"
+   ],
+   "index": 4,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "united states"
+   ],
+   "mime_type": [
+    "image/gif",
+    "image/jpg",
+    "image/tif"
+   ],
+   "number": [
+    "http://www.loc.gov/item/acd1996005675/pp",
+    "http://www.loc.gov/item/19211908",
+    "http://www.loc.gov/item/2016683648",
+    "sheet",
+    "2017-11-29t14:06:08",
+    "2016683648"
+   ],
+   "online_format": [
+    "image"
+   ],
+   "original_format": [
+    "photo, print, drawing"
+   ],
+   "partof": [
+    "prints and photographs division",
+    "cartoon drawings",
+    "prints & photographs online catalog (library of congress)",
+    "catalog"
+   ],
+   "score": 222.92651,
+   "shelf_id": "CD 1 - Marcus, no. 178 (B size)",
+   "site": [
+    "pictures",
+    "catalog"
+   ],
+   "subject": [
+    "neutrality",
+    "(75th",
+    "united states",
+    "american",
+    ")",
+    "embargoes",
+    "cowboys",
+    "editorial cartoons",
+    "drawings",
+    "congress"
+   ],
+   "timestamp": "2022-04-23T11:47:28.805Z",
+   "title": "Arms embargo",
+   "url": "https://www.loc.gov/item/2016683648/"
+  },
+  {
+   "access_restricted": true,
+   "aka": [
+    "http://www.loc.gov/pictures/collection/acd/item/2016683710/",
+    "http://www.loc.gov/item/2016683710/",
+    "http://www.loc.gov/pictures/item/2016683710/",
+    "https://hdl.loc.gov/loc.pnp/acd.2a10542",
+    "http://www.loc.gov/resource/acd.2a10542/",
+    "http://lccn.loc.gov/2016683710"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "marcus, edwin"
+   ],
+   "date": "1949-01-01",
+   "dates": [
+    "1949"
+   ],
+   "description": [
+    "1 drawing. | Cartoon shows a man (labeled \"Congress\") sitting on a branch of a large tree (labeled \"Budget\"), calling \"Timber\" as he cuts off a very small branch.  Probably refers to the chronic ineffectual efforts of Congress to reduce spending."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2021-09-01T22:24:04.791Z",
+   "group": [
+    "acd",
+    "catalog-split-02",
+    "catalog",
+    "cartoon-drawings",
+    "main-catalog-split-02",
+    "main-catalog"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/2016683710/",
+   "image_url": [
+    "https://tile.loc.gov/storage-services/service/pnp/acd/2a10000/2a10500/2a10542_150px.jpg#h=150&w=144"
+   ],
+   "index": 5,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "united states"
+   ],
+   "mime_type": [
+    "image/gif",
+    "image/jpg",
+    "image/tif"
+   ],
+   "number": [
+    "2016683710",
+    "2017-12-20t10:18:58",
+    "sheet",
+    "http://www.loc.gov/item/19211971",
+    "http://www.loc.gov/item/acd1996005737/pp",
+    "http://www.loc.gov/item/2016683710"
+   ],
+   "online_format": [
+    "image"
+   ],
+   "original_format": [
+    "photo, print, drawing"
+   ],
+   "partof": [
+    "prints and photographs division",
+    "cartoon drawings",
+    "prints & photographs online catalog (library of congress)",
+    "catalog"
+   ],
+   "score": 222.92651,
+   "shelf_id": "CD 1 - Marcus, no. 238 (A size)",
+   "site": [
+    "pictures",
+    "catalog"
+   ],
+   "subject": [
+    "trees",
+    "woodcutting",
+    "united states",
+    "american",
+    "(81st",
+    ")",
+    "government spending reductions",
+    "editorial cartoons",
+    "drawings",
+    "congress"
+   ],
+   "timestamp": "2022-04-23T11:47:51.537Z",
+   "title": "Not much of a cut",
+   "url": "https://www.loc.gov/item/2016683710/"
+  },
+  {
+   "access_restricted": true,
+   "aka": [
+    "http://www.loc.gov/pictures/collection/acd/item/2016683730/",
+    "http://www.loc.gov/item/2016683730/",
+    "http://www.loc.gov/pictures/item/2016683730/",
+    "https://hdl.loc.gov/loc.pnp/acd.2a10561",
+    "http://www.loc.gov/resource/acd.2a10561/",
+    "http://lccn.loc.gov/2016683730"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "marcus, edwin"
+   ],
+   "date": "1947-01-01",
+   "dates": [
+    "1947"
+   ],
+   "description": [
+    "1 drawing. | Cartoon shows a hen (labeled \"Rep. Congress\") in her nest, sitting on a door knob labeled \"Campaign Promises.\"  Farmers sometimes put door knobs in nests to fool the hens into thinking they had laid an egg to promote further laying.  In 1946, the Republicans won both houses of Congress for the first time in 18 years.  The cartoonist questions whether they will be able to accomplish all that they have promised."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2021-09-01T22:24:04.791Z",
+   "group": [
+    "acd",
+    "catalog-split-04",
+    "catalog",
+    "cartoon-drawings",
+    "main-catalog-split-04",
+    "main-catalog"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/2016683730/",
+   "image_url": [
+    "https://tile.loc.gov/storage-services/service/pnp/acd/2a10000/2a10500/2a10561_150px.jpg#h=148&w=150"
+   ],
+   "index": 6,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "united states"
+   ],
+   "mime_type": [
+    "image/gif",
+    "image/jpg",
+    "image/tif"
+   ],
+   "number": [
+    "2018-01-17t09:45:11",
+    "http://www.loc.gov/item/19211994",
+    "http://www.loc.gov/item/acd1996005757/pp",
+    "sheet",
+    "http://www.loc.gov/item/2016683730",
+    "2016683730"
+   ],
+   "online_format": [
+    "image"
+   ],
+   "original_format": [
+    "photo, print, drawing"
+   ],
+   "partof": [
+    "prints and photographs division",
+    "cartoon drawings",
+    "prints & photographs online catalog (library of congress)",
+    "catalog"
+   ],
+   "score": 222.92651,
+   "shelf_id": "CD 1 - Marcus, no. 257 (A size)",
+   "site": [
+    "pictures",
+    "catalog"
+   ],
+   "subject": [
+    "united states",
+    "republican party (u.s. : 1854- )",
+    "chickens",
+    "american",
+    ")",
+    "political elections",
+    "editorial cartoons",
+    "(80th",
+    "drawings",
+    "congress"
+   ],
+   "timestamp": "2022-04-23T11:47:51.537Z",
+   "title": "The optimist",
+   "url": "https://www.loc.gov/item/2016683730/"
+  }
+ ],
+ "resources": [
+  {
+   "audio": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73980_01_b28195_02:jvm_victor_73980_01_b28195_02/full/full/0/full/default.mp3",
+   "files": [
+    [
+     {
+      "aspectRation": "4:3",
+      "autoPlay": false,
+      "canDownload": true,
+      "derivatives": [
+       {
+        "derivativeUrl": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/jvm_victor_73980_01_b28195_02/jvm_victor_73980_01_b28195_02.mp3"
+       }
+      ],
+      "detailUrl": "https://www.loc.gov/item/jukebox-67472",
+      "download": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73980_01_b28195_02:jvm_victor_73980_01_b28195_02/full/full/0/full/default.mp3",
+      "duration": 183.0,
+      "filename": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/jvm_victor_73980_01_b28195_02/jvm_victor_73980_01_b28195_02.mp3",
+      "mediaType": "A",
+      "metadata": [
+       "Yes! We have no bananas",
+       "Male vocal solo, with orchestra"
+      ],
+      "mimetype": "audio/mpeg",
+      "poster": null,
+      "rights_restricted": true,
+      "shortName": "Yes! We have no bananas",
+      "thumbnail_url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73980_01_b28195_02:jvm_victor_73980_01_b28195_02/full/pct:12.5/0/default.jpg"
+     },
+     {
+      "height": null,
+      "levels": 1,
+      "mimetype": "audio/wav",
+      "size": 32375628,
+      "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/jvm_victor_73980_01_b28195_02/jvm_victor_73980_01_b28195_02.wav",
+      "width": null
+     }
+    ]
+   ],
+   "url": "https://www.loc.gov/resource/jukebox-67472.0"
+  },
+  {
+   "files": [
+    [
+     {
+      "height": 281,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73980_01_b28195_02:jvm_victor_73980_01_b28195_02/full/pct:12.5/0/default.jpg",
+      "width": 278
+     },
+     {
+      "height": 562,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73980_01_b28195_02:jvm_victor_73980_01_b28195_02/full/pct:25/0/default.jpg",
+      "width": 557
+     },
+     {
+      "height": 1124,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73980_01_b28195_02:jvm_victor_73980_01_b28195_02/full/pct:50/0/default.jpg",
+      "width": 1114
+     },
+     {
+      "height": 2248,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73980_01_b28195_02:jvm_victor_73980_01_b28195_02/full/pct:100/0/default.jpg",
+      "width": 2228
+     },
+     {
+      "height": null,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 20037684,
+      "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/jvm_victor_73980_01_b28195_02/jvm_victor_73980_01_b28195_02.tif",
+      "width": null
+     }
+    ]
+   ],
+   "image": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73980_01_b28195_02:jvm_victor_73980_01_b28195_02/full/pct:100/0/default.jpg",
+   "mimetype": "image/jpeg",
+   "url": "https://www.loc.gov/resource/jukebox-67472.1"
+  }
+ ],
+ "timestamp": 1791464193595
+}
