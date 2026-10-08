@@ -140,8 +140,8 @@
    }
   ],
   "location": [
-   "germany",
-   "berlin"
+   "berlin",
+   "germany"
   ],
   "locations": [
    {
@@ -217,7 +217,7 @@
    "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
   ],
   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
-  "score": 15.332891,
+  "score": 15.335276,
   "shard": "01",
   "shelf_id": "Victor 68352",
   "site": [
@@ -225,8 +225,8 @@
   ],
   "source_modified": "2000-01-01T12:00:00Z",
   "subject": [
-   "vocal",
    "victor",
+   "vocal",
    "opera"
   ],
   "subject_category": [
@@ -286,8 +286,8 @@
    "campaigns": [],
    "contributor": [
     "runge, gertrud",
-    "weimarsches vokal-quartett",
     "nebe-quartett",
+    "weimarsches vokal-quartett",
     "wagner, richard"
    ],
    "date": "1911-09-09",
@@ -316,8 +316,8 @@
     "german"
    ],
    "location": [
-    "germany",
-    "berlin"
+    "berlin",
+    "germany"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -339,18 +339,18 @@
     "Tannhauser. Pilgerchor"
    ],
    "partof": [
-    "recorded sound section, library of congress",
     "recorded sound research center",
-    "national jukebox"
+    "national jukebox",
+    "recorded sound section, library of congress"
    ],
-   "score": 65.16942,
+   "score": 65.18768,
    "shelf_id": "Victor 68352",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "vocal",
     "victor",
+    "vocal",
     "opera"
    ],
    "timestamp": "2026-10-05T14:12:11.703Z",
@@ -402,8 +402,8 @@
     "german"
    ],
    "location": [
-    "germany",
-    "berlin"
+    "berlin",
+    "germany"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -426,18 +426,18 @@
     "Du sieh'st, das ist nicht so"
    ],
    "partof": [
-    "recorded sound section, library of congress",
     "recorded sound research center",
-    "national jukebox"
+    "national jukebox",
+    "recorded sound section, library of congress"
    ],
-   "score": 38.95378,
+   "score": 38.963173,
    "shelf_id": "Victor 55061",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "vocal",
     "victor",
+    "vocal",
     "opera"
    ],
    "timestamp": "2026-10-05T14:15:01.733Z",
@@ -489,8 +489,8 @@
     "german"
    ],
    "location": [
-    "germany",
-    "berlin"
+    "berlin",
+    "germany"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -513,18 +513,18 @@
     "Mein erstes amt verricht' ich so"
    ],
    "partof": [
-    "recorded sound section, library of congress",
     "recorded sound research center",
-    "national jukebox"
+    "national jukebox",
+    "recorded sound section, library of congress"
    ],
-   "score": 38.95378,
+   "score": 38.963173,
    "shelf_id": "Victor 55061",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "vocal",
     "victor",
+    "vocal",
     "opera"
    ],
    "timestamp": "2026-10-05T14:15:01.733Z",
@@ -546,9 +546,9 @@
    ],
    "campaigns": [],
    "contributor": [
-    "voigt, louise b.",
     "victor orchestra",
-    "wagner, richard"
+    "wagner, richard",
+    "voigt, louise b."
    ],
    "date": "1911-09-29",
    "dates": [
@@ -576,8 +576,8 @@
     "german"
    ],
    "location": [
-    "camden",
     "new jersey",
+    "camden",
     "united states"
    ],
    "mime_type": [
@@ -597,18 +597,18 @@
     "Tannhauser. Dich, teure Halle"
    ],
    "partof": [
-    "recorded sound section, library of congress",
     "recorded sound research center",
-    "national jukebox"
+    "national jukebox",
+    "recorded sound section, library of congress"
    ],
-   "score": 32.282845,
+   "score": 32.290943,
    "shelf_id": "Victor 68473",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "vocal",
     "victor",
+    "vocal",
     "opera"
    ],
    "timestamp": "2026-10-05T14:00:03.665Z",
@@ -629,9 +629,9 @@
    ],
    "campaigns": [],
    "contributor": [
-    "victor opera chorus [i.e., victor light opera company]",
+    "victor light opera company",
     "wagner, richard",
-    "victor light opera company"
+    "victor opera chorus [i.e., victor light opera company]"
    ],
    "date": "1911-11-29",
    "dates": [
@@ -659,8 +659,8 @@
     "english"
    ],
    "location": [
-    "camden",
     "new jersey",
+    "camden",
     "united states"
    ],
    "mime_type": [
@@ -681,18 +681,18 @@
     "Lohengrin"
    ],
    "partof": [
-    "recorded sound section, library of congress",
     "recorded sound research center",
-    "national jukebox"
+    "national jukebox",
+    "recorded sound section, library of congress"
    ],
-   "score": 32.282845,
+   "score": 32.290943,
    "shelf_id": "Victor 31846",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "vocal",
     "victor",
+    "vocal",
     "opera"
    ],
    "timestamp": "2026-10-05T14:00:28.666Z",
@@ -714,9 +714,9 @@
    ],
    "campaigns": [],
    "contributor": [
-    "victor opera chorus [i.e., victor light opera company]",
+    "victor light opera company",
     "wagner, richard",
-    "victor light opera company"
+    "victor opera chorus [i.e., victor light opera company]"
    ],
    "date": "1911-11-29",
    "dates": [
@@ -744,8 +744,8 @@
     "english"
    ],
    "location": [
-    "camden",
     "new jersey",
+    "camden",
     "united states"
    ],
    "mime_type": [
@@ -767,18 +767,18 @@
     "Faithful and true"
    ],
    "partof": [
-    "recorded sound section, library of congress",
     "recorded sound research center",
-    "national jukebox"
+    "national jukebox",
+    "recorded sound section, library of congress"
    ],
-   "score": 32.282845,
+   "score": 32.290943,
    "shelf_id": "Victor 35494",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "vocal",
     "victor",
+    "vocal",
     "opera"
    ],
    "timestamp": "2026-10-05T14:00:28.666Z",
@@ -841,7 +841,7 @@
   "display_level": null,
   "distance": null,
   "downloadOption": null,
-  "duration": 0.7530355453491211,
+  "duration": 0.5361518859863281,
   "embed": [],
   "embed!": [],
   "error_response_status": null,
@@ -1000,7 +1000,7 @@
   "suggested": null,
   "target": null,
   "template": "layouts/item/layout",
-  "timestamp": 1791373613.945983,
+  "timestamp": 1791463548.5523727,
   "tz_aware": null,
   "unionFacets": "",
   "webcast_permalink": null
@@ -1056,8 +1056,8 @@
     "image/jp2"
    ],
    "number": [
-    "2021562357",
     "2026-06-22t13:46:04",
+    "2021562357",
     "http://www.loc.gov/resource/mussilentfilms.mussilentfilms-2021562357"
    ],
    "online_format": [
@@ -1069,25 +1069,25 @@
    ],
    "partof": [
     "catalog",
-    "silent film scores and arrangements",
-    "music division"
+    "music division",
+    "silent film scores and arrangements"
    ],
-   "score": 10.011172,
+   "score": 10.018804,
    "shelf_id": "M1357 .M",
    "site": [
     "catalog"
    ],
    "subject": [
-    "parts",
-    "opera",
-    "fantasias (music)",
-    "adaptations",
-    "silent film music",
-    "excerpts",
     "excerpts, arranged",
     "operas",
     "parts (music)",
-    "potpourris (salon orchestra)"
+    "opera",
+    "excerpts",
+    "fantasias (music)",
+    "adaptations",
+    "potpourris (salon orchestra)",
+    "silent film music",
+    "parts"
    ],
    "timestamp": "2026-06-24T15:23:35.437Z",
    "title": "Wagneriana : grand fantasia on Richard Wagner's works",
@@ -1144,8 +1144,8 @@
     "image/jp2"
    ],
    "number": [
-    "http://www.loc.gov/resource/mussg.mussg-2016560872",
     "2026-09-24t14:38:53.800000",
+    "http://www.loc.gov/resource/mussg.mussg-2016560872",
     "2016560872"
    ],
    "online_format": [
@@ -1156,13 +1156,13 @@
     "notated music"
    ],
    "partof": [
-    "catalog",
     "music treasures consortium: library of congress",
+    "music division",
+    "catalog",
     "gisella selden-goth collection",
-    "music treasures consortium",
-    "music division"
+    "music treasures consortium"
    ],
-   "score": 10.011172,
+   "score": 10.018804,
    "shelf_id": "ML31 .S4a No. 22 ML31 .S4e No. 22",
    "site": [
     "catalog"
@@ -1224,8 +1224,8 @@
    ],
    "location": [
     "victor",
-    "iowa",
-    "united states"
+    "united states",
+    "iowa"
    ],
    "mime_type": [
     "image/gif",
@@ -1233,9 +1233,9 @@
     "image/tif"
    ],
    "number": [
+    "http://www.loc.gov/item/17665053",
     "2013-04-03t08:58:59",
-    "2013645043",
-    "http://www.loc.gov/item/17665053"
+    "2013645043"
    ],
    "online_format": [
     "image"
@@ -1244,29 +1244,29 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "catalog",
-    "miscellaneous items in high demand",
     "prints & photographs online catalog (library of congress)",
+    "miscellaneous items in high demand",
+    "lot 14058",
     "prints and photographs division",
-    "lot 14058"
+    "catalog"
    ],
-   "score": 9.757024,
+   "score": 9.75644,
    "shelf_id": "LOT 14058, no. 123 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "victor (iowa)",
     "victor",
-    "panoramic postcards",
+    "photographic prints",
     "school children",
-    "iowa",
-    "group portraits",
     "united states",
+    "panoramic postcards",
     "photographic postcards",
-    "schools",
-    "photographic prints"
+    "victor (iowa)",
+    "group portraits",
+    "iowa",
+    "schools"
    ],
    "timestamp": "2022-05-02T06:13:36.448Z",
    "title": "[Victor High School, Victor, Iowa]",
@@ -1318,8 +1318,8 @@
    ],
    "location": [
     "victor",
-    "united states",
-    "colorado"
+    "colorado",
+    "united states"
    ],
    "mime_type": [
     "image/gif",
@@ -1330,8 +1330,8 @@
     "http://www.loc.gov/item/det1994014825/pp",
     "http://www.loc.gov/item/2016808865",
     "2017-10-30t13:04:57",
-    "2016808865",
-    "http://www.loc.gov/item/20110612"
+    "http://www.loc.gov/item/20110612",
+    "2016808865"
    ],
    "online_format": [
     "image"
@@ -1340,25 +1340,25 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "american memory",
-    "catalog",
-    "detroit publishing company",
     "prints & photographs online catalog (library of congress)",
-    "prints and photographs division"
+    "american memory",
+    "detroit publishing company",
+    "prints and photographs division",
+    "catalog"
    ],
-   "score": 9.757024,
+   "score": 9.75644,
    "shelf_id": "LC-D4-13841 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "cityscape photographs",
+    "victor",
     "dry plate negatives",
-    "united states",
     "gold mining",
+    "united states",
     "colorado",
-    "victor"
+    "cityscape photographs"
    ],
    "timestamp": "2022-04-25T08:19:00.040Z",
    "title": "Victor, Colo., and the Gold Coin Mine",
@@ -1407,8 +1407,8 @@
     "english"
    ],
    "location": [
-    "montana",
     "victor",
+    "montana",
     "united states"
    ],
    "mime_type": [
@@ -1417,10 +1417,10 @@
     "image/tif"
    ],
    "number": [
-    "http://www.loc.gov/item/23570952",
     "2024-02-21t08:57:11",
+    "2024689882",
     "sheet",
-    "2024689882"
+    "http://www.loc.gov/item/23570952"
    ],
    "online_format": [
     "image"
@@ -1429,22 +1429,22 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "catalog",
-    "prints and photographs division"
+    "prints and photographs division",
+    "catalog"
    ],
-   "score": 9.757024,
+   "score": 9.75644,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 1 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "streets",
-    "photographs",
-    "montana",
-    "united states",
     "victor",
-    "postcards"
+    "streets",
+    "postcards",
+    "united states",
+    "photographs",
+    "montana"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "Main Street, Victor, Montana",
@@ -1496,8 +1496,8 @@
     "english"
    ],
    "location": [
-    "montana",
     "victor",
+    "montana",
     "united states"
    ],
    "mime_type": [
@@ -1506,10 +1506,10 @@
     "image/tif"
    ],
    "number": [
-    "2024689883",
     "http://www.loc.gov/item/23570953",
+    "2024-02-21t08:57:12",
     "sheet",
-    "2024-02-21t08:57:12"
+    "2024689883"
    ],
    "online_format": [
     "image"
@@ -1518,21 +1518,21 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "catalog",
-    "prints and photographs division"
+    "prints and photographs division",
+    "catalog"
    ],
-   "score": 9.757024,
+   "score": 9.75644,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 2 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "photographs",
-    "montana",
-    "united states",
     "victor",
-    "postcards"
+    "postcards",
+    "united states",
+    "photographs",
+    "montana"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "The snow-capped peak of St. Mory's, Victor, Montana",
@@ -1625,5 +1625,5 @@
    "url": "https://www.loc.gov/resource/jukebox-301579.1"
   }
  ],
- "timestamp": 1791373614699
+ "timestamp": 1791463549088
 }

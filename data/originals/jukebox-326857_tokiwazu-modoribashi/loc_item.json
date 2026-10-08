@@ -1,9 +1,9 @@
 {
  "articles_and_essays": null,
  "cite_this": {
-  "apa": "Kin'Nosuke. (1902) <cite>TokiwazuModoribashi</cite>. [Audio] Retrieved from the Library of Congress, https://www.loc.gov/item/jukebox-326857/.",
-  "chicago": "Kin'Nosuke. <cite>TokiwazuModoribashi</cite>. 1902. Audio. https://www.loc.gov/item/jukebox-326857/.",
-  "mla": "Kin'Nosuke. <cite>TokiwazuModoribashi</cite>. 1902. Audio. Retrieved from the Library of Congress, &lt;www.loc.gov/item/jukebox-326857/&gt;."
+  "apa": "Kin'Nosuke. (1902) <cite>Tokiwazu Modoribashi</cite>. [Audio] Retrieved from the Library of Congress, https://www.loc.gov/item/jukebox-326857/.",
+  "chicago": "Kin'Nosuke. <cite>Tokiwazu Modoribashi</cite>. 1902. Audio. https://www.loc.gov/item/jukebox-326857/.",
+  "mla": "Kin'Nosuke. <cite>Tokiwazu Modoribashi</cite>. 1902. Audio. Retrieved from the Library of Congress, &lt;www.loc.gov/item/jukebox-326857/&gt;."
  },
  "item": {
   "_version_": 1878219436744245248,
@@ -187,7 +187,7 @@
    "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
   ],
   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
-  "score": 15.333624,
+  "score": 15.335276,
   "shard": "01",
   "shelf_id": "Victor 11256",
   "site": [
@@ -195,10 +195,10 @@
   ],
   "source_modified": "2000-01-01T12:00:00Z",
   "subject": [
-   "japanese",
    "ethnic music",
+   "victor",
    "vocal",
-   "victor"
+   "japanese"
   ],
   "subject_category": [
    "vocal"
@@ -267,8 +267,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "toyotake, roshō",
-    "gaisberg, william conrad"
+    "gaisberg, william conrad",
+    "toyotake, roshō"
    ],
    "date": "1906-11-30",
    "dates": [
@@ -294,8 +294,8 @@
     "japanese"
    ],
    "location": [
-    "osaka",
-    "japan"
+    "japan",
+    "osaka"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -311,19 +311,19 @@
    ],
    "partof": [
     "department of special collections, davidson library, university of california, santa barbara",
-    "national jukebox",
-    "recorded sound research center"
+    "recorded sound research center",
+    "national jukebox"
    ],
-   "score": 33.19052,
+   "score": 33.19636,
    "shelf_id": "Victor 11154",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "japanese",
     "ethnic music",
+    "victor",
     "vocal",
-    "victor"
+    "japanese"
    ],
    "timestamp": "2026-10-05T14:13:57.371Z",
    "title": "Jōruri  Tsubozakadera : Sawa shinai (浄瑠璃  壷坂寺 : 澤市内)",
@@ -344,12 +344,12 @@
    ],
    "campaigns": [],
    "contributor": [
+    "king, edward t.",
     "rydel, lucjan",
-    "grabowsky, jan [i.e., františek a. pangrác]",
     "pangrác, františek a.",
-    "shilkret, nathaniel",
     "rózycki, maryan s.",
-    "king, edward t."
+    "shilkret, nathaniel",
+    "grabowsky, jan [i.e., františek a. pangrác]"
    ],
    "date": "1919-06-11",
    "dates": [
@@ -396,20 +396,20 @@
    ],
    "partof": [
     "department of special collections, davidson library, university of california, santa barbara",
-    "national jukebox",
-    "recorded sound research center"
+    "recorded sound research center",
+    "national jukebox"
    ],
-   "score": 25.400866,
+   "score": 25.405542,
    "shelf_id": "Victor 72413",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "polish",
-    "religious",
-    "vocal",
     "ethnic music",
-    "victor"
+    "religious",
+    "victor",
+    "vocal",
+    "polish"
    ],
    "timestamp": "2026-10-05T14:01:15.280Z",
    "title": "Przybieżeli do Betlejem pasterze",
@@ -430,10 +430,10 @@
    ],
    "campaigns": [],
    "contributor": [
+    "lapitino, francis j.",
     "zimmermann, fritz",
     "bourdon, rosario",
-    "huber, ferdinand fürchtegott",
-    "lapitino, francis j."
+    "huber, ferdinand fürchtegott"
    ],
    "date": "1920-07-12",
    "dates": [
@@ -459,9 +459,9 @@
     "swiss german"
    ],
    "location": [
-    "united states",
     "new jersey",
-    "camden"
+    "camden",
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -481,19 +481,19 @@
    ],
    "partof": [
     "department of special collections, davidson library, university of california, santa barbara",
-    "national jukebox",
-    "recorded sound research center"
+    "recorded sound research center",
+    "national jukebox"
    ],
-   "score": 25.400866,
+   "score": 25.405542,
    "shelf_id": "Victor 73080",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "vocal",
     "ethnic music",
     "victor",
-    "swiss"
+    "swiss",
+    "vocal"
    ],
    "timestamp": "2026-10-05T14:01:15.280Z",
    "title": "De Gaemsjaeger",
@@ -560,19 +560,19 @@
    ],
    "partof": [
     "department of special collections, davidson library, university of california, santa barbara",
-    "national jukebox",
-    "recorded sound research center"
+    "recorded sound research center",
+    "national jukebox"
    ],
-   "score": 25.400866,
+   "score": 25.405542,
    "shelf_id": "Victor 73152",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "vocal",
     "ethnic music",
-    "russian",
-    "victor"
+    "victor",
+    "vocal",
+    "russian"
    ],
    "timestamp": "2026-10-05T14:01:15.280Z",
    "title": "Polosinka",
@@ -593,8 +593,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "bixio, c. a.",
     "shilkret, nathaniel",
+    "bixio, c. a.",
     "cibelli, eugenio"
    ],
    "date": "1921-12-16",
@@ -642,19 +642,19 @@
    ],
    "partof": [
     "department of special collections, davidson library, university of california, santa barbara",
-    "national jukebox",
-    "recorded sound research center"
+    "recorded sound research center",
+    "national jukebox"
    ],
-   "score": 25.400866,
+   "score": 25.405542,
    "shelf_id": "Victor 68581",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "vocal",
     "ethnic music",
+    "victor",
     "italian (neapolitan)",
-    "victor"
+    "vocal"
    ],
    "timestamp": "2026-10-05T14:01:15.280Z",
    "title": "Filava filava",
@@ -675,9 +675,9 @@
    ],
    "campaigns": [],
    "contributor": [
+    "lauder, harry",
     "rogers, walter b.",
-    "harper, j. d.",
-    "lauder, harry"
+    "harper, j. d."
    ],
    "date": "1915-11-20",
    "dates": [
@@ -720,19 +720,19 @@
    ],
    "partof": [
     "department of special collections, davidson library, university of california, santa barbara",
-    "national jukebox",
-    "recorded sound research center"
+    "recorded sound research center",
+    "national jukebox"
    ],
-   "score": 25.400866,
+   "score": 25.405542,
    "shelf_id": "Victor 45197",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "vocal",
     "ethnic music",
-    "victor",
     "ethnic spoken word",
+    "victor",
+    "vocal",
     "humorous songs"
    ],
    "timestamp": "2026-10-05T14:01:15.280Z",
@@ -797,7 +797,7 @@
   "display_level": null,
   "distance": null,
   "downloadOption": null,
-  "duration": 2.472076654434204,
+  "duration": 0.5647487640380859,
   "embed": [],
   "embed!": [],
   "error_response_status": null,
@@ -956,7 +956,7 @@
   "suggested": null,
   "target": null,
   "template": "layouts/item/layout",
-  "timestamp": 1791377100.2073674,
+  "timestamp": 1791463557.6653998,
   "tz_aware": null,
   "unionFacets": "",
   "webcast_permalink": null
@@ -976,14 +976,14 @@
    ],
    "campaigns": [],
    "contributor": [
-    "ikkei",
-    "utagawa, yoshikazu",
-    "ochiai, yoshiiku",
-    "utagawa, kuniteru",
-    "utagawa, yoshitoyo",
-    "andō, hiroshige",
-    "utagawa, hiroshige",
     "utagawa, sadahide",
+    "andō, hiroshige",
+    "utagawa, yoshikazu",
+    "utagawa, kuniteru",
+    "ikkei",
+    "utagawa, hiroshige",
+    "ochiai, yoshiiku",
+    "utagawa, yoshitoyo",
     "utagawa, yoshitora"
    ],
    "count": 2788,
@@ -996,7 +996,7 @@
     "The Library's Prints and Photographs Division houses more than 2,500 woodblock prints and drawings by Japanese artists of the seventeenth through early twentieth centuries including Hiroshige, Kuniyoshi, Sadahide, and Yoshiiku. The Library of Congress appreciates the financial support provided by Nicihibunken (International Research Center for Japanese Studies, an Inter-University Research Institute Corporation) to scan 1,100 of the Ukiyo-e prints."
    ],
    "digitized": true,
-   "extract_timestamp": "2026-10-07T05:17:12.981Z",
+   "extract_timestamp": "2026-10-08T05:18:43.633Z",
    "group": [
     "collections-portal"
    ],
@@ -1016,41 +1016,41 @@
     "tokyo"
    ],
    "number": [
-    "2005677300",
     "sheet",
-    "2025-06-06t21:45:01"
+    "2025-06-06t21:45:01",
+    "2005677300"
    ],
    "original_format": [
     "collection",
     "photo, print, drawing"
    ],
    "partof": [
-    "fine prints: japanese, pre-1915",
     "prints and photographs division",
+    "fine prints: japanese, pre-1915",
     "digital collections"
    ],
-   "score": 13.526659,
+   "score": 13.52763,
    "shelf_id": "~/collections/japanese-fine-prints-pre-1915/about-this-collection/",
    "subject": [
-    "ethnic stereotypes",
     "ukiye-o",
-    "ink drawings",
-    "world cultures & history",
-    "photographs, prints & posters",
-    "color",
-    "woodcuts",
-    "asia & the pacific",
-    "arts and culture",
     "cityscapes",
-    "art & architecture",
+    "clothing & dress",
     "landscapes",
-    "japanese",
-    "prints",
     "reproductions",
+    "asia & the pacific",
+    "prints",
+    "art & architecture",
+    "ink drawings",
+    "woodcuts",
+    "arts and culture",
+    "ethnic stereotypes",
+    "color",
+    "japanese",
     "actors",
-    "clothing & dress"
+    "photographs, prints & posters",
+    "world cultures & history"
    ],
-   "timestamp": "2026-10-07T07:05:02.288Z",
+   "timestamp": "2026-10-08T07:00:13.381Z",
    "title": "Fine Prints: Japanese, pre-1915",
    "type": [
     "collection"
@@ -1106,9 +1106,9 @@
     "image/tif"
    ],
    "number": [
-    "2004666065",
+    "2004-04-06t12:22:04",
     "http://www.loc.gov/item/13549264",
-    "2004-04-06t12:22:04"
+    "2004666065"
    ],
    "online_format": [
     "image"
@@ -1118,11 +1118,11 @@
    ],
    "partof": [
     "prints and photographs division",
-    "catalog",
     "posters: artist posters",
-    "prints & photographs online catalog (library of congress)"
+    "prints & photographs online catalog (library of congress)",
+    "catalog"
    ],
-   "score": 11.497683,
+   "score": 11.495159,
    "shelf_id": "POS - Japan .K344, no. 2 (C size) [P&P]",
    "site": [
     "pictures",
@@ -1130,16 +1130,16 @@
    ],
    "subject": [
     "olympic games",
+    "people",
+    "color",
     "tokyo, japan)",
     "(18th",
     "tokyo",
-    "color",
-    "lithographs",
     "sports posters",
     "runners (sports)",
     "japan",
-    "japanese",
-    "people"
+    "lithographs",
+    "japanese"
    ],
    "timestamp": "2022-04-23T07:48:02.169Z",
    "title": "Tokyo 1964",
@@ -1182,8 +1182,8 @@
    ],
    "index": 3,
    "language": [
-    "japanese",
-    "english"
+    "english",
+    "japanese"
    ],
    "location": [
     "japan",
@@ -1195,8 +1195,8 @@
     "image/tif"
    ],
    "number": [
-    "2010646496",
     "http://www.loc.gov/item/16116098",
+    "2010646496",
     "2020-06-10t09:48:13"
    ],
    "online_format": [
@@ -1207,11 +1207,11 @@
    ],
    "partof": [
     "prints and photographs division",
-    "catalog",
     "posters: artist posters",
-    "prints & photographs online catalog (library of congress)"
+    "prints & photographs online catalog (library of congress)",
+    "catalog"
    ],
-   "score": 11.497683,
+   "score": 11.495159,
    "shelf_id": "POS - Japan .A01, no. 2 (C size) [P&P]",
    "site": [
     "pictures",
@@ -1219,13 +1219,13 @@
    ],
    "subject": [
     "tourism",
-    "tokyo",
-    "color",
-    "lithographs",
+    "paper lanterns",
     "cherry trees",
+    "color",
+    "tokyo",
     "travel posters",
     "japan",
-    "paper lanterns",
+    "lithographs",
     "japanese"
    ],
    "timestamp": "2022-04-23T07:54:38.877Z",
@@ -1289,9 +1289,9 @@
     "image/tif"
    ],
    "number": [
-    "2005-04-19t18:26:13",
     "2005679338",
-    "http://www.loc.gov/item/13874517"
+    "http://www.loc.gov/item/13874517",
+    "2005-04-19t18:26:13"
    ],
    "online_format": [
     "image"
@@ -1300,26 +1300,26 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "prints and photographs division",
     "catalog",
+    "prints and photographs division",
+    "miscellaneous items in high demand",
     "meeting of frontiers",
     "lot 8631",
-    "miscellaneous items in high demand",
     "prints & photographs online catalog (library of congress)"
    ],
-   "score": 11.497683,
+   "score": 11.495159,
    "shelf_id": "LOT 8631, no. 28",
    "site": [
     "catalog",
     "pictures"
    ],
    "subject": [
+    "photographic prints",
+    "russo-japanese war",
+    "soldiers",
     "tokyo",
     "military mobilizations",
-    "soldiers",
     "japan",
-    "russo-japanese war",
-    "photographic prints",
     "japanese"
    ],
    "timestamp": "2022-11-29T19:46:34.755Z",
@@ -1384,8 +1384,8 @@
    ],
    "number": [
     "2005-04-19t18:26:07",
-    "2005679339",
-    "http://www.loc.gov/item/13874541"
+    "http://www.loc.gov/item/13874541",
+    "2005679339"
    ],
    "online_format": [
     "image"
@@ -1394,27 +1394,27 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "prints and photographs division",
     "catalog",
+    "prints and photographs division",
+    "miscellaneous items in high demand",
     "meeting of frontiers",
     "lot 8631",
-    "miscellaneous items in high demand",
     "prints & photographs online catalog (library of congress)"
    ],
-   "score": 11.497683,
+   "score": 11.495159,
    "shelf_id": "LOT 8631, no. 29",
    "site": [
     "catalog",
     "pictures"
    ],
    "subject": [
+    "photographic prints",
+    "russo-japanese war",
     "tokyo",
     "military personnel",
-    "russo-japanese war",
     "japan",
-    "photographic prints",
-    "japanese",
-    "military officers"
+    "military officers",
+    "japanese"
    ],
    "timestamp": "2022-11-29T19:46:34.755Z",
    "title": "Major Nawkarta giving instructions",
@@ -1477,8 +1477,8 @@
     "image/tif"
    ],
    "number": [
-    "2005-04-19t18:25:46",
     "2005679341",
+    "2005-04-19t18:25:46",
     "http://www.loc.gov/item/13874719"
    ],
    "online_format": [
@@ -1488,28 +1488,28 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "prints and photographs division",
     "catalog",
+    "prints and photographs division",
+    "miscellaneous items in high demand",
     "meeting of frontiers",
     "lot 8631",
-    "miscellaneous items in high demand",
     "prints & photographs online catalog (library of congress)"
    ],
-   "score": 11.497683,
+   "score": 11.495159,
    "shelf_id": "LOT 8631, no. 31",
    "site": [
     "catalog",
     "pictures"
    ],
    "subject": [
-    "blankets",
+    "photographic prints",
+    "russo-japanese war",
+    "equipment & supplies",
     "tokyo",
     "military personnel",
-    "equipment & supplies",
-    "russo-japanese war",
     "japan",
-    "photographic prints",
-    "japanese"
+    "japanese",
+    "blankets"
    ],
    "timestamp": "2022-11-29T19:46:34.755Z",
    "title": "[Distribution of blankets to troops at Tokio]",
@@ -1582,5 +1582,5 @@
    "url": "https://www.loc.gov/resource/jukebox-326857.1"
   }
  ],
- "timestamp": 1791377102679
+ "timestamp": 1791463558230
 }

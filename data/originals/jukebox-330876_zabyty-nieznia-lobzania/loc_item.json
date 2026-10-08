@@ -209,7 +209,7 @@
    "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
   ],
   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
-  "score": 15.333624,
+  "score": 15.335318,
   "shard": "01",
   "shelf_id": "Victor 73152",
   "site": [
@@ -217,10 +217,10 @@
   ],
   "source_modified": "2000-01-01T12:00:00Z",
   "subject": [
+   "victor",
    "vocal",
    "ethnic music",
-   "russian",
-   "victor"
+   "russian"
   ],
   "subject_category": [
    "vocal"
@@ -289,10 +289,10 @@
    ],
    "campaigns": [],
    "contributor": [
-    "semenov, a. n.",
-    "michailova, m. a.",
+    "david, félicien",
     "hampe, franz",
-    "david, félicien"
+    "michailova, m. a.",
+    "semenov, a. n."
    ],
    "date": "1905-12-31",
    "dates": [
@@ -346,15 +346,15 @@
     "national jukebox",
     "recorded sound research center"
    ],
-   "score": 34.049232,
+   "score": 34.05486,
    "shelf_id": "Victor 61130",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
+    "opera",
     "vocal",
-    "victor",
-    "opera"
+    "victor"
    ],
    "timestamp": "2026-10-05T14:11:31.153Z",
    "title": "Charmant oiseau",
@@ -375,10 +375,10 @@
    ],
    "campaigns": [],
    "contributor": [
-    "tchaikovsky, peter ilich",
+    "hampe, franz",
     "turgarinova, kalvdija alekseevna",
     "michailova, m. a.",
-    "hampe, franz"
+    "tchaikovsky, peter ilich"
    ],
    "date": "1905-12-31",
    "dates": [
@@ -433,15 +433,15 @@
     "national jukebox",
     "recorded sound research center"
    ],
-   "score": 34.049232,
+   "score": 34.05486,
    "shelf_id": "Victor 61136",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
+    "opera",
     "vocal",
-    "victor",
-    "opera"
+    "victor"
    ],
    "timestamp": "2026-10-05T14:11:31.153Z",
    "title": "Duetto",
@@ -462,10 +462,10 @@
    ],
    "campaigns": [],
    "contributor": [
-    "michailova, m. a.",
+    "verdi, giuseppe",
     "hampe, franz",
     "seidler-winkler, bruno",
-    "verdi, giuseppe"
+    "michailova, m. a."
    ],
    "date": "1905-12-31",
    "dates": [
@@ -520,15 +520,15 @@
     "national jukebox",
     "recorded sound research center"
    ],
-   "score": 34.049232,
+   "score": 34.05486,
    "shelf_id": "Victor 61141",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
+    "opera",
     "vocal",
-    "victor",
-    "opera"
+    "victor"
    ],
    "timestamp": "2026-10-05T14:11:31.153Z",
    "title": "Caro nome",
@@ -575,8 +575,8 @@
     "russian"
    ],
    "location": [
-    "united states",
-    "new york"
+    "new york",
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -594,20 +594,20 @@
     "The rye field"
    ],
    "partof": [
-    "department of special collections, davidson library, university of california, santa barbara",
     "national jukebox",
+    "department of special collections, davidson library, university of california, santa barbara",
     "recorded sound research center"
    ],
-   "score": 31.877438,
+   "score": 31.88255,
    "shelf_id": "Victor 73152",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
+    "victor",
     "vocal",
     "ethnic music",
-    "russian",
-    "victor"
+    "russian"
    ],
    "timestamp": "2026-10-05T14:01:15.280Z",
    "title": "Polosinka",
@@ -628,11 +628,11 @@
    ],
    "campaigns": [],
    "contributor": [
-    "king's orchestra",
-    "bourdon, rosario",
-    "tolstoy, aleksey konstantinovich",
     "bleĭkhman, i͡uliĭ ivanovich",
-    "olshansky, bernardo"
+    "tolstoy, aleksey konstantinovich",
+    "king's orchestra",
+    "olshansky, bernardo",
+    "bourdon, rosario"
    ],
    "date": "1917-03-06",
    "dates": [
@@ -658,8 +658,8 @@
     "russian"
    ],
    "location": [
-    "united states",
-    "new york"
+    "new york",
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -677,20 +677,20 @@
     "The prisoners"
    ],
    "partof": [
-    "department of special collections, davidson library, university of california, santa barbara",
     "national jukebox",
+    "department of special collections, davidson library, university of california, santa barbara",
     "recorded sound research center"
    ],
-   "score": 31.877438,
+   "score": 31.88255,
    "shelf_id": "Victor 69342",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
+    "victor",
     "vocal",
     "ethnic music",
-    "russian",
-    "victor"
+    "russian"
    ],
    "timestamp": "2026-10-05T14:04:44.546Z",
    "title": "Kolodniki",
@@ -711,8 +711,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "ferenzo, mischa",
-    "bachman, fred"
+    "bachman, fred",
+    "ferenzo, mischa"
    ],
    "date": "1912-02-02",
    "dates": [
@@ -738,9 +738,9 @@
     "russian"
    ],
    "location": [
-    "united states",
+    "camden",
     "new jersey",
-    "camden"
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -755,20 +755,20 @@
     "sound recording"
    ],
    "partof": [
-    "department of special collections, davidson library, university of california, santa barbara",
     "national jukebox",
+    "department of special collections, davidson library, university of california, santa barbara",
     "recorded sound research center"
    ],
-   "score": 31.877438,
+   "score": 31.88255,
    "shelf_id": "Victor 63642",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
+    "victor",
     "vocal",
     "ethnic music",
-    "russian",
-    "victor"
+    "russian"
    ],
    "timestamp": "2026-10-05T13:44:18.721Z",
    "title": "Diwnyje otshi",
@@ -833,7 +833,7 @@
   "display_level": null,
   "distance": null,
   "downloadOption": null,
-  "duration": 1.8628027439117432,
+  "duration": 0.4160444736480713,
   "embed": [],
   "embed!": [],
   "error_response_status": null,
@@ -992,7 +992,7 @@
   "suggested": null,
   "target": null,
   "template": "layouts/item/layout",
-  "timestamp": 1791378254.3155875,
+  "timestamp": 1791463618.4839878,
   "tz_aware": null,
   "unionFacets": "",
   "webcast_permalink": null
@@ -1009,12 +1009,12 @@
    ],
    "campaigns": [],
    "contributor": [
-    "makhaev, mikhail ivanovich",
-    "michurin, ivan fedorovich",
     "sokolovʺ, ivanʺ aleksi︠e︡evich",
     "imperatorskai︠a︡ akademīi︠a︡ naukʺ i khudozhestvʺ (russia)",
+    "valeriani, giuseppe",
+    "makhaev, mikhail ivanovich",
     "treskot, johann",
-    "valeriani, giuseppe"
+    "michurin, ivan fedorovich"
    ],
    "date": "1753",
    "dates": [
@@ -1042,13 +1042,13 @@
    ],
    "index": 1,
    "language": [
-    "russian",
-    "french"
+    "french",
+    "russian"
    ],
    "location": [
     "st. petersburg",
-    "russia",
     "saint petersburg",
+    "russia",
     "moscow"
    ],
    "mime_type": [
@@ -1076,23 +1076,23 @@
    ],
    "partof": [
     "geography and map division",
-    "catalog",
-    "cities and towns"
+    "cities and towns",
+    "catalog"
    ],
-   "score": 10.135689,
+   "score": 10.135483,
    "shelf_id": "G2114.L4 A3 1753",
    "site": [
     "catalog"
    ],
    "subject": [
-    "st. petersburg",
-    "moscow",
-    "maps",
-    "moscow (russia)",
-    "saint petersburg (russia)",
-    "early works to 1800",
     "russia",
-    "aerial views"
+    "saint petersburg (russia)",
+    "maps",
+    "early works to 1800",
+    "moscow",
+    "aerial views",
+    "st. petersburg",
+    "moscow (russia)"
    ],
    "timestamp": "2026-04-29T15:42:50.105Z",
    "title": "Planʺ stolichnago goroda Sanktpeterburga cʺ izobrazhenīemʺ znatni︠e︡ĭshikhʺ onago prospektovʺ",
@@ -1146,9 +1146,9 @@
     "english"
    ],
    "location": [
-    "victor",
+    "iowa",
     "united states",
-    "iowa"
+    "victor"
    ],
    "mime_type": [
     "image/gif",
@@ -1156,9 +1156,9 @@
     "image/tif"
    ],
    "number": [
+    "2013-04-03t08:58:59",
     "http://www.loc.gov/item/17665053",
-    "2013645043",
-    "2013-04-03t08:58:59"
+    "2013645043"
    ],
    "online_format": [
     "image"
@@ -1167,29 +1167,29 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "prints and photographs division",
-    "catalog",
-    "miscellaneous items in high demand",
     "prints & photographs online catalog (library of congress)",
-    "lot 14058"
+    "miscellaneous items in high demand",
+    "prints and photographs division",
+    "lot 14058",
+    "catalog"
    ],
-   "score": 9.757024,
+   "score": 9.75644,
    "shelf_id": "LOT 14058, no. 123 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "victor (iowa)",
-    "group portraits",
-    "photographic postcards",
-    "schools",
-    "united states",
-    "school children",
     "victor",
+    "photographic postcards",
+    "school children",
+    "victor (iowa)",
     "photographic prints",
+    "group portraits",
+    "schools",
     "panoramic postcards",
-    "iowa"
+    "iowa",
+    "united states"
    ],
    "timestamp": "2022-05-02T06:13:36.448Z",
    "title": "[Victor High School, Victor, Iowa]",
@@ -1207,8 +1207,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "detroit publishing co.",
-    "jackson, william henry"
+    "jackson, william henry",
+    "detroit publishing co."
    ],
    "date": "1900-01-01",
    "dates": [
@@ -1240,9 +1240,9 @@
     "english"
    ],
    "location": [
-    "victor",
+    "colorado",
     "united states",
-    "colorado"
+    "victor"
    ],
    "mime_type": [
     "image/gif",
@@ -1250,11 +1250,11 @@
     "image/tif"
    ],
    "number": [
-    "2017-10-30t13:04:57",
+    "2016808865",
     "http://www.loc.gov/item/2016808865",
-    "http://www.loc.gov/item/20110612",
     "http://www.loc.gov/item/det1994014825/pp",
-    "2016808865"
+    "2017-10-30t13:04:57",
+    "http://www.loc.gov/item/20110612"
    ],
    "online_format": [
     "image"
@@ -1263,25 +1263,25 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "prints and photographs division",
-    "catalog",
-    "american memory",
     "prints & photographs online catalog (library of congress)",
-    "detroit publishing company"
+    "prints and photographs division",
+    "detroit publishing company",
+    "catalog",
+    "american memory"
    ],
-   "score": 9.757024,
+   "score": 9.75644,
    "shelf_id": "LC-D4-13841 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "dry plate negatives",
-    "cityscape photographs",
-    "united states",
     "colorado",
+    "dry plate negatives",
+    "gold mining",
     "victor",
-    "gold mining"
+    "cityscape photographs",
+    "united states"
    ],
    "timestamp": "2022-04-25T08:19:00.040Z",
    "title": "Victor, Colo., and the Gold Coin Mine",
@@ -1330,9 +1330,9 @@
     "english"
    ],
    "location": [
-    "victor",
     "united states",
-    "montana"
+    "montana",
+    "victor"
    ],
    "mime_type": [
     "image/gif",
@@ -1340,10 +1340,10 @@
     "image/tif"
    ],
    "number": [
-    "2024689882",
     "http://www.loc.gov/item/23570952",
-    "sheet",
-    "2024-02-21t08:57:11"
+    "2024-02-21t08:57:11",
+    "2024689882",
+    "sheet"
    ],
    "online_format": [
     "image"
@@ -1355,19 +1355,19 @@
     "prints and photographs division",
     "catalog"
    ],
-   "score": 9.757024,
+   "score": 9.75644,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 1 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "streets",
-    "united states",
-    "victor",
-    "postcards",
     "photographs",
-    "montana"
+    "victor",
+    "streets",
+    "montana",
+    "postcards",
+    "united states"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "Main Street, Victor, Montana",
@@ -1419,9 +1419,9 @@
     "english"
    ],
    "location": [
-    "victor",
     "united states",
-    "montana"
+    "montana",
+    "victor"
    ],
    "mime_type": [
     "image/gif",
@@ -1429,10 +1429,10 @@
     "image/tif"
    ],
    "number": [
+    "2024-02-21t08:57:12",
     "http://www.loc.gov/item/23570953",
     "2024689883",
-    "sheet",
-    "2024-02-21t08:57:12"
+    "sheet"
    ],
    "online_format": [
     "image"
@@ -1444,18 +1444,18 @@
     "prints and photographs division",
     "catalog"
    ],
-   "score": 9.757024,
+   "score": 9.75644,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 2 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "united states",
-    "victor",
-    "postcards",
     "photographs",
-    "montana"
+    "victor",
+    "montana",
+    "postcards",
+    "united states"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "The snow-capped peak of St. Mory's, Victor, Montana",
@@ -1507,9 +1507,9 @@
     "english"
    ],
    "location": [
-    "victor",
     "united states",
-    "montana"
+    "montana",
+    "victor"
    ],
    "mime_type": [
     "image/gif",
@@ -1517,10 +1517,10 @@
     "image/tif"
    ],
    "number": [
-    "http://www.loc.gov/item/23570954",
-    "sheet",
     "2024-02-21t08:57:12",
-    "2024689884"
+    "2024689884",
+    "http://www.loc.gov/item/23570954",
+    "sheet"
    ],
    "online_format": [
     "image"
@@ -1532,19 +1532,19 @@
     "prints and photographs division",
     "catalog"
    ],
-   "score": 9.757024,
+   "score": 9.75644,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 3 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "united states",
+    "photographs",
     "victor",
     "houses",
+    "montana",
     "postcards",
-    "photographs",
-    "montana"
+    "united states"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "A Bitter Root home, Victor, Montana",
@@ -1617,5 +1617,5 @@
    "url": "https://www.loc.gov/resource/jukebox-330876.1"
   }
  ],
- "timestamp": 1791378256178
+ "timestamp": 1791463618900
 }

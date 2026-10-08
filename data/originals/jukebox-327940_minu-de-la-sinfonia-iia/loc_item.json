@@ -202,7 +202,7 @@
    "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
   ],
   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
-  "score": 15.333624,
+  "score": 15.335276,
   "shard": "01",
   "shelf_id": "Victor 62660",
   "site": [
@@ -210,10 +210,10 @@
   ],
   "source_modified": "2000-01-01T12:00:00Z",
   "subject": [
-   "classical music",
-   "victor",
    "instrumental",
-   "spanish; portuguese (brazil)"
+   "spanish; portuguese (brazil)",
+   "victor",
+   "classical music"
   ],
   "subject_category": [
    "instrumental"
@@ -283,8 +283,8 @@
    "campaigns": [],
    "contributor": [
     "banda del real cuerpo de guardias alabarderos de madrid",
-    "clarke, arthur spottiswoode",
-    "saint-saëns, camille"
+    "saint-saëns, camille",
+    "clarke, arthur spottiswoode"
    ],
    "date": "1909-02-06",
    "dates": [
@@ -328,19 +328,19 @@
    ],
    "partof": [
     "department of special collections, davidson library, university of california, santa barbara",
-    "national jukebox",
-    "recorded sound research center"
+    "recorded sound research center",
+    "national jukebox"
    ],
-   "score": 57.527546,
+   "score": 57.536354,
    "shelf_id": "Victor 62660",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "victor",
     "instrumental",
+    "spanish; portuguese (brazil)",
     "opera",
-    "spanish; portuguese (brazil)"
+    "victor"
    ],
    "timestamp": "2026-10-05T14:11:49.826Z",
    "title": "Coro y bacanal",
@@ -361,9 +361,9 @@
    "campaigns": [],
    "contributor": [
     "heifetz, jascha",
-    "auer, leopold",
+    "chotzinoff, samuel",
     "haydn, joseph",
-    "chotzinoff, samuel"
+    "auer, leopold"
    ],
    "date": "1922-10-19",
    "dates": [
@@ -387,9 +387,9 @@
    ],
    "index": 2,
    "location": [
-    "united states",
     "new jersey",
-    "camden"
+    "camden",
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -409,18 +409,18 @@
    ],
    "partof": [
     "department of special collections, davidson library, university of california, santa barbara",
-    "national jukebox",
-    "recorded sound research center"
+    "recorded sound research center",
+    "national jukebox"
    ],
-   "score": 33.518597,
+   "score": 33.525883,
    "shelf_id": "Victor 1024",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "classical music",
+    "instrumental",
     "victor",
-    "instrumental"
+    "classical music"
    ],
    "timestamp": "2026-10-05T14:25:42.840Z",
    "title": "Vivace",
@@ -441,10 +441,10 @@
    ],
    "campaigns": [],
    "contributor": [
-    "bonime, josef",
-    "haydn, joseph",
+    "elman, mischa",
     "burmester, willy",
-    "elman, mischa"
+    "bonime, josef",
+    "haydn, joseph"
    ],
    "date": "1924-04-30",
    "dates": [
@@ -469,9 +469,9 @@
    ],
    "index": 3,
    "location": [
-    "united states",
     "new jersey",
-    "camden"
+    "camden",
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -490,19 +490,19 @@
     "Arietta con variazioni, piano, H. XVII, 3, E major"
    ],
    "partof": [
-    "recorded sound section, library of congress",
+    "recorded sound research center",
     "national jukebox",
-    "recorded sound research center"
+    "recorded sound section, library of congress"
    ],
-   "score": 29.452738,
+   "score": 29.459106,
    "shelf_id": "Victor 1060",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "classical music",
+    "instrumental",
     "victor",
-    "instrumental"
+    "classical music"
    ],
    "timestamp": "2026-10-05T14:43:26.931Z",
    "title": "Minuet",
@@ -524,8 +524,8 @@
    "campaigns": [],
    "contributor": [
     "rogers, walter b.",
-    "althouse, paul",
-    "haydn, joseph"
+    "haydn, joseph",
+    "althouse, paul"
    ],
    "date": "1915-09-03",
    "dates": [
@@ -552,9 +552,9 @@
     "english"
    ],
    "location": [
-    "united states",
     "new jersey",
-    "camden"
+    "camden",
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -574,19 +574,19 @@
    ],
    "partof": [
     "department of special collections, davidson library, university of california, santa barbara",
-    "national jukebox",
-    "recorded sound research center"
+    "recorded sound research center",
+    "national jukebox"
    ],
-   "score": 28.695837,
+   "score": 28.702465,
    "shelf_id": "Victor 55076",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "classical music",
     "victor",
     "religious",
-    "vocal"
+    "vocal",
+    "classical music"
    ],
    "timestamp": "2026-10-05T13:50:12.412Z",
    "title": "In native worth",
@@ -607,9 +607,9 @@
    ],
    "campaigns": [],
    "contributor": [
-    "haydn, joseph",
     "marsh, lucy isabelle",
-    "bourdon, rosario"
+    "bourdon, rosario",
+    "haydn, joseph"
    ],
    "date": "1922-06-15",
    "dates": [
@@ -636,9 +636,9 @@
     "english"
    ],
    "location": [
-    "united states",
     "new jersey",
-    "camden"
+    "camden",
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -658,20 +658,20 @@
    ],
    "partof": [
     "department of special collections, davidson library, university of california, santa barbara",
-    "national jukebox",
-    "recorded sound research center"
+    "recorded sound research center",
+    "national jukebox"
    ],
-   "score": 28.695837,
+   "score": 28.702465,
    "shelf_id": "Victor 55178",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "classical music",
-    "educational",
     "religious",
+    "victor",
+    "classical music",
     "vocal",
-    "victor"
+    "educational"
    ],
    "timestamp": "2026-10-05T13:40:47.451Z",
    "title": "With verdure clad",
@@ -692,9 +692,9 @@
    ],
    "campaigns": [],
    "contributor": [
+    "marsh, lucy isabelle",
     "rogers, walter b.",
-    "haydn, joseph",
-    "marsh, lucy isabelle"
+    "haydn, joseph"
    ],
    "date": "1916-04-25",
    "dates": [
@@ -720,9 +720,9 @@
     "english"
    ],
    "location": [
-    "united states",
     "new jersey",
-    "camden"
+    "camden",
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -738,19 +738,19 @@
    ],
    "partof": [
     "department of special collections, davidson library, university of california, santa barbara",
-    "national jukebox",
-    "recorded sound research center"
+    "recorded sound research center",
+    "national jukebox"
    ],
-   "score": 28.695837,
+   "score": 28.702465,
    "shelf_id": "Victor 45092",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "classical music",
-    "vocal",
+    "victor",
     "educational",
-    "victor"
+    "vocal",
+    "classical music"
    ],
    "timestamp": "2026-10-05T13:53:36.245Z",
    "title": "My mother bids me bind my hair",
@@ -813,7 +813,7 @@
   "display_level": null,
   "distance": null,
   "downloadOption": null,
-  "duration": 0.7750325202941895,
+  "duration": 0.583165168762207,
   "embed": [],
   "embed!": [],
   "error_response_status": null,
@@ -972,7 +972,7 @@
   "suggested": null,
   "target": null,
   "template": "layouts/item/layout",
-  "timestamp": 1791378261.1501029,
+  "timestamp": 1791463631.0829947,
   "tz_aware": null,
   "unionFacets": "",
   "webcast_permalink": null
@@ -1033,9 +1033,9 @@
     "image/tif"
    ],
    "number": [
+    "2013-04-03t08:58:59",
     "http://www.loc.gov/item/17665053",
-    "2013645043",
-    "2013-04-03t08:58:59"
+    "2013645043"
    ],
    "online_format": [
     "image"
@@ -1044,29 +1044,29 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "prints and photographs division",
     "catalog",
+    "prints and photographs division",
     "miscellaneous items in high demand",
     "prints & photographs online catalog (library of congress)",
     "lot 14058"
    ],
-   "score": 9.757024,
+   "score": 9.75644,
    "shelf_id": "LOT 14058, no. 123 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "victor (iowa)",
-    "group portraits",
-    "photographic postcards",
-    "schools",
-    "united states",
-    "school children",
     "victor",
+    "united states",
     "photographic prints",
+    "photographic postcards",
+    "iowa",
+    "group portraits",
+    "schools",
     "panoramic postcards",
-    "iowa"
+    "school children",
+    "victor (iowa)"
    ],
    "timestamp": "2022-05-02T06:13:36.448Z",
    "title": "[Victor High School, Victor, Iowa]",
@@ -1117,9 +1117,9 @@
     "english"
    ],
    "location": [
+    "colorado",
     "victor",
-    "united states",
-    "colorado"
+    "united states"
    ],
    "mime_type": [
     "image/gif",
@@ -1127,11 +1127,11 @@
     "image/tif"
    ],
    "number": [
-    "2017-10-30t13:04:57",
     "http://www.loc.gov/item/2016808865",
     "http://www.loc.gov/item/20110612",
     "http://www.loc.gov/item/det1994014825/pp",
-    "2016808865"
+    "2016808865",
+    "2017-10-30t13:04:57"
    ],
    "online_format": [
     "image"
@@ -1140,24 +1140,24 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "prints and photographs division",
     "catalog",
+    "prints and photographs division",
+    "detroit publishing company",
     "american memory",
-    "prints & photographs online catalog (library of congress)",
-    "detroit publishing company"
+    "prints & photographs online catalog (library of congress)"
    ],
-   "score": 9.757024,
+   "score": 9.75644,
    "shelf_id": "LC-D4-13841 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
+    "victor",
+    "united states",
     "dry plate negatives",
     "cityscape photographs",
-    "united states",
     "colorado",
-    "victor",
     "gold mining"
    ],
    "timestamp": "2022-04-25T08:19:00.040Z",
@@ -1207,9 +1207,9 @@
     "english"
    ],
    "location": [
+    "montana",
     "victor",
-    "united states",
-    "montana"
+    "united states"
    ],
    "mime_type": [
     "image/gif",
@@ -1217,10 +1217,10 @@
     "image/tif"
    ],
    "number": [
-    "2024689882",
-    "http://www.loc.gov/item/23570952",
     "sheet",
-    "2024-02-21t08:57:11"
+    "2024-02-21t08:57:11",
+    "http://www.loc.gov/item/23570952",
+    "2024689882"
    ],
    "online_format": [
     "image"
@@ -1232,19 +1232,19 @@
     "prints and photographs division",
     "catalog"
    ],
-   "score": 9.757024,
+   "score": 9.75644,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 1 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "streets",
-    "united states",
+    "montana",
     "victor",
+    "united states",
+    "streets",
     "postcards",
-    "photographs",
-    "montana"
+    "photographs"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "Main Street, Victor, Montana",
@@ -1296,9 +1296,9 @@
     "english"
    ],
    "location": [
+    "montana",
     "victor",
-    "united states",
-    "montana"
+    "united states"
    ],
    "mime_type": [
     "image/gif",
@@ -1306,10 +1306,10 @@
     "image/tif"
    ],
    "number": [
-    "http://www.loc.gov/item/23570953",
-    "2024689883",
     "sheet",
-    "2024-02-21t08:57:12"
+    "2024-02-21t08:57:12",
+    "http://www.loc.gov/item/23570953",
+    "2024689883"
    ],
    "online_format": [
     "image"
@@ -1321,18 +1321,18 @@
     "prints and photographs division",
     "catalog"
    ],
-   "score": 9.757024,
+   "score": 9.75644,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 2 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "united states",
+    "montana",
     "victor",
+    "united states",
     "postcards",
-    "photographs",
-    "montana"
+    "photographs"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "The snow-capped peak of St. Mory's, Victor, Montana",
@@ -1384,9 +1384,9 @@
     "english"
    ],
    "location": [
+    "montana",
     "victor",
-    "united states",
-    "montana"
+    "united states"
    ],
    "mime_type": [
     "image/gif",
@@ -1394,10 +1394,10 @@
     "image/tif"
    ],
    "number": [
-    "http://www.loc.gov/item/23570954",
     "sheet",
     "2024-02-21t08:57:12",
-    "2024689884"
+    "2024689884",
+    "http://www.loc.gov/item/23570954"
    ],
    "online_format": [
     "image"
@@ -1409,19 +1409,19 @@
     "prints and photographs division",
     "catalog"
    ],
-   "score": 9.757024,
+   "score": 9.75644,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 3 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "united states",
+    "montana",
     "victor",
-    "houses",
+    "united states",
     "postcards",
-    "photographs",
-    "montana"
+    "houses",
+    "photographs"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "A Bitter Root home, Victor, Montana",
@@ -1473,9 +1473,9 @@
     "english"
    ],
    "location": [
+    "montana",
     "victor",
-    "united states",
-    "montana"
+    "united states"
    ],
    "mime_type": [
     "image/gif",
@@ -1483,10 +1483,10 @@
     "image/tif"
    ],
    "number": [
-    "2024689885",
-    "http://www.loc.gov/item/23570955",
     "sheet",
-    "2024-02-21t08:57:13"
+    "http://www.loc.gov/item/23570955",
+    "2024-02-21t08:57:13",
+    "2024689885"
    ],
    "online_format": [
     "image"
@@ -1498,19 +1498,19 @@
     "prints and photographs division",
     "catalog"
    ],
-   "score": 9.757024,
+   "score": 9.75644,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 4 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "schools",
-    "united states",
+    "montana",
     "victor",
+    "united states",
     "postcards",
-    "photographs",
-    "montana"
+    "schools",
+    "photographs"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "School house, Victor, Mont.",
@@ -1583,5 +1583,5 @@
    "url": "https://www.loc.gov/resource/jukebox-327940.1"
   }
  ],
- "timestamp": 1791378261925
+ "timestamp": 1791463631666
 }

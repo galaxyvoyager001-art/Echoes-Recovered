@@ -148,9 +148,9 @@
    }
   ],
   "location": [
+   "new jersey",
    "camden",
-   "united states",
-   "new jersey"
+   "united states"
   ],
   "locations": [
    {
@@ -214,7 +214,7 @@
    "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
   ],
   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
-  "score": 15.332891,
+  "score": 15.335276,
   "shard": "01",
   "shelf_id": "Victor 515",
   "site": [
@@ -271,12 +271,12 @@
    "campaigns": [],
    "contributor": [
     "hooley, william f.",
-    "campbell, albert",
-    "meyer, john h.",
     "cohan, george m.",
+    "american quartet",
+    "meyer, john h.",
     "pasternack, josef",
-    "murray, billy",
-    "american quartet"
+    "campbell, albert",
+    "murray, billy"
    ],
    "date": "1917-06-04",
    "dates": [
@@ -304,9 +304,9 @@
     "english"
    ],
    "location": [
+    "new jersey",
     "camden",
-    "united states",
-    "new jersey"
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -325,19 +325,19 @@
     "George Washington, Jr"
    ],
    "partof": [
+    "recorded sound research center",
     "national jukebox",
-    "recorded sound section, library of congress",
-    "recorded sound research center"
+    "recorded sound section, library of congress"
    ],
-   "score": 39.059616,
+   "score": 39.07143,
    "shelf_id": "Victor 18358",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "musical theater",
     "victor",
-    "vocal"
+    "vocal",
+    "musical theater"
    ],
    "timestamp": "2026-10-05T14:06:31.417Z",
    "title": "You're a grand old flag",
@@ -359,13 +359,13 @@
    "campaigns": [],
    "contributor": [
     "orpheus quartet",
+    "werrenrath, reinald",
+    "cohan, george m.",
+    "macdonough, harry",
     "glenn, wilfred",
     "murphy, lambert",
-    "cohan, george m.",
-    "dixon, raymond",
-    "macdonough, harry",
     "pasternack, josef",
-    "werrenrath, reinald"
+    "dixon, raymond"
    ],
    "date": "1918-07-12",
    "dates": [
@@ -393,9 +393,9 @@
     "english"
    ],
    "location": [
+    "new jersey",
     "camden",
-    "united states",
-    "new jersey"
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -411,18 +411,18 @@
     "sound recording"
    ],
    "partof": [
+    "recorded sound research center",
     "national jukebox",
-    "recorded sound section, library of congress",
-    "recorded sound research center"
+    "recorded sound section, library of congress"
    ],
-   "score": 39.059616,
+   "score": 39.07143,
    "shelf_id": "Victor 18494",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "popular music",
     "victor",
+    "popular music",
     "vocal"
    ],
    "timestamp": "2026-10-05T14:11:49.826Z",
@@ -443,8 +443,8 @@
    "campaigns": [],
    "contributor": [
     "fucito, salvatore",
-    "caruso, enrico",
-    "pasternack, josef"
+    "pasternack, josef",
+    "caruso, enrico"
    ],
    "date": "1919-09-11",
    "dates": [
@@ -467,9 +467,9 @@
     "italian"
    ],
    "location": [
+    "new jersey",
     "camden",
-    "united states",
-    "new jersey"
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -485,11 +485,11 @@
     "Forget me"
    ],
    "partof": [
+    "recorded sound research center",
     "national jukebox",
-    "recorded sound section, library of congress",
-    "recorded sound research center"
+    "recorded sound section, library of congress"
    ],
-   "score": 38.361824,
+   "score": 38.373554,
    "shelf_id": "Victor 1007",
    "site": [
     "nationaljukebox"
@@ -515,11 +515,11 @@
    ],
    "campaigns": [],
    "contributor": [
-    "arona, colombino",
     "bourdon, rosario",
-    "drovetti, giovanni",
+    "caruso, enrico",
     "pasternack, josef",
-    "caruso, enrico"
+    "drovetti, giovanni",
+    "arona, colombino"
    ],
    "date": "1919-01-06",
    "dates": [
@@ -542,9 +542,9 @@
     "italian"
    ],
    "location": [
+    "new jersey",
     "camden",
-    "united states",
-    "new jersey"
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -560,11 +560,11 @@
     "The chimes of San Giusto"
    ],
    "partof": [
+    "recorded sound research center",
     "national jukebox",
-    "recorded sound section, library of congress",
-    "recorded sound research center"
+    "recorded sound section, library of congress"
    ],
-   "score": 38.361824,
+   "score": 38.373554,
    "shelf_id": "Victor 6011",
    "site": [
     "nationaljukebox"
@@ -589,10 +589,10 @@
    ],
    "campaigns": [],
    "contributor": [
-    "galli-curci, amelita",
     "de luca, giuseppe",
-    "pasternack, josef",
+    "galli-curci, amelita",
     "verdi, giuseppe",
+    "pasternack, josef",
     "caruso, enrico",
     "perini, flora"
    ],
@@ -617,9 +617,9 @@
     "italian"
    ],
    "location": [
+    "new jersey",
     "camden",
-    "united states",
-    "new jersey"
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -636,18 +636,18 @@
     "Rigoletto"
    ],
    "partof": [
+    "recorded sound research center",
     "national jukebox",
-    "recorded sound section, library of congress",
-    "recorded sound research center"
+    "recorded sound section, library of congress"
    ],
-   "score": 38.361824,
+   "score": 38.373554,
    "shelf_id": "Victor 10000",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "vocal",
     "victor",
+    "vocal",
     "opera"
    ],
    "timestamp": "2026-10-05T14:04:44.546Z",
@@ -667,13 +667,13 @@
    ],
    "campaigns": [],
    "contributor": [
-    "galli-curci, amelita",
-    "egener, minnie",
     "de luca, giuseppe",
-    "pasternack, josef",
+    "galli-curci, amelita",
     "bada, angelo",
-    "caruso, enrico",
     "journet, marcel",
+    "caruso, enrico",
+    "pasternack, josef",
+    "egener, minnie",
     "donizetti, gaetano"
    ],
    "date": "1917-01-25",
@@ -697,9 +697,9 @@
     "italian"
    ],
    "location": [
+    "new jersey",
     "camden",
-    "united states",
-    "new jersey"
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -716,18 +716,18 @@
     "Lucia di Lammermoor"
    ],
    "partof": [
+    "recorded sound research center",
     "national jukebox",
-    "recorded sound section, library of congress",
-    "recorded sound research center"
+    "recorded sound section, library of congress"
    ],
-   "score": 38.361824,
+   "score": 38.373554,
    "shelf_id": "Victor 10000",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "vocal",
     "victor",
+    "vocal",
     "opera"
    ],
    "timestamp": "2026-10-05T14:04:44.546Z",
@@ -791,7 +791,7 @@
   "display_level": null,
   "distance": null,
   "downloadOption": null,
-  "duration": 0.49681973457336426,
+  "duration": 0.5001955032348633,
   "embed": [],
   "embed!": [],
   "error_response_status": null,
@@ -950,7 +950,7 @@
   "suggested": null,
   "target": null,
   "template": "layouts/item/layout",
-  "timestamp": 1791373025.8727875,
+  "timestamp": 1791463284.0911322,
   "tz_aware": null,
   "unionFacets": "",
   "webcast_permalink": null
@@ -1001,8 +1001,8 @@
     "english"
    ],
    "location": [
-    "united states",
     "victor",
+    "united states",
     "iowa"
    ],
    "mime_type": [
@@ -1011,8 +1011,8 @@
     "image/tif"
    ],
    "number": [
-    "2013-04-03t08:58:59",
     "http://www.loc.gov/item/17665053",
+    "2013-04-03t08:58:59",
     "2013645043"
    ],
    "online_format": [
@@ -1022,29 +1022,29 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "prints and photographs division",
-    "lot 14058",
-    "catalog",
     "prints & photographs online catalog (library of congress)",
-    "miscellaneous items in high demand"
+    "miscellaneous items in high demand",
+    "lot 14058",
+    "prints and photographs division",
+    "catalog"
    ],
-   "score": 10.158625,
+   "score": 10.157352,
    "shelf_id": "LOT 14058, no. 123 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "united states",
     "victor",
-    "school children",
     "photographic prints",
-    "victor (iowa)",
-    "schools",
-    "iowa",
-    "group portraits",
+    "school children",
+    "united states",
     "panoramic postcards",
-    "photographic postcards"
+    "photographic postcards",
+    "victor (iowa)",
+    "group portraits",
+    "iowa",
+    "schools"
    ],
    "timestamp": "2022-05-02T06:13:36.448Z",
    "title": "[Victor High School, Victor, Iowa]",
@@ -1095,9 +1095,9 @@
     "english"
    ],
    "location": [
-    "united states",
     "victor",
-    "colorado"
+    "colorado",
+    "united states"
    ],
    "mime_type": [
     "image/gif",
@@ -1105,11 +1105,11 @@
     "image/tif"
    ],
    "number": [
-    "2016808865",
     "http://www.loc.gov/item/det1994014825/pp",
     "http://www.loc.gov/item/2016808865",
+    "2017-10-30t13:04:57",
     "http://www.loc.gov/item/20110612",
-    "2017-10-30t13:04:57"
+    "2016808865"
    ],
    "online_format": [
     "image"
@@ -1118,25 +1118,25 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "prints and photographs division",
-    "catalog",
-    "detroit publishing company",
     "prints & photographs online catalog (library of congress)",
-    "american memory"
+    "american memory",
+    "detroit publishing company",
+    "prints and photographs division",
+    "catalog"
    ],
-   "score": 10.158625,
+   "score": 10.157352,
    "shelf_id": "LC-D4-13841 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "united states",
     "victor",
-    "cityscape photographs",
-    "colorado",
+    "dry plate negatives",
     "gold mining",
-    "dry plate negatives"
+    "united states",
+    "colorado",
+    "cityscape photographs"
    ],
    "timestamp": "2022-04-25T08:19:00.040Z",
    "title": "Victor, Colo., and the Gold Coin Mine",
@@ -1185,9 +1185,9 @@
     "english"
    ],
    "location": [
+    "victor",
     "montana",
-    "united states",
-    "victor"
+    "united states"
    ],
    "mime_type": [
     "image/gif",
@@ -1195,10 +1195,10 @@
     "image/tif"
    ],
    "number": [
-    "sheet",
+    "2024-02-21t08:57:11",
     "2024689882",
-    "http://www.loc.gov/item/23570952",
-    "2024-02-21t08:57:11"
+    "sheet",
+    "http://www.loc.gov/item/23570952"
    ],
    "online_format": [
     "image"
@@ -1210,19 +1210,19 @@
     "prints and photographs division",
     "catalog"
    ],
-   "score": 10.158625,
+   "score": 10.157352,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 1 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "montana",
-    "united states",
     "victor",
+    "streets",
     "postcards",
+    "united states",
     "photographs",
-    "streets"
+    "montana"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "Main Street, Victor, Montana",
@@ -1274,9 +1274,9 @@
     "english"
    ],
    "location": [
+    "victor",
     "montana",
-    "united states",
-    "victor"
+    "united states"
    ],
    "mime_type": [
     "image/gif",
@@ -1284,10 +1284,10 @@
     "image/tif"
    ],
    "number": [
-    "sheet",
-    "2024689883",
     "http://www.loc.gov/item/23570953",
-    "2024-02-21t08:57:12"
+    "2024-02-21t08:57:12",
+    "sheet",
+    "2024689883"
    ],
    "online_format": [
     "image"
@@ -1299,18 +1299,18 @@
     "prints and photographs division",
     "catalog"
    ],
-   "score": 10.158625,
+   "score": 10.157352,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 2 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "montana",
-    "united states",
     "victor",
     "postcards",
-    "photographs"
+    "united states",
+    "photographs",
+    "montana"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "The snow-capped peak of St. Mory's, Victor, Montana",
@@ -1362,9 +1362,9 @@
     "english"
    ],
    "location": [
+    "victor",
     "montana",
-    "united states",
-    "victor"
+    "united states"
    ],
    "mime_type": [
     "image/gif",
@@ -1372,10 +1372,10 @@
     "image/tif"
    ],
    "number": [
-    "sheet",
+    "2024689884",
     "http://www.loc.gov/item/23570954",
     "2024-02-21t08:57:12",
-    "2024689884"
+    "sheet"
    ],
    "online_format": [
     "image"
@@ -1387,18 +1387,18 @@
     "prints and photographs division",
     "catalog"
    ],
-   "score": 10.158625,
+   "score": 10.157352,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 3 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "montana",
-    "united states",
     "victor",
     "postcards",
+    "united states",
     "photographs",
+    "montana",
     "houses"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
@@ -1451,9 +1451,9 @@
     "english"
    ],
    "location": [
+    "victor",
     "montana",
-    "united states",
-    "victor"
+    "united states"
    ],
    "mime_type": [
     "image/gif",
@@ -1461,10 +1461,10 @@
     "image/tif"
    ],
    "number": [
-    "sheet",
-    "http://www.loc.gov/item/23570955",
+    "2024689885",
     "2024-02-21t08:57:13",
-    "2024689885"
+    "sheet",
+    "http://www.loc.gov/item/23570955"
    ],
    "online_format": [
     "image"
@@ -1476,18 +1476,18 @@
     "prints and photographs division",
     "catalog"
    ],
-   "score": 10.158625,
+   "score": 10.157352,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 4 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "montana",
-    "united states",
     "victor",
     "postcards",
+    "united states",
     "photographs",
+    "montana",
     "schools"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
@@ -1539,5 +1539,5 @@
    "url": "https://www.loc.gov/resource/jukebox-29837.0"
   }
  ],
- "timestamp": 1791373026370
+ "timestamp": 1791463284591
 }

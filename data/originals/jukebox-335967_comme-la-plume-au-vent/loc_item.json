@@ -208,7 +208,7 @@
    "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
   ],
   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
-  "score": 15.45528,
+  "score": 15.457672,
   "shard": "01",
   "shelf_id": "Victor 45118",
   "site": [
@@ -216,9 +216,9 @@
   ],
   "source_modified": "2000-01-01T12:00:00Z",
   "subject": [
-   "victor",
+   "opera",
    "vocal",
-   "opera"
+   "victor"
   ],
   "subject_category": [
    "vocal"
@@ -276,9 +276,9 @@
    ],
    "campaigns": [],
    "contributor": [
-    "scheuplein, charles",
     "verdi, giuseppe",
-    "campagnola, léon"
+    "campagnola, léon",
+    "scheuplein, charles"
    ],
    "date": "1911-07-12",
    "dates": [
@@ -331,15 +331,15 @@
     "national jukebox",
     "recorded sound research center"
    ],
-   "score": 53.256943,
+   "score": 53.271374,
    "shelf_id": "Victor 45118",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "victor",
+    "opera",
     "vocal",
-    "opera"
+    "victor"
    ],
    "timestamp": "2026-10-05T14:14:40.271Z",
    "title": "Qu'une belle",
@@ -360,10 +360,10 @@
    ],
    "campaigns": [],
    "contributor": [
-    "scheuplein, charles",
     "campagnola, léon",
+    "massenet, jules",
     "césar, berthe",
-    "massenet, jules"
+    "scheuplein, charles"
    ],
    "date": "1911-11-02",
    "dates": [
@@ -417,15 +417,15 @@
     "national jukebox",
     "recorded sound research center"
    ],
-   "score": 47.67316,
+   "score": 47.685158,
    "shelf_id": "Victor 55086",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "victor",
+    "opera",
     "vocal",
-    "opera"
+    "victor"
    ],
    "timestamp": "2026-10-05T14:15:01.733Z",
    "title": "Non, votre liberté ne sera pas ravie",
@@ -446,9 +446,9 @@
    ],
    "campaigns": [],
    "contributor": [
+    "campagnola, léon",
     "donizetti, gaetano",
-    "scheuplein, charles",
-    "campagnola, léon"
+    "scheuplein, charles"
    ],
    "date": "1911-07-13",
    "dates": [
@@ -500,15 +500,15 @@
     "national jukebox",
     "recorded sound research center"
    ],
-   "score": 47.67316,
+   "score": 47.685158,
    "shelf_id": "Victor 45119",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "victor",
+    "opera",
     "vocal",
-    "opera"
+    "victor"
    ],
    "timestamp": "2026-10-05T14:14:40.271Z",
    "title": "Ange si pur",
@@ -529,9 +529,9 @@
    ],
    "campaigns": [],
    "contributor": [
-    "scheuplein, charles",
+    "campagnola, léon",
     "donizetti, gaetano",
-    "campagnola, léon"
+    "scheuplein, charles"
    ],
    "date": "1911-07-11",
    "dates": [
@@ -584,15 +584,15 @@
     "national jukebox",
     "recorded sound research center"
    ],
-   "score": 47.67316,
+   "score": 47.685158,
    "shelf_id": "Victor 45119",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "victor",
+    "opera",
     "vocal",
-    "opera"
+    "victor"
    ],
    "timestamp": "2026-10-05T14:14:40.271Z",
    "title": "Un ange, une femme inconnue",
@@ -613,9 +613,9 @@
    ],
    "campaigns": [],
    "contributor": [
-    "scheuplein, charles",
     "campagnola, léon",
-    "puccini, giacomo"
+    "puccini, giacomo",
+    "scheuplein, charles"
    ],
    "date": "1911-11-04",
    "dates": [
@@ -662,19 +662,19 @@
     "The stars were brightly shining"
    ],
    "partof": [
-    "department of special collections, davidson library, university of california, santa barbara",
     "national jukebox",
+    "department of special collections, davidson library, university of california, santa barbara",
     "recorded sound research center"
    ],
-   "score": 43.305973,
+   "score": 43.316883,
    "shelf_id": "Victor 45122",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "victor",
+    "opera",
     "vocal",
-    "opera"
+    "victor"
    ],
    "timestamp": "2026-10-05T14:14:19.247Z",
    "title": "Le ciel luisait d'étoiles",
@@ -695,10 +695,10 @@
    ],
    "campaigns": [],
    "contributor": [
-    "scheuplein, charles",
+    "campagnola, léon",
     "puccini, giacomo",
-    "vigneau, daniel",
-    "campagnola, léon"
+    "scheuplein, charles",
+    "vigneau, daniel"
    ],
    "date": "1911-11-17",
    "dates": [
@@ -745,19 +745,19 @@
     "La boheme"
    ],
    "partof": [
-    "department of special collections, davidson library, university of california, santa barbara",
     "national jukebox",
+    "department of special collections, davidson library, university of california, santa barbara",
     "recorded sound research center"
    ],
-   "score": 43.305973,
+   "score": 43.316883,
    "shelf_id": "Victor 45122",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "victor",
+    "opera",
     "vocal",
-    "opera"
+    "victor"
    ],
    "timestamp": "2026-10-05T14:14:19.247Z",
    "title": "Ah! Mimi s'en est allée",
@@ -806,7 +806,7 @@
   "display_level": null,
   "distance": null,
   "downloadOption": null,
-  "duration": 0.9127447605133057,
+  "duration": 0.4947226047515869,
   "embed": [],
   "embed!": [],
   "error_response_status": null,
@@ -965,7 +965,7 @@
   "suggested": null,
   "target": null,
   "template": "layouts/item/layout",
-  "timestamp": 1791373510.053784,
+  "timestamp": 1791463516.242386,
   "tz_aware": null,
   "unionFacets": "",
   "webcast_permalink": null
@@ -1018,9 +1018,9 @@
     "image/jpeg"
    ],
    "number": [
+    "1",
     "2022270747",
-    "00517179644",
-    "1"
+    "00517179644"
    ],
    "numeric_shelf_id": 188010031,
    "online_format": [
@@ -1032,9 +1032,9 @@
     "newspaper"
    ],
    "partof": [
-    "serial and government publications division",
+    "world newspapers",
     "le journal de la bourse (paris) 1877-1??? [online resource]",
-    "world newspapers"
+    "serial and government publications division"
    ],
    "publication_frequency": [
     "weekly"
@@ -1045,10 +1045,10 @@
     "chroniclingamerica"
    ],
    "subject": [
-    "paris (france)",
     "paris",
+    "france",
     "newspapers",
-    "france"
+    "paris (france)"
    ],
    "timestamp": "2026-02-02T15:47:13.511Z",
    "title": "Le journal de la bourse (Paris), October 3, 1880",
@@ -1131,9 +1131,9 @@
     "chroniclingamerica"
    ],
    "subject": [
-    "france",
     "periodicals",
     "world war",
+    "france",
     "paris",
     "united states"
    ],
@@ -1218,9 +1218,9 @@
     "chroniclingamerica"
    ],
    "subject": [
-    "france",
     "periodicals",
     "world war",
+    "france",
     "paris",
     "united states"
    ],
@@ -1305,9 +1305,9 @@
     "chroniclingamerica"
    ],
    "subject": [
-    "france",
     "periodicals",
     "world war",
+    "france",
     "paris",
     "united states"
    ],
@@ -1392,9 +1392,9 @@
     "chroniclingamerica"
    ],
    "subject": [
-    "france",
     "periodicals",
     "world war",
+    "france",
     "paris",
     "united states"
    ],
@@ -1479,9 +1479,9 @@
     "chroniclingamerica"
    ],
    "subject": [
-    "france",
     "periodicals",
     "world war",
+    "france",
     "paris",
     "united states"
    ],
@@ -1576,5 +1576,5 @@
    "url": "https://www.loc.gov/resource/jukebox-335967.1"
   }
  ],
- "timestamp": 1791373510966
+ "timestamp": 1791463516737
 }

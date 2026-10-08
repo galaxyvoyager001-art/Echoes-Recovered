@@ -118,8 +118,8 @@
    }
   ],
   "location": [
-   "brazil",
-   "rio de janeiro"
+   "rio de janeiro",
+   "brazil"
   ],
   "locations": [
    {
@@ -189,7 +189,7 @@
    "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
   ],
   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
-  "score": 15.45528,
+  "score": 15.457672,
   "shard": "01",
   "shelf_id": "Victor 69244",
   "site": [
@@ -197,11 +197,11 @@
   ],
   "source_modified": "2000-01-01T12:00:00Z",
   "subject": [
+   "victor",
    "popular music",
-   "portuguese (brazil)",
    "vocal",
    "ethnic music",
-   "victor"
+   "portuguese (brazil)"
   ],
   "subject_category": [
    "vocal"
@@ -276,9 +276,9 @@
    ],
    "campaigns": [],
    "contributor": [
-    "ribeiro, salles",
     "barlavento, m.",
-    "conte, j."
+    "conte, j.",
+    "ribeiro, salles"
    ],
    "date": "1912-05-04",
    "dates": [
@@ -306,8 +306,8 @@
     "portuguese"
    ],
    "location": [
-    "brazil",
-    "rio de janeiro"
+    "rio de janeiro",
+    "brazil"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -326,21 +326,21 @@
     "Fado"
    ],
    "partof": [
-    "johnson victrola museum, delaware",
+    "national jukebox",
     "recorded sound research center",
-    "national jukebox"
+    "johnson victrola museum, delaware"
    ],
-   "score": 48.64145,
+   "score": 48.64909,
    "shelf_id": "Victor 69239",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
+    "victor",
     "popular music",
-    "portuguese (brazil)",
     "vocal",
     "ethnic music",
-    "victor"
+    "portuguese (brazil)"
    ],
    "timestamp": "2026-10-05T14:13:38.157Z",
    "title": "Varella",
@@ -388,8 +388,8 @@
     "portuguese"
    ],
    "location": [
-    "brazil",
-    "rio de janeiro"
+    "rio de janeiro",
+    "brazil"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -408,21 +408,21 @@
     "Cancao"
    ],
    "partof": [
-    "johnson victrola museum, delaware",
+    "national jukebox",
     "recorded sound research center",
-    "national jukebox"
+    "johnson victrola museum, delaware"
    ],
-   "score": 48.64145,
+   "score": 48.64909,
    "shelf_id": "Victor 69250",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
+    "victor",
     "popular music",
-    "portuguese (brazil)",
     "vocal",
     "ethnic music",
-    "victor"
+    "portuguese (brazil)"
    ],
    "timestamp": "2026-10-05T14:12:49.807Z",
    "title": "A feia",
@@ -442,10 +442,10 @@
    ],
    "campaigns": [],
    "contributor": [
-    "bella zazá, la",
-    "ribeiro, salles",
     "barlavento, m.",
-    "conte, j."
+    "bella zazá, la",
+    "conte, j.",
+    "ribeiro, salles"
    ],
    "date": "1912-05-02",
    "dates": [
@@ -473,8 +473,8 @@
     "portuguese"
    ],
    "location": [
-    "brazil",
-    "rio de janeiro"
+    "rio de janeiro",
+    "brazil"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -493,21 +493,21 @@
     "Desgarrada"
    ],
    "partof": [
-    "johnson victrola museum, delaware",
+    "national jukebox",
     "recorded sound research center",
-    "national jukebox"
+    "johnson victrola museum, delaware"
    ],
-   "score": 48.64145,
+   "score": 48.64909,
    "shelf_id": "Victor 69230",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
+    "victor",
     "popular music",
-    "portuguese (brazil)",
     "vocal",
     "ethnic music",
-    "victor"
+    "portuguese (brazil)"
    ],
    "timestamp": "2026-10-05T14:12:49.807Z",
    "title": "O mangerico",
@@ -555,8 +555,8 @@
     "portuguese"
    ],
    "location": [
-    "brazil",
-    "rio de janeiro"
+    "rio de janeiro",
+    "brazil"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -575,21 +575,21 @@
     "Cancao"
    ],
    "partof": [
-    "johnson victrola museum, delaware",
+    "national jukebox",
     "recorded sound research center",
-    "national jukebox"
+    "johnson victrola museum, delaware"
    ],
-   "score": 48.64145,
+   "score": 48.64909,
    "shelf_id": "Victor 97123",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
+    "victor",
     "popular music",
-    "portuguese (brazil)",
     "vocal",
     "ethnic music",
-    "victor"
+    "portuguese (brazil)"
    ],
    "timestamp": "2026-10-05T14:12:11.703Z",
    "title": "Larilolé",
@@ -639,8 +639,8 @@
     "portuguese"
    ],
    "location": [
-    "brazil",
-    "rio de janeiro"
+    "rio de janeiro",
+    "brazil"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -659,21 +659,21 @@
     "Lundu"
    ],
    "partof": [
-    "johnson victrola museum, delaware",
+    "national jukebox",
     "recorded sound research center",
-    "national jukebox"
+    "johnson victrola museum, delaware"
    ],
-   "score": 48.64145,
+   "score": 48.64909,
    "shelf_id": "Victor 97072",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
+    "victor",
     "popular music",
-    "portuguese (brazil)",
     "vocal",
     "ethnic music",
-    "victor"
+    "portuguese (brazil)"
    ],
    "timestamp": "2026-10-05T14:55:11.428Z",
    "title": "Crime de amor",
@@ -693,8 +693,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "barlavento, m.",
     "brandão, aristarcho",
+    "barlavento, m.",
     "conte, j."
    ],
    "date": "1912-04-30",
@@ -723,8 +723,8 @@
     "portuguese"
    ],
    "location": [
-    "brazil",
-    "rio de janeiro"
+    "rio de janeiro",
+    "brazil"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -743,21 +743,21 @@
     "Cancao"
    ],
    "partof": [
-    "johnson victrola museum, delaware",
+    "national jukebox",
     "recorded sound research center",
-    "national jukebox"
+    "johnson victrola museum, delaware"
    ],
-   "score": 48.64145,
+   "score": 48.64909,
    "shelf_id": "Victor 97096",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
+    "victor",
     "popular music",
-    "portuguese (brazil)",
     "vocal",
     "ethnic music",
-    "victor"
+    "portuguese (brazil)"
    ],
    "timestamp": "2026-10-05T14:55:11.428Z",
    "title": "Stella",
@@ -822,7 +822,7 @@
   "display_level": null,
   "distance": null,
   "downloadOption": null,
-  "duration": 0.4021031856536865,
+  "duration": 0.6261639595031738,
   "embed": [],
   "embed!": [],
   "error_response_status": null,
@@ -981,7 +981,7 @@
   "suggested": null,
   "target": null,
   "template": "layouts/item/layout",
-  "timestamp": 1791373410.8485882,
+  "timestamp": 1791463486.8975267,
   "tz_aware": null,
   "unionFacets": "",
   "webcast_permalink": null
@@ -1029,17 +1029,17 @@
     "english"
    ],
    "location": [
-    "brazil",
-    "rio de janeiro"
+    "rio de janeiro",
+    "brazil"
    ],
    "mime_type": [
     "image/gif",
     "application/pdf"
    ],
    "number": [
-    "online resource",
     "2022-04-21t17:22:58",
     "2020717923",
+    "online resource",
     "2026-05-04t12:04:57.200000"
    ],
    "online_format": [
@@ -1050,24 +1050,24 @@
     "book"
    ],
    "partof": [
-    "general collections",
+    "open access books",
     "catalog",
-    "open access books"
+    "general collections"
    ],
-   "score": 13.620898,
+   "score": 13.622294,
    "shelf_id": "ML3487.B7",
    "site": [
     "catalog"
    ],
    "subject": [
-    "brazil",
-    "popular music",
-    "recording and reproducing",
-    "history and criticism",
-    "sound",
     "rio de janeiro",
+    "popular music",
     "digital techniques",
-    "suzano, marcos"
+    "recording and reproducing",
+    "brazil",
+    "suzano, marcos",
+    "sound",
+    "history and criticism"
    ],
    "timestamp": "2026-05-16T14:32:52.660Z",
    "title": "Contemporary Carioca : technologies of mixing in a Brazilian music scene",
@@ -1110,15 +1110,15 @@
     "portuguese"
    ],
    "location": [
-    "brazil",
+    "rio de janeiro",
     "copacabana",
-    "rio de janeiro"
+    "brazil"
    ],
    "number": [
-    "online resource",
     "n1574226348",
     "2026-08-07t15:24:21.600000",
-    "2026337512"
+    "2026337512",
+    "online resource"
    ],
    "original_format": [
     "book"
@@ -1126,23 +1126,23 @@
    "partof": [
     "catalog"
    ],
-   "score": 9.912712,
+   "score": 9.910465,
    "shelf_id": "ML3509.B78++",
    "site": [
     "catalog"
    ],
    "subject": [
-    "sambas",
-    "brazil",
-    "popular music",
-    "history and criticism",
-    "rio de janeiro",
-    "jazz",
     "20th century",
+    "rio de janeiro",
+    "popular music",
+    "social life and customs",
     "vocal improvisation (music)",
-    "copacabana (rio de janeiro, brazil)",
+    "jazz",
     "history",
-    "social life and customs"
+    "brazil",
+    "copacabana (rio de janeiro, brazil)",
+    "history and criticism",
+    "sambas"
    ],
    "timestamp": "2026-08-11T13:37:00.590Z",
    "title": "Entre o samba e o jazz : a improvisação vocal na Copacabana de 1950 a 1970",
@@ -1206,9 +1206,9 @@
     "image/tif"
    ],
    "number": [
-    "2013-04-03t08:58:59",
     "2013645043",
-    "http://www.loc.gov/item/17665053"
+    "http://www.loc.gov/item/17665053",
+    "2013-04-03t08:58:59"
    ],
    "online_format": [
     "image"
@@ -1217,28 +1217,28 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "catalog",
+    "lot 14058",
     "miscellaneous items in high demand",
-    "prints & photographs online catalog (library of congress)",
     "prints and photographs division",
-    "lot 14058"
+    "prints & photographs online catalog (library of congress)",
+    "catalog"
    ],
-   "score": 9.757024,
+   "score": 9.75644,
    "shelf_id": "LOT 14058, no. 123 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "victor (iowa)",
     "victor",
     "panoramic postcards",
-    "school children",
-    "iowa",
-    "group portraits",
-    "united states",
     "photographic postcards",
+    "victor (iowa)",
+    "group portraits",
+    "iowa",
     "schools",
+    "united states",
+    "school children",
     "photographic prints"
    ],
    "timestamp": "2022-05-02T06:13:36.448Z",
@@ -1257,8 +1257,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "detroit publishing co.",
-    "jackson, william henry"
+    "jackson, william henry",
+    "detroit publishing co."
    ],
    "date": "1900-01-01",
    "dates": [
@@ -1290,9 +1290,9 @@
     "english"
    ],
    "location": [
+    "colorado",
     "victor",
-    "united states",
-    "colorado"
+    "united states"
    ],
    "mime_type": [
     "image/gif",
@@ -1300,11 +1300,11 @@
     "image/tif"
    ],
    "number": [
+    "http://www.loc.gov/item/20110612",
     "http://www.loc.gov/item/det1994014825/pp",
-    "http://www.loc.gov/item/2016808865",
     "2017-10-30t13:04:57",
-    "2016808865",
-    "http://www.loc.gov/item/20110612"
+    "http://www.loc.gov/item/2016808865",
+    "2016808865"
    ],
    "online_format": [
     "image"
@@ -1313,25 +1313,25 @@
     "photo, print, drawing"
    ],
    "partof": [
+    "prints and photographs division",
+    "prints & photographs online catalog (library of congress)",
     "american memory",
     "catalog",
-    "detroit publishing company",
-    "prints & photographs online catalog (library of congress)",
-    "prints and photographs division"
+    "detroit publishing company"
    ],
-   "score": 9.757024,
+   "score": 9.75644,
    "shelf_id": "LC-D4-13841 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "cityscape photographs",
-    "dry plate negatives",
-    "united states",
+    "victor",
     "gold mining",
+    "united states",
     "colorado",
-    "victor"
+    "dry plate negatives",
+    "cityscape photographs"
    ],
    "timestamp": "2022-04-25T08:19:00.040Z",
    "title": "Victor, Colo., and the Gold Coin Mine",
@@ -1380,8 +1380,8 @@
     "english"
    ],
    "location": [
-    "montana",
     "victor",
+    "montana",
     "united states"
    ],
    "mime_type": [
@@ -1390,10 +1390,10 @@
     "image/tif"
    ],
    "number": [
-    "http://www.loc.gov/item/23570952",
-    "2024-02-21t08:57:11",
     "sheet",
-    "2024689882"
+    "2024689882",
+    "http://www.loc.gov/item/23570952",
+    "2024-02-21t08:57:11"
    ],
    "online_format": [
     "image"
@@ -1405,18 +1405,18 @@
     "catalog",
     "prints and photographs division"
    ],
-   "score": 9.757024,
+   "score": 9.75644,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 1 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "streets",
+    "victor",
     "photographs",
+    "streets",
     "montana",
     "united states",
-    "victor",
     "postcards"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
@@ -1469,8 +1469,8 @@
     "english"
    ],
    "location": [
-    "montana",
     "victor",
+    "montana",
     "united states"
    ],
    "mime_type": [
@@ -1479,10 +1479,10 @@
     "image/tif"
    ],
    "number": [
-    "2024689883",
-    "http://www.loc.gov/item/23570953",
     "sheet",
-    "2024-02-21t08:57:12"
+    "http://www.loc.gov/item/23570953",
+    "2024-02-21t08:57:12",
+    "2024689883"
    ],
    "online_format": [
     "image"
@@ -1494,17 +1494,17 @@
     "catalog",
     "prints and photographs division"
    ],
-   "score": 9.757024,
+   "score": 9.75644,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 2 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
+    "victor",
     "photographs",
     "montana",
     "united states",
-    "victor",
     "postcards"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
@@ -1598,5 +1598,5 @@
    "url": "https://www.loc.gov/resource/jukebox-324371.1"
   }
  ],
- "timestamp": 1791373411251
+ "timestamp": 1791463487524
 }

@@ -1,9 +1,9 @@
 {
  "articles_and_essays": null,
  "cite_this": {
-  "apa": "Toyotake, R. &amp; Gaisberg, W. C. (1906) <cite>JōruriTsubozakadera: Sawa shinai 浄瑠璃壷坂寺: 澤市内</cite>. [Audio] Retrieved from the Library of Congress, https://www.loc.gov/item/jukebox-326858/.",
-  "chicago": "Toyotake, Roshō, and William Conrad Gaisberg. <cite>JōruriTsubozakadera: Sawa shinai 浄瑠璃壷坂寺: 澤市内</cite>. 1906. Audio. https://www.loc.gov/item/jukebox-326858/.",
-  "mla": "Toyotake, Roshō, and William Conrad Gaisberg. <cite>JōruriTsubozakadera: Sawa shinai 浄瑠璃壷坂寺: 澤市内</cite>. 1906. Audio. Retrieved from the Library of Congress, &lt;www.loc.gov/item/jukebox-326858/&gt;."
+  "apa": "Toyotake, R. &amp; Gaisberg, W. C. (1906) <cite>Jōruri Tsubozakadera: Sawa shinai 浄瑠璃 壷坂寺: 澤市内</cite>. [Audio] Retrieved from the Library of Congress, https://www.loc.gov/item/jukebox-326858/.",
+  "chicago": "Toyotake, Roshō, and William Conrad Gaisberg. <cite>Jōruri Tsubozakadera: Sawa shinai 浄瑠璃 壷坂寺: 澤市内</cite>. 1906. Audio. https://www.loc.gov/item/jukebox-326858/.",
+  "mla": "Toyotake, Roshō, and William Conrad Gaisberg. <cite>Jōruri Tsubozakadera: Sawa shinai 浄瑠璃 壷坂寺: 澤市内</cite>. 1906. Audio. Retrieved from the Library of Congress, &lt;www.loc.gov/item/jukebox-326858/&gt;."
  },
  "item": {
   "_version_": 1878219436744245249,
@@ -122,8 +122,8 @@
    }
   ],
   "location": [
-   "osaka",
-   "japan"
+   "japan",
+   "osaka"
   ],
   "locations": [
    {
@@ -192,7 +192,7 @@
    "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
   ],
   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
-  "score": 15.333624,
+  "score": 15.335318,
   "shard": "01",
   "shelf_id": "Victor 11154",
   "site": [
@@ -200,10 +200,10 @@
   ],
   "source_modified": "2000-01-01T12:00:00Z",
   "subject": [
-   "japanese",
    "ethnic music",
+   "victor",
    "vocal",
-   "victor"
+   "japanese"
   ],
   "subject_category": [
    "vocal"
@@ -315,19 +315,19 @@
    ],
    "partof": [
     "department of special collections, davidson library, university of california, santa barbara",
-    "national jukebox",
-    "recorded sound research center"
+    "recorded sound research center",
+    "national jukebox"
    ],
-   "score": 33.19052,
+   "score": 33.19634,
    "shelf_id": "Victor 11256",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "japanese",
     "ethnic music",
+    "victor",
     "vocal",
-    "victor"
+    "japanese"
    ],
    "timestamp": "2026-10-05T14:13:57.371Z",
    "title": "Tokiwazu  Modoribashi",
@@ -348,12 +348,12 @@
    ],
    "campaigns": [],
    "contributor": [
+    "king, edward t.",
     "rydel, lucjan",
-    "grabowsky, jan [i.e., františek a. pangrác]",
     "pangrác, františek a.",
-    "shilkret, nathaniel",
     "rózycki, maryan s.",
-    "king, edward t."
+    "shilkret, nathaniel",
+    "grabowsky, jan [i.e., františek a. pangrác]"
    ],
    "date": "1919-06-11",
    "dates": [
@@ -400,20 +400,20 @@
    ],
    "partof": [
     "department of special collections, davidson library, university of california, santa barbara",
-    "national jukebox",
-    "recorded sound research center"
+    "recorded sound research center",
+    "national jukebox"
    ],
-   "score": 25.400866,
+   "score": 25.405584,
    "shelf_id": "Victor 72413",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "polish",
-    "religious",
-    "vocal",
     "ethnic music",
-    "victor"
+    "religious",
+    "victor",
+    "vocal",
+    "polish"
    ],
    "timestamp": "2026-10-05T14:01:15.280Z",
    "title": "Przybieżeli do Betlejem pasterze",
@@ -434,10 +434,10 @@
    ],
    "campaigns": [],
    "contributor": [
+    "lapitino, francis j.",
     "zimmermann, fritz",
     "bourdon, rosario",
-    "huber, ferdinand fürchtegott",
-    "lapitino, francis j."
+    "huber, ferdinand fürchtegott"
    ],
    "date": "1920-07-12",
    "dates": [
@@ -463,9 +463,9 @@
     "swiss german"
    ],
    "location": [
-    "united states",
     "new jersey",
-    "camden"
+    "camden",
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -485,19 +485,19 @@
    ],
    "partof": [
     "department of special collections, davidson library, university of california, santa barbara",
-    "national jukebox",
-    "recorded sound research center"
+    "recorded sound research center",
+    "national jukebox"
    ],
-   "score": 25.400866,
+   "score": 25.405584,
    "shelf_id": "Victor 73080",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "vocal",
     "ethnic music",
     "victor",
-    "swiss"
+    "swiss",
+    "vocal"
    ],
    "timestamp": "2026-10-05T14:01:15.280Z",
    "title": "De Gaemsjaeger",
@@ -564,19 +564,19 @@
    ],
    "partof": [
     "department of special collections, davidson library, university of california, santa barbara",
-    "national jukebox",
-    "recorded sound research center"
+    "recorded sound research center",
+    "national jukebox"
    ],
-   "score": 25.400866,
+   "score": 25.405584,
    "shelf_id": "Victor 73152",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "vocal",
     "ethnic music",
-    "russian",
-    "victor"
+    "victor",
+    "vocal",
+    "russian"
    ],
    "timestamp": "2026-10-05T14:01:15.280Z",
    "title": "Polosinka",
@@ -597,8 +597,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "bixio, c. a.",
     "shilkret, nathaniel",
+    "bixio, c. a.",
     "cibelli, eugenio"
    ],
    "date": "1921-12-16",
@@ -646,19 +646,19 @@
    ],
    "partof": [
     "department of special collections, davidson library, university of california, santa barbara",
-    "national jukebox",
-    "recorded sound research center"
+    "recorded sound research center",
+    "national jukebox"
    ],
-   "score": 25.400866,
+   "score": 25.405584,
    "shelf_id": "Victor 68581",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "vocal",
     "ethnic music",
+    "victor",
     "italian (neapolitan)",
-    "victor"
+    "vocal"
    ],
    "timestamp": "2026-10-05T14:01:15.280Z",
    "title": "Filava filava",
@@ -679,9 +679,9 @@
    ],
    "campaigns": [],
    "contributor": [
+    "lauder, harry",
     "rogers, walter b.",
-    "harper, j. d.",
-    "lauder, harry"
+    "harper, j. d."
    ],
    "date": "1915-11-20",
    "dates": [
@@ -724,19 +724,19 @@
    ],
    "partof": [
     "department of special collections, davidson library, university of california, santa barbara",
-    "national jukebox",
-    "recorded sound research center"
+    "recorded sound research center",
+    "national jukebox"
    ],
-   "score": 25.400866,
+   "score": 25.405584,
    "shelf_id": "Victor 45197",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "vocal",
     "ethnic music",
-    "victor",
     "ethnic spoken word",
+    "victor",
+    "vocal",
     "humorous songs"
    ],
    "timestamp": "2026-10-05T14:01:15.280Z",
@@ -800,7 +800,7 @@
   "display_level": null,
   "distance": null,
   "downloadOption": null,
-  "duration": 0.6094999313354492,
+  "duration": 0.48993778228759766,
   "embed": [],
   "embed!": [],
   "error_response_status": null,
@@ -959,7 +959,7 @@
   "suggested": null,
   "target": null,
   "template": "layouts/item/layout",
-  "timestamp": 1791377385.469127,
+  "timestamp": 1791463605.4860525,
   "tz_aware": null,
   "unionFacets": "",
   "webcast_permalink": null
@@ -1010,8 +1010,8 @@
     "english"
    ],
    "location": [
-    "osaka",
-    "japan"
+    "japan",
+    "osaka"
    ],
    "mime_type": [
     "image/gif",
@@ -1019,10 +1019,10 @@
     "image/tif"
    ],
    "number": [
-    "2021-12-22t08:53:20",
-    "http://www.loc.gov/item/22353258",
     "sheet",
-    "2021790119"
+    "http://www.loc.gov/item/22353258",
+    "2021790119",
+    "2021-12-22t08:53:20"
    ],
    "online_format": [
     "image"
@@ -1032,24 +1032,24 @@
    ],
    "partof": [
     "prints and photographs division",
-    "catalog",
     "miscellaneous items in high demand",
-    "prints & photographs online catalog (library of congress)"
+    "prints & photographs online catalog (library of congress)",
+    "catalog"
    ],
-   "score": 12.307821,
+   "score": 12.305227,
    "shelf_id": "Unprocessed in PR 13 CN 2010:100, [item] [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "osaka",
+    "ukiyo-e",
     "architectural drawings",
-    "bridges",
+    "osaka",
     "woodcuts",
     "japan",
-    "japanese",
-    "ukiyo-e"
+    "bridges",
+    "japanese"
    ],
    "timestamp": "2022-05-02T10:35:57.148Z",
    "title": "[View of Tamae-bashi Bridge (Tamae-bashi kei)]",
@@ -1090,16 +1090,16 @@
    ],
    "index": 2,
    "language": [
-    "japanese",
-    "english"
+    "english",
+    "japanese"
    ],
    "latlong": [
     35.95,
     137.26667
    ],
    "location": [
-    "osaka",
-    "japan"
+    "japan",
+    "osaka"
    ],
    "location_str": "",
    "lonlat": [
@@ -1112,9 +1112,9 @@
     "image/tif"
    ],
    "number": [
+    "2002700127",
     "http://www.loc.gov/item/12963869",
     "http://www.loc.gov/item/2002700127",
-    "2002700127",
     "2009-08-05t08:32:30",
     "http://www.loc.gov/item/cha2001000016/pp"
    ],
@@ -1125,25 +1125,25 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "fine prints: japanese, pre-1915",
     "prints and photographs division",
     "catalog",
-    "prints & photographs online catalog (library of congress)"
+    "prints & photographs online catalog (library of congress)",
+    "fine prints: japanese, pre-1915"
    ],
-   "score": 12.307821,
+   "score": 12.305227,
    "shelf_id": "FP 2 - Chadbourne, no. 14 (A size) [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
+    "cityscape prints",
     "osaka",
+    "city & town life",
     "color",
-    "bridges",
     "woodcuts",
     "japan",
-    "city & town life",
-    "cityscape prints",
+    "bridges",
     "japanese"
    ],
    "timestamp": "2022-04-29T03:10:37.425Z",
@@ -1188,16 +1188,16 @@
    ],
    "index": 3,
    "language": [
-    "japanese",
-    "english"
+    "english",
+    "japanese"
    ],
    "latlong": [
     35.95,
     137.26667
    ],
    "location": [
-    "osaka",
-    "japan"
+    "japan",
+    "osaka"
    ],
    "location_str": "",
    "lonlat": [
@@ -1211,9 +1211,9 @@
    ],
    "number": [
     "http://www.loc.gov/item/jpd2005000700",
+    "http://www.loc.gov/item/2008660030",
     "2008660030",
-    "2008-10-10t10:32:37",
-    "http://www.loc.gov/item/2008660030"
+    "2008-10-10t10:32:37"
    ],
    "online_format": [
     "image"
@@ -1222,33 +1222,33 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "fine prints: japanese, pre-1915",
     "prints and photographs division",
     "catalog",
-    "prints & photographs online catalog (library of congress)"
+    "prints & photographs online catalog (library of congress)",
+    "fine prints: japanese, pre-1915"
    ],
-   "score": 12.307821,
+   "score": 12.305227,
    "shelf_id": "FP 2 - JPD, no. 698 (A size) [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
+    "shrines",
+    "commemoration",
+    "festivals",
+    "ukiyo-e",
     "osaka",
     "night",
-    "japanese",
-    "commemoration",
-    "rivers",
-    "ukiyo-e",
+    "sugawara, michizane",
     "color",
-    "bridges",
     "woodcuts",
-    "japan",
     "845-903",
+    "japan",
+    "bridges",
+    "rivers",
     "boats",
-    "shrines",
-    "festivals",
-    "sugawara, michizane"
+    "japanese"
    ],
    "timestamp": "2022-04-29T03:12:51.847Z",
    "title": "Ukie naniwa tenmatenjin yomatsuri no zu",
@@ -1293,12 +1293,12 @@
    ],
    "index": 4,
    "language": [
-    "japanese",
-    "english"
+    "english",
+    "japanese"
    ],
    "location": [
-    "osaka",
-    "japan"
+    "japan",
+    "osaka"
    ],
    "mime_type": [
     "image/gif",
@@ -1306,10 +1306,10 @@
     "image/tif"
    ],
    "number": [
-    "2025-03-18t11:50:07",
-    "http://www.loc.gov/item/23074986",
+    "sheet",
     "2023630955",
-    "sheet"
+    "2025-03-18t11:50:07",
+    "http://www.loc.gov/item/23074986"
    ],
    "online_format": [
     "image"
@@ -1325,24 +1325,24 @@
     "catalog",
     "posters: artist posters"
    ],
-   "score": 12.307821,
+   "score": 12.305227,
    "shelf_id": "POS - Japan, no. 899 (C size) [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "osaka",
-    "exhibitions",
     "fairs",
-    "flags",
+    "osaka",
     "lithographs",
     "color",
-    "osaka, japan)",
-    "japan",
-    "expo (international exhibitions bureau)",
     "posters",
-    "japanese"
+    "expo (international exhibitions bureau)",
+    "flags",
+    "japanese",
+    "japan",
+    "osaka, japan)",
+    "exhibitions"
    ],
    "timestamp": "2025-03-29T12:27:48.036Z",
    "title": "Nihon Bankoku Haku Ōsaka, Shōwa 45-nen, 3-gatsu 15-nichi kaikai. Jinrui no shinpo to chōwa, Expo '70.",
@@ -1390,12 +1390,12 @@
    ],
    "index": 5,
    "language": [
-    "japanese",
-    "english"
+    "english",
+    "japanese"
    ],
    "location": [
-    "osaka",
-    "japan"
+    "japan",
+    "osaka"
    ],
    "mime_type": [
     "image/gif",
@@ -1403,10 +1403,10 @@
     "image/tif"
    ],
    "number": [
-    "http://www.loc.gov/item/23144821",
-    "2025-03-18t11:34:39",
+    "sheet",
     "2023631263",
-    "sheet"
+    "http://www.loc.gov/item/23144821",
+    "2025-03-18t11:34:39"
    ],
    "online_format": [
     "image"
@@ -1422,23 +1422,23 @@
     "catalog",
     "posters: artist posters"
    ],
-   "score": 12.307821,
+   "score": 12.305227,
    "shelf_id": "POS - Japan, no. 1037 (C size) [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "osaka",
-    "exhibitions",
     "fairs",
-    "color",
+    "osaka",
     "lithographs",
-    "osaka, japan)",
-    "japan",
-    "expo (international exhibitions bureau)",
+    "color",
     "posters",
-    "japanese"
+    "expo (international exhibitions bureau)",
+    "japanese",
+    "japan",
+    "osaka, japan)",
+    "exhibitions"
    ],
    "timestamp": "2025-03-29T12:27:48.036Z",
    "title": "EXPO '70, Nihon Bankoku Hakurankai Japan World Exposition, Osaka, 1970.",
@@ -1486,12 +1486,12 @@
    ],
    "index": 6,
    "language": [
-    "japanese",
-    "english"
+    "english",
+    "japanese"
    ],
    "location": [
-    "osaka",
-    "japan"
+    "japan",
+    "osaka"
    ],
    "mime_type": [
     "image/gif",
@@ -1499,10 +1499,10 @@
     "image/tif"
    ],
    "number": [
-    "http://www.loc.gov/item/23145934",
-    "2023631267",
     "sheet",
-    "2025-03-18t11:43:11"
+    "2025-03-18t11:43:11",
+    "http://www.loc.gov/item/23145934",
+    "2023631267"
    ],
    "online_format": [
     "image"
@@ -1518,24 +1518,24 @@
     "catalog",
     "posters: artist posters"
    ],
-   "score": 12.307821,
+   "score": 12.305227,
    "shelf_id": "POS - Japan, no. 1041 (C size) [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "osaka",
-    "exhibitions",
     "fairs",
-    "color",
+    "osaka",
     "lithographs",
-    "children",
-    "osaka, japan)",
-    "japan",
-    "expo (international exhibitions bureau)",
+    "color",
     "posters",
-    "japanese"
+    "expo (international exhibitions bureau)",
+    "children",
+    "japanese",
+    "japan",
+    "osaka, japan)",
+    "exhibitions"
    ],
    "timestamp": "2025-03-29T12:27:48.036Z",
    "title": "Nihon Bankoku Haku Jinrui no shinpo to chōwa, Expo '70, Shōwa 45-nen, 3-gatsu 15-nichi kaikai: Ōsaka.",
@@ -1608,5 +1608,5 @@
    "url": "https://www.loc.gov/resource/jukebox-326858.1"
   }
  ],
- "timestamp": 1791377386079
+ "timestamp": 1791463605976
 }

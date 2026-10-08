@@ -1,0 +1,1643 @@
+{
+ "articles_and_essays": null,
+ "cite_this": {
+  "apa": "Montmartre Orchestra, Rose, V., Rose, V. &amp; Owens, H. (1924) <cite>String Beans</cite>. [Audio] Retrieved from the Library of Congress, https://www.loc.gov/item/jukebox-334221/.",
+  "chicago": "Montmartre Orchestra, Vincent Rose, Vincent Rose, and Harry Owens. <cite>String Beans</cite>. 1924. Audio. https://www.loc.gov/item/jukebox-334221/.",
+  "mla": "Montmartre Orchestra, et al. <cite>String Beans</cite>. 1924. Audio. Retrieved from the Library of Congress, &lt;www.loc.gov/item/jukebox-334221/&gt;."
+ },
+ "item": {
+  "_version_": 1878219460151607296,
+  "access_restricted": false,
+  "aka": [
+   "http://www.loc.gov/jukebox/recordings/detail/id/7219",
+   "http://www.loc.gov/item/jukebox-334221/",
+   "http://www.loc.gov/resource/jukebox-334221.0/",
+   "http://www.loc.gov/resource/jukebox-334221.1/",
+   "http://www.loc.gov/resource/jukebox-334221.0",
+   "http://www.loc.gov/resource/jukebox-334221.1"
+  ],
+  "audio_type": "Instrumental",
+  "campaigns": [],
+  "contributor_composer": [
+   "rose, vincent",
+   "owens, harry"
+  ],
+  "contributor_musical_group": [
+   "montmartre orchestra"
+  ],
+  "contributor_names": [
+   "Montmartre Orchestra -- Musical Group -- Musical Group",
+   "Rose, Vincent -- Leader -- Leader",
+   "Rose, Vincent -- Composer -- Composer",
+   "Owens, Harry -- Composer -- Composer"
+  ],
+  "contributor_primary": [
+   "montmartre orchestra"
+  ],
+  "contributors": [
+   {
+    "montmartre orchestra": "https://www.loc.gov/search/?fa=contributor:montmartre+orchestra&fo=json"
+   },
+   {
+    "owens, harry": "https://www.loc.gov/search/?fa=contributor:owens,+harry&fo=json"
+   },
+   {
+    "rose, vincent": "https://www.loc.gov/search/?fa=contributor:rose,+vincent&fo=json"
+   }
+  ],
+  "contributors_composer": [
+   {
+    "owens, harry": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_composer:owens,+harry&fo=json"
+   },
+   {
+    "rose, vincent": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_composer:rose,+vincent&fo=json"
+   }
+  ],
+  "contributors_musical_group": [
+   {
+    "montmartre orchestra": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_musical_group:montmartre+orchestra&fo=json"
+   }
+  ],
+  "contributors_primary": [
+   {
+    "montmartre orchestra": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_primary:montmartre+orchestra&fo=json"
+   }
+  ],
+  "date": "1924-06-09",
+  "dates": [
+   {
+    "1924-06-09": "https://www.loc.gov/search/?dates=1924-06-09/1924-06-09&fo=json"
+   }
+  ],
+  "description": [
+   "Victor 19379. Matrix/Take: PB-2/1."
+  ],
+  "digitized": true,
+  "display_offsite": true,
+  "extract_timestamp": "2026-10-05T03:30:42.670Z",
+  "extract_urls": [
+   "http://www.loc.gov/item/jukebox-334221#nationaljukebox"
+  ],
+  "file_id": [
+   "ucsb_victor_19379_01_pb2_01"
+  ],
+  "format": [
+   {
+    "sound recording": "https://www.loc.gov/search/?fa=original_format:sound+recording&fo=json"
+   }
+  ],
+  "genre": [
+   "Ragtime, jazz, and more"
+  ],
+  "group": [
+   "nationaljukebox",
+   "national-jukebox"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/item/jukebox-334221/",
+  "iiif_manifest_url": "https://www.loc.gov/item/jukebox-334221/manifest.json",
+  "image_url": [
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19379_01_pb2_01:ucsb_victor_19379_01_pb2_01/full/pct:50/0/default.jpg#h=394&w=397",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19379_01_pb2_01:ucsb_victor_19379_01_pb2_01/full/pct:100/0/default.jpg#h=789&w=795"
+  ],
+  "index": 1,
+  "item": {
+   "audio_type": "Instrumental",
+   "contributors": [
+    "Montmartre Orchestra -- Musical Group -- Musical Group",
+    "Rose, Vincent -- Leader -- Leader",
+    "Rose, Vincent -- Composer -- Composer",
+    "Owens, Harry -- Composer -- Composer"
+   ],
+   "file_id": [
+    "ucsb_victor_19379_01_pb2_01"
+   ],
+   "genre": [
+    "Ragtime, jazz, and more"
+   ],
+   "media_size": "10-in.",
+   "profile": "jukebox",
+   "recording_catalog_number": "19379",
+   "recording_date": "1924-06-09",
+   "recording_label": "Victor",
+   "recording_matrix_number": "PB-2 (Matrix ID)",
+   "recording_repository": "Source of original recording: Department of Special Collections, Davidson Library, University of California, Santa Barbara.",
+   "recording_take_id": 334221,
+   "recording_take_number": "1",
+   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+   "summary": "Jazz/dance band"
+  },
+  "location": [
+   "california",
+   "los angeles",
+   "united states"
+  ],
+  "locations": [
+   {
+    "california": "https://www.loc.gov/search/?fa=location:california&fo=json"
+   },
+   {
+    "los angeles": "https://www.loc.gov/search/?fa=location:los+angeles&fo=json"
+   },
+   {
+    "united states": "https://www.loc.gov/search/?fa=location:united+states&fo=json"
+   }
+  ],
+  "media_size": "10-in.",
+  "mime_type": [
+   "audio/mpeg",
+   "audio/wav",
+   "image/jpeg"
+  ],
+  "online_format": [
+   "audio",
+   "image"
+  ],
+  "original_format": [
+   "sound recording"
+  ],
+  "other_formats": [],
+  "other_title": [
+   "Fox trot",
+   "Las judias"
+  ],
+  "partof": [
+   {
+    "count": 10024,
+    "title": "department of special collections, davidson library, university of california, santa barbara",
+    "url": "https://www.loc.gov/search/?fa=partof:department+of+special+collections,+davidson+library,+university+of+california,+santa+barbara&fo=json"
+   },
+   {
+    "count": 20273,
+    "title": "national jukebox",
+    "url": "https://www.loc.gov/collections/national-jukebox/?fo=json"
+   },
+   {
+    "count": 20496,
+    "title": "recorded sound research center",
+    "url": "https://www.loc.gov/search/?fa=partof:recorded+sound+research+center&fo=json"
+   }
+  ],
+  "partof_repository": [
+   "department of special collections, davidson library, university of california, santa barbara"
+  ],
+  "profile": "jukebox",
+  "recording_catalog_number": "19379",
+  "recording_date": "1924-06-09",
+  "recording_label": "Victor",
+  "recording_matrix_number": "PB-2 (Matrix ID)",
+  "recording_repository": "Source of original recording: Department of Special Collections, Davidson Library, University of California, Santa Barbara.",
+  "recording_take_id": 334221,
+  "recording_take_number": "1",
+  "resources": [
+   {
+    "files": 1,
+    "media": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19379_01_pb2_01:ucsb_victor_19379_01_pb2_01/full/full/0/full/default.mp3",
+    "url": "https://www.loc.gov/resource/jukebox-334221.0"
+   },
+   {
+    "files": 1,
+    "image": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19379_01_pb2_01:ucsb_victor_19379_01_pb2_01/full/pct:100/0/default.jpg",
+    "mimetype": "image/jpeg",
+    "url": "https://www.loc.gov/resource/jukebox-334221.1"
+   }
+  ],
+  "rights": [
+   "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
+  ],
+  "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+  "score": 15.335333,
+  "shard": "01",
+  "shelf_id": "Victor 19379",
+  "site": [
+   "nationaljukebox"
+  ],
+  "source_modified": "2000-01-01T12:00:00Z",
+  "subject": [
+   "instrumental",
+   "ragtime, jazz, and more",
+   "victor"
+  ],
+  "subject_category": [
+   "instrumental"
+  ],
+  "subject_genre": [
+   "ragtime, jazz, and more"
+  ],
+  "subject_label": [
+   "victor"
+  ],
+  "subjects": [
+   {
+    "instrumental": "https://www.loc.gov/search/?fa=subject:instrumental&fo=json"
+   },
+   {
+    "ragtime, jazz, and more": "https://www.loc.gov/search/?fa=subject:ragtime,+jazz,+and+more&fo=json"
+   },
+   {
+    "victor": "https://www.loc.gov/search/?fa=subject:victor&fo=json"
+   }
+  ],
+  "subjects_category": [
+   {
+    "instrumental": "https://www.loc.gov/collections/national-jukebox/?fa=subject_category:instrumental&fo=json"
+   }
+  ],
+  "subjects_genre": [
+   {
+    "ragtime, jazz, and more": "https://www.loc.gov/collections/national-jukebox/?fa=subject_genre:ragtime,+jazz,+and+more&fo=json"
+   }
+  ],
+  "subjects_label": [
+   {
+    "victor": "https://www.loc.gov/collections/national-jukebox/?fa=subject_label:victor&fo=json"
+   }
+  ],
+  "summary": "Jazz/dance band",
+  "timestamp": "2026-10-05T14:14:19.247Z",
+  "title": "String beans",
+  "type": [
+   "sound recording-musical"
+  ],
+  "url": "https://www.loc.gov/item/jukebox-334221/"
+ },
+ "more_like_this": [
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/7225",
+    "http://www.loc.gov/item/jukebox-334261/",
+    "http://www.loc.gov/resource/jukebox-334261.0/",
+    "http://www.loc.gov/resource/jukebox-334261.1/",
+    "http://www.loc.gov/resource/jukebox-334261.0",
+    "http://www.loc.gov/resource/jukebox-334261.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "rose, vincent",
+    "montmartre orchestra",
+    "owens, harry",
+    "johnson, theron e. \"buster\"",
+    "burns, buddy"
+   ],
+   "date": "1924-06-11",
+   "dates": [
+    "1924-06-11"
+   ],
+   "description": [
+    "Victor 19398. Matrix/Take: PB-9/2."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T03:30:42.670Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-334261/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19398_01_pb9_02:ucsb_victor_19398_01_pb9_02/full/pct:50/0/default.jpg#h=394&w=396",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19398_01_pb9_02:ucsb_victor_19398_01_pb9_02/full/pct:100/0/default.jpg#h=789&w=793"
+   ],
+   "index": 1,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "california",
+    "los angeles",
+    "united states"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Fox trot"
+   ],
+   "partof": [
+    "national jukebox",
+    "department of special collections, davidson library, university of california, santa barbara",
+    "recorded sound research center"
+   ],
+   "score": 52.1739,
+   "shelf_id": "Victor 19398",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "ragtime, jazz, and more",
+    "instrumental with vocal refrain",
+    "victor"
+   ],
+   "timestamp": "2026-10-05T14:14:19.247Z",
+   "title": "Helen gone",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-334261/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/7226",
+    "http://www.loc.gov/item/jukebox-334270/",
+    "http://www.loc.gov/resource/jukebox-334270.0/",
+    "http://www.loc.gov/resource/jukebox-334270.1/",
+    "http://www.loc.gov/resource/jukebox-334270.0",
+    "http://www.loc.gov/resource/jukebox-334270.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "johnstone, tom",
+    "rose, vincent",
+    "montmartre orchestra"
+   ],
+   "date": "1924-06-12",
+   "dates": [
+    "1924-06-12"
+   ],
+   "description": [
+    "Victor 19513. Matrix/Take: PB-15/1."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T03:30:42.670Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-334270/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19513_01_pb15_01:ucsb_victor_19513_01_pb15_01/full/pct:50/0/default.jpg#h=394&w=396",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19513_01_pb15_01:ucsb_victor_19513_01_pb15_01/full/pct:100/0/default.jpg#h=789&w=793"
+   ],
+   "index": 2,
+   "location": [
+    "california",
+    "los angeles",
+    "united states"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Fox trot"
+   ],
+   "partof": [
+    "national jukebox",
+    "department of special collections, davidson library, university of california, santa barbara",
+    "recorded sound research center"
+   ],
+   "score": 48.705086,
+   "shelf_id": "Victor 19513",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "instrumental",
+    "ragtime, jazz, and more",
+    "victor"
+   ],
+   "timestamp": "2026-10-05T14:14:19.247Z",
+   "title": "Montmartre",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-334270/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/7221",
+    "http://www.loc.gov/item/jukebox-334233/",
+    "http://www.loc.gov/resource/jukebox-334233.0/",
+    "http://www.loc.gov/resource/jukebox-334233.1/",
+    "http://www.loc.gov/resource/jukebox-334233.0",
+    "http://www.loc.gov/resource/jukebox-334233.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "rose, vincent",
+    "montmartre orchestra"
+   ],
+   "date": "1924-06-09",
+   "dates": [
+    "1924-06-09"
+   ],
+   "description": [
+    "Victor 19416. Matrix/Take: PB-4/4."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T03:30:42.670Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-334233/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19416_01_pb4_04:ucsb_victor_19416_01_pb4_04/full/pct:50/0/default.jpg#h=394&w=398",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19416_01_pb4_04:ucsb_victor_19416_01_pb4_04/full/pct:100/0/default.jpg#h=789&w=796"
+   ],
+   "index": 3,
+   "location": [
+    "california",
+    "los angeles",
+    "united states"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Waltz",
+    "Recuerdos de una noche de luna"
+   ],
+   "partof": [
+    "national jukebox",
+    "department of special collections, davidson library, university of california, santa barbara",
+    "recorded sound research center"
+   ],
+   "score": 42.29718,
+   "shelf_id": "Victor 19416",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "instrumental",
+    "popular music",
+    "victor"
+   ],
+   "timestamp": "2026-10-05T14:14:19.247Z",
+   "title": "Moonlight memories",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-334233/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/9819",
+    "http://www.loc.gov/item/jukebox-69780/",
+    "http://www.loc.gov/resource/jukebox-69780.0/",
+    "http://www.loc.gov/resource/jukebox-69780.1/",
+    "http://www.loc.gov/resource/jukebox-69780.0",
+    "http://www.loc.gov/resource/jukebox-69780.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "phil spitalny orchestra",
+    "spitalny, phil",
+    "rose, vincent"
+   ],
+   "date": "1924-03-25",
+   "dates": [
+    "1924-03-25"
+   ],
+   "description": [
+    "Victor 19307. Matrix/Take: B-29806/2."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-04T21:43:10.284Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-69780/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19307_01_b29806_02:ucsb_victor_19307_01_b29806_02/full/pct:50/0/default.jpg#h=421&w=396",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19307_01_b29806_02:ucsb_victor_19307_01_b29806_02/full/pct:100/0/default.jpg#h=843&w=793"
+   ],
+   "index": 4,
+   "location": [
+    "ohio",
+    "cleveland",
+    "united states"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "I am worried over you",
+    "Fox trot",
+    "Estoy inquieto por ti"
+   ],
+   "partof": [
+    "national jukebox",
+    "department of special collections, davidson library, university of california, santa barbara",
+    "recorded sound research center"
+   ],
+   "score": 34.638844,
+   "shelf_id": "Victor 19307",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "instrumental",
+    "ragtime, jazz, and more",
+    "victor"
+   ],
+   "timestamp": "2026-10-05T14:43:26.931Z",
+   "title": "Worried",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-69780/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/9912",
+    "http://www.loc.gov/item/jukebox-70309/",
+    "http://www.loc.gov/resource/jukebox-70309.0/",
+    "http://www.loc.gov/resource/jukebox-70309.1/",
+    "http://www.loc.gov/resource/jukebox-70309.0",
+    "http://www.loc.gov/resource/jukebox-70309.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "waring, fred",
+    "pennsylvanians",
+    "shilkret, nathaniel",
+    "rose, vincent"
+   ],
+   "date": "1924-06-02",
+   "dates": [
+    "1924-06-02"
+   ],
+   "description": [
+    "Victor 19367. Matrix/Take: B-30151/4."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-04T21:45:36.111Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-70309/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19367_01_b30151_04:ucsb_victor_19367_01_b30151_04/full/pct:50/0/default.jpg#h=394&w=397",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19367_01_b30151_04:ucsb_victor_19367_01_b30151_04/full/pct:100/0/default.jpg#h=789&w=794"
+   ],
+   "index": 5,
+   "location": [
+    "new york",
+    "united states"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Fox trot"
+   ],
+   "partof": [
+    "national jukebox",
+    "department of special collections, davidson library, university of california, santa barbara",
+    "recorded sound research center"
+   ],
+   "score": 34.638844,
+   "shelf_id": "Victor 19367",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "instrumental",
+    "ragtime, jazz, and more",
+    "victor"
+   ],
+   "timestamp": "2026-10-05T14:43:49.164Z",
+   "title": "Maytime",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-70309/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/9614",
+    "http://www.loc.gov/item/jukebox-68570/",
+    "http://www.loc.gov/resource/jukebox-68570.0/",
+    "http://www.loc.gov/resource/jukebox-68570.1/",
+    "http://www.loc.gov/resource/jukebox-68570.0",
+    "http://www.loc.gov/resource/jukebox-68570.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "rose, vincent",
+    "whiteman, paul",
+    "paul whiteman orchestra"
+   ],
+   "date": "1923-11-22",
+   "dates": [
+    "1923-11-22"
+   ],
+   "description": [
+    "Victor 19211. Matrix/Take: B-28978/4."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-04T21:34:57.172Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-68570/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19211_01_b28978_04:ucsb_victor_19211_01_b28978_04/full/pct:50/0/default.jpg#h=394&w=397",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19211_01_b28978_04:ucsb_victor_19211_01_b28978_04/full/pct:100/0/default.jpg#h=789&w=794"
+   ],
+   "index": 6,
+   "location": [
+    "new york",
+    "united states"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Fox trot"
+   ],
+   "partof": [
+    "national jukebox",
+    "department of special collections, davidson library, university of california, santa barbara",
+    "recorded sound research center"
+   ],
+   "score": 34.638844,
+   "shelf_id": "Victor 19211",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "instrumental",
+    "ragtime, jazz, and more",
+    "victor"
+   ],
+   "timestamp": "2026-10-05T14:42:01.295Z",
+   "title": "Linger awhile",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-68570/"
+  }
+ ],
+ "notice": {
+  "info": "<strong>COLUMBUS DAY HOLIDAY:</strong> On Monday, October 12, 2026, The Jefferson Building Great Hall and exhibitions will be open from 10 a.m. - 5 p.m. to guests with timed-entry passes. The Main Reading Room will be open to visitors, no research or collections services available. All other reading rooms, the Madison and Adams Buildings will be CLOSED to the public. Regularly scheduled access resumes on Tuesday, October 13. \n",
+  "status": "production"
+ },
+ "options": {
+  "access_group": [
+   ""
+  ],
+  "access_group_raw": "",
+  "all": null,
+  "api_version": "1",
+  "app_context": null,
+  "application_shim": null,
+  "application_version": "$Revision$",
+  "attribute": null,
+  "attribute!": null,
+  "attribute_map": null,
+  "cache_tags": [
+   "nationaljukebox",
+   "national-jukebox",
+   "ndnp/lu",
+   "louisiana-state-university-baton-rouge-la-awardee"
+  ],
+  "callback": null,
+  "clip": null,
+  "clip_image_width": null,
+  "clip_rotation": null,
+  "content_filter": null,
+  "content_replacement": "",
+  "count": null,
+  "dates": null,
+  "default_count": 25,
+  "delimiter": null,
+  "digital_id": null,
+  "display_level": null,
+  "distance": null,
+  "downloadOption": null,
+  "duration": 0.7816224098205566,
+  "embed": [],
+  "embed!": [],
+  "error_response_status": null,
+  "excludeTerms": null,
+  "facetLimits": "",
+  "facetPrefix": null,
+  "facet_count": null,
+  "facet_style": null,
+  "field": null,
+  "form_facets": [
+   {
+    "field": "subject_label",
+    "select": "multiple"
+   },
+   {
+    "field": "subject_category",
+    "select": "multiple"
+   },
+   {
+    "field": "language",
+    "select": "multiple"
+   }
+  ],
+  "format": "json",
+  "host": "www.loc.gov",
+  "ical": false,
+  "id": "jukebox-334221/",
+  "iiif": false,
+  "include_facets": [
+   {
+    "field": "original-format"
+   },
+   {
+    "field": "partof_repository",
+    "label": "Repository"
+   },
+   {
+    "field": "subject_label",
+    "label": "Label"
+   },
+   {
+    "field": "dates"
+   },
+   {
+    "field": "subject_genre",
+    "label": "Genre"
+   },
+   {
+    "closed": true,
+    "field": "subject_target_audience",
+    "label": "Target Audience"
+   },
+   {
+    "closed": true,
+    "field": "subject_category",
+    "label": "Category"
+   },
+   {
+    "closed": true,
+    "field": "location"
+   },
+   {
+    "closed": true,
+    "field": "contributor"
+   },
+   {
+    "closed": true,
+    "field": "contributor_vocalist",
+    "label": "Vocalist"
+   },
+   {
+    "closed": true,
+    "field": "contributor_composer",
+    "label": "Composer"
+   },
+   {
+    "closed": true,
+    "field": "contributor_lyricist",
+    "label": "Lyricist"
+   },
+   {
+    "closed": true,
+    "field": "contributor_author",
+    "label": "Author"
+   },
+   {
+    "closed": true,
+    "field": "contributor_performer",
+    "label": "Performer"
+   },
+   {
+    "closed": true,
+    "field": "contributor_musical_group",
+    "label": "Musical Group"
+   },
+   {
+    "closed": true,
+    "field": "subject"
+   },
+   {
+    "closed": true,
+    "field": "language"
+   },
+   {
+    "field": "access-restricted"
+   }
+  ],
+  "index": null,
+  "inputEncoding": "UTF-8",
+  "item": null,
+  "items": null,
+  "keys": null,
+  "language": null,
+  "latlong": null,
+  "method": "GET",
+  "newSearch": null,
+  "new_clip_url": false,
+  "onsite": false,
+  "operator": null,
+  "outputEncoding": "UTF-8",
+  "page_campaigns": [],
+  "path_info": "/item/jukebox-334221/",
+  "port": "443",
+  "proxypath": null,
+  "query_string": "fo=json",
+  "redirect_proxy": false,
+  "redirect_to_item": null,
+  "referer": "",
+  "region": "",
+  "release_id": 123456789,
+  "request_host": "www.loc.gov",
+  "request_params": {
+   "fo": [
+    "json"
+   ]
+  },
+  "request_url": "https://www.loc.gov/item/jukebox-334221/?fo=json",
+  "resource": "",
+  "resource_sequence": null,
+  "scheme": "https",
+  "searchIn": null,
+  "searchTerms": "",
+  "segments": null,
+  "shards": [
+   "01"
+  ],
+  "site_date_range": "1900-01-01/1925-12-31",
+  "site_defaults": [],
+  "site_id": null,
+  "site_type": null,
+  "solrQuery": "",
+  "sortBy": null,
+  "sortOrder": null,
+  "startPage": null,
+  "style": null,
+  "suggested": null,
+  "target": null,
+  "template": "layouts/item/layout",
+  "timestamp": 1791463834.9224172,
+  "tz_aware": null,
+  "unionFacets": "",
+  "webcast_permalink": null
+ },
+ "related_items": [
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/sn93062881/1922-06-03/ed-1/",
+    "http://www.loc.gov/resource/sn93062881/1922-06-03/ed-1/"
+   ],
+   "batch": [
+    "lu_charizard_ver01"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "louisiana state university; baton rouge, la"
+   ],
+   "date": "1922-06-03",
+   "dates": [
+    "1922-06-03"
+   ],
+   "description": [
+    "Llano, Calif."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2020-10-12T13:29:47.554Z",
+   "group": [
+    "ndnp/lu",
+    "louisiana-state-university-baton-rouge-la-awardee"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/sn93062881/1922-06-03/ed-1/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_charizard_ver01:data:sn93062881:00295876256:1922060301:0092/full/pct:6.25/0/default.jpg#h=409&w=299",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_charizard_ver01:data:sn93062881:00295876256:1922060301:0092/full/pct:12.5/0/default.jpg#h=818&w=599"
+   ],
+   "index": 1,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "california",
+    "leesville",
+    "vernon parish",
+    "vernon",
+    "llano",
+    "los angeles",
+    "louisiana",
+    "new llano",
+    "united states"
+   ],
+   "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg"
+   ],
+   "number": [
+    "1",
+    "sn93062881",
+    "00295876256"
+   ],
+   "numeric_shelf_id": 192206031,
+   "online_format": [
+    "image",
+    "pdf",
+    "online text"
+   ],
+   "original_format": [
+    "newspaper"
+   ],
+   "partof": [
+    "the llano colonist (llano, calif.) 191?-1937",
+    "chronicling america",
+    "serial and government publications division"
+   ],
+   "publication_frequency": [
+    "weekly"
+   ],
+   "score": 11.493085,
+   "shelf_id": "sn93062881, 1922-06-03, Edition 1",
+   "site": [
+    "chroniclingamerica"
+   ],
+   "subject": [
+    "california",
+    "leesville (la.)",
+    "collective settlements",
+    "leesville",
+    "vernon parish (la.)",
+    "new llano",
+    "vernon parish",
+    "cooperative societies",
+    "vernon",
+    "newspapers",
+    "llano colony (secular community)",
+    "llano",
+    "new llano (la.)",
+    "los angeles",
+    "louisiana",
+    "llano (calif.)",
+    "united states"
+   ],
+   "timestamp": "2023-05-10T21:19:03.177Z",
+   "title": "The Llano colonist (Llano, Calif.), June 3, 1922",
+   "type": [
+    "issue"
+   ],
+   "url": "https://www.loc.gov/item/sn93062881/1922-06-03/ed-1/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/sn93062881/1922-06-10/ed-1/",
+    "http://www.loc.gov/resource/sn93062881/1922-06-10/ed-1/"
+   ],
+   "batch": [
+    "lu_charizard_ver01"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "louisiana state university; baton rouge, la"
+   ],
+   "date": "1922-06-10",
+   "dates": [
+    "1922-06-10"
+   ],
+   "description": [
+    "Llano, Calif."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2020-10-12T13:29:47.554Z",
+   "group": [
+    "ndnp/lu",
+    "louisiana-state-university-baton-rouge-la-awardee"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/sn93062881/1922-06-10/ed-1/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_charizard_ver01:data:sn93062881:00295876256:1922061001:0100/full/pct:6.25/0/default.jpg#h=410&w=297",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_charizard_ver01:data:sn93062881:00295876256:1922061001:0100/full/pct:12.5/0/default.jpg#h=821&w=595"
+   ],
+   "index": 2,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "california",
+    "leesville",
+    "vernon parish",
+    "vernon",
+    "llano",
+    "los angeles",
+    "louisiana",
+    "new llano",
+    "united states"
+   ],
+   "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg"
+   ],
+   "number": [
+    "1",
+    "sn93062881",
+    "00295876256"
+   ],
+   "numeric_shelf_id": 192206101,
+   "online_format": [
+    "image",
+    "pdf",
+    "online text"
+   ],
+   "original_format": [
+    "newspaper"
+   ],
+   "partof": [
+    "the llano colonist (llano, calif.) 191?-1937",
+    "chronicling america",
+    "serial and government publications division"
+   ],
+   "publication_frequency": [
+    "weekly"
+   ],
+   "score": 11.493085,
+   "shelf_id": "sn93062881, 1922-06-10, Edition 1",
+   "site": [
+    "chroniclingamerica"
+   ],
+   "subject": [
+    "california",
+    "leesville (la.)",
+    "collective settlements",
+    "leesville",
+    "vernon parish (la.)",
+    "new llano",
+    "vernon parish",
+    "cooperative societies",
+    "vernon",
+    "newspapers",
+    "llano colony (secular community)",
+    "llano",
+    "new llano (la.)",
+    "los angeles",
+    "louisiana",
+    "llano (calif.)",
+    "united states"
+   ],
+   "timestamp": "2023-05-10T21:19:03.177Z",
+   "title": "The Llano colonist (Llano, Calif.), June 10, 1922",
+   "type": [
+    "issue"
+   ],
+   "url": "https://www.loc.gov/item/sn93062881/1922-06-10/ed-1/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/sn93062881/1922-05-27/ed-1/",
+    "http://www.loc.gov/resource/sn93062881/1922-05-27/ed-1/"
+   ],
+   "batch": [
+    "lu_charizard_ver01"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "louisiana state university; baton rouge, la"
+   ],
+   "date": "1922-05-27",
+   "dates": [
+    "1922-05-27"
+   ],
+   "description": [
+    "Llano, Calif."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2020-10-12T13:29:47.554Z",
+   "group": [
+    "ndnp/lu",
+    "louisiana-state-university-baton-rouge-la-awardee"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/sn93062881/1922-05-27/ed-1/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_charizard_ver01:data:sn93062881:00295876256:1922052701:0084/full/pct:6.25/0/default.jpg#h=394&w=285",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_charizard_ver01:data:sn93062881:00295876256:1922052701:0084/full/pct:12.5/0/default.jpg#h=789&w=571"
+   ],
+   "index": 3,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "california",
+    "leesville",
+    "vernon parish",
+    "vernon",
+    "llano",
+    "los angeles",
+    "louisiana",
+    "new llano",
+    "united states"
+   ],
+   "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg"
+   ],
+   "number": [
+    "1",
+    "sn93062881",
+    "00295876256"
+   ],
+   "numeric_shelf_id": 192205271,
+   "online_format": [
+    "image",
+    "pdf",
+    "online text"
+   ],
+   "original_format": [
+    "newspaper"
+   ],
+   "partof": [
+    "the llano colonist (llano, calif.) 191?-1937",
+    "chronicling america",
+    "serial and government publications division"
+   ],
+   "publication_frequency": [
+    "weekly"
+   ],
+   "score": 11.493085,
+   "shelf_id": "sn93062881, 1922-05-27, Edition 1",
+   "site": [
+    "chroniclingamerica"
+   ],
+   "subject": [
+    "california",
+    "leesville (la.)",
+    "collective settlements",
+    "leesville",
+    "vernon parish (la.)",
+    "new llano",
+    "vernon parish",
+    "cooperative societies",
+    "vernon",
+    "newspapers",
+    "llano colony (secular community)",
+    "llano",
+    "new llano (la.)",
+    "los angeles",
+    "louisiana",
+    "llano (calif.)",
+    "united states"
+   ],
+   "timestamp": "2023-05-10T21:19:03.177Z",
+   "title": "The Llano colonist (Llano, Calif.), May 27, 1922",
+   "type": [
+    "issue"
+   ],
+   "url": "https://www.loc.gov/item/sn93062881/1922-05-27/ed-1/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/sn93062881/1922-07-15/ed-1/",
+    "http://www.loc.gov/resource/sn93062881/1922-07-15/ed-1/"
+   ],
+   "batch": [
+    "lu_charizard_ver01"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "louisiana state university; baton rouge, la"
+   ],
+   "date": "1922-07-15",
+   "dates": [
+    "1922-07-15"
+   ],
+   "description": [
+    "Llano, Calif."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2020-10-12T13:29:47.554Z",
+   "group": [
+    "ndnp/lu",
+    "louisiana-state-university-baton-rouge-la-awardee"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/sn93062881/1922-07-15/ed-1/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_charizard_ver01:data:sn93062881:00295876256:1922071501:0132/full/pct:6.25/0/default.jpg#h=407&w=296",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_charizard_ver01:data:sn93062881:00295876256:1922071501:0132/full/pct:12.5/0/default.jpg#h=815&w=593"
+   ],
+   "index": 4,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "california",
+    "leesville",
+    "vernon parish",
+    "vernon",
+    "llano",
+    "los angeles",
+    "louisiana",
+    "new llano",
+    "united states"
+   ],
+   "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg"
+   ],
+   "number": [
+    "1",
+    "sn93062881",
+    "00295876256"
+   ],
+   "numeric_shelf_id": 192207151,
+   "online_format": [
+    "image",
+    "pdf",
+    "online text"
+   ],
+   "original_format": [
+    "newspaper"
+   ],
+   "partof": [
+    "the llano colonist (llano, calif.) 191?-1937",
+    "chronicling america",
+    "serial and government publications division"
+   ],
+   "publication_frequency": [
+    "weekly"
+   ],
+   "score": 11.493085,
+   "shelf_id": "sn93062881, 1922-07-15, Edition 1",
+   "site": [
+    "chroniclingamerica"
+   ],
+   "subject": [
+    "california",
+    "leesville (la.)",
+    "collective settlements",
+    "leesville",
+    "vernon parish (la.)",
+    "new llano",
+    "vernon parish",
+    "cooperative societies",
+    "vernon",
+    "newspapers",
+    "llano colony (secular community)",
+    "llano",
+    "new llano (la.)",
+    "los angeles",
+    "louisiana",
+    "llano (calif.)",
+    "united states"
+   ],
+   "timestamp": "2023-05-10T21:19:03.177Z",
+   "title": "The Llano colonist (Llano, Calif.), July 15, 1922",
+   "type": [
+    "issue"
+   ],
+   "url": "https://www.loc.gov/item/sn93062881/1922-07-15/ed-1/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/sn93062881/1922-07-22/ed-1/",
+    "http://www.loc.gov/resource/sn93062881/1922-07-22/ed-1/"
+   ],
+   "batch": [
+    "lu_charizard_ver01"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "louisiana state university; baton rouge, la"
+   ],
+   "date": "1922-07-22",
+   "dates": [
+    "1922-07-22"
+   ],
+   "description": [
+    "Llano, Calif."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2020-10-12T13:29:47.554Z",
+   "group": [
+    "ndnp/lu",
+    "louisiana-state-university-baton-rouge-la-awardee"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/sn93062881/1922-07-22/ed-1/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_charizard_ver01:data:sn93062881:00295876256:1922072201:0140/full/pct:6.25/0/default.jpg#h=410&w=297",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_charizard_ver01:data:sn93062881:00295876256:1922072201:0140/full/pct:12.5/0/default.jpg#h=821&w=595"
+   ],
+   "index": 5,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "california",
+    "leesville",
+    "vernon parish",
+    "vernon",
+    "llano",
+    "los angeles",
+    "louisiana",
+    "new llano",
+    "united states"
+   ],
+   "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg"
+   ],
+   "number": [
+    "1",
+    "sn93062881",
+    "00295876256"
+   ],
+   "numeric_shelf_id": 192207221,
+   "online_format": [
+    "image",
+    "pdf",
+    "online text"
+   ],
+   "original_format": [
+    "newspaper"
+   ],
+   "partof": [
+    "the llano colonist (llano, calif.) 191?-1937",
+    "chronicling america",
+    "serial and government publications division"
+   ],
+   "publication_frequency": [
+    "weekly"
+   ],
+   "score": 11.493085,
+   "shelf_id": "sn93062881, 1922-07-22, Edition 1",
+   "site": [
+    "chroniclingamerica"
+   ],
+   "subject": [
+    "california",
+    "leesville (la.)",
+    "collective settlements",
+    "leesville",
+    "vernon parish (la.)",
+    "new llano",
+    "vernon parish",
+    "cooperative societies",
+    "vernon",
+    "newspapers",
+    "llano colony (secular community)",
+    "llano",
+    "new llano (la.)",
+    "los angeles",
+    "louisiana",
+    "llano (calif.)",
+    "united states"
+   ],
+   "timestamp": "2023-05-10T21:19:03.177Z",
+   "title": "The Llano colonist (Llano, Calif.), July 22, 1922",
+   "type": [
+    "issue"
+   ],
+   "url": "https://www.loc.gov/item/sn93062881/1922-07-22/ed-1/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/sn93062881/1922-07-08/ed-1/",
+    "http://www.loc.gov/resource/sn93062881/1922-07-08/ed-1/"
+   ],
+   "batch": [
+    "lu_charizard_ver01"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "louisiana state university; baton rouge, la"
+   ],
+   "date": "1922-07-08",
+   "dates": [
+    "1922-07-08"
+   ],
+   "description": [
+    "Llano, Calif."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2020-10-12T13:29:47.554Z",
+   "group": [
+    "ndnp/lu",
+    "louisiana-state-university-baton-rouge-la-awardee"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/sn93062881/1922-07-08/ed-1/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_charizard_ver01:data:sn93062881:00295876256:1922070801:0124/full/pct:6.25/0/default.jpg#h=408&w=298",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_charizard_ver01:data:sn93062881:00295876256:1922070801:0124/full/pct:12.5/0/default.jpg#h=817&w=597"
+   ],
+   "index": 6,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "california",
+    "leesville",
+    "vernon parish",
+    "vernon",
+    "llano",
+    "los angeles",
+    "louisiana",
+    "new llano",
+    "united states"
+   ],
+   "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg"
+   ],
+   "number": [
+    "1",
+    "sn93062881",
+    "00295876256"
+   ],
+   "numeric_shelf_id": 192207081,
+   "online_format": [
+    "image",
+    "pdf",
+    "online text"
+   ],
+   "original_format": [
+    "newspaper"
+   ],
+   "partof": [
+    "the llano colonist (llano, calif.) 191?-1937",
+    "chronicling america",
+    "serial and government publications division"
+   ],
+   "publication_frequency": [
+    "weekly"
+   ],
+   "score": 11.493085,
+   "shelf_id": "sn93062881, 1922-07-08, Edition 1",
+   "site": [
+    "chroniclingamerica"
+   ],
+   "subject": [
+    "california",
+    "leesville (la.)",
+    "collective settlements",
+    "leesville",
+    "vernon parish (la.)",
+    "new llano",
+    "vernon parish",
+    "cooperative societies",
+    "vernon",
+    "newspapers",
+    "llano colony (secular community)",
+    "llano",
+    "new llano (la.)",
+    "los angeles",
+    "louisiana",
+    "llano (calif.)",
+    "united states"
+   ],
+   "timestamp": "2023-05-10T21:19:03.177Z",
+   "title": "The Llano colonist (Llano, Calif.), July 8, 1922",
+   "type": [
+    "issue"
+   ],
+   "url": "https://www.loc.gov/item/sn93062881/1922-07-08/ed-1/"
+  }
+ ],
+ "resources": [
+  {
+   "audio": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19379_01_pb2_01:ucsb_victor_19379_01_pb2_01/full/full/0/full/default.mp3",
+   "files": [
+    [
+     {
+      "aspectRation": "4:3",
+      "autoPlay": false,
+      "canDownload": true,
+      "derivatives": [
+       {
+        "derivativeUrl": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/ucsb_victor_19379_01_pb2_01/ucsb_victor_19379_01_pb2_01.mp3"
+       }
+      ],
+      "detailUrl": "https://www.loc.gov/item/jukebox-334221",
+      "download": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19379_01_pb2_01:ucsb_victor_19379_01_pb2_01/full/full/0/full/default.mp3",
+      "duration": 199.0,
+      "filename": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/ucsb_victor_19379_01_pb2_01/ucsb_victor_19379_01_pb2_01.mp3",
+      "mediaType": "A",
+      "metadata": [
+       "String beans",
+       "Jazz/dance band"
+      ],
+      "mimetype": "audio/mpeg",
+      "poster": null,
+      "rights_restricted": true,
+      "shortName": "String beans",
+      "thumbnail_url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19379_01_pb2_01:ucsb_victor_19379_01_pb2_01/full/pct:50/0/default.jpg"
+     },
+     {
+      "height": null,
+      "levels": 1,
+      "mimetype": "audio/wav",
+      "size": 35158476,
+      "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/ucsb_victor_19379_01_pb2_01/ucsb_victor_19379_01_pb2_01.wav",
+      "width": null
+     }
+    ]
+   ],
+   "url": "https://www.loc.gov/resource/jukebox-334221.0"
+  },
+  {
+   "files": [
+    [
+     {
+      "height": 394,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19379_01_pb2_01:ucsb_victor_19379_01_pb2_01/full/pct:50/0/default.jpg",
+      "width": 397
+     },
+     {
+      "height": 789,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19379_01_pb2_01:ucsb_victor_19379_01_pb2_01/full/pct:100/0/default.jpg",
+      "width": 795
+     }
+    ]
+   ],
+   "image": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19379_01_pb2_01:ucsb_victor_19379_01_pb2_01/full/pct:100/0/default.jpg",
+   "mimetype": "image/jpeg",
+   "url": "https://www.loc.gov/resource/jukebox-334221.1"
+  }
+ ],
+ "timestamp": 1791463835704
+}

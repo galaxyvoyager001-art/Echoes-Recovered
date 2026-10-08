@@ -208,7 +208,7 @@
    "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
   ],
   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
-  "score": 15.333351,
+  "score": 15.335276,
   "shard": "01",
   "shelf_id": "Victor 45008",
   "site": [
@@ -216,8 +216,8 @@
   ],
   "source_modified": "2000-01-01T12:00:00Z",
   "subject": [
-   "vocal",
    "victor",
+   "vocal",
    "opera"
   ],
   "subject_category": [
@@ -328,18 +328,18 @@
     "Manon. Adieu, notre petite table"
    ],
    "partof": [
+    "recorded sound research center",
     "national jukebox",
-    "recorded sound section, library of congress",
-    "recorded sound research center"
+    "recorded sound section, library of congress"
    ],
-   "score": 54.52057,
+   "score": 54.53483,
    "shelf_id": "Victor 45008",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "vocal",
     "victor",
+    "vocal",
     "opera"
    ],
    "timestamp": "2026-10-05T14:12:49.807Z",
@@ -361,10 +361,10 @@
    ],
    "campaigns": [],
    "contributor": [
-    "beyle, léon",
-    "massenet, jules",
+    "darby, william sinkler",
     "korsoff, lucette",
-    "darby, william sinkler"
+    "beyle, léon",
+    "massenet, jules"
    ],
    "date": "1908-12-31",
    "dates": [
@@ -413,18 +413,18 @@
     "Manon. J'ai marque l'heure du depart"
    ],
    "partof": [
+    "recorded sound research center",
     "national jukebox",
-    "recorded sound section, library of congress",
-    "recorded sound research center"
+    "recorded sound section, library of congress"
    ],
-   "score": 54.52057,
+   "score": 54.53483,
    "shelf_id": "Victor 45009",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "vocal",
     "victor",
+    "vocal",
     "opera"
    ],
    "timestamp": "2026-10-05T14:12:49.807Z",
@@ -447,9 +447,9 @@
    "campaigns": [],
    "contributor": [
     "darby, william sinkler",
+    "korsoff, lucette",
     "beyle, léon",
-    "massenet, jules",
-    "korsoff, lucette"
+    "massenet, jules"
    ],
    "date": "1908-12-31",
    "dates": [
@@ -498,18 +498,18 @@
     "Manon. J'ai marque l'heure du depart"
    ],
    "partof": [
+    "recorded sound research center",
     "national jukebox",
-    "recorded sound section, library of congress",
-    "recorded sound research center"
+    "recorded sound section, library of congress"
    ],
-   "score": 54.52057,
+   "score": 54.53483,
    "shelf_id": "Victor 16551",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "vocal",
     "victor",
+    "vocal",
     "opera"
    ],
    "timestamp": "2026-10-05T14:12:49.807Z",
@@ -532,9 +532,9 @@
    "campaigns": [],
    "contributor": [
     "darby, william sinkler",
+    "dufranne, hector",
     "beyle, léon",
-    "bizet, georges",
-    "dufranne, hector"
+    "bizet, georges"
    ],
    "date": "1908-12-31",
    "dates": [
@@ -583,20 +583,20 @@
     "Carmen"
    ],
    "partof": [
+    "recorded sound research center",
     "national jukebox",
-    "recorded sound section, library of congress",
-    "recorded sound research center"
+    "recorded sound section, library of congress"
    ],
-   "score": 47.955418,
+   "score": 47.967094,
    "shelf_id": "Victor 62750",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "vocal",
     "victor",
-    "opera",
-    "french"
+    "vocal",
+    "french",
+    "opera"
    ],
    "timestamp": "2026-10-05T14:11:49.826Z",
    "title": "Celle que vous aimez est ici",
@@ -616,11 +616,11 @@
    ],
    "campaigns": [],
    "contributor": [
-    "massenet, jules",
     "korsoff, lucette",
+    "massenet, jules",
     "walcutt, cleveland",
-    "scheuplein, charles",
-    "beyle, léon"
+    "beyle, léon",
+    "scheuplein, charles"
    ],
    "date": "1906-12-31",
    "dates": [
@@ -669,18 +669,18 @@
     "Manon. On l'appelle Manon"
    ],
    "partof": [
+    "recorded sound research center",
     "national jukebox",
-    "recorded sound section, library of congress",
-    "recorded sound research center"
+    "recorded sound section, library of congress"
    ],
-   "score": 46.646976,
+   "score": 46.65845,
    "shelf_id": "Victor 45009",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "vocal",
     "victor",
+    "vocal",
     "opera"
    ],
    "timestamp": "2026-10-05T14:12:49.807Z",
@@ -702,9 +702,9 @@
    ],
    "campaigns": [],
    "contributor": [
-    "beyle, léon",
-    "scheuplein, charles",
     "rossini, gioacchino",
+    "scheuplein, charles",
+    "beyle, léon",
     "walcutt, cleveland"
    ],
    "date": "1906-12-31",
@@ -755,18 +755,18 @@
     "Guillaume Tell"
    ],
    "partof": [
+    "recorded sound research center",
     "national jukebox",
-    "recorded sound section, library of congress",
-    "recorded sound research center"
+    "recorded sound section, library of congress"
    ],
-   "score": 40.081825,
+   "score": 40.090717,
    "shelf_id": "Victor 45026",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "vocal",
     "victor",
+    "vocal",
     "opera"
    ],
    "timestamp": "2026-10-05T14:12:49.807Z",
@@ -816,7 +816,7 @@
   "display_level": null,
   "distance": null,
   "downloadOption": null,
-  "duration": 3.067990779876709,
+  "duration": 0.44214677810668945,
   "embed": [],
   "embed!": [],
   "error_response_status": null,
@@ -926,6 +926,7 @@
   ],
   "index": null,
   "inputEncoding": "UTF-8",
+  "is_partial": true,
   "item": null,
   "items": null,
   "keys": null,
@@ -975,7 +976,7 @@
   "suggested": null,
   "target": null,
   "template": "layouts/item/layout",
-  "timestamp": 1791375163.9250453,
+  "timestamp": 1791463511.066272,
   "tz_aware": null,
   "unionFacets": "",
   "webcast_permalink": null
@@ -1029,8 +1030,8 @@
    ],
    "number": [
     "2022270747",
-    "1",
-    "00517179644"
+    "00517179644",
+    "1"
    ],
    "numeric_shelf_id": 188010031,
    "online_format": [
@@ -1055,10 +1056,10 @@
     "chroniclingamerica"
    ],
    "subject": [
+    "newspapers",
     "paris (france)",
     "paris",
-    "france",
-    "newspapers"
+    "france"
    ],
    "timestamp": "2026-02-02T15:47:13.511Z",
    "title": "Le journal de la bourse (Paris), October 3, 1880",
@@ -1104,9 +1105,9 @@
     "english"
    ],
    "location": [
-    "united states",
     "france",
-    "paris"
+    "paris",
+    "united states"
    ],
    "mime_type": [
     "image/jp2",
@@ -1128,9 +1129,9 @@
     "newspaper"
    ],
    "partof": [
-    "serial and government publications division",
     "the stars and stripes (paris, france) 1918-1919",
-    "stars and stripes: the american soldiers' newspaper of world war i, 1918-1919"
+    "stars and stripes: the american soldiers' newspaper of world war i, 1918-1919",
+    "serial and government publications division"
    ],
    "publication_frequency": [
     "weekly"
@@ -1142,10 +1143,10 @@
    ],
    "subject": [
     "united states",
-    "france",
     "paris",
-    "world war",
-    "periodicals"
+    "periodicals",
+    "france",
+    "world war"
    ],
    "timestamp": "2022-10-27T11:27:31.241Z",
    "title": "The stars and stripes (Paris, France), April 11, 1919",
@@ -1191,9 +1192,9 @@
     "english"
    ],
    "location": [
-    "united states",
     "france",
-    "paris"
+    "paris",
+    "united states"
    ],
    "mime_type": [
     "image/jp2",
@@ -1215,9 +1216,9 @@
     "newspaper"
    ],
    "partof": [
-    "serial and government publications division",
     "the stars and stripes (paris, france) 1918-1919",
-    "stars and stripes: the american soldiers' newspaper of world war i, 1918-1919"
+    "stars and stripes: the american soldiers' newspaper of world war i, 1918-1919",
+    "serial and government publications division"
    ],
    "publication_frequency": [
     "weekly"
@@ -1229,10 +1230,10 @@
    ],
    "subject": [
     "united states",
-    "france",
     "paris",
-    "world war",
-    "periodicals"
+    "periodicals",
+    "france",
+    "world war"
    ],
    "timestamp": "2022-10-27T11:27:31.241Z",
    "title": "The stars and stripes (Paris, France), March 14, 1919",
@@ -1278,9 +1279,9 @@
     "english"
    ],
    "location": [
-    "united states",
     "france",
-    "paris"
+    "paris",
+    "united states"
    ],
    "mime_type": [
     "image/jp2",
@@ -1302,9 +1303,9 @@
     "newspaper"
    ],
    "partof": [
-    "serial and government publications division",
     "the stars and stripes (paris, france) 1918-1919",
-    "stars and stripes: the american soldiers' newspaper of world war i, 1918-1919"
+    "stars and stripes: the american soldiers' newspaper of world war i, 1918-1919",
+    "serial and government publications division"
    ],
    "publication_frequency": [
     "weekly"
@@ -1316,10 +1317,10 @@
    ],
    "subject": [
     "united states",
-    "france",
     "paris",
-    "world war",
-    "periodicals"
+    "periodicals",
+    "france",
+    "world war"
    ],
    "timestamp": "2022-10-27T11:27:31.241Z",
    "title": "The stars and stripes (Paris, France), April 4, 1919",
@@ -1365,9 +1366,9 @@
     "english"
    ],
    "location": [
-    "united states",
     "france",
-    "paris"
+    "paris",
+    "united states"
    ],
    "mime_type": [
     "image/jp2",
@@ -1389,9 +1390,9 @@
     "newspaper"
    ],
    "partof": [
-    "serial and government publications division",
     "the stars and stripes (paris, france) 1918-1919",
-    "stars and stripes: the american soldiers' newspaper of world war i, 1918-1919"
+    "stars and stripes: the american soldiers' newspaper of world war i, 1918-1919",
+    "serial and government publications division"
    ],
    "publication_frequency": [
     "weekly"
@@ -1403,10 +1404,10 @@
    ],
    "subject": [
     "united states",
-    "france",
     "paris",
-    "world war",
-    "periodicals"
+    "periodicals",
+    "france",
+    "world war"
    ],
    "timestamp": "2022-10-27T11:27:31.241Z",
    "title": "The stars and stripes (Paris, France), March 21, 1919",
@@ -1452,9 +1453,9 @@
     "english"
    ],
    "location": [
-    "united states",
     "france",
-    "paris"
+    "paris",
+    "united states"
    ],
    "mime_type": [
     "image/jp2",
@@ -1476,9 +1477,9 @@
     "newspaper"
    ],
    "partof": [
-    "serial and government publications division",
     "the stars and stripes (paris, france) 1918-1919",
-    "stars and stripes: the american soldiers' newspaper of world war i, 1918-1919"
+    "stars and stripes: the american soldiers' newspaper of world war i, 1918-1919",
+    "serial and government publications division"
    ],
    "publication_frequency": [
     "weekly"
@@ -1490,10 +1491,10 @@
    ],
    "subject": [
     "united states",
-    "france",
     "paris",
-    "world war",
-    "periodicals"
+    "periodicals",
+    "france",
+    "world war"
    ],
    "timestamp": "2022-10-27T11:27:31.241Z",
    "title": "The stars and stripes (Paris, France), March 28, 1919",
@@ -1586,5 +1587,5 @@
    "url": "https://www.loc.gov/resource/jukebox-307261.1"
   }
  ],
- "timestamp": 1791375166993
+ "timestamp": 1791463511508
 }
