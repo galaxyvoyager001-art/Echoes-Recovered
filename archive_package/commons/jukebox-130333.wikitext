@@ -1,7 +1,7 @@
 =={{int:filedesc}}==
 {{Information
-|description={{en|1=Alexander's ragtime band - Collins And Harlan. Male vocal duet, with orchestra. Recorded 1911-05-23 in Camden, New Jersey, United States. Victor 16908, matrix B-10374 (Matrix ID), take 1. Restored version (click interpolation, noise reduction, band-limited filtering, bounded EQ; no generative processing). Original transfer: Library of Congress, National Jukebox.}}
-|date=1911-05-23 (recording); 2026-10-07 (restoration)
+|description={{en|1=Alexander's ragtime band - Collins And Harlan. Male vocal duet, with orchestra. Recorded 1911-05-23 in New Jersey, Camden, United States. Victor 16908, matrix B-10374 (Matrix ID), take 1. Restored version (click interpolation, noise reduction, band-limited filtering, bounded EQ; no generative processing). Original transfer: Library of Congress, National Jukebox.}}
+|date=1911-05-23 (recording); 2026-10-08 (restoration)
 |source=Library of Congress, National Jukebox: https://www.loc.gov/item/jukebox-130333/ ; restoration code and logs: https://github.com/galaxyvoyager001-art/Echoes-Recovered
 |author=Collins And Harlan (performer); Victor (record company); restoration: Echoes Recovered project
 |permission=Credit line requested by the Library of Congress: "Library of Congress, National Jukebox."

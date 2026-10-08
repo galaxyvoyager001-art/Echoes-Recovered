@@ -1,7 +1,7 @@
 =={{int:filedesc}}==
 {{Information
 |description={{en|1=Mi chiamano Mimì - Melba, Nellie. Soprano vocal solo, with orchestra. Recorded 1907-03-24 in United States, New York. Victor 88074, matrix C-4281 (Matrix ID), take 2. Restored version (click interpolation, noise reduction, band-limited filtering, bounded EQ; no generative processing). Original transfer: Library of Congress, National Jukebox.}}
-|date=1907-03-24 (recording); 2026-10-07 (restoration)
+|date=1907-03-24 (recording); 2026-10-08 (restoration)
 |source=Library of Congress, National Jukebox: https://www.loc.gov/item/jukebox-124534/ ; restoration code and logs: https://github.com/galaxyvoyager001-art/Echoes-Recovered
 |author=Melba, Nellie (performer); Victor (record company); restoration: Echoes Recovered project
 |permission=Credit line requested by the Library of Congress: "Library of Congress, National Jukebox."

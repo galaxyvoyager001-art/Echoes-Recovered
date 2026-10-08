@@ -1,7 +1,7 @@
 =={{int:filedesc}}==
 {{Information
-|description={{en|1=Tomasito - Cortes Y Safadí. Guitar and tiple duet. Recorded 1917-10-29 in Guayaquil, Ecuador. Victor 72441, matrix G-2560 (Matrix ID), take 1. Restored version (click interpolation, noise reduction, band-limited filtering, bounded EQ; no generative processing). Original transfer: Library of Congress, National Jukebox.}}
-|date=1917-10-29 (recording); 2026-10-07 (restoration)
+|description={{en|1=Tomasito - Cortes Y Safadí. Guitar and tiple duet. Recorded 1917-10-29 in Ecuador, Guayaquil. Victor 72441, matrix G-2560 (Matrix ID), take 1. Restored version (click interpolation, noise reduction, band-limited filtering, bounded EQ; no generative processing). Original transfer: Library of Congress, National Jukebox.}}
+|date=1917-10-29 (recording); 2026-10-08 (restoration)
 |source=Library of Congress, National Jukebox: https://www.loc.gov/item/jukebox-192284/ ; restoration code and logs: https://github.com/galaxyvoyager001-art/Echoes-Recovered
 |author=Cortes Y Safadí (performer); Victor (record company); restoration: Echoes Recovered project
 |permission=Credit line requested by the Library of Congress: "Library of Congress, National Jukebox."

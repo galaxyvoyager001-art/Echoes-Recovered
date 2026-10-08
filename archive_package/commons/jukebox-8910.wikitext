@@ -1,7 +1,7 @@
 =={{int:filedesc}}==
 {{Information
-|description={{en|1=Tras de las verdes colinas - Wills, Alejandro. Male vocal duet, with pito, tiple, and guitar. Recorded 1913-11-09 in Colombia, Bogotá. Victor 65892, matrix L-375 (Matrix ID), take 1. Restored version (click interpolation, noise reduction, band-limited filtering, bounded EQ; no generative processing). Original transfer: Library of Congress, National Jukebox.}}
-|date=1913-11-09 (recording); 2026-10-07 (restoration)
+|description={{en|1=Tras de las verdes colinas - Wills, Alejandro. Male vocal duet, with pito, tiple, and guitar. Recorded 1913-11-09 in Bogotá, Colombia. Victor 65892, matrix L-375 (Matrix ID), take 1. Restored version (click interpolation, noise reduction, band-limited filtering, bounded EQ; no generative processing). Original transfer: Library of Congress, National Jukebox.}}
+|date=1913-11-09 (recording); 2026-10-08 (restoration)
 |source=Library of Congress, National Jukebox: https://www.loc.gov/item/jukebox-8910/ ; restoration code and logs: https://github.com/galaxyvoyager001-art/Echoes-Recovered
 |author=Wills, Alejandro (performer); Victor (record company); restoration: Echoes Recovered project
 |permission=Credit line requested by the Library of Congress: "Library of Congress, National Jukebox."

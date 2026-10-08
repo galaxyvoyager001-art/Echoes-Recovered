@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Strawberries - Puckett, Riley. Male vocal solo (yodeling), with guitar. Recorded 1924-03-08 in Georgia, Atlanta, United States. Columbia 220D, matrix 81632 (Matrix ID), take 1. Restored version (click interpolation, noise reduction, band-limited filtering, bounded EQ; no generative processing). Original transfer: Library of Congress, National Jukebox.}}
+|date=1924-03-08 (recording); 2026-10-08 (restoration)
+|source=Library of Congress, National Jukebox: https://www.loc.gov/item/jukebox-673238/ ; restoration code and logs: https://github.com/galaxyvoyager001-art/Echoes-Recovered
+|author=Puckett, Riley (performer); Columbia (record company); restoration: Echoes Recovered project
+|permission=Credit line requested by the Library of Congress: "Library of Congress, National Jukebox."
+|other versions=Unrestored LoC transfer: https://www.loc.gov/item/jukebox-673238/
+}}
+
+=={{int:license-header}}==
+{{PD-US-record-expired}}
+<!-- Check on Commons before uploading: the work must also be PD in its source country (these discs were first published in the US). -->
+
+[[Category:National Jukebox]]
+[[Category:1924 sound recordings]]

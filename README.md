@@ -1,18 +1,18 @@
 # Echoes Recovered：早期留声机录音修复与 Sound Time Map
 
-本项目从 **Library of Congress National Jukebox** 筛选 1901–1921 年间以 acoustic recording 技术录制的商业唱片，逐条核实 Rights & Access，下载原始文件，用一套可重复运行的 Python 数字修复流程修复，并把结果组织成按年代和录制城市浏览的交互式网站 **Sound Time Map**。项目还附有一台可以亲手制作的纯机械留声机的设计方案。
+本项目从 **Library of Congress National Jukebox** 筛选 1901 年至 1925 年初以 acoustic recording 技术录制的商业唱片，逐条核实 Rights & Access，下载原始文件，用一套可重复运行的 Python 数字修复流程修复，并把结果组织成按年代和录制城市浏览的交互式网站 **Sound Time Map**。项目还附有一台可以亲手制作的纯机械留声机的设计方案。
 
 > 本项目是独立项目，与 Library of Congress 没有合作或隶属关系。所有录音的出处都是：**Library of Congress, National Jukebox.**
 
 ## 实际完成情况（数字均来自仓库内的真实输出）
 
 <!-- RESULTS:START -->
-* 共核查 **69** 个 LoC 候选，**67** 首通过版权核查并完成修复，**2** 首被排除（理由见 [docs/RESULTS.md](docs/RESULTS.md)）。
-* 录制年份 1901–1921；录制城市（按 LoC 记录）：Arequipa, Berlin, Bogotá, Buenos Aires, Camden, Caracas, Chicago, Guayaquil, Havana, La Paz, Lima, London, Madrid, Mexico City, Milan, New York, Osaka, Paris, Philadelphia, Rio de Janeiro, San Juan, Santiago, St. Petersburg, Tokyo。
-* Median surface-noise level: **-36.2 dBFS -> -45.9 dBFS** (median change -9.9 dB).
-* Median impulses/min (AR detector, k=8): **820 -> 56**.
-* Samples interpolated across clicks: median **1.57%**, max 4.20% per track.
-* Energy removed in 300-3000 Hz relative to the original: median **-21.9 dB** (range -33.8 to -10.9 dB).
+* 共核查 **105** 个 LoC 候选，**103** 首通过版权核查并完成修复，**2** 首被排除（理由见 [docs/RESULTS.md](docs/RESULTS.md)）。
+* 录制年份 1901–1925；录制城市（按 LoC 记录）：Arequipa, Atlanta, Berlin, Bogotá, Buenos Aires, Camden, Caracas, Chicago, Detroit, Guayaquil, Havana, Kansas City, La Paz, Lima, London, Los Angeles, Madrid, Mexico City, Milan, New York, Oakland, Osaka, Paris, Philadelphia, Rio de Janeiro, San Juan, Santiago, St. Louis, St. Petersburg, Tokyo。
+* Median surface-noise level: **-37.9 dBFS -> -48.3 dBFS** (median change -9.9 dB).
+* Median impulses/min (AR detector, k=8): **941 -> 70**.
+* Samples interpolated across clicks: median **1.68%**, max 4.20% per track.
+* Energy removed in 300-3000 Hz relative to the original: median **-22.0 dB** (range -33.8 to -10.9 dB).
 * Tracks with a 50/60 Hz peak flagged and notched: 1. Speed/pitch corrections applied: 0. Generative/AI processing: none.
 
 
@@ -65,11 +65,13 @@ Echoes-Recovered/
 * **来源：** 只使用 LoC National Jukebox，通过官方 JSON API（`https://www.loc.gov/item/<id>/?fo=json`）读取。LoC 网页前端有 Cloudflare 人机验证，所以没有用浏览器抓取 HTML；JSON 里的 `rights` 字段就是网页上 "Rights & Access" 栏的原文，脚本把它逐条保存在元数据里。
 * **核查规则**（`scripts/01_fetch_loc.py: assess_rights`），四条必须同时满足：
   1. 该条目的 Rights & Access 原文包含 "all recordings published prior to 1923 will enter the public domain"（Music Modernization Act）；
-  2. 录制日期早于 1922-01-01。这是额外留出的安全余量，确保发行日期也早于 1923 年；
+  2. 录制日期满足下面两档之一：
+     * **第一档**：录制早于 1922-01-01。这是额外留出的安全余量，确保发行日期早于 1923 年，适用 LoC 原文中"1923 年以前发行的录音已进入公有领域"这一句；
+     * **第二档**：录制于 1922-01-01 至 1925-01-31 之间。依据是 LoC 原文中"1923–1946 年发行的录音保护 100 年"这一句，保护期到期满那年的年底为止。因此 1925 年及以前发行的唱片，保护期最晚在 2025-12-31 结束，从 2026-01-01 起进入美国公有领域。剩下的不确定性在于：LoC 没有给出发行日期，所以这一档假设唱片在录制后 1925 年内发行（Victor 和 Columbia 通常在录制后几个月内发行），这一假设也写在了每条记录里。1925 年 2 月以后两家公司已陆续改用电录音，那之后的录音不收录，这样整个合集都是 acoustic 录音；
   3. 有**已发行**的证据：LoC 文件 ID 中带有 Victor/Columbia 唱片编号，并且 LoC 提供了唱片标签图像。按 MMA，**未发行**的 1923 年前录音要到 2067 年才进入公有领域，所以这一条必须满足；
   4. `access_restricted = false`，并且 LoC 提供 WAV 下载。
 * **没有因为录音很老就默认可以使用。** 有 2 个候选因为第 3 条被排除：Caruso 的《Over There》（1918）和 Caruso 等人的 Lucia 六重唱（1908）。LoC 没有给出这两条的唱片标签，无法证明它们在 1923 年前发行。
-* 1922–1925 年的录音没有收录。按 MMA，1923–1925 年发行的录音现在其实也已进入美国公有领域，但 LoC 的 Rights & Access 原文只明确写了"1923 年以前发行"，项目选择以 LoC 原文为准。
+* 1925 年 2 月以后的录音没有收录：一方面要保证都是 acoustic 录音，另一方面录制越晚，发行日期落到 1926 年（仍受保护）的风险越大。
 * 每首记录的字段：标题、其他标题、表演者（含 LoC 列出的角色）、录制日期、录制地点（LoC `location` 原样保存）、LoC 音乐类型、项目分类、唱片公司与编号、matrix/take、语言、原始档案页面、原始 WAV/MP3 地址、来源实体唱片的收藏机构、Rights & Access 原文、rights advisory、核查时间与理由。
 
 ## 2. 数字修复方法
@@ -96,7 +98,7 @@ python3 scripts/serve.py . 8000   # 在仓库根目录运行；这个小服务�
 # 打开 http://localhost:8000/site/
 ```
 
-* **时间轴：** 1900–1925，每个点对应一次录音；可以点年份筛选，也可以点单个录音。1922–1925 年以灰色标出"未收录（版权余量）"。
+* **时间轴：** 1900–1925，每个点对应一次录音；可以点年份筛选，也可以点单个录音。1925 年 2 月以后标为"electric era"，未收录。
 * **地图：** 手工上色风格的世界地图（world-atlas 2.0.2 / Natural Earth 国界，相邻国家自动分配不同底色），外加两张嵌入图：放大的 New York – Philadelphia（us-atlas 3.0.1 州界，因为 New York、Camden、Philadelphia 三地在世界地图上会重叠），以及位于主图范围以东的日本（Tokyo、Osaka）。如果某条 LoC 记录只写了国家没有城市，代码会高亮整个国家而不是编造一个点（`restoration/places.py` 中的 REGIONS；目前收录的曲目都有城市）。全部在本地投影，不依赖地图瓦片服务。点位只标在 LoC 记录中写明的**城市**，不标任何具体地址。
 * **视觉风格：** 1910 年代唱片目录风格：Victor 红标唱片的酒红与金色、旧纸张底色、打字机字体的档案卡片；唱片标签在播放时旋转。音乐按 7 类着色（日本音乐、歌剧、爵士与布鲁斯、拉丁美洲歌曲、欧洲歌曲、乐队与舞厅乐团、ragtime 与流行歌曲），色块同时是筛选按钮和图例。支持浅色与深色主题。
 * **详情面板：** 标题、表演者、日期、地点（LoC 原文）、LoC 类型、唱片编号与 matrix/take、演职人员、LoC 原始页面链接、项目背景注释（已标明是项目撰写）、**Original 与 Restored 两个播放器**、"在同一时刻切换"按钮、A/B 文件、被去除部分、修复日志和频谱图。

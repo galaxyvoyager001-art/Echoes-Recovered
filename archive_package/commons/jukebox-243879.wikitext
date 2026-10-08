@@ -1,7 +1,7 @@
 =={{int:filedesc}}==
 {{Information
 |description={{en|1=Los tabaqueros - Orquesta De Enrique Peña. Orchestra. Recorded 1909-02-01 in Cuba, Havana. Victor 62327, matrix R-188 (Matrix ID), take 1. Restored version (click interpolation, noise reduction, band-limited filtering, bounded EQ; no generative processing). Original transfer: Library of Congress, National Jukebox.}}
-|date=1909-02-01 (recording); 2026-10-07 (restoration)
+|date=1909-02-01 (recording); 2026-10-08 (restoration)
 |source=Library of Congress, National Jukebox: https://www.loc.gov/item/jukebox-243879/ ; restoration code and logs: https://github.com/galaxyvoyager001-art/Echoes-Recovered
 |author=Orquesta De Enrique Peña (performer); Victor (record company); restoration: Echoes Recovered project
 |permission=Credit line requested by the Library of Congress: "Library of Congress, National Jukebox."

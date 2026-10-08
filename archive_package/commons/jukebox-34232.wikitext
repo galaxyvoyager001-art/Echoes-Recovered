@@ -1,7 +1,7 @@
 =={{int:filedesc}}==
 {{Information
-|description={{en|1=Dardanella - Selvin's Novelty Orchestra. Jazz/dance band. Recorded 1919-11-20 in United States, New York. Victor 18633, matrix B-23344 (Matrix ID), take 3. Restored version (click interpolation, noise reduction, band-limited filtering, bounded EQ; no generative processing). Original transfer: Library of Congress, National Jukebox.}}
-|date=1919-11-20 (recording); 2026-10-07 (restoration)
+|description={{en|1=Dardanella - Selvin's Novelty Orchestra. Jazz/dance band. Recorded 1919-11-20 in New York, United States. Victor 18633, matrix B-23344 (Matrix ID), take 3. Restored version (click interpolation, noise reduction, band-limited filtering, bounded EQ; no generative processing). Original transfer: Library of Congress, National Jukebox.}}
+|date=1919-11-20 (recording); 2026-10-08 (restoration)
 |source=Library of Congress, National Jukebox: https://www.loc.gov/item/jukebox-34232/ ; restoration code and logs: https://github.com/galaxyvoyager001-art/Echoes-Recovered
 |author=Selvin's Novelty Orchestra (performer); Victor (record company); restoration: Echoes Recovered project
 |permission=Credit line requested by the Library of Congress: "Library of Congress, National Jukebox."

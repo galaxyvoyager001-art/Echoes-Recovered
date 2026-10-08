@@ -3,7 +3,7 @@
 > **先读这一段。** 这个项目的代码、数字修复、网站和留声机设计，目前主要是在 AI（Claude Code）的协助下完成的。Common App 提交前需要签署声明，确认申请材料是你本人的工作、真实并如实陈述。所以活动描述必须写你**自己真正做了什么**。下面分成两种情况：A 是现在就能如实使用的写法；B 是你完成了第 4 节列出的工作之后才可以使用的写法。
 
 以下数字都可以在仓库中核对：`data/rights_verification_summary.json`、`docs/RESULTS.md`、`data/restored/`。
-截至目前：核查 69 首候选，修复 67 首，录制于 1901–1921 年，分布在 24 座城市、19 个国家和地区。
+截至目前：核查 105 首候选，修复 103 首，录制于 1901–1925 年（1925 年 2 月电声录音开始之前），分布在 30 座城市、19 个国家和地区。
 
 ---
 
@@ -40,19 +40,19 @@ Independent project (Library of Congress National Jukebox recordings)
 
 **Description，三选一**
 
-A1（149 字符），强调你作为项目主导者的角色：
+A1（150 字符），强调你作为项目主导者的角色：
 ```
-Directed an AI-assisted project restoring 67 public-domain LoC discs (1901-21) from 24 cities; checked rights for each; launched a map/timeline site.
-```
-
-A2（141 字符），强调成果：
-```
-Restored 67 public-domain 1901-21 discs from 24 cities via AI-assisted DSP; checked rights item by item; mapped them by year and city online.
+Directed an AI-assisted project restoring 103 public-domain LoC discs (1901-25) from 30 cities; checked rights for each; launched a map/timeline site.
 ```
 
-A3（145 字符）：只有在你**确实**逐首听过并调整过参数之后，才能用这一条。
+A2（142 字符），强调成果：
 ```
-Used AI coding tools to restore 67 LoC discs (1901-21, 24 cities); verified rights, tuned and listen-tested each; built an interactive sound map.
+Restored 103 public-domain 1901-25 discs from 30 cities via AI-assisted DSP; checked rights item by item; mapped them by year and city online.
+```
+
+A3（146 字符）：只有在你**确实**逐首听过并调整过参数之后，才能用这一条。
+```
+Used AI coding tools to restore 103 LoC discs (1901-25, 30 cities); verified rights, tuned and listen-tested each; built an interactive sound map.
 ```
 
 ### B. 完成第 4 节的工作之后可以使用
@@ -62,9 +62,9 @@ Used AI coding tools to restore 67 LoC discs (1901-21, 24 cities); verified righ
 Founder; Audio Restoration & Web Developer
 ```
 
-**Description（146 字符）**：只有在留声机真的做成并能播放、你也亲自调过修复参数之后，才能使用。
+**Description（147 字符）**：只有在留声机真的做成并能播放、你也亲自调过修复参数之后，才能使用。
 ```
-Built a playable acoustic phonograph; tuned a Python restoration pipeline on 67 LoC discs (1901-21, 24 cities); launched an interactive sound map.
+Built a playable acoustic phonograph; tuned a Python restoration pipeline on 103 LoC discs (1901-25, 30 cities); launched an interactive sound map.
 ```
 
 ---
@@ -96,7 +96,7 @@ Built a playable acoustic phonograph; tuned a Python restoration pipeline on 67 
 
 150 字符放不下的内容，可以写在 **Additional Information**（最多 650 词）里，但同样要如实说明哪些工作借助了 AI、哪些是你自己完成的。例如：
 
-> I led Echoes Recovered, a project to restore early acoustic recordings from the Library of Congress National Jukebox. I set the goals, and I checked the Rights & Access statement of each of 69 candidate discs; 67 qualified as published before 1923. I used an AI coding assistant to write a Python restoration pipeline (click interpolation, Wiener noise reduction, band-limited filtering) and an interactive map of the recordings by year and city, from Camden to Bogotá, Buenos Aires and Osaka. I then [describe what you personally did: listening tests, parameter changes, building the phonograph, what you learned].
+> I led Echoes Recovered, a project to restore early acoustic recordings from the Library of Congress National Jukebox. I set the goals, and I checked the Rights & Access statement of each of 105 candidate discs; 103 qualified (recorded before 1922, or 1922 to early 1925 with a 100-year term that ended in 2025). I used an AI coding assistant to write a Python restoration pipeline (click interpolation, Wiener noise reduction, band-limited filtering) and an interactive map of the recordings by year and city, from Camden to Bogotá, Buenos Aires and Osaka. I then [describe what you personally did: listening tests, parameter changes, building the phonograph, what you learned].
 
 方括号里的内容必须写你本人真正做过的事。
 
@@ -104,8 +104,9 @@ Built a playable acoustic phonograph; tuned a Python restoration pipeline on 67 
 
 ## 6. 成果核对数据（来自仓库）
 
-* 候选 69 首；通过版权核查并修复 67 首；排除 2 首（无法证明 1923 年前发行）
-* 录制年份 1901–1921；24 座城市；19 个国家和地区
-* surface noise 中位数：-36.2 → -45.9 dBFS；脉冲噪声中位数：约 820 → 约 56 次/分钟
+* 候选 105 首；通过版权核查并修复 103 首；排除 2 首（无法证明已发行）
+* 1922–1925 年录音的版权判断假设唱片在 1925 年底前发行（每首都有目录号和唱片标签图，但 LoC 未给出发行日期）
+* 录制年份 1901–1925；30 座城市；19 个国家和地区
+* surface noise 中位数：-37.9 → -48.3 dBFS；脉冲噪声中位数：约 941 → 约 70 次/分钟
 * 留声机：目前是设计方案，**尚未制作**
 * 正式的人耳听辨测试：**尚未进行**

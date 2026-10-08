@@ -37,9 +37,16 @@ UA = {"User-Agent": "EchoesRecovered/1.0 (historical audio restoration research)
 
 # The public-domain sentence that must appear in the item's Rights & Access text.
 MMA_SENTENCE = "all recordings published prior to 1923 will enter the public domain"
-# Conservative margin: only recordings made before this date are accepted, so that
-# their commercial release (normally weeks to months later) is also before 1923.
+MMA_1923_SENTENCE = "Recordings published between 1923 and 1946 are then protected for 100 years"
+# Tier 1 - conservative margin: recordings made before 1922, so that their commercial
+# release (normally weeks to months later) also precedes 1923.
 RECORDING_CUTOFF = dt.date(1922, 1, 1)
+# Tier 2 - recordings made from 1922 up to this date. Under the 100-year term the LoC text
+# states for 1923-1946 publications (terms run to the end of the calendar year), anything
+# first published by 31 Dec 1925 is public domain from 1 Jan 2026. The cutoff also keeps
+# the set acoustic: Columbia and Victor moved to electrical recording in Feb-spring 1925.
+TIER2_CUTOFF = dt.date(1925, 2, 1)
+TODAY = dt.date.today()
 
 
 def http_get(url: str, retries: int = 5) -> bytes:
@@ -89,7 +96,7 @@ def find_files(record: dict) -> dict:
 
 def catalog_from_file_id(file_id: str) -> dict:
     """LoC file ids encode the issued disc: e.g. dlc_victor_18255_01_b19331_01."""
-    m = re.match(r"^(?P<src>[a-z]+)_(?P<label>victor|col)_(?P<num>[a-z]?\d+)_(?P<side>\d+)_", file_id)
+    m = re.match(r"^(?P<src>[a-z]+)_(?P<label>victor|col)_(?P<num>[a-z]?\d+[a-z]?)_(?P<side>\d+)_", file_id)
     if not m:
         return {}
     label = {"victor": "Victor", "col": "Columbia"}[m["label"]]
@@ -100,20 +107,29 @@ def assess_rights(it: dict, files: dict, catalog: dict) -> tuple[bool, list[str]
     """Apply the project's clearance rule. Returns (cleared, reasons)."""
     reasons, ok = [], True
     rights = strip_html(" ".join(it.get("rights") or []))
-    if MMA_SENTENCE in rights:
-        reasons.append("Rights & Access text states that recordings published prior to 1923 are in the public domain (Music Modernization Act).")
-    else:
-        ok = False
-        reasons.append("FAIL: Rights & Access text does not contain the pre-1923 public-domain statement.")
     try:
         rec = dt.date.fromisoformat(it.get("recording_date") or it.get("date"))
     except Exception:
         rec = None
-    if rec and rec < RECORDING_CUTOFF:
+    tier = 1 if rec and rec < RECORDING_CUTOFF else 2 if rec and rec < TIER2_CUTOFF else None
+    if tier == 1:
+        if MMA_SENTENCE in rights:
+            reasons.append("Rights & Access text states that recordings published prior to 1923 are in the public domain (Music Modernization Act).")
+        else:
+            ok = False
+            reasons.append("FAIL: Rights & Access text does not contain the pre-1923 public-domain statement.")
         reasons.append(f"Recording date {rec} is before {RECORDING_CUTOFF} (project margin so that publication also precedes 1923).")
+    elif tier == 2:
+        if MMA_1923_SENTENCE in rights and TODAY >= dt.date(2026, 1, 1):
+            reasons.append("Rights & Access text states that recordings published between 1923 and 1946 are protected for 100 years. "
+                           f"Recorded {rec}; first publication by 31 Dec 1925 at the latest means the term ended 31 Dec 2025, so it is public domain as of {TODAY}.")
+            reasons.append("Assumption: the disc was first issued no later than 1925 (LoC does not give issue dates; Victor and Columbia normally issued within months of recording). This is the main residual uncertainty for 1922-1925 items.")
+        else:
+            ok = False
+            reasons.append("FAIL: Rights & Access text lacks the 1923-1946 100-year statement, or the 1925 term has not yet expired.")
     else:
         ok = False
-        reasons.append(f"FAIL: recording date {rec} not before {RECORDING_CUTOFF}.")
+        reasons.append(f"FAIL: recording date {rec} is not before {TIER2_CUTOFF} (outside the acoustic, public-domain window).")
     if catalog and files.get("label"):
         reasons.append(f"Evidence of publication: transfer is from an issued {catalog['label']} disc (catalog no. {catalog['catalog_number']} in the LoC file id) and LoC provides the disc label image. Unissued takes (unpublished, protected until 2067) are excluded.")
     else:
@@ -146,6 +162,7 @@ def process(entry: dict) -> dict:
     file_id = (it.get("file_id") or [""])[0]
     catalog = catalog_from_file_id(file_id)
     cleared, reasons = assess_rights(it, files, catalog)
+    rec_date = dt.date.fromisoformat(it.get("recording_date") or it.get("date"))
 
     d = ORIG / slug
     d.mkdir(parents=True, exist_ok=True)
@@ -200,7 +217,11 @@ def process(entry: dict) -> dict:
             "access_restricted": it.get("access_restricted"),
             "media_player_flags": {"canDownload": files.get("can_download"), "rights_restricted": files.get("rights_restricted_flag")},
             "cleared_for_reuse": cleared,
-            "status": "Public domain in the United States (published before 1923; Music Modernization Act, 17 U.S.C. 1401(a)(2)(B)(i))" if cleared else "NOT CLEARED - excluded",
+            "status": ("NOT CLEARED - excluded" if not cleared else
+                       "Public domain in the United States (published before 1923; Music Modernization Act, 17 U.S.C. 1401(a)(2)(B)(i))"
+                       if rec_date < RECORDING_CUTOFF else
+                       "Public domain in the United States (published 1922-1925; 100-year term ended by 31 Dec 2025; 17 U.S.C. 1401(a)(2)(B)(ii))"),
+            "rights_tier": 1 if rec_date < RECORDING_CUTOFF else 2,
             "reasons": reasons,
             "caveats": [
                 "LoC: 'You are responsible for deciding whether your use of the items in this collection is legal.'",
@@ -236,7 +257,14 @@ def main() -> int:
             print(f"ERROR    {e['id']}: {ex}", file=sys.stderr)
             summary.append({"id": e["id"], "cleared": False, "error": str(ex)})
         time.sleep(2)
-    (ROOT / "data" / "rights_verification_summary.json").write_text(json.dumps(summary, indent=1))
+    sp = ROOT / "data" / "rights_verification_summary.json"
+    if args.only and sp.exists():  # partial run: update these entries, keep the rest
+        done = {x["id"] for x in summary}
+        order = [e["id"] for e in json.loads((ROOT / "config" / "selection.json").read_text())["items"]]
+        merged = {x["id"]: x for x in json.loads(sp.read_text())}
+        merged.update({x["id"]: x for x in summary})
+        summary = [merged[i] for i in order if i in merged]
+    sp.write_text(json.dumps(summary, indent=1))
     n = sum(s["cleared"] for s in summary)
     print(f"\n{n}/{len(summary)} items cleared and downloaded")
     return 0

@@ -23,6 +23,7 @@
   --rust: #b0532e;
   --plum: #6e3a68;
   --jade: #3f7a3a;
+  --umber: #7b5a2e;
   --sea: #c7dccf;
   --sea-line: #9fbfb0;
   --land-0: #ecd9a2; --land-1: #e5b9a2; --land-2: #c9d39d; --land-3: #d8c2da; --land-4: #f1cb8c;
@@ -37,14 +38,14 @@
 }
 @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
   --paper: #1b1410; --paper-2: #251b15; --ink: #f1e4c8; --ink-2: #c6ae8b; --rule: #54402e;
-  --claret: #d4525e; --gold: #d9aa4c; --gold-soft: #6b5426; --teal: #63aaa1; --navy: #7f9fd6; --rust: #e0805a; --plum: #c58cbf; --jade: #86bf6c;
+  --claret: #d4525e; --gold: #d9aa4c; --gold-soft: #6b5426; --teal: #63aaa1; --navy: #7f9fd6; --rust: #e0805a; --plum: #c58cbf; --jade: #86bf6c; --umber: #c9a46a;
   --sea: #142a2c; --sea-line: #24484a;
   --land-0: #4a3e25; --land-1: #4d3229; --land-2: #39432a; --land-3: #423448; --land-4: #57401f; --land-line: #8a7556;
   --on-claret: #f7e8c4; --mast: #5e141c; --mast-gold: #e2bd5e;
   color-scheme: dark; } }
 :root[data-theme="dark"] {
   --paper: #1b1410; --paper-2: #251b15; --ink: #f1e4c8; --ink-2: #c6ae8b; --rule: #54402e;
-  --claret: #d4525e; --gold: #d9aa4c; --gold-soft: #6b5426; --teal: #63aaa1; --navy: #7f9fd6; --rust: #e0805a; --plum: #c58cbf; --jade: #86bf6c;
+  --claret: #d4525e; --gold: #d9aa4c; --gold-soft: #6b5426; --teal: #63aaa1; --navy: #7f9fd6; --rust: #e0805a; --plum: #c58cbf; --jade: #86bf6c; --umber: #c9a46a;
   --sea: #142a2c; --sea-line: #24484a;
   --land-0: #4a3e25; --land-1: #4d3229; --land-2: #39432a; --land-3: #423448; --land-4: #57401f; --land-line: #8a7556;
   --on-claret: #f7e8c4; --mast: #5e141c; --mast-gold: #e2bd5e;
@@ -126,7 +127,7 @@ svg { display: block; width: 100%; height: auto; }
 .rec.sel { stroke: var(--ink); stroke-width: 3.5; }
 
 .fam-opera { --c: var(--claret); } .fam-jazz { --c: var(--teal); } .fam-popular { --c: var(--gold); }
-.fam-band { --c: var(--navy); } .fam-asia { --c: var(--jade); } .fam-latin { --c: var(--rust); } .fam-europe { --c: var(--plum); }
+.fam-band { --c: var(--navy); } .fam-asia { --c: var(--jade); } .fam-country { --c: var(--umber); } .fam-latin { --c: var(--rust); } .fam-europe { --c: var(--plum); }
 .rec { fill: var(--c); }
 
 .filters { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 14px; align-items: center; }
@@ -223,7 +224,7 @@ section.about p { margin: 0; font-size: 0.93rem; }
     <div>
       <div class="eyebrow">Echoes Recovered · from the Library of Congress National Jukebox</div>
       <h1>Sound Time Map<em>Acoustic recordings of the gramophone age, heard again</em></h1>
-      <p>Shellac discs recorded between 1901 and 1921, from Camden and Havana to Bogotá, St. Petersburg and Tokyo. Each one plays twice: the Library of Congress transfer exactly as published, and a restoration made with documented, non-generative signal processing.</p>
+      <p>Shellac discs from the acoustic era, 1901 to early 1925: from Camden, Havana and Atlanta to Bogotá, St. Petersburg and Tokyo. Each one plays twice: the Library of Congress transfer exactly as published, and a restoration made with documented, non-generative signal processing.</p>
     </div>
     <div class="seals" id="counts"></div>
   </div>
@@ -258,7 +259,7 @@ section.about p { margin: 0; font-size: 0.93rem; }
   <div class="ornament" aria-hidden="true">❦ ❦ ❦</div>
 
   <section class="about">
-    <div><h3>Source and rights</h3><p>Every recording comes from the Library of Congress National Jukebox. Each item's Rights &amp; Access statement was checked: recordings published before 1923 are in the US public domain under the Music Modernization Act. Only issued discs recorded before 1922 were used. For discs recorded outside the US, only the US status was assessed. Credit: Library of Congress, National Jukebox.</p></div>
+    <div><h3>Source and rights</h3><p>Every recording comes from the Library of Congress National Jukebox. Each item's Rights &amp; Access statement was checked: recordings published before 1923 are in the US public domain under the Music Modernization Act. Discs recorded before 1922 were cleared under that rule. Discs recorded from 1922 to January 1925 rely on the same statement's 100-year term for 1923–1946 publications, which ended for 1925 issues on 31 December 2025. Recording after February 1925 (the electrical era) is not included. For discs recorded outside the US, only the US status was assessed. Credit: Library of Congress, National Jukebox.</p></div>
     <div><h3>How the restoration works</h3><p>The channels are folded to mono. Clicks are detected with an autoregressive model and bridged from the real samples on either side. Surface noise is reduced with a decision-directed Wiener filter, hiss above the recorded band is filtered off, and a bounded EQ evens out horn resonances. Nothing is synthesised, and the code and every track's parameters are public.</p></div>
     <div><h3>How to listen</h3><p>Start either player, then press “Switch” to jump to the other version at the same moment. The label turns while a record plays. “What was removed” plays the exact difference signal, so you can hear that the processing took out noise, not music.</p></div>
   </section>
@@ -278,9 +279,10 @@ section.about p { margin: 0; font-size: 0.93rem; }
   // kinds of music -> colour families (categories are the project's labels in config/selection.json)
   const FAM = [
     ["asia", "Japanese music", /japanese/i],
-    ["opera", "Opera", /opera/i],
     ["jazz", "Jazz & blues", /jazz|blues/i],
-    ["latin", "Latin American song", /mexican|cuban song|tango|peruvian|chilean|brazilian|venezuelan song|puerto rican song|colombian|ecuadorian|bolivian/i],
+    ["country", "Early country", /country/i],
+    ["opera", "Opera & concert", /opera|orchestral|violin/i],
+    ["latin", "Latin American song", /mexican|cuban song|cuban son|tango|peruvian|chilean|brazilian|venezuelan song|puerto rican song|colombian|ecuadorian|bolivian|argentine song/i],
     ["europe", "European song", /neapolitan|italian|irish|galician|music hall|russian|zarzuela/i],
     ["band", "Bands & dance orchestras", /band|orchestra/i],
     ["popular", "Ragtime & popular song", /./],
@@ -311,15 +313,15 @@ section.about p { margin: 0; font-size: 0.93rem; }
   el("rect", { x: 0, y: 0, width: 334, height: 86 }, cart);
   el("rect", { x: 5, y: 5, width: 324, height: 76, fill: "none" }, cart);
   const c1 = el("text", { x: 167, y: 38, "text-anchor": "middle", class: "cart-t" }, cart); c1.textContent = "The Recording World";
-  const c2 = el("text", { x: 167, y: 62, "text-anchor": "middle", class: "cart-s" }, cart); c2.textContent = "Victor & Columbia sessions, 1901–1921";
-  const cp = el("g", { class: "compass", transform: "translate(640,250)" }, map);
+  const c2 = el("text", { x: 167, y: 62, "text-anchor": "middle", class: "cart-s" }, cart); c2.textContent = "Victor & Columbia sessions, 1901–1925";
+  const cp = el("g", { class: "compass", transform: "translate(640,470)" }, map);
   el("path", { d: "M0,-38 L8,0 L0,6 L-8,0 Z" }, cp); el("path", { d: "M0,38 L8,0 L0,-6 L-8,0 Z", class: "lt" }, cp);
   el("path", { d: "M-30,0 L0,-5 L4,0 L0,5 Z", class: "lt" }, cp); el("path", { d: "M30,0 L0,5 L-4,0 L0,-5 Z", class: "lt" }, cp);
   const cn = el("text", { x: 0, y: -44, "text-anchor": "middle" }, cp); cn.textContent = "N";
 
   // inset panels: corridor in the South Atlantic (lower right), Japan in the South Pacific (lower left)
-  const SLOT = { corridor: (w, h) => [M.w - w - 26, M.h - h - 50], japan: (w, h) => [30, M.h - h - 50] };
-  const IWID = { corridor: 390, japan: 250 };
+  const SLOT = { corridor: (w, h) => [M.w - w - 26, M.h - h - 50], japan: (w, h) => [30, M.h - h - 50], midwest: (w, h) => [455, 30] };
+  const IWID = { corridor: 390, japan: 250, midwest: 340 };
   const insets = M.insets.map(I => {
     const IW = IWID[I.id] || 300, IH = IW * I.h / I.w, [IX, IY] = SLOT[I.id](IW, IH);
     const g = el("g", { transform: `translate(${IX},${IY})` }, map);
@@ -332,7 +334,12 @@ section.about p { margin: 0; font-size: 0.93rem; }
     if (I.box) {
       const [bx0, by0, bx1, by1] = I.box;
       el("rect", { x: bx0, y: by0, width: bx1 - bx0, height: by1 - by0, class: "zoombox" }, map);
-      el("line", { x1: IX - 6, y1: IY - 6, x2: bx1, y2: by1, stroke: "var(--claret)", "stroke-width": 1.5, "stroke-dasharray": "4 3" }, map);
+      // leader line from the nearest inset corner to the nearest corner of the zoom box
+      const ic = [[IX - 6, IY - 6], [IX + IW + 6, IY - 6], [IX - 6, IY + IH + 34], [IX + IW + 6, IY + IH + 34]];
+      const bc = [[bx0, by0], [bx1, by0], [bx0, by1], [bx1, by1]];
+      let best = null;
+      ic.forEach(a => bc.forEach(b => { const d = Math.hypot(a[0] - b[0], a[1] - b[1]); if (!best || d < best[0]) best = [d, a, b]; }));
+      el("line", { x1: best[1][0], y1: best[1][1], x2: best[2][0], y2: best[2][1], stroke: "var(--claret)", "stroke-width": 1.5, "stroke-dasharray": "4 3" }, map);
     }
     return { I, svg, paths, scale: I.w / IW };
   });
@@ -344,8 +351,10 @@ section.about p { margin: 0; font-size: 0.93rem; }
     "Guayaquil": [-16, 2, "end"], "Lima": [-16, 4, "end"], "Arequipa": [-16, 22, "end"], "La Paz": [16, 10, "start"],
     "Santiago": [-16, 6, "end"], "Buenos Aires": [16, 8, "start"], "Rio de Janeiro": [16, 6, "start"], "Chicago": [-16, -4, "end"],
     "London": [-16, -8, "end"], "Paris": [-16, 14, "end"], "Madrid": [-16, 6, "end"], "Milan": [14, 20, "start"],
-    "Berlin": [14, -6, "start"], "St. Petersburg": [-16, 16, "end"] };
-  const INLAB = { "Philadelphia": [-34, -30, "start"], "Camden": [16, 26, "start"], "New York": [-16, -14, "end"], "Tokyo": [16, 0, "start"], "Osaka": [-16, 24, "end"] };
+    "Berlin": [14, -6, "start"], "St. Petersburg": [-16, 16, "end"],
+    "Oakland": [14, -8, "start"], "Los Angeles": [14, 16, "start"], "Atlanta": [14, 8, "start"] };
+  const INLAB = { "Philadelphia": [-34, -30, "start"], "Camden": [16, 26, "start"], "New York": [-16, -14, "end"], "Tokyo": [16, 0, "start"], "Osaka": [-16, 24, "end"],
+    "Chicago": [-16, -12, "end"], "Detroit": [10, 24, "end"], "Kansas City": [16, -10, "start"], "St. Louis": [16, 14, "start"] };
   const pickCity = name => () => { st.city = st.city === name ? null : name; pickFirst(); render(); };
   const tipCity = (name, c) => e => showTip(e, `<b>${esc(name)}</b>, ${esc(c.country)}<br>${c.count} recording${c.count > 1 ? "s" : ""}`);
   function drawCity(parent, name, x, y, c, scale, lab) {
@@ -384,11 +393,12 @@ section.about p { margin: 0; font-size: 0.93rem; }
   const maxStack = Math.max(...Object.values(perYear).map(a => a.length));
   const rowH = 22, base = 40 + maxStack * rowH, TH = base + 50;
   T.setAttribute("viewBox", `0 0 ${TW} ${TH}`);
-  el("rect", { x: xY(1922), y: 8, width: xY(1926) - xY(1922), height: base - 4, class: "excluded" }, T);
-  const ex = el("text", { x: xY(1922) + 10, y: 34, class: "excluded-label" }, T); ex.textContent = "1922–25";
-  const ex2 = el("text", { x: xY(1922) + 10, y: 56, class: "excluded-label" }, T); ex2.textContent = "not used";
+  const EX = 1925 + 1 / 12;
+  el("rect", { x: xY(EX), y: 8, width: xY(1926) - xY(EX), height: base - 4, class: "excluded" }, T);
+  const ex = el("text", { x: xY(1926) - 6, y: 34, class: "excluded-label", "text-anchor": "end" }, T); ex.textContent = "electric";
+  const ex2 = el("text", { x: xY(1926) - 6, y: 56, class: "excluded-label", "text-anchor": "end" }, T); ex2.textContent = "era →";
   const bands = {};
-  for (let y = Y0; y < 1922; y++) {
+  for (let y = Y0; y < 1926; y++) {
     const b = el("rect", { x: xY(y), y: 8, width: xY(y + 1) - xY(y), height: base - 4, class: "yearband", tabindex: perYear[y] ? 0 : -1, role: "button", "aria-label": `${y}: ${(perYear[y] || []).length} recordings` }, T);
     press(b, () => { st.year = st.year === y ? null : y; pickFirst(); render(); });
     b.addEventListener("mousemove", e => showTip(e, `<b>${y}</b> · ${(perYear[y] || []).length} recordings`)); b.addEventListener("mouseleave", hideTip);

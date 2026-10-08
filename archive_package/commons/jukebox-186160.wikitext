@@ -1,7 +1,7 @@
 =={{int:filedesc}}==
 {{Information
-|description={{en|1=Poor Butterfly - Brown, Edna. Female vocal solo, with orchestra. Recorded 1916-12-15 in Camden, New Jersey, United States. Victor 18211, matrix B-18900 (Matrix ID), take 1. Restored version (click interpolation, noise reduction, band-limited filtering, bounded EQ; no generative processing). Original transfer: Library of Congress, National Jukebox.}}
-|date=1916-12-15 (recording); 2026-10-07 (restoration)
+|description={{en|1=Poor Butterfly - Brown, Edna. Female vocal solo, with orchestra. Recorded 1916-12-15 in New Jersey, Camden, United States. Victor 18211, matrix B-18900 (Matrix ID), take 1. Restored version (click interpolation, noise reduction, band-limited filtering, bounded EQ; no generative processing). Original transfer: Library of Congress, National Jukebox.}}
+|date=1916-12-15 (recording); 2026-10-08 (restoration)
 |source=Library of Congress, National Jukebox: https://www.loc.gov/item/jukebox-186160/ ; restoration code and logs: https://github.com/galaxyvoyager001-art/Echoes-Recovered
 |author=Brown, Edna (performer); Victor (record company); restoration: Echoes Recovered project
 |permission=Credit line requested by the Library of Congress: "Library of Congress, National Jukebox."

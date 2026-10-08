@@ -1,7 +1,7 @@
 =={{int:filedesc}}==
 {{Information
-|description={{en|1=Shine on, harvest moon barn dance - Arthur Pryor's Band. Band. Recorded 1910-02-15 in Camden, United States, New Jersey. Victor 16475, matrix B-8630 (Matrix ID), take 1. Restored version (click interpolation, noise reduction, band-limited filtering, bounded EQ; no generative processing). Original transfer: Library of Congress, National Jukebox.}}
-|date=1910-02-15 (recording); 2026-10-07 (restoration)
+|description={{en|1=Shine on, harvest moon barn dance - Arthur Pryor's Band. Band. Recorded 1910-02-15 in Camden, New Jersey, United States. Victor 16475, matrix B-8630 (Matrix ID), take 1. Restored version (click interpolation, noise reduction, band-limited filtering, bounded EQ; no generative processing). Original transfer: Library of Congress, National Jukebox.}}
+|date=1910-02-15 (recording); 2026-10-08 (restoration)
 |source=Library of Congress, National Jukebox: https://www.loc.gov/item/jukebox-189251/ ; restoration code and logs: https://github.com/galaxyvoyager001-art/Echoes-Recovered
 |author=Arthur Pryor's Band (performer); Victor (record company); restoration: Echoes Recovered project
 |permission=Credit line requested by the Library of Congress: "Library of Congress, National Jukebox."

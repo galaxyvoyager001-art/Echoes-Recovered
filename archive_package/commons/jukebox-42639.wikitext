@@ -1,7 +1,7 @@
 =={{int:filedesc}}==
 {{Information
-|description={{en|1=Wabash blues - Bargy, Roy. Jazz/dance band. Recorded 1921-09-29 in Illinois, United States, Chicago. Victor 18820, matrix B-25703 (Matrix ID), take 1. Restored version (click interpolation, noise reduction, band-limited filtering, bounded EQ; no generative processing). Original transfer: Library of Congress, National Jukebox.}}
-|date=1921-09-29 (recording); 2026-10-07 (restoration)
+|description={{en|1=Wabash blues - Bargy, Roy. Jazz/dance band. Recorded 1921-09-29 in Illinois, Chicago, United States. Victor 18820, matrix B-25703 (Matrix ID), take 1. Restored version (click interpolation, noise reduction, band-limited filtering, bounded EQ; no generative processing). Original transfer: Library of Congress, National Jukebox.}}
+|date=1921-09-29 (recording); 2026-10-08 (restoration)
 |source=Library of Congress, National Jukebox: https://www.loc.gov/item/jukebox-42639/ ; restoration code and logs: https://github.com/galaxyvoyager001-art/Echoes-Recovered
 |author=Bargy, Roy (performer); Victor (record company); restoration: Echoes Recovered project
 |permission=Credit line requested by the Library of Congress: "Library of Congress, National Jukebox."

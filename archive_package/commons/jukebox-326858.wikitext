@@ -1,7 +1,7 @@
 =={{int:filedesc}}==
 {{Information
-|description={{en|1=Jōruri  Tsubozakadera : Sawa shinai (浄瑠璃  壷坂寺 : 澤市内) - Toyotake, Roshō. Female vocal solo, with shamisen. Recorded 1906-11-30 in Osaka, Japan. Victor 11154, matrix 4815e (Matrix ID), take [1]. Restored version (click interpolation, noise reduction, band-limited filtering, bounded EQ; no generative processing). Original transfer: Library of Congress, National Jukebox.}}
-|date=1906-11-30 (recording); 2026-10-07 (restoration)
+|description={{en|1=Jōruri  Tsubozakadera : Sawa shinai (浄瑠璃  壷坂寺 : 澤市内) - Toyotake, Roshō. Female vocal solo, with shamisen. Recorded 1906-11-30 in Japan, Osaka. Victor 11154, matrix 4815e (Matrix ID), take [1]. Restored version (click interpolation, noise reduction, band-limited filtering, bounded EQ; no generative processing). Original transfer: Library of Congress, National Jukebox.}}
+|date=1906-11-30 (recording); 2026-10-08 (restoration)
 |source=Library of Congress, National Jukebox: https://www.loc.gov/item/jukebox-326858/ ; restoration code and logs: https://github.com/galaxyvoyager001-art/Echoes-Recovered
 |author=Toyotake, Roshō (performer); Victor (record company); restoration: Echoes Recovered project
 |permission=Credit line requested by the Library of Congress: "Library of Congress, National Jukebox."

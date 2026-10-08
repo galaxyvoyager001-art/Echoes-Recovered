@@ -1,7 +1,7 @@
 =={{int:filedesc}}==
 {{Information
-|description={{en|1=Torna a Surriento - Bianca, Lia. Female vocal solo, with orchestra. Recorded 1910-03-25 in Argentina, Buenos Aires. Victor 62914, matrix R-683 (Matrix ID), take [1]. Restored version (click interpolation, noise reduction, band-limited filtering, bounded EQ; no generative processing). Original transfer: Library of Congress, National Jukebox.}}
-|date=1910-03-25 (recording); 2026-10-07 (restoration)
+|description={{en|1=Torna a Surriento - Bianca, Lia. Female vocal solo, with orchestra. Recorded 1910-03-25 in Buenos Aires, Argentina. Victor 62914, matrix R-683 (Matrix ID), take [1]. Restored version (click interpolation, noise reduction, band-limited filtering, bounded EQ; no generative processing). Original transfer: Library of Congress, National Jukebox.}}
+|date=1910-03-25 (recording); 2026-10-08 (restoration)
 |source=Library of Congress, National Jukebox: https://www.loc.gov/item/jukebox-192569/ ; restoration code and logs: https://github.com/galaxyvoyager001-art/Echoes-Recovered
 |author=Bianca, Lia (performer); Victor (record company); restoration: Echoes Recovered project
 |permission=Credit line requested by the Library of Congress: "Library of Congress, National Jukebox."

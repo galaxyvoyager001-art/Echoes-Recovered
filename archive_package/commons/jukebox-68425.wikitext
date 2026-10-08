@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Festival overture - St. Louis Symphony Orchestra. Orchestra. Recorded 1923-10-30 in Missouri, St. Louis, United States. Victor 55202, matrix C-28857 (Matrix ID), take 4. Restored version (click interpolation, noise reduction, band-limited filtering, bounded EQ; no generative processing). Original transfer: Library of Congress, National Jukebox.}}
+|date=1923-10-30 (recording); 2026-10-08 (restoration)
+|source=Library of Congress, National Jukebox: https://www.loc.gov/item/jukebox-68425/ ; restoration code and logs: https://github.com/galaxyvoyager001-art/Echoes-Recovered
+|author=St. Louis Symphony Orchestra (performer); Victor (record company); restoration: Echoes Recovered project
+|permission=Credit line requested by the Library of Congress: "Library of Congress, National Jukebox."
+|other versions=Unrestored LoC transfer: https://www.loc.gov/item/jukebox-68425/
+}}
+
+=={{int:license-header}}==
+{{PD-US-record-expired}}
+<!-- Check on Commons before uploading: the work must also be PD in its source country (these discs were first published in the US). -->
+
+[[Category:National Jukebox]]
+[[Category:1923 sound recordings]]

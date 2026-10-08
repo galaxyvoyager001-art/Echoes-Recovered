@@ -154,6 +154,8 @@ def main():
     INSETS = [
         {"id": "corridor", "label": "Enlarged: New York – Philadelphia", "bbox": (-75.95, 39.72, -73.45, 40.98), "w": 360,
          "arcs": sarcs, "shapes": sshapes, "tint": colour_shapes(sshapes), "min_px": 0.4},
+        {"id": "midwest", "label": "Enlarged: US Midwest", "bbox": (-96.8, 37.0, -81.6, 43.7), "w": 360,
+         "arcs": sarcs, "shapes": sshapes, "tint": colour_shapes(sshapes), "min_px": 0.4},
         {"id": "japan", "label": "Inset: Japan (east of the main map)", "bbox": (128.5, 30.2, 146.5, 45.8), "w": 300,
          "arcs": arcs, "shapes": shapes, "tint": tint, "min_px": 0.4},
     ]

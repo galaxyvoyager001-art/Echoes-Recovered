@@ -1,7 +1,7 @@
 =={{int:filedesc}}==
 {{Information
-|description={{en|1=Castle walk - Europe's Society Orchestra. Orchestra. Recorded 1914-02-10 in United States, New York. Victor 17553, matrix B-14434 (Matrix ID), take 2. Restored version (click interpolation, noise reduction, band-limited filtering, bounded EQ; no generative processing). Original transfer: Library of Congress, National Jukebox.}}
-|date=1914-02-10 (recording); 2026-10-07 (restoration)
+|description={{en|1=Castle walk - Europe's Society Orchestra. Orchestra. Recorded 1914-02-10 in New York, United States. Victor 17553, matrix B-14434 (Matrix ID), take 2. Restored version (click interpolation, noise reduction, band-limited filtering, bounded EQ; no generative processing). Original transfer: Library of Congress, National Jukebox.}}
+|date=1914-02-10 (recording); 2026-10-08 (restoration)
 |source=Library of Congress, National Jukebox: https://www.loc.gov/item/jukebox-134539/ ; restoration code and logs: https://github.com/galaxyvoyager001-art/Echoes-Recovered
 |author=Europe's Society Orchestra (performer); Victor (record company); restoration: Echoes Recovered project
 |permission=Credit line requested by the Library of Congress: "Library of Congress, National Jukebox."

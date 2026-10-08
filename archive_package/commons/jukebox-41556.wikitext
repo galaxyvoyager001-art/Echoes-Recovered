@@ -1,7 +1,7 @@
 =={{int:filedesc}}==
 {{Information
 |description={{en|1=St. Louis blues - Original Dixieland Jazz Band. Jazz/dance band, with male vocal solo. Recorded 1921-05-25 in United States, New York. Victor 18772, matrix B-25412 (Matrix ID), take 2. Restored version (click interpolation, noise reduction, band-limited filtering, bounded EQ; no generative processing). Original transfer: Library of Congress, National Jukebox.}}
-|date=1921-05-25 (recording); 2026-10-07 (restoration)
+|date=1921-05-25 (recording); 2026-10-08 (restoration)
 |source=Library of Congress, National Jukebox: https://www.loc.gov/item/jukebox-41556/ ; restoration code and logs: https://github.com/galaxyvoyager001-art/Echoes-Recovered
 |author=Original Dixieland Jazz Band (performer); Victor (record company); restoration: Echoes Recovered project
 |permission=Credit line requested by the Library of Congress: "Library of Congress, National Jukebox."

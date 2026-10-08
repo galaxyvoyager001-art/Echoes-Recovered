@@ -1,7 +1,7 @@
 =={{int:filedesc}}==
 {{Information
-|description={{en|1=De Lambayeque a Chiclayo - Cobian Y Díaz. Vocal duet, with guitar and cajón. Recorded 1913-09-12 in Lima, Perú. Victor 65642, matrix L-231 (Matrix ID), take 1. Restored version (click interpolation, noise reduction, band-limited filtering, bounded EQ; no generative processing). Original transfer: Library of Congress, National Jukebox.}}
-|date=1913-09-12 (recording); 2026-10-07 (restoration)
+|description={{en|1=De Lambayeque a Chiclayo - Cobian Y Díaz. Vocal duet, with guitar and cajón. Recorded 1913-09-12 in Perú, Lima. Victor 65642, matrix L-231 (Matrix ID), take 1. Restored version (click interpolation, noise reduction, band-limited filtering, bounded EQ; no generative processing). Original transfer: Library of Congress, National Jukebox.}}
+|date=1913-09-12 (recording); 2026-10-08 (restoration)
 |source=Library of Congress, National Jukebox: https://www.loc.gov/item/jukebox-8769/ ; restoration code and logs: https://github.com/galaxyvoyager001-art/Echoes-Recovered
 |author=Cobian Y Díaz (performer); Victor (record company); restoration: Echoes Recovered project
 |permission=Credit line requested by the Library of Congress: "Library of Congress, National Jukebox."

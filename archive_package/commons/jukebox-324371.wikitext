@@ -1,7 +1,7 @@
 =={{int:filedesc}}==
 {{Information
-|description={{en|1=Imitação d'um batuque africano - Nunes, Cezar. Male vocal solo, with guitar. Recorded 1907-11-01 in Brazil, Rio De Janeiro. Victor 69244, matrix 6-G (Matrix ID), take [1]. Restored version (click interpolation, noise reduction, band-limited filtering, bounded EQ; no generative processing). Original transfer: Library of Congress, National Jukebox.}}
-|date=1907-11-01 (recording); 2026-10-07 (restoration)
+|description={{en|1=Imitação d'um batuque africano - Nunes, Cezar. Male vocal solo, with guitar. Recorded 1907-11-01 in Rio De Janeiro, Brazil. Victor 69244, matrix 6-G (Matrix ID), take [1]. Restored version (click interpolation, noise reduction, band-limited filtering, bounded EQ; no generative processing). Original transfer: Library of Congress, National Jukebox.}}
+|date=1907-11-01 (recording); 2026-10-08 (restoration)
 |source=Library of Congress, National Jukebox: https://www.loc.gov/item/jukebox-324371/ ; restoration code and logs: https://github.com/galaxyvoyager001-art/Echoes-Recovered
 |author=Nunes, Cezar (performer); Victor (record company); restoration: Echoes Recovered project
 |permission=Credit line requested by the Library of Congress: "Library of Congress, National Jukebox."

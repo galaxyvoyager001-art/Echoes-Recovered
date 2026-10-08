@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=It ain't gonna rain no mo' - Hall, Wendell W.. Male vocal solo, with ukulele (self-accompaniment). Recorded 1923-10-12 in New York, United States. Victor 19171, matrix B-28741 (Matrix ID), take 2. Restored version (click interpolation, noise reduction, band-limited filtering, bounded EQ; no generative processing). Original transfer: Library of Congress, National Jukebox.}}
+|date=1923-10-12 (recording); 2026-10-08 (restoration)
+|source=Library of Congress, National Jukebox: https://www.loc.gov/item/jukebox-68262/ ; restoration code and logs: https://github.com/galaxyvoyager001-art/Echoes-Recovered
+|author=Hall, Wendell W. (performer); Victor (record company); restoration: Echoes Recovered project
+|permission=Credit line requested by the Library of Congress: "Library of Congress, National Jukebox."
+|other versions=Unrestored LoC transfer: https://www.loc.gov/item/jukebox-68262/
+}}
+
+=={{int:license-header}}==
+{{PD-US-record-expired}}
+<!-- Check on Commons before uploading: the work must also be PD in its source country (these discs were first published in the US). -->
+
+[[Category:National Jukebox]]
+[[Category:1923 sound recordings]]

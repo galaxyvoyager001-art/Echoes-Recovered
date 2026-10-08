@@ -1,7 +1,7 @@
 =={{int:filedesc}}==
 {{Information
 |description={{en|1=El jarabe tapatío - Picazo, Leopoldo. Male vocal duet, with guitar. Recorded 1905-07-17 in Mexico City, Mexico. Victor 62024, matrix 4-Z (Matrix ID), take [1?]. Restored version (click interpolation, noise reduction, band-limited filtering, bounded EQ; no generative processing). Original transfer: Library of Congress, National Jukebox.}}
-|date=1905-07-17 (recording); 2026-10-07 (restoration)
+|date=1905-07-17 (recording); 2026-10-08 (restoration)
 |source=Library of Congress, National Jukebox: https://www.loc.gov/item/jukebox-6171/ ; restoration code and logs: https://github.com/galaxyvoyager001-art/Echoes-Recovered
 |author=Picazo, Leopoldo (performer); Victor (record company); restoration: Echoes Recovered project
 |permission=Credit line requested by the Library of Congress: "Library of Congress, National Jukebox."

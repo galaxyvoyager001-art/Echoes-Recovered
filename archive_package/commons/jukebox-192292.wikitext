@@ -1,7 +1,7 @@
 =={{int:filedesc}}==
 {{Information
-|description={{en|1=Las golondrinas - Terán De Peralta, María. Female vocal solo, with guitar. Recorded 1917-10-30 in Ecuador, Guayaquil. Victor 72438, matrix G-2568 (Matrix ID), take 1. Restored version (click interpolation, noise reduction, band-limited filtering, bounded EQ; no generative processing). Original transfer: Library of Congress, National Jukebox.}}
-|date=1917-10-30 (recording); 2026-10-07 (restoration)
+|description={{en|1=Las golondrinas - Terán De Peralta, María. Female vocal solo, with guitar. Recorded 1917-10-30 in Guayaquil, Ecuador. Victor 72438, matrix G-2568 (Matrix ID), take 1. Restored version (click interpolation, noise reduction, band-limited filtering, bounded EQ; no generative processing). Original transfer: Library of Congress, National Jukebox.}}
+|date=1917-10-30 (recording); 2026-10-08 (restoration)
 |source=Library of Congress, National Jukebox: https://www.loc.gov/item/jukebox-192292/ ; restoration code and logs: https://github.com/galaxyvoyager001-art/Echoes-Recovered
 |author=Terán De Peralta, María (performer); Victor (record company); restoration: Echoes Recovered project
 |permission=Credit line requested by the Library of Congress: "Library of Congress, National Jukebox."
