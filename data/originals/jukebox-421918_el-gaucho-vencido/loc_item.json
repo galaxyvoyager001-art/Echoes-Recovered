@@ -1,0 +1,1509 @@
+{
+ "articles_and_essays": null,
+ "cite_this": {
+  "apa": "Pérez Freire, O. &amp; Pérez Freire, O. (1922) <cite>El Gaucho Vencido</cite>. [Audio] Retrieved from the Library of Congress, https://www.loc.gov/item/jukebox-421918/.",
+  "chicago": "Pérez Freire, Osmán, and Osmán Pérez Freire. <cite>El Gaucho Vencido</cite>. 1922. Audio. https://www.loc.gov/item/jukebox-421918/.",
+  "mla": "Pérez Freire, Osmán, and Osmán Pérez Freire. <cite>El Gaucho Vencido</cite>. 1922. Audio. Retrieved from the Library of Congress, &lt;www.loc.gov/item/jukebox-421918/&gt;."
+ },
+ "item": {
+  "_version_": 1878219779425173504,
+  "access_restricted": false,
+  "aka": [
+   "http://www.loc.gov/item/jukebox-421918/",
+   "http://www.loc.gov/resource/jukebox-421918.0/",
+   "http://www.loc.gov/resource/jukebox-421918.1/",
+   "http://www.loc.gov/resource/jukebox-421918.0",
+   "http://www.loc.gov/resource/jukebox-421918.1"
+  ],
+  "audio_type": "Vocal",
+  "campaigns": [],
+  "contributor_composer": [
+   "pérez freire, osmán"
+  ],
+  "contributor_names": [
+   "Pérez Freire, Osmán -- Composer -- Composer",
+   "Pérez Freire, Osmán -- Vocalist -- Baritone Vocal"
+  ],
+  "contributor_primary": [
+   "pérez freire, osmán"
+  ],
+  "contributor_vocalist": [
+   "pérez freire, osmán"
+  ],
+  "contributors": [
+   {
+    "pérez freire, osmán": "https://www.loc.gov/search/?fa=contributor:p%C3%A9rez+freire,+osm%C3%A1n&fo=json"
+   }
+  ],
+  "contributors_composer": [
+   {
+    "pérez freire, osmán": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_composer:p%C3%A9rez+freire,+osm%C3%A1n&fo=json"
+   }
+  ],
+  "contributors_primary": [
+   {
+    "pérez freire, osmán": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_primary:p%C3%A9rez+freire,+osm%C3%A1n&fo=json"
+   }
+  ],
+  "contributors_vocalist": [
+   {
+    "pérez freire, osmán": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_vocalist:p%C3%A9rez+freire,+osm%C3%A1n&fo=json"
+   }
+  ],
+  "date": "1922-06-16",
+  "dates": [
+   {
+    "1922-06-16": "https://www.loc.gov/search/?dates=1922-06-16/1922-06-16&fo=json"
+   }
+  ],
+  "description": [
+   "Matrix/Take: BA-68/1."
+  ],
+  "digitized": true,
+  "display_offsite": true,
+  "extract_timestamp": "2026-10-05T03:39:28.003Z",
+  "extract_urls": [
+   "http://www.loc.gov/item/jukebox-421918#nationaljukebox"
+  ],
+  "file_id": [
+   "jvm_victor_73485_01_ba68_01"
+  ],
+  "format": [
+   {
+    "sound recording": "https://www.loc.gov/search/?fa=original_format:sound+recording&fo=json"
+   }
+  ],
+  "genre": [
+   "Spanish (Chile)",
+   "Popular music",
+   "Ethnic music"
+  ],
+  "group": [
+   "nationaljukebox",
+   "national-jukebox"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/item/jukebox-421918/",
+  "iiif_manifest_url": "https://www.loc.gov/item/jukebox-421918/manifest.json",
+  "image_url": [
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73485_01_ba68_01:jvm_victor_73485_01_ba68_01/full/pct:12.5/0/default.jpg#h=268&w=265",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73485_01_ba68_01:jvm_victor_73485_01_ba68_01/full/pct:25/0/default.jpg#h=536&w=531",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73485_01_ba68_01:jvm_victor_73485_01_ba68_01/full/pct:50/0/default.jpg#h=1072&w=1063",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73485_01_ba68_01:jvm_victor_73485_01_ba68_01/full/pct:100/0/default.jpg#h=2145&w=2126"
+  ],
+  "index": 1,
+  "item": {
+   "audio_type": "Vocal",
+   "contributors": [
+    "Pérez Freire, Osmán -- Composer -- Composer",
+    "Pérez Freire, Osmán -- Vocalist -- Baritone Vocal"
+   ],
+   "file_id": [
+    "jvm_victor_73485_01_ba68_01"
+   ],
+   "genre": [
+    "Spanish (Chile)",
+    "Popular music",
+    "Ethnic music"
+   ],
+   "language": "Spanish",
+   "profile": "jukebox",
+   "recording_date": "1922-06-16",
+   "recording_matrix_number": "BA-68 (Matrix ID)",
+   "recording_repository": "Source of original recording: Johnson Victrola Museum, Delaware.",
+   "recording_take_id": 421918,
+   "recording_take_number": "1",
+   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+   "summary": "Male vocal solo, with piano"
+  },
+  "language": [
+   "spanish"
+  ],
+  "languages": [
+   {
+    "spanish": "https://www.loc.gov/search/?fa=language:spanish&fo=json"
+   }
+  ],
+  "location": [
+   "buenos aires",
+   "argentina"
+  ],
+  "locations": [
+   {
+    "argentina": "https://www.loc.gov/search/?fa=location:argentina&fo=json"
+   },
+   {
+    "buenos aires": "https://www.loc.gov/search/?fa=location:buenos+aires&fo=json"
+   }
+  ],
+  "mime_type": [
+   "audio/mpeg",
+   "audio/wav",
+   "image/tif",
+   "image/jpeg"
+  ],
+  "online_format": [
+   "audio",
+   "image"
+  ],
+  "original_format": [
+   "sound recording"
+  ],
+  "other_formats": [],
+  "other_title": [
+   "Estilo"
+  ],
+  "partof": [
+   {
+    "count": 3495,
+    "title": "johnson victrola museum, delaware",
+    "url": "https://www.loc.gov/search/?fa=partof:johnson+victrola+museum,+delaware&fo=json"
+   },
+   {
+    "count": 20273,
+    "title": "national jukebox",
+    "url": "https://www.loc.gov/collections/national-jukebox/?fo=json"
+   },
+   {
+    "count": 20496,
+    "title": "recorded sound research center",
+    "url": "https://www.loc.gov/search/?fa=partof:recorded+sound+research+center&fo=json"
+   }
+  ],
+  "partof_repository": [
+   "johnson victrola museum, delaware"
+  ],
+  "profile": "jukebox",
+  "recording_date": "1922-06-16",
+  "recording_matrix_number": "BA-68 (Matrix ID)",
+  "recording_repository": "Source of original recording: Johnson Victrola Museum, Delaware.",
+  "recording_take_id": 421918,
+  "recording_take_number": "1",
+  "resources": [
+   {
+    "files": 1,
+    "media": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73485_01_ba68_01:jvm_victor_73485_01_ba68_01/full/full/0/full/default.mp3",
+    "url": "https://www.loc.gov/resource/jukebox-421918.0"
+   },
+   {
+    "files": 1,
+    "image": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73485_01_ba68_01:jvm_victor_73485_01_ba68_01/full/pct:100/0/default.jpg",
+    "mimetype": "image/jpeg",
+    "url": "https://www.loc.gov/resource/jukebox-421918.1"
+   }
+  ],
+  "rights": [
+   "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
+  ],
+  "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+  "score": 16.532057,
+  "shard": "01",
+  "shelf_id": "",
+  "site": [
+   "nationaljukebox"
+  ],
+  "source_modified": "2000-01-01T12:00:00Z",
+  "subject": [
+   "spanish (chile)",
+   "vocal",
+   "popular music",
+   "ethnic music"
+  ],
+  "subject_category": [
+   "vocal"
+  ],
+  "subject_genre": [
+   "popular music",
+   "ethnic music"
+  ],
+  "subject_target_audience": [
+   "spanish (chile)"
+  ],
+  "subjects": [
+   {
+    "ethnic music": "https://www.loc.gov/search/?fa=subject:ethnic+music&fo=json"
+   },
+   {
+    "popular music": "https://www.loc.gov/search/?fa=subject:popular+music&fo=json"
+   },
+   {
+    "spanish (chile)": "https://www.loc.gov/search/?fa=subject:spanish+%28chile%29&fo=json"
+   },
+   {
+    "vocal": "https://www.loc.gov/search/?fa=subject:vocal&fo=json"
+   }
+  ],
+  "subjects_category": [
+   {
+    "vocal": "https://www.loc.gov/collections/national-jukebox/?fa=subject_category:vocal&fo=json"
+   }
+  ],
+  "subjects_genre": [
+   {
+    "ethnic music": "https://www.loc.gov/collections/national-jukebox/?fa=subject_genre:ethnic+music&fo=json"
+   },
+   {
+    "popular music": "https://www.loc.gov/collections/national-jukebox/?fa=subject_genre:popular+music&fo=json"
+   }
+  ],
+  "subjects_target_audience": [
+   {
+    "spanish (chile)": "https://www.loc.gov/collections/national-jukebox/?fa=subject_target_audience:spanish+%28chile%29&fo=json"
+   }
+  ],
+  "summary": "Male vocal solo, with piano",
+  "timestamp": "2026-10-05T14:19:23.876Z",
+  "title": "El gaucho vencido",
+  "type": [
+   "sound recording-musical"
+  ],
+  "url": "https://www.loc.gov/item/jukebox-421918/"
+ },
+ "more_like_this": [
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-7090/",
+    "http://www.loc.gov/resource/jukebox-7090.0/",
+    "http://www.loc.gov/resource/jukebox-7090.1/",
+    "http://www.loc.gov/resource/jukebox-7090.0",
+    "http://www.loc.gov/resource/jukebox-7090.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "pérez freire, osmán",
+    "viérgol, antonio martínez"
+   ],
+   "date": "1922-06-16",
+   "dates": [
+    "1922-06-16"
+   ],
+   "description": [
+    "Victor 73484. Matrix/Take: BA-66/2."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-04T17:49:44.648Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-7090/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73484_01_ba66_02:jvm_victor_73484_01_ba66_02/full/pct:12.5/0/default.jpg#h=283&w=283",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73484_01_ba66_02:jvm_victor_73484_01_ba66_02/full/pct:25/0/default.jpg#h=566&w=567",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73484_01_ba66_02:jvm_victor_73484_01_ba66_02/full/pct:50/0/default.jpg#h=1132&w=1134",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73484_01_ba66_02:jvm_victor_73484_01_ba66_02/full/pct:100/0/default.jpg#h=2265&w=2268"
+   ],
+   "index": 1,
+   "language": [
+    "spanish"
+   ],
+   "location": [
+    "buenos aires",
+    "argentina"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Tonada"
+   ],
+   "partof": [
+    "johnson victrola museum, delaware",
+    "recorded sound research center",
+    "national jukebox"
+   ],
+   "score": 52.89377,
+   "shelf_id": "Victor 73484",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "spanish (chile)",
+    "popular music",
+    "ethnic music",
+    "victor",
+    "vocal"
+   ],
+   "timestamp": "2026-10-05T14:44:07.410Z",
+   "title": "El moro volvió sin él",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-7090/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-7091/",
+    "http://www.loc.gov/resource/jukebox-7091.0/",
+    "http://www.loc.gov/resource/jukebox-7091.1/",
+    "http://www.loc.gov/resource/jukebox-7091.0",
+    "http://www.loc.gov/resource/jukebox-7091.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "pérez freire, osmán",
+    "viérgol, antonio martínez"
+   ],
+   "date": "1922-06-16",
+   "dates": [
+    "1922-06-16"
+   ],
+   "description": [
+    "Victor 73484. Matrix/Take: BA-67/2."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-04T17:49:44.648Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-7091/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73484_01_ba67_02:jvm_victor_73484_01_ba67_02/full/pct:12.5/0/default.jpg#h=281&w=282",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73484_01_ba67_02:jvm_victor_73484_01_ba67_02/full/pct:25/0/default.jpg#h=563&w=565",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73484_01_ba67_02:jvm_victor_73484_01_ba67_02/full/pct:50/0/default.jpg#h=1127&w=1130",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73484_01_ba67_02:jvm_victor_73484_01_ba67_02/full/pct:100/0/default.jpg#h=2255&w=2260"
+   ],
+   "index": 2,
+   "language": [
+    "spanish"
+   ],
+   "location": [
+    "buenos aires",
+    "argentina"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Estilo cueca"
+   ],
+   "partof": [
+    "johnson victrola museum, delaware",
+    "recorded sound research center",
+    "national jukebox"
+   ],
+   "score": 52.89377,
+   "shelf_id": "Victor 73484",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "spanish (chile)",
+    "popular music",
+    "ethnic music",
+    "victor",
+    "vocal"
+   ],
+   "timestamp": "2026-10-05T14:44:07.410Z",
+   "title": "El delantal de la china",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-7091/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-267363/",
+    "http://www.loc.gov/resource/jukebox-267363.0/",
+    "http://www.loc.gov/resource/jukebox-267363.1/",
+    "http://www.loc.gov/resource/jukebox-267363.0",
+    "http://www.loc.gov/resource/jukebox-267363.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "sabajno, carlo",
+    "balmaceda, jorge",
+    "kloss, alberto"
+   ],
+   "date": "1922-02-18",
+   "dates": [
+    "1922-02-18"
+   ],
+   "description": [
+    "Matrix/Take: BA-3/1."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T03:04:50.413Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-267363/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_540_01_ba3_01:jvm_victor_540_01_ba3_01/full/pct:12.5/0/default.jpg#h=302&w=300",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_540_01_ba3_01:jvm_victor_540_01_ba3_01/full/pct:25/0/default.jpg#h=604&w=600",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_540_01_ba3_01:jvm_victor_540_01_ba3_01/full/pct:50/0/default.jpg#h=1208&w=1200",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_540_01_ba3_01:jvm_victor_540_01_ba3_01/full/pct:100/0/default.jpg#h=2417&w=2401"
+   ],
+   "index": 3,
+   "language": [
+    "spanish"
+   ],
+   "location": [
+    "buenos aires",
+    "argentina"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Cancion"
+   ],
+   "partof": [
+    "johnson victrola museum, delaware",
+    "recorded sound research center",
+    "national jukebox"
+   ],
+   "score": 44.68833,
+   "shelf_id": "",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "spanish (chile)",
+    "vocal",
+    "popular music",
+    "ethnic music"
+   ],
+   "timestamp": "2026-10-05T14:10:22.389Z",
+   "title": "El lirio",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-267363/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-258214/",
+    "http://www.loc.gov/resource/jukebox-258214.0/",
+    "http://www.loc.gov/resource/jukebox-258214.1/",
+    "http://www.loc.gov/resource/jukebox-258214.0",
+    "http://www.loc.gov/resource/jukebox-258214.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "octetto santiago"
+   ],
+   "date": "1912-01-27",
+   "dates": [
+    "1912-01-27"
+   ],
+   "description": [
+    "Victor 63995. Matrix/Take: H-407/1."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T02:59:27.926Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-258214/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_63995_01_h407_01:jvm_victor_63995_01_h407_01/full/pct:12.5/0/default.jpg#h=294&w=296",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_63995_01_h407_01:jvm_victor_63995_01_h407_01/full/pct:25/0/default.jpg#h=589&w=593",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_63995_01_h407_01:jvm_victor_63995_01_h407_01/full/pct:50/0/default.jpg#h=1178&w=1186",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_63995_01_h407_01:jvm_victor_63995_01_h407_01/full/pct:100/0/default.jpg#h=2357&w=2373"
+   ],
+   "index": 4,
+   "language": [
+    "spanish"
+   ],
+   "location": [
+    "buenos aires",
+    "argentina"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Cueca chilena"
+   ],
+   "partof": [
+    "johnson victrola museum, delaware",
+    "recorded sound research center",
+    "national jukebox"
+   ],
+   "score": 44.68833,
+   "shelf_id": "Victor 63995",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "spanish (chile)",
+    "popular music",
+    "ethnic music",
+    "victor",
+    "vocal"
+   ],
+   "timestamp": "2026-10-05T14:09:28.140Z",
+   "title": "El roto chileno",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-258214/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-7058/",
+    "http://www.loc.gov/resource/jukebox-7058.0/",
+    "http://www.loc.gov/resource/jukebox-7058.1/",
+    "http://www.loc.gov/resource/jukebox-7058.0",
+    "http://www.loc.gov/resource/jukebox-7058.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "kloss, alberto"
+   ],
+   "date": "1922-03-15",
+   "dates": [
+    "1922-03-15"
+   ],
+   "description": [
+    "Victor 73327. Matrix/Take: BA-31/1."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-04T17:49:44.648Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-7058/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73327_01_ba31_01:jvm_victor_73327_01_ba31_01/full/pct:12.5/0/default.jpg#h=251&w=253",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73327_01_ba31_01:jvm_victor_73327_01_ba31_01/full/pct:25/0/default.jpg#h=502&w=506",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73327_01_ba31_01:jvm_victor_73327_01_ba31_01/full/pct:50/0/default.jpg#h=1004&w=1013",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73327_01_ba31_01:jvm_victor_73327_01_ba31_01/full/pct:100/0/default.jpg#h=2009&w=2026"
+   ],
+   "index": 5,
+   "language": [
+    "spanish"
+   ],
+   "location": [
+    "buenos aires",
+    "argentina"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Cancion"
+   ],
+   "partof": [
+    "johnson victrola museum, delaware",
+    "recorded sound research center",
+    "national jukebox"
+   ],
+   "score": 44.68833,
+   "shelf_id": "Victor 73327",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "spanish (chile)",
+    "popular music",
+    "ethnic music",
+    "victor",
+    "vocal"
+   ],
+   "timestamp": "2026-10-05T14:43:49.164Z",
+   "title": "Las violetas",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-7058/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-7059/",
+    "http://www.loc.gov/resource/jukebox-7059.0/",
+    "http://www.loc.gov/resource/jukebox-7059.1/",
+    "http://www.loc.gov/resource/jukebox-7059.0",
+    "http://www.loc.gov/resource/jukebox-7059.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "kloss, alberto"
+   ],
+   "date": "1922-03-15",
+   "dates": [
+    "1922-03-15"
+   ],
+   "description": [
+    "Victor 73568. Matrix/Take: BA-32/2."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-04T17:49:44.648Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-7059/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73568_01_ba32_02:jvm_victor_73568_01_ba32_02/full/pct:12.5/0/default.jpg#h=229&w=226",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73568_01_ba32_02:jvm_victor_73568_01_ba32_02/full/pct:25/0/default.jpg#h=459&w=453",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73568_01_ba32_02:jvm_victor_73568_01_ba32_02/full/pct:50/0/default.jpg#h=918&w=906",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73568_01_ba32_02:jvm_victor_73568_01_ba32_02/full/pct:100/0/default.jpg#h=1837&w=1813"
+   ],
+   "index": 6,
+   "language": [
+    "spanish"
+   ],
+   "location": [
+    "buenos aires",
+    "argentina"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Cancion"
+   ],
+   "partof": [
+    "johnson victrola museum, delaware",
+    "recorded sound research center",
+    "national jukebox"
+   ],
+   "score": 44.68833,
+   "shelf_id": "Victor 73568",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "spanish (chile)",
+    "popular music",
+    "ethnic music",
+    "victor",
+    "vocal"
+   ],
+   "timestamp": "2026-10-05T14:43:49.164Z",
+   "title": "El ciprés",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-7059/"
+  }
+ ],
+ "notice": {
+  "info": "<strong>COLUMBUS DAY HOLIDAY:</strong> On Monday, October 12, 2026, The Jefferson Building Great Hall and exhibitions will be open from 10 a.m. - 5 p.m. to guests with timed-entry passes. The Main Reading Room will be open to visitors, no research or collections services available. All other reading rooms, the Madison and Adams Buildings will be CLOSED to the public. Regularly scheduled access resumes on Tuesday, October 13. \n",
+  "status": "production"
+ },
+ "options": {
+  "access_group": [
+   ""
+  ],
+  "access_group_raw": "",
+  "all": null,
+  "api_version": "1",
+  "app_context": null,
+  "application_shim": null,
+  "application_version": "$Revision$",
+  "attribute": null,
+  "attribute!": null,
+  "attribute_map": null,
+  "cache_tags": [
+   "nationaljukebox",
+   "national-jukebox",
+   "gdc/scd",
+   "catalog-split-02",
+   "catalog",
+   "general-collections-scan-on-demand-new",
+   "main-catalog-split-02",
+   "main-catalog",
+   "catalog-split-07",
+   "main-catalog-split-07",
+   "catalog-split-11",
+   "main-catalog-split-11",
+   "paprika-afc"
+  ],
+  "callback": null,
+  "clip": null,
+  "clip_image_width": null,
+  "clip_rotation": null,
+  "content_filter": null,
+  "content_replacement": "",
+  "count": null,
+  "dates": null,
+  "default_count": 25,
+  "delimiter": null,
+  "digital_id": null,
+  "display_level": null,
+  "distance": null,
+  "downloadOption": null,
+  "duration": 0.45554661750793457,
+  "embed": [],
+  "embed!": [],
+  "error_response_status": null,
+  "excludeTerms": null,
+  "facetLimits": "",
+  "facetPrefix": null,
+  "facet_count": null,
+  "facet_style": null,
+  "field": null,
+  "form_facets": [
+   {
+    "field": "subject_label",
+    "select": "multiple"
+   },
+   {
+    "field": "subject_category",
+    "select": "multiple"
+   },
+   {
+    "field": "language",
+    "select": "multiple"
+   }
+  ],
+  "format": "json",
+  "host": "www.loc.gov",
+  "ical": false,
+  "id": "jukebox-421918/",
+  "iiif": false,
+  "include_facets": [
+   {
+    "field": "original-format"
+   },
+   {
+    "field": "partof_repository",
+    "label": "Repository"
+   },
+   {
+    "field": "subject_label",
+    "label": "Label"
+   },
+   {
+    "field": "dates"
+   },
+   {
+    "field": "subject_genre",
+    "label": "Genre"
+   },
+   {
+    "closed": true,
+    "field": "subject_target_audience",
+    "label": "Target Audience"
+   },
+   {
+    "closed": true,
+    "field": "subject_category",
+    "label": "Category"
+   },
+   {
+    "closed": true,
+    "field": "location"
+   },
+   {
+    "closed": true,
+    "field": "contributor"
+   },
+   {
+    "closed": true,
+    "field": "contributor_vocalist",
+    "label": "Vocalist"
+   },
+   {
+    "closed": true,
+    "field": "contributor_composer",
+    "label": "Composer"
+   },
+   {
+    "closed": true,
+    "field": "contributor_lyricist",
+    "label": "Lyricist"
+   },
+   {
+    "closed": true,
+    "field": "contributor_author",
+    "label": "Author"
+   },
+   {
+    "closed": true,
+    "field": "contributor_performer",
+    "label": "Performer"
+   },
+   {
+    "closed": true,
+    "field": "contributor_musical_group",
+    "label": "Musical Group"
+   },
+   {
+    "closed": true,
+    "field": "subject"
+   },
+   {
+    "closed": true,
+    "field": "language"
+   },
+   {
+    "field": "access-restricted"
+   }
+  ],
+  "index": null,
+  "inputEncoding": "UTF-8",
+  "item": null,
+  "items": null,
+  "keys": null,
+  "language": null,
+  "latlong": null,
+  "method": "GET",
+  "newSearch": null,
+  "new_clip_url": false,
+  "onsite": false,
+  "operator": null,
+  "outputEncoding": "UTF-8",
+  "page_campaigns": [],
+  "path_info": "/item/jukebox-421918/",
+  "port": "443",
+  "proxypath": null,
+  "query_string": "fo=json",
+  "redirect_proxy": false,
+  "redirect_to_item": null,
+  "referer": "",
+  "region": "",
+  "release_id": 123456789,
+  "request_host": "www.loc.gov",
+  "request_params": {
+   "fo": [
+    "json"
+   ]
+  },
+  "request_url": "https://www.loc.gov/item/jukebox-421918/?fo=json",
+  "resource": "",
+  "resource_sequence": null,
+  "scheme": "https",
+  "searchIn": null,
+  "searchTerms": "",
+  "segments": null,
+  "shards": [
+   "01"
+  ],
+  "site_date_range": "1900-01-01/1925-12-31",
+  "site_defaults": [],
+  "site_id": null,
+  "site_type": null,
+  "solrQuery": "",
+  "sortBy": null,
+  "sortOrder": null,
+  "startPage": null,
+  "style": null,
+  "suggested": null,
+  "target": null,
+  "template": "layouts/item/layout",
+  "timestamp": 1791464061.1635802,
+  "tz_aware": null,
+  "unionFacets": "",
+  "webcast_permalink": null
+ },
+ "related_items": [
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://lccn.loc.gov/2020717681",
+    "http://www.loc.gov/item/2020717681/",
+    "https://hdl.loc.gov/loc.gdc/gdcebookspublic.2020717681",
+    "http://www.loc.gov/resource/gdcebookspublic.2020717681/"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "merele, hernán josé"
+   ],
+   "date": "2017-01-01",
+   "dates": [
+    "2017"
+   ],
+   "description": [
+    "Revised version of the author's thesis (master's)--Universidad Nacional de General Sarmiento, 2015. Includes bibliographical references. Description based on print version record; resource not viewed."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2022-10-01T14:02:29.452Z",
+   "group": [
+    "gdc/scd",
+    "catalog-split-02",
+    "catalog",
+    "general-collections-scan-on-demand-new",
+    "main-catalog-split-02",
+    "main-catalog"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/2020717681/",
+   "image_url": [
+    "https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/20/71/76/81/2020717681/2020717681.gif",
+    "https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/20/71/76/81/2020717681/2020717681.gif#h=443&w=310"
+   ],
+   "index": 1,
+   "language": [
+    "spanish"
+   ],
+   "location": [
+    "buenos aires",
+    "general sarmiento",
+    "argentina"
+   ],
+   "mime_type": [
+    "image/gif",
+    "application/pdf"
+   ],
+   "number": [
+    "2022-09-27t11:34:36",
+    "online resource",
+    "2020717681"
+   ],
+   "online_format": [
+    "image",
+    "pdf"
+   ],
+   "original_format": [
+    "book"
+   ],
+   "partof": [
+    "catalog",
+    "general collections",
+    "open access books"
+   ],
+   "score": 9.242227,
+   "shelf_id": "HV6433.A72",
+   "site": [
+    "catalog"
+   ],
+   "subject": [
+    "arana, nélida",
+    "general sarmiento (buenos aires, argentina)",
+    "argentina",
+    "peronism",
+    "victims of terrorism",
+    "deleroni, antonio",
+    "politics and government",
+    "alianza anticomunista argentina"
+   ],
+   "timestamp": "2022-12-10T08:58:41.844Z",
+   "title": "La \"depuración\" ideológica del peronismo en General Sarmiento (1973-1974) : una aproximación al proceso represivo durante los años setenta constitucionales a partir del caso de Antonio Tito Deleroni",
+   "type": [
+    "text"
+   ],
+   "url": "https://www.loc.gov/item/2020717681/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "https://hdl.loc.gov/loc.gdc/gdcebookspublic.2020715213",
+    "http://lccn.loc.gov/2020715213",
+    "http://www.loc.gov/resource/gdcebookspublic.2020715213/",
+    "http://www.loc.gov/item/2020715213/"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "fløgstad, guro"
+   ],
+   "date": "2016-01-01",
+   "dates": [
+    "2016"
+   ],
+   "description": [
+    "Includes bibliographical references (pages 193-206) and index. Description based on print version record; resource not viewed."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2021-07-03T13:22:10.990Z",
+   "group": [
+    "gdc/scd",
+    "catalog-split-07",
+    "catalog",
+    "general-collections-scan-on-demand-new",
+    "main-catalog-split-07",
+    "main-catalog"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/2020715213/",
+   "image_url": [
+    "https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/20/71/52/13/2020715213/2020715213.gif",
+    "https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/20/71/52/13/2020715213/2020715213.gif#h=458&w=300"
+   ],
+   "index": 2,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "buenos aires",
+    "argentina",
+    "south america"
+   ],
+   "mime_type": [
+    "image/gif",
+    "application/pdf"
+   ],
+   "number": [
+    "2020715213",
+    "online resource",
+    "2021-06-17t15:35:12"
+   ],
+   "online_format": [
+    "image",
+    "pdf"
+   ],
+   "original_format": [
+    "book"
+   ],
+   "partof": [
+    "catalog",
+    "general collections",
+    "open access books"
+   ],
+   "score": 9.242227,
+   "shelf_id": "PC4874.B8",
+   "site": [
+    "catalog"
+   ],
+   "subject": [
+    "spanish language",
+    "buenos aires",
+    "dialects",
+    "argentina",
+    "south america",
+    "grammaticalization",
+    "provincialisms"
+   ],
+   "timestamp": "2022-12-10T08:57:37.226Z",
+   "title": "Preterit expansion and perfect demise in Porteño Spanish and beyond : a critical perspective on cognitive grammaticalization theory",
+   "type": [
+    "text"
+   ],
+   "url": "https://www.loc.gov/item/2020715213/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://lccn.loc.gov/2020719141",
+    "http://www.loc.gov/item/2020719141/",
+    "https://hdl.loc.gov/loc.gdc/gdcebookspublic.2020719141",
+    "http://www.loc.gov/resource/gdcebookspublic.2020719141/"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "marengo, maría eugenia"
+   ],
+   "date": "2015-01-01",
+   "dates": [
+    "2015"
+   ],
+   "description": [
+    "Originally presented as the author's thesis (master's--Universidad Nacional de La Plata). Includes bibliographical references. Description based on print version record; resource not viewed."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2023-02-04T16:22:08.804Z",
+   "group": [
+    "gdc/scd",
+    "catalog-split-11",
+    "catalog",
+    "general-collections-scan-on-demand-new",
+    "main-catalog-split-11",
+    "main-catalog"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/2020719141/",
+   "image_url": [
+    "https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/20/71/91/41/2020719141/2020719141.gif",
+    "https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/20/71/91/41/2020719141/2020719141.gif#h=439&w=310"
+   ],
+   "index": 3,
+   "language": [
+    "spanish"
+   ],
+   "location": [
+    "buenos aires",
+    "argentina"
+   ],
+   "mime_type": [
+    "image/gif",
+    "application/pdf"
+   ],
+   "number": [
+    "2023-02-01t14:41:51",
+    "online resource",
+    "2020719141"
+   ],
+   "online_format": [
+    "image",
+    "pdf"
+   ],
+   "original_format": [
+    "book"
+   ],
+   "partof": [
+    "catalog",
+    "general collections",
+    "open access books"
+   ],
+   "score": 9.242227,
+   "shelf_id": "HV8179.B8",
+   "site": [
+    "catalog"
+   ],
+   "subject": [
+    "police",
+    "buenos aires (province)",
+    "intelligence service",
+    "argentina",
+    "history",
+    "communists",
+    "20th century"
+   ],
+   "timestamp": "2023-02-04T16:46:57.200Z",
+   "title": "Lo aparente como real : un análisis del sujeto \"comunista\" en la creación y consolidación del servicio de inteligencia de la policía de la Provincia de Buenos Aires (1930-1962)",
+   "type": [
+    "text"
+   ],
+   "url": "https://www.loc.gov/item/2020719141/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "https://hdl.loc.gov/loc.afc/afc9999005.17654",
+    "http://www.loc.gov/resource/afc.afc9999005-17654/",
+    "http://www.loc.gov/item/afc9999005.17654/"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "doyle, seamus",
+    "almada, epifanio"
+   ],
+   "date": "1941",
+   "dates": [
+    "1941"
+   ],
+   "digitized": true,
+   "extract_timestamp": "2024-07-10T07:44:26.080Z",
+   "group": [
+    "paprika-afc"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/afc9999005.17654/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:afc:afc9999005-17654:0757/full/pct:50.0/0/default.jpg",
+    "https://tile.loc.gov/image-services/iiif/public:afc:afc9999005-17654:0757/full/pct:50.0/0/default.jpg#h=447&w=751",
+    "https://tile.loc.gov/image-services/iiif/public:afc:afc9999005-17654:0757/full/pct:100.0/0/default.jpg#h=895&w=1503"
+   ],
+   "index": 4,
+   "language": [
+    "spanish"
+   ],
+   "location": [
+    "buenos aires",
+    "argentina"
+   ],
+   "mime_type": [
+    "image/jpeg",
+    "image/jp2"
+   ],
+   "number": [
+    "http://www.loc.gov/resource/afc9999005.17654.0"
+   ],
+   "online_format": [
+    "image"
+   ],
+   "original_format": [
+    "photo, print, drawing"
+   ],
+   "partof": [
+    "traditional music and spoken word card catalog",
+    "seamus doyle south american recordings",
+    "american folklife center"
+   ],
+   "score": 9.242227,
+   "shelf_id": "AFS Number: AFS 05704 A01",
+   "subject": [
+    "card catalogs"
+   ],
+   "timestamp": "2024-07-10T10:28:48.310Z",
+   "title": "A milonga",
+   "type": [
+    "still image"
+   ],
+   "url": "https://www.loc.gov/item/afc9999005.17654/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "https://hdl.loc.gov/loc.afc/afc9999005.17655",
+    "http://www.loc.gov/resource/afc.afc9999005-17655/",
+    "http://www.loc.gov/item/afc9999005.17655/"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "kirstein expedition",
+    "ricardi, luis"
+   ],
+   "date": "1941",
+   "dates": [
+    "1941"
+   ],
+   "digitized": true,
+   "extract_timestamp": "2024-07-10T07:44:26.080Z",
+   "group": [
+    "paprika-afc"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/afc9999005.17655/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:afc:afc9999005-17655:0758/full/pct:50.0/0/default.jpg",
+    "https://tile.loc.gov/image-services/iiif/public:afc:afc9999005-17655:0758/full/pct:50.0/0/default.jpg#h=447&w=751",
+    "https://tile.loc.gov/image-services/iiif/public:afc:afc9999005-17655:0758/full/pct:100.0/0/default.jpg#h=895&w=1503"
+   ],
+   "index": 5,
+   "language": [
+    "spanish"
+   ],
+   "location": [
+    "buenos aires",
+    "argentina"
+   ],
+   "mime_type": [
+    "image/jpeg",
+    "image/jp2"
+   ],
+   "number": [
+    "http://www.loc.gov/resource/afc9999005.17655.0"
+   ],
+   "online_format": [
+    "image"
+   ],
+   "original_format": [
+    "photo, print, drawing"
+   ],
+   "partof": [
+    "traditional music and spoken word card catalog",
+    "seamus doyle south american recordings",
+    "american folklife center"
+   ],
+   "score": 9.242227,
+   "shelf_id": "AFS Number: AFS 05704 A02",
+   "subject": [
+    "card catalogs"
+   ],
+   "timestamp": "2024-07-10T10:28:48.310Z",
+   "title": "A tonada",
+   "type": [
+    "still image"
+   ],
+   "url": "https://www.loc.gov/item/afc9999005.17655/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/afc9999005.17656/",
+    "https://hdl.loc.gov/loc.afc/afc9999005.17656",
+    "http://www.loc.gov/resource/afc.afc9999005-17656/"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "kirstein expedition",
+    "ricardi, luis"
+   ],
+   "date": "1941",
+   "dates": [
+    "1941"
+   ],
+   "digitized": true,
+   "extract_timestamp": "2024-07-10T07:44:26.080Z",
+   "group": [
+    "paprika-afc"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/afc9999005.17656/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:afc:afc9999005-17656:0759/full/pct:50.0/0/default.jpg",
+    "https://tile.loc.gov/image-services/iiif/public:afc:afc9999005-17656:0759/full/pct:50.0/0/default.jpg#h=447&w=751",
+    "https://tile.loc.gov/image-services/iiif/public:afc:afc9999005-17656:0759/full/pct:100.0/0/default.jpg#h=895&w=1503"
+   ],
+   "index": 6,
+   "language": [
+    "spanish"
+   ],
+   "location": [
+    "buenos aires",
+    "argentina"
+   ],
+   "mime_type": [
+    "image/jpeg",
+    "image/jp2"
+   ],
+   "number": [
+    "http://www.loc.gov/resource/afc9999005.17656.0"
+   ],
+   "online_format": [
+    "image"
+   ],
+   "original_format": [
+    "photo, print, drawing"
+   ],
+   "partof": [
+    "traditional music and spoken word card catalog",
+    "seamus doyle south american recordings",
+    "american folklife center"
+   ],
+   "score": 9.242227,
+   "shelf_id": "AFS Number: AFS 05704 B01",
+   "subject": [
+    "card catalogs"
+   ],
+   "timestamp": "2024-07-10T10:28:48.310Z",
+   "title": "A gato",
+   "type": [
+    "still image"
+   ],
+   "url": "https://www.loc.gov/item/afc9999005.17656/"
+  }
+ ],
+ "resources": [
+  {
+   "audio": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73485_01_ba68_01:jvm_victor_73485_01_ba68_01/full/full/0/full/default.mp3",
+   "files": [
+    [
+     {
+      "aspectRation": "4:3",
+      "autoPlay": false,
+      "canDownload": true,
+      "derivatives": [
+       {
+        "derivativeUrl": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/jvm_victor_73485_01_ba68_01/jvm_victor_73485_01_ba68_01.mp3"
+       }
+      ],
+      "detailUrl": "https://www.loc.gov/item/jukebox-421918",
+      "download": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73485_01_ba68_01:jvm_victor_73485_01_ba68_01/full/full/0/full/default.mp3",
+      "duration": 185.0,
+      "filename": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/jvm_victor_73485_01_ba68_01/jvm_victor_73485_01_ba68_01.mp3",
+      "mediaType": "A",
+      "metadata": [
+       "El gaucho vencido",
+       "Male vocal solo, with piano"
+      ],
+      "mimetype": "audio/mpeg",
+      "poster": null,
+      "rights_restricted": true,
+      "shortName": "El gaucho vencido",
+      "thumbnail_url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73485_01_ba68_01:jvm_victor_73485_01_ba68_01/full/pct:12.5/0/default.jpg"
+     },
+     {
+      "height": null,
+      "levels": 1,
+      "mimetype": "audio/wav",
+      "size": 32648512,
+      "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/jvm_victor_73485_01_ba68_01/jvm_victor_73485_01_ba68_01.wav",
+      "width": null
+     }
+    ]
+   ],
+   "url": "https://www.loc.gov/resource/jukebox-421918.0"
+  },
+  {
+   "files": [
+    [
+     {
+      "height": 268,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73485_01_ba68_01:jvm_victor_73485_01_ba68_01/full/pct:12.5/0/default.jpg",
+      "width": 265
+     },
+     {
+      "height": 536,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73485_01_ba68_01:jvm_victor_73485_01_ba68_01/full/pct:25/0/default.jpg",
+      "width": 531
+     },
+     {
+      "height": 1072,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73485_01_ba68_01:jvm_victor_73485_01_ba68_01/full/pct:50/0/default.jpg",
+      "width": 1063
+     },
+     {
+      "height": 2145,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73485_01_ba68_01:jvm_victor_73485_01_ba68_01/full/pct:100/0/default.jpg",
+      "width": 2126
+     },
+     {
+      "height": null,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 18244444,
+      "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/jvm_victor_73485_01_ba68_01/jvm_victor_73485_01_ba68_01.tif",
+      "width": null
+     }
+    ]
+   ],
+   "image": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73485_01_ba68_01:jvm_victor_73485_01_ba68_01/full/pct:100/0/default.jpg",
+   "mimetype": "image/jpeg",
+   "url": "https://www.loc.gov/resource/jukebox-421918.1"
+  }
+ ],
+ "timestamp": 1791464061619
+}

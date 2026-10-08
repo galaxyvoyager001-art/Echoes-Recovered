@@ -1,0 +1,1600 @@
+{
+ "articles_and_essays": null,
+ "cite_this": {
+  "apa": "Gilbert, J. L., Dolin, M. &amp; Schwarzmann, A. (1925) <cite>Bonnie sweet Bessie</cite>. [Audio] Retrieved from the Library of Congress, https://www.loc.gov/item/jukebox-339794/.",
+  "chicago": "Gilbert, James L, Max Dolin, and A Schwarzmann. <cite>Bonnie sweet Bessie</cite>. 1925. Audio. https://www.loc.gov/item/jukebox-339794/.",
+  "mla": "Gilbert, James L, Max Dolin, and A Schwarzmann. <cite>Bonnie sweet Bessie</cite>. 1925. Audio. Retrieved from the Library of Congress, &lt;www.loc.gov/item/jukebox-339794/&gt;."
+ },
+ "item": {
+  "_version_": 1878219504215916544,
+  "access_restricted": false,
+  "aka": [
+   "http://www.loc.gov/jukebox/recordings/detail/id/7310",
+   "http://www.loc.gov/item/jukebox-339794/",
+   "http://www.loc.gov/resource/jukebox-339794.0/",
+   "http://www.loc.gov/resource/jukebox-339794.1/",
+   "http://www.loc.gov/resource/jukebox-339794.0",
+   "http://www.loc.gov/resource/jukebox-339794.1"
+  ],
+  "audio_type": "Instrumental",
+  "campaigns": [],
+  "contributor_composer": [
+   "gilbert, james l."
+  ],
+  "contributor_names": [
+   "Gilbert, James L. -- Composer -- Composer",
+   "Dolin, Max -- Instrumentalist -- Violin",
+   "Schwarzmann, A. -- Instrumentalist -- Piano"
+  ],
+  "contributor_primary": [
+   "dolin, max"
+  ],
+  "contributors": [
+   {
+    "dolin, max": "https://www.loc.gov/search/?fa=contributor:dolin,+max&fo=json"
+   },
+   {
+    "gilbert, james l.": "https://www.loc.gov/search/?fa=contributor:gilbert,+james+l.&fo=json"
+   },
+   {
+    "schwarzmann, a.": "https://www.loc.gov/search/?fa=contributor:schwarzmann,+a.&fo=json"
+   }
+  ],
+  "contributors_composer": [
+   {
+    "gilbert, james l.": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_composer:gilbert,+james+l.&fo=json"
+   }
+  ],
+  "contributors_primary": [
+   {
+    "dolin, max": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_primary:dolin,+max&fo=json"
+   }
+  ],
+  "date": "1925-01-29",
+  "dates": [
+   {
+    "1925-01-29": "https://www.loc.gov/search/?dates=1925-01-29/1925-01-29&fo=json"
+   }
+  ],
+  "description": [
+   "Victor 19592. Matrix/Take: PB-67/1."
+  ],
+  "digitized": true,
+  "display_offsite": true,
+  "extract_timestamp": "2026-10-05T03:33:07.292Z",
+  "extract_urls": [
+   "http://www.loc.gov/item/jukebox-339794#nationaljukebox"
+  ],
+  "file_id": [
+   "ucsb_victor_19592_01_pb67_01"
+  ],
+  "format": [
+   {
+    "sound recording": "https://www.loc.gov/search/?fa=original_format:sound+recording&fo=json"
+   }
+  ],
+  "genre": [
+   "Ethnic music"
+  ],
+  "group": [
+   "nationaljukebox",
+   "national-jukebox"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/item/jukebox-339794/",
+  "iiif_manifest_url": "https://www.loc.gov/item/jukebox-339794/manifest.json",
+  "image_url": [
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19592_01_pb67_01:ucsb_victor_19592_01_pb67_01/full/pct:50/0/default.jpg#h=394&w=396",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19592_01_pb67_01:ucsb_victor_19592_01_pb67_01/full/pct:100/0/default.jpg#h=789&w=793"
+  ],
+  "index": 1,
+  "item": {
+   "audio_type": "Instrumental",
+   "contributors": [
+    "Gilbert, James L. -- Composer -- Composer",
+    "Dolin, Max -- Instrumentalist -- Violin",
+    "Schwarzmann, A. -- Instrumentalist -- Piano"
+   ],
+   "file_id": [
+    "ucsb_victor_19592_01_pb67_01"
+   ],
+   "genre": [
+    "Ethnic music"
+   ],
+   "media_size": "10-in.",
+   "profile": "jukebox",
+   "recording_catalog_number": "19592",
+   "recording_date": "1925-01-29",
+   "recording_label": "Victor",
+   "recording_matrix_number": "PB-67 (Matrix ID)",
+   "recording_repository": "Source of original recording: Department of Special Collections, Davidson Library, University of California, Santa Barbara.",
+   "recording_take_id": 339794,
+   "recording_take_number": "1",
+   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+   "summary": "Violin solo, with piano"
+  },
+  "location": [
+   "oakland",
+   "california",
+   "united states"
+  ],
+  "locations": [
+   {
+    "california": "https://www.loc.gov/search/?fa=location:california&fo=json"
+   },
+   {
+    "oakland": "https://www.loc.gov/search/?fa=location:oakland&fo=json"
+   },
+   {
+    "united states": "https://www.loc.gov/search/?fa=location:united+states&fo=json"
+   }
+  ],
+  "media_size": "10-in.",
+  "mime_type": [
+   "audio/mpeg",
+   "audio/wav",
+   "image/jpeg"
+  ],
+  "online_format": [
+   "audio",
+   "image"
+  ],
+  "original_format": [
+   "sound recording"
+  ],
+  "other_formats": [],
+  "partof": [
+   {
+    "count": 10024,
+    "title": "department of special collections, davidson library, university of california, santa barbara",
+    "url": "https://www.loc.gov/search/?fa=partof:department+of+special+collections,+davidson+library,+university+of+california,+santa+barbara&fo=json"
+   },
+   {
+    "count": 20273,
+    "title": "national jukebox",
+    "url": "https://www.loc.gov/collections/national-jukebox/?fo=json"
+   },
+   {
+    "count": 20496,
+    "title": "recorded sound research center",
+    "url": "https://www.loc.gov/search/?fa=partof:recorded+sound+research+center&fo=json"
+   }
+  ],
+  "partof_repository": [
+   "department of special collections, davidson library, university of california, santa barbara"
+  ],
+  "profile": "jukebox",
+  "recording_catalog_number": "19592",
+  "recording_date": "1925-01-29",
+  "recording_label": "Victor",
+  "recording_matrix_number": "PB-67 (Matrix ID)",
+  "recording_repository": "Source of original recording: Department of Special Collections, Davidson Library, University of California, Santa Barbara.",
+  "recording_take_id": 339794,
+  "recording_take_number": "1",
+  "resources": [
+   {
+    "files": 1,
+    "media": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19592_01_pb67_01:ucsb_victor_19592_01_pb67_01/full/full/0/full/default.mp3",
+    "url": "https://www.loc.gov/resource/jukebox-339794.0"
+   },
+   {
+    "files": 1,
+    "image": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19592_01_pb67_01:ucsb_victor_19592_01_pb67_01/full/pct:100/0/default.jpg",
+    "mimetype": "image/jpeg",
+    "url": "https://www.loc.gov/resource/jukebox-339794.1"
+   }
+  ],
+  "rights": [
+   "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
+  ],
+  "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+  "score": 15.335333,
+  "shard": "01",
+  "shelf_id": "Victor 19592",
+  "site": [
+   "nationaljukebox"
+  ],
+  "source_modified": "2000-01-01T12:00:00Z",
+  "subject": [
+   "victor",
+   "ethnic music",
+   "instrumental"
+  ],
+  "subject_category": [
+   "instrumental"
+  ],
+  "subject_genre": [
+   "ethnic music"
+  ],
+  "subject_label": [
+   "victor"
+  ],
+  "subjects": [
+   {
+    "ethnic music": "https://www.loc.gov/search/?fa=subject:ethnic+music&fo=json"
+   },
+   {
+    "instrumental": "https://www.loc.gov/search/?fa=subject:instrumental&fo=json"
+   },
+   {
+    "victor": "https://www.loc.gov/search/?fa=subject:victor&fo=json"
+   }
+  ],
+  "subjects_category": [
+   {
+    "instrumental": "https://www.loc.gov/collections/national-jukebox/?fa=subject_category:instrumental&fo=json"
+   }
+  ],
+  "subjects_genre": [
+   {
+    "ethnic music": "https://www.loc.gov/collections/national-jukebox/?fa=subject_genre:ethnic+music&fo=json"
+   }
+  ],
+  "subjects_label": [
+   {
+    "victor": "https://www.loc.gov/collections/national-jukebox/?fa=subject_label:victor&fo=json"
+   }
+  ],
+  "summary": "Violin solo, with piano",
+  "timestamp": "2026-10-05T14:15:01.733Z",
+  "title": "Bonnie sweet Bessie",
+  "type": [
+   "sound recording-musical"
+  ],
+  "url": "https://www.loc.gov/item/jukebox-339794/"
+ },
+ "more_like_this": [
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/7315",
+    "http://www.loc.gov/item/jukebox-339969/",
+    "http://www.loc.gov/resource/jukebox-339969.0/",
+    "http://www.loc.gov/resource/jukebox-339969.1/",
+    "http://www.loc.gov/resource/jukebox-339969.0",
+    "http://www.loc.gov/resource/jukebox-339969.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "schwarzmann, a.",
+    "molloy, james l.",
+    "dolin, max"
+   ],
+   "date": "1925-02-05",
+   "dates": [
+    "1925-02-05"
+   ],
+   "description": [
+    "Victor 19592. Matrix/Take: PB-79/3."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T03:33:07.292Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-339969/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19592_01_pb79_03:ucsb_victor_19592_01_pb79_03/full/pct:50/0/default.jpg#h=394&w=397",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19592_01_pb79_03:ucsb_victor_19592_01_pb79_03/full/pct:100/0/default.jpg#h=789&w=794"
+   ],
+   "index": 1,
+   "location": [
+    "oakland",
+    "california",
+    "united states"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "partof": [
+    "recorded sound research center",
+    "department of special collections, davidson library, university of california, santa barbara",
+    "national jukebox"
+   ],
+   "score": 43.683647,
+   "shelf_id": "Victor 19592",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "victor",
+    "popular music",
+    "instrumental"
+   ],
+   "timestamp": "2026-10-05T14:15:01.733Z",
+   "title": "Love's old sweet song",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-339969/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/9105",
+    "http://www.loc.gov/item/jukebox-64867/",
+    "http://www.loc.gov/resource/jukebox-64867.0/",
+    "http://www.loc.gov/resource/jukebox-64867.1/",
+    "http://www.loc.gov/resource/jukebox-64867.0",
+    "http://www.loc.gov/resource/jukebox-64867.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "albrecht, václav",
+    "dolin, max",
+    "balling, c.",
+    "albrecht instrumental trio",
+    "shilkret, nathaniel"
+   ],
+   "date": "1922-11-10",
+   "dates": [
+    "1922-11-10"
+   ],
+   "description": [
+    "Victor 73624. Matrix/Take: B-27135/1."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-04T21:04:20.748Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-64867/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_73624_01_b27135_01:ucsb_victor_73624_01_b27135_01/full/pct:50/0/default.jpg#h=396&w=398",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_73624_01_b27135_01:ucsb_victor_73624_01_b27135_01/full/pct:100/0/default.jpg#h=792&w=796"
+   ],
+   "index": 2,
+   "location": [
+    "united states",
+    "new york"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "White cavalry",
+    "Polka"
+   ],
+   "partof": [
+    "recorded sound research center",
+    "department of special collections, davidson library, university of california, santa barbara",
+    "national jukebox"
+   ],
+   "score": 34.6578,
+   "shelf_id": "Victor 73624",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "instrumental",
+    "ethnic music",
+    "bohemian (czech)",
+    "victor"
+   ],
+   "timestamp": "2026-10-05T14:27:43.706Z",
+   "title": "Bílí rejthaři",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-64867/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/9271",
+    "http://www.loc.gov/item/jukebox-66804/",
+    "http://www.loc.gov/resource/jukebox-66804.0/",
+    "http://www.loc.gov/resource/jukebox-66804.1/",
+    "http://www.loc.gov/resource/jukebox-66804.0",
+    "http://www.loc.gov/resource/jukebox-66804.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "trifonowa, d. m.",
+    "dolin, max",
+    "international concert orchestra",
+    "shilkret, nathaniel"
+   ],
+   "date": "1923-04-25",
+   "dates": [
+    "1923-04-25"
+   ],
+   "description": [
+    "Victor 77123. Matrix/Take: B-27780/2."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-04T21:09:56.909Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-66804/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_77123_01_b27780_02:ucsb_victor_77123_01_b27780_02/full/pct:50/0/default.jpg#h=395&w=397",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_77123_01_b27780_02:ucsb_victor_77123_01_b27780_02/full/pct:100/0/default.jpg#h=791&w=795"
+   ],
+   "index": 3,
+   "location": [
+    "new jersey",
+    "camden",
+    "united states"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Benk aheim",
+    "Toska po rodenie",
+    "Namy paslilgimo marsas",
+    "Tuha za poworotom domiw"
+   ],
+   "partof": [
+    "recorded sound research center",
+    "department of special collections, davidson library, university of california, santa barbara",
+    "national jukebox"
+   ],
+   "score": 34.6578,
+   "shelf_id": "Victor 77123",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "victor",
+    "jewish; lithuanian; russian; ukrainian",
+    "ethnic music",
+    "instrumental"
+   ],
+   "timestamp": "2026-10-05T14:36:45.907Z",
+   "title": "Longing for home march",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-66804/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-64869/",
+    "http://www.loc.gov/resource/jukebox-64869.0/",
+    "http://www.loc.gov/resource/jukebox-64869.1/",
+    "http://www.loc.gov/resource/jukebox-64869.0",
+    "http://www.loc.gov/resource/jukebox-64869.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "albrecht, václav",
+    "dolin, max",
+    "albrecht instrumental trio",
+    "shilkret, nathaniel",
+    "hašler, karel"
+   ],
+   "date": "1922-11-10",
+   "dates": [
+    "1922-11-10"
+   ],
+   "description": [
+    "Victor 73822. Matrix/Take: B-27136/1."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-04T21:04:20.748Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-64869/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73822_01_b27136_01:jvm_victor_73822_01_b27136_01/full/pct:12.5/0/default.jpg#h=270&w=266",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73822_01_b27136_01:jvm_victor_73822_01_b27136_01/full/pct:25/0/default.jpg#h=540&w=533",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73822_01_b27136_01:jvm_victor_73822_01_b27136_01/full/pct:50/0/default.jpg#h=1081&w=1066",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73822_01_b27136_01:jvm_victor_73822_01_b27136_01/full/pct:100/0/default.jpg#h=2162&w=2132"
+   ],
+   "index": 4,
+   "location": [
+    "united states",
+    "new york"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Polka",
+    "Where are the Bolsheviki?"
+   ],
+   "partof": [
+    "recorded sound research center",
+    "johnson victrola museum, delaware",
+    "national jukebox"
+   ],
+   "score": 30.591013,
+   "shelf_id": "Victor 73822",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "victor",
+    "instrumental",
+    "bohemian (czech)",
+    "popular music",
+    "ethnic music"
+   ],
+   "timestamp": "2026-10-05T14:27:43.706Z",
+   "title": "Kam pak na nás, Bolševici?",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-64869/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-66803/",
+    "http://www.loc.gov/resource/jukebox-66803.0/",
+    "http://www.loc.gov/resource/jukebox-66803.1/",
+    "http://www.loc.gov/resource/jukebox-66803.0",
+    "http://www.loc.gov/resource/jukebox-66803.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "dolin, max",
+    "international novelty orchestra",
+    "orquesta internacional",
+    "ponce reyes, tomás",
+    "shilkret, nathaniel"
+   ],
+   "date": "1923-04-25",
+   "dates": [
+    "1923-04-25"
+   ],
+   "description": [
+    "Victor 73852. Matrix/Take: B-27779/3."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-04T21:09:56.909Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-66803/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73852_01_b27779_03:jvm_victor_73852_01_b27779_03/full/pct:12.5/0/default.jpg#h=249&w=248",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73852_01_b27779_03:jvm_victor_73852_01_b27779_03/full/pct:25/0/default.jpg#h=498&w=496",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73852_01_b27779_03:jvm_victor_73852_01_b27779_03/full/pct:50/0/default.jpg#h=996&w=993",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_73852_01_b27779_03:jvm_victor_73852_01_b27779_03/full/pct:100/0/default.jpg#h=1992&w=1986"
+   ],
+   "index": 5,
+   "location": [
+    "new jersey",
+    "camden",
+    "united states"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Danzon"
+   ],
+   "partof": [
+    "recorded sound research center",
+    "johnson victrola museum, delaware",
+    "national jukebox"
+   ],
+   "score": 30.591013,
+   "shelf_id": "Victor 73852",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "victor",
+    "instrumental",
+    "popular music",
+    "spanish (mexico)",
+    "ethnic music"
+   ],
+   "timestamp": "2026-10-05T14:36:45.907Z",
+   "title": "El venadito",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-66803/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/jukebox/recordings/detail/id/7026",
+    "http://www.loc.gov/item/jukebox-317553/",
+    "http://www.loc.gov/resource/jukebox-317553.0/",
+    "http://www.loc.gov/resource/jukebox-317553.1/",
+    "http://www.loc.gov/resource/jukebox-317553.0",
+    "http://www.loc.gov/resource/jukebox-317553.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "moll, chuck",
+    "schilling, ted",
+    "maule, abe",
+    "mann, zebe",
+    "mckiernan, joe",
+    "henry halstead orchestra",
+    "halstead, henry",
+    "dugat, ross",
+    "reed, ernie",
+    "chanslor, hal",
+    "harris, phil"
+   ],
+   "date": "1924-06-20",
+   "dates": [
+    "1924-06-20"
+   ],
+   "description": [
+    "Victor 19482. Matrix/Take: PB-41/3."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T03:21:37.925Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-317553/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19482_01_pb41_03:ucsb_victor_19482_01_pb41_03/full/pct:50/0/default.jpg#h=394&w=396",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19482_01_pb41_03:ucsb_victor_19482_01_pb41_03/full/pct:100/0/default.jpg#h=789&w=793"
+   ],
+   "index": 6,
+   "location": [
+    "oakland",
+    "california",
+    "united states"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Fox trot"
+   ],
+   "partof": [
+    "recorded sound research center",
+    "department of special collections, davidson library, university of california, santa barbara",
+    "national jukebox"
+   ],
+   "score": 26.720308,
+   "shelf_id": "Victor 19482",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "victor",
+    "instrumental",
+    "ragtime, jazz, and more"
+   ],
+   "timestamp": "2026-10-05T14:13:16.452Z",
+   "title": "That's my girl",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-317553/"
+  }
+ ],
+ "notice": {
+  "info": "<strong>COLUMBUS DAY HOLIDAY:</strong> On Monday, October 12, 2026, The Jefferson Building Great Hall and exhibitions will be open from 10 a.m. - 5 p.m. to guests with timed-entry passes. The Main Reading Room will be open to visitors, no research or collections services available. All other reading rooms, the Madison and Adams Buildings will be CLOSED to the public. Regularly scheduled access resumes on Tuesday, October 13. \n",
+  "status": "production"
+ },
+ "options": {
+  "access_group": [
+   ""
+  ],
+  "access_group_raw": "",
+  "all": null,
+  "api_version": "1",
+  "app_context": null,
+  "application_shim": null,
+  "application_version": "$Revision$",
+  "attribute": null,
+  "attribute!": null,
+  "attribute_map": null,
+  "cache_tags": [
+   "nationaljukebox",
+   "national-jukebox",
+   "ndnp/dlc-2020_now",
+   "library-of-congress-washington-dc-awardee-8"
+  ],
+  "callback": null,
+  "clip": null,
+  "clip_image_width": null,
+  "clip_rotation": null,
+  "content_filter": null,
+  "content_replacement": "",
+  "count": null,
+  "dates": null,
+  "default_count": 25,
+  "delimiter": null,
+  "digital_id": null,
+  "display_level": null,
+  "distance": null,
+  "downloadOption": null,
+  "duration": 11.332047462463379,
+  "embed": [],
+  "embed!": [],
+  "error_response_status": null,
+  "excludeTerms": null,
+  "facetLimits": "",
+  "facetPrefix": null,
+  "facet_count": null,
+  "facet_style": null,
+  "field": null,
+  "form_facets": [
+   {
+    "field": "subject_label",
+    "select": "multiple"
+   },
+   {
+    "field": "subject_category",
+    "select": "multiple"
+   },
+   {
+    "field": "language",
+    "select": "multiple"
+   }
+  ],
+  "format": "json",
+  "host": "www.loc.gov",
+  "ical": false,
+  "id": "jukebox-339794/",
+  "iiif": false,
+  "include_facets": [
+   {
+    "field": "original-format"
+   },
+   {
+    "field": "partof_repository",
+    "label": "Repository"
+   },
+   {
+    "field": "subject_label",
+    "label": "Label"
+   },
+   {
+    "field": "dates"
+   },
+   {
+    "field": "subject_genre",
+    "label": "Genre"
+   },
+   {
+    "closed": true,
+    "field": "subject_target_audience",
+    "label": "Target Audience"
+   },
+   {
+    "closed": true,
+    "field": "subject_category",
+    "label": "Category"
+   },
+   {
+    "closed": true,
+    "field": "location"
+   },
+   {
+    "closed": true,
+    "field": "contributor"
+   },
+   {
+    "closed": true,
+    "field": "contributor_vocalist",
+    "label": "Vocalist"
+   },
+   {
+    "closed": true,
+    "field": "contributor_composer",
+    "label": "Composer"
+   },
+   {
+    "closed": true,
+    "field": "contributor_lyricist",
+    "label": "Lyricist"
+   },
+   {
+    "closed": true,
+    "field": "contributor_author",
+    "label": "Author"
+   },
+   {
+    "closed": true,
+    "field": "contributor_performer",
+    "label": "Performer"
+   },
+   {
+    "closed": true,
+    "field": "contributor_musical_group",
+    "label": "Musical Group"
+   },
+   {
+    "closed": true,
+    "field": "subject"
+   },
+   {
+    "closed": true,
+    "field": "language"
+   },
+   {
+    "field": "access-restricted"
+   }
+  ],
+  "index": null,
+  "inputEncoding": "UTF-8",
+  "item": null,
+  "items": null,
+  "keys": null,
+  "language": null,
+  "latlong": null,
+  "method": "GET",
+  "newSearch": null,
+  "new_clip_url": false,
+  "onsite": false,
+  "operator": null,
+  "outputEncoding": "UTF-8",
+  "page_campaigns": [],
+  "path_info": "/item/jukebox-339794/",
+  "port": "443",
+  "proxypath": null,
+  "query_string": "fo=json",
+  "redirect_proxy": false,
+  "redirect_to_item": null,
+  "referer": "",
+  "region": "",
+  "release_id": 123456789,
+  "request_host": "www.loc.gov",
+  "request_params": {
+   "fo": [
+    "json"
+   ]
+  },
+  "request_url": "https://www.loc.gov/item/jukebox-339794/?fo=json",
+  "resource": "",
+  "resource_sequence": null,
+  "scheme": "https",
+  "searchIn": null,
+  "searchTerms": "",
+  "segments": null,
+  "shards": [
+   "01"
+  ],
+  "site_date_range": "1900-01-01/1925-12-31",
+  "site_defaults": [],
+  "site_id": null,
+  "site_type": null,
+  "solrQuery": "",
+  "sortBy": null,
+  "sortOrder": null,
+  "startPage": null,
+  "style": null,
+  "suggested": null,
+  "target": null,
+  "template": "layouts/item/layout",
+  "timestamp": 1791463789.7101233,
+  "tz_aware": null,
+  "unionFacets": "",
+  "webcast_permalink": null
+ },
+ "related_items": [
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/sn84025815/1928-03-17/ed-1/",
+    "http://www.loc.gov/resource/sn84025815/1928-03-17/ed-1/"
+   ],
+   "batch": [
+    "dlc_ontario_ver01"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "library of congress, washington, dc"
+   ],
+   "date": "1928-03-17",
+   "dates": [
+    "1928-03-17"
+   ],
+   "description": [
+    "San Francisco, Cal."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2023-08-07T20:33:21.037Z",
+   "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/sn84025815/1928-03-17/ed-1/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ontario_ver01:data:sn84025815:00220720470:1928031701:0001/full/pct:6.25/0/default.jpg#h=454&w=301",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ontario_ver01:data:sn84025815:00220720470:1928031701:0001/full/pct:12.5/0/default.jpg#h=909&w=603"
+   ],
+   "index": 1,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "oakland",
+    "california",
+    "united states",
+    "san francisco",
+    "alameda county",
+    "alameda"
+   ],
+   "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg"
+   ],
+   "number": [
+    "00220720470",
+    "1",
+    "sn84025815"
+   ],
+   "numeric_shelf_id": 192803171,
+   "online_format": [
+    "image",
+    "pdf",
+    "online text"
+   ],
+   "original_format": [
+    "newspaper"
+   ],
+   "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the western outlook (san francisco, cal.) 1894-1928"
+   ],
+   "publication_frequency": [
+    "weekly"
+   ],
+   "score": 11.396165,
+   "shelf_id": "sn84025815, 1928-03-17, Edition 1",
+   "site": [
+    "chroniclingamerica"
+   ],
+   "subject": [
+    "newspapers",
+    "oakland",
+    "oakland (calif.)",
+    "african americans",
+    "san francisco (calif.)",
+    "california",
+    "alameda county (calif.)",
+    "united states",
+    "san francisco",
+    "alameda county",
+    "alameda",
+    "african american newspapers",
+    "african american"
+   ],
+   "timestamp": "2023-08-08T14:46:12.687Z",
+   "title": "The Western outlook (San Francisco, Cal.), March 17, 1928",
+   "type": [
+    "issue"
+   ],
+   "url": "https://www.loc.gov/item/sn84025815/1928-03-17/ed-1/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/sn84025815/1928-04-14/ed-1/",
+    "http://www.loc.gov/resource/sn84025815/1928-04-14/ed-1/"
+   ],
+   "batch": [
+    "dlc_ontario_ver01"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "library of congress, washington, dc"
+   ],
+   "date": "1928-04-14",
+   "dates": [
+    "1928-04-14"
+   ],
+   "description": [
+    "San Francisco, Cal."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2023-08-07T20:33:21.037Z",
+   "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/sn84025815/1928-04-14/ed-1/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ontario_ver01:data:sn84025815:00220720470:1928041401:0001/full/pct:6.25/0/default.jpg#h=463&w=308",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ontario_ver01:data:sn84025815:00220720470:1928041401:0001/full/pct:12.5/0/default.jpg#h=927&w=617"
+   ],
+   "index": 2,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "oakland",
+    "california",
+    "united states",
+    "san francisco",
+    "alameda county",
+    "alameda"
+   ],
+   "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg"
+   ],
+   "number": [
+    "00220720470",
+    "1",
+    "sn84025815"
+   ],
+   "numeric_shelf_id": 192804141,
+   "online_format": [
+    "image",
+    "pdf",
+    "online text"
+   ],
+   "original_format": [
+    "newspaper"
+   ],
+   "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the western outlook (san francisco, cal.) 1894-1928"
+   ],
+   "publication_frequency": [
+    "weekly"
+   ],
+   "score": 11.396165,
+   "shelf_id": "sn84025815, 1928-04-14, Edition 1",
+   "site": [
+    "chroniclingamerica"
+   ],
+   "subject": [
+    "newspapers",
+    "oakland",
+    "oakland (calif.)",
+    "african americans",
+    "san francisco (calif.)",
+    "california",
+    "alameda county (calif.)",
+    "united states",
+    "san francisco",
+    "alameda county",
+    "alameda",
+    "african american newspapers",
+    "african american"
+   ],
+   "timestamp": "2023-08-08T14:46:12.687Z",
+   "title": "The Western outlook (San Francisco, Cal.), April 14, 1928",
+   "type": [
+    "issue"
+   ],
+   "url": "https://www.loc.gov/item/sn84025815/1928-04-14/ed-1/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/sn84025815/1928-04-28/ed-1/",
+    "http://www.loc.gov/resource/sn84025815/1928-04-28/ed-1/"
+   ],
+   "batch": [
+    "dlc_ontario_ver01"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "library of congress, washington, dc"
+   ],
+   "date": "1928-04-28",
+   "dates": [
+    "1928-04-28"
+   ],
+   "description": [
+    "San Francisco, Cal."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2023-08-07T20:33:21.037Z",
+   "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/sn84025815/1928-04-28/ed-1/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ontario_ver01:data:sn84025815:00220720470:1928042801:0001/full/pct:6.25/0/default.jpg#h=461&w=302",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ontario_ver01:data:sn84025815:00220720470:1928042801:0001/full/pct:12.5/0/default.jpg#h=923&w=605"
+   ],
+   "index": 3,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "oakland",
+    "california",
+    "united states",
+    "san francisco",
+    "alameda county",
+    "alameda"
+   ],
+   "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg"
+   ],
+   "number": [
+    "00220720470",
+    "1",
+    "sn84025815"
+   ],
+   "numeric_shelf_id": 192804281,
+   "online_format": [
+    "image",
+    "pdf",
+    "online text"
+   ],
+   "original_format": [
+    "newspaper"
+   ],
+   "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the western outlook (san francisco, cal.) 1894-1928"
+   ],
+   "publication_frequency": [
+    "weekly"
+   ],
+   "score": 11.396165,
+   "shelf_id": "sn84025815, 1928-04-28, Edition 1",
+   "site": [
+    "chroniclingamerica"
+   ],
+   "subject": [
+    "newspapers",
+    "oakland",
+    "oakland (calif.)",
+    "african americans",
+    "san francisco (calif.)",
+    "california",
+    "alameda county (calif.)",
+    "united states",
+    "san francisco",
+    "alameda county",
+    "alameda",
+    "african american newspapers",
+    "african american"
+   ],
+   "timestamp": "2023-08-08T14:46:12.687Z",
+   "title": "The Western outlook (San Francisco, Cal.), April 28, 1928",
+   "type": [
+    "issue"
+   ],
+   "url": "https://www.loc.gov/item/sn84025815/1928-04-28/ed-1/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/sn84025815/1928-05-05/ed-1/",
+    "http://www.loc.gov/resource/sn84025815/1928-05-05/ed-1/"
+   ],
+   "batch": [
+    "dlc_ontario_ver01"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "library of congress, washington, dc"
+   ],
+   "date": "1928-05-05",
+   "dates": [
+    "1928-05-05"
+   ],
+   "description": [
+    "San Francisco, Cal."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2023-08-07T20:33:21.037Z",
+   "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/sn84025815/1928-05-05/ed-1/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ontario_ver01:data:sn84025815:00220720470:1928050501:0001/full/pct:6.25/0/default.jpg#h=469&w=301",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ontario_ver01:data:sn84025815:00220720470:1928050501:0001/full/pct:12.5/0/default.jpg#h=939&w=602"
+   ],
+   "index": 4,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "oakland",
+    "california",
+    "united states",
+    "san francisco",
+    "alameda county",
+    "alameda"
+   ],
+   "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg"
+   ],
+   "number": [
+    "00220720470",
+    "1",
+    "sn84025815"
+   ],
+   "numeric_shelf_id": 192805051,
+   "online_format": [
+    "image",
+    "pdf",
+    "online text"
+   ],
+   "original_format": [
+    "newspaper"
+   ],
+   "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the western outlook (san francisco, cal.) 1894-1928"
+   ],
+   "publication_frequency": [
+    "weekly"
+   ],
+   "score": 11.396165,
+   "shelf_id": "sn84025815, 1928-05-05, Edition 1",
+   "site": [
+    "chroniclingamerica"
+   ],
+   "subject": [
+    "newspapers",
+    "oakland",
+    "oakland (calif.)",
+    "african americans",
+    "san francisco (calif.)",
+    "california",
+    "alameda county (calif.)",
+    "united states",
+    "san francisco",
+    "alameda county",
+    "alameda",
+    "african american newspapers",
+    "african american"
+   ],
+   "timestamp": "2023-08-08T14:46:12.687Z",
+   "title": "The Western outlook (San Francisco, Cal.), May 5, 1928",
+   "type": [
+    "issue"
+   ],
+   "url": "https://www.loc.gov/item/sn84025815/1928-05-05/ed-1/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/sn84025815/1928-05-12/ed-1/",
+    "http://www.loc.gov/resource/sn84025815/1928-05-12/ed-1/"
+   ],
+   "batch": [
+    "dlc_ontario_ver01"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "library of congress, washington, dc"
+   ],
+   "date": "1928-05-12",
+   "dates": [
+    "1928-05-12"
+   ],
+   "description": [
+    "San Francisco, Cal."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2023-08-07T20:33:21.037Z",
+   "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/sn84025815/1928-05-12/ed-1/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ontario_ver01:data:sn84025815:00220720470:1928051201:0001/full/pct:6.25/0/default.jpg#h=461&w=302",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ontario_ver01:data:sn84025815:00220720470:1928051201:0001/full/pct:12.5/0/default.jpg#h=922&w=605"
+   ],
+   "index": 5,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "oakland",
+    "california",
+    "united states",
+    "san francisco",
+    "alameda county",
+    "alameda"
+   ],
+   "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg"
+   ],
+   "number": [
+    "00220720470",
+    "1",
+    "sn84025815"
+   ],
+   "numeric_shelf_id": 192805121,
+   "online_format": [
+    "image",
+    "pdf",
+    "online text"
+   ],
+   "original_format": [
+    "newspaper"
+   ],
+   "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the western outlook (san francisco, cal.) 1894-1928"
+   ],
+   "publication_frequency": [
+    "weekly"
+   ],
+   "score": 11.396165,
+   "shelf_id": "sn84025815, 1928-05-12, Edition 1",
+   "site": [
+    "chroniclingamerica"
+   ],
+   "subject": [
+    "newspapers",
+    "oakland",
+    "oakland (calif.)",
+    "african americans",
+    "san francisco (calif.)",
+    "california",
+    "alameda county (calif.)",
+    "united states",
+    "san francisco",
+    "alameda county",
+    "alameda",
+    "african american newspapers",
+    "african american"
+   ],
+   "timestamp": "2023-08-08T14:46:12.687Z",
+   "title": "The Western outlook (San Francisco, Cal.), May 12, 1928",
+   "type": [
+    "issue"
+   ],
+   "url": "https://www.loc.gov/item/sn84025815/1928-05-12/ed-1/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/sn84025815/1928-05-19/ed-1/",
+    "http://www.loc.gov/resource/sn84025815/1928-05-19/ed-1/"
+   ],
+   "batch": [
+    "dlc_ontario_ver01"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "library of congress, washington, dc"
+   ],
+   "date": "1928-05-19",
+   "dates": [
+    "1928-05-19"
+   ],
+   "description": [
+    "San Francisco, Cal."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2023-08-07T20:33:21.037Z",
+   "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/sn84025815/1928-05-19/ed-1/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ontario_ver01:data:sn84025815:00220720470:1928051901:0001/full/pct:6.25/0/default.jpg#h=474&w=295",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ontario_ver01:data:sn84025815:00220720470:1928051901:0001/full/pct:12.5/0/default.jpg#h=948&w=591"
+   ],
+   "index": 6,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "oakland",
+    "california",
+    "united states",
+    "san francisco",
+    "alameda county",
+    "alameda"
+   ],
+   "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg"
+   ],
+   "number": [
+    "00220720470",
+    "1",
+    "sn84025815"
+   ],
+   "numeric_shelf_id": 192805191,
+   "online_format": [
+    "image",
+    "pdf",
+    "online text"
+   ],
+   "original_format": [
+    "newspaper"
+   ],
+   "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the western outlook (san francisco, cal.) 1894-1928"
+   ],
+   "publication_frequency": [
+    "weekly"
+   ],
+   "score": 11.396165,
+   "shelf_id": "sn84025815, 1928-05-19, Edition 1",
+   "site": [
+    "chroniclingamerica"
+   ],
+   "subject": [
+    "newspapers",
+    "oakland",
+    "oakland (calif.)",
+    "african americans",
+    "san francisco (calif.)",
+    "california",
+    "alameda county (calif.)",
+    "united states",
+    "san francisco",
+    "alameda county",
+    "alameda",
+    "african american newspapers",
+    "african american"
+   ],
+   "timestamp": "2023-08-08T14:46:12.687Z",
+   "title": "The Western outlook (San Francisco, Cal.), May 19, 1928",
+   "type": [
+    "issue"
+   ],
+   "url": "https://www.loc.gov/item/sn84025815/1928-05-19/ed-1/"
+  }
+ ],
+ "resources": [
+  {
+   "audio": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19592_01_pb67_01:ucsb_victor_19592_01_pb67_01/full/full/0/full/default.mp3",
+   "files": [
+    [
+     {
+      "aspectRation": "4:3",
+      "autoPlay": false,
+      "canDownload": true,
+      "derivatives": [
+       {
+        "derivativeUrl": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/ucsb_victor_19592_01_pb67_01/ucsb_victor_19592_01_pb67_01.mp3"
+       }
+      ],
+      "detailUrl": "https://www.loc.gov/item/jukebox-339794",
+      "download": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19592_01_pb67_01:ucsb_victor_19592_01_pb67_01/full/full/0/full/default.mp3",
+      "duration": 198.0,
+      "filename": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/ucsb_victor_19592_01_pb67_01/ucsb_victor_19592_01_pb67_01.mp3",
+      "mediaType": "A",
+      "metadata": [
+       "Bonnie sweet Bessie",
+       "Violin solo, with piano"
+      ],
+      "mimetype": "audio/mpeg",
+      "poster": null,
+      "rights_restricted": true,
+      "shortName": "Bonnie sweet Bessie",
+      "thumbnail_url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19592_01_pb67_01:ucsb_victor_19592_01_pb67_01/full/pct:50/0/default.jpg"
+     },
+     {
+      "height": null,
+      "levels": 1,
+      "mimetype": "audio/wav",
+      "size": 34943060,
+      "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/ucsb_victor_19592_01_pb67_01/ucsb_victor_19592_01_pb67_01.wav",
+      "width": null
+     }
+    ]
+   ],
+   "url": "https://www.loc.gov/resource/jukebox-339794.0"
+  },
+  {
+   "files": [
+    [
+     {
+      "height": 394,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19592_01_pb67_01:ucsb_victor_19592_01_pb67_01/full/pct:50/0/default.jpg",
+      "width": 396
+     },
+     {
+      "height": 789,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19592_01_pb67_01:ucsb_victor_19592_01_pb67_01/full/pct:100/0/default.jpg",
+      "width": 793
+     }
+    ]
+   ],
+   "image": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19592_01_pb67_01:ucsb_victor_19592_01_pb67_01/full/pct:100/0/default.jpg",
+   "mimetype": "image/jpeg",
+   "url": "https://www.loc.gov/resource/jukebox-339794.1"
+  }
+ ],
+ "timestamp": 1791463801042
+}

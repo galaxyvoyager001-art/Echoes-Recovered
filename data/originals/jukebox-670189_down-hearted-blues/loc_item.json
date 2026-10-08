@@ -1,87 +1,91 @@
 {
  "articles_and_essays": null,
  "cite_this": {
-  "apa": "Handy'S Orchestra, Handy, W. C., Lopez, R. &amp; Nuñez, A. (1917) <cite>Livery Stable Blues</cite>. [Audio] Retrieved from the Library of Congress, https://www.loc.gov/item/jukebox-657649/.",
-  "chicago": "Handy'S Orchestra, W. C Handy, Ray Lopez, and Alcide Nuñez. <cite>Livery Stable Blues</cite>. 1917. Audio. https://www.loc.gov/item/jukebox-657649/.",
-  "mla": "Handy'S Orchestra, et al. <cite>Livery Stable Blues</cite>. 1917. Audio. Retrieved from the Library of Congress, &lt;www.loc.gov/item/jukebox-657649/&gt;."
+  "apa": "Hunter, A., Williams, C., Smith, B. &amp; Austin, L. (1923) <cite>Down Hearted Blues</cite>. [Audio] Retrieved from the Library of Congress, https://www.loc.gov/item/jukebox-670189/.",
+  "chicago": "Hunter, Alberta, Clarence Williams, Bessie Smith, and Lovie Austin. <cite>Down Hearted Blues</cite>. 1923. Audio. https://www.loc.gov/item/jukebox-670189/.",
+  "mla": "Hunter, Alberta, et al. <cite>Down Hearted Blues</cite>. 1923. Audio. Retrieved from the Library of Congress, &lt;www.loc.gov/item/jukebox-670189/&gt;."
  },
  "item": {
-  "_version_": 1878220667892006912,
+  "_version_": 1878220951260233728,
   "access_restricted": false,
   "aka": [
-   "http://www.loc.gov/item/jukebox-657649/",
-   "http://www.loc.gov/resource/jukebox-657649.0/",
-   "http://www.loc.gov/resource/jukebox-657649.1/",
-   "http://www.loc.gov/resource/jukebox-657649.0",
-   "http://www.loc.gov/resource/jukebox-657649.1"
+   "http://www.loc.gov/item/jukebox-670189/",
+   "http://www.loc.gov/resource/jukebox-670189.0/",
+   "http://www.loc.gov/resource/jukebox-670189.1/",
+   "http://www.loc.gov/resource/jukebox-670189.0",
+   "http://www.loc.gov/resource/jukebox-670189.1"
   ],
-  "audio_type": "Instrumental",
+  "audio_type": "Vocal",
   "campaigns": [],
   "contributor_composer": [
-   "lopez, ray",
-   "nuñez, alcide"
+   "austin, lovie"
   ],
-  "contributor_musical_group": [
-   "handy's orchestra"
+  "contributor_lyricist": [
+   "hunter, alberta"
   ],
   "contributor_names": [
-   "Handy's Orchestra -- Musical Group -- Musical Group",
-   "Handy, W. C. -- Leader -- Leader",
-   "Lopez, Ray -- Composer -- Composer",
-   "Nuñez, Alcide -- Composer -- Composer"
+   "Hunter, Alberta -- Lyricist -- Lyricist",
+   "Williams, Clarence -- Instrumentalist -- Piano",
+   "Smith, Bessie -- Vocalist -- Vocalist",
+   "Austin, Lovie -- Composer -- Composer"
   ],
   "contributor_primary": [
-   "handy's orchestra"
+   "williams, clarence"
+  ],
+  "contributor_vocalist": [
+   "smith, bessie"
   ],
   "contributors": [
    {
-    "handy's orchestra": "https://www.loc.gov/search/?fa=contributor:handy%27s+orchestra&fo=json"
+    "austin, lovie": "https://www.loc.gov/search/?fa=contributor:austin,+lovie&fo=json"
    },
    {
-    "handy, w. c.": "https://www.loc.gov/search/?fa=contributor:handy,+w.+c.&fo=json"
+    "hunter, alberta": "https://www.loc.gov/search/?fa=contributor:hunter,+alberta&fo=json"
    },
    {
-    "lopez, ray": "https://www.loc.gov/search/?fa=contributor:lopez,+ray&fo=json"
+    "smith, bessie": "https://www.loc.gov/search/?fa=contributor:smith,+bessie&fo=json"
    },
    {
-    "nuñez, alcide": "https://www.loc.gov/search/?fa=contributor:nu%C3%B1ez,+alcide&fo=json"
+    "williams, clarence": "https://www.loc.gov/search/?fa=contributor:williams,+clarence&fo=json"
    }
   ],
   "contributors_composer": [
    {
-    "lopez, ray": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_composer:lopez,+ray&fo=json"
-   },
-   {
-    "nuñez, alcide": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_composer:nu%C3%B1ez,+alcide&fo=json"
+    "austin, lovie": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_composer:austin,+lovie&fo=json"
    }
   ],
-  "contributors_musical_group": [
+  "contributors_lyricist": [
    {
-    "handy's orchestra": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_musical_group:handy%27s+orchestra&fo=json"
+    "hunter, alberta": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_lyricist:hunter,+alberta&fo=json"
    }
   ],
   "contributors_primary": [
    {
-    "handy's orchestra": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_primary:handy%27s+orchestra&fo=json"
+    "williams, clarence": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_primary:williams,+clarence&fo=json"
    }
   ],
-  "date": "1917-09-24",
+  "contributors_vocalist": [
+   {
+    "smith, bessie": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_vocalist:smith,+bessie&fo=json"
+   }
+  ],
+  "date": "1923-02-15",
   "dates": [
    {
-    "1917-09-24": "https://www.loc.gov/search/?dates=1917-09-24/1917-09-24&fo=json"
+    "1923-02-15": "https://www.loc.gov/search/?dates=1923-02-15/1923-02-15&fo=json"
    }
   ],
   "description": [
-   "Columbia A2419. Matrix/Take: 77377/1."
+   "Columbia A3844. Matrix/Take: 80863/5."
   ],
   "digitized": true,
   "display_offsite": true,
-  "extract_timestamp": "2026-10-05T04:47:16.478Z",
+  "extract_timestamp": "2026-10-05T05:12:32.936Z",
   "extract_urls": [
-   "http://www.loc.gov/item/jukebox-657649#nationaljukebox"
+   "http://www.loc.gov/item/jukebox-670189#nationaljukebox"
   ],
   "file_id": [
-   "ucsb_col_a2419_01_77377_01"
+   "ucsb_col_a3844_01_80863_05"
   ],
   "format": [
    {
@@ -97,45 +101,53 @@
    "national-jukebox"
   ],
   "hassegments": false,
-  "id": "http://www.loc.gov/item/jukebox-657649/",
-  "iiif_manifest_url": "https://www.loc.gov/item/jukebox-657649/manifest.json",
+  "id": "http://www.loc.gov/item/jukebox-670189/",
+  "iiif_manifest_url": "https://www.loc.gov/item/jukebox-670189/manifest.json",
   "image_url": [
-   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a2419_01_77377_01:ucsb_col_a2419_01_77377_01/full/pct:12.5/0/default.jpg#h=355&w=355",
-   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a2419_01_77377_01:ucsb_col_a2419_01_77377_01/full/pct:25/0/default.jpg#h=711&w=711",
-   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a2419_01_77377_01:ucsb_col_a2419_01_77377_01/full/pct:50/0/default.jpg#h=1423&w=1423",
-   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a2419_01_77377_01:ucsb_col_a2419_01_77377_01/full/pct:100/0/default.jpg#h=2847&w=2847"
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a3844_01_80863_05:ucsb_col_a3844_01_80863_05/full/pct:25/0/default.jpg#h=381&w=381",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a3844_01_80863_05:ucsb_col_a3844_01_80863_05/full/pct:50/0/default.jpg#h=762&w=762",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a3844_01_80863_05:ucsb_col_a3844_01_80863_05/full/pct:100/0/default.jpg#h=1524&w=1524"
   ],
   "index": 1,
   "item": {
-   "audio_type": "Instrumental",
+   "audio_type": "Vocal",
    "contributors": [
-    "Handy's Orchestra -- Musical Group -- Musical Group",
-    "Handy, W. C. -- Leader -- Leader",
-    "Lopez, Ray -- Composer -- Composer",
-    "Nuñez, Alcide -- Composer -- Composer"
+    "Hunter, Alberta -- Lyricist -- Lyricist",
+    "Williams, Clarence -- Instrumentalist -- Piano",
+    "Smith, Bessie -- Vocalist -- Vocalist",
+    "Austin, Lovie -- Composer -- Composer"
    ],
    "file_id": [
-    "ucsb_col_a2419_01_77377_01"
+    "ucsb_col_a3844_01_80863_05"
    ],
    "genre": [
     "Popular music",
     "Blues"
    ],
+   "language": "English",
    "media_size": "10-in.",
    "profile": "jukebox",
-   "recording_catalog_number": "A2419",
-   "recording_date": "1917-09-24",
+   "recording_catalog_number": "A3844",
+   "recording_date": "1923-02-15",
    "recording_label": "Columbia",
-   "recording_matrix_number": "77377 (Matrix ID)",
+   "recording_matrix_number": "80863 (Matrix ID)",
    "recording_repository": "Source of original recording: Department of Special Collections, Davidson Library, University of California, Santa Barbara.",
-   "recording_take_id": 657649,
-   "recording_take_number": "1",
+   "recording_take_id": 670189,
+   "recording_take_number": "5",
    "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
-   "summary": "Jazz/dance band"
+   "summary": "Female vocal solo (\"blues singer\"), with piano"
   },
+  "language": [
+   "english"
+  ],
+  "languages": [
+   {
+    "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+   }
+  ],
   "location": [
-   "new york",
-   "united states"
+   "united states",
+   "new york"
   ],
   "locations": [
    {
@@ -160,9 +172,6 @@
    "sound recording"
   ],
   "other_formats": [],
-  "other_title": [
-   "Dance music : Fox trot"
-  ],
   "partof": [
    {
     "count": 10024,
@@ -184,45 +193,45 @@
    "department of special collections, davidson library, university of california, santa barbara"
   ],
   "profile": "jukebox",
-  "recording_catalog_number": "A2419",
-  "recording_date": "1917-09-24",
+  "recording_catalog_number": "A3844",
+  "recording_date": "1923-02-15",
   "recording_label": "Columbia",
-  "recording_matrix_number": "77377 (Matrix ID)",
+  "recording_matrix_number": "80863 (Matrix ID)",
   "recording_repository": "Source of original recording: Department of Special Collections, Davidson Library, University of California, Santa Barbara.",
-  "recording_take_id": 657649,
-  "recording_take_number": "1",
+  "recording_take_id": 670189,
+  "recording_take_number": "5",
   "resources": [
    {
     "files": 1,
-    "media": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a2419_01_77377_01:ucsb_col_a2419_01_77377_01/full/full/0/full/default.mp3",
-    "url": "https://www.loc.gov/resource/jukebox-657649.0"
+    "media": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a3844_01_80863_05:ucsb_col_a3844_01_80863_05/full/full/0/full/default.mp3",
+    "url": "https://www.loc.gov/resource/jukebox-670189.0"
    },
    {
     "files": 1,
-    "image": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a2419_01_77377_01:ucsb_col_a2419_01_77377_01/full/pct:100/0/default.jpg",
+    "image": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a3844_01_80863_05:ucsb_col_a3844_01_80863_05/full/pct:100/0/default.jpg",
     "mimetype": "image/jpeg",
-    "url": "https://www.loc.gov/resource/jukebox-657649.1"
+    "url": "https://www.loc.gov/resource/jukebox-670189.1"
    }
   ],
   "rights": [
    "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
   ],
   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
-  "score": 15.457672,
+  "score": 15.457714,
   "shard": "01",
-  "shelf_id": "Columbia A2419",
+  "shelf_id": "Columbia A3844",
   "site": [
    "nationaljukebox"
   ],
   "source_modified": "2000-01-01T12:00:00Z",
   "subject": [
-   "instrumental",
    "popular music",
    "blues",
+   "vocal",
    "columbia"
   ],
   "subject_category": [
-   "instrumental"
+   "vocal"
   ],
   "subject_genre": [
    "popular music",
@@ -239,15 +248,15 @@
     "columbia": "https://www.loc.gov/search/?fa=subject:columbia&fo=json"
    },
    {
-    "instrumental": "https://www.loc.gov/search/?fa=subject:instrumental&fo=json"
+    "popular music": "https://www.loc.gov/search/?fa=subject:popular+music&fo=json"
    },
    {
-    "popular music": "https://www.loc.gov/search/?fa=subject:popular+music&fo=json"
+    "vocal": "https://www.loc.gov/search/?fa=subject:vocal&fo=json"
    }
   ],
   "subjects_category": [
    {
-    "instrumental": "https://www.loc.gov/collections/national-jukebox/?fa=subject_category:instrumental&fo=json"
+    "vocal": "https://www.loc.gov/collections/national-jukebox/?fa=subject_category:vocal&fo=json"
    }
   ],
   "subjects_genre": [
@@ -263,55 +272,60 @@
     "columbia": "https://www.loc.gov/collections/national-jukebox/?fa=subject_label:columbia&fo=json"
    }
   ],
-  "summary": "Jazz/dance band",
-  "timestamp": "2026-10-05T14:33:31.428Z",
-  "title": "Livery stable blues",
+  "summary": "Female vocal solo (\"blues singer\"), with piano",
+  "timestamp": "2026-10-05T14:38:01.287Z",
+  "title": "Down hearted blues",
   "type": [
    "sound recording-musical"
   ],
-  "url": "https://www.loc.gov/item/jukebox-657649/"
+  "url": "https://www.loc.gov/item/jukebox-670189/"
  },
  "more_like_this": [
   {
    "access_restricted": false,
    "aka": [
-    "http://www.loc.gov/item/jukebox-657621/",
-    "http://www.loc.gov/resource/jukebox-657621.0/",
-    "http://www.loc.gov/resource/jukebox-657621.1/",
-    "http://www.loc.gov/resource/jukebox-657621.0",
-    "http://www.loc.gov/resource/jukebox-657621.1"
+    "http://www.loc.gov/item/jukebox-670741/",
+    "http://www.loc.gov/resource/jukebox-670741.0/",
+    "http://www.loc.gov/resource/jukebox-670741.1/",
+    "http://www.loc.gov/resource/jukebox-670741.0",
+    "http://www.loc.gov/resource/jukebox-670741.1"
    ],
    "campaigns": [],
    "contributor": [
-    "handy's orchestra",
-    "overstreet, w. benton",
-    "handy, w. c."
+    "austin, lovie",
+    "hunter, alberta",
+    "mccoy, viola",
+    "grainger, porter",
+    "brown, amanda"
    ],
-   "date": "1917-09-21",
+   "date": "1923-04-26",
    "dates": [
-    "1917-09-21"
+    "1923-04-26"
    ],
    "description": [
-    "Columbia A2419. Matrix/Take: 77367/1."
+    "Columbia A3901. Matrix/Take: 80991/3."
    ],
    "digitized": true,
-   "extract_timestamp": "2026-10-05T04:47:16.478Z",
+   "extract_timestamp": "2026-10-05T05:14:46.556Z",
    "group": [
     "nationaljukebox",
     "national-jukebox"
    ],
    "hassegments": false,
-   "id": "http://www.loc.gov/item/jukebox-657621/",
+   "id": "http://www.loc.gov/item/jukebox-670741/",
    "image_url": [
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a2419_01_77367_01:ucsb_col_a2419_01_77367_01/full/pct:12.5/0/default.jpg#h=330&w=330",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a2419_01_77367_01:ucsb_col_a2419_01_77367_01/full/pct:25/0/default.jpg#h=661&w=661",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a2419_01_77367_01:ucsb_col_a2419_01_77367_01/full/pct:50/0/default.jpg#h=1323&w=1323",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a2419_01_77367_01:ucsb_col_a2419_01_77367_01/full/pct:100/0/default.jpg#h=2647&w=2647"
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a3901_01_80991_03:ucsb_col_a3901_01_80991_03/full/pct:12.5/0/default.jpg#h=339&w=339",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a3901_01_80991_03:ucsb_col_a3901_01_80991_03/full/pct:25/0/default.jpg#h=678&w=678",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a3901_01_80991_03:ucsb_col_a3901_01_80991_03/full/pct:50/0/default.jpg#h=1356&w=1356",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a3901_01_80991_03:ucsb_col_a3901_01_80991_03/full/pct:100/0/default.jpg#h=2713&w=2713"
    ],
    "index": 1,
+   "language": [
+    "english"
+   ],
    "location": [
-    "new york",
-    "united states"
+    "united states",
+    "new york"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -326,424 +340,432 @@
    "original_format": [
     "sound recording"
    ],
-   "other_title": [
-    "The jazz dance everybody is crazy 'bout",
-    "Dance music : One-step"
-   ],
    "partof": [
-    "national jukebox",
     "department of special collections, davidson library, university of california, santa barbara",
-    "recorded sound research center"
+    "recorded sound research center",
+    "national jukebox"
    ],
-   "score": 43.98932,
-   "shelf_id": "Columbia A2419",
+   "score": 51.938866,
+   "shelf_id": "Columbia A3901",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "instrumental",
-    "popular music",
-    "columbia"
-   ],
-   "timestamp": "2026-10-05T14:33:31.428Z",
-   "title": "That 'jazz' dance",
-   "type": [
-    "sound recording-musical"
-   ],
-   "url": "https://www.loc.gov/item/jukebox-657621/"
-  },
-  {
-   "access_restricted": false,
-   "aka": [
-    "http://www.loc.gov/item/jukebox-817440/",
-    "http://www.loc.gov/resource/jukebox-817440.0/",
-    "http://www.loc.gov/resource/jukebox-817440.1/",
-    "http://www.loc.gov/resource/jukebox-817440.0",
-    "http://www.loc.gov/resource/jukebox-817440.1"
-   ],
-   "campaigns": [],
-   "contributor": [
-    "handy's orchestra",
-    "handy, w. c.",
-    "kelley, h. alf",
-    "wyer, j. paul"
-   ],
-   "date": "1917-09-24",
-   "dates": [
-    "1917-09-24"
-   ],
-   "description": [
-    "Columbia A2418. Matrix/Take: 77373/00."
-   ],
-   "digitized": true,
-   "extract_timestamp": "2026-10-05T08:52:16.710Z",
-   "group": [
-    "nationaljukebox",
-    "national-jukebox"
-   ],
-   "hassegments": false,
-   "id": "http://www.loc.gov/item/jukebox-817440/",
-   "image_url": [
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a2418_01_77373_00:ucsb_col_a2418_01_77373_00/full/pct:12.5/0/default.jpg#h=305&w=305",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a2418_01_77373_00:ucsb_col_a2418_01_77373_00/full/pct:25/0/default.jpg#h=610&w=610",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a2418_01_77373_00:ucsb_col_a2418_01_77373_00/full/pct:50/0/default.jpg#h=1220&w=1220",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a2418_01_77373_00:ucsb_col_a2418_01_77373_00/full/pct:100/0/default.jpg#h=2440&w=2440"
-   ],
-   "index": 2,
-   "location": [
-    "new york",
-    "united states"
-   ],
-   "mime_type": [
-    "audio/mpeg",
-    "audio/wav",
-    "image/tif",
-    "image/jpeg"
-   ],
-   "online_format": [
-    "audio",
-    "image"
-   ],
-   "original_format": [
-    "sound recording"
-   ],
-   "other_title": [
-    "Dance music : Fox trot"
-   ],
-   "partof": [
-    "national jukebox",
-    "department of special collections, davidson library, university of california, santa barbara",
-    "recorded sound research center"
-   ],
-   "score": 43.98932,
-   "shelf_id": "Columbia A2418",
-   "site": [
-    "nationaljukebox"
-   ],
-   "subject": [
-    "instrumental",
-    "popular music",
-    "columbia"
-   ],
-   "timestamp": "2026-10-05T14:54:37.910Z",
-   "title": "A bunch of blues",
-   "type": [
-    "sound recording-musical"
-   ],
-   "url": "https://www.loc.gov/item/jukebox-817440/"
-  },
-  {
-   "access_restricted": false,
-   "aka": [
-    "http://www.loc.gov/item/jukebox-657609/",
-    "http://www.loc.gov/resource/jukebox-657609.0/",
-    "http://www.loc.gov/resource/jukebox-657609.1/",
-    "http://www.loc.gov/resource/jukebox-657609.0",
-    "http://www.loc.gov/resource/jukebox-657609.1"
-   ],
-   "campaigns": [],
-   "contributor": [
-    "handy's orchestra",
-    "handy, w. c."
-   ],
-   "date": "1917-09-21",
-   "dates": [
-    "1917-09-21"
-   ],
-   "description": [
-    "Columbia A2420. Matrix/Take: 77362/3."
-   ],
-   "digitized": true,
-   "extract_timestamp": "2026-10-05T04:47:16.478Z",
-   "group": [
-    "nationaljukebox",
-    "national-jukebox"
-   ],
-   "hassegments": false,
-   "id": "http://www.loc.gov/item/jukebox-657609/",
-   "image_url": [
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a2420_01_77362_03:ucsb_col_a2420_01_77362_03/full/pct:12.5/0/default.jpg#h=355&w=355",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a2420_01_77362_03:ucsb_col_a2420_01_77362_03/full/pct:25/0/default.jpg#h=711&w=711",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a2420_01_77362_03:ucsb_col_a2420_01_77362_03/full/pct:50/0/default.jpg#h=1423&w=1423",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a2420_01_77362_03:ucsb_col_a2420_01_77362_03/full/pct:100/0/default.jpg#h=2847&w=2847"
-   ],
-   "index": 3,
-   "location": [
-    "new york",
-    "united states"
-   ],
-   "mime_type": [
-    "audio/mpeg",
-    "audio/wav",
-    "image/tif",
-    "image/jpeg"
-   ],
-   "online_format": [
-    "audio",
-    "image"
-   ],
-   "original_format": [
-    "sound recording"
-   ],
-   "other_title": [
-    "Dance music : Fox trot"
-   ],
-   "partof": [
-    "national jukebox",
-    "department of special collections, davidson library, university of california, santa barbara",
-    "recorded sound research center"
-   ],
-   "score": 39.219624,
-   "shelf_id": "Columbia A2420",
-   "site": [
-    "nationaljukebox"
-   ],
-   "subject": [
-    "instrumental",
-    "columbia"
-   ],
-   "timestamp": "2026-10-05T14:33:31.428Z",
-   "title": "Ole Miss rag",
-   "type": [
-    "sound recording-musical"
-   ],
-   "url": "https://www.loc.gov/item/jukebox-657609/"
-  },
-  {
-   "access_restricted": false,
-   "aka": [
-    "http://www.loc.gov/item/jukebox-657631/",
-    "http://www.loc.gov/resource/jukebox-657631.0/",
-    "http://www.loc.gov/resource/jukebox-657631.1/",
-    "http://www.loc.gov/resource/jukebox-657631.0",
-    "http://www.loc.gov/resource/jukebox-657631.1"
-   ],
-   "campaigns": [],
-   "contributor": [
-    "handy's orchestra",
-    "williams, douglas",
-    "handy, w. c."
-   ],
-   "date": "1917-09-24",
-   "dates": [
-    "1917-09-24"
-   ],
-   "description": [
-    "Columbia A2420. Matrix/Take: 77371/1."
-   ],
-   "digitized": true,
-   "extract_timestamp": "2026-10-05T04:47:16.478Z",
-   "group": [
-    "nationaljukebox",
-    "national-jukebox"
-   ],
-   "hassegments": false,
-   "id": "http://www.loc.gov/item/jukebox-657631/",
-   "image_url": [
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a2420_01_77371_01:ucsb_col_a2420_01_77371_01/full/pct:12.5/0/default.jpg#h=307&w=307",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a2420_01_77371_01:ucsb_col_a2420_01_77371_01/full/pct:25/0/default.jpg#h=615&w=615",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a2420_01_77371_01:ucsb_col_a2420_01_77371_01/full/pct:50/0/default.jpg#h=1230&w=1230",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a2420_01_77371_01:ucsb_col_a2420_01_77371_01/full/pct:100/0/default.jpg#h=2460&w=2460"
-   ],
-   "index": 4,
-   "location": [
-    "new york",
-    "united states"
-   ],
-   "mime_type": [
-    "audio/mpeg",
-    "audio/wav",
-    "image/tif",
-    "image/jpeg"
-   ],
-   "online_format": [
-    "audio",
-    "image"
-   ],
-   "original_format": [
-    "sound recording"
-   ],
-   "other_title": [
-    "Dance music : Fox trot"
-   ],
-   "partof": [
-    "national jukebox",
-    "department of special collections, davidson library, university of california, santa barbara",
-    "recorded sound research center"
-   ],
-   "score": 39.219624,
-   "shelf_id": "Columbia A2420",
-   "site": [
-    "nationaljukebox"
-   ],
-   "subject": [
-    "instrumental",
-    "columbia"
-   ],
-   "timestamp": "2026-10-05T14:33:31.428Z",
-   "title": "The hooking cow blues",
-   "type": [
-    "sound recording-musical"
-   ],
-   "url": "https://www.loc.gov/item/jukebox-657631/"
-  },
-  {
-   "access_restricted": false,
-   "aka": [
-    "http://www.loc.gov/item/jukebox-817439/",
-    "http://www.loc.gov/resource/jukebox-817439.0/",
-    "http://www.loc.gov/resource/jukebox-817439.1/",
-    "http://www.loc.gov/resource/jukebox-817439.0",
-    "http://www.loc.gov/resource/jukebox-817439.1"
-   ],
-   "campaigns": [],
-   "contributor": [
-    "handy's orchestra",
-    "deane, homer",
-    "handy, w. c."
-   ],
-   "date": "1917-09-22",
-   "dates": [
-    "1917-09-22"
-   ],
-   "description": [
-    "Columbia A2418. Matrix/Take: 77369/00."
-   ],
-   "digitized": true,
-   "extract_timestamp": "2026-10-05T08:52:16.710Z",
-   "group": [
-    "nationaljukebox",
-    "national-jukebox"
-   ],
-   "hassegments": false,
-   "id": "http://www.loc.gov/item/jukebox-817439/",
-   "image_url": [
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a2418_01_77369_00:ucsb_col_a2418_01_77369_00/full/pct:12.5/0/default.jpg#h=303&w=303",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a2418_01_77369_00:ucsb_col_a2418_01_77369_00/full/pct:25/0/default.jpg#h=606&w=606",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a2418_01_77369_00:ucsb_col_a2418_01_77369_00/full/pct:50/0/default.jpg#h=1213&w=1213",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a2418_01_77369_00:ucsb_col_a2418_01_77369_00/full/pct:100/0/default.jpg#h=2427&w=2427"
-   ],
-   "index": 5,
-   "location": [
-    "new york",
-    "united states"
-   ],
-   "mime_type": [
-    "audio/mpeg",
-    "audio/wav",
-    "image/tif",
-    "image/jpeg"
-   ],
-   "online_format": [
-    "audio",
-    "image"
-   ],
-   "original_format": [
-    "sound recording"
-   ],
-   "other_title": [
-    "Dance music : Waltz"
-   ],
-   "partof": [
-    "national jukebox",
-    "department of special collections, davidson library, university of california, santa barbara",
-    "recorded sound research center"
-   ],
-   "score": 39.219624,
-   "shelf_id": "Columbia A2418",
-   "site": [
-    "nationaljukebox"
-   ],
-   "subject": [
-    "instrumental",
-    "columbia"
-   ],
-   "timestamp": "2026-10-05T14:54:37.910Z",
-   "title": "Moonlight blues",
-   "type": [
-    "sound recording-musical"
-   ],
-   "url": "https://www.loc.gov/item/jukebox-817439/"
-  },
-  {
-   "access_restricted": false,
-   "aka": [
-    "http://www.loc.gov/item/jukebox-817327/",
-    "http://www.loc.gov/resource/jukebox-817327.0/",
-    "http://www.loc.gov/resource/jukebox-817327.1/",
-    "http://www.loc.gov/resource/jukebox-817327.0",
-    "http://www.loc.gov/resource/jukebox-817327.1"
-   ],
-   "campaigns": [],
-   "contributor": [
-    "horsley, gus",
-    "dunn, johnny",
-    "johnny dunn’s original jazz hounds"
-   ],
-   "date": "1922-09-21",
-   "dates": [
-    "1922-09-21"
-   ],
-   "description": [
-    "Columbia A3729. Matrix/Take: 80529/00."
-   ],
-   "digitized": true,
-   "extract_timestamp": "2026-10-05T08:49:15.781Z",
-   "group": [
-    "nationaljukebox",
-    "national-jukebox"
-   ],
-   "hassegments": false,
-   "id": "http://www.loc.gov/item/jukebox-817327/",
-   "image_url": [
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a3729_01_80529_00:ucsb_col_a3729_01_80529_00/full/pct:12.5/0/default.jpg#h=345&w=345",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a3729_01_80529_00:ucsb_col_a3729_01_80529_00/full/pct:25/0/default.jpg#h=691&w=691",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a3729_01_80529_00:ucsb_col_a3729_01_80529_00/full/pct:50/0/default.jpg#h=1383&w=1383",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a3729_01_80529_00:ucsb_col_a3729_01_80529_00/full/pct:100/0/default.jpg#h=2767&w=2767"
-   ],
-   "index": 6,
-   "location": [
-    "new york",
-    "united states"
-   ],
-   "mime_type": [
-    "audio/mpeg",
-    "audio/wav",
-    "image/tif",
-    "image/jpeg"
-   ],
-   "online_format": [
-    "audio",
-    "image"
-   ],
-   "original_format": [
-    "sound recording"
-   ],
-   "other_title": [
-    "Fox trot"
-   ],
-   "partof": [
-    "national jukebox",
-    "department of special collections, davidson library, university of california, santa barbara",
-    "recorded sound research center"
-   ],
-   "score": 36.07348,
-   "shelf_id": "Columbia A3729",
-   "site": [
-    "nationaljukebox"
-   ],
-   "subject": [
-    "instrumental",
     "popular music",
     "blues",
+    "vocal",
     "columbia"
    ],
-   "timestamp": "2026-10-05T14:54:19.754Z",
-   "title": "Four o'clock blues",
+   "timestamp": "2026-10-05T14:38:21.806Z",
+   "title": "Chirping the blues",
    "type": [
     "sound recording-musical"
    ],
-   "url": "https://www.loc.gov/item/jukebox-817327/"
+   "url": "https://www.loc.gov/item/jukebox-670741/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-671086/",
+    "http://www.loc.gov/resource/jukebox-671086.0/",
+    "http://www.loc.gov/resource/jukebox-671086.1/",
+    "http://www.loc.gov/resource/jukebox-671086.0",
+    "http://www.loc.gov/resource/jukebox-671086.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "austin, lovie",
+    "smith, bessie",
+    "henderson, fletcher"
+   ],
+   "date": "1923-06-14",
+   "dates": [
+    "1923-06-14"
+   ],
+   "description": [
+    "Columbia A3936. Matrix/Take: 81075/3."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T05:14:46.556Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-671086/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a3936_01_81075_03:ucsb_col_a3936_01_81075_03/full/pct:12.5/0/default.jpg#h=348&w=348",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a3936_01_81075_03:ucsb_col_a3936_01_81075_03/full/pct:25/0/default.jpg#h=696&w=696",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a3936_01_81075_03:ucsb_col_a3936_01_81075_03/full/pct:50/0/default.jpg#h=1393&w=1393",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a3936_01_81075_03:ucsb_col_a3936_01_81075_03/full/pct:100/0/default.jpg#h=2787&w=2787"
+   ],
+   "index": 2,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "united states",
+    "new york"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "partof": [
+    "department of special collections, davidson library, university of california, santa barbara",
+    "recorded sound research center",
+    "national jukebox"
+   ],
+   "score": 50.631935,
+   "shelf_id": "Columbia A3936",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "popular music",
+    "blues",
+    "vocal",
+    "columbia"
+   ],
+   "timestamp": "2026-10-05T14:38:21.806Z",
+   "title": "Bleeding hearted blues",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-671086/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-670203/",
+    "http://www.loc.gov/resource/jukebox-670203.0/",
+    "http://www.loc.gov/resource/jukebox-670203.1/",
+    "http://www.loc.gov/resource/jukebox-670203.0",
+    "http://www.loc.gov/resource/jukebox-670203.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "williams, spencer",
+    "kortlander, max",
+    "smith, bessie",
+    "williams, clarence"
+   ],
+   "date": "1923-04-26",
+   "dates": [
+    "1923-04-26"
+   ],
+   "description": [
+    "Columbia A3898. Matrix/Take: 80865/10."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T05:12:32.936Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-670203/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a3898_01_80865_10:ucsb_col_a3898_01_80865_10/full/pct:12.5/0/default.jpg#h=345&w=345",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a3898_01_80865_10:ucsb_col_a3898_01_80865_10/full/pct:25/0/default.jpg#h=691&w=691",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a3898_01_80865_10:ucsb_col_a3898_01_80865_10/full/pct:50/0/default.jpg#h=1383&w=1383",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a3898_01_80865_10:ucsb_col_a3898_01_80865_10/full/pct:100/0/default.jpg#h=2767&w=2767"
+   ],
+   "index": 3,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "united states",
+    "new york"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "partof": [
+    "department of special collections, davidson library, university of california, santa barbara",
+    "recorded sound research center",
+    "national jukebox"
+   ],
+   "score": 49.933407,
+   "shelf_id": "Columbia A3898",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "popular music",
+    "blues",
+    "vocal",
+    "columbia"
+   ],
+   "timestamp": "2026-10-05T14:38:01.287Z",
+   "title": "Keeps on a-rainin'",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-670203/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-670761/",
+    "http://www.loc.gov/resource/jukebox-670761.0/",
+    "http://www.loc.gov/resource/jukebox-670761.1/",
+    "http://www.loc.gov/resource/jukebox-670761.0",
+    "http://www.loc.gov/resource/jukebox-670761.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "smith, bessie",
+    "williams, clarence",
+    "martin, sara",
+    "henderson, fletcher"
+   ],
+   "date": "1923-04-28",
+   "dates": [
+    "1923-04-28"
+   ],
+   "description": [
+    "Columbia A3900. Matrix/Take: 80995/2."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T05:14:46.556Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-670761/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a3900_01_80995_02:ucsb_col_a3900_01_80995_02/full/pct:12.5/0/default.jpg#h=360&w=360",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a3900_01_80995_02:ucsb_col_a3900_01_80995_02/full/pct:25/0/default.jpg#h=720&w=720",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a3900_01_80995_02:ucsb_col_a3900_01_80995_02/full/pct:50/0/default.jpg#h=1440&w=1440",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a3900_01_80995_02:ucsb_col_a3900_01_80995_02/full/pct:100/0/default.jpg#h=2880&w=2880"
+   ],
+   "index": 4,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "united states",
+    "new york"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "partof": [
+    "department of special collections, davidson library, university of california, santa barbara",
+    "recorded sound research center",
+    "national jukebox"
+   ],
+   "score": 49.933407,
+   "shelf_id": "Columbia A3900",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "popular music",
+    "blues",
+    "vocal",
+    "columbia"
+   ],
+   "timestamp": "2026-10-05T14:38:21.806Z",
+   "title": "Mama's got the blues",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-670761/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-670764/",
+    "http://www.loc.gov/resource/jukebox-670764.0/",
+    "http://www.loc.gov/resource/jukebox-670764.1/",
+    "http://www.loc.gov/resource/jukebox-670764.0",
+    "http://www.loc.gov/resource/jukebox-670764.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "henderson, fletcher",
+    "trent, jo",
+    "smith, bessie",
+    "williams, clarence"
+   ],
+   "date": "1923-04-28",
+   "dates": [
+    "1923-04-28"
+   ],
+   "description": [
+    "Columbia A3900. Matrix/Take: 80996/1."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T05:14:46.556Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-670764/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a3900_01_80996_01:ucsb_col_a3900_01_80996_01/full/pct:12.5/0/default.jpg#h=300&w=300",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a3900_01_80996_01:ucsb_col_a3900_01_80996_01/full/pct:25/0/default.jpg#h=601&w=601",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a3900_01_80996_01:ucsb_col_a3900_01_80996_01/full/pct:50/0/default.jpg#h=1203&w=1203",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a3900_01_80996_01:ucsb_col_a3900_01_80996_01/full/pct:100/0/default.jpg#h=2407&w=2407"
+   ],
+   "index": 5,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "united states",
+    "new york"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "partof": [
+    "department of special collections, davidson library, university of california, santa barbara",
+    "recorded sound research center",
+    "national jukebox"
+   ],
+   "score": 49.933407,
+   "shelf_id": "Columbia A3900",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "popular music",
+    "blues",
+    "vocal",
+    "columbia"
+   ],
+   "timestamp": "2026-10-05T14:38:21.806Z",
+   "title": "Outside of that",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-670764/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-879932/",
+    "http://www.loc.gov/resource/jukebox-879932.0/",
+    "http://www.loc.gov/resource/jukebox-879932.1/",
+    "http://www.loc.gov/resource/jukebox-879932.0",
+    "http://www.loc.gov/resource/jukebox-879932.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "leona williams dixie band",
+    "williams, leona",
+    "williams, clarence",
+    "fletcher, lucy"
+   ],
+   "date": "1922-08-10",
+   "dates": [
+    "1922-08-10"
+   ],
+   "description": [
+    "Columbia A3696. Matrix/Take: 80517/2."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T09:20:10.006Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-879932/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a3696_01_80517_02:ucsb_col_a3696_01_80517_02/full/pct:12.5/0/default.jpg#h=360&w=360",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a3696_01_80517_02:ucsb_col_a3696_01_80517_02/full/pct:25/0/default.jpg#h=721&w=721",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a3696_01_80517_02:ucsb_col_a3696_01_80517_02/full/pct:50/0/default.jpg#h=1443&w=1443",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a3696_01_80517_02:ucsb_col_a3696_01_80517_02/full/pct:100/0/default.jpg#h=2887&w=2887"
+   ],
+   "index": 6,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "united states",
+    "new york"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "partof": [
+    "department of special collections, davidson library, university of california, santa barbara",
+    "recorded sound research center",
+    "national jukebox"
+   ],
+   "score": 42.929115,
+   "shelf_id": "Columbia A3696",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "popular music",
+    "blues",
+    "vocal",
+    "columbia"
+   ],
+   "timestamp": "2026-10-05T14:56:02.535Z",
+   "title": "Sugar blues",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-879932/"
   }
  ],
  "notice": {
@@ -766,9 +788,12 @@
   "cache_tags": [
    "nationaljukebox",
    "national-jukebox",
+   "paprika-music",
+   "catalog-split-11",
+   "catalog",
+   "main-catalog-split-11",
    "pp_other",
    "catalog-split-01",
-   "catalog",
    "prints-and-photographs-other",
    "main-catalog-split-01",
    "catalog-split-14",
@@ -778,9 +803,7 @@
    "catalog-split-02",
    "main-catalog-split-02",
    "catalog-split-04",
-   "main-catalog-split-04",
-   "catalog-split-06",
-   "main-catalog-split-06"
+   "main-catalog-split-04"
   ],
   "callback": null,
   "clip": null,
@@ -796,7 +819,7 @@
   "display_level": null,
   "distance": null,
   "downloadOption": null,
-  "duration": 0.6848201751708984,
+  "duration": 1.472062110900879,
   "embed": [],
   "embed!": [],
   "error_response_status": null,
@@ -823,7 +846,7 @@
   "format": "json",
   "host": "www.loc.gov",
   "ical": false,
-  "id": "jukebox-657649/",
+  "id": "jukebox-670189/",
   "iiif": false,
   "include_facets": [
    {
@@ -918,7 +941,7 @@
   "operator": null,
   "outputEncoding": "UTF-8",
   "page_campaigns": [],
-  "path_info": "/item/jukebox-657649/",
+  "path_info": "/item/jukebox-670189/",
   "port": "443",
   "proxypath": null,
   "query_string": "fo=json",
@@ -933,7 +956,7 @@
     "json"
    ]
   },
-  "request_url": "https://www.loc.gov/item/jukebox-657649/?fo=json",
+  "request_url": "https://www.loc.gov/item/jukebox-670189/?fo=json",
   "resource": "",
   "resource_sequence": null,
   "scheme": "https",
@@ -955,12 +978,103 @@
   "suggested": null,
   "target": null,
   "template": "layouts/item/layout",
-  "timestamp": 1791463264.5718825,
+  "timestamp": 1791463953.7408829,
   "tz_aware": null,
   "unionFacets": "",
   "webcast_permalink": null
  },
  "related_items": [
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://lccn.loc.gov/2014562599",
+    "http://www.loc.gov/item/2014562599/",
+    "http://www.loc.gov/resource/music.muswwism-200208726/",
+    "https://hdl.loc.gov/loc.music/2014562599",
+    "http://www.loc.gov/resource/2014562599/"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "piron, armand j.",
+    "williams, clarence",
+    "perrault, samuel j."
+   ],
+   "date": "1917",
+   "dates": [
+    "1917"
+   ],
+   "description": [
+    "Caption title. Melody only. Manuscript in ink. Also available in digital form on the Library of Congress Web site. Staff notation."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2025-06-10T07:24:54.319Z",
+   "group": [
+    "paprika-music",
+    "catalog-split-11",
+    "catalog",
+    "main-catalog-split-11"
+   ],
+   "hassegments": true,
+   "id": "http://www.loc.gov/item/2014562599/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:music:muswwism-200208726:0001/full/pct:6.25/0/default.jpg",
+    "https://tile.loc.gov/image-services/iiif/public:music:muswwism-200208726:0001/full/pct:6.25/0/default.jpg#h=311&w=220",
+    "https://tile.loc.gov/image-services/iiif/public:music:muswwism-200208726:0001/full/pct:12.5/0/default.jpg#h=622&w=440",
+    "https://tile.loc.gov/image-services/iiif/public:music:muswwism-200208726:0001/full/pct:25.0/0/default.jpg#h=1245&w=881",
+    "https://tile.loc.gov/image-services/iiif/public:music:muswwism-200208726:0001/full/pct:50.0/0/default.jpg#h=2491&w=1763",
+    "https://tile.loc.gov/image-services/iiif/public:music:muswwism-200208726:0001/full/pct:100.0/0/default.jpg#h=4983&w=3527"
+   ],
+   "index": 1,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "united states"
+   ],
+   "mime_type": [
+    "image/jpeg",
+    "application/pdf",
+    "image/jp2"
+   ],
+   "number": [
+    "2023-10-12t14:51:51",
+    "http://www.loc.gov/item/ihas.200208726",
+    "http://www.loc.gov/item/2014562599",
+    "http://www.loc.gov/resource/ihas.200208726.0",
+    "2014562599"
+   ],
+   "online_format": [
+    "image",
+    "pdf"
+   ],
+   "original_format": [
+    "notated music"
+   ],
+   "partof": [
+    "world war i sheet music",
+    "catalog",
+    "the library of congress celebrates the songs of america",
+    "music division"
+   ],
+   "score": 12.968871,
+   "shelf_id": "https://repo.loc.gov/access/public/music/muswwism-200208726/.resource.json",
+   "site": [
+    "catalog"
+   ],
+   "subject": [
+    "popular music",
+    "mothers of soldiers",
+    "united states",
+    "world war",
+    "songs and music"
+   ],
+   "timestamp": "2025-06-10T09:46:47.614Z",
+   "title": "America they are both for you",
+   "type": [
+    "notated music"
+   ],
+   "url": "https://www.loc.gov/item/2014562599/"
+  },
   {
    "access_restricted": false,
    "aka": [
@@ -1000,25 +1114,25 @@
     "https://tile.loc.gov/storage-services/service/pnp/vrg/21900/21926r.jpg#h=427&w=640",
     "https://tile.loc.gov/storage-services/service/pnp/vrg/21900/21926v.jpg#h=683&w=1024"
    ],
-   "index": 1,
+   "index": 2,
    "language": [
     "english"
    ],
    "location": [
-    "new york (state)",
     "manhattan",
-    "new york",
-    "united states"
+    "new york (state)",
+    "united states",
+    "new york"
    ],
    "mime_type": [
     "image/gif",
     "image/jpg"
    ],
    "number": [
-    "http://www.loc.gov/item/23877672",
-    "2024641149",
     "2024-09-26t15:11:59",
-    "online resource"
+    "http://www.loc.gov/item/23877672",
+    "online resource",
+    "2024641149"
    ],
    "online_format": [
     "image"
@@ -1037,14 +1151,14 @@
     "catalog"
    ],
    "subject": [
+    "families",
+    "united states",
     "security",
-    "digital photographs",
+    "new york",
     "new york (state)",
     "manhattan",
-    "families",
-    "columbia",
-    "new york",
-    "united states"
+    "digital photographs",
+    "columbia"
    ],
    "timestamp": "2024-10-05T12:53:00.697Z",
    "title": "Columbia University, Family Orientation. Broadway and W. 116th St., Manhattan",
@@ -1092,25 +1206,25 @@
     "https://tile.loc.gov/storage-services/service/pnp/vrg/14500/14518r.jpg#h=427&w=640",
     "https://tile.loc.gov/storage-services/service/pnp/vrg/14500/14518v.jpg#h=683&w=1024"
    ],
-   "index": 2,
+   "index": 3,
    "language": [
     "english"
    ],
    "location": [
-    "new york (state)",
     "manhattan",
-    "new york",
-    "united states"
+    "new york (state)",
+    "united states",
+    "new york"
    ],
    "mime_type": [
     "image/gif",
     "image/jpg"
    ],
    "number": [
+    "http://www.loc.gov/item/21788674",
     "2022-01-14t12:55:47",
-    "2020638225",
     "online resource",
-    "http://www.loc.gov/item/21788674"
+    "2020638225"
    ],
    "online_format": [
     "image"
@@ -1119,9 +1233,9 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "prints & photographs online catalog (library of congress)",
     "prints and photographs division",
-    "catalog"
+    "catalog",
+    "prints & photographs online catalog (library of congress)"
    ],
    "score": 9.738505,
    "shelf_id": "LC-DIG-vrg- 14518 (ONLINE) [P&P]",
@@ -1130,20 +1244,20 @@
     "catalog"
    ],
    "subject": [
-    "digital photographs",
+    "united states",
     "subway",
-    "lines",
-    "covid-19 pandemic",
-    "new york (state)",
-    "corona virus",
-    "manhattan",
-    "crossroads",
-    "presidential elections",
-    "voting",
     "time lapse: covid-19",
-    "columbia",
+    "covid-19 pandemic",
     "new york",
-    "united states"
+    "crossroads",
+    "new york (state)",
+    "digital photographs",
+    "manhattan",
+    "voting",
+    "presidential elections",
+    "corona virus",
+    "lines",
+    "columbia"
    ],
    "timestamp": "2023-08-17T17:18:30.102Z",
    "title": "Early voters, 168th St. at St. Nicholas Ave., Manhattan",
@@ -1187,25 +1301,25 @@
    "hassegments": false,
    "id": "http://www.loc.gov/item/2024706173/",
    "image_url": [],
-   "index": 3,
+   "index": 4,
    "language": [
     "english"
    ],
    "location": [
-    "new york (state)",
     "manhattan",
-    "new york",
-    "united states"
+    "new york (state)",
+    "united states",
+    "new york"
    ],
    "mime_type": [
     "image/gif",
     "image/jpg"
    ],
    "number": [
-    "2024-08-06t09:38:42",
-    "2024706173",
+    "http://www.loc.gov/item/23812374",
     "online resource",
-    "http://www.loc.gov/item/23812374"
+    "2024706173",
+    "2024-08-06t09:38:42"
    ],
    "online_format": [
     "image"
@@ -1224,14 +1338,14 @@
     "catalog"
    ],
    "subject": [
-    "digital photographs",
+    "united states",
+    "new york",
     "new york (state)",
     "gaza",
+    "digital photographs",
     "manhattan",
     "palestine",
-    "columbia",
-    "new york",
-    "united states"
+    "columbia"
    ],
    "timestamp": "2024-08-17T12:48:02.678Z",
    "title": "Palestinian flags and tents placed by students protesting the war in Gaza. Columbia University, East Lawn, Broadway and W. 116th St., Manhattan",
@@ -1275,25 +1389,25 @@
    "hassegments": false,
    "id": "http://www.loc.gov/item/2024706175/",
    "image_url": [],
-   "index": 4,
+   "index": 5,
    "language": [
     "english"
    ],
    "location": [
-    "new york (state)",
     "manhattan",
-    "new york",
-    "united states"
+    "new york (state)",
+    "united states",
+    "new york"
    ],
    "mime_type": [
     "image/gif",
     "image/jpg"
    ],
    "number": [
-    "http://www.loc.gov/item/23812376",
-    "2024-08-06t09:38:42",
     "2024706175",
-    "online resource"
+    "online resource",
+    "http://www.loc.gov/item/23812376",
+    "2024-08-06t09:38:42"
    ],
    "online_format": [
     "image"
@@ -1312,14 +1426,14 @@
     "catalog"
    ],
    "subject": [
-    "digital photographs",
+    "united states",
+    "new york",
     "new york (state)",
     "gaza",
+    "digital photographs",
     "manhattan",
     "palestine",
-    "columbia",
-    "new york",
-    "united states"
+    "columbia"
    ],
    "timestamp": "2024-08-17T12:48:02.678Z",
    "title": "Palestinian flags and tents placed by students protesting the war in Gaza. Columbia University, East Lawn, Broadway and W. 116th St., Manhattan",
@@ -1363,24 +1477,24 @@
    "hassegments": false,
    "id": "http://www.loc.gov/item/2024706177/",
    "image_url": [],
-   "index": 5,
+   "index": 6,
    "language": [
     "english"
    ],
    "location": [
-    "new york (state)",
     "manhattan",
-    "new york",
-    "united states"
+    "new york (state)",
+    "united states",
+    "new york"
    ],
    "mime_type": [
     "image/gif",
     "image/jpg"
    ],
    "number": [
+    "online resource",
     "2024-08-06t09:38:43",
     "2024706177",
-    "online resource",
     "http://www.loc.gov/item/23812378"
    ],
    "online_format": [
@@ -1400,14 +1514,14 @@
     "catalog"
    ],
    "subject": [
-    "digital photographs",
+    "united states",
+    "new york",
     "new york (state)",
     "gaza",
+    "digital photographs",
     "manhattan",
     "palestine",
-    "columbia",
-    "new york",
-    "united states"
+    "columbia"
    ],
    "timestamp": "2024-08-17T12:48:02.678Z",
    "title": "Palestinian flags and tents placed by students protesting the war in Gaza. Columbia University, East Lawn, Broadway and W. 116th St., Manhattan",
@@ -1415,99 +1529,11 @@
     "still image"
    ],
    "url": "https://www.loc.gov/item/2024706177/"
-  },
-  {
-   "access_restricted": false,
-   "aka": [
-    "https://www.loc.gov/pictures/item/2024706179/",
-    "http://www.loc.gov/item/2024706179/",
-    "http://www.loc.gov/pictures/item/2024706179/",
-    "https://hdl.loc.gov/loc.pnp/vrg.21287",
-    "https://hdl.loc.gov/loc.pnp/vrg.21287",
-    "http://www.loc.gov/resource/vrg.21287/",
-    "http://lccn.loc.gov/2024706179"
-   ],
-   "campaigns": [],
-   "contributor": [
-    "vergara, camilo j."
-   ],
-   "date": "2024-04-17",
-   "dates": [
-    "2024-04-17",
-    "2024"
-   ],
-   "description": [
-    "1 photograph : digital, tiff file, color."
-   ],
-   "digitized": true,
-   "extract_timestamp": "2024-08-17T12:42:57.285Z",
-   "group": [
-    "pp_other",
-    "catalog-split-06",
-    "catalog",
-    "prints-and-photographs-other",
-    "main-catalog-split-06"
-   ],
-   "hassegments": false,
-   "id": "http://www.loc.gov/item/2024706179/",
-   "image_url": [],
-   "index": 6,
-   "language": [
-    "english"
-   ],
-   "location": [
-    "new york (state)",
-    "manhattan",
-    "new york",
-    "united states"
-   ],
-   "mime_type": [
-    "image/gif",
-    "image/jpg"
-   ],
-   "number": [
-    "2024-08-06t09:38:43",
-    "http://www.loc.gov/item/23812380",
-    "online resource",
-    "2024706179"
-   ],
-   "online_format": [
-    "image"
-   ],
-   "original_format": [
-    "photo, print, drawing"
-   ],
-   "partof": [
-    "prints and photographs division",
-    "catalog"
-   ],
-   "score": 9.738505,
-   "shelf_id": "LC-DIG-vrg- 21287 (ONLINE)",
-   "site": [
-    "pictures",
-    "catalog"
-   ],
-   "subject": [
-    "digital photographs",
-    "new york (state)",
-    "gaza",
-    "manhattan",
-    "palestine",
-    "columbia",
-    "new york",
-    "united states"
-   ],
-   "timestamp": "2024-08-17T12:48:02.678Z",
-   "title": "Columbia University Low Library, Broadway and W. 116th St., Manhattan",
-   "type": [
-    "still image"
-   ],
-   "url": "https://www.loc.gov/item/2024706179/"
   }
  ],
  "resources": [
   {
-   "audio": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a2419_01_77377_01:ucsb_col_a2419_01_77377_01/full/full/0/full/default.mp3",
+   "audio": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a3844_01_80863_05:ucsb_col_a3844_01_80863_05/full/full/0/full/default.mp3",
    "files": [
     [
      {
@@ -1516,77 +1542,71 @@
       "canDownload": true,
       "derivatives": [
        {
-        "derivativeUrl": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/ucsb_col_a2419_01_77377_01/ucsb_col_a2419_01_77377_01.mp3"
+        "derivativeUrl": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/ucsb_col_a3844_01_80863_05/ucsb_col_a3844_01_80863_05.mp3"
        }
       ],
-      "detailUrl": "https://www.loc.gov/item/jukebox-657649",
-      "download": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a2419_01_77377_01:ucsb_col_a2419_01_77377_01/full/full/0/full/default.mp3",
-      "duration": 171.0,
-      "filename": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/ucsb_col_a2419_01_77377_01/ucsb_col_a2419_01_77377_01.mp3",
+      "detailUrl": "https://www.loc.gov/item/jukebox-670189",
+      "download": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a3844_01_80863_05:ucsb_col_a3844_01_80863_05/full/full/0/full/default.mp3",
+      "duration": 207.0,
+      "filename": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/ucsb_col_a3844_01_80863_05/ucsb_col_a3844_01_80863_05.mp3",
       "mediaType": "A",
       "metadata": [
-       "Livery stable blues",
-       "Jazz/dance band"
+       "Down hearted blues",
+       "Female vocal solo (\"blues singer\"), with piano"
       ],
       "mimetype": "audio/mpeg",
       "poster": null,
       "rights_restricted": true,
-      "shortName": "Livery stable blues",
-      "thumbnail_url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a2419_01_77377_01:ucsb_col_a2419_01_77377_01/full/pct:12.5/0/default.jpg"
+      "shortName": "Down hearted blues",
+      "thumbnail_url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a3844_01_80863_05:ucsb_col_a3844_01_80863_05/full/pct:25/0/default.jpg"
      },
      {
       "height": null,
       "levels": 1,
       "mimetype": "audio/wav",
-      "size": 15125820,
-      "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/ucsb_col_a2419_01_77377_01/ucsb_col_a2419_01_77377_01.wav",
+      "size": 18294024,
+      "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/ucsb_col_a3844_01_80863_05/ucsb_col_a3844_01_80863_05.wav",
       "width": null
      }
     ]
    ],
-   "url": "https://www.loc.gov/resource/jukebox-657649.0"
+   "url": "https://www.loc.gov/resource/jukebox-670189.0"
   },
   {
    "files": [
     [
      {
-      "height": 355,
+      "height": 381,
       "mimetype": "image/jpeg",
-      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a2419_01_77377_01:ucsb_col_a2419_01_77377_01/full/pct:12.5/0/default.jpg",
-      "width": 355
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a3844_01_80863_05:ucsb_col_a3844_01_80863_05/full/pct:25/0/default.jpg",
+      "width": 381
      },
      {
-      "height": 711,
+      "height": 762,
       "mimetype": "image/jpeg",
-      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a2419_01_77377_01:ucsb_col_a2419_01_77377_01/full/pct:25/0/default.jpg",
-      "width": 711
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a3844_01_80863_05:ucsb_col_a3844_01_80863_05/full/pct:50/0/default.jpg",
+      "width": 762
      },
      {
-      "height": 1423,
+      "height": 1524,
       "mimetype": "image/jpeg",
-      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a2419_01_77377_01:ucsb_col_a2419_01_77377_01/full/pct:50/0/default.jpg",
-      "width": 1423
-     },
-     {
-      "height": 2847,
-      "mimetype": "image/jpeg",
-      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a2419_01_77377_01:ucsb_col_a2419_01_77377_01/full/pct:100/0/default.jpg",
-      "width": 2847
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a3844_01_80863_05:ucsb_col_a3844_01_80863_05/full/pct:100/0/default.jpg",
+      "width": 1524
      },
      {
       "height": null,
       "levels": 1,
       "mimetype": "image/tiff",
-      "size": 24350532,
-      "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/ucsb_col_a2419_01_77377_01/ucsb_col_a2419_01_77377_01.tif",
+      "size": 7006480,
+      "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/ucsb_col_a3844_01_80863_05/ucsb_col_a3844_01_80863_05.tif",
       "width": null
      }
     ]
    ],
-   "image": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a2419_01_77377_01:ucsb_col_a2419_01_77377_01/full/pct:100/0/default.jpg",
+   "image": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_col_a3844_01_80863_05:ucsb_col_a3844_01_80863_05/full/pct:100/0/default.jpg",
    "mimetype": "image/jpeg",
-   "url": "https://www.loc.gov/resource/jukebox-657649.1"
+   "url": "https://www.loc.gov/resource/jukebox-670189.1"
   }
  ],
- "timestamp": 1791463265257
+ "timestamp": 1791463955213
 }

@@ -1,7 +1,7 @@
 {
  "articles_and_essays": [
   {
-   "score": 6.4462643,
+   "score": 6.4503946,
    "title": "The Fox Trot | Playlist of Recordings | About this Collection | National Jukebox | Digital Collections",
    "url": "https://www.loc.gov/collections/national-jukebox/about-this-collection/playlists/the-fox-trot/"
   }
@@ -256,7 +256,7 @@
    "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
   ],
   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
-  "score": 15.332874,
+  "score": 15.335276,
   "shard": "01",
   "shelf_id": "Victor 18690",
   "site": [
@@ -264,9 +264,9 @@
   ],
   "source_modified": "2000-01-01T12:00:00Z",
   "subject": [
-   "instrumental",
    "victor",
-   "ragtime, jazz, and more"
+   "ragtime, jazz, and more",
+   "instrumental"
   ],
   "subject_category": [
    "instrumental"
@@ -324,20 +324,20 @@
    ],
    "campaigns": [],
    "contributor": [
-    "mueller, gus",
-    "pingitore, mike",
     "rose, vincent",
-    "busse, henry",
-    "simons, seymour",
     "luce, warren",
-    "heiss, sammy",
-    "byers, hale",
     "whiteman, paul",
-    "ambassador orchestra",
-    "johnson, theron e. \"buster\"",
+    "simons, seymour",
+    "bayes, nora",
+    "busse, henry",
+    "heiss, sammy",
+    "pingitore, mike",
+    "byers, hale",
+    "mueller, gus",
     "mcdonald, harold",
+    "johnson, theron e. \"buster\"",
     "grofé, ferde",
-    "bayes, nora"
+    "ambassador orchestra"
    ],
    "date": "1920-08-23",
    "dates": [
@@ -384,18 +384,18 @@
    ],
    "partof": [
     "national jukebox",
-    "recorded sound section, library of congress",
-    "recorded sound research center"
+    "recorded sound research center",
+    "recorded sound section, library of congress"
    ],
-   "score": 108.8365,
+   "score": 108.87072,
    "shelf_id": "Victor 35701",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "instrumental",
     "victor",
-    "ragtime, jazz, and more"
+    "ragtime, jazz, and more",
+    "instrumental"
    ],
    "timestamp": "2026-10-05T14:17:11.978Z",
    "title": "Avalon",
@@ -416,17 +416,17 @@
    ],
    "campaigns": [],
    "contributor": [
-    "mueller, gus",
-    "pingitore, mike",
+    "whiteman, paul",
     "busse, henry",
     "heiss, sammy",
-    "byers, hale",
-    "whiteman, paul",
     "whiting, richard a.",
-    "ambassador orchestra",
-    "johnson, theron e. \"buster\"",
+    "pingitore, mike",
+    "grofé, ferde",
+    "mueller, gus",
     "mcdonald, harold",
-    "grofé, ferde"
+    "johnson, theron e. \"buster\"",
+    "byers, hale",
+    "ambassador orchestra"
    ],
    "date": "1920-08-19",
    "dates": [
@@ -473,18 +473,18 @@
    ],
    "partof": [
     "national jukebox",
-    "recorded sound section, library of congress",
-    "recorded sound research center"
+    "recorded sound research center",
+    "recorded sound section, library of congress"
    ],
-   "score": 100.680504,
+   "score": 100.711975,
    "shelf_id": "Victor 18690",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "instrumental",
     "victor",
-    "ragtime, jazz, and more"
+    "ragtime, jazz, and more",
+    "instrumental"
    ],
    "timestamp": "2026-10-05T14:17:11.978Z",
    "title": "The Japanese sandman",
@@ -505,18 +505,18 @@
    ],
    "campaigns": [],
    "contributor": [
-    "mueller, gus",
-    "pingitore, mike",
+    "whiteman, paul",
+    "macbeth, allan",
     "busse, henry",
     "heiss, sammy",
+    "pingitore, mike",
+    "grofé, ferde",
     "ponchielli, amilcare",
-    "byers, hale",
-    "whiteman, paul",
-    "ambassador orchestra",
-    "johnson, theron e. \"buster\"",
-    "macbeth, allan",
+    "mueller, gus",
     "mcdonald, harold",
-    "grofé, ferde"
+    "johnson, theron e. \"buster\"",
+    "byers, hale",
+    "ambassador orchestra"
    ],
    "date": "1920-08-19",
    "dates": [
@@ -564,18 +564,18 @@
    ],
    "partof": [
     "national jukebox",
-    "recorded sound section, library of congress",
-    "recorded sound research center"
+    "recorded sound research center",
+    "recorded sound section, library of congress"
    ],
-   "score": 100.680504,
+   "score": 100.711975,
    "shelf_id": "Victor 35701",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "instrumental",
     "victor",
-    "ragtime, jazz, and more"
+    "ragtime, jazz, and more",
+    "instrumental"
    ],
    "timestamp": "2026-10-05T14:17:11.978Z",
    "title": "Best ever medley",
@@ -596,17 +596,17 @@
    ],
    "campaigns": [],
    "contributor": [
-    "mueller, gus",
-    "pingitore, mike",
+    "whiteman, paul",
     "busse, henry",
     "heiss, sammy",
-    "byers, hale",
-    "whiteman, paul",
-    "ambassador orchestra",
-    "johnson, theron e. \"buster\"",
+    "pingitore, mike",
+    "grofé, ferde",
+    "mueller, gus",
     "mcdonald, harold",
     "kortlander, max",
-    "grofé, ferde"
+    "johnson, theron e. \"buster\"",
+    "byers, hale",
+    "ambassador orchestra"
    ],
    "date": "1920-08-23",
    "dates": [
@@ -653,18 +653,18 @@
    ],
    "partof": [
     "national jukebox",
-    "recorded sound section, library of congress",
-    "recorded sound research center"
+    "recorded sound research center",
+    "recorded sound section, library of congress"
    ],
-   "score": 100.680504,
+   "score": 100.711975,
    "shelf_id": "Victor 18694",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "instrumental",
     "victor",
-    "ragtime, jazz, and more"
+    "ragtime, jazz, and more",
+    "instrumental"
    ],
    "timestamp": "2026-10-05T14:17:11.978Z",
    "title": "Anytime, anyday, anywhere",
@@ -685,20 +685,20 @@
    ],
    "campaigns": [],
    "contributor": [
-    "mueller, gus",
-    "mckee, margaret",
-    "violinsky",
-    "pingitore, mike",
-    "busse, henry",
     "ager, milton",
-    "heiss, sammy",
-    "byers, hale",
     "whiteman, paul",
-    "ambassador orchestra",
-    "johnson, theron e. \"buster\"",
+    "mckee, margaret",
+    "busse, henry",
+    "heiss, sammy",
+    "pingitore, mike",
+    "violinsky",
+    "byers, hale",
+    "ginsberg, sol",
+    "mueller, gus",
     "mcdonald, harold",
+    "johnson, theron e. \"buster\"",
     "grofé, ferde",
-    "ginsberg, sol"
+    "ambassador orchestra"
    ],
    "date": "1920-12-28",
    "dates": [
@@ -723,8 +723,8 @@
    ],
    "index": 5,
    "location": [
-    "united states",
-    "new york"
+    "new york",
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -745,18 +745,18 @@
    ],
    "partof": [
     "national jukebox",
-    "recorded sound section, library of congress",
-    "recorded sound research center"
+    "recorded sound research center",
+    "recorded sound section, library of congress"
    ],
-   "score": 94.422455,
+   "score": 94.45256,
    "shelf_id": "Victor 18721",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "instrumental",
     "victor",
-    "ragtime, jazz, and more"
+    "ragtime, jazz, and more",
+    "instrumental"
    ],
    "timestamp": "2026-10-05T14:17:11.978Z",
    "title": "Honolulu eyes",
@@ -777,15 +777,15 @@
    ],
    "campaigns": [],
    "contributor": [
-    "mueller, gus",
-    "pingitore, mike",
+    "whiteman, paul",
     "busse, henry",
     "heiss, sammy",
-    "whiteman, paul",
-    "ambassador orchestra",
-    "johnson, theron e. \"buster\"",
+    "pingitore, mike",
+    "mueller, gus",
     "mcdonald, harold",
-    "grofé, ferde"
+    "johnson, theron e. \"buster\"",
+    "grofé, ferde",
+    "ambassador orchestra"
    ],
    "date": "1920-08-09",
    "dates": [
@@ -832,19 +832,19 @@
    ],
    "partof": [
     "national jukebox",
-    "recorded sound section, library of congress",
-    "recorded sound research center"
+    "recorded sound research center",
+    "recorded sound section, library of congress"
    ],
-   "score": 93.04493,
+   "score": 93.07372,
    "shelf_id": "Victor 18694",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "instrumental",
     "victor",
     "ragtime, jazz, and more",
-    "blues"
+    "blues",
+    "instrumental"
    ],
    "timestamp": "2026-10-05T14:17:11.978Z",
    "title": "Wang-wang blues",
@@ -891,7 +891,7 @@
   "display_level": null,
   "distance": null,
   "downloadOption": null,
-  "duration": 3.6060562133789062,
+  "duration": 8.331279516220093,
   "embed": [],
   "embed!": [],
   "error_response_status": null,
@@ -1050,7 +1050,7 @@
   "suggested": null,
   "target": null,
   "template": "layouts/item/layout",
-  "timestamp": 1791373039.871775,
+  "timestamp": 1791463345.7806442,
   "tz_aware": null,
   "unionFacets": "",
   "webcast_permalink": null
@@ -1073,7 +1073,7 @@
     "Datasets are increasingly a key digital resource used in a wide range of fields. The Library of Congress selects, preserves, and provides enduring access to datasets with the goal of cultivating a broad collection that encompasses all the areas covered by Library of Congress Collection Policy Statements. For more information on priorities for collecting datasets, see the Supplementary Guidelines for Datasets. Additional datasets acquired by the Library for the permanent collection will be made available here on a regular basis."
    ],
    "digitized": true,
-   "extract_timestamp": "2026-10-07T05:13:54.584Z",
+   "extract_timestamp": "2026-10-08T05:14:55.482Z",
    "group": [
     "collections-portal"
    ],
@@ -1085,33 +1085,33 @@
    "index": 1,
    "items": "https://www.loc.gov/collections/selected-datasets/",
    "location": [
-    "united states",
-    "europe"
+    "europe",
+    "united states"
    ],
    "original_format": [
     "collection"
    ],
    "partof": [
-    "selected datasets",
-    "digital collections"
+    "digital collections",
+    "selected datasets"
    ],
-   "score": 253.77168,
+   "score": 253.7873,
    "shelf_id": "~/collections/selected-datasets/about-this-collection/",
    "subject": [
     "",
-    "american history",
     "war & military",
-    "science & technology",
-    "social & business history",
-    "geography & places",
-    "local history & folklife",
-    "sports & recreation",
     "law & politics",
-    "comic books",
     "business correspondence",
-    "government, law & politics"
+    "social & business history",
+    "government, law & politics",
+    "comic books",
+    "american history",
+    "local history & folklife",
+    "geography & places",
+    "sports & recreation",
+    "science & technology"
    ],
-   "timestamp": "2026-10-07T07:05:58.733Z",
+   "timestamp": "2026-10-08T07:00:43.004Z",
    "title": "Selected Datasets",
    "type": [
     "collection"
@@ -1153,8 +1153,8 @@
     "application/pdf"
    ],
    "number": [
-    "1529-0-01",
     "t89-370",
+    "1529-0-01",
     "http://www.loc.gov/item/powmia/pw100804"
    ],
    "online_format": [
@@ -1164,19 +1164,19 @@
     "manuscript/mixed material"
    ],
    "partof": [
-    "source report",
-    "vietnam-era prisoner-of-war/missing-in-action database",
     "101",
-    "defense pow/mia accounting agency",
-    "federal research division"
+    "federal research division",
+    "vietnam-era prisoner-of-war/missing-in-action database",
+    "source report",
+    "defense pow/mia accounting agency"
    ],
-   "score": 253.15535,
+   "score": 253.17053,
    "shelf_id": "http://www.loc.gov/item/powmia/pwmaster_27974/",
    "subject": [
     "",
-    "remains",
+    "white, james b.",
     "dog tag",
-    "white, james b."
+    "remains"
    ],
    "timestamp": "2026-08-14T17:49:04.014Z",
    "title": "DOGTAG INFORMATION AND BONE FRAGMENTS, SOURCE DATA SHEETS ON GRV-HSY REPORT",
@@ -1229,12 +1229,12 @@
    ],
    "partof": [
     "casualty report",
+    "federal research division",
     "132",
     "vietnam-era prisoner-of-war/missing-in-action database",
-    "defense pow/mia accounting agency",
-    "federal research division"
+    "defense pow/mia accounting agency"
    ],
-   "score": 253.15535,
+   "score": 253.17053,
    "shelf_id": "http://www.loc.gov/item/powmia/pwmaster_37690/",
    "subject": [
     "",
@@ -1278,17 +1278,17 @@
    ],
    "index": 4,
    "location": [
-    "post-1975 vietnam",
-    "laos"
+    "laos",
+    "post-1975 vietnam"
    ],
    "mime_type": [
     "application/pdf"
    ],
    "number": [
-    "1245",
-    "0984",
     "0668",
-    "1444"
+    "0984",
+    "1444",
+    "1245"
    ],
    "online_format": [
     "pdf"
@@ -1297,23 +1297,23 @@
     "manuscript/mixed material"
    ],
    "partof": [
-    "s149",
-    "vietnam-era prisoner-of-war/missing-in-action database",
     "misc pw files",
+    "federal research division",
+    "vietnam-era prisoner-of-war/missing-in-action database",
     "defense pow/mia accounting agency",
-    "federal research division"
+    "s149"
    ],
-   "score": 253.15535,
+   "score": 253.17053,
    "shelf_id": "http://www.loc.gov/item/powmia/s149-092/",
    "subject": [
     "",
-    "aircraft downed",
-    "kontum province",
+    "salavan province",
     "helwig, r.",
-    "attepeu province",
-    "wolfkeil, w.",
+    "kontum province",
+    "aircraft downed",
     "cohron, j.",
-    "salavan province"
+    "attepeu province",
+    "wolfkeil, w."
    ],
    "timestamp": "2026-08-14T20:48:53.273Z",
    "title": "TRANSLATION OF ADVANCE WORK REPORT CONCERNING LAOS REFNOS 0668, 1245, 1444 AND LAOS LKA REFNO 0984 OBTAINED DURING JOINT FIELD ACTIVITY 19-4VN (136TH JFA) IN THE SOCIALIST REPUBLIC OF VIETNAM",
@@ -1364,23 +1364,23 @@
     "manuscript/mixed material"
    ],
    "partof": [
-    "defense pow/mia accounting agency",
     "misc pw files",
-    "vietnam-era prisoner-of-war/missing-in-action database",
-    "federal research division"
+    "defense pow/mia accounting agency",
+    "federal research division",
+    "vietnam-era prisoner-of-war/missing-in-action database"
    ],
-   "score": 253.15535,
+   "score": 253.17053,
    "shelf_id": "http://www.loc.gov/item/powmia/s163-004/",
    "subject": [
     "",
-    "remains",
-    "duvall, dean a.",
     "personal effects",
-    "pasekoff, robert e.",
-    "crash site",
     "xekong province",
+    "pasekoff, robert e.",
+    "duvall, dean a.",
+    "crash site",
+    "olson, gerald e.",
     "morgan, edwin e.",
-    "olson, gerald e."
+    "remains"
    ],
    "timestamp": "2026-08-14T20:50:53.675Z",
    "title": "[…]SCAVENGING OF REMAINS AND EQUIPMENT FROM AIRCRAFT WRECKAGE IN BAN CHALING, DAK CHUNG, XEKONG, LAOS (CASE 0271)",
@@ -1421,8 +1421,8 @@
     "application/pdf"
    ],
    "number": [
-    "http://www.loc.gov/item/powmia/pw107641",
-    "1036-0-01"
+    "1036-0-01",
+    "http://www.loc.gov/item/powmia/pw107641"
    ],
    "online_format": [
     "pdf"
@@ -1432,17 +1432,17 @@
    ],
    "partof": [
     "casualty report",
-    "vietnam-era prisoner-of-war/missing-in-action database",
+    "federal research division",
     "250",
-    "defense pow/mia accounting agency",
-    "federal research division"
+    "vietnam-era prisoner-of-war/missing-in-action database",
+    "defense pow/mia accounting agency"
    ],
-   "score": 253.15535,
+   "score": 253.17053,
    "shelf_id": "http://www.loc.gov/item/powmia/pwmaster_72656/",
    "subject": [
-    "ban napang",
     "",
     "crash site",
+    "ban napang",
     "kammouan province"
    ],
    "timestamp": "2026-08-14T19:32:10.380Z",
@@ -1530,5 +1530,5 @@
    "url": "https://www.loc.gov/resource/jukebox-37810.1"
   }
  ],
- "timestamp": 1791373043478
+ "timestamp": 1791463354112
 }

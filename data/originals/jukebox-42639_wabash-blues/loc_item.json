@@ -178,8 +178,8 @@
   },
   "location": [
    "illinois",
-   "united states",
-   "chicago"
+   "chicago",
+   "united states"
   ],
   "locations": [
    {
@@ -255,7 +255,7 @@
    "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
   ],
   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
-  "score": 15.332891,
+  "score": 15.335276,
   "shard": "01",
   "shelf_id": "Victor 18820",
   "site": [
@@ -263,10 +263,10 @@
   ],
   "source_modified": "2000-01-01T12:00:00Z",
   "subject": [
-   "blues",
    "victor",
-   "instrumental",
-   "ragtime, jazz, and more"
+   "ragtime, jazz, and more",
+   "blues",
+   "instrumental"
   ],
   "subject_category": [
    "instrumental"
@@ -331,18 +331,18 @@
    ],
    "campaigns": [],
    "contributor": [
-    "carey, guy",
     "baum, joe",
-    "benson orchestra of chicago",
-    "amaturo, matthew",
-    "walthall, albert",
-    "meinken, fred",
-    "bargy, roy",
     "thatcher, thomas",
+    "benson orchestra of chicago",
     "layfield, arthur",
     "adkins, rick",
+    "foeste, william",
+    "walthall, albert",
+    "amaturo, matthew",
+    "carey, guy",
     "miller, joe",
-    "foeste, william"
+    "bargy, roy",
+    "meinken, fred"
    ],
    "date": "1921-09-29",
    "dates": [
@@ -368,8 +368,8 @@
    "index": 1,
    "location": [
     "illinois",
-    "united states",
-    "chicago"
+    "chicago",
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -388,20 +388,20 @@
     "Fox trot"
    ],
    "partof": [
-    "recorded sound section, library of congress",
+    "national jukebox",
     "recorded sound research center",
-    "national jukebox"
+    "recorded sound section, library of congress"
    ],
-   "score": 127.789474,
+   "score": 127.829956,
    "shelf_id": "Victor 18820",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "blues",
     "victor",
-    "instrumental",
-    "ragtime, jazz, and more"
+    "ragtime, jazz, and more",
+    "blues",
+    "instrumental"
    ],
    "timestamp": "2026-10-05T14:20:56.209Z",
    "title": "Wabash blues",
@@ -422,20 +422,20 @@
    ],
    "campaigns": [],
    "contributor": [
-    "carey, guy",
     "baum, joe",
-    "benson orchestra of chicago",
-    "amaturo, matthew",
-    "walthall, albert",
-    "ruby, herman",
-    "bargy, roy",
     "thatcher, thomas",
-    "ruby, harry",
+    "benson orchestra of chicago",
     "layfield, arthur",
-    "baker, william",
-    "miller, joe",
     "adkins, rick",
-    "foeste, william"
+    "baker, william",
+    "foeste, william",
+    "walthall, albert",
+    "amaturo, matthew",
+    "ruby, harry",
+    "carey, guy",
+    "ruby, herman",
+    "miller, joe",
+    "bargy, roy"
    ],
    "date": "1921-09-28",
    "dates": [
@@ -460,8 +460,8 @@
    "index": 2,
    "location": [
     "illinois",
-    "united states",
-    "chicago"
+    "chicago",
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -480,19 +480,19 @@
     "Fox trot"
    ],
    "partof": [
-    "recorded sound section, library of congress",
+    "national jukebox",
     "recorded sound research center",
-    "national jukebox"
+    "recorded sound section, library of congress"
    ],
-   "score": 112.11067,
+   "score": 112.1476,
    "shelf_id": "Victor 18819",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
     "victor",
-    "instrumental",
-    "ragtime, jazz, and more"
+    "ragtime, jazz, and more",
+    "instrumental"
    ],
    "timestamp": "2026-10-05T14:01:15.280Z",
    "title": "My sunny Tennessee",
@@ -513,18 +513,18 @@
    ],
    "campaigns": [],
    "contributor": [
-    "carey, guy",
-    "benson orchestra of chicago",
-    "baum, joe",
-    "amaturo, matthew",
-    "walthall, albert",
     "thatcher, thomas",
+    "baum, joe",
     "bargy, roy",
-    "conrad, con",
+    "benson orchestra of chicago",
     "layfield, arthur",
-    "miller, joe",
     "adkins, rick",
-    "foeste, william"
+    "foeste, william",
+    "walthall, albert",
+    "amaturo, matthew",
+    "carey, guy",
+    "miller, joe",
+    "conrad, con"
    ],
    "date": "1921-09-29",
    "dates": [
@@ -550,8 +550,8 @@
    "index": 3,
    "location": [
     "illinois",
-    "united states",
-    "chicago"
+    "chicago",
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -570,19 +570,19 @@
     "One-step"
    ],
    "partof": [
-    "recorded sound section, library of congress",
+    "national jukebox",
     "recorded sound research center",
-    "national jukebox"
+    "recorded sound section, library of congress"
    ],
-   "score": 112.11067,
+   "score": 112.1476,
    "shelf_id": "Victor 18819",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
     "victor",
-    "instrumental",
-    "ragtime, jazz, and more"
+    "ragtime, jazz, and more",
+    "instrumental"
    ],
    "timestamp": "2026-10-05T14:20:56.209Z",
    "title": "Ma!",
@@ -603,19 +603,19 @@
    ],
    "campaigns": [],
    "contributor": [
-    "carey, guy",
     "baum, joe",
-    "benson orchestra of chicago",
-    "amaturo, matthew",
-    "walthall, albert",
-    "meyer, george w.",
-    "bargy, roy",
     "thatcher, thomas",
-    "straight, charley",
+    "benson orchestra of chicago",
     "layfield, arthur",
     "adkins, rick",
+    "foeste, william",
+    "walthall, albert",
+    "amaturo, matthew",
+    "carey, guy",
     "miller, joe",
-    "foeste, william"
+    "meyer, george w.",
+    "straight, charley",
+    "bargy, roy"
    ],
    "date": "1921-09-30",
    "dates": [
@@ -641,8 +641,8 @@
    "index": 4,
    "location": [
     "illinois",
-    "united states",
-    "chicago"
+    "chicago",
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -661,19 +661,19 @@
     "Fox trot"
    ],
    "partof": [
-    "recorded sound section, library of congress",
+    "national jukebox",
     "recorded sound research center",
-    "national jukebox"
+    "recorded sound section, library of congress"
    ],
-   "score": 112.11067,
+   "score": 112.1476,
    "shelf_id": "Victor 18820",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
     "victor",
-    "instrumental",
-    "ragtime, jazz, and more"
+    "ragtime, jazz, and more",
+    "instrumental"
    ],
    "timestamp": "2026-10-05T14:20:56.209Z",
    "title": "Tuck me to sleep in my old 'Tucky home",
@@ -694,19 +694,19 @@
    ],
    "campaigns": [],
    "contributor": [
-    "carey, guy",
     "baum, joe",
-    "benson orchestra of chicago",
-    "amaturo, matthew",
-    "walthall, albert",
-    "meyer, george w.",
-    "bargy, roy",
     "thatcher, thomas",
-    "straight, charley",
+    "benson orchestra of chicago",
     "layfield, arthur",
     "adkins, rick",
+    "foeste, william",
+    "walthall, albert",
+    "amaturo, matthew",
+    "carey, guy",
     "miller, joe",
-    "foeste, william"
+    "meyer, george w.",
+    "straight, charley",
+    "bargy, roy"
    ],
    "date": "1921-09-30",
    "dates": [
@@ -732,8 +732,8 @@
    "index": 5,
    "location": [
     "illinois",
-    "united states",
-    "chicago"
+    "chicago",
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -752,19 +752,19 @@
     "Fox trot"
    ],
    "partof": [
-    "recorded sound section, library of congress",
+    "national jukebox",
     "recorded sound research center",
-    "national jukebox"
+    "recorded sound section, library of congress"
    ],
-   "score": 112.11067,
+   "score": 112.1476,
    "shelf_id": "Victor 18820",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
     "victor",
-    "instrumental",
-    "ragtime, jazz, and more"
+    "ragtime, jazz, and more",
+    "instrumental"
    ],
    "timestamp": "2026-10-05T14:20:56.209Z",
    "title": "Tuck me to sleep in my old 'Tucky home",
@@ -785,20 +785,20 @@
    ],
    "campaigns": [],
    "contributor": [
-    "king, robert",
-    "carey, guy",
     "baum, joe",
-    "fiorito, ted",
-    "amaturo, matthew",
-    "earl, mary",
-    "walthall, albert",
-    "benson orchestra of chicago",
-    "bargy, roy",
     "thatcher, thomas",
+    "benson orchestra of chicago",
     "layfield, arthur",
     "adkins, rick",
+    "fiorito, ted",
+    "earl, mary",
+    "foeste, william",
+    "walthall, albert",
+    "amaturo, matthew",
+    "carey, guy",
+    "king, robert",
     "miller, joe",
-    "foeste, william"
+    "bargy, roy"
    ],
    "date": "1921-09-29",
    "dates": [
@@ -824,8 +824,8 @@
    "index": 6,
    "location": [
     "illinois",
-    "united states",
-    "chicago"
+    "chicago",
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -844,19 +844,19 @@
     "Fox trot"
    ],
    "partof": [
-    "recorded sound section, library of congress",
+    "national jukebox",
     "recorded sound research center",
-    "national jukebox"
+    "recorded sound section, library of congress"
    ],
-   "score": 105.70354,
+   "score": 105.73972,
    "shelf_id": "Victor 18823",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
     "victor",
-    "popular music",
-    "instrumental"
+    "instrumental",
+    "popular music"
    ],
    "timestamp": "2026-10-05T14:20:56.209Z",
    "title": "Just like a rainbow",
@@ -905,7 +905,7 @@
   "display_level": null,
   "distance": null,
   "downloadOption": null,
-  "duration": 1.4382243156433105,
+  "duration": 0.870070219039917,
   "embed": [],
   "embed!": [],
   "error_response_status": null,
@@ -1064,7 +1064,7 @@
   "suggested": null,
   "target": null,
   "template": "layouts/item/layout",
-  "timestamp": 1791373432.8566759,
+  "timestamp": 1791463499.7932205,
   "tz_aware": null,
   "unionFacets": "",
   "webcast_permalink": null
@@ -1108,11 +1108,11 @@
     "english"
    ],
    "location": [
+    "illinois",
     "chicago",
     "cook county",
-    "united states",
-    "illinois",
-    "cook"
+    "cook",
+    "united states"
    ],
    "mime_type": [
     "image/jp2",
@@ -1121,9 +1121,9 @@
     "image/jpeg"
    ],
    "number": [
-    "00220720457",
+    "sn84025819",
     "1",
-    "sn84025819"
+    "00220720457"
    ],
    "numeric_shelf_id": 190001271,
    "online_format": [
@@ -1135,8 +1135,8 @@
     "newspaper"
    ],
    "partof": [
-    "serial and government publications division",
     "the chicago world (chicago, ill.) 1900-19??",
+    "serial and government publications division",
     "chronicling america"
    ],
    "publication_frequency": [
@@ -1148,17 +1148,17 @@
     "chroniclingamerica"
    ],
    "subject": [
-    "newspapers",
-    "african american",
-    "african americans",
+    "illinois",
     "chicago",
-    "chicago (ill.)",
     "cook county",
     "cook county (ill.)",
-    "united states",
-    "illinois",
+    "african american newspapers",
+    "newspapers",
+    "african american",
+    "chicago (ill.)",
     "cook",
-    "african american newspapers"
+    "united states",
+    "african americans"
    ],
    "timestamp": "2026-06-21T17:46:37.232Z",
    "title": "The Chicago world (Chicago, Ill.), January 27, 1900",
@@ -1205,10 +1205,10 @@
     "english"
    ],
    "location": [
-    "cook county",
     "illinois",
+    "chicago",
     "united states",
-    "chicago"
+    "cook county"
    ],
    "mime_type": [
     "image/jp2",
@@ -1217,9 +1217,9 @@
     "image/jpeg"
    ],
    "number": [
-    "1",
     "00220720391",
-    "sn84024048"
+    "sn84024048",
+    "1"
    ],
    "numeric_shelf_id": 188211181,
    "online_format": [
@@ -1232,8 +1232,8 @@
    ],
    "partof": [
     "the conservator (chicago, ill.) 18??-1???",
-    "serial and government publications division",
-    "chronicling america"
+    "chronicling america",
+    "serial and government publications division"
    ],
    "publication_frequency": [
     "weekly"
@@ -1244,14 +1244,14 @@
     "chroniclingamerica"
    ],
    "subject": [
-    "newspapers",
-    "african americans",
-    "chicago",
-    "chicago (ill.)",
-    "cook county",
-    "united states",
     "illinois",
-    "african american"
+    "chicago",
+    "cook county",
+    "newspapers",
+    "african american",
+    "chicago (ill.)",
+    "united states",
+    "african americans"
    ],
    "timestamp": "2023-08-08T02:12:11.475Z",
    "title": "The conservator (Chicago, Ill.), November 18, 1882",
@@ -1298,10 +1298,10 @@
     "english"
    ],
    "location": [
-    "cook county",
     "illinois",
+    "chicago",
     "united states",
-    "chicago"
+    "cook county"
    ],
    "mime_type": [
     "image/jp2",
@@ -1310,9 +1310,9 @@
     "image/jpeg"
    ],
    "number": [
-    "1",
     "00220720391",
-    "sn84024048"
+    "sn84024048",
+    "1"
    ],
    "numeric_shelf_id": 188212231,
    "online_format": [
@@ -1325,8 +1325,8 @@
    ],
    "partof": [
     "the conservator (chicago, ill.) 18??-1???",
-    "serial and government publications division",
-    "chronicling america"
+    "chronicling america",
+    "serial and government publications division"
    ],
    "publication_frequency": [
     "weekly"
@@ -1337,14 +1337,14 @@
     "chroniclingamerica"
    ],
    "subject": [
-    "newspapers",
-    "african americans",
-    "chicago",
-    "chicago (ill.)",
-    "cook county",
-    "united states",
     "illinois",
-    "african american"
+    "chicago",
+    "cook county",
+    "newspapers",
+    "african american",
+    "chicago (ill.)",
+    "united states",
+    "african americans"
    ],
    "timestamp": "2023-08-08T02:12:11.475Z",
    "title": "The conservator (Chicago, Ill.), December 23, 1882",
@@ -1391,10 +1391,10 @@
     "english"
    ],
    "location": [
-    "cook county",
     "illinois",
+    "chicago",
     "united states",
-    "chicago"
+    "cook county"
    ],
    "mime_type": [
     "image/jp2",
@@ -1403,9 +1403,9 @@
     "image/jpeg"
    ],
    "number": [
-    "1",
     "00220720391",
-    "sn84024048"
+    "sn84024048",
+    "1"
    ],
    "numeric_shelf_id": 188309081,
    "online_format": [
@@ -1418,8 +1418,8 @@
    ],
    "partof": [
     "the conservator (chicago, ill.) 18??-1???",
-    "serial and government publications division",
-    "chronicling america"
+    "chronicling america",
+    "serial and government publications division"
    ],
    "publication_frequency": [
     "weekly"
@@ -1430,14 +1430,14 @@
     "chroniclingamerica"
    ],
    "subject": [
-    "newspapers",
-    "african americans",
-    "chicago",
-    "chicago (ill.)",
-    "cook county",
-    "united states",
     "illinois",
-    "african american"
+    "chicago",
+    "cook county",
+    "newspapers",
+    "african american",
+    "chicago (ill.)",
+    "united states",
+    "african americans"
    ],
    "timestamp": "2023-08-08T02:12:11.475Z",
    "title": "The conservator (Chicago, Ill.), September 8, 1883",
@@ -1484,10 +1484,10 @@
     "english"
    ],
    "location": [
-    "cook county",
     "illinois",
+    "chicago",
     "united states",
-    "chicago"
+    "cook county"
    ],
    "mime_type": [
     "image/jp2",
@@ -1496,9 +1496,9 @@
     "image/jpeg"
    ],
    "number": [
-    "1",
     "00220720391",
-    "sn84024048"
+    "sn84024048",
+    "1"
    ],
    "numeric_shelf_id": 188612181,
    "online_format": [
@@ -1511,8 +1511,8 @@
    ],
    "partof": [
     "the conservator (chicago, ill.) 18??-1???",
-    "serial and government publications division",
-    "chronicling america"
+    "chronicling america",
+    "serial and government publications division"
    ],
    "publication_frequency": [
     "weekly"
@@ -1523,14 +1523,14 @@
     "chroniclingamerica"
    ],
    "subject": [
-    "newspapers",
-    "african americans",
-    "chicago",
-    "chicago (ill.)",
-    "cook county",
-    "united states",
     "illinois",
-    "african american"
+    "chicago",
+    "cook county",
+    "newspapers",
+    "african american",
+    "chicago (ill.)",
+    "united states",
+    "african americans"
    ],
    "timestamp": "2023-08-08T02:12:11.475Z",
    "title": "The conservator (Chicago, Ill.), December 18, 1886",
@@ -1573,16 +1573,16 @@
    ],
    "index": 6,
    "language": [
-    "english",
-    "japanese"
+    "japanese",
+    "english"
    ],
    "location": [
-    "denver",
-    "california",
-    "chicago",
     "illinois",
+    "chicago",
     "united states",
-    "colorado"
+    "denver",
+    "colorado",
+    "california"
    ],
    "mime_type": [
     "image/jp2",
@@ -1591,9 +1591,9 @@
     "image/jpeg"
    ],
    "number": [
-    "00237288701",
+    "sn83025518",
     "1",
-    "sn83025518"
+    "00237288701"
    ],
    "numeric_shelf_id": 194508181,
    "online_format": [
@@ -1609,10 +1609,10 @@
     "Colorado times"
    ],
    "partof": [
-    "japanese-american internment camp newspapers, 1942-1946",
     "kakushu jiji = colorado times (denver, colo.) 1918-1969",
+    "chronicling america",
     "serial and government publications division",
-    "chronicling america"
+    "japanese-american internment camp newspapers, 1942-1946"
    ],
    "publication_frequency": [
     "triweekly"
@@ -1623,17 +1623,17 @@
     "chroniclingamerica"
    ],
    "subject": [
-    "newspapers",
-    "japanese americans",
-    "forced removal and internment",
-    "denver",
-    "california",
-    "chicago",
-    "colorado",
-    "united states",
-    "japanese",
     "illinois",
-    "denver (colo.)"
+    "denver (colo.)",
+    "chicago",
+    "japanese americans",
+    "newspapers",
+    "japanese",
+    "united states",
+    "denver",
+    "colorado",
+    "forced removal and internment",
+    "california"
    ],
    "timestamp": "2026-06-25T18:59:22.691Z",
    "title": "Kakushu jiji = Colorado times (Denver, Colo.), August 18, 1945",
@@ -1726,5 +1726,5 @@
    "url": "https://www.loc.gov/resource/jukebox-42639.1"
   }
  ],
- "timestamp": 1791373434296
+ "timestamp": 1791463500663
 }

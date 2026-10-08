@@ -1,11 +1,5 @@
 {
- "articles_and_essays": [
-  {
-   "score": 8.210887,
-   "title": "Jukebox Day by Day | About this Collection | National Jukebox | Digital Collections",
-   "url": "https://www.loc.gov/collections/national-jukebox/about-this-collection/jukebox-day-by-day/?sb=date+asc"
-  }
- ],
+ "articles_and_essays": null,
  "cite_this": {
   "apa": "Klein, M., Klein, M. &amp; Peerless Quartet. (1913) <cite>There's Ragtime in the Air</cite>. [Audio] Retrieved from the Library of Congress, https://www.loc.gov/item/jukebox-649241/.",
   "chicago": "Klein, Manuel, Manuel Klein, and  Peerless Quartet. <cite>There's Ragtime in the Air</cite>. 1913. Audio. https://www.loc.gov/item/jukebox-649241/.",
@@ -137,8 +131,8 @@
    }
   ],
   "location": [
-   "united states",
-   "new york"
+   "new york",
+   "united states"
   ],
   "locations": [
    {
@@ -212,7 +206,7 @@
    "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
   ],
   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
-  "score": 15.332891,
+  "score": 15.335243,
   "shard": "01",
   "shelf_id": "Columbia A1441",
   "site": [
@@ -221,9 +215,9 @@
   "source_modified": "2000-01-01T12:00:00Z",
   "subject": [
    "musical theater",
+   "columbia",
    "vocal",
-   "popular music",
-   "columbia"
+   "popular music"
   ],
   "subject_category": [
    "vocal"
@@ -316,8 +310,8 @@
     "english"
    ],
    "location": [
-    "united states",
-    "new york"
+    "new york",
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -336,20 +330,20 @@
     "A society circus"
    ],
    "partof": [
-    "department of special collections, davidson library, university of california, santa barbara",
     "national jukebox",
-    "recorded sound research center"
+    "recorded sound research center",
+    "department of special collections, davidson library, university of california, santa barbara"
    ],
-   "score": 41.75609,
+   "score": 41.766182,
    "shelf_id": "Columbia 3393",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
     "musical theater",
+    "columbia",
     "vocal",
-    "popular music",
-    "columbia"
+    "popular music"
    ],
    "timestamp": "2026-10-05T14:46:45.928Z",
    "title": "Moon dear",
@@ -398,8 +392,8 @@
     "english"
    ],
    "location": [
-    "united states",
-    "new york"
+    "new york",
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -418,20 +412,20 @@
     "Around the world"
    ],
    "partof": [
-    "department of special collections, davidson library, university of california, santa barbara",
     "national jukebox",
-    "recorded sound research center"
+    "recorded sound research center",
+    "department of special collections, davidson library, university of california, santa barbara"
    ],
-   "score": 41.75609,
+   "score": 41.766182,
    "shelf_id": "Columbia A1141",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
     "musical theater",
+    "columbia",
     "vocal",
-    "popular music",
-    "columbia"
+    "popular music"
    ],
    "timestamp": "2026-10-05T13:30:45.845Z",
    "title": "It's a long lane that has no turning",
@@ -452,8 +446,8 @@
    "campaigns": [],
    "contributor": [
     "fields, arthur",
-    "peerless quartet",
-    "breitenfeld, emil"
+    "breitenfeld, emil",
+    "peerless quartet"
    ],
    "date": "1918-05-28",
    "dates": [
@@ -481,8 +475,8 @@
     "english"
    ],
    "location": [
-    "united states",
-    "new york"
+    "new york",
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -501,20 +495,20 @@
     "Toot toot"
    ],
    "partof": [
-    "department of special collections, davidson library, university of california, santa barbara",
     "national jukebox",
-    "recorded sound research center"
+    "recorded sound research center",
+    "department of special collections, davidson library, university of california, santa barbara"
    ],
-   "score": 39.998665,
+   "score": 40.00855,
    "shelf_id": "Columbia A2601",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
     "musical theater",
+    "columbia",
     "vocal",
-    "popular music",
-    "columbia"
+    "popular music"
    ],
    "timestamp": "2026-10-05T14:34:17.782Z",
    "title": "The last long mile",
@@ -534,10 +528,10 @@
    ],
    "campaigns": [],
    "contributor": [
-    "goetz, e. ray",
-    "peerless quartet",
     "burr, henry",
+    "goetz, e. ray",
     "sloane, a. baldwin",
+    "peerless quartet",
     "young, beulah gaylord"
    ],
    "date": "1912-09-11",
@@ -566,8 +560,8 @@
     "english"
    ],
    "location": [
-    "united states",
-    "new york"
+    "new york",
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -586,20 +580,20 @@
     "Hanky panky"
    ],
    "partof": [
-    "department of special collections, davidson library, university of california, santa barbara",
     "national jukebox",
-    "recorded sound research center"
+    "recorded sound research center",
+    "department of special collections, davidson library, university of california, santa barbara"
    ],
-   "score": 39.998665,
+   "score": 40.00855,
    "shelf_id": "Columbia A1225",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
     "musical theater",
+    "columbia",
     "vocal",
-    "popular music",
-    "columbia"
+    "popular music"
    ],
    "timestamp": "2026-10-05T14:27:17.852Z",
    "title": "Where the edelweiss is blooming",
@@ -648,8 +642,8 @@
     "english"
    ],
    "location": [
-    "united states",
-    "new york"
+    "new york",
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -668,19 +662,19 @@
     "Round the world"
    ],
    "partof": [
-    "department of special collections, davidson library, university of california, santa barbara",
     "national jukebox",
-    "recorded sound research center"
+    "recorded sound research center",
+    "department of special collections, davidson library, university of california, santa barbara"
    ],
-   "score": 35.537476,
+   "score": 35.54681,
    "shelf_id": "Columbia A1094",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
+    "columbia",
     "vocal",
-    "popular music",
-    "columbia"
+    "popular music"
    ],
    "timestamp": "2026-10-05T14:26:30.107Z",
    "title": "My old town",
@@ -700,8 +694,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "anderson, arthur",
     "harrison, charles",
+    "anderson, arthur",
     "torrens, grace"
    ],
    "date": "1917-12-04",
@@ -730,8 +724,8 @@
     "english"
    ],
    "location": [
-    "united states",
-    "new york"
+    "new york",
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -750,20 +744,20 @@
     "Chu-chin-chow"
    ],
    "partof": [
-    "department of special collections, davidson library, university of california, santa barbara",
     "national jukebox",
-    "recorded sound research center"
+    "recorded sound research center",
+    "department of special collections, davidson library, university of california, santa barbara"
    ],
-   "score": 34.36332,
+   "score": 34.370766,
    "shelf_id": "Columbia A2474",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
     "musical theater",
+    "columbia",
     "vocal",
-    "popular music",
-    "columbia"
+    "popular music"
    ],
    "timestamp": "2026-10-05T14:33:54.835Z",
    "title": "At siesta time",
@@ -821,7 +815,7 @@
   "display_level": null,
   "distance": null,
   "downloadOption": null,
-  "duration": 0.8848929405212402,
+  "duration": 0.6525766849517822,
   "embed": [],
   "embed!": [],
   "error_response_status": null,
@@ -980,7 +974,7 @@
   "suggested": null,
   "target": null,
   "template": "layouts/item/layout",
-  "timestamp": 1791372983.118552,
+  "timestamp": 1791463186.9271116,
   "tz_aware": null,
   "unionFacets": "",
   "webcast_permalink": null
@@ -996,12 +990,12 @@
    ],
    "campaigns": [],
    "contributor": [
-    "mcdowall, roddy",
     "kaye (danny)/fine (sylvia) collection (library of congress)",
+    "fine, sylvia",
     "dena pictures, inc",
     "kaye, danny",
-    "fine, sylvia",
-    "halsman, philippe"
+    "halsman, philippe",
+    "mcdowall, roddy"
    ],
    "date": "1913",
    "dates": [
@@ -1023,195 +1017,195 @@
    "index": 1,
    "language": [
     "swedish",
-    "english",
+    "danish",
     "hebrew",
-    "danish"
+    "english"
    ],
    "location": [
     "united states"
    ],
    "number": [
-    "2025-06-07t01:30:10.800000",
-    "2006560770"
+    "2006560770",
+    "2025-06-07t01:30:10.800000"
    ],
    "original_format": [
     "manuscript/mixed material",
     "collection"
    ],
    "partof": [
-    "music division",
-    "catalog"
+    "catalog",
+    "music division"
    ],
-   "score": 11.270815,
+   "score": 11.269799,
    "shelf_id": "ML31 .K397",
    "site": [
     "catalog"
    ],
    "subject": [
-    "mcdowall, roddy",
-    "señor",
-    "television",
-    "clippings (information artifacts)",
-    "production and direction",
+    "artifacts (object genre)",
+    "allan, rupert",
+    "philip",
+    "excerpts",
+    "wences",
     "musical comedy tonight ii",
-    "five pennies (motion picture)",
-    "financial records",
-    "me and the colonel (motion picture)",
-    "gordon, ruth",
-    "dena pictures, inc",
-    "speeches",
+    "mccarthy, frank",
     "zāhidī, ardashīr",
-    "olivier, laurence",
-    "variety shows (radio programs)",
-    "programs (documents)",
-    "jr",
-    "chevalier, maurice",
-    "kingsley, ben",
-    "women composers",
-    "king of great britain",
-    "javits, jacob k.",
-    "roebling, mary g.",
     "cartoons (humor)",
-    "reagan, nancy",
-    "manuscripts",
+    "jr",
+    "vi",
+    "scripts (documents)",
+    "musical comedy tonight iii",
+    "awards",
     "united service organizations (u.s.)",
-    "court jester (motion picture)",
+    "merry andrew (motion picture)",
+    "up in arms (motion picture)",
+    "baseball",
+    "music",
+    "kaye, danny",
+    "kingsley, ben",
+    "ii",
+    "secret life of walter mitty (motion picture : 1947)",
+    "roebling, mary g.",
+    "roosevelt, eleanor",
+    "will, george f.",
+    "correspondence",
     "cooking, chinese",
-    "jackson, anne",
-    "promotional materials",
-    "jacob koppel)",
-    "television music",
-    "on the double (motion picture)",
-    "peck, gregory",
-    "brown, david",
+    "manuscripts",
+    "musical comedy tonight",
+    "hans christian andersen (motion picture)",
+    "songs and music",
     "campion, clifford",
-    "lecture notes",
+    "hubert horatio)",
+    "variety shows (television programs)",
+    "wonder man (motion picture)",
+    "scully, vin",
+    "behrendt, olive",
+    "craig, david",
+    "hitzing, holly",
+    "photographs",
+    "madwoman of chaillot (motion picture)",
+    "sills, beverly",
+    "financial records",
+    "rabb, maxwell m.",
+    "musical theater",
+    "kan, johnny",
+    "caricatures",
+    "elizabeth",
+    "united states",
+    "shaw, run run",
+    "entertainers",
+    "hoffman, anna rosenberg",
+    "peck, gregory",
+    "on the riviera (motion picture)",
+    "white christmas (motion picture : 1954)",
+    "rabin, yitzhak",
+    "kaye, dena",
+    "television music",
+    "kanin, garson",
+    "jewison, norman",
+    "beatrix",
     "address books",
     "onassis, jacqueline kennedy",
-    "mccarthy, frank",
-    "notes",
-    "jewison, norman",
-    "selznick, irene mayer",
-    "lasker, mary",
-    "librettos",
-    "george",
-    "pons, lily",
-    "sills, beverly",
-    "entertainers",
-    "marriott, vi",
-    "bernhard",
-    "photographs",
-    "musicals",
-    "songs",
-    "awards",
-    "de mille, agnes",
-    "ribicoff, abraham",
-    "dickson, harry ellis",
-    "merry andrew (motion picture)",
-    "texts",
-    "valenti, jack",
-    "archives",
-    "brademas, john",
-    "craig, david",
-    "bass, jules",
-    "eban, abba solomon",
-    "colbert, claudette",
-    "musical comedy tonight iii",
-    "queen, consort of george vi, king of great britain",
-    "songs and music",
-    "variety shows (television programs)",
-    "pépin, jacques",
-    "madwoman of chaillot (motion picture)",
-    "musical theater",
-    "hans christian andersen (motion picture)",
-    "scores",
-    "caricatures and cartoons",
-    "allan, rupert",
-    "women librettists",
-    "baseball",
-    "philip",
-    "wences",
-    "photographic prints",
-    "writings (documents)",
-    "allen, steve",
     "shore, dinah",
-    "unicef",
-    "elizabeth",
-    "up in arms (motion picture)",
-    "white christmas (motion picture : 1954)",
-    "prince, consort of juliana, queen of the netherlands",
-    "wonder man (motion picture)",
-    "vi",
-    "rabin, yitzhak",
-    "on the riviera (motion picture)",
-    "musical comedy tonight",
-    "motion picture music",
-    "smith, oliver lemuel",
-    "los angeles dodgers (baseball team)",
-    "revues",
-    "kollek, teddy",
-    "douglas, kirk",
-    "theater",
-    "motion pictures",
-    "scripts (documents)",
-    "will, george f.",
-    "secret life of walter mitty (motion picture : 1947)",
-    "contracts",
-    "prince, consort of elizabeth ii, queen of great britain",
-    "nassikas, james",
+    "señor",
+    "child, julia",
+    "de mille, agnes",
+    "women composers",
+    "inspector general (motion picture : 1949)",
     "queen of the netherlands",
-    "rabb, maxwell m.",
-    "kaye, dena",
-    "ii",
-    "grant, cary",
+    "chen, joyce",
+    "writings (documents)",
+    "motion pictures",
+    "humphrey, hubert h.",
+    "javits, jacob k.",
+    "fine, sylvia",
+    "pons, lily",
+    "variety shows (radio programs)",
+    "caricatures and cartoons",
+    "swaffer, hannen",
+    "ribicoff, abraham",
+    "queen, consort of george vi, king of great britain",
+    "john gary show",
+    "archives",
+    "five pennies (motion picture)",
+    "mcdowall, roddy",
+    "los angeles dodgers (baseball team)",
+    "me and the colonel (motion picture)",
+    "pépin, jacques",
+    "television",
+    "lecture notes",
+    "promotional materials",
+    "olivier, laurence",
+    "danny kaye show (television program)",
+    "comedians",
+    "songs",
+    "cooking, italian",
+    "bernhard",
+    "graham, katharine",
+    "programs (documents)",
+    "walker, nancy",
+    "bavasi, buzzie",
+    "notes",
+    "prince, consort of juliana, queen of the netherlands",
+    "scores",
+    "musicals",
+    "revues",
+    "allen, steve",
+    "valenti, jack",
+    "court jester (motion picture)",
+    "claiborne, craig",
+    "posters",
+    "bass, jules",
+    "kingman, dong",
+    "jacob koppel)",
+    "texts",
+    "king of great britain",
+    "popular music",
+    "speeches",
+    "wallach, eli",
+    "gordon, ruth",
+    "george",
+    "green, johnny",
+    "jackson, anne",
+    "dickson, harry ellis",
+    "personal correspondence",
+    "brown, david",
+    "contracts",
+    "production and direction",
+    "clippings (information artifacts)",
+    "douglas, kirk",
+    "brown, helen gurley",
+    "kollek, teddy",
+    "performances",
+    "motion picture music",
+    "musical films",
+    "marriott, vi",
+    "carlisle, kitty",
+    "fairbanks, douglas",
+    "knock on wood (motion picture)",
+    "smith, oliver lemuel",
+    "theater",
+    "dena pictures, inc",
     "cunningham, marion",
+    "librettos",
+    "panama, norman",
+    "brademas, john",
+    "lasker, mary",
+    "colbert, claudette",
+    "prince, consort of elizabeth ii, queen of great britain",
+    "reagan, nancy",
+    "unicef",
+    "grant, cary",
+    "women librettists",
+    "nassikas, james",
+    "scrapbooks",
+    "on the double (motion picture)",
+    "eban, abba solomon",
     "ormandy, eugene",
     "queen of great britain",
-    "roosevelt, eleanor",
-    "cooking, italian",
-    "john gary show",
-    "united states",
-    "bavasi, buzzie",
-    "fine, sylvia",
-    "inspector general (motion picture : 1949)",
-    "caricatures",
-    "brown, helen gurley",
-    "comedians",
-    "posters",
-    "carlisle, kitty",
-    "behrendt, olive",
-    "swaffer, hannen",
-    "wallach, eli",
-    "kanin, garson",
-    "personal correspondence",
-    "musical films",
-    "hoffman, anna rosenberg",
-    "panama, norman",
-    "scrapbooks",
-    "chen, joyce",
-    "kaye, danny",
-    "excerpts",
-    "artifacts (object genre)",
-    "knock on wood (motion picture)",
-    "beatrix",
-    "correspondence",
-    "popular music",
-    "hubert horatio)",
-    "danny kaye show (television program)",
-    "hitzing, holly",
-    "claiborne, craig",
-    "fairbanks, douglas",
-    "green, johnny",
-    "scully, vin",
-    "graham, katharine",
-    "kan, johnny",
-    "walker, nancy",
-    "kingman, dong",
-    "shaw, run run",
-    "child, julia",
-    "humphrey, hubert h.",
-    "music",
-    "performances"
+    "selznick, irene mayer",
+    "chevalier, maurice",
+    "photographic prints"
    ],
    "timestamp": "2025-11-14T21:41:21.724Z",
    "title": "Danny Kaye and Sylvia Fine collection, 1913-1992",
@@ -1264,20 +1258,20 @@
     "english"
    ],
    "location": [
-    "united states",
+    "new york",
     "new york (state)",
-    "manhattan",
-    "new york"
+    "united states",
+    "manhattan"
    ],
    "mime_type": [
     "image/gif",
     "image/jpg"
    ],
    "number": [
-    "http://www.loc.gov/item/23877672",
-    "online resource",
     "2024-09-26t15:11:59",
-    "2024641149"
+    "2024641149",
+    "online resource",
+    "http://www.loc.gov/item/23877672"
    ],
    "online_format": [
     "image"
@@ -1286,24 +1280,24 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "prints and photographs division",
-    "catalog"
+    "catalog",
+    "prints and photographs division"
    ],
-   "score": 9.740624,
+   "score": 9.738505,
    "shelf_id": "LC-DIG-vrg- 21926 (ONLINE)",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "new york (state)",
-    "security",
-    "digital photographs",
     "columbia",
     "new york",
-    "families",
+    "security",
+    "digital photographs",
+    "manhattan",
+    "new york (state)",
     "united states",
-    "manhattan"
+    "families"
    ],
    "timestamp": "2024-10-05T12:53:00.697Z",
    "title": "Columbia University, Family Orientation. Broadway and W. 116th St., Manhattan",
@@ -1356,10 +1350,10 @@
     "english"
    ],
    "location": [
-    "united states",
+    "new york",
     "new york (state)",
-    "manhattan",
-    "new york"
+    "united states",
+    "manhattan"
    ],
    "mime_type": [
     "image/gif",
@@ -1378,31 +1372,31 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "prints & photographs online catalog (library of congress)",
+    "catalog",
     "prints and photographs division",
-    "catalog"
+    "prints & photographs online catalog (library of congress)"
    ],
-   "score": 9.740624,
+   "score": 9.738505,
    "shelf_id": "LC-DIG-vrg- 14518 (ONLINE) [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "corona virus",
-    "new york (state)",
-    "presidential elections",
-    "digital photographs",
-    "time lapse: covid-19",
-    "voting",
-    "columbia",
-    "crossroads",
     "lines",
+    "columbia",
     "new york",
     "subway",
+    "presidential elections",
+    "digital photographs",
+    "crossroads",
+    "manhattan",
+    "corona virus",
+    "time lapse: covid-19",
     "covid-19 pandemic",
+    "new york (state)",
     "united states",
-    "manhattan"
+    "voting"
    ],
    "timestamp": "2023-08-17T17:18:30.102Z",
    "title": "Early voters, 168th St. at St. Nicholas Ave., Manhattan",
@@ -1451,20 +1445,20 @@
     "english"
    ],
    "location": [
-    "united states",
+    "new york",
     "new york (state)",
-    "manhattan",
-    "new york"
+    "united states",
+    "manhattan"
    ],
    "mime_type": [
     "image/gif",
     "image/jpg"
    ],
    "number": [
-    "2024-08-06t09:38:42",
     "http://www.loc.gov/item/23812374",
+    "2024706173",
     "online resource",
-    "2024706173"
+    "2024-08-06t09:38:42"
    ],
    "online_format": [
     "image"
@@ -1473,24 +1467,24 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "prints and photographs division",
-    "catalog"
+    "catalog",
+    "prints and photographs division"
    ],
-   "score": 9.740624,
+   "score": 9.738505,
    "shelf_id": "LC-DIG-vrg- 21281 (ONLINE)",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "new york (state)",
-    "digital photographs",
-    "gaza",
-    "palestine",
     "columbia",
     "new york",
+    "digital photographs",
+    "gaza",
+    "manhattan",
+    "new york (state)",
     "united states",
-    "manhattan"
+    "palestine"
    ],
    "timestamp": "2024-08-17T12:48:02.678Z",
    "title": "Palestinian flags and tents placed by students protesting the war in Gaza. Columbia University, East Lawn, Broadway and W. 116th St., Manhattan",
@@ -1539,20 +1533,20 @@
     "english"
    ],
    "location": [
-    "united states",
+    "new york",
     "new york (state)",
-    "manhattan",
-    "new york"
+    "united states",
+    "manhattan"
    ],
    "mime_type": [
     "image/gif",
     "image/jpg"
    ],
    "number": [
-    "2024-08-06t09:38:42",
     "2024706175",
+    "http://www.loc.gov/item/23812376",
     "online resource",
-    "http://www.loc.gov/item/23812376"
+    "2024-08-06t09:38:42"
    ],
    "online_format": [
     "image"
@@ -1561,24 +1555,24 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "prints and photographs division",
-    "catalog"
+    "catalog",
+    "prints and photographs division"
    ],
-   "score": 9.740624,
+   "score": 9.738505,
    "shelf_id": "LC-DIG-vrg- 21283 (ONLINE)",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "new york (state)",
-    "digital photographs",
-    "gaza",
-    "palestine",
     "columbia",
     "new york",
+    "digital photographs",
+    "gaza",
+    "manhattan",
+    "new york (state)",
     "united states",
-    "manhattan"
+    "palestine"
    ],
    "timestamp": "2024-08-17T12:48:02.678Z",
    "title": "Palestinian flags and tents placed by students protesting the war in Gaza. Columbia University, East Lawn, Broadway and W. 116th St., Manhattan",
@@ -1627,10 +1621,10 @@
     "english"
    ],
    "location": [
-    "united states",
+    "new york",
     "new york (state)",
-    "manhattan",
-    "new york"
+    "united states",
+    "manhattan"
    ],
    "mime_type": [
     "image/gif",
@@ -1638,8 +1632,8 @@
    ],
    "number": [
     "2024-08-06t09:38:43",
-    "online resource",
     "2024706177",
+    "online resource",
     "http://www.loc.gov/item/23812378"
    ],
    "online_format": [
@@ -1649,24 +1643,24 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "prints and photographs division",
-    "catalog"
+    "catalog",
+    "prints and photographs division"
    ],
-   "score": 9.740624,
+   "score": 9.738505,
    "shelf_id": "LC-DIG-vrg- 21285 (ONLINE)",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "new york (state)",
-    "digital photographs",
-    "gaza",
-    "palestine",
     "columbia",
     "new york",
+    "digital photographs",
+    "gaza",
+    "manhattan",
+    "new york (state)",
     "united states",
-    "manhattan"
+    "palestine"
    ],
    "timestamp": "2024-08-17T12:48:02.678Z",
    "title": "Palestinian flags and tents placed by students protesting the war in Gaza. Columbia University, East Lawn, Broadway and W. 116th St., Manhattan",
@@ -1759,5 +1753,5 @@
    "url": "https://www.loc.gov/resource/jukebox-649241.1"
   }
  ],
- "timestamp": 1791372984003
+ "timestamp": 1791463187580
 }

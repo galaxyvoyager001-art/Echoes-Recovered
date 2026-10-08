@@ -221,7 +221,7 @@
    "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
   ],
   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
-  "score": 15.333624,
+  "score": 15.335276,
   "shard": "01",
   "shelf_id": "Victor 45289",
   "site": [
@@ -229,8 +229,8 @@
   ],
   "source_modified": "2000-01-01T12:00:00Z",
   "subject": [
-   "ethnic music",
    "vocal",
+   "ethnic music",
    "victor"
   ],
   "subject_category": [
@@ -290,9 +290,9 @@
    "campaigns": [],
    "contributor": [
     "sagi-barba, emilio",
-    "alarcón, ramón",
+    "straus, oscar",
     "marquina, pascual",
-    "straus, oscar"
+    "alarcón, ramón"
    ],
    "date": "1910-02-07",
    "dates": [
@@ -318,8 +318,8 @@
     "spanish"
    ],
    "location": [
-    "havana",
-    "cuba"
+    "cuba",
+    "havana"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -337,18 +337,18 @@
     "Walzertraum. Selections"
    ],
    "partof": [
-    "recorded sound research center",
     "national jukebox",
-    "department of special collections, davidson library, university of california, santa barbara"
+    "department of special collections, davidson library, university of california, santa barbara",
+    "recorded sound research center"
    ],
-   "score": 41.36373,
+   "score": 41.37397,
    "shelf_id": "Victor 45289",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "ethnic music",
     "vocal",
+    "ethnic music",
     "victor"
    ],
    "timestamp": "2026-10-05T14:11:31.153Z",
@@ -372,8 +372,8 @@
    "contributor": [
     "sagi-barba, emilio",
     "marquina, pascual",
-    "vela, luisa",
-    "fall, leo"
+    "fall, leo",
+    "vela, luisa"
    ],
    "date": "1911-02-06",
    "dates": [
@@ -399,8 +399,8 @@
     "spanish"
    ],
    "location": [
-    "havana",
-    "cuba"
+    "cuba",
+    "havana"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -419,11 +419,11 @@
     "La princesa del dollar"
    ],
    "partof": [
-    "recorded sound research center",
     "national jukebox",
-    "department of special collections, davidson library, university of california, santa barbara"
+    "department of special collections, davidson library, university of california, santa barbara",
+    "recorded sound research center"
    ],
-   "score": 41.36373,
+   "score": 41.37397,
    "shelf_id": "Victor 45293",
    "site": [
     "nationaljukebox"
@@ -431,8 +431,8 @@
    "subject": [
     "victor",
     "popular music",
-    "ethnic music",
     "vocal",
+    "ethnic music",
     "spanish"
    ],
    "timestamp": "2026-10-05T14:14:19.247Z",
@@ -452,9 +452,9 @@
    "campaigns": [],
    "contributor": [
     "sagi-barba, emilio",
-    "alarcón, ramón",
+    "straus, oscar",
     "marquina, pascual",
-    "straus, oscar"
+    "alarcón, ramón"
    ],
    "date": "1910-02-07",
    "dates": [
@@ -477,8 +477,8 @@
     "spanish"
    ],
    "location": [
-    "havana",
-    "cuba"
+    "cuba",
+    "havana"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -494,18 +494,18 @@
     "Walzertraum. Selections"
    ],
    "partof": [
-    "recorded sound research center",
+    "recorded sound section, library of congress",
     "national jukebox",
-    "recorded sound section, library of congress"
+    "recorded sound research center"
    ],
-   "score": 37.297874,
+   "score": 37.307194,
    "shelf_id": "Victor 64178",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "ethnic music",
     "vocal",
+    "ethnic music",
     "victor"
    ],
    "timestamp": "2026-10-05T14:54:19.754Z",
@@ -529,8 +529,8 @@
    "contributor": [
     "sagi-barba, emilio",
     "marquina, pascual",
-    "vela, luisa",
-    "fall, leo"
+    "fall, leo",
+    "vela, luisa"
    ],
    "date": "1911-02-06",
    "dates": [
@@ -556,8 +556,8 @@
     "spanish"
    ],
    "location": [
-    "havana",
-    "cuba"
+    "cuba",
+    "havana"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -576,11 +576,11 @@
     "Dollarprinzessin. Ich mag im Hause nie Visagen"
    ],
    "partof": [
-    "recorded sound research center",
     "national jukebox",
-    "department of special collections, davidson library, university of california, santa barbara"
+    "department of special collections, davidson library, university of california, santa barbara",
+    "recorded sound research center"
    ],
-   "score": 36.068653,
+   "score": 36.07825,
    "shelf_id": "Victor 45293",
    "site": [
     "nationaljukebox"
@@ -653,19 +653,19 @@
     "Fergho kori"
    ],
    "partof": [
-    "recorded sound research center",
     "national jukebox",
-    "department of special collections, davidson library, university of california, santa barbara"
+    "department of special collections, davidson library, university of california, santa barbara",
+    "recorded sound research center"
    ],
-   "score": 32.981754,
+   "score": 32.98915,
    "shelf_id": "Victor 77380",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
+    "greek",
     "vocal",
     "ethnic music",
-    "greek",
     "victor"
    ],
    "timestamp": "2026-10-05T14:14:19.247Z",
@@ -716,8 +716,8 @@
     "spanish"
    ],
    "location": [
-    "havana",
-    "cuba"
+    "cuba",
+    "havana"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -736,11 +736,11 @@
     "La princesa del dollar"
    ],
    "partof": [
-    "recorded sound research center",
+    "johnson victrola museum, delaware",
     "national jukebox",
-    "johnson victrola museum, delaware"
+    "recorded sound research center"
    ],
-   "score": 32.002796,
+   "score": 32.011475,
    "shelf_id": "Victor 45287",
    "site": [
     "nationaljukebox"
@@ -811,7 +811,7 @@
   "display_level": null,
   "distance": null,
   "downloadOption": null,
-  "duration": 8.33551025390625,
+  "duration": 0.4678661823272705,
   "embed": [],
   "embed!": [],
   "error_response_status": null,
@@ -970,7 +970,7 @@
   "suggested": null,
   "target": null,
   "template": "layouts/item/layout",
-  "timestamp": 1791377463.1716468,
+  "timestamp": 1791463624.6113007,
   "tz_aware": null,
   "unionFacets": "",
   "webcast_permalink": null
@@ -1048,23 +1048,23 @@
     "lot 14058",
     "catalog"
    ],
-   "score": 9.757024,
+   "score": 9.75644,
    "shelf_id": "LOT 14058, no. 123 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "photographic postcards",
     "victor",
-    "group portraits",
-    "iowa",
-    "victor (iowa)",
+    "photographic postcards",
     "school children",
-    "panoramic postcards",
+    "victor (iowa)",
     "photographic prints",
-    "united states",
-    "schools"
+    "group portraits",
+    "schools",
+    "panoramic postcards",
+    "iowa",
+    "united states"
    ],
    "timestamp": "2022-05-02T06:13:36.448Z",
    "title": "[Victor High School, Victor, Iowa]",
@@ -1115,9 +1115,9 @@
     "english"
    ],
    "location": [
+    "colorado",
     "united states",
-    "victor",
-    "colorado"
+    "victor"
    ],
    "mime_type": [
     "image/gif",
@@ -1126,10 +1126,10 @@
    ],
    "number": [
     "2016808865",
+    "http://www.loc.gov/item/2016808865",
     "http://www.loc.gov/item/det1994014825/pp",
-    "http://www.loc.gov/item/20110612",
     "2017-10-30t13:04:57",
-    "http://www.loc.gov/item/2016808865"
+    "http://www.loc.gov/item/20110612"
    ],
    "online_format": [
     "image"
@@ -1139,24 +1139,24 @@
    ],
    "partof": [
     "prints & photographs online catalog (library of congress)",
-    "detroit publishing company",
     "prints and photographs division",
-    "american memory",
-    "catalog"
+    "detroit publishing company",
+    "catalog",
+    "american memory"
    ],
-   "score": 9.757024,
+   "score": 9.75644,
    "shelf_id": "LC-D4-13841 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "cityscape photographs",
-    "victor",
-    "united states",
-    "dry plate negatives",
     "colorado",
-    "gold mining"
+    "dry plate negatives",
+    "gold mining",
+    "victor",
+    "cityscape photographs",
+    "united states"
    ],
    "timestamp": "2022-04-25T08:19:00.040Z",
    "title": "Victor, Colo., and the Gold Coin Mine",
@@ -1205,8 +1205,8 @@
     "english"
    ],
    "location": [
-    "montana",
     "united states",
+    "montana",
     "victor"
    ],
    "mime_type": [
@@ -1230,19 +1230,19 @@
     "prints and photographs division",
     "catalog"
    ],
-   "score": 9.757024,
+   "score": 9.75644,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 1 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "montana",
-    "victor",
     "photographs",
+    "victor",
+    "streets",
+    "montana",
     "postcards",
-    "united states",
-    "streets"
+    "united states"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "Main Street, Victor, Montana",
@@ -1294,8 +1294,8 @@
     "english"
    ],
    "location": [
-    "montana",
     "united states",
+    "montana",
     "victor"
    ],
    "mime_type": [
@@ -1306,8 +1306,8 @@
    "number": [
     "2024-02-21t08:57:12",
     "http://www.loc.gov/item/23570953",
-    "sheet",
-    "2024689883"
+    "2024689883",
+    "sheet"
    ],
    "online_format": [
     "image"
@@ -1319,16 +1319,16 @@
     "prints and photographs division",
     "catalog"
    ],
-   "score": 9.757024,
+   "score": 9.75644,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 2 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "montana",
-    "victor",
     "photographs",
+    "victor",
+    "montana",
     "postcards",
     "united states"
    ],
@@ -1382,8 +1382,8 @@
     "english"
    ],
    "location": [
-    "montana",
     "united states",
+    "montana",
     "victor"
    ],
    "mime_type": [
@@ -1393,9 +1393,9 @@
    ],
    "number": [
     "2024-02-21t08:57:12",
-    "sheet",
     "2024689884",
-    "http://www.loc.gov/item/23570954"
+    "http://www.loc.gov/item/23570954",
+    "sheet"
    ],
    "online_format": [
     "image"
@@ -1407,17 +1407,17 @@
     "prints and photographs division",
     "catalog"
    ],
-   "score": 9.757024,
+   "score": 9.75644,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 3 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "montana",
+    "photographs",
     "victor",
     "houses",
-    "photographs",
+    "montana",
     "postcards",
     "united states"
    ],
@@ -1471,8 +1471,8 @@
     "english"
    ],
    "location": [
-    "montana",
     "united states",
+    "montana",
     "victor"
    ],
    "mime_type": [
@@ -1481,10 +1481,10 @@
     "image/tif"
    ],
    "number": [
-    "2024689885",
     "2024-02-21t08:57:13",
     "http://www.loc.gov/item/23570955",
-    "sheet"
+    "sheet",
+    "2024689885"
    ],
    "online_format": [
     "image"
@@ -1496,19 +1496,19 @@
     "prints and photographs division",
     "catalog"
    ],
-   "score": 9.757024,
+   "score": 9.75644,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 4 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "montana",
-    "victor",
     "photographs",
+    "victor",
+    "schools",
+    "montana",
     "postcards",
-    "united states",
-    "schools"
+    "united states"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "School house, Victor, Mont.",
@@ -1581,5 +1581,5 @@
    "url": "https://www.loc.gov/resource/jukebox-340004.1"
   }
  ],
- "timestamp": 1791377471507
+ "timestamp": 1791463625079
 }
