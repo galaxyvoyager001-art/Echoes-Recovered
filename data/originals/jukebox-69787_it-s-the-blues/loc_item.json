@@ -1,95 +1,85 @@
 {
  "articles_and_essays": null,
  "cite_this": {
-  "apa": "Hernández, R., Duchesne, R. Y., Orquesta Tizol, Tizol, M., Andino, J., Tizol, J. &amp; Tizol, F. (1917) <cite>Suspiros de España</cite>. [Audio] Retrieved from the Library of Congress, https://www.loc.gov/item/jukebox-6939/.",
-  "chicago": "Hernández, Rafael, Rafael Y Duchesne,  Orquesta Tizol, Manuel Tizol, Julian Andino, Juan Tizol, and Francisco Tizol. <cite>Suspiros de España</cite>. 1917. Audio. https://www.loc.gov/item/jukebox-6939/.",
-  "mla": "Hernández, Rafael, et al. <cite>Suspiros de España</cite>. 1917. Audio. Retrieved from the Library of Congress, &lt;www.loc.gov/item/jukebox-6939/&gt;."
+  "apa": "Goldkette, J., Jean Goldkette Orchestra, Goldkette, J. &amp; Crozier, G. (1924) <cite>It's the Blues</cite>. [Audio] Retrieved from the Library of Congress, https://www.loc.gov/item/jukebox-69787/.",
+  "chicago": "Goldkette, Jean,  Jean Goldkette Orchestra, Jean Goldkette, and Georges Crozier. <cite>It's the Blues</cite>. 1924. Audio. https://www.loc.gov/item/jukebox-69787/.",
+  "mla": "Goldkette, Jean, et al. <cite>It's the Blues</cite>. 1924. Audio. Retrieved from the Library of Congress, &lt;www.loc.gov/item/jukebox-69787/&gt;."
  },
  "item": {
-  "_version_": 1878221268320256000,
+  "_version_": 1878221292298043392,
   "access_restricted": false,
   "aka": [
-   "http://www.loc.gov/item/jukebox-6939/",
-   "http://www.loc.gov/resource/jukebox-6939.0/",
-   "http://www.loc.gov/resource/jukebox-6939.1/",
-   "http://www.loc.gov/resource/jukebox-6939.0",
-   "http://www.loc.gov/resource/jukebox-6939.1"
+   "http://www.loc.gov/jukebox/recordings/detail/id/9822",
+   "http://www.loc.gov/item/jukebox-69787/",
+   "http://www.loc.gov/resource/jukebox-69787.0/",
+   "http://www.loc.gov/resource/jukebox-69787.1/",
+   "http://www.loc.gov/resource/jukebox-69787.0",
+   "http://www.loc.gov/resource/jukebox-69787.1"
   ],
   "audio_type": "Instrumental",
   "campaigns": [],
   "contributor_composer": [
-   "duchesne, rafael y."
+   "goldkette, jean",
+   "crozier, georges"
   ],
   "contributor_musical_group": [
-   "orquesta tizol"
+   "jean goldkette orchestra"
   ],
   "contributor_names": [
-   "Hernández, Rafael -- Instrumentalist -- Violin",
-   "Duchesne, Rafael Y. -- Composer -- Composer",
-   "Orquesta Tizol -- Musical Group -- Musical Group",
-   "Tizol, Manuel -- Leader -- Leader",
-   "Andino, Julian -- Instrumentalist -- Violin",
-   "Tizol, Juan -- Instrumentalist -- Baritone Horn",
-   "Tizol, Francisco (Paco) -- Instrumentalist -- Cello"
+   "Goldkette, Jean -- Leader -- Leader",
+   "Jean Goldkette Orchestra -- Musical Group -- Musical Group",
+   "Goldkette, Jean -- Composer -- Composer",
+   "Crozier, Georges -- Composer -- Composer"
   ],
   "contributor_primary": [
-   "orquesta tizol"
+   "jean goldkette orchestra"
   ],
   "contributors": [
    {
-    "andino, julian": "https://www.loc.gov/search/?fa=contributor:andino,+julian&fo=json"
+    "crozier, georges": "https://www.loc.gov/search/?fa=contributor:crozier,+georges&fo=json"
    },
    {
-    "duchesne, rafael y.": "https://www.loc.gov/search/?fa=contributor:duchesne,+rafael+y.&fo=json"
+    "goldkette, jean": "https://www.loc.gov/search/?fa=contributor:goldkette,+jean&fo=json"
    },
    {
-    "hernández, rafael": "https://www.loc.gov/search/?fa=contributor:hern%C3%A1ndez,+rafael&fo=json"
-   },
-   {
-    "orquesta tizol": "https://www.loc.gov/search/?fa=contributor:orquesta+tizol&fo=json"
-   },
-   {
-    "tizol, francisco (paco)": "https://www.loc.gov/search/?fa=contributor:tizol,+francisco+%28paco%29&fo=json"
-   },
-   {
-    "tizol, juan": "https://www.loc.gov/search/?fa=contributor:tizol,+juan&fo=json"
-   },
-   {
-    "tizol, manuel": "https://www.loc.gov/search/?fa=contributor:tizol,+manuel&fo=json"
+    "jean goldkette orchestra": "https://www.loc.gov/search/?fa=contributor:jean+goldkette+orchestra&fo=json"
    }
   ],
   "contributors_composer": [
    {
-    "duchesne, rafael y.": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_composer:duchesne,+rafael+y.&fo=json"
+    "crozier, georges": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_composer:crozier,+georges&fo=json"
+   },
+   {
+    "goldkette, jean": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_composer:goldkette,+jean&fo=json"
    }
   ],
   "contributors_musical_group": [
    {
-    "orquesta tizol": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_musical_group:orquesta+tizol&fo=json"
+    "jean goldkette orchestra": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_musical_group:jean+goldkette+orchestra&fo=json"
    }
   ],
   "contributors_primary": [
    {
-    "orquesta tizol": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_primary:orquesta+tizol&fo=json"
+    "jean goldkette orchestra": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_primary:jean+goldkette+orchestra&fo=json"
    }
   ],
-  "date": "1917-01-10",
+  "date": "1924-03-27",
   "dates": [
    {
-    "1917-01-10": "https://www.loc.gov/search/?dates=1917-01-10/1917-01-10&fo=json"
+    "1924-03-27": "https://www.loc.gov/search/?dates=1924-03-27/1924-03-27&fo=json"
    }
   ],
   "description": [
-   "Victor 68491. Matrix/Take: K-1730/1."
+   "Victor 19600. Matrix/Take: B-29810/2."
   ],
   "digitized": true,
   "display_offsite": true,
-  "extract_timestamp": "2026-10-04T17:49:44.648Z",
+  "extract_timestamp": "2026-10-04T21:43:10.284Z",
   "extract_urls": [
-   "http://www.loc.gov/item/jukebox-6939#nationaljukebox"
+   "http://www.loc.gov/item/jukebox-69787#nationaljukebox"
   ],
   "file_id": [
-   "jvm_victor_68491_01_k1730_01"
+   "ucsb_victor_19600_01_b29810_02"
   ],
   "format": [
    {
@@ -97,76 +87,68 @@
    }
   ],
   "genre": [
-   "Spanish (Puerto Rico)",
-   "Popular music",
-   "Ethnic music"
+   "Ragtime, jazz, and more",
+   "Blues"
   ],
   "group": [
    "nationaljukebox",
    "national-jukebox"
   ],
   "hassegments": false,
-  "id": "http://www.loc.gov/item/jukebox-6939/",
-  "iiif_manifest_url": "https://www.loc.gov/item/jukebox-6939/manifest.json",
+  "id": "http://www.loc.gov/item/jukebox-69787/",
+  "iiif_manifest_url": "https://www.loc.gov/item/jukebox-69787/manifest.json",
   "image_url": [
-   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_68491_01_k1730_01:jvm_victor_68491_01_k1730_01/full/pct:12.5/0/default.jpg#h=338&w=335",
-   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_68491_01_k1730_01:jvm_victor_68491_01_k1730_01/full/pct:25/0/default.jpg#h=676&w=671",
-   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_68491_01_k1730_01:jvm_victor_68491_01_k1730_01/full/pct:50/0/default.jpg#h=1353&w=1342",
-   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_68491_01_k1730_01:jvm_victor_68491_01_k1730_01/full/pct:100/0/default.jpg#h=2706&w=2685"
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19600_01_b29810_02:ucsb_victor_19600_01_b29810_02/full/pct:50/0/default.jpg#h=394&w=396",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19600_01_b29810_02:ucsb_victor_19600_01_b29810_02/full/pct:100/0/default.jpg#h=789&w=793"
   ],
   "index": 1,
   "item": {
    "audio_type": "Instrumental",
    "contributors": [
-    "Hernández, Rafael -- Instrumentalist -- Violin",
-    "Duchesne, Rafael Y. -- Composer -- Composer",
-    "Orquesta Tizol -- Musical Group -- Musical Group",
-    "Tizol, Manuel -- Leader -- Leader",
-    "Andino, Julian -- Instrumentalist -- Violin",
-    "Tizol, Juan -- Instrumentalist -- Baritone Horn",
-    "Tizol, Francisco (Paco) -- Instrumentalist -- Cello"
+    "Goldkette, Jean -- Leader -- Leader",
+    "Jean Goldkette Orchestra -- Musical Group -- Musical Group",
+    "Goldkette, Jean -- Composer -- Composer",
+    "Crozier, Georges -- Composer -- Composer"
    ],
    "file_id": [
-    "jvm_victor_68491_01_k1730_01"
+    "ucsb_victor_19600_01_b29810_02"
    ],
    "genre": [
-    "Spanish (Puerto Rico)",
-    "Popular music",
-    "Ethnic music"
+    "Ragtime, jazz, and more",
+    "Blues"
    ],
-   "media_size": "12-in.",
+   "media_size": "10-in.",
    "profile": "jukebox",
-   "recording_catalog_number": "68491",
-   "recording_date": "1917-01-10",
+   "recording_catalog_number": "19600",
+   "recording_date": "1924-03-27",
    "recording_label": "Victor",
-   "recording_matrix_number": "K-1730 (Matrix ID)",
-   "recording_repository": "Source of original recording: Johnson Victrola Museum, Delaware.",
-   "recording_take_id": 6939,
-   "recording_take_number": "1",
+   "recording_matrix_number": "B-29810 (Matrix ID)",
+   "recording_repository": "Source of original recording: Department of Special Collections, Davidson Library, University of California, Santa Barbara.",
+   "recording_take_id": 69787,
+   "recording_take_number": "2",
    "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
-   "summary": "Orchestra"
+   "summary": "Jazz/dance band"
   },
   "location": [
-   "puerto rico",
-   "san juan",
+   "michigan",
+   "detroit",
    "united states"
   ],
   "locations": [
    {
-    "puerto rico": "https://www.loc.gov/search/?fa=location:puerto+rico&fo=json"
+    "detroit": "https://www.loc.gov/search/?fa=location:detroit&fo=json"
    },
    {
-    "san juan": "https://www.loc.gov/search/?fa=location:san+juan&fo=json"
+    "michigan": "https://www.loc.gov/search/?fa=location:michigan&fo=json"
    },
    {
     "united states": "https://www.loc.gov/search/?fa=location:united+states&fo=json"
    }
   ],
-  "media_size": "12-in.",
+  "media_size": "10-in.",
   "mime_type": [
    "audio/mpeg",
    "audio/wav",
-   "image/tif",
    "image/jpeg"
   ],
   "online_format": [
@@ -178,13 +160,15 @@
   ],
   "other_formats": [],
   "other_title": [
-   "Danzon"
+   "Number 14 blues",
+   "Fox trot",
+   "Son los blues"
   ],
   "partof": [
    {
-    "count": 3495,
-    "title": "johnson victrola museum, delaware",
-    "url": "https://www.loc.gov/search/?fa=partof:johnson+victrola+museum,+delaware&fo=json"
+    "count": 10024,
+    "title": "department of special collections, davidson library, university of california, santa barbara",
+    "url": "https://www.loc.gov/search/?fa=partof:department+of+special+collections,+davidson+library,+university+of+california,+santa+barbara&fo=json"
    },
    {
     "count": 20273,
@@ -198,72 +182,65 @@
    }
   ],
   "partof_repository": [
-   "johnson victrola museum, delaware"
+   "department of special collections, davidson library, university of california, santa barbara"
   ],
   "profile": "jukebox",
-  "recording_catalog_number": "68491",
-  "recording_date": "1917-01-10",
+  "recording_catalog_number": "19600",
+  "recording_date": "1924-03-27",
   "recording_label": "Victor",
-  "recording_matrix_number": "K-1730 (Matrix ID)",
-  "recording_repository": "Source of original recording: Johnson Victrola Museum, Delaware.",
-  "recording_take_id": 6939,
-  "recording_take_number": "1",
+  "recording_matrix_number": "B-29810 (Matrix ID)",
+  "recording_repository": "Source of original recording: Department of Special Collections, Davidson Library, University of California, Santa Barbara.",
+  "recording_take_id": 69787,
+  "recording_take_number": "2",
   "resources": [
    {
     "files": 1,
-    "media": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_68491_01_k1730_01:jvm_victor_68491_01_k1730_01/full/full/0/full/default.mp3",
-    "url": "https://www.loc.gov/resource/jukebox-6939.0"
+    "media": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19600_01_b29810_02:ucsb_victor_19600_01_b29810_02/full/full/0/full/default.mp3",
+    "url": "https://www.loc.gov/resource/jukebox-69787.0"
    },
    {
     "files": 1,
-    "image": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_68491_01_k1730_01:jvm_victor_68491_01_k1730_01/full/pct:100/0/default.jpg",
+    "image": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19600_01_b29810_02:ucsb_victor_19600_01_b29810_02/full/pct:100/0/default.jpg",
     "mimetype": "image/jpeg",
-    "url": "https://www.loc.gov/resource/jukebox-6939.1"
+    "url": "https://www.loc.gov/resource/jukebox-69787.1"
    }
   ],
   "rights": [
    "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
   ],
   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
-  "score": 15.597652,
+  "score": 15.335333,
   "shard": "01",
-  "shelf_id": "Victor 68491",
+  "shelf_id": "Victor 19600",
   "site": [
    "nationaljukebox"
   ],
   "source_modified": "2000-01-01T12:00:00Z",
   "subject": [
    "victor",
-   "spanish (puerto rico)",
-   "popular music",
-   "ethnic music",
-   "instrumental"
+   "blues",
+   "instrumental",
+   "ragtime, jazz, and more"
   ],
   "subject_category": [
    "instrumental"
   ],
   "subject_genre": [
-   "popular music",
-   "ethnic music"
+   "ragtime, jazz, and more",
+   "blues"
   ],
   "subject_label": [
    "victor"
   ],
-  "subject_target_audience": [
-   "spanish (puerto rico)"
-  ],
   "subjects": [
    {
-    "ethnic music": "https://www.loc.gov/search/?fa=subject:ethnic+music&fo=json"
+    "blues": "https://www.loc.gov/search/?fa=subject:blues&fo=json"
    },
    {
     "instrumental": "https://www.loc.gov/search/?fa=subject:instrumental&fo=json"
    },
    {
-    "popular music": "https://www.loc.gov/search/?fa=subject:popular+music&fo=json"
-   },
-   {
-    "spanish (puerto rico)": "https://www.loc.gov/search/?fa=subject:spanish+%28puerto+rico%29&fo=json"
+    "ragtime, jazz, and more": "https://www.loc.gov/search/?fa=subject:ragtime,+jazz,+and+more&fo=json"
    },
    {
     "victor": "https://www.loc.gov/search/?fa=subject:victor&fo=json"
@@ -276,10 +253,10 @@
   ],
   "subjects_genre": [
    {
-    "ethnic music": "https://www.loc.gov/collections/national-jukebox/?fa=subject_genre:ethnic+music&fo=json"
+    "blues": "https://www.loc.gov/collections/national-jukebox/?fa=subject_genre:blues&fo=json"
    },
    {
-    "popular music": "https://www.loc.gov/collections/national-jukebox/?fa=subject_genre:popular+music&fo=json"
+    "ragtime, jazz, and more": "https://www.loc.gov/collections/national-jukebox/?fa=subject_genre:ragtime,+jazz,+and+more&fo=json"
    }
   ],
   "subjects_label": [
@@ -287,67 +264,59 @@
     "victor": "https://www.loc.gov/collections/national-jukebox/?fa=subject_label:victor&fo=json"
    }
   ],
-  "subjects_target_audience": [
-   {
-    "spanish (puerto rico)": "https://www.loc.gov/collections/national-jukebox/?fa=subject_target_audience:spanish+%28puerto+rico%29&fo=json"
-   }
-  ],
-  "summary": "Orchestra",
-  "timestamp": "2026-10-05T14:43:03.999Z",
-  "title": "Suspiros de España",
+  "summary": "Jazz/dance band",
+  "timestamp": "2026-10-05T14:43:26.931Z",
+  "title": "It's the blues",
   "type": [
    "sound recording-musical"
   ],
-  "url": "https://www.loc.gov/item/jukebox-6939/"
+  "url": "https://www.loc.gov/item/jukebox-69787/"
  },
  "more_like_this": [
   {
    "access_restricted": false,
    "aka": [
-    "http://www.loc.gov/item/jukebox-6974/",
-    "http://www.loc.gov/resource/jukebox-6974.0/",
-    "http://www.loc.gov/resource/jukebox-6974.1/",
-    "http://www.loc.gov/resource/jukebox-6974.0",
-    "http://www.loc.gov/resource/jukebox-6974.1"
+    "http://www.loc.gov/jukebox/recordings/detail/id/9820",
+    "http://www.loc.gov/item/jukebox-69781/",
+    "http://www.loc.gov/resource/jukebox-69781.0/",
+    "http://www.loc.gov/resource/jukebox-69781.1/",
+    "http://www.loc.gov/resource/jukebox-69781.0",
+    "http://www.loc.gov/resource/jukebox-69781.1"
    ],
    "campaigns": [],
    "contributor": [
-    "hernández, rafael",
-    "banda municipal de san juan [puerto rico]",
-    "tizol, manuel",
-    "tizol, juan"
+    "donaldson, walter",
+    "goldkette, jean",
+    "jean goldkette orchestra"
    ],
-   "date": "1917-01-11",
+   "date": "1924-03-27",
    "dates": [
-    "1917-01-11"
+    "1924-03-27"
    ],
    "description": [
-    "Victor 68490. Matrix/Take: K-1746/1."
+    "Victor 19308. Matrix/Take: B-29807/3."
    ],
    "digitized": true,
-   "extract_timestamp": "2026-10-04T17:49:44.648Z",
+   "extract_timestamp": "2026-10-04T21:43:10.284Z",
    "group": [
     "nationaljukebox",
     "national-jukebox"
    ],
    "hassegments": false,
-   "id": "http://www.loc.gov/item/jukebox-6974/",
+   "id": "http://www.loc.gov/item/jukebox-69781/",
    "image_url": [
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_68490_01_k1746_03:jvm_victor_68490_01_k1746_03/full/pct:12.5/0/default.jpg#h=315&w=312",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_68490_01_k1746_03:jvm_victor_68490_01_k1746_03/full/pct:25/0/default.jpg#h=630&w=624",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_68490_01_k1746_03:jvm_victor_68490_01_k1746_03/full/pct:50/0/default.jpg#h=1261&w=1248",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_68490_01_k1746_03:jvm_victor_68490_01_k1746_03/full/pct:100/0/default.jpg#h=2523&w=2497"
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19308_01_b29807_03:ucsb_victor_19308_01_b29807_03/full/pct:50/0/default.jpg#h=394&w=396",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19308_01_b29807_03:ucsb_victor_19308_01_b29807_03/full/pct:100/0/default.jpg#h=788&w=793"
    ],
    "index": 1,
    "location": [
-    "puerto rico",
-    "san juan",
+    "michigan",
+    "detroit",
     "united states"
    ],
    "mime_type": [
     "audio/mpeg",
     "audio/wav",
-    "image/tif",
     "image/jpeg"
    ],
    "online_format": [
@@ -358,71 +327,70 @@
     "sound recording"
    ],
    "other_title": [
-    "Danzon"
+    "Por la noche",
+    "Fox trot"
    ],
    "partof": [
-    "national jukebox",
     "recorded sound research center",
-    "johnson victrola museum, delaware"
+    "department of special collections, davidson library, university of california, santa barbara",
+    "national jukebox"
    ],
-   "score": 65.93028,
-   "shelf_id": "Victor 68490",
+   "score": 51.319504,
+   "shelf_id": "Victor 19308",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
     "victor",
-    "popular music",
-    "spanish (puerto rico); spanish (cuba)",
-    "ethnic music",
-    "instrumental"
+    "instrumental",
+    "ragtime, jazz, and more"
    ],
    "timestamp": "2026-10-05T14:43:26.931Z",
-   "title": "Patria",
+   "title": "In the evening",
    "type": [
     "sound recording-musical"
    ],
-   "url": "https://www.loc.gov/item/jukebox-6974/"
+   "url": "https://www.loc.gov/item/jukebox-69781/"
   },
   {
    "access_restricted": false,
    "aka": [
-    "http://www.loc.gov/jukebox/recordings/detail/id/9775",
-    "http://www.loc.gov/item/jukebox-6955/",
-    "http://www.loc.gov/resource/jukebox-6955.0/",
-    "http://www.loc.gov/resource/jukebox-6955.1/",
-    "http://www.loc.gov/resource/jukebox-6955.0",
-    "http://www.loc.gov/resource/jukebox-6955.1"
+    "http://www.loc.gov/jukebox/recordings/detail/id/9821",
+    "http://www.loc.gov/item/jukebox-69783/",
+    "http://www.loc.gov/resource/jukebox-69783.0/",
+    "http://www.loc.gov/resource/jukebox-69783.1/",
+    "http://www.loc.gov/resource/jukebox-69783.0",
+    "http://www.loc.gov/resource/jukebox-69783.1"
    ],
    "campaigns": [],
    "contributor": [
-    "tizol, manuel",
-    "banda municipal de san juan [puerto rico]",
-    "tizol, juan"
+    "goldkette, jean",
+    "friend, cliff",
+    "jean goldkette orchestra"
    ],
-   "date": "1917-01-11",
+   "date": "1924-03-27",
    "dates": [
-    "1917-01-11"
+    "1924-03-27"
    ],
    "description": [
-    "Victor 69945. Matrix/Take: G-1737/2."
+    "Victor 19308. Matrix/Take: B-29808/2."
    ],
    "digitized": true,
-   "extract_timestamp": "2026-10-04T17:49:44.648Z",
+   "extract_timestamp": "2026-10-04T21:43:10.284Z",
    "group": [
     "nationaljukebox",
     "national-jukebox"
    ],
    "hassegments": false,
-   "id": "http://www.loc.gov/item/jukebox-6955/",
+   "id": "http://www.loc.gov/item/jukebox-69783/",
    "image_url": [
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_69945_01_g1737_02:ucsb_victor_69945_01_g1737_02/full/pct:50/0/default.jpg#h=394&w=396",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_69945_01_g1737_02:ucsb_victor_69945_01_g1737_02/full/pct:100/0/default.jpg#h=789&w=793"
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19308_01_b29808_02:ucsb_victor_19308_01_b29808_02/full/pct:50/0/default.jpg#h=394&w=396",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19308_01_b29808_02:ucsb_victor_19308_01_b29808_02/full/pct:100/0/default.jpg#h=789&w=793"
    ],
    "index": 2,
    "location": [
-    "puerto rico",
-    "san juan",
+    "michigan",
+    "detroit",
     "united states"
    ],
    "mime_type": [
@@ -438,72 +406,83 @@
     "sound recording"
    ],
    "other_title": [
-    "Paso doble"
+    "Fox trot",
+    "Donde crecen las mustias margaritas"
    ],
    "partof": [
-    "national jukebox",
     "recorded sound research center",
-    "department of special collections, davidson library, university of california, santa barbara"
+    "department of special collections, davidson library, university of california, santa barbara",
+    "national jukebox"
    ],
-   "score": 57.51473,
-   "shelf_id": "Victor 69945",
+   "score": 51.319504,
+   "shelf_id": "Victor 19308",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
     "victor",
-    "spanish (puerto rico)",
-    "ragtime, jazz, and more",
-    "ethnic music",
-    "instrumental"
+    "instrumental",
+    "ragtime, jazz, and more"
    ],
-   "timestamp": "2026-10-05T14:43:03.999Z",
-   "title": "Carmelillo",
+   "timestamp": "2026-10-05T14:43:26.931Z",
+   "title": "Where the lazy daisies grow",
    "type": [
     "sound recording-musical"
    ],
-   "url": "https://www.loc.gov/item/jukebox-6955/"
+   "url": "https://www.loc.gov/item/jukebox-69783/"
   },
   {
    "access_restricted": false,
    "aka": [
-    "http://www.loc.gov/jukebox/recordings/detail/id/9780",
-    "http://www.loc.gov/item/jukebox-6957/",
-    "http://www.loc.gov/resource/jukebox-6957.0/",
-    "http://www.loc.gov/resource/jukebox-6957.1/",
-    "http://www.loc.gov/resource/jukebox-6957.0",
-    "http://www.loc.gov/resource/jukebox-6957.1"
+    "http://www.loc.gov/jukebox/recordings/detail/id/10149",
+    "http://www.loc.gov/item/jukebox-71783/",
+    "http://www.loc.gov/resource/jukebox-71783.0/",
+    "http://www.loc.gov/resource/jukebox-71783.1/",
+    "http://www.loc.gov/resource/jukebox-71783.0",
+    "http://www.loc.gov/resource/jukebox-71783.1"
    ],
    "campaigns": [],
    "contributor": [
-    "tizol, manuel",
-    "toburda, a.",
-    "tizol, juan",
-    "banda municipal de san juan [puerto rico]"
+    "goldkette, jean",
+    "rank, bill",
+    "brusstar, tex",
+    "ager, milton",
+    "horvath, charles",
+    "venuti, joe",
+    "williams, george",
+    "ryker, stanley \"doc\"",
+    "quicksell, howdy",
+    "dorsey, tommy",
+    "jean goldkette orchestra",
+    "king, edward t.",
+    "farrar, fuzzy",
+    "mertz, paul",
+    "henry, irish",
+    "murray, don"
    ],
-   "date": "1917-01-11",
+   "date": "1924-11-24",
    "dates": [
-    "1917-01-11"
+    "1924-11-24"
    ],
    "description": [
-    "Victor 69945. Matrix/Take: G-1738/2."
+    "Victor 19548. Matrix/Take: B-31207/4."
    ],
    "digitized": true,
-   "extract_timestamp": "2026-10-04T17:49:44.648Z",
+   "extract_timestamp": "2026-10-04T21:50:30.768Z",
    "group": [
     "nationaljukebox",
     "national-jukebox"
    ],
    "hassegments": false,
-   "id": "http://www.loc.gov/item/jukebox-6957/",
+   "id": "http://www.loc.gov/item/jukebox-71783/",
    "image_url": [
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_69945_01_g1738_02:ucsb_victor_69945_01_g1738_02/full/pct:50/0/default.jpg#h=394&w=396",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_69945_01_g1738_02:ucsb_victor_69945_01_g1738_02/full/pct:100/0/default.jpg#h=789&w=793"
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19548_01_b31207_04:ucsb_victor_19548_01_b31207_04/full/pct:50/0/default.jpg#h=394&w=396",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19548_01_b31207_04:ucsb_victor_19548_01_b31207_04/full/pct:100/0/default.jpg#h=789&w=793"
    ],
    "index": 3,
    "location": [
-    "puerto rico",
-    "san juan",
+    "michigan",
+    "detroit",
     "united states"
    ],
    "mime_type": [
@@ -519,76 +498,88 @@
     "sound recording"
    ],
    "other_title": [
-    "Paso doble"
+    "Fox trot"
    ],
    "partof": [
-    "national jukebox",
     "recorded sound research center",
-    "department of special collections, davidson library, university of california, santa barbara"
+    "department of special collections, davidson library, university of california, santa barbara",
+    "national jukebox"
    ],
-   "score": 56.988712,
-   "shelf_id": "Victor 69945",
+   "score": 51.319504,
+   "shelf_id": "Victor 19548",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
     "victor",
-    "spanish (puerto rico)",
     "instrumental",
-    "popular music"
+    "ragtime, jazz, and more"
    ],
-   "timestamp": "2026-10-05T14:43:03.999Z",
-   "title": "Ida y vuelta",
+   "timestamp": "2026-10-05T14:45:18.033Z",
+   "title": "I want to see my Tennessee",
    "type": [
     "sound recording-musical"
    ],
-   "url": "https://www.loc.gov/item/jukebox-6957/"
+   "url": "https://www.loc.gov/item/jukebox-71783/"
   },
   {
    "access_restricted": false,
    "aka": [
-    "http://www.loc.gov/item/jukebox-6988/",
-    "http://www.loc.gov/resource/jukebox-6988.0/",
-    "http://www.loc.gov/resource/jukebox-6988.1/",
-    "http://www.loc.gov/resource/jukebox-6988.0",
-    "http://www.loc.gov/resource/jukebox-6988.1"
+    "http://www.loc.gov/jukebox/recordings/detail/id/10151",
+    "http://www.loc.gov/item/jukebox-71787/",
+    "http://www.loc.gov/resource/jukebox-71787.0/",
+    "http://www.loc.gov/resource/jukebox-71787.1/",
+    "http://www.loc.gov/resource/jukebox-71787.0",
+    "http://www.loc.gov/resource/jukebox-71787.1"
    ],
    "campaigns": [],
    "contributor": [
-    "orquesta hernández",
-    "hernández, rafael"
+    "rose, fred",
+    "rank, bill",
+    "goldkette, jean",
+    "brusstar, tex",
+    "horvath, charles",
+    "venuti, joe",
+    "williams, george",
+    "ryker, stanley \"doc\"",
+    "wood, leo",
+    "quicksell, howdy",
+    "king, edward t.",
+    "jean goldkette orchestra",
+    "dorsey, tommy",
+    "farrar, fuzzy",
+    "mertz, paul",
+    "henry, irish",
+    "murray, don"
    ],
-   "date": "1917-01-12",
+   "date": "1924-11-25",
    "dates": [
-    "1917-01-12"
+    "1924-11-25"
    ],
    "description": [
-    "Victor 68491. Matrix/Take: K-1754/1."
+    "Victor 19528. Matrix/Take: B-31210/4."
    ],
    "digitized": true,
-   "extract_timestamp": "2026-10-04T17:49:44.648Z",
+   "extract_timestamp": "2026-10-04T21:50:30.768Z",
    "group": [
     "nationaljukebox",
     "national-jukebox"
    ],
    "hassegments": false,
-   "id": "http://www.loc.gov/item/jukebox-6988/",
+   "id": "http://www.loc.gov/item/jukebox-71787/",
    "image_url": [
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_68491_01_k1754_01:jvm_victor_68491_01_k1754_01/full/pct:12.5/0/default.jpg#h=335&w=334",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_68491_01_k1754_01:jvm_victor_68491_01_k1754_01/full/pct:25/0/default.jpg#h=670&w=668",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_68491_01_k1754_01:jvm_victor_68491_01_k1754_01/full/pct:50/0/default.jpg#h=1341&w=1336",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_68491_01_k1754_01:jvm_victor_68491_01_k1754_01/full/pct:100/0/default.jpg#h=2682&w=2673"
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19528_01_b31210_04:ucsb_victor_19528_01_b31210_04/full/pct:50/0/default.jpg#h=394&w=396",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19528_01_b31210_04:ucsb_victor_19528_01_b31210_04/full/pct:100/0/default.jpg#h=789&w=793"
    ],
    "index": 4,
    "location": [
-    "puerto rico",
-    "san juan",
+    "michigan",
+    "detroit",
     "united states"
    ],
    "mime_type": [
     "audio/mpeg",
     "audio/wav",
-    "image/tif",
     "image/jpeg"
    ],
    "online_format": [
@@ -599,77 +590,92 @@
     "sound recording"
    ],
    "other_title": [
-    "Danzon"
+    "Waltz (Vals)",
+    "De veras"
    ],
    "partof": [
-    "national jukebox",
     "recorded sound research center",
-    "johnson victrola museum, delaware"
+    "department of special collections, davidson library, university of california, santa barbara",
+    "national jukebox"
    ],
-   "score": 48.661564,
-   "shelf_id": "Victor 68491",
+   "score": 51.319504,
+   "shelf_id": "Victor 19528",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
     "victor",
-    "spanish (puerto rico)",
-    "instrumental"
+    "instrumental",
+    "ragtime, jazz, and more"
    ],
-   "timestamp": "2026-10-05T14:43:26.931Z",
-   "title": "Abril y Mayo",
+   "timestamp": "2026-10-05T14:45:18.033Z",
+   "title": "Honest and truly",
    "type": [
     "sound recording-musical"
    ],
-   "url": "https://www.loc.gov/item/jukebox-6988/"
+   "url": "https://www.loc.gov/item/jukebox-71787/"
   },
   {
    "access_restricted": false,
    "aka": [
-    "http://www.loc.gov/item/jukebox-6971/",
-    "http://www.loc.gov/resource/jukebox-6971.0/",
-    "http://www.loc.gov/resource/jukebox-6971.1/",
-    "http://www.loc.gov/resource/jukebox-6971.0",
-    "http://www.loc.gov/resource/jukebox-6971.1"
+    "http://www.loc.gov/jukebox/recordings/detail/id/10150",
+    "http://www.loc.gov/item/jukebox-71784/",
+    "http://www.loc.gov/resource/jukebox-71784.0/",
+    "http://www.loc.gov/resource/jukebox-71784.1/",
+    "http://www.loc.gov/resource/jukebox-71784.0",
+    "http://www.loc.gov/resource/jukebox-71784.1"
    ],
    "campaigns": [],
    "contributor": [
-    "tizol, manuel",
-    "jari, carmelo",
-    "tizol, juan",
-    "banda municipal de san juan [puerto rico]"
+    "goldkette, jean",
+    "rank, bill",
+    "brusstar, tex",
+    "fields, buddy",
+    "horvath, charles",
+    "venuti, joe",
+    "williams, george",
+    "simons, seymour",
+    "ryker, stanley \"doc\"",
+    "quicksell, howdy",
+    "dorsey, tommy",
+    "king, edward t.",
+    "jean goldkette orchestra",
+    "farrar, fuzzy",
+    "mertz, paul",
+    "henry, irish",
+    "murray, don"
    ],
-   "date": "1917-01-11",
+   "date": "1924-11-24",
    "dates": [
-    "1917-01-11"
+    "1924-11-24"
    ],
    "description": [
-    "Victor 68490. Matrix/Take: K-1745/1."
+    "Victor 19548. Matrix/Take: B-31208/3."
    ],
    "digitized": true,
-   "extract_timestamp": "2026-10-04T17:49:44.648Z",
+   "extract_timestamp": "2026-10-04T21:50:30.768Z",
    "group": [
     "nationaljukebox",
     "national-jukebox"
    ],
    "hassegments": false,
-   "id": "http://www.loc.gov/item/jukebox-6971/",
+   "id": "http://www.loc.gov/item/jukebox-71784/",
    "image_url": [
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_68490_01_k1745_01:jvm_victor_68490_01_k1745_01/full/pct:12.5/0/default.jpg#h=356&w=359",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_68490_01_k1745_01:jvm_victor_68490_01_k1745_01/full/pct:25/0/default.jpg#h=712&w=719",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_68490_01_k1745_01:jvm_victor_68490_01_k1745_01/full/pct:50/0/default.jpg#h=1424&w=1439",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_68490_01_k1745_01:jvm_victor_68490_01_k1745_01/full/pct:100/0/default.jpg#h=2848&w=2878"
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19548_01_b31208_03:ucsb_victor_19548_01_b31208_03/full/pct:50/0/default.jpg#h=395&w=397",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19548_01_b31208_03:ucsb_victor_19548_01_b31208_03/full/pct:100/0/default.jpg#h=790&w=794"
    ],
    "index": 5,
+   "language": [
+    "english"
+   ],
    "location": [
-    "puerto rico",
-    "san juan",
+    "michigan",
+    "detroit",
     "united states"
    ],
    "mime_type": [
     "audio/mpeg",
     "audio/wav",
-    "image/tif",
     "image/jpeg"
    ],
    "online_format": [
@@ -680,76 +686,75 @@
     "sound recording"
    ],
    "other_title": [
-    "Danzon"
+    "Fox trot"
    ],
    "partof": [
-    "national jukebox",
     "recorded sound research center",
-    "johnson victrola museum, delaware"
+    "department of special collections, davidson library, university of california, santa barbara",
+    "national jukebox"
    ],
-   "score": 47.851917,
-   "shelf_id": "Victor 68490",
+   "score": 46.49608,
+   "shelf_id": "Victor 19548",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "spanish (puerto rico); spanish (cuba)",
     "victor",
-    "instrumental"
+    "instrumental with vocal refrain",
+    "ragtime, jazz, and more"
    ],
-   "timestamp": "2026-10-05T14:43:26.931Z",
-   "title": "Cambio chinas por botellas",
+   "timestamp": "2026-10-05T14:45:18.033Z",
+   "title": "Remember",
    "type": [
     "sound recording-musical"
    ],
-   "url": "https://www.loc.gov/item/jukebox-6971/"
+   "url": "https://www.loc.gov/item/jukebox-71784/"
   },
   {
    "access_restricted": false,
    "aka": [
-    "http://www.loc.gov/item/jukebox-14281/",
-    "http://www.loc.gov/resource/jukebox-14281.0/",
-    "http://www.loc.gov/resource/jukebox-14281.1/",
-    "http://www.loc.gov/resource/jukebox-14281.0",
-    "http://www.loc.gov/resource/jukebox-14281.1"
+    "http://www.loc.gov/jukebox/recordings/detail/id/7232",
+    "http://www.loc.gov/item/jukebox-334419/",
+    "http://www.loc.gov/resource/jukebox-334419.0/",
+    "http://www.loc.gov/resource/jukebox-334419.1/",
+    "http://www.loc.gov/resource/jukebox-334419.0",
+    "http://www.loc.gov/resource/jukebox-334419.1"
    ],
    "campaigns": [],
    "contributor": [
-    "rogers, walter b.",
-    "victor orchestra",
-    "orquesta rodríguez [i.e., victor orchestra]"
+    "art landry orchestra",
+    "landry, art",
+    "megson, fred",
+    "keys, zip"
    ],
-   "date": "1915-08-06",
+   "date": "1924-06-18",
    "dates": [
-    "1915-08-06"
+    "1924-06-18"
    ],
    "description": [
-    "Victor 67619. Matrix/Take: B-16331/1."
+    "Victor 19398. Matrix/Take: PB-33/5."
    ],
    "digitized": true,
-   "extract_timestamp": "2026-10-04T18:07:20.682Z",
+   "extract_timestamp": "2026-10-05T03:30:42.670Z",
    "group": [
     "nationaljukebox",
     "national-jukebox"
    ],
    "hassegments": false,
-   "id": "http://www.loc.gov/item/jukebox-14281/",
+   "id": "http://www.loc.gov/item/jukebox-334419/",
    "image_url": [
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_67619_01_b16331_01:jvm_victor_67619_01_b16331_01/full/pct:12.5/0/default.jpg#h=302&w=301",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_67619_01_b16331_01:jvm_victor_67619_01_b16331_01/full/pct:25/0/default.jpg#h=605&w=602",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_67619_01_b16331_01:jvm_victor_67619_01_b16331_01/full/pct:50/0/default.jpg#h=1211&w=1205",
-    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_67619_01_b16331_01:jvm_victor_67619_01_b16331_01/full/pct:100/0/default.jpg#h=2423&w=2411"
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19398_01_pb33_:ucsb_victor_19398_01_pb33_/full/pct:50/0/default.jpg#h=394&w=396",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19398_01_pb33_:ucsb_victor_19398_01_pb33_/full/pct:100/0/default.jpg#h=789&w=793"
    ],
    "index": 6,
    "location": [
-    "camden",
-    "united states",
-    "new jersey"
+    "oakland",
+    "california",
+    "united states"
    ],
    "mime_type": [
     "audio/mpeg",
     "audio/wav",
-    "image/tif",
     "image/jpeg"
    ],
    "online_format": [
@@ -760,31 +765,30 @@
     "sound recording"
    ],
    "other_title": [
-    "Danza"
+    "Fox trot"
    ],
    "partof": [
-    "national jukebox",
     "recorded sound research center",
-    "johnson victrola museum, delaware"
+    "department of special collections, davidson library, university of california, santa barbara",
+    "national jukebox"
    ],
-   "score": 41.534214,
-   "shelf_id": "Victor 67619",
+   "score": 35.056572,
+   "shelf_id": "Victor 19398",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
     "victor",
-    "spanish (puerto rico)",
-    "popular music",
-    "ethnic music",
-    "instrumental"
+    "blues",
+    "instrumental",
+    "ragtime, jazz, and more"
    ],
-   "timestamp": "2026-10-05T13:50:12.412Z",
-   "title": "Laura y Georgina",
+   "timestamp": "2026-10-05T14:14:19.247Z",
+   "title": "Rip saw blues",
    "type": [
     "sound recording-musical"
    ],
-   "url": "https://www.loc.gov/item/jukebox-14281/"
+   "url": "https://www.loc.gov/item/jukebox-334419/"
   }
  ],
  "notice": {
@@ -807,7 +811,6 @@
   "cache_tags": [
    "nationaljukebox",
    "national-jukebox",
-   "hlas-annotations",
    "cph",
    "catalog-split-12",
    "catalog",
@@ -821,7 +824,11 @@
    "prints-and-photographs-other",
    "main-catalog-split-01",
    "catalog-split-02",
-   "main-catalog-split-02"
+   "main-catalog-split-02",
+   "catalog-split-03",
+   "main-catalog-split-03",
+   "catalog-split-04",
+   "main-catalog-split-04"
   ],
   "callback": null,
   "clip": null,
@@ -837,7 +844,7 @@
   "display_level": null,
   "distance": null,
   "downloadOption": null,
-  "duration": 0.7206058502197266,
+  "duration": 0.6440398693084717,
   "embed": [],
   "embed!": [],
   "error_response_status": null,
@@ -864,7 +871,7 @@
   "format": "json",
   "host": "www.loc.gov",
   "ical": false,
-  "id": "jukebox-6939/",
+  "id": "jukebox-69787/",
   "iiif": false,
   "include_facets": [
    {
@@ -959,7 +966,7 @@
   "operator": null,
   "outputEncoding": "UTF-8",
   "page_campaigns": [],
-  "path_info": "/item/jukebox-6939/",
+  "path_info": "/item/jukebox-69787/",
   "port": "443",
   "proxypath": null,
   "query_string": "fo=json",
@@ -974,7 +981,7 @@
     "json"
    ]
   },
-  "request_url": "https://www.loc.gov/item/jukebox-6939/?fo=json",
+  "request_url": "https://www.loc.gov/item/jukebox-69787/?fo=json",
   "resource": "",
   "resource_sequence": null,
   "scheme": "https",
@@ -996,120 +1003,12 @@
   "suggested": null,
   "target": null,
   "template": "layouts/item/layout",
-  "timestamp": 1791463540.9439611,
+  "timestamp": 1791463906.6608577,
   "tz_aware": null,
   "unionFacets": "",
   "webcast_permalink": null
  },
  "related_items": [
-  {
-   "access_restricted": false,
-   "aka": [
-    "http://www.loc.gov/item/hlas-bi94010566/"
-   ],
-   "campaigns": [],
-   "contributor": [
-    "fernández, damián j.",
-    "hernández, rafael"
-   ],
-   "date": "1992",
-   "dates": [
-    "1992"
-   ],
-   "digitized": true,
-   "extract_timestamp": "2026-08-11T12:55:52.247Z",
-   "group": [
-    "hlas-annotations"
-   ],
-   "hassegments": false,
-   "id": "http://www.loc.gov/item/hlas-bi94010566/",
-   "image_url": [],
-   "index": 1,
-   "language": [
-    "spanish"
-   ],
-   "location": [
-    "puerto rico"
-   ],
-   "original_format": [
-    "periodical"
-   ],
-   "partof": [
-    "latin american, caribbean, and european division",
-    "international relations--caribbean and the guianas (stm)",
-    "handbook of latin american studies",
-    "hlas volume 57"
-   ],
-   "score": 11.607033,
-   "shelf_id": "57:stm:hlas-bi94010566",
-   "site": [
-    "handbook of latin american studies"
-   ],
-   "subject": [
-    "foreign policy",
-    "foreign policy -- us",
-    "international relations -- cuba/us",
-    "international relations",
-    "us",
-    "cuba/us"
-   ],
-   "timestamp": "2026-08-11T20:46:23.286Z",
-   "title": "El ruido y las nueces: el ciclo en la política de EE.UU. hacia Cuba",
-   "type": [
-    "annotated"
-   ],
-   "url": "https://www.loc.gov/item/hlas-bi94010566/"
-  },
-  {
-   "access_restricted": false,
-   "aka": [
-    "http://www.loc.gov/item/hlas-bi92019464/"
-   ],
-   "campaigns": [],
-   "contributor": [
-    "pérez-lópez, jorge f.",
-    "dilla alfonso, haroldo",
-    "hernández, rafael"
-   ],
-   "date": "1989",
-   "dates": [
-    "1989"
-   ],
-   "digitized": true,
-   "extract_timestamp": "2026-08-11T12:53:38.131Z",
-   "group": [
-    "hlas-annotations"
-   ],
-   "hassegments": false,
-   "id": "http://www.loc.gov/item/hlas-bi92019464/",
-   "image_url": [],
-   "index": 2,
-   "language": [
-    "spanish"
-   ],
-   "location": [
-    "puerto rico"
-   ],
-   "original_format": [
-    "periodical"
-   ],
-   "partof": [
-    "latin american, caribbean, and european division",
-    "handbook of latin american studies",
-    "hlas volume 55"
-   ],
-   "score": 11.607033,
-   "shelf_id": "55::hlas-bi92019464",
-   "site": [
-    "handbook of latin american studies"
-   ],
-   "timestamp": "2026-08-11T20:11:27.818Z",
-   "title": "Cultura política y participación popular en Cuba",
-   "type": [
-    "unannotated"
-   ],
-   "url": "https://www.loc.gov/item/hlas-bi92019464/"
-  },
   {
    "access_restricted": false,
    "aka": [
@@ -1150,14 +1049,14 @@
     "https://tile.loc.gov/storage-services/service/pnp/ds/02300/02394r.jpg#h=214&w=640",
     "https://tile.loc.gov/storage-services/service/pnp/ds/02300/02394v.jpg#h=342&w=1024"
    ],
-   "index": 3,
+   "index": 1,
    "language": [
     "english"
    ],
    "location": [
     "victor",
-    "iowa",
-    "united states"
+    "united states",
+    "iowa"
    ],
    "mime_type": [
     "image/gif",
@@ -1165,9 +1064,9 @@
     "image/tif"
    ],
    "number": [
-    "2013645043",
     "http://www.loc.gov/item/17665053",
-    "2013-04-03t08:58:59"
+    "2013-04-03t08:58:59",
+    "2013645043"
    ],
    "online_format": [
     "image"
@@ -1176,10 +1075,10 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "lot 14058",
-    "miscellaneous items in high demand",
-    "prints and photographs division",
     "prints & photographs online catalog (library of congress)",
+    "miscellaneous items in high demand",
+    "lot 14058",
+    "prints and photographs division",
     "catalog"
    ],
    "score": 10.157352,
@@ -1190,15 +1089,15 @@
    ],
    "subject": [
     "victor",
+    "photographic prints",
+    "school children",
+    "united states",
     "panoramic postcards",
     "photographic postcards",
     "victor (iowa)",
     "group portraits",
     "iowa",
-    "schools",
-    "united states",
-    "school children",
-    "photographic prints"
+    "schools"
    ],
    "timestamp": "2022-05-02T06:13:36.448Z",
    "title": "[Victor High School, Victor, Iowa]",
@@ -1216,8 +1115,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "jackson, william henry",
-    "detroit publishing co."
+    "detroit publishing co.",
+    "jackson, william henry"
    ],
    "date": "1900-01-01",
    "dates": [
@@ -1244,13 +1143,13 @@
     "https://tile.loc.gov/storage-services/service/pnp/det/4a00000/4a09000/4a09100/4a09194r.jpg#h=511&w=640",
     "https://tile.loc.gov/storage-services/service/pnp/det/4a00000/4a09000/4a09100/4a09194v.jpg#h=817&w=1024"
    ],
-   "index": 4,
+   "index": 2,
    "language": [
     "english"
    ],
    "location": [
-    "colorado",
     "victor",
+    "colorado",
     "united states"
    ],
    "mime_type": [
@@ -1259,10 +1158,10 @@
     "image/tif"
    ],
    "number": [
-    "http://www.loc.gov/item/20110612",
     "http://www.loc.gov/item/det1994014825/pp",
-    "2017-10-30t13:04:57",
     "http://www.loc.gov/item/2016808865",
+    "2017-10-30t13:04:57",
+    "http://www.loc.gov/item/20110612",
     "2016808865"
    ],
    "online_format": [
@@ -1272,11 +1171,11 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "prints and photographs division",
     "prints & photographs online catalog (library of congress)",
     "american memory",
-    "catalog",
-    "detroit publishing company"
+    "detroit publishing company",
+    "prints and photographs division",
+    "catalog"
    ],
    "score": 10.157352,
    "shelf_id": "LC-D4-13841 [P&P]",
@@ -1286,10 +1185,10 @@
    ],
    "subject": [
     "victor",
+    "dry plate negatives",
     "gold mining",
     "united states",
     "colorado",
-    "dry plate negatives",
     "cityscape photographs"
    ],
    "timestamp": "2022-04-25T08:19:00.040Z",
@@ -1334,7 +1233,7 @@
     "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03519r.jpg#h=422&w=640",
     "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03519v.jpg#h=675&w=1024"
    ],
-   "index": 5,
+   "index": 3,
    "language": [
     "english"
    ],
@@ -1349,10 +1248,10 @@
     "image/tif"
    ],
    "number": [
-    "sheet",
+    "2024-02-21t08:57:11",
     "2024689882",
-    "http://www.loc.gov/item/23570952",
-    "2024-02-21t08:57:11"
+    "sheet",
+    "http://www.loc.gov/item/23570952"
    ],
    "online_format": [
     "image"
@@ -1361,8 +1260,8 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "catalog",
-    "prints and photographs division"
+    "prints and photographs division",
+    "catalog"
    ],
    "score": 10.157352,
    "shelf_id": "PCRD 4 - Montana - Victor, no. 1 [P&P]",
@@ -1372,11 +1271,11 @@
    ],
    "subject": [
     "victor",
-    "photographs",
     "streets",
-    "montana",
+    "postcards",
     "united states",
-    "postcards"
+    "photographs",
+    "montana"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
    "title": "Main Street, Victor, Montana",
@@ -1423,6 +1322,183 @@
     "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03520r.jpg#h=419&w=640",
     "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03520v.jpg#h=670&w=1024"
    ],
+   "index": 4,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "victor",
+    "montana",
+    "united states"
+   ],
+   "mime_type": [
+    "image/gif",
+    "image/jpg",
+    "image/tif"
+   ],
+   "number": [
+    "http://www.loc.gov/item/23570953",
+    "2024-02-21t08:57:12",
+    "sheet",
+    "2024689883"
+   ],
+   "online_format": [
+    "image"
+   ],
+   "original_format": [
+    "photo, print, drawing"
+   ],
+   "partof": [
+    "prints and photographs division",
+    "catalog"
+   ],
+   "score": 10.157352,
+   "shelf_id": "PCRD 4 - Montana - Victor, no. 2 [P&P]",
+   "site": [
+    "pictures",
+    "catalog"
+   ],
+   "subject": [
+    "victor",
+    "postcards",
+    "united states",
+    "photographs",
+    "montana"
+   ],
+   "timestamp": "2024-03-02T14:40:16.299Z",
+   "title": "The snow-capped peak of St. Mory's, Victor, Montana",
+   "type": [
+    "still image"
+   ],
+   "url": "https://www.loc.gov/item/2024689883/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "https://www.loc.gov/pictures/item/2024689884/",
+    "http://www.loc.gov/item/2024689884/",
+    "http://www.loc.gov/pictures/item/2024689884/",
+    "https://hdl.loc.gov/loc.pnp/pcrd.1d03521",
+    "https://hdl.loc.gov/loc.pnp/pcrd.1d03521",
+    "https://hdl.loc.gov/loc.pnp/pcrd.2d03521",
+    "https://hdl.loc.gov/loc.pnp/pcrd.2d03521",
+    "http://www.loc.gov/resource/pcrd.1d03521/",
+    "http://www.loc.gov/resource/pcrd.2d03521/",
+    "http://lccn.loc.gov/2024689884"
+   ],
+   "campaigns": [],
+   "date": "1910",
+   "dates": [
+    "1910"
+   ],
+   "description": [
+    "1 photograph : gelatin silver print ; sheet 9 x 14 cm (postcard format)"
+   ],
+   "digitized": true,
+   "extract_timestamp": "2024-03-02T14:28:03.271Z",
+   "group": [
+    "pp_other",
+    "catalog-split-03",
+    "catalog",
+    "prints-and-photographs-other",
+    "main-catalog-split-03"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/2024689884/",
+   "image_url": [
+    "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03521_150px.jpg#h=98&w=150",
+    "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03521r.jpg#h=419&w=640",
+    "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03521v.jpg#h=670&w=1024"
+   ],
+   "index": 5,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "victor",
+    "montana",
+    "united states"
+   ],
+   "mime_type": [
+    "image/gif",
+    "image/jpg",
+    "image/tif"
+   ],
+   "number": [
+    "2024689884",
+    "http://www.loc.gov/item/23570954",
+    "2024-02-21t08:57:12",
+    "sheet"
+   ],
+   "online_format": [
+    "image"
+   ],
+   "original_format": [
+    "photo, print, drawing"
+   ],
+   "partof": [
+    "prints and photographs division",
+    "catalog"
+   ],
+   "score": 10.157352,
+   "shelf_id": "PCRD 4 - Montana - Victor, no. 3 [P&P]",
+   "site": [
+    "pictures",
+    "catalog"
+   ],
+   "subject": [
+    "victor",
+    "postcards",
+    "united states",
+    "photographs",
+    "montana",
+    "houses"
+   ],
+   "timestamp": "2024-03-02T14:40:16.299Z",
+   "title": "A Bitter Root home, Victor, Montana",
+   "type": [
+    "still image"
+   ],
+   "url": "https://www.loc.gov/item/2024689884/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "https://www.loc.gov/pictures/item/2024689885/",
+    "http://www.loc.gov/item/2024689885/",
+    "http://www.loc.gov/pictures/item/2024689885/",
+    "https://hdl.loc.gov/loc.pnp/pcrd.1d03522",
+    "https://hdl.loc.gov/loc.pnp/pcrd.1d03522",
+    "https://hdl.loc.gov/loc.pnp/pcrd.2d03522",
+    "https://hdl.loc.gov/loc.pnp/pcrd.2d03522",
+    "http://www.loc.gov/resource/pcrd.1d03522/",
+    "http://www.loc.gov/resource/pcrd.2d03522/",
+    "http://lccn.loc.gov/2024689885"
+   ],
+   "campaigns": [],
+   "date": "1910",
+   "dates": [
+    "1910"
+   ],
+   "description": [
+    "1 photograph : gelatin silver print ; sheet 9 x 14 cm (postcard format)"
+   ],
+   "digitized": true,
+   "extract_timestamp": "2024-03-02T14:28:03.271Z",
+   "group": [
+    "pp_other",
+    "catalog-split-04",
+    "catalog",
+    "prints-and-photographs-other",
+    "main-catalog-split-04"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/2024689885/",
+   "image_url": [
+    "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03522_150px.jpg#h=99&w=150",
+    "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03522r.jpg#h=421&w=640",
+    "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03522v.jpg#h=673&w=1024"
+   ],
    "index": 6,
    "language": [
     "english"
@@ -1438,10 +1514,10 @@
     "image/tif"
    ],
    "number": [
+    "2024689885",
+    "2024-02-21t08:57:13",
     "sheet",
-    "http://www.loc.gov/item/23570953",
-    "2024-02-21t08:57:12",
-    "2024689883"
+    "http://www.loc.gov/item/23570955"
    ],
    "online_format": [
     "image"
@@ -1450,33 +1526,34 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "catalog",
-    "prints and photographs division"
+    "prints and photographs division",
+    "catalog"
    ],
    "score": 10.157352,
-   "shelf_id": "PCRD 4 - Montana - Victor, no. 2 [P&P]",
+   "shelf_id": "PCRD 4 - Montana - Victor, no. 4 [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
     "victor",
+    "postcards",
+    "united states",
     "photographs",
     "montana",
-    "united states",
-    "postcards"
+    "schools"
    ],
    "timestamp": "2024-03-02T14:40:16.299Z",
-   "title": "The snow-capped peak of St. Mory's, Victor, Montana",
+   "title": "School house, Victor, Mont.",
    "type": [
     "still image"
    ],
-   "url": "https://www.loc.gov/item/2024689883/"
+   "url": "https://www.loc.gov/item/2024689885/"
   }
  ],
  "resources": [
   {
-   "audio": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_68491_01_k1730_01:jvm_victor_68491_01_k1730_01/full/full/0/full/default.mp3",
+   "audio": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19600_01_b29810_02:ucsb_victor_19600_01_b29810_02/full/full/0/full/default.mp3",
    "files": [
     [
      {
@@ -1485,77 +1562,57 @@
       "canDownload": true,
       "derivatives": [
        {
-        "derivativeUrl": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/jvm_victor_68491_01_k1730_01/jvm_victor_68491_01_k1730_01.mp3"
+        "derivativeUrl": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/ucsb_victor_19600_01_b29810_02/ucsb_victor_19600_01_b29810_02.mp3"
        }
       ],
-      "detailUrl": "https://www.loc.gov/item/jukebox-6939",
-      "download": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_68491_01_k1730_01:jvm_victor_68491_01_k1730_01/full/full/0/full/default.mp3",
-      "duration": 226.0,
-      "filename": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/jvm_victor_68491_01_k1730_01/jvm_victor_68491_01_k1730_01.mp3",
+      "detailUrl": "https://www.loc.gov/item/jukebox-69787",
+      "download": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19600_01_b29810_02:ucsb_victor_19600_01_b29810_02/full/full/0/full/default.mp3",
+      "duration": 163.0,
+      "filename": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/ucsb_victor_19600_01_b29810_02/ucsb_victor_19600_01_b29810_02.mp3",
       "mediaType": "A",
       "metadata": [
-       "Suspiros de España",
-       "Orchestra"
+       "It's the blues",
+       "Jazz/dance band"
       ],
       "mimetype": "audio/mpeg",
       "poster": null,
       "rights_restricted": true,
-      "shortName": "Suspiros de España",
-      "thumbnail_url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_68491_01_k1730_01:jvm_victor_68491_01_k1730_01/full/pct:12.5/0/default.jpg"
+      "shortName": "It's the blues",
+      "thumbnail_url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19600_01_b29810_02:ucsb_victor_19600_01_b29810_02/full/pct:50/0/default.jpg"
      },
      {
       "height": null,
       "levels": 1,
       "mimetype": "audio/wav",
-      "size": 39902512,
-      "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/jvm_victor_68491_01_k1730_01/jvm_victor_68491_01_k1730_01.wav",
+      "size": 28821460,
+      "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/ucsb_victor_19600_01_b29810_02/ucsb_victor_19600_01_b29810_02.wav",
       "width": null
      }
     ]
    ],
-   "url": "https://www.loc.gov/resource/jukebox-6939.0"
+   "url": "https://www.loc.gov/resource/jukebox-69787.0"
   },
   {
    "files": [
     [
      {
-      "height": 338,
+      "height": 394,
       "mimetype": "image/jpeg",
-      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_68491_01_k1730_01:jvm_victor_68491_01_k1730_01/full/pct:12.5/0/default.jpg",
-      "width": 335
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19600_01_b29810_02:ucsb_victor_19600_01_b29810_02/full/pct:50/0/default.jpg",
+      "width": 396
      },
      {
-      "height": 676,
+      "height": 789,
       "mimetype": "image/jpeg",
-      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_68491_01_k1730_01:jvm_victor_68491_01_k1730_01/full/pct:25/0/default.jpg",
-      "width": 671
-     },
-     {
-      "height": 1353,
-      "mimetype": "image/jpeg",
-      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_68491_01_k1730_01:jvm_victor_68491_01_k1730_01/full/pct:50/0/default.jpg",
-      "width": 1342
-     },
-     {
-      "height": 2706,
-      "mimetype": "image/jpeg",
-      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_68491_01_k1730_01:jvm_victor_68491_01_k1730_01/full/pct:100/0/default.jpg",
-      "width": 2685
-     },
-     {
-      "height": null,
-      "levels": 1,
-      "mimetype": "image/tiff",
-      "size": 29066468,
-      "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/jvm_victor_68491_01_k1730_01/jvm_victor_68491_01_k1730_01.tif",
-      "width": null
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19600_01_b29810_02:ucsb_victor_19600_01_b29810_02/full/pct:100/0/default.jpg",
+      "width": 793
      }
     ]
    ],
-   "image": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_68491_01_k1730_01:jvm_victor_68491_01_k1730_01/full/pct:100/0/default.jpg",
+   "image": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:ucsb_victor_19600_01_b29810_02:ucsb_victor_19600_01_b29810_02/full/pct:100/0/default.jpg",
    "mimetype": "image/jpeg",
-   "url": "https://www.loc.gov/resource/jukebox-6939.1"
+   "url": "https://www.loc.gov/resource/jukebox-69787.1"
   }
  ],
- "timestamp": 1791463541665
+ "timestamp": 1791463907305
 }

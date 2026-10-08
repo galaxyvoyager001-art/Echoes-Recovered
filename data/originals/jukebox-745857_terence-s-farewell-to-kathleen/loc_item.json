@@ -116,8 +116,8 @@
    }
   ],
   "location": [
-   "united kingdom",
-   "london"
+   "london",
+   "united kingdom"
   ],
   "locations": [
    {
@@ -187,7 +187,7 @@
    "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
   ],
   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
-  "score": 15.332891,
+  "score": 15.335276,
   "shard": "01",
   "shelf_id": "Columbia A1385",
   "site": [
@@ -195,10 +195,10 @@
   ],
   "source_modified": "2000-01-01T12:00:00Z",
   "subject": [
-   "ethnic music",
-   "vocal",
    "popular music",
-   "columbia"
+   "ethnic music",
+   "columbia",
+   "vocal"
   ],
   "subject_category": [
    "vocal"
@@ -262,9 +262,9 @@
    ],
    "campaigns": [],
    "contributor": [
-    "thomas, william",
+    "persley, george w.",
     "french, arthur w.",
-    "persley, george w."
+    "thomas, william"
    ],
    "date": "1912-12-31",
    "dates": [
@@ -292,8 +292,8 @@
     "english"
    ],
    "location": [
-    "united kingdom",
-    "london"
+    "london",
+    "united kingdom"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -309,18 +309,18 @@
     "sound recording"
    ],
    "partof": [
+    "recorded sound research center",
     "department of special collections, davidson library, university of california, santa barbara",
-    "national jukebox",
-    "recorded sound research center"
+    "national jukebox"
    ],
-   "score": 41.499092,
+   "score": 41.506683,
    "shelf_id": "Columbia A1413",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "vocal",
     "popular music",
+    "vocal",
     "columbia"
    ],
    "timestamp": "2026-10-05T14:48:04.014Z",
@@ -341,8 +341,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "thomas, william",
     "de vere, stephen e.",
+    "thomas, william",
     "robinson, joseph"
    ],
    "date": "1912-12-31",
@@ -371,8 +371,8 @@
     "english"
    ],
    "location": [
-    "united kingdom",
-    "london"
+    "london",
+    "united kingdom"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -388,11 +388,11 @@
     "sound recording"
    ],
    "partof": [
+    "recorded sound research center",
     "department of special collections, davidson library, university of california, santa barbara",
-    "national jukebox",
-    "recorded sound research center"
+    "national jukebox"
    ],
-   "score": 36.730175,
+   "score": 36.736984,
    "shelf_id": "Columbia A1413",
    "site": [
     "nationaljukebox"
@@ -419,8 +419,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "thomas, william",
-    "lover, samuel"
+    "lover, samuel",
+    "thomas, william"
    ],
    "date": "1912-12-31",
    "dates": [
@@ -448,8 +448,8 @@
     "english"
    ],
    "location": [
-    "united kingdom",
-    "london"
+    "london",
+    "united kingdom"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -468,11 +468,11 @@
     "Rory O'More"
    ],
    "partof": [
+    "recorded sound research center",
     "department of special collections, davidson library, university of california, santa barbara",
-    "national jukebox",
-    "recorded sound research center"
+    "national jukebox"
    ],
-   "score": 36.730175,
+   "score": 36.736984,
    "shelf_id": "Columbia A1385",
    "site": [
     "nationaljukebox"
@@ -499,8 +499,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "williams, billy",
-    "godfrey, fred"
+    "godfrey, fred",
+    "williams, billy"
    ],
    "date": "1912-12-31",
    "dates": [
@@ -528,8 +528,8 @@
     "english"
    ],
    "location": [
-    "united kingdom",
-    "london"
+    "london",
+    "united kingdom"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -548,19 +548,19 @@
     "Comic song"
    ],
    "partof": [
+    "recorded sound research center",
     "department of special collections, davidson library, university of california, santa barbara",
-    "national jukebox",
-    "recorded sound research center"
+    "national jukebox"
    ],
-   "score": 34.453472,
+   "score": 34.45837,
    "shelf_id": "Columbia A1729",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
     "humorous songs",
-    "vocal",
     "popular music",
+    "vocal",
     "columbia"
    ],
    "timestamp": "2026-10-05T14:44:40.905Z",
@@ -622,18 +622,18 @@
     "sound recording"
    ],
    "partof": [
+    "recorded sound research center",
     "department of special collections, davidson library, university of california, santa barbara",
-    "national jukebox",
-    "recorded sound research center"
+    "national jukebox"
    ],
-   "score": 32.52042,
+   "score": 32.528168,
    "shelf_id": "Columbia A1676",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "vocal",
     "popular music",
+    "vocal",
     "columbia"
    ],
    "timestamp": "2026-10-05T14:48:23.696Z",
@@ -654,8 +654,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "thomas, william",
-    "lover, samuel"
+    "lover, samuel",
+    "thomas, william"
    ],
    "date": "1912-12-31",
    "dates": [
@@ -696,18 +696,18 @@
     "sound recording"
    ],
    "partof": [
+    "recorded sound research center",
     "department of special collections, davidson library, university of california, santa barbara",
-    "national jukebox",
-    "recorded sound research center"
+    "national jukebox"
    ],
-   "score": 32.52042,
+   "score": 32.528168,
    "shelf_id": "Columbia A1447",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "vocal",
     "popular music",
+    "vocal",
     "columbia"
    ],
    "timestamp": "2026-10-05T14:48:23.696Z",
@@ -767,7 +767,7 @@
   "display_level": null,
   "distance": null,
   "downloadOption": null,
-  "duration": 1.010859727859497,
+  "duration": 2.82100772857666,
   "embed": [],
   "embed!": [],
   "error_response_status": null,
@@ -926,7 +926,7 @@
   "suggested": null,
   "target": null,
   "template": "layouts/item/layout",
-  "timestamp": 1791373192.7539833,
+  "timestamp": 1791463425.4158912,
   "tz_aware": null,
   "unionFacets": "",
   "webcast_permalink": null
@@ -976,8 +976,8 @@
     "english"
    ],
    "location": [
-    "united states",
-    "united kingdom"
+    "united kingdom",
+    "united states"
    ],
    "mime_type": [
     "image/jpeg",
@@ -985,11 +985,11 @@
     "image/jp2"
    ],
    "number": [
-    "2023-10-12t14:48:24",
-    "2014571373",
-    "http://www.loc.gov/item/ihas.200205690",
     "http://www.loc.gov/resource/ihas.200205690.0",
-    "http://www.loc.gov/item/2014571373"
+    "http://www.loc.gov/item/ihas.200205690",
+    "2014571373",
+    "http://www.loc.gov/item/2014571373",
+    "2023-10-12t14:48:24"
    ],
    "online_format": [
     "image",
@@ -999,23 +999,23 @@
     "notated music"
    ],
    "partof": [
-    "world war i sheet music",
     "the library of congress celebrates the songs of america",
-    "music division",
-    "catalog"
+    "catalog",
+    "world war i sheet music",
+    "music division"
    ],
-   "score": 10.990313,
+   "score": 10.994119,
    "shelf_id": "https://repo.loc.gov/access/public/music/muswwism-200205690/.resource.json",
    "site": [
     "catalog"
    ],
    "subject": [
     "songs and music",
-    "world war",
-    "united kingdom",
     "flags",
     "united states",
-    "popular music"
+    "popular music",
+    "united kingdom",
+    "world war"
    ],
    "timestamp": "2025-06-10T08:59:10.932Z",
    "title": "Rally, boys, rally marching song",
@@ -1035,8 +1035,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "hopley, joseph b.",
-    "jeffrey, j. g."
+    "jeffrey, j. g.",
+    "hopley, joseph b."
    ],
    "date": "1919",
    "dates": [
@@ -1068,9 +1068,9 @@
     "english"
    ],
    "location": [
-    "united states",
     "france",
-    "united kingdom"
+    "united kingdom",
+    "united states"
    ],
    "mime_type": [
     "image/jpeg",
@@ -1078,11 +1078,11 @@
     "image/jp2"
    ],
    "number": [
-    "http://www.loc.gov/item/ihas.200205838",
     "http://www.loc.gov/resource/ihas.200205838.0",
     "http://www.loc.gov/item/2013560904",
+    "2023-10-05t09:45:07",
     "2013560904",
-    "2023-10-05t09:45:07"
+    "http://www.loc.gov/item/ihas.200205838"
    ],
    "online_format": [
     "image",
@@ -1092,25 +1092,25 @@
     "notated music"
    ],
    "partof": [
-    "world war i sheet music",
     "the library of congress celebrates the songs of america",
-    "music division",
-    "catalog"
+    "catalog",
+    "world war i sheet music",
+    "music division"
    ],
-   "score": 10.990313,
+   "score": 10.994119,
    "shelf_id": "https://repo.loc.gov/access/public/music/muswwism-200205838/.resource.json",
    "site": [
     "catalog"
    ],
    "subject": [
     "songs and music",
-    "france",
     "allied and associated powers",
-    "world war",
-    "united kingdom",
     "flags",
     "united states",
-    "popular music"
+    "popular music",
+    "united kingdom",
+    "france",
+    "world war"
    ],
    "timestamp": "2025-06-10T09:02:41.455Z",
    "title": "The flag's adieu",
@@ -1130,8 +1130,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "browne, raymond a.",
-    "beaumont, fred"
+    "beaumont, fred",
+    "browne, raymond a."
    ],
    "date": "1918",
    "dates": [
@@ -1163,8 +1163,8 @@
     "english"
    ],
    "location": [
-    "united states",
-    "united kingdom"
+    "united kingdom",
+    "united states"
    ],
    "mime_type": [
     "image/jpeg",
@@ -1173,10 +1173,10 @@
    ],
    "number": [
     "2014560270",
-    "http://www.loc.gov/item/ihas.200199874",
-    "http://www.loc.gov/resource/ihas.200199874.0",
+    "2023-10-12t14:43:03",
     "http://www.loc.gov/item/2014560270",
-    "2023-10-12t14:43:03"
+    "http://www.loc.gov/item/ihas.200199874",
+    "http://www.loc.gov/resource/ihas.200199874.0"
    ],
    "online_format": [
     "image",
@@ -1186,24 +1186,24 @@
     "notated music"
    ],
    "partof": [
-    "world war i sheet music",
     "the library of congress celebrates the songs of america",
-    "music division",
-    "catalog"
+    "catalog",
+    "world war i sheet music",
+    "music division"
    ],
-   "score": 10.990313,
+   "score": 10.994119,
    "shelf_id": "https://repo.loc.gov/access/public/music/muswwism-200199874/.resource.json",
    "site": [
     "catalog"
    ],
    "subject": [
     "songs and music",
-    "song and music",
-    "world war",
-    "united kingdom",
     "flags",
     "united states",
-    "popular music"
+    "popular music",
+    "united kingdom",
+    "song and music",
+    "world war"
    ],
    "timestamp": "2025-06-08T11:09:06.964Z",
    "title": "We're going back to the union Jack!",
@@ -1256,8 +1256,8 @@
     "english"
    ],
    "location": [
-    "united states",
-    "united kingdom"
+    "united kingdom",
+    "united states"
    ],
    "mime_type": [
     "image/jpeg",
@@ -1265,11 +1265,11 @@
     "image/jp2"
    ],
    "number": [
-    "http://www.loc.gov/item/ihas.200199805",
-    "2014560487",
-    "http://www.loc.gov/item/2014560487",
     "http://www.loc.gov/resource/ihas.200199805.0",
-    "2023-10-12t14:42:59"
+    "2014560487",
+    "2023-10-12t14:42:59",
+    "http://www.loc.gov/item/2014560487",
+    "http://www.loc.gov/item/ihas.200199805"
    ],
    "online_format": [
     "image",
@@ -1279,23 +1279,23 @@
     "notated music"
    ],
    "partof": [
-    "world war i sheet music",
     "the library of congress celebrates the songs of america",
-    "music division",
-    "catalog"
+    "catalog",
+    "world war i sheet music",
+    "music division"
    ],
-   "score": 10.990313,
+   "score": 10.994119,
    "shelf_id": "https://repo.loc.gov/access/public/music/muswwism-200199805/.resource.json",
    "site": [
     "catalog"
    ],
    "subject": [
     "songs and music",
-    "world war",
-    "united kingdom",
     "flags",
     "united states",
-    "popular music"
+    "popular music",
+    "united kingdom",
+    "world war"
    ],
    "timestamp": "2025-06-08T11:09:06.964Z",
    "title": "Two flags that float together",
@@ -1348,9 +1348,9 @@
     "english"
    ],
    "location": [
-    "united states",
     "france",
-    "united kingdom"
+    "united kingdom",
+    "united states"
    ],
    "mime_type": [
     "image/jpeg",
@@ -1358,11 +1358,11 @@
     "image/jp2"
    ],
    "number": [
+    "2014560314",
+    "http://www.loc.gov/item/2014560314",
     "http://www.loc.gov/resource/ihas.200199918.0",
     "2023-10-12t14:43:06",
-    "http://www.loc.gov/item/2014560314",
-    "http://www.loc.gov/item/ihas.200199918",
-    "2014560314"
+    "http://www.loc.gov/item/ihas.200199918"
    ],
    "online_format": [
     "image",
@@ -1372,25 +1372,25 @@
     "notated music"
    ],
    "partof": [
-    "world war i sheet music",
     "the library of congress celebrates the songs of america",
-    "music division",
-    "catalog"
+    "catalog",
+    "world war i sheet music",
+    "music division"
    ],
-   "score": 10.990313,
+   "score": 10.994119,
    "shelf_id": "https://repo.loc.gov/access/public/music/muswwism-200199918/.resource.json",
    "site": [
     "catalog"
    ],
    "subject": [
     "songs and music",
-    "france",
     "allied and associated powers",
-    "world war",
-    "united kingdom",
     "flags",
     "united states",
-    "popular music"
+    "popular music",
+    "united kingdom",
+    "france",
+    "world war"
    ],
    "timestamp": "2025-06-08T11:10:29.282Z",
    "title": "When the three flags float as one",
@@ -1437,11 +1437,11 @@
     "english"
    ],
    "location": [
-    "richland county",
-    "columbia",
+    "richland",
     "united states",
     "south carolina",
-    "richland"
+    "richland county",
+    "columbia"
    ],
    "mime_type": [
     "image/jp2",
@@ -1450,8 +1450,8 @@
     "image/jpeg"
    ],
    "number": [
-    "1",
     "sn83025803",
+    "1",
     "00220720366"
    ],
    "numeric_shelf_id": 192301271,
@@ -1464,9 +1464,9 @@
     "newspaper"
    ],
    "partof": [
+    "chronicling america",
     "the southern indicator (columbia, s.c.) 1903-1925",
-    "serial and government publications division",
-    "chronicling america"
+    "serial and government publications division"
    ],
    "publication_frequency": [
     "weekly"
@@ -1477,16 +1477,16 @@
     "chroniclingamerica"
    ],
    "subject": [
-    "columbia (s.c.)",
-    "richland county",
-    "columbia",
-    "african american",
-    "richland",
-    "african americans",
-    "richland county (s.c.)",
     "newspapers",
+    "richland",
+    "richland county (s.c.)",
+    "united states",
     "south carolina",
-    "united states"
+    "richland county",
+    "african americans",
+    "african american",
+    "columbia",
+    "columbia (s.c.)"
    ],
    "timestamp": "2023-08-08T08:28:37.775Z",
    "title": "The Southern indicator (Columbia, S.C.), January 27, 1923",
@@ -1579,5 +1579,5 @@
    "url": "https://www.loc.gov/resource/jukebox-745857.1"
   }
  ],
- "timestamp": 1791373193765
+ "timestamp": 1791463428237
 }

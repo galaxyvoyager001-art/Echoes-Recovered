@@ -150,8 +150,8 @@
    "summary": "Band"
   },
   "location": [
-   "united kingdom",
-   "london"
+   "london",
+   "united kingdom"
   ],
   "locations": [
    {
@@ -224,7 +224,7 @@
    "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
   ],
   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
-  "score": 15.332891,
+  "score": 15.335276,
   "shard": "01",
   "shelf_id": "Columbia A1398",
   "site": [
@@ -232,9 +232,9 @@
   ],
   "source_modified": "2000-01-01T12:00:00Z",
   "subject": [
-   "columbia",
-   "popular music",
    "instrumental",
+   "popular music",
+   "columbia",
    "scottish"
   ],
   "subject_category": [
@@ -303,11 +303,11 @@
    ],
    "campaigns": [],
    "contributor": [
-    "wood, frederick w.",
-    "regt. band of h. m. scots guards",
+    "palace guards band",
     "banda municipal de milán [regt. band of h. m. scots guards]",
     "marquina, pascual",
-    "palace guards band"
+    "regt. band of h. m. scots guards",
+    "wood, frederick w."
    ],
    "date": "1911-12-31",
    "dates": [
@@ -332,8 +332,8 @@
    ],
    "index": 1,
    "location": [
-    "united kingdom",
-    "london"
+    "london",
+    "united kingdom"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -352,11 +352,11 @@
     "March"
    ],
    "partof": [
-    "department of special collections, davidson library, university of california, santa barbara",
     "recorded sound research center",
+    "department of special collections, davidson library, university of california, santa barbara",
     "national jukebox"
    ],
-   "score": 62.76841,
+   "score": 62.783978,
    "shelf_id": "Columbia A1398",
    "site": [
     "nationaljukebox"
@@ -383,10 +383,10 @@
    ],
    "campaigns": [],
    "contributor": [
-    "regt. band of h. m. scots guards",
     "columbia orchestra [regt. band of h. m. scots guards]",
-    "wood, frederick w.",
-    "german, edward"
+    "regt. band of h. m. scots guards",
+    "german, edward",
+    "wood, frederick w."
    ],
    "date": "1914-12-31",
    "dates": [
@@ -427,18 +427,18 @@
     "Henry Eighth suite"
    ],
    "partof": [
-    "department of special collections, davidson library, university of california, santa barbara",
     "recorded sound research center",
+    "department of special collections, davidson library, university of california, santa barbara",
     "national jukebox"
    ],
-   "score": 41.397236,
+   "score": 41.407883,
    "shelf_id": "Columbia A1619",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "columbia",
     "popular music",
+    "columbia",
     "instrumental"
    ],
    "timestamp": "2026-10-05T14:48:23.696Z",
@@ -459,8 +459,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "regt. band of h. m. scots guards",
     "columbia orchestra [regt. band of h. m. scots guards]",
+    "regt. band of h. m. scots guards",
     "wood, frederick w."
    ],
    "date": "1914-12-31",
@@ -499,11 +499,11 @@
     "sound recording"
    ],
    "partof": [
-    "department of special collections, davidson library, university of california, santa barbara",
     "recorded sound research center",
+    "department of special collections, davidson library, university of california, santa barbara",
     "national jukebox"
    ],
-   "score": 36.62832,
+   "score": 36.638184,
    "shelf_id": "Columbia A1674",
    "site": [
     "nationaljukebox"
@@ -530,8 +530,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "regt. band of h. m. scots guards",
     "columbia orchestra [regt. band of h. m. scots guards]",
+    "regt. band of h. m. scots guards",
     "wood, frederick w."
    ],
    "date": "1914-12-31",
@@ -570,11 +570,11 @@
     "sound recording"
    ],
    "partof": [
-    "department of special collections, davidson library, university of california, santa barbara",
     "recorded sound research center",
+    "department of special collections, davidson library, university of california, santa barbara",
     "national jukebox"
    ],
-   "score": 36.62832,
+   "score": 36.638184,
    "shelf_id": "Columbia A1674",
    "site": [
     "nationaljukebox"
@@ -601,10 +601,10 @@
    ],
    "campaigns": [],
    "contributor": [
-    "columbia band",
     "lincke, paul",
+    "regt. band of h. m. scots guards",
     "wood, frederick w.",
-    "regt. band of h. m. scots guards"
+    "columbia band"
    ],
    "date": "1914-12-31",
    "dates": [
@@ -642,11 +642,11 @@
     "sound recording"
    ],
    "partof": [
-    "department of special collections, davidson library, university of california, santa barbara",
     "recorded sound research center",
+    "department of special collections, davidson library, university of california, santa barbara",
     "national jukebox"
    ],
-   "score": 36.62832,
+   "score": 36.638184,
    "shelf_id": "Columbia A1657",
    "site": [
     "nationaljukebox"
@@ -673,10 +673,10 @@
    ],
    "campaigns": [],
    "contributor": [
-    "regt. band of h. m. scots guards",
     "columbia orchestra",
-    "wood, frederick w.",
-    "german, edward"
+    "regt. band of h. m. scots guards",
+    "german, edward",
+    "wood, frederick w."
    ],
    "date": "1914-12-31",
    "dates": [
@@ -717,11 +717,11 @@
     "Henry Eighth suite"
    ],
    "partof": [
-    "department of special collections, davidson library, university of california, santa barbara",
     "recorded sound research center",
+    "department of special collections, davidson library, university of california, santa barbara",
     "national jukebox"
    ],
-   "score": 36.62832,
+   "score": 36.638184,
    "shelf_id": "Columbia A1619",
    "site": [
     "nationaljukebox"
@@ -788,7 +788,7 @@
   "display_level": null,
   "distance": null,
   "downloadOption": null,
-  "duration": 0.4228246212005615,
+  "duration": 0.6807830333709717,
   "embed": [],
   "embed!": [],
   "error_response_status": null,
@@ -898,6 +898,7 @@
   ],
   "index": null,
   "inputEncoding": "UTF-8",
+  "is_partial": true,
   "item": null,
   "items": null,
   "keys": null,
@@ -947,7 +948,7 @@
   "suggested": null,
   "target": null,
   "template": "layouts/item/layout",
-  "timestamp": 1791373269.0782714,
+  "timestamp": 1791463434.861725,
   "tz_aware": null,
   "unionFacets": "",
   "webcast_permalink": null
@@ -1006,11 +1007,11 @@
     "image/jp2"
    ],
    "number": [
-    "http://www.loc.gov/item/ihas.200205690",
-    "2023-10-12t14:48:24",
     "http://www.loc.gov/resource/ihas.200205690.0",
+    "http://www.loc.gov/item/ihas.200205690",
+    "2014571373",
     "http://www.loc.gov/item/2014571373",
-    "2014571373"
+    "2023-10-12t14:48:24"
    ],
    "online_format": [
     "image",
@@ -1022,21 +1023,21 @@
    "partof": [
     "the library of congress celebrates the songs of america",
     "catalog",
-    "music division",
-    "world war i sheet music"
+    "world war i sheet music",
+    "music division"
    ],
-   "score": 10.990313,
+   "score": 10.994119,
    "shelf_id": "https://repo.loc.gov/access/public/music/muswwism-200205690/.resource.json",
    "site": [
     "catalog"
    ],
    "subject": [
     "songs and music",
-    "popular music",
     "flags",
-    "world war",
     "united states",
-    "united kingdom"
+    "popular music",
+    "united kingdom",
+    "world war"
    ],
    "timestamp": "2025-06-10T08:59:10.932Z",
    "title": "Rally, boys, rally marching song",
@@ -1089,8 +1090,8 @@
     "english"
    ],
    "location": [
-    "united kingdom",
     "france",
+    "united kingdom",
     "united states"
    ],
    "mime_type": [
@@ -1101,9 +1102,9 @@
    "number": [
     "http://www.loc.gov/resource/ihas.200205838.0",
     "http://www.loc.gov/item/2013560904",
-    "http://www.loc.gov/item/ihas.200205838",
+    "2023-10-05t09:45:07",
     "2013560904",
-    "2023-10-05t09:45:07"
+    "http://www.loc.gov/item/ihas.200205838"
    ],
    "online_format": [
     "image",
@@ -1115,23 +1116,23 @@
    "partof": [
     "the library of congress celebrates the songs of america",
     "catalog",
-    "music division",
-    "world war i sheet music"
+    "world war i sheet music",
+    "music division"
    ],
-   "score": 10.990313,
+   "score": 10.994119,
    "shelf_id": "https://repo.loc.gov/access/public/music/muswwism-200205838/.resource.json",
    "site": [
     "catalog"
    ],
    "subject": [
     "songs and music",
-    "popular music",
-    "flags",
     "allied and associated powers",
-    "france",
-    "world war",
+    "flags",
     "united states",
-    "united kingdom"
+    "popular music",
+    "united kingdom",
+    "france",
+    "world war"
    ],
    "timestamp": "2025-06-10T09:02:41.455Z",
    "title": "The flag's adieu",
@@ -1151,8 +1152,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "browne, raymond a.",
-    "beaumont, fred"
+    "beaumont, fred",
+    "browne, raymond a."
    ],
    "date": "1918",
    "dates": [
@@ -1209,22 +1210,22 @@
    "partof": [
     "the library of congress celebrates the songs of america",
     "catalog",
-    "music division",
-    "world war i sheet music"
+    "world war i sheet music",
+    "music division"
    ],
-   "score": 10.990313,
+   "score": 10.994119,
    "shelf_id": "https://repo.loc.gov/access/public/music/muswwism-200199874/.resource.json",
    "site": [
     "catalog"
    ],
    "subject": [
     "songs and music",
-    "popular music",
     "flags",
-    "world war",
     "united states",
+    "popular music",
+    "united kingdom",
     "song and music",
-    "united kingdom"
+    "world war"
    ],
    "timestamp": "2025-06-08T11:09:06.964Z",
    "title": "We're going back to the union Jack!",
@@ -1244,8 +1245,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "shellington, alice l.",
-    "browne, raymond a."
+    "browne, raymond a.",
+    "shellington, alice l."
    ],
    "date": "1917",
    "dates": [
@@ -1286,11 +1287,11 @@
     "image/jp2"
    ],
    "number": [
+    "http://www.loc.gov/resource/ihas.200199805.0",
     "2014560487",
     "2023-10-12t14:42:59",
-    "http://www.loc.gov/resource/ihas.200199805.0",
-    "http://www.loc.gov/item/ihas.200199805",
-    "http://www.loc.gov/item/2014560487"
+    "http://www.loc.gov/item/2014560487",
+    "http://www.loc.gov/item/ihas.200199805"
    ],
    "online_format": [
     "image",
@@ -1302,21 +1303,21 @@
    "partof": [
     "the library of congress celebrates the songs of america",
     "catalog",
-    "music division",
-    "world war i sheet music"
+    "world war i sheet music",
+    "music division"
    ],
-   "score": 10.990313,
+   "score": 10.994119,
    "shelf_id": "https://repo.loc.gov/access/public/music/muswwism-200199805/.resource.json",
    "site": [
     "catalog"
    ],
    "subject": [
     "songs and music",
-    "popular music",
     "flags",
-    "world war",
     "united states",
-    "united kingdom"
+    "popular music",
+    "united kingdom",
+    "world war"
    ],
    "timestamp": "2025-06-08T11:09:06.964Z",
    "title": "Two flags that float together",
@@ -1369,8 +1370,8 @@
     "english"
    ],
    "location": [
-    "united kingdom",
     "france",
+    "united kingdom",
     "united states"
    ],
    "mime_type": [
@@ -1379,11 +1380,11 @@
     "image/jp2"
    ],
    "number": [
-    "http://www.loc.gov/item/ihas.200199918",
-    "http://www.loc.gov/item/2014560314",
     "2014560314",
+    "http://www.loc.gov/item/2014560314",
+    "http://www.loc.gov/resource/ihas.200199918.0",
     "2023-10-12t14:43:06",
-    "http://www.loc.gov/resource/ihas.200199918.0"
+    "http://www.loc.gov/item/ihas.200199918"
    ],
    "online_format": [
     "image",
@@ -1395,23 +1396,23 @@
    "partof": [
     "the library of congress celebrates the songs of america",
     "catalog",
-    "music division",
-    "world war i sheet music"
+    "world war i sheet music",
+    "music division"
    ],
-   "score": 10.990313,
+   "score": 10.994119,
    "shelf_id": "https://repo.loc.gov/access/public/music/muswwism-200199918/.resource.json",
    "site": [
     "catalog"
    ],
    "subject": [
     "songs and music",
-    "popular music",
-    "flags",
     "allied and associated powers",
-    "france",
-    "world war",
+    "flags",
     "united states",
-    "united kingdom"
+    "popular music",
+    "united kingdom",
+    "france",
+    "world war"
    ],
    "timestamp": "2025-06-08T11:10:29.282Z",
    "title": "When the three flags float as one",
@@ -1465,9 +1466,9 @@
     0.77436
    ],
    "location": [
-    "great britain",
     "belgium",
-    "england"
+    "england",
+    "great britain"
    ],
    "location_str": "",
    "lonlat": [
@@ -1480,8 +1481,8 @@
     "image/tif"
    ],
    "number": [
-    "2003662918",
-    "2009-10-28t17:16:03"
+    "2009-10-28t17:16:03",
+    "2003662918"
    ],
    "online_format": [
     "image"
@@ -1490,30 +1491,30 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "posters: world war i posters",
+    "prints and photographs division",
     "catalog",
-    "prints & photographs online catalog (library of congress)",
-    "prints and photographs division"
+    "posters: world war i posters",
+    "prints & photographs online catalog (library of congress)"
    ],
-   "score": 9.098169,
+   "score": 9.097571,
    "shelf_id": "POS - WWI - Gt Brit, no. 12 (C size) [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "kilts",
-    "british",
-    "soldiers",
     "belgium",
-    "england",
-    "color",
+    "british",
     "war posters",
-    "world war",
+    "kilts",
     "lithographs",
     "scottish",
-    "recruiting & enlistment",
-    "great britain"
+    "color",
+    "soldiers",
+    "great britain",
+    "england",
+    "world war",
+    "recruiting & enlistment"
    ],
    "timestamp": "2022-03-30T13:57:35.767Z",
    "title": "Your king & country need you to maintain the honour and glory of the British Empire",
@@ -1603,5 +1604,5 @@
    "url": "https://www.loc.gov/resource/jukebox-745838.1"
   }
  ],
- "timestamp": 1791373269501
+ "timestamp": 1791463435542
 }

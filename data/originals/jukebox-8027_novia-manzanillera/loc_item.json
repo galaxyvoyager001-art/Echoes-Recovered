@@ -1,0 +1,1575 @@
+{
+ "articles_and_essays": null,
+ "cite_this": {
+  "apa": "Cuarteto Cruz. (1923) <cite>Novia Manzanillera</cite>. [Audio] Retrieved from the Library of Congress, https://www.loc.gov/item/jukebox-8027/.",
+  "chicago": "Cuarteto Cruz. <cite>Novia Manzanillera</cite>. 1923. Audio. https://www.loc.gov/item/jukebox-8027/.",
+  "mla": "Cuarteto Cruz. <cite>Novia Manzanillera</cite>. 1923. Audio. Retrieved from the Library of Congress, &lt;www.loc.gov/item/jukebox-8027/&gt;."
+ },
+ "item": {
+  "_version_": 1878221976861933568,
+  "access_restricted": false,
+  "aka": [
+   "http://www.loc.gov/item/jukebox-8027/",
+   "http://www.loc.gov/resource/jukebox-8027.0/",
+   "http://www.loc.gov/resource/jukebox-8027.1/",
+   "http://www.loc.gov/resource/jukebox-8027.0",
+   "http://www.loc.gov/resource/jukebox-8027.1"
+  ],
+  "audio_type": "Vocal",
+  "campaigns": [],
+  "contributor_names": [
+   "Cuarteto Cruz -- Vocal Group -- Vocal Group"
+  ],
+  "contributor_primary": [
+   "cuarteto cruz"
+  ],
+  "contributors": [
+   {
+    "cuarteto cruz": "https://www.loc.gov/search/?fa=contributor:cuarteto+cruz&fo=json"
+   }
+  ],
+  "contributors_primary": [
+   {
+    "cuarteto cruz": "https://www.loc.gov/collections/national-jukebox/?fa=contributor_primary:cuarteto+cruz&fo=json"
+   }
+  ],
+  "date": "1923-03-09",
+  "dates": [
+   {
+    "1923-03-09": "https://www.loc.gov/search/?dates=1923-03-09/1923-03-09&fo=json"
+   }
+  ],
+  "description": [
+   "Victor 77088. Matrix/Take: G-2937/2."
+  ],
+  "digitized": true,
+  "display_offsite": true,
+  "extract_timestamp": "2026-10-04T17:51:29.953Z",
+  "extract_urls": [
+   "http://www.loc.gov/item/jukebox-8027#nationaljukebox"
+  ],
+  "file_id": [
+   "jvm_victor_77088_01_g2937_02"
+  ],
+  "format": [
+   {
+    "sound recording": "https://www.loc.gov/search/?fa=original_format:sound+recording&fo=json"
+   }
+  ],
+  "genre": [
+   "Spanish (Cuba)"
+  ],
+  "group": [
+   "nationaljukebox",
+   "national-jukebox"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/item/jukebox-8027/",
+  "iiif_manifest_url": "https://www.loc.gov/item/jukebox-8027/manifest.json",
+  "image_url": [
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_77088_01_g2937_02:jvm_victor_77088_01_g2937_02/full/pct:12.5/0/default.jpg#h=257&w=253",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_77088_01_g2937_02:jvm_victor_77088_01_g2937_02/full/pct:25/0/default.jpg#h=514&w=506",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_77088_01_g2937_02:jvm_victor_77088_01_g2937_02/full/pct:50/0/default.jpg#h=1028&w=1013",
+   "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_77088_01_g2937_02:jvm_victor_77088_01_g2937_02/full/pct:100/0/default.jpg#h=2056&w=2026"
+  ],
+  "index": 1,
+  "item": {
+   "audio_type": "Vocal",
+   "contributors": [
+    "Cuarteto Cruz -- Vocal Group -- Vocal Group"
+   ],
+   "file_id": [
+    "jvm_victor_77088_01_g2937_02"
+   ],
+   "genre": [
+    "Spanish (Cuba)"
+   ],
+   "language": "Spanish",
+   "media_size": "10-in.",
+   "profile": "jukebox",
+   "recording_catalog_number": "77088",
+   "recording_date": "1923-03-09",
+   "recording_label": "Victor",
+   "recording_matrix_number": "G-2937 (Matrix ID)",
+   "recording_repository": "Source of original recording: Johnson Victrola Museum, Delaware.",
+   "recording_take_id": 8027,
+   "recording_take_number": "2",
+   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+   "summary": "Male vocal quartet, with guitar and orchestra"
+  },
+  "language": [
+   "spanish"
+  ],
+  "languages": [
+   {
+    "spanish": "https://www.loc.gov/search/?fa=language:spanish&fo=json"
+   }
+  ],
+  "location": [
+   "havana",
+   "cuba"
+  ],
+  "locations": [
+   {
+    "cuba": "https://www.loc.gov/search/?fa=location:cuba&fo=json"
+   },
+   {
+    "havana": "https://www.loc.gov/search/?fa=location:havana&fo=json"
+   }
+  ],
+  "media_size": "10-in.",
+  "mime_type": [
+   "audio/mpeg",
+   "audio/wav",
+   "image/tif",
+   "image/jpeg"
+  ],
+  "online_format": [
+   "audio",
+   "image"
+  ],
+  "original_format": [
+   "sound recording"
+  ],
+  "other_formats": [],
+  "other_title": [
+   "Son alegre"
+  ],
+  "partof": [
+   {
+    "count": 3495,
+    "title": "johnson victrola museum, delaware",
+    "url": "https://www.loc.gov/search/?fa=partof:johnson+victrola+museum,+delaware&fo=json"
+   },
+   {
+    "count": 20273,
+    "title": "national jukebox",
+    "url": "https://www.loc.gov/collections/national-jukebox/?fo=json"
+   },
+   {
+    "count": 20496,
+    "title": "recorded sound research center",
+    "url": "https://www.loc.gov/search/?fa=partof:recorded+sound+research+center&fo=json"
+   }
+  ],
+  "partof_repository": [
+   "johnson victrola museum, delaware"
+  ],
+  "profile": "jukebox",
+  "recording_catalog_number": "77088",
+  "recording_date": "1923-03-09",
+  "recording_label": "Victor",
+  "recording_matrix_number": "G-2937 (Matrix ID)",
+  "recording_repository": "Source of original recording: Johnson Victrola Museum, Delaware.",
+  "recording_take_id": 8027,
+  "recording_take_number": "2",
+  "resources": [
+   {
+    "files": 1,
+    "media": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_77088_01_g2937_02:jvm_victor_77088_01_g2937_02/full/full/0/full/default.mp3",
+    "url": "https://www.loc.gov/resource/jukebox-8027.0"
+   },
+   {
+    "files": 1,
+    "image": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_77088_01_g2937_02:jvm_victor_77088_01_g2937_02/full/pct:100/0/default.jpg",
+    "mimetype": "image/jpeg",
+    "url": "https://www.loc.gov/resource/jukebox-8027.1"
+   }
+  ],
+  "rights": [
+   "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
+  ],
+  "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
+  "score": 16.532057,
+  "shard": "01",
+  "shelf_id": "Victor 77088",
+  "site": [
+   "nationaljukebox"
+  ],
+  "source_modified": "2000-01-01T12:00:00Z",
+  "subject": [
+   "victor",
+   "vocal",
+   "spanish (cuba)"
+  ],
+  "subject_category": [
+   "vocal"
+  ],
+  "subject_label": [
+   "victor"
+  ],
+  "subject_target_audience": [
+   "spanish (cuba)"
+  ],
+  "subjects": [
+   {
+    "spanish (cuba)": "https://www.loc.gov/search/?fa=subject:spanish+%28cuba%29&fo=json"
+   },
+   {
+    "victor": "https://www.loc.gov/search/?fa=subject:victor&fo=json"
+   },
+   {
+    "vocal": "https://www.loc.gov/search/?fa=subject:vocal&fo=json"
+   }
+  ],
+  "subjects_category": [
+   {
+    "vocal": "https://www.loc.gov/collections/national-jukebox/?fa=subject_category:vocal&fo=json"
+   }
+  ],
+  "subjects_label": [
+   {
+    "victor": "https://www.loc.gov/collections/national-jukebox/?fa=subject_label:victor&fo=json"
+   }
+  ],
+  "subjects_target_audience": [
+   {
+    "spanish (cuba)": "https://www.loc.gov/collections/national-jukebox/?fa=subject_target_audience:spanish+%28cuba%29&fo=json"
+   }
+  ],
+  "summary": "Male vocal quartet, with guitar and orchestra",
+  "timestamp": "2026-10-05T14:54:19.754Z",
+  "title": "Novia manzanillera",
+  "type": [
+   "sound recording-musical"
+  ],
+  "url": "https://www.loc.gov/item/jukebox-8027/"
+ },
+ "more_like_this": [
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-8028/",
+    "http://www.loc.gov/resource/jukebox-8028.0/",
+    "http://www.loc.gov/resource/jukebox-8028.1/",
+    "http://www.loc.gov/resource/jukebox-8028.0",
+    "http://www.loc.gov/resource/jukebox-8028.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "cuarteto cruz"
+   ],
+   "date": "1923-03-09",
+   "dates": [
+    "1923-03-09"
+   ],
+   "description": [
+    "Victor 77089. Matrix/Take: G-2938/2."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-04T17:51:29.953Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-8028/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_77089_01_g2938_02:jvm_victor_77089_01_g2938_02/full/pct:12.5/0/default.jpg#h=244&w=241",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_77089_01_g2938_02:jvm_victor_77089_01_g2938_02/full/pct:25/0/default.jpg#h=489&w=482",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_77089_01_g2938_02:jvm_victor_77089_01_g2938_02/full/pct:50/0/default.jpg#h=979&w=965",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_77089_01_g2938_02:jvm_victor_77089_01_g2938_02/full/pct:100/0/default.jpg#h=1959&w=1930"
+   ],
+   "index": 1,
+   "language": [
+    "spanish"
+   ],
+   "location": [
+    "havana",
+    "cuba"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Son alegre"
+   ],
+   "partof": [
+    "johnson victrola museum, delaware",
+    "recorded sound research center",
+    "national jukebox"
+   ],
+   "score": 46.002182,
+   "shelf_id": "Victor 77089",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "victor",
+    "vocal",
+    "spanish (cuba)"
+   ],
+   "timestamp": "2026-10-05T14:54:19.754Z",
+   "title": "Arete con aré",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-8028/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-8041/",
+    "http://www.loc.gov/resource/jukebox-8041.0/",
+    "http://www.loc.gov/resource/jukebox-8041.1/",
+    "http://www.loc.gov/resource/jukebox-8041.0",
+    "http://www.loc.gov/resource/jukebox-8041.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "cuarteto cruz"
+   ],
+   "date": "1923-03-14",
+   "dates": [
+    "1923-03-14"
+   ],
+   "description": [
+    "Victor 77088. Matrix/Take: G-2951/1."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-04T17:51:29.953Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-8041/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_77088_01_g2951_01:jvm_victor_77088_01_g2951_01/full/pct:12.5/0/default.jpg#h=277&w=278",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_77088_01_g2951_01:jvm_victor_77088_01_g2951_01/full/pct:25/0/default.jpg#h=555&w=557",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_77088_01_g2951_01:jvm_victor_77088_01_g2951_01/full/pct:50/0/default.jpg#h=1110&w=1115",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_77088_01_g2951_01:jvm_victor_77088_01_g2951_01/full/pct:100/0/default.jpg#h=2221&w=2231"
+   ],
+   "index": 2,
+   "language": [
+    "spanish"
+   ],
+   "location": [
+    "havana",
+    "cuba"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Son alegre"
+   ],
+   "partof": [
+    "johnson victrola museum, delaware",
+    "recorded sound research center",
+    "national jukebox"
+   ],
+   "score": 46.002182,
+   "shelf_id": "Victor 77088",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "victor",
+    "vocal",
+    "spanish (cuba)"
+   ],
+   "timestamp": "2026-10-05T14:54:19.754Z",
+   "title": "Cuando llego a mi casa",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-8041/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-187599/",
+    "http://www.loc.gov/resource/jukebox-187599.0/",
+    "http://www.loc.gov/resource/jukebox-187599.1/",
+    "http://www.loc.gov/resource/jukebox-187599.0",
+    "http://www.loc.gov/resource/jukebox-187599.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "silveira, martín"
+   ],
+   "date": "1913-03-18",
+   "dates": [
+    "1913-03-18"
+   ],
+   "description": [
+    "Victor 65430. Matrix/Take: L-37/1."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T01:50:09.649Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-187599/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_65430_01_l37_01:jvm_victor_65430_01_l37_01/full/pct:12.5/0/default.jpg#h=304&w=302",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_65430_01_l37_01:jvm_victor_65430_01_l37_01/full/pct:25/0/default.jpg#h=609&w=604",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_65430_01_l37_01:jvm_victor_65430_01_l37_01/full/pct:50/0/default.jpg#h=1219&w=1209",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_65430_01_l37_01:jvm_victor_65430_01_l37_01/full/pct:100/0/default.jpg#h=2438&w=2418"
+   ],
+   "index": 3,
+   "language": [
+    "spanish"
+   ],
+   "location": [
+    "havana",
+    "cuba"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Parte I",
+    "Punto"
+   ],
+   "partof": [
+    "johnson victrola museum, delaware",
+    "recorded sound research center",
+    "national jukebox"
+   ],
+   "score": 36.632027,
+   "shelf_id": "Victor 65430",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "popular music",
+    "ethnic music",
+    "victor",
+    "vocal",
+    "spanish (cuba)"
+   ],
+   "timestamp": "2026-10-05T14:00:28.666Z",
+   "title": "A canalejas",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-187599/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-187600/",
+    "http://www.loc.gov/resource/jukebox-187600.0/",
+    "http://www.loc.gov/resource/jukebox-187600.1/",
+    "http://www.loc.gov/resource/jukebox-187600.0",
+    "http://www.loc.gov/resource/jukebox-187600.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "garay, sindo",
+    "garay, guarionex"
+   ],
+   "date": "1913-03-18",
+   "dates": [
+    "1913-03-18"
+   ],
+   "description": [
+    "Victor 65741. Matrix/Take: L-44/1."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T01:50:09.649Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-187600/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_65741_01_l44_01:jvm_victor_65741_01_l44_01/full/pct:12.5/0/default.jpg#h=320&w=321",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_65741_01_l44_01:jvm_victor_65741_01_l44_01/full/pct:25/0/default.jpg#h=641&w=642",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_65741_01_l44_01:jvm_victor_65741_01_l44_01/full/pct:50/0/default.jpg#h=1282&w=1284",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_65741_01_l44_01:jvm_victor_65741_01_l44_01/full/pct:100/0/default.jpg#h=2565&w=2568"
+   ],
+   "index": 4,
+   "language": [
+    "spanish"
+   ],
+   "location": [
+    "havana",
+    "cuba"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Rumba"
+   ],
+   "partof": [
+    "johnson victrola museum, delaware",
+    "recorded sound research center",
+    "national jukebox"
+   ],
+   "score": 36.632027,
+   "shelf_id": "Victor 65741",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "popular music",
+    "ethnic music",
+    "victor",
+    "vocal",
+    "spanish (cuba)"
+   ],
+   "timestamp": "2026-10-05T14:00:28.666Z",
+   "title": "Recuerdos de Oriente",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-187600/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-191483/",
+    "http://www.loc.gov/resource/jukebox-191483.0/",
+    "http://www.loc.gov/resource/jukebox-191483.1/",
+    "http://www.loc.gov/resource/jukebox-191483.0",
+    "http://www.loc.gov/resource/jukebox-191483.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "luna, manuel",
+    "matamoros, josé",
+    "castillo, josé"
+   ],
+   "date": "1916-10-17",
+   "dates": [
+    "1916-10-17"
+   ],
+   "description": [
+    "Victor 69865. Matrix/Take: G-1539/1."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T02:00:32.768Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-191483/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_69865_01_g1539_01:jvm_victor_69865_01_g1539_01/full/pct:12.5/0/default.jpg#h=305&w=302",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_69865_01_g1539_01:jvm_victor_69865_01_g1539_01/full/pct:25/0/default.jpg#h=611&w=604",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_69865_01_g1539_01:jvm_victor_69865_01_g1539_01/full/pct:50/0/default.jpg#h=1222&w=1208",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_69865_01_g1539_01:jvm_victor_69865_01_g1539_01/full/pct:100/0/default.jpg#h=2444&w=2416"
+   ],
+   "index": 5,
+   "language": [
+    "spanish"
+   ],
+   "location": [
+    "havana",
+    "cuba"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "other_title": [
+    "Rumba"
+   ],
+   "partof": [
+    "johnson victrola museum, delaware",
+    "recorded sound research center",
+    "national jukebox"
+   ],
+   "score": 36.632027,
+   "shelf_id": "Victor 69865",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "popular music",
+    "ethnic music",
+    "victor",
+    "vocal",
+    "spanish (cuba)"
+   ],
+   "timestamp": "2026-10-05T14:02:38.959Z",
+   "title": "La mujer majadera",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-191483/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/item/jukebox-191495/",
+    "http://www.loc.gov/resource/jukebox-191495.0/",
+    "http://www.loc.gov/resource/jukebox-191495.1/",
+    "http://www.loc.gov/resource/jukebox-191495.0",
+    "http://www.loc.gov/resource/jukebox-191495.1"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "zequeira, rafael",
+    "vera, maría teresa",
+    "maría teresa y zequeira",
+    "corona, josé"
+   ],
+   "date": "1916-10-18",
+   "dates": [
+    "1916-10-18"
+   ],
+   "description": [
+    "Victor 72007. Matrix/Take: G-1553/1."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2026-10-05T02:00:32.768Z",
+   "group": [
+    "nationaljukebox",
+    "national-jukebox"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/jukebox-191495/",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_72007_01_g1553_01:jvm_victor_72007_01_g1553_01/full/pct:12.5/0/default.jpg#h=265&w=264",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_72007_01_g1553_01:jvm_victor_72007_01_g1553_01/full/pct:25/0/default.jpg#h=531&w=529",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_72007_01_g1553_01:jvm_victor_72007_01_g1553_01/full/pct:50/0/default.jpg#h=1063&w=1059",
+    "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_72007_01_g1553_01:jvm_victor_72007_01_g1553_01/full/pct:100/0/default.jpg#h=2126&w=2119"
+   ],
+   "index": 6,
+   "language": [
+    "spanish"
+   ],
+   "location": [
+    "havana",
+    "cuba"
+   ],
+   "mime_type": [
+    "audio/mpeg",
+    "audio/wav",
+    "image/tif",
+    "image/jpeg"
+   ],
+   "online_format": [
+    "audio",
+    "image"
+   ],
+   "original_format": [
+    "sound recording"
+   ],
+   "partof": [
+    "johnson victrola museum, delaware",
+    "recorded sound research center",
+    "national jukebox"
+   ],
+   "score": 36.632027,
+   "shelf_id": "Victor 72007",
+   "site": [
+    "nationaljukebox"
+   ],
+   "subject": [
+    "popular music",
+    "ethnic music",
+    "victor",
+    "vocal",
+    "spanish (cuba)"
+   ],
+   "timestamp": "2026-10-05T14:02:38.959Z",
+   "title": "Potpourri de los vendedores",
+   "type": [
+    "sound recording-musical"
+   ],
+   "url": "https://www.loc.gov/item/jukebox-191495/"
+  }
+ ],
+ "notice": {
+  "info": "<strong>COLUMBUS DAY HOLIDAY:</strong> On Monday, October 12, 2026, The Jefferson Building Great Hall and exhibitions will be open from 10 a.m. - 5 p.m. to guests with timed-entry passes. The Main Reading Room will be open to visitors, no research or collections services available. All other reading rooms, the Madison and Adams Buildings will be CLOSED to the public. Regularly scheduled access resumes on Tuesday, October 13. \n",
+  "status": "production"
+ },
+ "options": {
+  "access_group": [
+   ""
+  ],
+  "access_group_raw": "",
+  "all": null,
+  "api_version": "1",
+  "app_context": null,
+  "application_shim": null,
+  "application_version": "$Revision$",
+  "attribute": null,
+  "attribute!": null,
+  "attribute_map": null,
+  "cache_tags": [
+   "nationaljukebox",
+   "national-jukebox",
+   "cph",
+   "catalog-split-12",
+   "catalog",
+   "miscellaneous-items-high-demand",
+   "main-catalog-split-12",
+   "main-catalog",
+   "det",
+   "detroit-publishing-company",
+   "pp_other",
+   "catalog-split-01",
+   "prints-and-photographs-other",
+   "main-catalog-split-01",
+   "catalog-split-02",
+   "main-catalog-split-02",
+   "catalog-split-03",
+   "main-catalog-split-03",
+   "catalog-split-04",
+   "main-catalog-split-04"
+  ],
+  "callback": null,
+  "clip": null,
+  "clip_image_width": null,
+  "clip_rotation": null,
+  "content_filter": null,
+  "content_replacement": "",
+  "count": null,
+  "dates": null,
+  "default_count": 25,
+  "delimiter": null,
+  "digital_id": null,
+  "display_level": null,
+  "distance": null,
+  "downloadOption": null,
+  "duration": 4.120294094085693,
+  "embed": [],
+  "embed!": [],
+  "error_response_status": null,
+  "excludeTerms": null,
+  "facetLimits": "",
+  "facetPrefix": null,
+  "facet_count": null,
+  "facet_style": null,
+  "field": null,
+  "form_facets": [
+   {
+    "field": "subject_label",
+    "select": "multiple"
+   },
+   {
+    "field": "subject_category",
+    "select": "multiple"
+   },
+   {
+    "field": "language",
+    "select": "multiple"
+   }
+  ],
+  "format": "json",
+  "host": "www.loc.gov",
+  "ical": false,
+  "id": "jukebox-8027/",
+  "iiif": false,
+  "include_facets": [
+   {
+    "field": "original-format"
+   },
+   {
+    "field": "partof_repository",
+    "label": "Repository"
+   },
+   {
+    "field": "subject_label",
+    "label": "Label"
+   },
+   {
+    "field": "dates"
+   },
+   {
+    "field": "subject_genre",
+    "label": "Genre"
+   },
+   {
+    "closed": true,
+    "field": "subject_target_audience",
+    "label": "Target Audience"
+   },
+   {
+    "closed": true,
+    "field": "subject_category",
+    "label": "Category"
+   },
+   {
+    "closed": true,
+    "field": "location"
+   },
+   {
+    "closed": true,
+    "field": "contributor"
+   },
+   {
+    "closed": true,
+    "field": "contributor_vocalist",
+    "label": "Vocalist"
+   },
+   {
+    "closed": true,
+    "field": "contributor_composer",
+    "label": "Composer"
+   },
+   {
+    "closed": true,
+    "field": "contributor_lyricist",
+    "label": "Lyricist"
+   },
+   {
+    "closed": true,
+    "field": "contributor_author",
+    "label": "Author"
+   },
+   {
+    "closed": true,
+    "field": "contributor_performer",
+    "label": "Performer"
+   },
+   {
+    "closed": true,
+    "field": "contributor_musical_group",
+    "label": "Musical Group"
+   },
+   {
+    "closed": true,
+    "field": "subject"
+   },
+   {
+    "closed": true,
+    "field": "language"
+   },
+   {
+    "field": "access-restricted"
+   }
+  ],
+  "index": null,
+  "inputEncoding": "UTF-8",
+  "is_partial": true,
+  "item": null,
+  "items": null,
+  "keys": null,
+  "language": null,
+  "latlong": null,
+  "method": "GET",
+  "newSearch": null,
+  "new_clip_url": false,
+  "onsite": false,
+  "operator": null,
+  "outputEncoding": "UTF-8",
+  "page_campaigns": [],
+  "path_info": "/item/jukebox-8027/",
+  "port": "443",
+  "proxypath": null,
+  "query_string": "fo=json",
+  "redirect_proxy": false,
+  "redirect_to_item": null,
+  "referer": "",
+  "region": "",
+  "release_id": 123456789,
+  "request_host": "www.loc.gov",
+  "request_params": {
+   "fo": [
+    "json"
+   ]
+  },
+  "request_url": "https://www.loc.gov/item/jukebox-8027/?fo=json",
+  "resource": "",
+  "resource_sequence": null,
+  "scheme": "https",
+  "searchIn": null,
+  "searchTerms": "",
+  "segments": null,
+  "shards": [
+   "01"
+  ],
+  "site_date_range": "1900-01-01/1925-12-31",
+  "site_defaults": [],
+  "site_id": null,
+  "site_type": null,
+  "solrQuery": "",
+  "sortBy": null,
+  "sortOrder": null,
+  "startPage": null,
+  "style": null,
+  "suggested": null,
+  "target": null,
+  "template": "layouts/item/layout",
+  "timestamp": 1791464086.4546373,
+  "tz_aware": null,
+  "unionFacets": "",
+  "webcast_permalink": null
+ },
+ "related_items": [
+  {
+   "access_restricted": false,
+   "aka": [
+    "https://www.loc.gov/pictures/item/2013645043/",
+    "http://www.loc.gov/item/2013645043/",
+    "http://www.loc.gov/pictures/item/2013645043/",
+    "https://www.loc.gov/pictures/collection/cph/item/2013645043/",
+    "http://www.loc.gov/pictures/collection/cph/item/2013645043/",
+    "http://www.loc.gov/resource/ds.02394/",
+    "https://hdl.loc.gov/loc.pnp/ds.02394",
+    "http://lccn.loc.gov/2013645043"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "switzer, c. c."
+   ],
+   "date": "1908-01-01",
+   "dates": [
+    "1908"
+   ],
+   "description": [
+    "1 photographic print (postcard) | Postcard shows group portrait of students and staff from Victor High School and lower grades assembled in front of building."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2021-08-24T20:11:34.937Z",
+   "group": [
+    "cph",
+    "catalog-split-12",
+    "catalog",
+    "miscellaneous-items-high-demand",
+    "main-catalog-split-12",
+    "main-catalog"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/2013645043/",
+   "image_url": [
+    "https://tile.loc.gov/storage-services/service/pnp/ds/02300/02394_150px.jpg#h=50&w=150",
+    "https://tile.loc.gov/storage-services/service/pnp/ds/02300/02394r.jpg#h=214&w=640",
+    "https://tile.loc.gov/storage-services/service/pnp/ds/02300/02394v.jpg#h=342&w=1024"
+   ],
+   "index": 1,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "victor",
+    "united states",
+    "iowa"
+   ],
+   "mime_type": [
+    "image/gif",
+    "image/jpg",
+    "image/tif"
+   ],
+   "number": [
+    "2013-04-03t08:58:59",
+    "http://www.loc.gov/item/17665053",
+    "2013645043"
+   ],
+   "online_format": [
+    "image"
+   ],
+   "original_format": [
+    "photo, print, drawing"
+   ],
+   "partof": [
+    "catalog",
+    "prints and photographs division",
+    "miscellaneous items in high demand",
+    "prints & photographs online catalog (library of congress)",
+    "lot 14058"
+   ],
+   "score": 9.75644,
+   "shelf_id": "LOT 14058, no. 123 [P&P]",
+   "site": [
+    "pictures",
+    "catalog"
+   ],
+   "subject": [
+    "victor",
+    "united states",
+    "photographic prints",
+    "photographic postcards",
+    "iowa",
+    "group portraits",
+    "schools",
+    "panoramic postcards",
+    "school children",
+    "victor (iowa)"
+   ],
+   "timestamp": "2022-05-02T06:13:36.448Z",
+   "title": "[Victor High School, Victor, Iowa]",
+   "url": "https://www.loc.gov/item/2013645043/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/pictures/collection/det/item/2016808865/",
+    "http://www.loc.gov/item/2016808865/",
+    "http://www.loc.gov/pictures/item/2016808865/",
+    "https://hdl.loc.gov/loc.pnp/det.4a09194",
+    "http://www.loc.gov/resource/det.4a09194/",
+    "http://lccn.loc.gov/2016808865"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "detroit publishing co.",
+    "jackson, william henry"
+   ],
+   "date": "1900-01-01",
+   "dates": [
+    "1900"
+   ],
+   "description": [
+    "1 negative : glass ; 8 x 10 in."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2021-09-01T22:30:01.644Z",
+   "group": [
+    "det",
+    "catalog-split-12",
+    "catalog",
+    "detroit-publishing-company",
+    "main-catalog-split-12",
+    "main-catalog"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/2016808865/",
+   "image_url": [
+    "https://tile.loc.gov/storage-services/service/pnp/det/4a00000/4a09000/4a09100/4a09194_150px.jpg#h=120&w=150",
+    "https://tile.loc.gov/storage-services/service/pnp/det/4a00000/4a09000/4a09100/4a09194t.gif#h=120&w=150",
+    "https://tile.loc.gov/storage-services/service/pnp/det/4a00000/4a09000/4a09100/4a09194r.jpg#h=511&w=640",
+    "https://tile.loc.gov/storage-services/service/pnp/det/4a00000/4a09000/4a09100/4a09194v.jpg#h=817&w=1024"
+   ],
+   "index": 2,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "colorado",
+    "victor",
+    "united states"
+   ],
+   "mime_type": [
+    "image/gif",
+    "image/jpg",
+    "image/tif"
+   ],
+   "number": [
+    "http://www.loc.gov/item/2016808865",
+    "http://www.loc.gov/item/20110612",
+    "http://www.loc.gov/item/det1994014825/pp",
+    "2016808865",
+    "2017-10-30t13:04:57"
+   ],
+   "online_format": [
+    "image"
+   ],
+   "original_format": [
+    "photo, print, drawing"
+   ],
+   "partof": [
+    "catalog",
+    "prints and photographs division",
+    "detroit publishing company",
+    "american memory",
+    "prints & photographs online catalog (library of congress)"
+   ],
+   "score": 9.75644,
+   "shelf_id": "LC-D4-13841 [P&P]",
+   "site": [
+    "pictures",
+    "catalog"
+   ],
+   "subject": [
+    "victor",
+    "united states",
+    "dry plate negatives",
+    "cityscape photographs",
+    "colorado",
+    "gold mining"
+   ],
+   "timestamp": "2022-04-25T08:19:00.040Z",
+   "title": "Victor, Colo., and the Gold Coin Mine",
+   "url": "https://www.loc.gov/item/2016808865/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "https://www.loc.gov/pictures/item/2024689882/",
+    "http://www.loc.gov/item/2024689882/",
+    "http://www.loc.gov/pictures/item/2024689882/",
+    "https://hdl.loc.gov/loc.pnp/pcrd.1d03519",
+    "https://hdl.loc.gov/loc.pnp/pcrd.1d03519",
+    "https://hdl.loc.gov/loc.pnp/pcrd.2d03519",
+    "https://hdl.loc.gov/loc.pnp/pcrd.2d03519",
+    "http://www.loc.gov/resource/pcrd.1d03519/",
+    "http://www.loc.gov/resource/pcrd.2d03519/",
+    "http://lccn.loc.gov/2024689882"
+   ],
+   "campaigns": [],
+   "date": "1910",
+   "dates": [
+    "1910"
+   ],
+   "description": [
+    "1 photograph : gelatin silver print ; sheet 9 x 14 cm (postcard format)"
+   ],
+   "digitized": true,
+   "extract_timestamp": "2024-03-02T14:28:03.271Z",
+   "group": [
+    "pp_other",
+    "catalog-split-01",
+    "catalog",
+    "prints-and-photographs-other",
+    "main-catalog-split-01"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/2024689882/",
+   "image_url": [
+    "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03519_150px.jpg#h=99&w=150",
+    "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03519r.jpg#h=422&w=640",
+    "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03519v.jpg#h=675&w=1024"
+   ],
+   "index": 3,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "montana",
+    "victor",
+    "united states"
+   ],
+   "mime_type": [
+    "image/gif",
+    "image/jpg",
+    "image/tif"
+   ],
+   "number": [
+    "sheet",
+    "2024-02-21t08:57:11",
+    "http://www.loc.gov/item/23570952",
+    "2024689882"
+   ],
+   "online_format": [
+    "image"
+   ],
+   "original_format": [
+    "photo, print, drawing"
+   ],
+   "partof": [
+    "prints and photographs division",
+    "catalog"
+   ],
+   "score": 9.75644,
+   "shelf_id": "PCRD 4 - Montana - Victor, no. 1 [P&P]",
+   "site": [
+    "pictures",
+    "catalog"
+   ],
+   "subject": [
+    "montana",
+    "victor",
+    "united states",
+    "streets",
+    "postcards",
+    "photographs"
+   ],
+   "timestamp": "2024-03-02T14:40:16.299Z",
+   "title": "Main Street, Victor, Montana",
+   "type": [
+    "still image"
+   ],
+   "url": "https://www.loc.gov/item/2024689882/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "https://www.loc.gov/pictures/item/2024689883/",
+    "http://www.loc.gov/item/2024689883/",
+    "http://www.loc.gov/pictures/item/2024689883/",
+    "https://hdl.loc.gov/loc.pnp/pcrd.1d03520",
+    "https://hdl.loc.gov/loc.pnp/pcrd.1d03520",
+    "https://hdl.loc.gov/loc.pnp/pcrd.2d03520",
+    "https://hdl.loc.gov/loc.pnp/pcrd.2d03520",
+    "http://www.loc.gov/resource/pcrd.1d03520/",
+    "http://www.loc.gov/resource/pcrd.2d03520/",
+    "http://lccn.loc.gov/2024689883"
+   ],
+   "campaigns": [],
+   "date": "1910",
+   "dates": [
+    "1910"
+   ],
+   "description": [
+    "1 photograph : gelatin silver print ; sheet 9 x 14 cm (postcard format)"
+   ],
+   "digitized": true,
+   "extract_timestamp": "2024-03-02T13:51:56.083Z",
+   "group": [
+    "pp_other",
+    "catalog-split-02",
+    "catalog",
+    "prints-and-photographs-other",
+    "main-catalog-split-02"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/2024689883/",
+   "image_url": [
+    "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03520_150px.jpg#h=98&w=150",
+    "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03520r.jpg#h=419&w=640",
+    "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03520v.jpg#h=670&w=1024"
+   ],
+   "index": 4,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "montana",
+    "victor",
+    "united states"
+   ],
+   "mime_type": [
+    "image/gif",
+    "image/jpg",
+    "image/tif"
+   ],
+   "number": [
+    "sheet",
+    "2024-02-21t08:57:12",
+    "http://www.loc.gov/item/23570953",
+    "2024689883"
+   ],
+   "online_format": [
+    "image"
+   ],
+   "original_format": [
+    "photo, print, drawing"
+   ],
+   "partof": [
+    "prints and photographs division",
+    "catalog"
+   ],
+   "score": 9.75644,
+   "shelf_id": "PCRD 4 - Montana - Victor, no. 2 [P&P]",
+   "site": [
+    "pictures",
+    "catalog"
+   ],
+   "subject": [
+    "montana",
+    "victor",
+    "united states",
+    "postcards",
+    "photographs"
+   ],
+   "timestamp": "2024-03-02T14:40:16.299Z",
+   "title": "The snow-capped peak of St. Mory's, Victor, Montana",
+   "type": [
+    "still image"
+   ],
+   "url": "https://www.loc.gov/item/2024689883/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "https://www.loc.gov/pictures/item/2024689884/",
+    "http://www.loc.gov/item/2024689884/",
+    "http://www.loc.gov/pictures/item/2024689884/",
+    "https://hdl.loc.gov/loc.pnp/pcrd.1d03521",
+    "https://hdl.loc.gov/loc.pnp/pcrd.1d03521",
+    "https://hdl.loc.gov/loc.pnp/pcrd.2d03521",
+    "https://hdl.loc.gov/loc.pnp/pcrd.2d03521",
+    "http://www.loc.gov/resource/pcrd.1d03521/",
+    "http://www.loc.gov/resource/pcrd.2d03521/",
+    "http://lccn.loc.gov/2024689884"
+   ],
+   "campaigns": [],
+   "date": "1910",
+   "dates": [
+    "1910"
+   ],
+   "description": [
+    "1 photograph : gelatin silver print ; sheet 9 x 14 cm (postcard format)"
+   ],
+   "digitized": true,
+   "extract_timestamp": "2024-03-02T14:28:03.271Z",
+   "group": [
+    "pp_other",
+    "catalog-split-03",
+    "catalog",
+    "prints-and-photographs-other",
+    "main-catalog-split-03"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/2024689884/",
+   "image_url": [
+    "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03521_150px.jpg#h=98&w=150",
+    "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03521r.jpg#h=419&w=640",
+    "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03521v.jpg#h=670&w=1024"
+   ],
+   "index": 5,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "montana",
+    "victor",
+    "united states"
+   ],
+   "mime_type": [
+    "image/gif",
+    "image/jpg",
+    "image/tif"
+   ],
+   "number": [
+    "sheet",
+    "2024-02-21t08:57:12",
+    "2024689884",
+    "http://www.loc.gov/item/23570954"
+   ],
+   "online_format": [
+    "image"
+   ],
+   "original_format": [
+    "photo, print, drawing"
+   ],
+   "partof": [
+    "prints and photographs division",
+    "catalog"
+   ],
+   "score": 9.75644,
+   "shelf_id": "PCRD 4 - Montana - Victor, no. 3 [P&P]",
+   "site": [
+    "pictures",
+    "catalog"
+   ],
+   "subject": [
+    "montana",
+    "victor",
+    "united states",
+    "postcards",
+    "houses",
+    "photographs"
+   ],
+   "timestamp": "2024-03-02T14:40:16.299Z",
+   "title": "A Bitter Root home, Victor, Montana",
+   "type": [
+    "still image"
+   ],
+   "url": "https://www.loc.gov/item/2024689884/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "https://www.loc.gov/pictures/item/2024689885/",
+    "http://www.loc.gov/item/2024689885/",
+    "http://www.loc.gov/pictures/item/2024689885/",
+    "https://hdl.loc.gov/loc.pnp/pcrd.1d03522",
+    "https://hdl.loc.gov/loc.pnp/pcrd.1d03522",
+    "https://hdl.loc.gov/loc.pnp/pcrd.2d03522",
+    "https://hdl.loc.gov/loc.pnp/pcrd.2d03522",
+    "http://www.loc.gov/resource/pcrd.1d03522/",
+    "http://www.loc.gov/resource/pcrd.2d03522/",
+    "http://lccn.loc.gov/2024689885"
+   ],
+   "campaigns": [],
+   "date": "1910",
+   "dates": [
+    "1910"
+   ],
+   "description": [
+    "1 photograph : gelatin silver print ; sheet 9 x 14 cm (postcard format)"
+   ],
+   "digitized": true,
+   "extract_timestamp": "2024-03-02T14:28:03.271Z",
+   "group": [
+    "pp_other",
+    "catalog-split-04",
+    "catalog",
+    "prints-and-photographs-other",
+    "main-catalog-split-04"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/2024689885/",
+   "image_url": [
+    "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03522_150px.jpg#h=99&w=150",
+    "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03522r.jpg#h=421&w=640",
+    "https://tile.loc.gov/storage-services/service/pnp/pcrd/1d00000/1d03000/1d03500/1d03522v.jpg#h=673&w=1024"
+   ],
+   "index": 6,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "montana",
+    "victor",
+    "united states"
+   ],
+   "mime_type": [
+    "image/gif",
+    "image/jpg",
+    "image/tif"
+   ],
+   "number": [
+    "sheet",
+    "http://www.loc.gov/item/23570955",
+    "2024-02-21t08:57:13",
+    "2024689885"
+   ],
+   "online_format": [
+    "image"
+   ],
+   "original_format": [
+    "photo, print, drawing"
+   ],
+   "partof": [
+    "prints and photographs division",
+    "catalog"
+   ],
+   "score": 9.75644,
+   "shelf_id": "PCRD 4 - Montana - Victor, no. 4 [P&P]",
+   "site": [
+    "pictures",
+    "catalog"
+   ],
+   "subject": [
+    "montana",
+    "victor",
+    "united states",
+    "postcards",
+    "schools",
+    "photographs"
+   ],
+   "timestamp": "2024-03-02T14:40:16.299Z",
+   "title": "School house, Victor, Mont.",
+   "type": [
+    "still image"
+   ],
+   "url": "https://www.loc.gov/item/2024689885/"
+  }
+ ],
+ "resources": [
+  {
+   "audio": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_77088_01_g2937_02:jvm_victor_77088_01_g2937_02/full/full/0/full/default.mp3",
+   "files": [
+    [
+     {
+      "aspectRation": "4:3",
+      "autoPlay": false,
+      "canDownload": true,
+      "derivatives": [
+       {
+        "derivativeUrl": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/jvm_victor_77088_01_g2937_02/jvm_victor_77088_01_g2937_02.mp3"
+       }
+      ],
+      "detailUrl": "https://www.loc.gov/item/jukebox-8027",
+      "download": "https://tile.loc.gov/streaming-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_77088_01_g2937_02:jvm_victor_77088_01_g2937_02/full/full/0/full/default.mp3",
+      "duration": 198.0,
+      "filename": "https://tile.loc.gov/storage-services/service/mbrsrs/mbrsjukebox/jvm_victor_77088_01_g2937_02/jvm_victor_77088_01_g2937_02.mp3",
+      "mediaType": "A",
+      "metadata": [
+       "Novia manzanillera",
+       "Male vocal quartet, with guitar and orchestra"
+      ],
+      "mimetype": "audio/mpeg",
+      "poster": null,
+      "rights_restricted": true,
+      "shortName": "Novia manzanillera",
+      "thumbnail_url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_77088_01_g2937_02:jvm_victor_77088_01_g2937_02/full/pct:12.5/0/default.jpg"
+     },
+     {
+      "height": null,
+      "levels": 1,
+      "mimetype": "audio/wav",
+      "size": 34993272,
+      "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/jvm_victor_77088_01_g2937_02/jvm_victor_77088_01_g2937_02.wav",
+      "width": null
+     }
+    ]
+   ],
+   "url": "https://www.loc.gov/resource/jukebox-8027.0"
+  },
+  {
+   "files": [
+    [
+     {
+      "height": 257,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_77088_01_g2937_02:jvm_victor_77088_01_g2937_02/full/pct:12.5/0/default.jpg",
+      "width": 253
+     },
+     {
+      "height": 514,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_77088_01_g2937_02:jvm_victor_77088_01_g2937_02/full/pct:25/0/default.jpg",
+      "width": 506
+     },
+     {
+      "height": 1028,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_77088_01_g2937_02:jvm_victor_77088_01_g2937_02/full/pct:50/0/default.jpg",
+      "width": 1013
+     },
+     {
+      "height": 2056,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_77088_01_g2937_02:jvm_victor_77088_01_g2937_02/full/pct:100/0/default.jpg",
+      "width": 2026
+     },
+     {
+      "height": null,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 16665076,
+      "url": "https://tile.loc.gov/storage-services/master/mbrsrs/mbrsjukebox/jvm_victor_77088_01_g2937_02/jvm_victor_77088_01_g2937_02.tif",
+      "width": null
+     }
+    ]
+   ],
+   "image": "https://tile.loc.gov/image-services/iiif/service:mbrsrs:mbrsjukebox:jvm_victor_77088_01_g2937_02:jvm_victor_77088_01_g2937_02/full/pct:100/0/default.jpg",
+   "mimetype": "image/jpeg",
+   "url": "https://www.loc.gov/resource/jukebox-8027.1"
+  }
+ ],
+ "timestamp": 1791464090575
+}

@@ -121,8 +121,8 @@
    }
   ],
   "location": [
-   "milan",
-   "italy"
+   "italy",
+   "milan"
   ],
   "locations": [
    {
@@ -196,7 +196,7 @@
    "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
   ],
   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
-  "score": 15.333351,
+  "score": 15.335276,
   "shard": "01",
   "shelf_id": "Columbia 10198",
   "site": [
@@ -280,8 +280,8 @@
     "italian"
    ],
    "location": [
-    "milan",
-    "italy"
+    "italy",
+    "milan"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -303,11 +303,11 @@
     "The flowers that you lightly gave me"
    ],
    "partof": [
+    "recorded sound research center",
     "department of special collections, davidson library, university of california, santa barbara",
-    "national jukebox",
-    "recorded sound research center"
+    "national jukebox"
    ],
-   "score": 34.958363,
+   "score": 34.96602,
    "shelf_id": "Columbia A1391",
    "site": [
     "nationaljukebox"
@@ -334,8 +334,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "bizet, georges",
-    "frascani, nini"
+    "frascani, nini",
+    "bizet, georges"
    ],
    "date": "1914-12-31",
    "dates": [
@@ -363,8 +363,8 @@
     "italian"
    ],
    "location": [
-    "milan",
-    "italy"
+    "italy",
+    "milan"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -384,20 +384,20 @@
     "Carmen"
    ],
    "partof": [
+    "recorded sound research center",
     "department of special collections, davidson library, university of california, santa barbara",
-    "national jukebox",
-    "recorded sound research center"
+    "national jukebox"
    ],
-   "score": 34.958363,
+   "score": 34.96602,
    "shelf_id": "Columbia A1634",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
     "classical music",
-    "opera",
     "vocal",
-    "columbia"
+    "columbia",
+    "opera"
    ],
    "timestamp": "2026-10-05T14:48:23.696Z",
    "title": "Presso il bastion di Siviglia",
@@ -417,8 +417,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "bizet, georges",
-    "frascani, nini"
+    "frascani, nini",
+    "bizet, georges"
    ],
    "date": "1914-12-31",
    "dates": [
@@ -446,8 +446,8 @@
     "italian"
    ],
    "location": [
-    "milan",
-    "italy"
+    "italy",
+    "milan"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -467,11 +467,11 @@
     "Card scene"
    ],
    "partof": [
+    "recorded sound research center",
     "department of special collections, davidson library, university of california, santa barbara",
-    "national jukebox",
-    "recorded sound research center"
+    "national jukebox"
    ],
-   "score": 34.958363,
+   "score": 34.96602,
    "shelf_id": "Columbia A1634",
    "site": [
     "nationaljukebox"
@@ -499,9 +499,9 @@
    ],
    "campaigns": [],
    "contributor": [
+    "hampe, franz",
     "bizet, georges",
     "sabajno, carlo",
-    "hampe, franz",
     "lavin de casas, bianca"
    ],
    "date": "1904-12-31",
@@ -528,8 +528,8 @@
     "italian"
    ],
    "location": [
-    "milan",
-    "italy"
+    "italy",
+    "milan"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -549,20 +549,20 @@
     "Card scene"
    ],
    "partof": [
+    "recorded sound research center",
     "department of special collections, davidson library, university of california, santa barbara",
-    "national jukebox",
-    "recorded sound research center"
+    "national jukebox"
    ],
-   "score": 30.052177,
+   "score": 30.059208,
    "shelf_id": "Victor 62617",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "italian",
+    "victor",
     "vocal",
     "opera",
-    "victor"
+    "italian"
    ],
    "timestamp": "2026-10-05T14:11:49.826Z",
    "title": "Scena delle carte",
@@ -611,8 +611,8 @@
     "italian"
    ],
    "location": [
-    "milan",
-    "italy"
+    "italy",
+    "milan"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -634,11 +634,11 @@
     "Cavalleria rusticana. Viva il vino spumeggiante"
    ],
    "partof": [
+    "recorded sound research center",
     "department of special collections, davidson library, university of california, santa barbara",
-    "national jukebox",
-    "recorded sound research center"
+    "national jukebox"
    ],
-   "score": 28.597338,
+   "score": 28.60244,
    "shelf_id": "Columbia A1064",
    "site": [
     "nationaljukebox"
@@ -694,8 +694,8 @@
     "italian"
    ],
    "location": [
-    "milan",
-    "italy"
+    "italy",
+    "milan"
    ],
    "mime_type": [
     "audio/mpeg",
@@ -716,11 +716,11 @@
     "Cavalleria rusticana. O Lola"
    ],
    "partof": [
+    "recorded sound research center",
     "department of special collections, davidson library, university of california, santa barbara",
-    "national jukebox",
-    "recorded sound research center"
+    "national jukebox"
    ],
-   "score": 28.597338,
+   "score": 28.60244,
    "shelf_id": "Columbia A1064",
    "site": [
     "nationaljukebox"
@@ -792,7 +792,7 @@
   "display_level": null,
   "distance": null,
   "downloadOption": null,
-  "duration": 1.3581633567810059,
+  "duration": 0.3437626361846924,
   "embed": [],
   "embed!": [],
   "error_response_status": null,
@@ -951,7 +951,7 @@
   "suggested": null,
   "target": null,
   "template": "layouts/item/layout",
-  "timestamp": 1791375120.8118193,
+  "timestamp": 1791463414.257548,
   "tz_aware": null,
   "unionFacets": "",
   "webcast_permalink": null
@@ -995,11 +995,11 @@
     "english"
    ],
    "location": [
-    "richland county",
-    "columbia",
+    "richland",
     "united states",
     "south carolina",
-    "richland"
+    "richland county",
+    "columbia"
    ],
    "mime_type": [
     "image/jp2",
@@ -1008,8 +1008,8 @@
     "image/jpeg"
    ],
    "number": [
-    "1",
     "sn83025803",
+    "1",
     "00220720366"
    ],
    "numeric_shelf_id": 192301271,
@@ -1022,9 +1022,9 @@
     "newspaper"
    ],
    "partof": [
+    "chronicling america",
     "the southern indicator (columbia, s.c.) 1903-1925",
-    "serial and government publications division",
-    "chronicling america"
+    "serial and government publications division"
    ],
    "publication_frequency": [
     "weekly"
@@ -1035,16 +1035,16 @@
     "chroniclingamerica"
    ],
    "subject": [
-    "columbia (s.c.)",
-    "richland county",
-    "columbia",
-    "african american",
-    "richland",
-    "african americans",
-    "richland county (s.c.)",
     "newspapers",
+    "richland",
+    "richland county (s.c.)",
+    "united states",
     "south carolina",
-    "united states"
+    "richland county",
+    "african americans",
+    "african american",
+    "columbia",
+    "columbia (s.c.)"
    ],
    "timestamp": "2023-08-08T08:28:37.775Z",
    "title": "The Southern indicator (Columbia, S.C.), January 27, 1923",
@@ -1090,11 +1090,11 @@
     "english"
    ],
    "location": [
-    "richland county",
-    "columbia",
+    "richland",
     "united states",
     "south carolina",
-    "richland"
+    "richland county",
+    "columbia"
    ],
    "mime_type": [
     "image/jp2",
@@ -1103,8 +1103,8 @@
     "image/jpeg"
    ],
    "number": [
-    "1",
     "sn83025803",
+    "1",
     "00220720366"
    ],
    "numeric_shelf_id": 192302031,
@@ -1117,9 +1117,9 @@
     "newspaper"
    ],
    "partof": [
+    "chronicling america",
     "the southern indicator (columbia, s.c.) 1903-1925",
-    "serial and government publications division",
-    "chronicling america"
+    "serial and government publications division"
    ],
    "publication_frequency": [
     "weekly"
@@ -1130,16 +1130,16 @@
     "chroniclingamerica"
    ],
    "subject": [
-    "columbia (s.c.)",
-    "richland county",
-    "columbia",
-    "african american",
-    "richland",
-    "african americans",
-    "richland county (s.c.)",
     "newspapers",
+    "richland",
+    "richland county (s.c.)",
+    "united states",
     "south carolina",
-    "united states"
+    "richland county",
+    "african americans",
+    "african american",
+    "columbia",
+    "columbia (s.c.)"
    ],
    "timestamp": "2023-08-08T08:28:37.775Z",
    "title": "The Southern indicator (Columbia, S.C.), February 3, 1923",
@@ -1190,9 +1190,9 @@
     "latin"
    ],
    "location": [
-    "milan",
+    "italy",
     "lombardy",
-    "italy"
+    "milan"
    ],
    "mime_type": [
     "application/zip",
@@ -1201,8 +1201,8 @@
     "image/jp2"
    ],
    "number": [
-    "2021668085",
-    "2021-06-01t15:58:56"
+    "2021-06-01t15:58:56",
+    "2021668085"
    ],
    "online_format": [
     "compressed data",
@@ -1218,25 +1218,25 @@
    "partof": [
     "world digital library",
     "catalog",
-    "bavarian state library",
-    "world digital library - partner items"
+    "world digital library - partner items",
+    "bavarian state library"
    ],
-   "score": 7.891544,
+   "score": 7.892254,
    "shelf_id": "http://lccn.loc.gov/2021668085",
    "site": [
     "catalog"
    ],
    "subject": [
-    "psalms",
-    "illuminations",
-    "875 to 899",
-    "milan",
-    "lombardy",
-    "italy",
+    "bible. old testament",
     "prayers",
-    "psalters",
     "hymns",
-    "bible. old testament"
+    "psalters",
+    "875 to 899",
+    "illuminations",
+    "psalms",
+    "milan",
+    "italy",
+    "lombardy"
    ],
    "timestamp": "2022-09-11T21:41:36.618Z",
    "title": "Bobbio Psalter.",
@@ -1286,17 +1286,17 @@
     "italian"
    ],
    "location": [
-    "milan",
-    "italy"
+    "italy",
+    "milan"
    ],
    "mime_type": [
     "image/gif",
     "application/pdf"
    ],
    "number": [
-    "2026-03-27t20:53:24.400000",
     "2020718028",
-    "online resource"
+    "online resource",
+    "2026-03-27t20:53:24.400000"
    ],
    "online_format": [
     "image",
@@ -1306,26 +1306,26 @@
     "book"
    ],
    "partof": [
-    "general collections",
     "open access books",
-    "catalog"
+    "catalog",
+    "general collections"
    ],
-   "score": 7.891544,
+   "score": 7.892254,
    "shelf_id": "DG657.73.F55",
    "site": [
     "catalog"
    ],
    "subject": [
+    "duke of milan",
     "history",
+    "conference papers and proceedings",
+    "church history",
+    "congresses",
+    "milan (italy)",
     "politics and government",
     "italy",
     "to 1535",
-    "church history",
-    "congresses",
-    "conference papers and proceedings",
-    "duke of milan",
-    "filippo maria visconti",
-    "milan (italy)"
+    "filippo maria visconti"
    ],
    "timestamp": "2026-04-06T16:22:08.762Z",
    "title": "Il ducato di Filippo Maria Visconti, 1412-1447 : economia, politica, cultura",
@@ -1380,9 +1380,9 @@
     "english"
    ],
    "location": [
-    "fort jackson",
     "south carolina",
-    "columbia"
+    "columbia",
+    "fort jackson"
    ],
    "mime_type": [
     "image/gif",
@@ -1391,8 +1391,8 @@
    ],
    "number": [
     "2015645179",
-    "sheet",
     "2023-02-07t07:37:07",
+    "sheet",
     "http://www.loc.gov/item/18567475"
    ],
    "online_format": [
@@ -1402,26 +1402,26 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "prints & photographs online catalog (library of congress)",
-    "miscellaneous items in high demand",
     "prints and photographs division",
-    "catalog"
+    "catalog",
+    "prints & photographs online catalog (library of congress)",
+    "miscellaneous items in high demand"
    ],
-   "score": 7.499112,
+   "score": 7.49848,
    "shelf_id": "LC-U9-17428 -25A [P&P]",
    "site": [
     "pictures",
     "catalog"
    ],
    "subject": [
-    "columbia",
     "vietnam war",
     "hairdressing",
-    "draft (military service)",
-    "film negatives",
-    "military personnel",
     "south carolina",
-    "fort jackson (s.c.)"
+    "draft (military service)",
+    "military personnel",
+    "fort jackson (s.c.)",
+    "film negatives",
+    "columbia"
    ],
    "timestamp": "2023-03-14T15:47:58.134Z",
    "title": "[New U.S. Army draft recruit getting his hair cut by a barber]",
@@ -1474,10 +1474,10 @@
     "english"
    ],
    "location": [
-    "united states",
-    "boone county",
     "missouri",
-    "columbia"
+    "boone county",
+    "columbia",
+    "united states"
    ],
    "mime_type": [
     "image/gif",
@@ -1485,11 +1485,11 @@
     "image/tif"
    ],
    "number": [
-    "http://www.loc.gov/item/2017779473",
-    "2017-08-16t11:45:13",
-    "2017779473",
+    "http://www.loc.gov/item/19902866",
     "http://www.loc.gov/item/fsa2000010614/pp",
-    "http://www.loc.gov/item/19902866"
+    "2017-08-16t11:45:13",
+    "http://www.loc.gov/item/2017779473",
+    "2017779473"
    ],
    "online_format": [
     "image"
@@ -1498,14 +1498,14 @@
     "photo, print, drawing"
    ],
    "partof": [
-    "american memory",
     "prints & photographs online catalog (library of congress)",
-    "prints and photographs division",
+    "american memory",
     "lot 1212",
     "farm security administration/office of war information black-and-white negatives",
+    "prints and photographs division",
     "catalog"
    ],
-   "score": 7.499112,
+   "score": 7.49848,
    "shelf_id": "LC-USF34- 029215-D [P&P] LOT 1212A (corresponding photographic print)",
    "site": [
     "pictures",
@@ -1514,9 +1514,9 @@
    "subject": [
     "safety film negatives",
     "missouri",
-    "columbia",
     "united states",
-    "boone county"
+    "boone county",
+    "columbia"
    ],
    "timestamp": "2022-04-25T19:18:18.314Z",
    "title": "Baking bread. Columbia, Missouri",
@@ -1606,5 +1606,5 @@
    "url": "https://www.loc.gov/resource/jukebox-772838.1"
   }
  ],
- "timestamp": 1791375122170
+ "timestamp": 1791463414601
 }

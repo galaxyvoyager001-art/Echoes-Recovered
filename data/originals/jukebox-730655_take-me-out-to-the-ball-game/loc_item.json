@@ -1,7 +1,7 @@
 {
  "articles_and_essays": [
   {
-   "score": 7.627967,
+   "score": 7.6324253,
    "title": "Finding 250 Years of American Innovation in The Source",
    "url": "https://blogs.loc.gov/families/2026/07/finding-250-years-of-american-innovation-in-the-source/"
   }
@@ -211,7 +211,7 @@
    "<p>The Library makes the sound recordings in the National Jukebox available pursuant to permission from the rightsholders. Under the Music Modernization Act, many of these recordings will begin entering into the public domain on January 1, 2022, when all recordings published prior to 1923 will enter the public domain and will be free to use and reuse. Recordings published between 1923 and 1946 are then protected for 100 years, and recordings published between 1947 and 1956 are protected for 110 years.  In addition, some of the items in the Jukebox, such as the Victrola Book of the Opera, are currently in the public domain and free to use and reuse. Disc labels that are more than 95 years old are now in the public domain and are free to use and reuse. The Library presents more recent disc labels with permission or under fair use.</p>\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law.  You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\n<p>Credit Line: Library of Congress, National Jukebox.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\n"
   ],
   "rights_advisory": "Inclusion of the recording in the National Jukebox, courtesy of Sony Music Entertainment or EMI Music",
-  "score": 15.332874,
+  "score": 15.335243,
   "shard": "01",
   "shelf_id": "Columbia 3917",
   "site": [
@@ -219,8 +219,8 @@
   ],
   "source_modified": "2000-01-01T12:00:00Z",
   "subject": [
-   "columbia",
-   "vocal"
+   "vocal",
+   "columbia"
   ],
   "subject_category": [
    "vocal"
@@ -267,8 +267,8 @@
    "campaigns": [],
    "contributor": [
     "von tilzer, albert",
-    "jones, ada",
-    "norworth, jack"
+    "norworth, jack",
+    "jones, ada"
    ],
    "date": "1911-09-30",
    "dates": [
@@ -313,19 +313,19 @@
     "sound recording"
    ],
    "partof": [
-    "national jukebox",
     "recorded sound research center",
-    "department of special collections, davidson library, university of california, santa barbara"
+    "department of special collections, davidson library, university of california, santa barbara",
+    "national jukebox"
    ],
-   "score": 36.816814,
+   "score": 36.827824,
    "shelf_id": "Columbia A1101",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
     "popular music",
-    "columbia",
-    "vocal"
+    "vocal",
+    "columbia"
    ],
    "timestamp": "2026-10-05T14:26:30.107Z",
    "title": "You will have to sing an Irish song",
@@ -345,8 +345,8 @@
    ],
    "campaigns": [],
    "contributor": [
-    "von tilzer, albert",
     "regal male quartette [columbia male quartette]",
+    "von tilzer, albert",
     "norworth, jack"
    ],
    "date": "1907-07-31",
@@ -392,18 +392,18 @@
     "sound recording"
    ],
    "partof": [
-    "national jukebox",
     "recorded sound research center",
-    "department of special collections, davidson library, university of california, santa barbara"
+    "department of special collections, davidson library, university of california, santa barbara",
+    "national jukebox"
    ],
-   "score": 36.816814,
+   "score": 36.827824,
    "shelf_id": "Columbia 3669",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "columbia",
-    "vocal"
+    "vocal",
+    "columbia"
    ],
    "timestamp": "2026-10-05T14:47:04.644Z",
    "title": "Honey boy",
@@ -425,8 +425,8 @@
    "campaigns": [],
    "contributor": [
     "von tilzer, albert",
-    "bayes, nora",
-    "norworth, jack"
+    "norworth, jack",
+    "bayes, nora"
    ],
    "date": "1910-05-20",
    "dates": [
@@ -469,20 +469,20 @@
     "sound recording"
    ],
    "partof": [
-    "national jukebox",
     "recorded sound research center",
-    "department of special collections, davidson library, university of california, santa barbara"
+    "department of special collections, davidson library, university of california, santa barbara",
+    "national jukebox"
    ],
-   "score": 31.910332,
+   "score": 31.921019,
    "shelf_id": "Victor 70019",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "ethnic characterizations",
-    "popular music",
     "victor",
-    "vocal"
+    "popular music",
+    "vocal",
+    "ethnic characterizations"
    ],
    "timestamp": "2026-10-05T14:08:54.108Z",
    "title": "Rosa Rosetta",
@@ -502,9 +502,9 @@
    ],
    "campaigns": [],
    "contributor": [
-    "ross, adrian",
     "lehár, franz",
-    "hindermyer, harvey"
+    "hindermyer, harvey",
+    "ross, adrian"
    ],
    "date": "1908-01-31",
    "dates": [
@@ -553,18 +553,18 @@
     "The merry widow"
    ],
    "partof": [
-    "national jukebox",
     "recorded sound research center",
-    "department of special collections, davidson library, university of california, santa barbara"
+    "department of special collections, davidson library, university of california, santa barbara",
+    "national jukebox"
    ],
-   "score": 30.890812,
+   "score": 30.899345,
    "shelf_id": "Columbia 3761",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "columbia",
-    "vocal"
+    "vocal",
+    "columbia"
    ],
    "timestamp": "2026-10-05T14:47:04.644Z",
    "title": "Maxims",
@@ -634,18 +634,18 @@
     "The land where nobody goes home"
    ],
    "partof": [
-    "national jukebox",
     "recorded sound research center",
-    "department of special collections, davidson library, university of california, santa barbara"
+    "department of special collections, davidson library, university of california, santa barbara",
+    "national jukebox"
    ],
-   "score": 30.890812,
+   "score": 30.899345,
    "shelf_id": "Columbia 3900",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
-    "columbia",
-    "vocal"
+    "vocal",
+    "columbia"
    ],
    "timestamp": "2026-10-05T14:52:23.498Z",
    "title": "Come to the land of Bohemia",
@@ -665,10 +665,10 @@
    ],
    "campaigns": [],
    "contributor": [
-    "helf, j. fred",
-    "roden, robert f.",
     "cahalin, william",
-    "hindermyer, harvey"
+    "hindermyer, harvey",
+    "roden, robert f.",
+    "helf, j. fred"
    ],
    "date": "1910-12-31",
    "dates": [
@@ -713,19 +713,19 @@
     "sound recording"
    ],
    "partof": [
-    "national jukebox",
     "recorded sound research center",
-    "department of special collections, davidson library, university of california, santa barbara"
+    "department of special collections, davidson library, university of california, santa barbara",
+    "national jukebox"
    ],
-   "score": 30.890812,
+   "score": 30.899345,
    "shelf_id": "Columbia A952",
    "site": [
     "nationaljukebox"
    ],
    "subject": [
     "popular music",
-    "columbia",
-    "vocal"
+    "vocal",
+    "columbia"
    ],
    "timestamp": "2026-10-05T14:47:27.106Z",
    "title": "When a boy from old New Hampshire loves a girl from Tennessee",
@@ -782,7 +782,7 @@
   "display_level": null,
   "distance": null,
   "downloadOption": null,
-  "duration": 4.3191752433776855,
+  "duration": 4.4721150398254395,
   "embed": [],
   "embed!": [],
   "error_response_status": null,
@@ -941,7 +941,7 @@
   "suggested": null,
   "target": null,
   "template": "layouts/item/layout",
-  "timestamp": 1791372899.2455716,
+  "timestamp": 1791463078.316584,
   "tz_aware": null,
   "unionFacets": "",
   "webcast_permalink": null
@@ -958,10 +958,10 @@
    ],
    "campaigns": [],
    "contributor": [
-    "beeson, lulu",
     "von tilzer, albert",
+    "norworth, jack",
     "friganza, trixie",
-    "norworth, jack"
+    "beeson, lulu"
    ],
    "date": "1908",
    "dates": [
@@ -1001,11 +1001,11 @@
     "image/jp2"
    ],
    "number": [
-    "http://www.loc.gov/item/musbaseball.100107",
-    "http://www.loc.gov/item/2005561767",
     "2005561767",
-    "http://www.loc.gov/resource/musbaseball.100107.0",
-    "2023-10-17t14:04:50"
+    "http://www.loc.gov/item/2005561767",
+    "http://www.loc.gov/item/musbaseball.100107",
+    "2023-10-17t14:04:50",
+    "http://www.loc.gov/resource/musbaseball.100107.0"
    ],
    "online_format": [
     "image",
@@ -1015,20 +1015,20 @@
     "notated music"
    ],
    "partof": [
-    "music division",
     "baseball sheet music",
-    "catalog"
+    "catalog",
+    "music division"
    ],
-   "score": 13.285622,
+   "score": 13.299785,
    "shelf_id": "https://repo.loc.gov/access/public/music/musbaseball-100107/.resource.json",
    "site": [
     "catalog"
    ],
    "subject": [
     "popular music",
-    "united states",
     "baseball",
-    "songs and music"
+    "songs and music",
+    "united states"
    ],
    "timestamp": "2025-06-26T08:36:49.927Z",
    "title": "Take me out to the ball game",
@@ -1083,9 +1083,9 @@
    ],
    "number": [
     "http://www.loc.gov/item/ihas.200033481",
+    "2023796112",
     "sheet",
     "http://www.loc.gov/item/2023796112",
-    "2023796112",
     "2023-10-31t13:54:51"
    ],
    "online_format": [
@@ -1097,11 +1097,11 @@
    ],
    "partof": [
     "the library of congress celebrates the songs of america",
-    "music division",
     "baseball sheet music",
-    "catalog"
+    "catalog",
+    "music division"
    ],
-   "score": 12.717075,
+   "score": 12.72987,
    "shelf_id": "https://repo.loc.gov/access/public/music/musihas-200033481/.resource.json",
    "site": [
     "catalog"
@@ -1158,12 +1158,12 @@
     "image/jp2"
    ],
    "number": [
-    "http://www.loc.gov/resource/ihas.100009610.0",
+    "2023-11-30t12:03:36",
     "http://www.loc.gov/item/ihas.100009610",
-    "http://www.loc.gov/item/2023795523",
     "sheet",
-    "2023795523",
-    "2023-11-30t12:03:36"
+    "http://www.loc.gov/resource/ihas.100009610.0",
+    "http://www.loc.gov/item/2023795523",
+    "2023795523"
    ],
    "online_format": [
     "image",
@@ -1174,11 +1174,11 @@
    ],
    "partof": [
     "the library of congress celebrates the songs of america",
+    "catalog",
     "music division",
-    "historic sheet music collection, 1800-1922",
-    "catalog"
+    "historic sheet music collection, 1800-1922"
    ],
-   "score": 12.717075,
+   "score": 12.72987,
    "shelf_id": "https://repo.loc.gov/access/public/music/musihas-100009610/.resource.json",
    "site": [
     "catalog"
@@ -1235,11 +1235,11 @@
     "image/jp2"
    ],
    "number": [
-    "2023795500",
     "http://www.loc.gov/item/2023795500",
     "http://www.loc.gov/item/ihas.100009586",
     "http://www.loc.gov/resource/ihas.100009586.0",
     "sheet",
+    "2023795500",
     "2023-11-30t12:03:26"
    ],
    "online_format": [
@@ -1251,11 +1251,11 @@
    ],
    "partof": [
     "the library of congress celebrates the songs of america",
+    "catalog",
     "music division",
-    "historic sheet music collection, 1800-1922",
-    "catalog"
+    "historic sheet music collection, 1800-1922"
    ],
-   "score": 12.717075,
+   "score": 12.72987,
    "shelf_id": "https://repo.loc.gov/access/public/music/musihas-100009586/.resource.json",
    "site": [
     "catalog"
@@ -1312,12 +1312,12 @@
     "image/jp2"
    ],
    "number": [
+    "http://www.loc.gov/resource/ihas.100009588.0",
     "http://www.loc.gov/item/ihas.100009588",
     "sheet",
-    "http://www.loc.gov/item/2023795501",
     "2023795501",
     "2023-11-30t12:03:26",
-    "http://www.loc.gov/resource/ihas.100009588.0"
+    "http://www.loc.gov/item/2023795501"
    ],
    "online_format": [
     "image",
@@ -1328,11 +1328,11 @@
    ],
    "partof": [
     "the library of congress celebrates the songs of america",
+    "catalog",
     "music division",
-    "historic sheet music collection, 1800-1922",
-    "catalog"
+    "historic sheet music collection, 1800-1922"
    ],
-   "score": 12.717075,
+   "score": 12.72987,
    "shelf_id": "https://repo.loc.gov/access/public/music/musihas-100009588/.resource.json",
    "site": [
     "catalog"
@@ -1389,12 +1389,12 @@
     "image/jp2"
    ],
    "number": [
-    "http://www.loc.gov/item/ihas.100009591",
-    "2023795504",
+    "2023-11-30t12:03:27",
     "http://www.loc.gov/resource/ihas.100009591.0",
-    "http://www.loc.gov/item/2023795504",
     "sheet",
-    "2023-11-30t12:03:27"
+    "http://www.loc.gov/item/ihas.100009591",
+    "http://www.loc.gov/item/2023795504",
+    "2023795504"
    ],
    "online_format": [
     "image",
@@ -1405,11 +1405,11 @@
    ],
    "partof": [
     "the library of congress celebrates the songs of america",
+    "catalog",
     "music division",
-    "historic sheet music collection, 1800-1922",
-    "catalog"
+    "historic sheet music collection, 1800-1922"
    ],
-   "score": 12.717075,
+   "score": 12.72987,
    "shelf_id": "https://repo.loc.gov/access/public/music/musihas-100009591/.resource.json",
    "site": [
     "catalog"
@@ -1505,5 +1505,5 @@
    "url": "https://www.loc.gov/resource/jukebox-730655.1"
   }
  ],
- "timestamp": 1791372903565
+ "timestamp": 1791463082789
 }
